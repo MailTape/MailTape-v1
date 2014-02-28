@@ -1,0 +1,131 @@
+{% include head.html %} {% include fb_sdk.html %} {% include topbar.html %}
+
+<div id="bigHeader" class="stretchMe" data-stretch="{{ page.guest_pic }}">
+    <header id="colorFilter" class="{{ page.guest_color }}">
+        <div id="playButton" class="{{ page.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
+
+        <div class="container">
+
+            <div id="bigTitle">{{ page.guest_name }}</div>
+        </div>
+
+    </header>
+</div>
+
+<div id="musiColorSeparator" class="{{ page.guest_color }}">
+    <h2 id="underBigTitle">SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.episode_number }}</h2>
+</div>
+
+<div class="container main">
+
+    <div class="col-md-12" id="player">
+
+        <ul class="playlist">
+
+            <li id="firstTrack" class="track1 {{ page.track1_color }}">
+                <h1 class="tractTitle" id="track1_title_player">track1</h1>
+                <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '1']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track2 {{ page.track2_color }}">
+                <h1 class="tractTitle" id="track2_title_player">track2</h1>
+                <a type="audio/mp3" id="track2_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '2']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track3 {{ page.track3_color }}">
+                <h1 class="tractTitle" id="track3_title_player">track3</h1>
+                <a type="audio/mp3" id="track3_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '3']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track4 {{ page.track4_color }}">
+                <h1 class="tractTitle" id="track4_title_player">track4</h1>
+                <a type="audio/mp3" id="track4_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '4']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track5 {{ page.track5_color }}">
+                <h1 class="tractTitle" id="track5_title_player">track5</h1>
+                <a type="audio/mp3" id="track5_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '5']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track6 {{ page.track6_color }}">
+                <h1 class="tractTitle" id="track6_title_player">track6</h1>
+                <a type="audio/mp3" id="track6_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '6']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+            <li class="track7 {{ page.track7_color }}">
+                <h1 class="tractTitle" id="track7_title_player">track7</h1>
+                <a type="audio/mp3" id="track7_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '7']);">
+                    <span class="icon-control"></span>
+                </a>
+            </li>
+
+        </ul>
+
+    </div>
+
+    <div class="row">
+
+        <div class="col-md-8">
+
+            <article>
+
+                <p style="font-style:italic" id="introduction">
+                    {{page.intro}}
+                </p>
+
+                <h1>{{ page.guest_story_headline }}</h1>
+                <p>{{ page.guest_story_content }}</p>
+
+                <h1>{{ page.guest_explanation_headline }}</h1>
+                <h2 id="track1_title_featured">track1</h2>
+                <p><b>"</b>{{ page.guest_explanation_track1 }}<b>"</b>
+                </p>
+                <h2 id="track2_title_featured">track2</h2>
+                <p><b>"</b>{{ page.guest_explanation_track2 }}<b>"</b>
+                </p>
+                <h2 id="track3_title_featured">track3</h2>
+                <p><b>"</b>{{ page.guest_explanation_track3 }}<b>"</b>
+                </p>
+
+                <p id="outroduction"><i>{{ page.outro }}</i>
+                    <p style="font-style:italic" id="signature">{{page.author}}.</p>
+
+            </article>
+
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
+            <script>
+            ! function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0],
+                    p = /^http:/.test(d.location) ? 'http' : 'https';
+                if (!d.getElementById(id)) {
+                    js = d.createElement(s);
+                    js.id = id;
+                    js.src = p + '://platform.twitter.com/widgets.js';
+                    fjs.parentNode.insertBefore(js, fjs);
+                }
+            }(document, 'script', 'twitter-wjs');
+            </script>
+            <br>
+            <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
+
+            <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="500"></div>
+
+        </div>
+
+        {% include sidebar.html %}
+
+    </div>
+
+    <div class="archives" id="archives">
+    </div>
+
+</div>
+
+{% include footer.html %}
+

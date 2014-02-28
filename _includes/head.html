@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>{{ page.title }}</title>
+
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ page.episode_URL }}" />
+    <meta property="og:image" content="{{ page.episode_FB_Pic }}}" />
+    <meta property="og:description" content="{{ page.description }}" />
+    <meta property="fb:admins" content="maximeguedj,ludovic.coutant" />
+    <meta property="fb:app_id" content="185828848128617" />
+
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="{{ site.baseurl }}/assets/stylesheets/bootstrap.min.css" rel="stylesheet" media="screen">
+
+    <script type="text/javascript" src="//use.typekit.net/raj7qig.js"></script>
+    <script type="text/javascript">
+    try {
+        Typekit.load();
+    } catch (e) {}
+    </script>
+
+    <script src="//connect.soundcloud.com/sdk.js"></script>
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../..{{ site.baseurl }}/assets{{ site.baseurl }}/assets/javascripts/html5shiv.js"></script>
+      <script type="text/javascript"></script>t src="../..{{ site.baseurl }}/assets{{ site.baseurl }}/assets/javascripts/respond.min.js"></script>
+      <![endif]-->
+
+    <link href="{{ site.baseurl }}/assets/stylesheets/mailtape.css" rel="stylesheet" media="screen">
+
+    <!-- Page player core CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/stylesheets/page-player.css" />
+
+
+    <!-- soundManager.useFlashBlock: related CSS -->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/assets/stylesheets/flashblock.css" />
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <!-- soundManager API -->
+     <script src="{{ site.baseurl }}/assets/javascripts/soundmanager2-jsmin.js"></script>
+
+    <script>
+    soundManager.setup({
+        flashVersion: 9,
+        preferFlash: true, // for visualization effects
+        useHighPerformance: true, // keep flash on screen, boost performance
+        wmode: 'transparent', // transparent SWF, if possible
+        url: '/swf/'
+    });
+
+    // custom page player configuration
+
+    var PP_CONFIG = {
+        autoStart: false, // begin playing first sound when page loads
+        playNext: true, // stop after one sound, or play through list until end
+        useThrottling: false, // try to rate-limit potentially-expensive calls (eg. dragging position around)</span>
+        usePeakData: false, // [Flash 9 only] whether or not to show peak data (left/right channel values) - nor noticable on CPU
+        useWaveformData: false, // [Flash 9 only] show raw waveform data - WARNING: LIKELY VERY CPU-HEAVY
+        useEQData: false, // [Flash 9 only] show EQ (frequency spectrum) data
+        useFavIcon: false, // try to apply peakData to address bar (Firefox + Opera) - performance note: appears to make Firefox 3 do some temporary, heavy disk access/swapping/garbage collection at first(?) - may be too heavy on CPU
+        allowRightClick: false, // let users right-click MP3 links ("save as...", etc.) or discourage (can't prevent.)
+        updatePageTitle: false
+    }
+    </script>
+
+    <!-- dynamically-resized background image to any page or block level element. -->
+    <script type="text/javascript" src="{{ site.baseurl }}/assets/javascripts/jquery.anystretch.min.js"></script>
+    
+    
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+   <script src="{{ site.baseurl }}/assets/javascripts/bootstrap.min.js"></script>
+
+   <script src="{{ site.baseurl }}/assets/javascripts/jquery.fittext.js"></script>
+
+   <script src="{{ site.baseurl }}/assets/javascripts/jquery.fittext.v.js"></script>
+
+   <script src="{{ site.baseurl }}/assets/javascripts/flowtype.js"></script>
+
+    <!-- Pour écrire Musicolor en couleur -->
+   <script src="{{ site.baseurl }}/assets/javascripts/jquery.lettering-0.6.1.min.js"></script>
+
+   <script src="{{ site.baseurl }}/assets/javascripts/mailtapeT.js"></script>
+
+
+    <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-11613573-3']);
+    _gaq.push(['_setDomainName', 'mailta.pe']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+        var ga = document.createElement('script');
+        ga.type = 'text/javascript';
+        ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(ga, s);
+    })();
+    </script>
+
+    <!-- Page player main script -->
+    <script src="{{ site.baseurl }}/assets/javascripts/page-player.js"></script>
+
+    <!-- déclaration des url des tracks de la playlist -->
+    <script>
+
+    var tracksURL = [
+        "{{ page.track1_link }}",
+        "{{ page.track2_link }}",
+        "{{ page.track3_link }}",
+        "{{ page.track4_link }}",
+        "{{ page.track5_link }}",
+        "{{ page.track6_link }}",
+        "{{ page.track7_link }}",
+    ]
+
+    var tracksTitle = [
+        "{{ page.track1_title }}",
+        "{{ page.track2_title }}",
+        "{{ page.track3_title }}",
+        "{{ page.track4_title }}",
+        "{{ page.track5_title }}",
+        "{{ page.track6_title }}",
+        "{{ page.track7_title }}",
+    ]
+
+    </script>
+
+</head>
+
+<body>
+
+    <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a> IN ORDER TO DISPLAY WELL MAILTAPE.</noscript>

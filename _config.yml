@@ -1,0 +1,75 @@
+name: MailTape
+markdown: redcarpet
+pygments: true
+permalink: /:categories/:title/
+timezone: Europe/Paris
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://MailTape.github.io/'
+  # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'img'
+  metadata:
+    _posts:
+      - name: "category"
+        field:
+          element: "number"
+          label: "numero episode"
+          value: "130"
+          type: "number"
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "episode"
+      # - name: "author"
+      #   field:
+      #     element: "multiselect"
+      #     label: "Who are you dude ?"
+      #     placeholder: "Choose your name"
+      #     options:
+      #       - name: "Dimitri"
+      #         value: "dimitri"
+      #       - name: "Julien"
+      #         value: "julien"
+      #       - name: "ImaCrea"
+      #         value: "imacrea"
+      #       - name: "Ludovic"
+      #         value: "ludovic"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          options:
+            - name: "Apples"
+              value: "apples"
+            - name: "Bananas"
+              value: "bananas"
+            - name: "Pears"
+              value: "pears"
+            - name: "Mangos"
+              value: "mangos"
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""

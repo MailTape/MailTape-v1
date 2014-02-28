@@ -1,0 +1,41 @@
+
+<!-- affichage du grand titre -->
+<script type="text/javascript">    
+    $('#bigTitle').flowtype({
+        minimum   : 100,
+        maximum   : 1110,
+        minFont   : 12,
+        maxFont   : 250,
+        fontRatio : {{ page.bigTitle_font_ratio }} , // A modifier au cas par cas ! -- Règle la largeur du titre
+        lineRatio : {{ page.bigTitle_line_ratio }} // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+        });
+</script>
+
+<div class="footer">
+    <img src="/img/Logo_Mailtape_long.png" style="width:12em" />
+    <br>
+    <a data-toggle="modal" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'SubscribeLow']);">SUBSCRIBE</a>&nbsp;|&nbsp;
+    <a data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'LoveLow']);">LOVE</a>&nbsp;|&nbsp;
+    <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton">ARCHIVES</a>
+    <!-- Eviter d'afficher le bouton archive dans le cas où JS non activé puisque fonctionne pas dans ce cas -->
+    <noscript>
+        <style>
+        #archivesButton {
+            display:none;
+        }
+        </style>
+    </noscript>&nbsp;|&nbsp;
+    <a data-toggle="modal" href="#aboutModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'AboutLow']);">ABOUT</a>
+    <br>© 2011-2013 MailTape, all rights reserved. | <a href="http://twitter.com/MailTape" target="_blank">Twitter</a> | <a href="http://facebook.com/MailTape" target="_blank">Facebook</a>
+    <br>Created by <a href="http://twitter.com/imacrea" target="_blank">ImaCrea</a> from Toulouse, France.
+    <br>
+    <img src="/img/powered_by_sc.png" style="width:8em" />
+    <br>
+    <br>
+
+</div>
+
+</div>
+</body>
+
+</html>
