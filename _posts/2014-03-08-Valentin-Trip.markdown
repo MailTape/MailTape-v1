@@ -36,6 +36,7 @@ track7_link: "https://soundcloud.com/gluetrip/la-edad-del-futuro"
 track7_title: "Glue Trip - La Edad Del Futuro"
 track7_color: vibrant
 published: true
+guest_pic: /img/Leonard_Bernstein_by_Jack_Mitchell.jpg
 ---
 
 <p id="introduction">
