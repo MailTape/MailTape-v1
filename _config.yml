@@ -3,8 +3,12 @@ markdown: kramdown
 pygments: true
 permalink: /:categories/:title/
 timezone: Europe/Paris
+
+## kramdown config to force interpretation into html block
 kramdown:
   parse_block_html: true
+
+## prose.io config
 prose:
   rooturl: '_posts'
   siteurl: 'http://MailTape.github.io/'
@@ -18,6 +22,12 @@ prose:
           label: "numero episode"
           value: "130"
           type: "number"
+      - name: "guest_pic"
+        field:
+          element: "text"
+          label: "image de l'invité"
+          value: "img/...jpg"
+          type: "text"
       - name: "layout"
         field:
           element: "hidden"

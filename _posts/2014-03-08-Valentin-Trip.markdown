@@ -10,7 +10,6 @@ episode_URL: "http://mailta.pe/129-Valentin-Stip.html"
 episode_FB_Pic: "http://mailta.pe/img/fbPics/129.jpg"
 musicolor: /img/musicolors/129.png
 guest_name: Valentin Stip
-guest_pic: /img/guestPics/129_Valentin_Stip.jpg
 guest_color: dreamy
 bigTitle_font_ratio: 6
 bigTitle_line_ratio: 1
