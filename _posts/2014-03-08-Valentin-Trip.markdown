@@ -31,6 +31,8 @@ track7_color: vibrant
 published: true
 guest_pic: /img/Leonard_Bernstein_by_Jack_Mitchell.jpg
 author: dimitri
+bigTitle_font_ratio: 6
+bigTitle_line_ratio: 1
 ---
 
 <p id="introduction">
