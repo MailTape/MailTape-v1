@@ -1,7 +1,6 @@
 ---
 layout: episode
 title: Valentin Trip
-date: {}
 author: ImaCrea
 category: 131
 episode_number: 131
