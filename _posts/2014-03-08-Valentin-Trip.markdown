@@ -39,7 +39,7 @@ track7_color: vibrant
 published: true
 ---
 
-<p id="introduction">
+![](/img/Leonard_Bernstein_by_Jack_Mitchell.jpg)<p id="introduction">
 This morning, welcome on Dream Airlines. Our captain, [Valentin Stip](https://www.facebook.com/pages/Valentin-Stip/121985284555099), will take us off to glowing masses of condensed sound vapor floating in the sky. Classical music and vibrant sunrays blend together over the sea of clouds, close your eyes and let the wave bring you till the edge of the atmosphere.
 
 We’ll get back on earth progressively to finally land in the middle of the Amazon rainforest where a tribe of brazilian shamans tripping on glue are waiting for us.
