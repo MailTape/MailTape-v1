@@ -5,6 +5,9 @@ $(document).ready(
 	$("#underBigTitle").fitTextV(2.5);
 	$(".stretchMe").anystretch();
 
+	// permet de faire pointer tous les liens dans un nouvel onglet
+	$('a').attr('target','_blank');
+
 	$('#playButton').flowtype({
 	 minimum   : 679,
 	 maximum   : 1110,
