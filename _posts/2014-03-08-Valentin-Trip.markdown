@@ -1,11 +1,6 @@
 ---
 layout: episode
-title: Valentin Trip
-author: 
-  - dimitri
-  - ImaCrea
 category: 131
-episode_number: 131
 episode_URL: "http://mailta.pe/129-Valentin-Stip.html"
 episode_FB_Pic: "http://mailta.pe/img/fbPics/129.jpg"
 musicolor: /img/musicolors/129.png
