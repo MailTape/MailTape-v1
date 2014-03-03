@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: dimitri
 guest_color: rough
 bigTitle_font_ratio: 6
