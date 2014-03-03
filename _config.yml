@@ -118,7 +118,7 @@ prose:
           type: "text"
       - name: "track1_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -146,7 +146,7 @@ prose:
           type: "text"
       - name: "track2_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -174,7 +174,7 @@ prose:
           type: "text"
       - name: "track3_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -202,7 +202,7 @@ prose:
           type: "text"
       - name: "track4_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -230,7 +230,7 @@ prose:
           type: "text"
       - name: "track5_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -258,7 +258,7 @@ prose:
           type: "text"
       - name: "track6_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
@@ -286,7 +286,7 @@ prose:
           type: "text"
       - name: "track7_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the track ?"
           placeholder: "Choose color"
           options:
