@@ -6,12 +6,6 @@ episode_FB_Pic: "http://mailta.pe/img/fbPics/129.jpg"
 musicolor: /img/musicolors/129.png
 guest_name: Valentin Stip
 guest_color: dreamy
-bigTitle_font_ratio: 
-  - 6
-  - "6"
-bigTitle_line_ratio: 
-  - 1
-  - "1"
 description: null
 track1_link: "https://soundcloud.com/mailtape/donato-dozzy-vaporware-01-1"
 track1_title: "Donato Dozzy - Vaporware 01"
