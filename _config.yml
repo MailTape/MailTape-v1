@@ -22,7 +22,7 @@ prose:
           value: "episode"
       - name: "author"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Who are you dude ?"
           placeholder: "Choose your name"
           options:
@@ -66,7 +66,7 @@ prose:
           type: "text"
       - name: "guest_color"
         field:
-          element: "multiselect"
+          element: "select"
           label: "Color of the artist"
           placeholder: "Choose color"
           options:
