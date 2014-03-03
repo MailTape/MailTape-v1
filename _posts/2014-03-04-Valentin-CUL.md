@@ -21,6 +21,10 @@ track4_link: "https://soundcloud.com/samsayamusic/stereotype-slick-shoota-remix"
 track5_link: "https://soundcloud.com/otherpeoplerecords/sets/vtgnike-dubna-lp"
 track6_link: "https://soundcloud.com/otherpeoplerecords/05-hi-fashion?in=otherpeoplerecords/sets/vtgnike-dubna-lp"
 track7_link: "https://soundcloud.com/strut/paul-johnson-feel-my-m-f-bass"
+category: 
+  - "131"
+  - 131
+guest_name: Valentin Cul
 ---
 
 <p id="introduction">
