@@ -113,13 +113,13 @@ prose:
       - name: "track1_link"
         field:
           element: "text"
-          label: "Track1 URL ?"
+          label: "Track1 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track1_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track1 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -141,13 +141,13 @@ prose:
       - name: "track2_link"
         field:
           element: "text"
-          label: "Track2 URL ?"
+          label: "Track2 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track2_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track2 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -169,13 +169,13 @@ prose:
       - name: "track3_link"
         field:
           element: "text"
-          label: "Track3 URL ?"
+          label: "Track3 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track3_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track3 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -197,13 +197,13 @@ prose:
       - name: "track4_link"
         field:
           element: "text"
-          label: "Track4 URL ?"
+          label: "Track4 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track4_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track4 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -225,13 +225,13 @@ prose:
       - name: "track5_link"
         field:
           element: "text"
-          label: "Track5 URL ?"
+          label: "Track5 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track5_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track5 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -253,13 +253,13 @@ prose:
       - name: "track6_link"
         field:
           element: "text"
-          label: "Track6 URL ?"
+          label: "Track6 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track6_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track6 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -281,13 +281,13 @@ prose:
       - name: "track7_link"
         field:
           element: "text"
-          label: "Track7 URL ?"
+          label: "Track7 link ?"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track7_color"
         field:
           element: "select"
-          label: "Color of the track ?"
+          label: "Track7 color ?"
           placeholder: "Choose color"
           options:
             - name: "Rough"
