@@ -40,7 +40,7 @@ prose:
           label: "Which episode ?"
           placeholder: "130"
           type: "number"
-      - name: "episode_url"
+      - name: "episode_URL"
         field:
           element: "text"
           label: "Episode URL ?"
@@ -104,6 +104,12 @@ prose:
           label: "Opengraph description"
           help: "Small text inserted with epiode when shared on fb"
           placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
+      - name: "track1_title"
+        field:
+          element: "text"
+          label: "Track1 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track1_link"
         field:
           element: "text"
@@ -126,6 +132,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track2_title"
+        field:
+          element: "text"
+          label: "Track2 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track2_link"
         field:
           element: "text"
@@ -148,6 +160,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track3_title"
+        field:
+          element: "text"
+          label: "Track3 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track3_link"
         field:
           element: "text"
@@ -170,6 +188,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track4_title"
+        field:
+          element: "text"
+          label: "Track4 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track4_link"
         field:
           element: "text"
@@ -192,6 +216,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track5_title"
+        field:
+          element: "text"
+          label: "Track5 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track5_link"
         field:
           element: "text"
@@ -214,6 +244,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track6_title"
+        field:
+          element: "text"
+          label: "Track6 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track6_link"
         field:
           element: "text"
@@ -236,6 +272,12 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "track7_title"
+        field:
+          element: "text"
+          label: "Track7 title ?"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
       - name: "track7_link"
         field:
           element: "text"
