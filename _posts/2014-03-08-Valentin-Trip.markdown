@@ -6,9 +6,13 @@ episode_FB_Pic: "http://mailta.pe/img/fbPics/129.jpg"
 musicolor: /img/musicolors/129.png
 guest_name: Valentin Stip
 guest_color: dreamy
-bigTitle_font_ratio: 6
-bigTitle_line_ratio: 1
-description: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky. Classical music and vibrant sunrays blend together over the sea of clouds, close your eyes and let the wave bring you till the edge of the atmosphere. We’ll get back on earth progressively to finally land in the middle of the Amazon rainforest where a tribe of brazilian shamans tripping on glue are waiting for us."
+bigTitle_font_ratio: 
+  - 6
+  - "6"
+bigTitle_line_ratio: 
+  - 1
+  - "1"
+description: null
 track1_link: "https://soundcloud.com/mailtape/donato-dozzy-vaporware-01-1"
 track1_title: "Donato Dozzy - Vaporware 01"
 track1_color: dreamy
@@ -32,6 +36,7 @@ track7_title: "Glue Trip - La Edad Del Futuro"
 track7_color: vibrant
 published: true
 guest_pic: /img/Leonard_Bernstein_by_Jack_Mitchell.jpg
+author: dimitri
 ---
 
 <p id="introduction">
