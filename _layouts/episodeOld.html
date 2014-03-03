@@ -75,9 +75,27 @@
 
             <article>
 
-                {{ content }}    
-                <p style="font-style:italic" id="signature">{{page.author}}.</p>
-                
+                <p style="font-style:italic" id="introduction">
+                    {{page.intro}}
+                </p>
+
+                <h1>{{ page.guest_story_headline }}</h1>
+                <p>{{ page.guest_story_content }}</p>
+
+                <h1>{{ page.guest_explanation_headline }}</h1>
+                <h2 id="track1_title_featured">track1</h2>
+                <p><b>"</b>{{ page.guest_explanation_track1 }}<b>"</b>
+                </p>
+                <h2 id="track2_title_featured">track2</h2>
+                <p><b>"</b>{{ page.guest_explanation_track2 }}<b>"</b>
+                </p>
+                <h2 id="track3_title_featured">track3</h2>
+                <p><b>"</b>{{ page.guest_explanation_track3 }}<b>"</b>
+                </p>
+
+                <p id="outroduction"><i>{{ page.outro }}</i>
+                    <p style="font-style:italic" id="signature">{{page.author}}.</p>
+
             </article>
 
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>

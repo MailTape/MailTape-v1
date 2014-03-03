@@ -1,8 +1,10 @@
 name: MailTape
-markdown: redcarpet
+markdown: kramdown
 pygments: true
 permalink: /:categories/:title/
 timezone: Europe/Paris
+kramdown:
+  parse_block_html: true
 prose:
   rooturl: '_posts'
   siteurl: 'http://MailTape.github.io/'
