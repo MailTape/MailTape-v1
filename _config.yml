@@ -22,20 +22,20 @@ prose:
         field:
           element: "hidden"
           value: "episode"
-      # - name: "author"
-      #   field:
-      #     element: "multiselect"
-      #     label: "Who are you dude ?"
-      #     placeholder: "Choose your name"
-      #     options:
-      #       - name: "Dimitri"
-      #         value: "dimitri"
-      #       - name: "Julien"
-      #         value: "julien"
-      #       - name: "ImaCrea"
-      #         value: "imacrea"
-      #       - name: "Ludovic"
-      #         value: "ludovic"
+      - name: "author"
+        field:
+          element: "multiselect"
+          label: "Who are you dude ?"
+          placeholder: "Choose your name"
+          options:
+            - name: "Dimitri"
+              value: "dimitri"
+            - name: "Julien"
+              value: "julien"
+            - name: "ImaCrea"
+              value: "imacrea"
+            - name: "Ludovic"
+              value: "ludovic"
       - name: "title"
         field:
           element: "text"
