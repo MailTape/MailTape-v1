@@ -49,25 +49,25 @@ prose:
       - name: "episode_FB_Pic"
         field:
           element: "text"
-          label: "img FB URL ?"
+          label: "img FB URL"
           placeholder: "http://mailta.pe/img/fbPics_129.jpg"
           type: "text"
       - name: "musicolor"
         field:
           element: "text"
-          label: "img musicolor URL ?"
+          label: "img musicolor URL"
           placeholder: "http://mailta.pe/img/musicolors/129.png"
           type: "text"
       - name: "guest_name"
         field:
           element: "text"
-          label: "Guest name ?"
+          label: "Guest name"
           placeholder: "Valentin Stip"
           type: "text"
       - name: "guest_color"
         field:
           element: "multiselect"
-          label: "Color of the artist ?"
+          label: "Color of the artist"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -83,13 +83,13 @@ prose:
       - name: "bigTitle_font_ratio"
         field:
           element: "text"
-          label: "Big title font ratio ?"
+          label: "Big title font ratio"
           value: "6"
           type: "text"
       - name: "bigTitle_line_ratio"
         field:
           element: "text"
-          label: "Big title line ratio ?"
+          label: "Big title line ratio"
           value: "1"
           type: "text"
       - name: "guest_pic"
@@ -107,19 +107,19 @@ prose:
       - name: "track1_title"
         field:
           element: "text"
-          label: "Track1 title ?"
+          label: "Track1 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track1_link"
         field:
           element: "text"
-          label: "Track1 link ?"
+          label: "Track1 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track1_color"
         field:
           element: "select"
-          label: "Track1 color ?"
+          label: "Track1 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -135,19 +135,19 @@ prose:
       - name: "track2_title"
         field:
           element: "text"
-          label: "Track2 title ?"
+          label: "Track2 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track2_link"
         field:
           element: "text"
-          label: "Track2 link ?"
+          label: "Track2 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track2_color"
         field:
           element: "select"
-          label: "Track2 color ?"
+          label: "Track2 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -163,19 +163,19 @@ prose:
       - name: "track3_title"
         field:
           element: "text"
-          label: "Track3 title ?"
+          label: "Track3 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track3_link"
         field:
           element: "text"
-          label: "Track3 link ?"
+          label: "Track3 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track3_color"
         field:
           element: "select"
-          label: "Track3 color ?"
+          label: "Track3 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -191,19 +191,19 @@ prose:
       - name: "track4_title"
         field:
           element: "text"
-          label: "Track4 title ?"
+          label: "Track4 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track4_link"
         field:
           element: "text"
-          label: "Track4 link ?"
+          label: "Track4 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track4_color"
         field:
           element: "select"
-          label: "Track4 color ?"
+          label: "Track4 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -219,19 +219,19 @@ prose:
       - name: "track5_title"
         field:
           element: "text"
-          label: "Track5 title ?"
+          label: "Track5 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track5_link"
         field:
           element: "text"
-          label: "Track5 link ?"
+          label: "Track5 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track5_color"
         field:
           element: "select"
-          label: "Track5 color ?"
+          label: "Track5 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -247,19 +247,19 @@ prose:
       - name: "track6_title"
         field:
           element: "text"
-          label: "Track6 title ?"
+          label: "Track6 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track6_link"
         field:
           element: "text"
-          label: "Track6 link ?"
+          label: "Track6 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track6_color"
         field:
           element: "select"
-          label: "Track6 color ?"
+          label: "Track6 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
@@ -275,19 +275,19 @@ prose:
       - name: "track7_title"
         field:
           element: "text"
-          label: "Track7 title ?"
+          label: "Track7 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
       - name: "track7_link"
         field:
           element: "text"
-          label: "Track7 link ?"
+          label: "Track7 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
       - name: "track7_color"
         field:
           element: "select"
-          label: "Track7 color ?"
+          label: "Track7 color"
           placeholder: "Choose color"
           options:
             - name: "Rough"
