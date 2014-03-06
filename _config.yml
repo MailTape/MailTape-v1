@@ -36,10 +36,9 @@ prose:
               value: "ludovic"
       - name: "category"
         field:
-          element: "number"
+          element: "text"
           label: "Which episode ?"
           placeholder: "130"
-          type: "number"
       - name: "episode_URL"
         field:
           element: "text"
