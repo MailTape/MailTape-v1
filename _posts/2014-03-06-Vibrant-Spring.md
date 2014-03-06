@@ -16,8 +16,6 @@ description: null
 category: 
   - "131"
   - 131
-  - .nan
-  - .nan
 episode_URL: "http://mailta.pe/131/Vibrant-Spring/"
 guest_name: Vibrant Spring
 track1_title: "Willis Earl Beal - Coming Through (feat. Cat Power),"
