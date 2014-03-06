@@ -1,18 +1,37 @@
 ---
 layout: episode
 published: false
-author: dimitri
-guest_color: rough
+author: julien
+guest_color: vibrant
 bigTitle_font_ratio: 6
 bigTitle_line_ratio: 1
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: vibrant
+track2_color: vibrant
+track3_color: dreamy
+track4_color: vibrant
+track5_color: vibrant
+track6_color: vibrant
+track7_color: vibrant
 description: null
+category: 
+  - "131"
+  - 131
+episode_URL: "http://mailta.pe/131/Vibrant-Spring/"
+guest_name: Vibrant Spring
+track1_title: "Willis Earl Beal - Coming Through (feat. Cat Power),"
+track1_link: "https://soundcloud.com/keeganscu/coming-through-featuring-cat"
+track2_title: "Kid Wise - Hope"
+track2_link: "https://soundcloud.com/david-finel/kid-wise-hope"
+track3_title: "GLITCHES - RGB (VIMES Remix)"
+track3_link: "https://soundcloud.com/vimes/glitches-rgb-vimesremix"
+track4_link: "https://soundcloud.com/pierre_msd/georgio-a-tous-les-coups-2014"
+track4_title: "Georgio - A Tous les Coups"
+track5_link: "https://soundcloud.com/paradyserecords/flyte-we-are-the-rain"
+track5_title: "Flyte - We Are the Rain"
+track6_title: "Fatima - Family"
+track6_link: "https://soundcloud.com/chartnz/fatima-family"
+track7_title: "Dirty Doering - I Would"
+track7_link: "https://soundcloud.com/imacrea/dirty-doering-i-would"
 ---
 
 <p id="introduction">
