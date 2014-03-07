@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'superspitze_groteskregular';
-  src: url('/fonts/superspitzegrotesk_semibold-webfont.eot');
-  src: url('/fonts/superspitzegrotesk_semibold-webfont.eot?#iefix') format('embedded-opentype'), url('/fonts/superspitzegrotesk_semibold-webfont.woff') format('woff'), url('/fonts/superspitzegrotesk_semibold-webfont.ttf') format('truetype'), url('/fonts/superspitzegrotesk_semibold-webfont.svg#superspitze_groteskregular') format('svg');
+  src: url('../../fonts/superspitzegrotesk_semibold-webfont.eot');
+  src: url('../../fonts/superspitzegrotesk_semibold-webfont.eot?#iefix') format('embedded-opentype'), url('../../fonts/superspitzegrotesk_semibold-webfont.woff') format('woff'), url('../../fonts/superspitzegrotesk_semibold-webfont.ttf') format('truetype'), url('../../fonts/superspitzegrotesk_semibold-webfont.svg#superspitze_groteskregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -571,8 +571,8 @@ a:hover {
 }
 @font-face {
   font-family: 'icomoon';
-  src: url('/fonts/icomoon.eot');
-  src: url('/fonts/icomoon.eot?#iefix') format('embedded-opentype'), url('/fonts/icomoon.ttf') format('truetype'), url('/fonts/icomoon.woff') format('woff'), url('/fonts/icomoon.svg#icomoon') format('svg');
+  src: url('../../fonts/icomoon.eot');
+  src: url('../../fonts/icomoon.eot?#iefix') format('embedded-opentype'), url('../../fonts/icomoon.ttf') format('truetype'), url('../../fonts/icomoon.woff') format('woff'), url('../../fonts/icomoon.svg#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
