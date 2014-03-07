@@ -83,11 +83,13 @@ prose:
         field:
           element: "text"
           label: "Big title font ratio"
+          help: "Valeur à modifier pour l'ajustement de la taille du grand titre. Plus la valeur est grande plus le titre est petit. Attention à utiliser des . et pas des , pour les valeurs telles que 6.45 par ex."
           value: "6"
       - name: "bigTitle_line_ratio"
         field:
           element: "text"
           label: "Big title line ratio"
+          help: "Valeur à modifier pour l'ajustement de la hauteur du grand titre. Fonctionnement similaire au font ratio."
           value: "1"
       - name: "guest_pic"
         field:
@@ -101,18 +103,55 @@ prose:
           label: "Opengraph description"
           help: "Small text inserted with epiode when shared on fb"
           placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
-      - name: "track1_title"
-        field:
-          element: "text"
-          label: "Track1 title"
-          placeholder: "Valentin Stip - Correlation"
-          type: "text"
       - name: "track1_link"
         field:
           element: "text"
           label: "Track1 link"
           placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
           type: "text"
+      - name: "track2_link"
+        field:
+          element: "text"
+          label: "Track2 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track3_link"
+        field:
+          element: "text"
+          label: "Track3 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track4_link"
+        field:
+          element: "text"
+          label: "Track4 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track5_link"
+        field:
+          element: "text"
+          label: "Track5 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track6_link"
+        field:
+          element: "text"
+          label: "Track6 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track7_link"
+        field:
+          element: "text"
+          label: "Track7 link"
+          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
+          type: "text"
+      - name: "track1_title"
+        field:
+          element: "text"
+          label: "Track1 title"
+          placeholder: "Valentin Stip - Correlation"
+          type: "text"
+
       - name: "track1_color"
         field:
           element: "select"
@@ -135,12 +174,7 @@ prose:
           label: "Track2 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track2_link"
-        field:
-          element: "text"
-          label: "Track2 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track2_color"
         field:
           element: "select"
@@ -163,12 +197,7 @@ prose:
           label: "Track3 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track3_link"
-        field:
-          element: "text"
-          label: "Track3 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track3_color"
         field:
           element: "select"
@@ -191,12 +220,7 @@ prose:
           label: "Track4 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track4_link"
-        field:
-          element: "text"
-          label: "Track4 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track4_color"
         field:
           element: "select"
@@ -219,12 +243,7 @@ prose:
           label: "Track5 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track5_link"
-        field:
-          element: "text"
-          label: "Track5 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track5_color"
         field:
           element: "select"
@@ -247,12 +266,7 @@ prose:
           label: "Track6 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track6_link"
-        field:
-          element: "text"
-          label: "Track6 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track6_color"
         field:
           element: "select"
@@ -275,12 +289,7 @@ prose:
           label: "Track7 title"
           placeholder: "Valentin Stip - Correlation"
           type: "text"
-      - name: "track7_link"
-        field:
-          element: "text"
-          label: "Track7 link"
-          placeholder: "https://soundcloud.com/otherpeoplerecords/correlation"
-          type: "text"
+
       - name: "track7_color"
         field:
           element: "select"
