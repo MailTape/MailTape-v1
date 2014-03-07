@@ -15,7 +15,7 @@ description: null
 category: "130"
 episode_URL: "http://mailta.pe/131/Vibrant-Spring/"
 guest_name: Vibrant Spring
-track1_title: "Willis Earl Beal - Coming Through (feat. Cat Power),"
+track1_title: "Willis Earl Beal - Coming Through (feat. Cat Power)"
 track1_link: "https://soundcloud.com/keeganscu/coming-through-featuring-cat"
 track2_title: "Kid Wise - Hope"
 track2_link: "https://soundcloud.com/david-finel/kid-wise-hope"
