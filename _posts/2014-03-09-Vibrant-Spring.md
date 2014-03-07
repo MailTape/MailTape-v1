@@ -29,7 +29,7 @@ track6_title: "Horse Feathers - Curs in the Weeds (oddlogic refix)"
 track6_link: "https://soundcloud.com/outlierrecordings/curs-in-the-weeds"
 track7_title: "Yinyues - Zing Wezé Mama"
 track7_link: "https://soundcloud.com/yinyues/yinyues-zing-wez-mama"
-author: Dimitri
+author: MailTape Crew
 ---
 
 <p id="introduction">
@@ -50,4 +50,3 @@ We'd like to thank as well all the great artists who participated and their grea
 And thanks to you, for being with us every sunday morning.
 
 Love,
-MailTape Crew.
