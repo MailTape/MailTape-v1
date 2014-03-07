@@ -48,24 +48,6 @@ prose:
           element: "text"
           label: "Which episode ?"
           placeholder: "130"
-      - name: "episode_URL"
-        field:
-          element: "text"
-          label: "Episode URL ?"
-          placeholder: "http://mailta.pe/129/Valentin-Stip"
-          type: "text"
-      - name: "episode_FB_Pic"
-        field:
-          element: "text"
-          label: "img FB URL"
-          placeholder: "http://mailta.pe/img/fbPics_129.jpg"
-          type: "text"
-      - name: "musicolor"
-        field:
-          element: "text"
-          label: "img musicolor URL"
-          placeholder: "http://mailta.pe/img/musicolors/129.png"
-          type: "text"
       - name: "guest_name"
         field:
           element: "text"
@@ -106,12 +88,6 @@ prose:
           label: "img guest URL"
           placeholder: "img/...jpg"
           type: "text"
-      - name: "description"
-        field:
-          element: "textarea"
-          label: "Opengraph description"
-          help: "Small text inserted with epiode when shared on fb"
-          placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
       - name: "track1_link"
         field:
           element: "text"
@@ -315,3 +291,27 @@ prose:
               value: "bliss"
             - name: "Trippy"
               value: "trippy"
+      - name: "episode_URL"
+        field:
+          element: "text"
+          label: "Episode URL ?"
+          placeholder: "http://mailta.pe/129/Valentin-Stip"
+          type: "text"
+      - name: "episode_FB_Pic"
+        field:
+          element: "text"
+          label: "img FB URL"
+          placeholder: "http://mailta.pe/img/fbPics_129.jpg"
+          type: "text"
+      - name: "musicolor"
+        field:
+          element: "text"
+          label: "img musicolor URL"
+          placeholder: "http://mailta.pe/img/musicolors/129.png"
+          type: "text"
+      - name: "description"
+        field:
+          element: "textarea"
+          label: "Opengraph description"
+          help: "Small text inserted with epiode when shared on fb"
+          placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
