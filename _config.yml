@@ -81,16 +81,14 @@ prose:
               value: "trippy"
       - name: "bigTitle_font_ratio"
         field:
-          element: "number"
+          element: "text"
           label: "Big title font ratio"
           value: "6"
-          type: "number"
       - name: "bigTitle_line_ratio"
         field:
-          element: "number"
+          element: "text"
           label: "Big title line ratio"
           value: "1"
-          type: "number"
       - name: "guest_pic"
         field:
           element: "text"
