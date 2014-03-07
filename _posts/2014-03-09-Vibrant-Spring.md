@@ -1,7 +1,9 @@
 ---
 layout: episode
 published: true
-author: julien
+author: 
+  - MailTape Crew
+  - julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
