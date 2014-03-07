@@ -6,7 +6,7 @@ bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: vibrant
 track2_color: vibrant
-track3_color: dreamy
+track3_color: vibrant
 track4_color: vibrant
 track5_color: vibrant
 track6_color: vibrant
