@@ -37,7 +37,7 @@ This morning, discover a 100% MailTape Crew episode. The perfect occasion to cel
 </p>
 
 # Thanks for your support
-We'd like to thank from the bottom of our earth all the great people who joined us in our sticker operation. Thanks Paulina, Cécile, Jordi, Chloé, Guillaume, Michael, Marie, Willy,Florence, Marc, Antoine, Cecile, Flavien, Clément,
+We'd like to thank from the bottom of our heart all the great people who joined us in our sticker operation. Thanks Paulina, Cécile, Jordi, Chloé, Guillaume, Michael, Marie, Willy,Florence, Marc, Antoine, Cecile, Flavien, Clément,
 Kalima, Tiwanee, Marie-Olivia, Marie, Eliot, Frédéric, François-Joseph,
 Verity, Joshua, Bélinda, Mathilde, Tariq, Paul, Marine, Cyrille, Alexis, Micha, Laurent, Dominique, Couziin, Hugues, Louis, Laurent, Claire, Thomas, Thomas, Yousra, Cécile, Gautier, Anthony, Bastien, Alexis, Olivier, Julien, Cool Shoe, Victor, Cédric, Clara, Gweltaz, Marjolaine, Frédéric, Kim-Lam, Matthieu, Sandra, Karine.
 
