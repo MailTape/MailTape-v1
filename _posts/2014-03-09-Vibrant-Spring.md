@@ -2,7 +2,7 @@
 layout: episode
 published: true
 author: 
-  - MailTape Crew
+  - Dimitri
   - julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
