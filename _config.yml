@@ -74,13 +74,13 @@ prose:
         field:
           element: "text"
           label: "Big title font ratio"
-          help: "Valeur à modifier pour l'ajustement de la taille du grand titre. Plus la valeur est grande plus le titre est petit. Attention à utiliser des . et pas des , pour les valeurs telles que 6.45 par ex."
+          help: "Big title font size adjustement. The bigger the value, the smaller the title. Be careful to use dot and not comma for float numbers."
           value: "6"
       - name: "bigTitle_line_ratio"
         field:
           element: "text"
           label: "Big title line ratio"
-          help: "Valeur à modifier pour l'ajustement de la hauteur du grand titre. Fonctionnement similaire au font ratio."
+          help: "Big title height adjustement. Working same as font ratio"
           value: "1"
       - name: "guest_pic"
         field:
