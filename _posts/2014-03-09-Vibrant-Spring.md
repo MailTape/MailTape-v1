@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: julien
 guest_color: vibrant
-bigTitle_font_ratio: "5.5"
+bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: vibrant
 track2_color: vibrant
