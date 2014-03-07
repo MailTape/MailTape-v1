@@ -32,7 +32,7 @@ track7_link: "https://soundcloud.com/yinyues/yinyues-zing-wez-mama"
 author: MailTape Crew
 ---
 
-<p id="introduction">
+![](/img//guestPic131.jpg)<p id="introduction">
 This morning, discover a 100% MailTape Crew episode. The perfect occasion to celebrate the arrival of our two new curators : Julien and Dimitri. Spring is on its way, here's our vibrant hymn to help Mother Nature in her slow awakening.
 </p>
 
