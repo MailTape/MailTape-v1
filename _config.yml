@@ -25,6 +25,7 @@ prose:
           element: "select"
           label: "Who are you dude ?"
           placeholder: "Choose your name"
+          type: "text"
           options:
             - name: "Dimitri"
               value: "Dimitri"
