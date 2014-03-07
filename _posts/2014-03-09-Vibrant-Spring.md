@@ -1,9 +1,6 @@
 ---
 layout: episode
 published: true
-author: 
-  - Dimitri
-  - julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
