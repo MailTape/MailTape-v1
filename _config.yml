@@ -20,13 +20,29 @@ prose:
         field:
           element: "hidden"
           value: "episode"
+      # - name: "author"
+      #   field:
+      #     element: "text"
+      #     label: "Who are you dude ?"
+      #     help: "Used for your signature. Please keep the same name for each of your episode to stay consistent."
+      #     placeholder: "Write your name"
+      #     type: "text"
       - name: "author"
         field:
-          element: "text"
+          element: "select"
           label: "Who are you dude ?"
-          help: "Used for your signature. Please keep the same name for each of your episode to stay consistent."
-          placeholder: "Write your name"
-          type: "text"
+          placeholder: "Choose your name"
+          options:
+            - name: "Dimitri"
+              value: "Dimitri"
+            - name: "Julien"
+              value: "Julien"
+            - name: "ImaCrea"
+              value: "ImaCrea"
+            - name: "Ludovic"
+              value: "Ludovic"
+            - name: "MailTape Crew"
+              value: "MailTape Crew"
       - name: "category"
         field:
           element: "text"
