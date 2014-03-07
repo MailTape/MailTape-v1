@@ -50,4 +50,3 @@ We'd like to thank as well all the great artists who participated and their grea
 And thanks to you, for being with us every sunday morning.
 
 Love,
-MailTape Crew.
