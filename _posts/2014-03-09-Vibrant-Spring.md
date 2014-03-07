@@ -26,10 +26,10 @@ track4_link: "https://soundcloud.com/pierre_msd/georgio-a-tous-les-coups-2014"
 track4_title: "Georgio - A Tous les Coups"
 track5_link: "https://soundcloud.com/paradyserecords/flyte-we-are-the-rain"
 track5_title: "Flyte - We Are the Rain"
-track6_title: "Fatima - Family"
-track6_link: "https://soundcloud.com/chartnz/fatima-family"
-track7_title: "Dirty Doering - I Would"
-track7_link: "https://soundcloud.com/imacrea/dirty-doering-i-would"
+track6_title: "Horse Feathers - Curs in the Weeds (oddlogic refix)"
+track6_link: "https://soundcloud.com/outlierrecordings/curs-in-the-weeds"
+track7_title: "Yinyues - Zing Wezé Mama"
+track7_link: "https://soundcloud.com/yinyues/yinyues-zing-wez-mama"
 ---
 
 <p id="introduction">
