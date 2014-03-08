@@ -44,8 +44,7 @@ Verity, Joshua, Bélinda, Mathilde, Tariq, Paul, Marine, Cyrille, Alexis, Micha,
 
 We can't wait to see where you're going to stick them ! Post your pictures on our FB page, Twitter or Instagram with hashtag #MailTape so we can find them.
 
-If you don't have your stickers yet, get them now and spread the love.
-
+Don't have your stickers yet ? Get them now and spread the love. Simply give as much you want, just know it costs us 1,35€ to send you 4 of them ;) All additional tip will help us cover other costs in order to stay independent.
 We'd like to thank as well all the great artists who participated and their great promo manager who helped us in making this possible.
 
 And thanks to you, for being with us every sunday morning.
