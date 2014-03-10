@@ -30,7 +30,8 @@ track6_link: "https://soundcloud.com/outlierrecordings/curs-in-the-weeds"
 track7_title: "Yinyues - Zing Wezé Mama"
 track7_link: "https://soundcloud.com/yinyues/yinyues-zing-wez-mama"
 author: MailTape Crew
-guest_pic: /img/guestPic131.jpg
+guest_pic: guestPic131.jpg
+musicolor: musiColor131.png
 ---
 
 <p id="introduction">

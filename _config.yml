@@ -48,7 +48,7 @@ prose:
         field:
           element: "text"
           label: "Which episode ?"
-          placeholder: "130"
+          placeholder: "131"
       - name: "guest_name"
         field:
           element: "text"
@@ -86,8 +86,9 @@ prose:
       - name: "guest_pic"
         field:
           element: "text"
-          label: "img guest URL"
-          placeholder: "img/...jpg"
+          label: "img guestPic name"
+          help: "convention fichier : guestPic131.jpg"
+          placeholder: "guestPic131.jpg"
           type: "text"
       - name: "track1_link"
         field:
@@ -301,18 +302,20 @@ prose:
       - name: "episode_FB_Pic"
         field:
           element: "text"
-          label: "img FB URL"
-          placeholder: "http://mailta.pe/img/fbPics_129.jpg"
+          label: "fbPic file"
+          help: "convention fichier : fbPic131.png"
+          placeholder: "fbPic131.jpg"
           type: "text"
       - name: "musicolor"
         field:
           element: "text"
-          label: "img musicolor URL"
-          placeholder: "http://mailta.pe/img/musicolors/129.png"
+          label: "musiColor file"
+          help: "convention fichier : musiColor131.png"
+          placeholder: "musiColor131.png"
           type: "text"
       - name: "description"
         field:
           element: "textarea"
           label: "Opengraph description"
-          help: "Small text inserted with epiode when shared on fb"
+          help: "Small text with link shared on fb. NB: Take off links if any"
           placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
