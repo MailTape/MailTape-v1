@@ -14,7 +14,7 @@ track6_color: rough
 track7_color: rough
 description: null
 category: "132"
-guest_name: Guestname
+guest_name: Guest Name
 track1_link: "https://soundcloud.com/andrew-ashong/special-a1?in=andrew-ashong/sets/andrew-ashong-songs"
 ---
 
