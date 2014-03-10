@@ -32,6 +32,7 @@ track7_link: "https://soundcloud.com/yinyues/yinyues-zing-wez-mama"
 author: MailTape Crew
 guest_pic: guestPic131.jpg
 musicolor: musiColor131.png
+episode_FB_Pic: fbPic131.png
 ---
 
 <p id="introduction">
