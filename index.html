@@ -13,7 +13,7 @@ title: Your New Jekyll Site
     <meta property="og:title" content="MailTape {{ post.category }} - {{ post.guest_name }}" />
     <meta property="og:type" content="article" />
     <meta property="og:url" content="{{ post.episode_URL }}" />
-    <meta property="og:image" content="{{ post.episode_FB_Pic }}}" />
+    <meta property="og:image" content="http://mailta.pe/img/{{ post.fbPic }}" />
     <meta property="og:description" content="{{ post.description }}" />
     <meta property="fb:admins" content="maximeguedj,ludovic.coutant" />
     <meta property="fb:app_id" content="185828848128617" />
@@ -309,7 +309,7 @@ title: Your New Jekyll Site
 </div>
 
 
-<div id="bigHeader" class="stretchMe" data-stretch="/img/{{ post.guest_pic }}">
+<div id="bigHeader" class="stretchMe" data-stretch="/img/{{ post.guestPic }}">
     <header id="colorFilter" class="{{ post.guest_color }}">
         <div id="playButton" class="{{ post.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
 

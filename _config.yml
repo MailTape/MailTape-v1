@@ -83,7 +83,7 @@ prose:
           label: "Big title line ratio"
           help: "Big title height adjustement. Working same as font ratio"
           value: "1"
-      - name: "guest_pic"
+      - name: "guestPic"
         field:
           element: "text"
           label: "img guestPic name"
@@ -299,14 +299,14 @@ prose:
           label: "Episode URL ?"
           placeholder: "http://mailta.pe/129/Valentin-Stip"
           type: "text"
-      - name: "episode_FB_Pic"
+      - name: "fbPic"
         field:
           element: "text"
           label: "fbPic file"
           help: "convention fichier : fbPic131.png"
           placeholder: "fbPic131.jpg"
           type: "text"
-      - name: "musicolor"
+      - name: "musiColor"
         field:
           element: "text"
           label: "musiColor file"
