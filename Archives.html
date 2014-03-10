@@ -15,18 +15,20 @@
           <h2>pick an artist or a color and let it flow</h2>
           <ul>
           {% for post in site.posts %}
-          <li id="archive{{ post.episode_number }}">
+          {% if site.time > post.date %}
+          <li id="archive{{ post.category }}">
             <div class="col-md-2 col-sm-3 col-xs-12 archive {{ post.guest_color }}">
               <a href="{{ post.url }}" target="_blank" >
                 <div class="stretchMe" data-stretch="{{ post.guest_pic }}">
                   <div class="archive_titles">
-                    <h1><span class="with">#{{ post.episode_number }}&nbsp;</span>{{ post.guest_name }}</h1>
+                    <h1><span class="with">#{{ post.category }}&nbsp;</span>{{ post.guest_name }}</h1>
                     <img src="{{ post.musicolor }}" class="img-responsive"/>
                   </div>
                 </div>
               </a>
             </div>
           </li>
+          {% endif %}
           {% endfor %}
           <li id="archive128">
             <div class="col-md-2 col-sm-3 col-xs-12 archive dreamy">
