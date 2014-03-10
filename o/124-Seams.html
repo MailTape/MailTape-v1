@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>MailTape 124 - Seams</title>
+
+  <meta property="og:title" content="MailTape 124 - Seams" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://mailta.pe/124-Seams.html" />
+  <meta property="og:image" content="http://mailta.pe/img/fbPics/124.jpg" />
+  <meta property="og:description" content="This morning, discover Seams, a British whose vibe got rough after a few years in Berlin. This episode will wake you up very gently then hypnotise you like crazy under the shower to finally make you land smoothly in a warm african atmosphere." />
+  <meta property="fb:admins" content="maximeguedj,ludovic.coutant" />
+  <meta property="fb:app_id" content="185828848128617" /> 
+
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+  <script type="text/javascript" src="//use.typekit.net/raj7qig.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+  <link rel="shortcut icon" href="favicon.ico" >
+
+  <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="../../assets/js/html5shiv.js"></script>
+      <script src="../../assets/js/respond.min.js"></script>
+      <![endif]-->
+<link href="css/mailtape.css" rel="stylesheet" media="screen">
+
+<!-- Page player core CSS -->
+<link rel="stylesheet" type="text/css" href="css/page-player.css" />
+
+<!-- soundManager.useFlashBlock: related CSS -->
+<link rel="stylesheet" type="text/css" href="css/flashblock.css" />
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+<!-- soundManager API -->
+<script src="js/soundmanager2-jsmin.js"></script>
+
+<script>
+
+/* --------
+
+  Config override: This demo uses shiny flash 9 stuff, overwriting Flash 8-based defaults
+  Alternate PP_CONFIG object must be defined before soundManager.onready()/onload() fire.
+  Alternately, edit the config in page-player.js to simply use the values below by default
+
+-------- */
+
+// demo only, but you can use these settings too..
+soundManager.setup({
+  flashVersion: 9,
+  preferFlash: true, // for visualization effects
+  useHighPerformance: true, // keep flash on screen, boost performance
+  wmode: 'transparent', // transparent SWF, if possible
+  url: 'swf/'
+});
+
+// custom page player configuration
+
+var PP_CONFIG = {
+  autoStart: false,      // begin playing first sound when page loads
+  playNext: true,        // stop after one sound, or play through list until end
+  useThrottling: false,  // try to rate-limit potentially-expensive calls (eg. dragging position around)</span>
+  usePeakData: false,     // [Flash 9 only] whether or not to show peak data (left/right channel values) - nor noticable on CPU
+  useWaveformData: false,// [Flash 9 only] show raw waveform data - WARNING: LIKELY VERY CPU-HEAVY
+  useEQData: false,      // [Flash 9 only] show EQ (frequency spectrum) data
+  useFavIcon: false,     // try to apply peakData to address bar (Firefox + Opera) - performance note: appears to make Firefox 3 do some temporary, heavy disk access/swapping/garbage collection at first(?) - may be too heavy on CPU
+  allowRightClick: false,  // let users right-click MP3 links ("save as...", etc.) or discourage (can't prevent.)
+  updatePageTitle: false
+}
+
+</script>
+
+<!-- Page player main script -->
+<script src="js/page-player.js"></script>
+
+<!-- Pour écrire Musicolor en couleur -->
+<script src="js/jquery.lettering-0.6.1.min"></script>
+<script>
+  $(document).ready(function() {
+    $(".musicolorLabel").lettering();
+  });
+</script>
+
+<!-- déclaration de la duration des tracks en sec pour redimensionnement auto -->
+<script>
+    var tracksDuration = [179,240,486,349,294,132,138];
+</script>
+
+    </head>
+    <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=185828848128617";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a> IN ORDER TO DISPLAY WELL MAILTAPE.</noscript>
+      <div class="container topTopbar">
+        <div class="topbar">
+           <div class="col-xs-2 col-md-2">
+          <div id="preloadLogo"><img src="img/logo_MailTape.gif"></div>
+            <a id="logo" data-toggle="modal" href="#aboutModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Logo', 'About']);"></a>
+          </div>
+          <div class="col-xs-10 col-md-10 menu">
+  <!-- Modal -->
+  <div class="modal fade" id="subModal" tabindex="-1" role="dialog" aria-labelledby="subModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h3 class="modal-title">Fresh delivery, every sunday morning.</h3>
+        </div>
+        <div class="modal-body">
+        
+
+        <div id="mc_embed_signup">
+        <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+        <div class="mc-field-group">
+<!--           <label for="mce-EMAIL">Your email ?<span class="asterisk">*</span>
+        </label> -->
+          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email ?">
+        </div>
+        <div class="mc-field-group">
+<!--           <label for="mce-PRENOM">How should we call you ?  <span class="asterisk">*</span>
+        </label> -->
+          <input type="text" value="" name="PRENOM" class="required" id="mce-PRENOM" placeholder="How should we call you ?">
+        </div>
+          <div id="mce-responses" class="clear">
+            <div class="response" id="mce-error-response" style="display:none"></div>
+            <div class="response" id="mce-success-response" style="display:none"></div>
+          </div>  <div class="clear"><input type="submit" value="Fantastic !" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from popup']);"></div>
+        </form>
+        </div>
+
+        <!--End mc_embed_signup-->
+
+          <p><i>+13,000 music tasters can't be wrong</i></p>
+
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+ <!-- Modal -->
+  <div class="modal fade" id="loveModal" tabindex="-1" role="dialog" aria-labelledby="loveModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h3 class="modal-title">Donating = Loving</h3>
+        </div>
+        <div class="modal-body">
+          
+          <p class="support_aside">MailTape remains ad-free, takes hours of passionate work and hundreds of euros to sustain. If you find any joy and value in it, please consider becoming a Member and supporting with a recurring weekly donation of your choosing, between a coffee and a cheesecake :</p>
+          
+          <div class="paypal_form">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="RHZ282ZGVUG7G">
+              <label>
+                <select name="os0">
+                  <option value="*">&#9829; 1€/episode</option>
+                  <option value="**">&#9829; 3€/episode</option>
+                  <option value="***">&#9829; 5€/episode</option>
+                </select>
+              </label>
+              <input type="hidden" name="currency_code" value="EUR">
+              <input type="submit" value="Yay!" name="subscribe" id="mc-embedded-subscribe" alt="Secured payment with Paypal" class="button" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on weekly donation from popup']);">
+            </form>
+          </div>
+
+          <p class="support_aside"><br>You can also become a one-time patron with a single donation in any amount :</p>
+          <div class="paypal_form">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
+              <input type="submit" border="0" name="submit" value="Wow  !" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from popup']);">
+            </form>
+            <br><br>
+          </div>
+         </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+ <!-- Modal -->
+  <div class="modal fade" id="aboutModal" tabindex="-1" role="dialog" aria-labelledby="loveModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+          <h3 class="modal-title">Our story</h3>
+        </div>
+        <div class="modal-body">
+
+        <p>Overflowed with information, it's became very hard to find new talended artists. Of course there is Pandora and the like but with such a quantity of music out there now, it's easy to end up with a background music consumed like disposable tissues.<br><br>
+        Being truly passionate about music, we wanted to find a way to help enthusiasts discover new music in an easy and consistent way.<br>
+        That's why we created the MailTape. Every sunday morning, we send you an eclectic selection of heart-touching songs curated in collaboration with the most inspiring artists. You may not like everything you hear, but if you make at least one discovery then our job is done.<br><br>
+        Created in 2011, more than 100 artists have been featured on MailTape, such as Nicolas Jaar, Connan Mockasin, Gonzalez, Wax Tailor, Shigeto. There are many more to come.<br>
+        We hope you'll enjoy this experience. Now sit back, relax and listen...<br><br>
+        Creator :<a href="http://twitter.com/imacrea" target="_blank">ImaCrea</a>. Co-Curator :<a href="http://twitter.com/greenludo" target="_blank">Ludovic</a>. 
+        <br>Thanks<a href="http://twitter.com/julienzanni" target="_blank">Julien</a> for the big play button idea and<a href="http://twitter.com/oomathias" target="_blank">Mathias</a> for your help debugging it on iPhone.
+        </p>
+        </div>
+      </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+  </div><!-- /.modal -->
+
+        <a data-toggle="modal" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Subscribe']);">SUBSCRIBE</a>
+
+        <a data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Love']);">LOVE</a>
+
+        <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton">ARCHIVES</a>
+
+            <!-- Eviter d'afficher le bouton archive dans le cas où JS non activé puisque fonctionne pas dans ce cas -->
+        <noscript>
+            <style>
+                #archivesButton {display:none;}
+            </style>
+        </noscript>
+          </div>
+        </div>
+      </div>
+
+      <div id="bigHeader" class="stretchMe" data-stretch="img/guestPics/124_Seams.jpg">
+        <header id="colorFilter" class="rough">
+                    <div id="playButton" class="rough" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
+
+          <div class="container">
+
+            <div id="bigTitle">Seams</div>
+          </div>
+
+        </header>
+      </div>
+
+      <div id="musiColorSeparator" class="rough">
+        <h2 id="underBigTitle">SUN MORNING, 19 JAN 2014 - EPISODE 124</h2>
+      </div>
+
+    <div class="container main">
+
+      <div class="col-md-12" id="player">
+
+        <ul class="playlist">
+
+          <li id="firstTrack" class="track1 bliss">
+            <h1 class="tractTitle">Wendy Rene - The Same Guy</h1>
+            <a id="laFirstTrack" href="http://mailtapetracks.s3.amazonaws.com/124/track1.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '1']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track2 dreamy">
+          <h1 class="tractTitle">Donnie & Joe Emerson - Baby</h1>
+            <a href="http://mailtapetracks.s3.amazonaws.com/124/track2.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '2']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track3 rough">
+          <h1 class="tractTitle">Pender Street Steppers - Opening up song (live at Mood Hut PPU)</h1>
+            <a href="http://mailtapetracks.s3.amazonaws.com/124/track3.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '3']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track4 rough">
+          <h1 class="tractTitle">Seams - Rilo</h1>
+            <a href="http://mailtapetracks.s3.amazonaws.com/124/track4.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '4']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track5 vibrant">
+          <h1 class="tractTitle">Blood Cultures - Mercury Child</h1>
+            <a href="http://mailtapetracks.s3.amazonaws.com/124/track5.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '5']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track6 dreamy">
+          <h1 class="tractTitle">Hubert Viel - L'Amitié</h1>
+            <a href="http://mailtapetracks.s3.amazonaws.com/124/track6.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '6']);"><span class="icon-control"></span></a>
+          </li>
+          <li class="track7 bliss">
+          <h1 class="tractTitle">Astrid Engberg - Ouaga Noma</h1>
+            <a id="laLastTrack" href="http://mailtapetracks.s3.amazonaws.com/124/track7.mp3" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '7']);"><span class="icon-control"></span></a>
+          </li>
+
+        </ul>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-8">
+
+          <article>
+
+            <p style="font-style:italic" id="introduction">
+            This morning, discover <a href="https://www.facebook.com/seamsmusic" target="_blank">Seams</a>, a British whose vibe got rough after a few years in Berlin. This episode will wake you up very gently then hypnotise you like crazy under the shower to finally make you land smoothly in a warm african atmosphere.
+              </p>
+
+              <h1>From London to Berlin.</h1>
+              <p>
+              <a href="https://www.facebook.com/seamsmusic" target="_blank">Seams</a>, aka James Welch, is starting to get more and more visibility as he’s been supporting <a href="http://www.mountkimbie.com/" target="_blank">Mount Kimbie</a>, <a href="http://www.iamgoldpanda.com/" target="_blank">Gold Panda</a> and the like on tour these last 2 years.<br><br>
+              I vividly remember this afternoon in Wellington, taking picture of the city from the rooftop of a building, when Seams’ music hit me. I was listening to his debut EP “Tourist”.  The track “Nachtmusik” triggered instantly something in my brain, I then  got used to play it a lot during photo shooting in streets to help me get in an almost meditative state. Since then, his music has been in constant evolution sliding progressively into something more Berlinish. Something rough, something focused on textures and rhythms. It’s been years I thought about featuring him here, now is the time, hope you enjoy.
+              </p>
+
+              <h1>3 tracks he likes on sunday morning</h1>
+
+              <h2>Wendy Rene - The Same Guy</h2>
+              <p><b>"</b>Most Sunday mornings consist of my girlfriend and I putting on a pot of coffee, some Motown, and having a leisurely breakfast. This is a track she found on SoundCloud, which has become a regular when chilling at home.<b>"</b></p>
+              <h2>Donnie & Joe Emerson - Baby</h2>
+              <p><b>"</b>Again, I’m cheating and this is something discovered by my girlfriend. Although I think I may have ruined it for her by showing her the opening scene of The Comedy, which uses it to bizarre effect.<b>"</b></p>
+              <h2>Pender Street Steppers - Opening up song (live at Mood Hut PPU)</h2>
+              <p><b>"</b>I can’t stop listening to these guys from Vancouver. Once the chill morning is out of the way, I stick on their tape, and get moving...<b>"</b></p>
+
+              <p id="outroduction"><i>That's all folks! Dance, love and have a great sunday. Cheers.</i>
+              <p style="font-style:italic" id="signature">ImaCrea.</p>
+          
+          </article>
+           
+          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://mailta.pe/124-Seams.html" data-via="MailTape">Tweet</a>
+          <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+          <div class="fb-like" data-href="http://mailta.pe/124-Seams.html" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
+
+          <div class="fb-comments" data-href="http://mailta.pe/124-Seams.html" data-numposts="5" data-width="500"></div>
+
+        </div>
+
+        <div class="col-md-3 col-md-offset-1 hidden-xs hidden-sm rightSide">
+          <h1 class="musicolorLabel">Musicolor</h1>
+          <h2>A visual language for music tasters.</h2>
+          <ul class="musicolorAside">
+            <li> = Rough <i>: extreme, wild.</i></li>
+            <li> = Dreamy <i>: light, uplifting.</i></li>
+            <li> = Vibrant <i>: joyful, lively.</i></li>
+            <li> = Bliss <i>: vivid, euphoria.</i></li>
+            <li> = Trippy <i>: mindblowing, jagged.</i></li>
+          </ul>
+
+          <h1>Credits</h1>
+          <h2>Support the artists !</h2>
+          <ul class="ingredientsAside">
+            <li><a href="https://soundcloud.com/lightintheatticrecords/wendy-rene-the-same-guy" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track1']);">&#xe605;</a><p>Wendy Rene - The Same Guy</p></li>
+
+            <li><a href="https://soundcloud.com/lightintheatticrecords/donnie-joe-emerson-baby" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track2']);">&#xe605;</a><p>Donnie & Joe Emerson - Baby</p></li>
+
+            <li><a href="https://soundcloud.com/ppu/pender-street-steppers" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track3']);">&#xe605;</a><p>Pender Street Steppers - Opening up song (live at Mood Hut PPU)</p></li>
+
+            <li><a href="https://soundcloud.com/seams/rilo?in=seams/sets/quarters" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track4']);">&#xe605;</a><p>Seams - Rilo</p></li>
+
+            <li><a href="https://soundcloud.com/blood-cultures/mercury-child" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track5']);">&#xe605;</a><p>Blood Cultures - Mercury Child</p></li>
+
+            <li><a href="https://soundcloud.com/musiquelarge/lamitie-1" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track6']);">&#xe605;</a><p>Hubert Viel - L'Amitié</p></li>
+
+            <li><a href="https://soundcloud.com/astrid-engberg/ouaga-noma" target="_blank" onClick="_gaq.push(['_trackEvent', 'Credits', '124', 'track7']);">&#xe605;</a><p>Astrid Engberg - Ouaga Noma</p></li></ul>
+
+          <h1>Subscribe</h1>
+          <h2>Let us wake you up gently every sunday morning.</h2>
+ 
+          <!-- Begin MailChimp Signup Form -->
+          <div id="mc_embed_signup">
+          <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+          <div class="mc-field-group">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email ?">
+          </div>
+          <div class="mc-field-group">
+            <input type="text" value="" name="PRENOM" class="required" id="mce-PRENOM" placeholder="How should we call you ?">
+          </div>
+            <div id="mce-responses" class="clear">
+              <div class="response" id="mce-error-response" style="display:none"></div>
+              <div class="response" id="mce-success-response" style="display:none"></div>
+            <input type="submit" value="Fantastic !" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from sidebar']);"></div>
+          </form>
+          </div>
+
+          <!--End mc_embed_signup-->
+
+          <h1>Love</h1>
+          <h2>Donating = Loving</h2>
+          <p class="support_aside">MailTape remains ad-free, takes hours of passionate work and hundreds of euros to sustain. If you find any joy and value in it, please consider becoming a Member and supporting with a recurring weekly donation of your choosing, between a coffee and a cheesecake :</p>
+          <div class="paypal_form">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+              <input type="hidden" name="cmd" value="_s-xclick">
+              <input type="hidden" name="hosted_button_id" value="RHZ282ZGVUG7G">
+              <label>
+                <select name="os0">
+                  <option value="*">&#9829; 1€/episode</option>
+                  <option value="**">&#9829; 3€/episode</option>
+                  <option value="***">&#9829; 5€/episode</option>
+                </select>
+              </label>
+              <input type="hidden" name="currency_code" value="EUR">
+              <input type="submit" value="Yay!" name="subscribe" id="mc-embedded-subscribe" alt="Secured payment with Paypal" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on weekly donation from sidebar']);">
+            </form>
+          </div>
+
+            <p class="support_aside"><br>You can also become a one-time patron with a single donation in any amount :</p>
+            <div class="paypal_form">
+              <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+                <input type="hidden" name="cmd" value="_s-xclick">
+                <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
+                <input type="submit" border="0" name="submit" value="Wow  !" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from sidebar']);">
+              </form>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="archives" id="archives">
+        </div> 
+
+      </div>
+
+      <div class="footer">
+          <img src="img/Logo_Mailtape_long.png" style="width:12em"/><br>
+          <a data-toggle="modal" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'SubscribeLow']);">SUBSCRIBE</a>&nbsp;|&nbsp;
+          <a data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'LoveLow']);">LOVE</a>&nbsp;|&nbsp;
+          <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton">ARCHIVES</a>
+            <!-- Eviter d'afficher le bouton archive dans le cas où JS non activé puisque fonctionne pas dans ce cas -->
+           <noscript>
+            <style>
+                #archivesButton {display:none;}
+            </style>
+          </noscript>&nbsp;|&nbsp;
+          <a data-toggle="modal" href="#aboutModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'AboutLow']);">ABOUT</a><br>
+          © 2011-2013 MailTape, all rights reserved. | <a href="http://twitter.com/MailTape" target="_blank">Twitter</a> | <a href="http://facebook.com/MailTape" target="_blank">Facebook</a><br>
+          Created by <a href="http://twitter.com/imacrea" target="_blank">ImaCrea</a> from Toulouse, France.<br>
+
+       </div>
+
+    </div>
+
+    <!-- dynamically-resized background image to any page or block level element. -->
+    <script type="text/javascript" src="js/jquery.anystretch.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.fittext.js"></script>
+    <script src="js/jquery.fittext.v.js"></script>
+    <script src="js/flowtype.js"></script>
+   <script src="js/mailtape.js"></script>
+
+
+  <script type="text/javascript">
+    // $("#bigTitle").fitText(0.6);
+    $("#underBigTitle").fitTextV(2.5);
+    $(".stretchMe").anystretch();
+
+    $('#playButton').flowtype({
+     minimum   : 679,
+     maximum   : 1110,
+     minFont   : 40,
+     maxFont   : 250,
+     fontRatio : 4, // A modifier au cas par cas ! -- Règle la largeur du titre
+     lineRatio : 0.7 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+   });
+
+    $('#bigTitle').flowtype({
+     minimum   : 100,
+     maximum   : 1110,
+     minFont   : 12,
+     maxFont   : 250,
+     fontRatio : 3, // A modifier au cas par cas ! -- Règle la largeur du titre
+     lineRatio : 0.7 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+   });
+
+     $('body').flowtype({
+     minimum   : 500,
+     maximum   : 1110,
+     minFont   : 12,
+     maxFont   : 28,
+     fontRatio : 65, // A modifier au cas par cas ! -- Règle la largeur du titre
+     lineRatio : 1.8 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+    });
+  </script>
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11613573-3']);
+  _gaq.push(['_setDomainName', 'mailta.pe']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html>
