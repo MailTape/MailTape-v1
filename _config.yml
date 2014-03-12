@@ -12,7 +12,7 @@ kramdown:
 ## prose.io config
 prose:
   rooturl: '_posts'
-  siteurl: 'http://MailTape.github.io/'
+  siteurl: 'http://mailta.pe'
   # relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: 'img'
   metadata:
