@@ -15,7 +15,10 @@ track7_color: rough
 description: null
 category: "132"
 guest_name: Guest Name
-track1_link: "https://soundcloud.com/andrew-ashong/special-a1?in=andrew-ashong/sets/andrew-ashong-songs"
+track1_link: "https://soundcloud.com/jurnyuk/minnie-ripperton-only-when-im"
+track2_link: "https://soundcloud.com/jesper-ryom/ghostly?in=jesper-ryom/sets/syvsover"
+track3_link: "https://soundcloud.com/playmodul/playmodul-null-vier-b-zckr04"
+
 ---
 
 <p id="introduction">
