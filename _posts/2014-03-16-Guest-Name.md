@@ -32,6 +32,21 @@ track7_title: "99 Cents - Keor Meteor"
 episode_URL: "http://mailta.pe/132/Guest-Name"
 ---
 
-## A New Post
+<p id="introduction">
+This morning, discover a new episode ready to shoot you in outta space. 
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# The _Cool & Smooth_ Jazzment
+Three albums released on their [bandcamp page](http://url "check their bandcamp folks !") that can follow you everywhere. With calm, clarity, the dutch duo wrap you in a perfect and delightful mood. Sit snugly with a good cup of coffee and listen to this selection they're sharing with us.
+
+# Enjoy their morning selection
+## Mo Kolours - Mike Black
+We can't wait to see where you're going to stick them ! Post your pictures on our FB page, Twitter or Instagram with hashtag #MailTape so we can find them.
+
+Don't have your stickers yet ? [Get yours now](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CYNVPXU22G482) and spread the love. Simply give as much you want, just know it costs us 1,35€ to send you 4 of them ;) All additional tip will help us cover other costs in order to stay independent.
+
+We'd like to thank as well all the great artists we have the chance to feature and their great promo manager who makes this possible.
+
+And thanks to you, for being with us every sunday morning.
+
+Love,
