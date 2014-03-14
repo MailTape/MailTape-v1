@@ -41,12 +41,14 @@ Three albums released on their [bandcamp page](http://url "check their bandcamp 
 
 # Enjoy their morning selection
 ## Mo Kolours - Mike Black
-We can't wait to see where you're going to stick them ! Post your pictures on our FB page, Twitter or Instagram with hashtag #MailTape so we can find them.
+**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
 
-Don't have your stickers yet ? [Get yours now](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CYNVPXU22G482) and spread the love. Simply give as much you want, just know it costs us 1,35€ to send you 4 of them ;) All additional tip will help us cover other costs in order to stay independent.
+## Nicolas Jaar & Theatre Roosevelt - The Ego
+**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
 
-We'd like to thank as well all the great artists we have the chance to feature and their great promo manager who makes this possible.
+## Beyond The Sun f. J - Live
+**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
 
-And thanks to you, for being with us every sunday morning.
-
-Love,
+<p id="outroduction">
+That's all folks! A big thank to [The Jazzment](http://url) for their selection. And thanks to [Michel Moncul](http://michelmoncul) for the picture. Thanks for listening. Enjoy your sunday!
+</p>
