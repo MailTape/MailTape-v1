@@ -29,7 +29,7 @@ track4_title: "Iglooghost - Yellowfours (Greyhat Remix)"
 track5_title: "Ghost Culture - Giudecca"
 track6_title: "SBTRKT - Resolute"
 track7_title: "99 Cents - Keor Meteor"
-episode_URL: "http://mailta.pe/132/Guest-Name"
+episode_URL: "http://mailta.pe/132/Guest-Name/"
 guestPic: guestPic132.jpg
 fbPic: fbPic132.jpg
 musiColor: musiColor132.png
