@@ -21,7 +21,7 @@ guest_name: Guest Name
 track4_link: "https://soundcloud.com/error-broadcast/iglooghost-yellowfours-greyhat"
 track5_link: "https://soundcloud.com/ghostculture/ghost-culture-giudecca"
 track6_link: "https://soundcloud.com/sbtrkt/resolute"
-track7_link: "https://soundcloud.com/hot-record-soci-t/sets/99-cents-o-keor-meteor"
+track7_link: "https://soundcloud.com/hot-record-soci-t/99-cents-keor-meteor?in=hot-record-soci-t/sets/99-cents-o-keor-meteor"
 track1_title: "Mo Kolours - Mike Black"
 track2_title: "Nicolas Jaar & Theatre Roosevelt - The Ego"
 track3_title: " Beyond The Sun f. J - Live"
