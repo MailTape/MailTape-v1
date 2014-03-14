@@ -12,7 +12,7 @@ track4_color: bliss
 track5_color: rough
 track6_color: vibrant
 track7_color: dreamy
-description: null
+description: "This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. "
 track1_link: "https://soundcloud.com/alexchase/mike-black-1"
 track2_link: "https://soundcloud.com/otherpeoplerecords/nicolas-jaar-theatre-roosevelt"
 track3_link: "https://soundcloud.com/cunninlynguists/beyond-the-sun-f-j-live"
@@ -36,7 +36,7 @@ musiColor: musiColor132.png
 ---
 
 <p id="introduction">
-This morning, discover a new episode ready to shoot you in outta space. 
+This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. 
 </p>
 
 # The _Cool & Smooth_ Jazzment
