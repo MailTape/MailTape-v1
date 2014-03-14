@@ -31,6 +31,8 @@ track6_title: "SBTRKT - Resolute"
 track7_title: "99 Cents - Keor Meteor"
 episode_URL: "http://mailta.pe/132/Guest-Name"
 guestPic: guestPic132.jpg
+fbPic: fbPic132.jpg
+musiColor: musiColor132.png
 ---
 
 <p id="introduction">
