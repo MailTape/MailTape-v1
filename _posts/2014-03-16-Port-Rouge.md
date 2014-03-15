@@ -22,9 +22,9 @@ track4_link: "https://soundcloud.com/error-broadcast/iglooghost-yellowfours-grey
 track5_link: "https://soundcloud.com/ghostculture/ghost-culture-giudecca"
 track6_link: "https://soundcloud.com/sbtrkt/resolute"
 track7_link: "https://soundcloud.com/hot-record-soci-t/99-cents-keor-meteor?in=hot-record-soci-t/sets/99-cents-o-keor-meteor"
-track1_title: "Mo Kolours - Mike Black"
-track2_title: "Nicolas Jaar & Theatre Roosevelt - The Ego"
-track3_title: " Beyond The Sun f. J - Live"
+track1_title: "Minnie Ripperton - Only When I'm Dreaming"
+track2_title: "Jesper Ryom - Ghostly"
+track3_title: "Playmodul - Null Vier B"
 track4_title: "Iglooghost - Yellowfours (Greyhat Remix)"
 track5_title: "Ghost Culture - Giudecca"
 track6_title: "SBTRKT - Resolute"
@@ -50,7 +50,7 @@ Three albums released on their [bandcamp page](http://url "check their bandcamp 
 ## Jesper Ryom - Ghostly
 **"**If you haven't heard of Jesper Ryom yet, you should definetely check him out. This is a really nice and energetic track with a simply beautiful sax sample. One of my favorite tracks from last year.**"**
 
-## playmodul - Null Vier B
+## Playmodul - Null Vier B
 **"**Just imagine yourself driving on an endless, empty road in the middle of the night listening to this. Close your eyes and enjoy this beautiful tune.**"**
 
 <p id="outroduction">
