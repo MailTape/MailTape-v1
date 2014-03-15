@@ -2,16 +2,16 @@
 layout: episode
 published: true
 author: Ludovic
-guest_color: dreamy
+guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: dreamy
-track2_color: vibrant
+track1_color: rough
+track2_color: rough
 track3_color: rough
-track4_color: bliss
+track4_color: rough
 track5_color: rough
-track6_color: vibrant
-track7_color: dreamy
+track6_color: rough
+track7_color: rough
 description: "This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. "
 track1_link: "https://soundcloud.com/alexchase/mike-black-1"
 track2_link: "https://soundcloud.com/otherpeoplerecords/nicolas-jaar-theatre-roosevelt"
