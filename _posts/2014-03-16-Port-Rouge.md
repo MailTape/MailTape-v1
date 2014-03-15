@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: true
-author: ImaCrea
+author: Ludovic
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
