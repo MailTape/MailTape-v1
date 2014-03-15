@@ -36,7 +36,7 @@ musiColor: musiColor132.png
 ---
 
 <p id="introduction">
-Randomly browsing the web often ends up with nice discoveries. If you've been lucky enough, you may then have already crossed [Port Rouge](https://soundcloud.com/portrouge)'s path. If not, let us introduce you to this talented 21 years old swedish dude which makes sweet, clean and suttle deep music.</p>
+Randomly browsing the web often ends up with nice discoveries. If you've been lucky enough, you may have already crossed [Port Rouge](https://soundcloud.com/portrouge)'s path. If not, let us introduce you to this talented 21 years old swedish dude which makes sweet, clean and suttle deep music.</p>
 
 # The art of housing
 The art of making house music isn't about doing more. What you ultimatly try to achieve when doing such music is to create a vivid and immersive unique atmosphere. Each track is a cocktail where each ingredient must chosen with care and dosed with precision. In this process, simplicity is both your best friend and enemy. So, please, onboard into our magical trip to a new music experience with [Port Rouge](https://soundcloud.com/portrouge).
