@@ -11,25 +11,25 @@ track3_color: rough
 track4_color: rough
 track5_color: rough
 track6_color: rough
-track7_color: rough
+track7_color: dreamy
 description: "This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. "
 track1_link: "https://soundcloud.com/jurnyuk/minnie-ripperton-only-when-im"
 track2_link: "https://soundcloud.com/jesper-ryom/ghostly?in=jesper-ryom/sets/syvsover"
 track3_link: "https://soundcloud.com/playmodul/playmodul-null-vier-b-zckr04"
 category: "132"
 guest_name: Port Rouge
-track4_link: "https://soundcloud.com/error-broadcast/iglooghost-yellowfours-greyhat"
-track5_link: "https://soundcloud.com/ghostculture/ghost-culture-giudecca"
-track6_link: "https://soundcloud.com/sbtrkt/resolute"
-track7_link: "https://soundcloud.com/hot-record-soci-t/99-cents-keor-meteor?in=hot-record-soci-t/sets/99-cents-o-keor-meteor"
+track4_link: "https://soundcloud.com/portrouge/now-that-i-know"
+track5_link: "https://soundcloud.com/konstantinsibold/konstantin-sibold-leif"
+track6_link: "http://soundcloud.com/lafleur/feline"
+track7_link: "https://soundcloud.com/teendaze/nils-frahm-you-teen-daze"
 track1_title: "Minnie Ripperton - Only When I'm Dreaming (Jurny edit)"
 track2_title: "Jesper Ryom - Ghostly"
 track3_title: "Playmodul - Null Vier B"
-track4_title: "Iglooghost - Yellowfours (Greyhat Remix)"
-track5_title: "Ghost Culture - Giudecca"
-track6_title: "SBTRKT - Resolute"
+track4_title: "Port Rouge - Now That I Know"
+track5_title: "Konstantin Sibold - Leif"
+track6_title: "La Fleur - Féline"
 track7_title: "99 Cents - Keor Meteor"
-episode_URL: "http://mailta.pe/132/Guest-Name/"
+episode_URL: "http://mailta.pe/132/Port-Rouge/"
 guestPic: guestPic132.jpg
 fbPic: fbPic132.jpg
 musiColor: musiColor132.png
