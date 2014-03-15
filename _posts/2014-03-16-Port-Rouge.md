@@ -36,13 +36,12 @@ musiColor: musiColor132.png
 ---
 
 <p id="introduction">
-This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. 
-</p>
+Randomly browsing the web often ends up with nice discoveries. If you've been lucky enough, you may then have already crossed [Port Rouge](https://soundcloud.com/portrouge)'s path. If not, let us introduce you to this talented 21 years old swedish dude which makes sweet, clean and suttle deep music.</p>
 
-# The _Cool & Smooth_ Jazzment
-Three albums released on their [bandcamp page](http://url "check their bandcamp folks !") that can follow you everywhere. With calm, clarity, the dutch duo wrap you in a perfect and delightful mood. Sit snugly with a good cup of coffee and listen to this selection they're sharing with us.
+# The art of housing
+The art of making house music isn't about doing more. What you ultimatly try to achieve when doing such music is to create a vivid and immersive unique atmosphere. Each track is a cocktail where each ingredient must chosen with care and dosed with precision. In this process, simplicity is both your best friend and enemy. So, please, onboard into our magical trip to a new music experience with [Port Rouge](https://soundcloud.com/portrouge).
 
-# Enjoy their morning selection
+# Enjoy Port Rouge morning selection
 
 ## Minnie Ripperton - Only When I'm Dreaming (Jurny edit)
 **"**This edit by Jurny of an old Minnie Ripperton song from 1970 is simply amazing. I find myself just drifting away while listening to these smooth and dreamy sounds. A really great edit of an old classic.**"**
@@ -54,5 +53,5 @@ Three albums released on their [bandcamp page](http://url "check their bandcamp 
 **"**Just imagine yourself driving on an endless, empty road in the middle of the night listening to this. Close your eyes and enjoy this beautiful tune.**"**
 
 <p id="outroduction">
-That's all folks! A big thank to [The Jazzment](http://url) for their selection. And thanks to [Michel Moncul](http://michelmoncul) for the picture. Thanks for listening. Enjoy your sunday!
+That's all folks! A big thank to [Port Rouge](https://soundcloud.com/portrouge) for their selection. Thanks for listening. Enjoy your sunday!
 </p>
