@@ -5,7 +5,7 @@ author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
+track1_color: dreamy
 track2_color: rough
 track3_color: rough
 track4_color: rough
@@ -22,7 +22,7 @@ track4_link: "https://soundcloud.com/error-broadcast/iglooghost-yellowfours-grey
 track5_link: "https://soundcloud.com/ghostculture/ghost-culture-giudecca"
 track6_link: "https://soundcloud.com/sbtrkt/resolute"
 track7_link: "https://soundcloud.com/hot-record-soci-t/99-cents-keor-meteor?in=hot-record-soci-t/sets/99-cents-o-keor-meteor"
-track1_title: "Minnie Ripperton - Only When I'm Dreaming"
+track1_title: "Minnie Ripperton - Only When I'm Dreaming (Jurny edit)"
 track2_title: "Jesper Ryom - Ghostly"
 track3_title: "Playmodul - Null Vier B"
 track4_title: "Iglooghost - Yellowfours (Greyhat Remix)"
@@ -44,7 +44,7 @@ Three albums released on their [bandcamp page](http://url "check their bandcamp 
 
 # Enjoy their morning selection
 
-## Minnie Ripperton - Only When I'm Dreaming
+## Minnie Ripperton - Only When I'm Dreaming (Jurny edit)
 **"**This edit by Jurny of an old Minnie Ripperton song from 1970 is simply amazing. I find myself just drifting away while listening to these smooth and dreamy sounds. A really great edit of an old classic.**"**
 
 ## Jesper Ryom - Ghostly
