@@ -12,7 +12,7 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: dreamy
-description: "This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. "
+description: "Randomly browsing the web often ends up with nice discoveries. If you've been lucky enough, you may have already crossed Port Rouge's path. If not, let us introduce you to this talented 21 years old swedish dude who makes sweet, clean and suttle deep music."
 track1_link: "https://soundcloud.com/jurnyuk/minnie-ripperton-only-when-im"
 track2_link: "https://soundcloud.com/jesper-ryom/ghostly?in=jesper-ryom/sets/syvsover"
 track3_link: "https://soundcloud.com/playmodul/playmodul-null-vier-b-zckr04"
