@@ -13,9 +13,9 @@ track5_color: rough
 track6_color: rough
 track7_color: rough
 description: "This morning, let's start with dreamy vibes selected by Christoph El Truento from New-Zealand. I've then spiced it up with some vitamins resulting in a colorful music story, from slow-motion sunrise on the beach to magic landscapes and islands metamorphosed into dancefloors. "
-track1_link: "https://soundcloud.com/alexchase/mike-black-1"
-track2_link: "https://soundcloud.com/otherpeoplerecords/nicolas-jaar-theatre-roosevelt"
-track3_link: "https://soundcloud.com/cunninlynguists/beyond-the-sun-f-j-live"
+track1_link: "https://soundcloud.com/jurnyuk/minnie-ripperton-only-when-im"
+track2_link: "https://soundcloud.com/jesper-ryom/ghostly?in=jesper-ryom/sets/syvsover"
+track3_link: "https://soundcloud.com/playmodul/playmodul-null-vier-b-zckr04"
 category: "132"
 guest_name: Port Rouge
 track4_link: "https://soundcloud.com/error-broadcast/iglooghost-yellowfours-greyhat"
@@ -44,14 +44,14 @@ Three albums released on their [bandcamp page](http://url "check their bandcamp 
 
 # Enjoy their morning selection
 
-## Mo Kolours - Mike Black
-**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
+## Minnie Ripperton - Only When I'm Dreaming
+**"**This edit by Jurny of an old Minnie Ripperton song from 1970 is simply amazing. I find myself just drifting away while listening to these smooth and dreamy sounds. A really great edit of an old classic.**"**
 
-## Nicolas Jaar & Theatre Roosevelt - The Ego
-**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
+## Jesper Ryom - Ghostly
+**"**If you haven't heard of Jesper Ryom yet, you should definetely check him out. This is a really nice and energetic track with a simply beautiful sax sample. One of my favorite tracks from last year.**"**
 
-## Beyond The Sun f. J - Live
-**"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
+## playmodul - Null Vier B
+**"**Just imagine yourself driving on an endless, empty road in the middle of the night listening to this. Close your eyes and enjoy this beautiful tune.**"**
 
 <p id="outroduction">
 That's all folks! A big thank to [The Jazzment](http://url) for their selection. And thanks to [Michel Moncul](http://michelmoncul) for the picture. Thanks for listening. Enjoy your sunday!
