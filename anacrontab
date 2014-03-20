@@ -4,4 +4,4 @@
 #1@daily 0 purgetmp find /srv/data/tmp -type f -mtime +7 -delete > /dev/null
 
 # autoupdate jekyll every hour
-1@hourly 0 update if [ $(date +'%u%H') -ge 416 ] && [ $(date +'%u%H') -le 417 ] ; then cd ~/web/vhosts/git.mailta.pe/ && git pull --rebase && date >> update && git add update && git commit -m "update" && git push; fi
+1@hourly 0 update if [ $(date +'%u%H') -ge 707 ] && [ $(date +'%u%H') -le 708 ] ; then cd ~/web/vhosts/git.mailta.pe/ && git pull --rebase && date >> update && git add update && git commit -m "update" && git push; fi
