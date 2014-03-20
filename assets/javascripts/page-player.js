@@ -1079,7 +1079,8 @@ function PagePlayer() {
       // });
 
     $( "#playButton" ).click(function(event) {
-      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
+      pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
+//      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
       $( "#playButton" ).fadeOut("slow");
     });
 
