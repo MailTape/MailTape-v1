@@ -1,0 +1,7 @@
+# num@period  delay(unused) name script...
+#
+# uncomment to purge files older than 7days in TMP
+#1@daily 0 purgetmp find /srv/data/tmp -type f -mtime +7 -delete > /dev/null
+
+# autoupdate jekyll every hour
+1@hourly 0 update cd ~/web/vhosts/git.mailta.pe/ && git pull --rebase && date >> update && git add update && git commit -m "update" && git push
