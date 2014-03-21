@@ -87,7 +87,7 @@ prose:
         field:
           element: "text"
           label: "img guestPic name"
-          help: "Once you've uploaded the guestPic, write here name of the image. It should follow the convention : guestPic131.jpg"
+          help: "Once you\'ve uploaded the guestPic, write here name of the image. It should follow the convention : guestPic131.jpg"
           placeholder: "guestPic131.jpg"
           type: "text"
       - name: "track1_link"
@@ -304,14 +304,14 @@ prose:
         field:
           element: "text"
           label: "fbPic file"
-          help: "Once you've uploaded the fbPic, write here name of the image. It should follow the convention : fbPic131.png"
+          help: "Once you\\'ve uploaded the fbPic, write here name of the image. It should follow the convention : fbPic131.png"
           placeholder: "fbPic131.jpg"
           type: "text"
       - name: "musiColor"
         field:
           element: "text"
           label: "musiColor file"
-          help: "Once you've uploaded the MusiColor, write here name of the image. It should follow the convention : musiColor131.png"
+          help: "Once you\\'ve uploaded the MusiColor, write here name of the image. It should follow the convention : musiColor131.png"
           placeholder: "musiColor131.png"
           type: "text"
       - name: "description"
