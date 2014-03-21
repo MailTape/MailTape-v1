@@ -46,6 +46,7 @@ function PagePlayer() {
     allowRightClick: true,  // let users right-click MP3 links ("save as...", etc.) or discourage (can't prevent.)
     useThrottling: true,    // try to rate-limit potentially-expensive calls (eg. dragging position around)
     autoStart: true,       // begin playing first sound when page loads
+    autoLoop: true,         // restart from begining when list finish (ImaCrea edit)
     playNext: true,         // stop after one sound, or play through list until end
     updatePageTitle: true,  // change the page title while playing sounds
     emptyTime: '-:--',      // null/undefined timer values (before data is available)
@@ -304,12 +305,17 @@ function PagePlayer() {
     if (!oSound) {
       oSound = self.lastSound;
     }
-    if (!oSound) {
+    if (!oSound) {  
       return false;
     }
     var nextItem = self.getNextItem(oSound._data.oLI);
     if (nextItem) {
       pl.handleClick({target:nextItem}); // fake a click event - aren't we sneaky. ;)
+    } else {
+      console.log("nonextitem");
+      if (self.config.autoLoop) {
+        pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]}); // autoloop
+      }
     }
     return nextItem;
   };
