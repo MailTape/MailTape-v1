@@ -297,7 +297,7 @@ prose:
         field:
           element: "text"
           label: "Episode URL ?"
-          help:"Attention aux majuscules !"
+          help: "Attention aux majuscules !"
           placeholder: "http://mailta.pe/129/Valentin-Stip"
           type: "text"
       - name: "fbPic"
