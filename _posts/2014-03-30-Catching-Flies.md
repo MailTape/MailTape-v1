@@ -29,11 +29,13 @@ track6_title: "Sohn - The Wheel"
 track7_title: "Ages - mermeladas de barbacoa"
 track7_link: "https://soundcloud.com/ages/bbq-jamz"
 episode_URL: "http://mailta.pe/134/Catching-Flies"
+guestPic: guestPic134.jpg
 ---
 
 <p id="introduction">
 This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer ! 
-Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with [Catching Flies](https://soundcloud.com/catchingfliesmusic "Catching Flies Soundcloud Page").</p>
+Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with [Catching Flies](https://soundcloud.com/catchingfliesmusic "Catching Flies Soundcloud Page").</p>![guestPic134.jpg](/img/guestPic134.jpg)
+
 
 # From a live session... 
 We asked few people around us, no one seemed to know him but everyone was looking at each other asking **"**Who's that guy, that's sweet !**"**.  Peacefully, he did an impressive live. If you come across him, we highly recommend ! 
