@@ -34,8 +34,6 @@ fbPic: fbPic134.jpg
 musiColor: musiColor134.png
 ---
 
-![fbPic134.jpg](/img/fbPic134.jpg)
-![musiColor134.png](/img/musiColor134.png)
 <p id="introduction">
 This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer ! 
 Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with [Catching Flies](https://soundcloud.com/catchingfliesmusic "Catching Flies Soundcloud Page").</p>
