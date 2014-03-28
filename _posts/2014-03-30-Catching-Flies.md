@@ -28,7 +28,7 @@ track6_link: "https://soundcloud.com/sohnmusic/t-h-e-w-h-e-e-l"
 track6_title: "Sohn - The Wheel"
 track7_title: "Ages - mermeladas de barbacoa"
 track7_link: "https://soundcloud.com/ages/bbq-jamz"
-episode_URL: "http://mailta.pe/134/Catching-Flies"
+episode_URL: "http://mailta.pe/134/Catching-Flies/"
 guestPic: guestPic134.jpg
 fbPic: fbPic134.jpg
 musiColor: musiColor134.png
