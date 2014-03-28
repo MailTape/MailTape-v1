@@ -45,8 +45,8 @@ We asked few people around us, no one seemed to know him but everyone was lookin
 ## Gap Mangione - Diana In The Autumn Wind
 **"**I love this tune. Nice and mellow for Sundays - those rhodes! This tune was sampled by J Dilla on **‘**Fall in Love**’** by Slum Village - so I’d probably listen to that next!**"**
 
-## Bibio - Down To The Sound
-**"**I think this is one of the most beautiful songs I've ever heard.**"**
+## Grandbrothers - Ezra Was Right
+**"**I love this tune, probably my favourite at the moment. Nice and mellow for Sundays… and the way it builds!! Just wait…**"**
 
 <p id="outroduction">
 That's all folks! A big thank to [Teen Daze](https://soundcloud.com/teendaze) for their selection. Thanks for listening. Enjoy your sunday!
