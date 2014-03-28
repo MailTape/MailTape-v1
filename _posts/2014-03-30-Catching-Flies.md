@@ -29,7 +29,7 @@ track6_title: "Sohn - The Wheel"
 track7_title: "Ages - mermeladas de barbacoa"
 track7_link: "https://soundcloud.com/ages/bbq-jamz"
 episode_URL: "http://mailta.pe/134/Catching-Flies"
-guestPic: guestPic134.jpg
+guestPic: guestPic134new.jpg
 ---
 
 <p id="introduction">
