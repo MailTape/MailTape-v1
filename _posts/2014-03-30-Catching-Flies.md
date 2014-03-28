@@ -38,6 +38,7 @@ This morning, we're going to remind you that sometimes it's important to swap yo
 We asked few people around us, no one seemed to know him but everyone was looking at each other asking **"**Who's that guy, that's sweet !**"**.  Peacefully, he did an impressive live. If you come across him, we highly recommend ! 
 
 # ... To a morning selection
+We thought he would be a perfect guest for a morning selection, hope you'll enjoy.
 
 ## Fatima feat. Floating Points - Mind
 **"**Wicked track, a perfect start to Sunday mornings. The tune is produced by Floating Points... Floating points & Fatima = Killer combo! Check out the EP he produced for her called **‘**Follow You.**’****"**
