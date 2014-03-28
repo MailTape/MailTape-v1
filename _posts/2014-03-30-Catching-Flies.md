@@ -31,6 +31,23 @@ track7_link: "https://soundcloud.com/ages/bbq-jamz"
 episode_URL: "http://mailta.pe/134/Catching-Flies"
 ---
 
-## A New Post
+<p id="introduction">
+This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer ! Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with Catching Flies.</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# From a live session... 
+We asked few people around us, no one seemed to know him but everyone was looking at each other asking **"**Who's that guy, that's sweet !**"**.  Peacefully, he did an impressive live. If you come across him, we highly recommend ! 
+
+# ... To a morning selection
+
+## Mark McGuire - In Search Of The Miraculous
+**"**Wicked track, a perfect start to Sunday mornings. The tune is produced by Floating Points... Floating points & Fatima = Killer combo! Check out the EP he produced for her called **‘**Follow You.**’****"**
+
+## Nils Frahm - Me
+**"**In my mind, Sundays are meant to be slower days.  Whether that means it's a day to sleep in late, or take a nap in the afternoon, or just spend some time reflecting on the week that's passed.  Nils Frahm has provided the quiet music that's so necessary in these times of reflection.**"**
+
+## Bibio - Down To The Sound
+**"**I think this is one of the most beautiful songs I've ever heard.**"**
+
+<p id="outroduction">
+That's all folks! A big thank to [Teen Daze](https://soundcloud.com/teendaze) for their selection. Thanks for listening. Enjoy your sunday!
+</p>
