@@ -39,11 +39,11 @@ We asked few people around us, no one seemed to know him but everyone was lookin
 
 # ... To a morning selection
 
-## Mark McGuire - In Search Of The Miraculous
+## Fatima feat. Floating Points - Mind
 **"**Wicked track, a perfect start to Sunday mornings. The tune is produced by Floating Points... Floating points & Fatima = Killer combo! Check out the EP he produced for her called **‘**Follow You.**’****"**
 
-## Nils Frahm - Me
-**"**In my mind, Sundays are meant to be slower days.  Whether that means it's a day to sleep in late, or take a nap in the afternoon, or just spend some time reflecting on the week that's passed.  Nils Frahm has provided the quiet music that's so necessary in these times of reflection.**"**
+## Gap Mangione - Diana In The Autumn Wind
+**"**I love this tune. Nice and mellow for Sundays - those rhodes! This tune was sampled by J Dilla on **‘**Fall in Love**’** by Slum Village - so I’d probably listen to that next!**"**
 
 ## Bibio - Down To The Sound
 **"**I think this is one of the most beautiful songs I've ever heard.**"**
