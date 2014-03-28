@@ -50,5 +50,5 @@ We thought he would be a perfect guest for a morning selection, hope you'll enjo
 **"**I love this tune, probably my favourite at the moment. Nice and mellow for Sundays… and the way it builds!! Just wait…**"**
 
 <p id="outroduction">
-That's all folks! A big thank to [Teen Daze](https://soundcloud.com/teendaze) for their selection. Thanks for listening. Enjoy your sunday!
+That’s all folks! A big thank to Catching Flies for his selection. Thanks for listening and enjoy your sunday!
 </p>
