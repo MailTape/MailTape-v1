@@ -32,7 +32,7 @@ episode_URL: "http://mailta.pe/134/Catching-Flies"
 ---
 
 <p id="introduction">
-This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer ! Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with Catching Flies.</p>
+This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer ! Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with [Catching Flies](https://soundcloud.com/catchingfliesmusic).</p>
 
 # From a live session... 
 We asked few people around us, no one seemed to know him but everyone was looking at each other asking **"**Who's that guy, that's sweet !**"**.  Peacefully, he did an impressive live. If you come across him, we highly recommend ! 
@@ -50,5 +50,5 @@ We thought he would be a perfect guest for a morning selection, hope you'll enjo
 **"**I love this tune, probably my favourite at the moment. Nice and mellow for Sundays… and the way it builds!! Just wait…**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to Catching Flies for his selection. Thanks for listening and enjoy your sunday!
+That’s all folks! A big thank to [Catching Flies](http://catchingflies.bandcamp.com/album/the-long-journey-home "Catching Flies Bandcamp Page") for his selection. Thanks for listening and enjoy your sunday!
 </p>
