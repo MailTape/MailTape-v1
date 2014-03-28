@@ -5,13 +5,13 @@ author: Julien
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: vibrant
+track2_color: vibrant
+track3_color: trippy
+track4_color: dreamy
+track5_color: bliss
+track6_color: bliss
+track7_color: vibrant
 category: "134"
 guest_name: Catching Flies
 track1_title: "Fatima feat. Floating Points - Mind"
