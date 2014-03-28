@@ -32,6 +32,7 @@ episode_URL: "http://mailta.pe/134/Catching-Flies"
 guestPic: guestPic134.jpg
 fbPic: fbPic134.jpg
 musiColor: musiColor134.png
+description: "This morning, we're going to remind you that sometimes it's important to swap your coffee with a beer !  Go out, buy a ticket for a concert and if you're lucky enough, you'll make some cool discoveries as for us with Catching Flies."
 ---
 
 <p id="introduction">
