@@ -5,12 +5,12 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
+track1_color: bliss
+track2_color: trippy
+track3_color: vibrant
+track4_color: vibrant
+track5_color: dreamy
+track6_color: bliss
 track7_color: rough
 category: "135"
 guest_name: Blitz The Ambassador
@@ -23,7 +23,7 @@ track6_link: "https://soundcloud.com/paulnice/whats-goin-on-paulies-potown"
 track7_link: "https://soundcloud.com/redsoul/simba-jaywalking-redsoul-remix"
 track1_title: "Bob James - Nautilus"
 track2_title: Electric Wire Hustle – Waters
-track3_title: "Fela x Pharrell - Happy Mentality (dj100proof Afroblend)"
+track3_title: "dj100 Proof - Happy Mentality"
 track4_title: "Blitz The Ambassador - Make You No Forget Ft. Seun Kuti"
 track5_title: "Brigitte Bardot - La Madrague (Anna Paul rework)"
 track6_title: "What's Paul Nice - Goin On (Paulie's Potown Reflip) / Marvin Gaye"
