@@ -4,7 +4,7 @@ published: true
 author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "9"
-bigTitle_line_ratio: "2"
+bigTitle_line_ratio: "0.5"
 track1_color: bliss
 track2_color: trippy
 track3_color: bliss
