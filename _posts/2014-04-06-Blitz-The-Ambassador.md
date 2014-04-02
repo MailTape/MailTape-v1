@@ -47,7 +47,7 @@ Buying a ticket to explore Africa, this is what you may want to do after having 
 ## Bob James - Nautilus
 BTA: **"**Bob James is an absolute master of subtle grooves. This song exemplifies his style. But the break and bass line are what I adore the most. No wonder so many classic Hip-Hop records sampled this song. My favorite being Ghostface Killah Daytona 500.**"**
 
-## Electric Wire Hustle – Waters
+## Electric Wire Hustle - Waters
 BTA: **"**Electric Wire Hustle are an incredible discovery for me. No one expects guys from New Zealand to have to much soul. This is one song I can keep on repeat. They have mastered that off-beat snare sound that makes your neck snap. Perfect chill sunday music**"**
 
 ## dj100 Proof - Happy Mentality
