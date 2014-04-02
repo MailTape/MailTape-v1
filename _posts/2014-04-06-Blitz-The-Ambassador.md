@@ -45,13 +45,13 @@ Buying a ticket to explore Africa, this is what you may want to do after having 
 # His morning inspiration
 
 ## Bob James - Nautilus
-**"**Bob James is an absolute master of subtle grooves. This song exemplifies his style. But the break and bass line are what I adore the most. No wonder so many classic Hip-Hop records sampled this song. My favorite being Ghostface Killah Daytona 500.**"**
+BTA: **"**Bob James is an absolute master of subtle grooves. This song exemplifies his style. But the break and bass line are what I adore the most. No wonder so many classic Hip-Hop records sampled this song. My favorite being Ghostface Killah Daytona 500.**"**
 
 ## Electric Wire Hustle – Waters
-**"**Electric Wire Hustle are an incredible discovery for me. No one expects guys from New Zealand to have to much soul. This is one song I can keep on repeat. They have mastered that off-beat snare sound that makes your neck snap. Perfect chill sunday music**"**
+BTA: **"**Electric Wire Hustle are an incredible discovery for me. No one expects guys from New Zealand to have to much soul. This is one song I can keep on repeat. They have mastered that off-beat snare sound that makes your neck snap. Perfect chill sunday music**"**
 
 ## dj100 Proof - Happy Mentality
-**"**I love blends. That's practically my entire style of production, so when I hear a great blend I can't help but loose it. This one is especially great because Fela is one of my favorite artists and Pharell is one of my favorite songwriter and producers. So bringing them together just works like magic.**"**
+BTA: **"**I love blends. That's practically my entire style of production, so when I hear a great blend I can't help but loose it. This one is especially great because Fela is one of my favorite artists and Pharell is one of my favorite songwriter and producers. So bringing them together just works like magic.**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [Blitz The Ambassador](http://blitz.mvmt.com/ "Blitz The Ambassador") for his selection. Thanks for listening and enjoy your sunday!
