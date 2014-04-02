@@ -21,6 +21,13 @@ track4_link: "https://soundcloud.com/jakarta-records/blitz-the-ambassador-make-y
 track5_link: "https://soundcloud.com/annapaulk/brigitte-bardot-la-madrague"
 track6_link: "https://soundcloud.com/paulnice/whats-goin-on-paulies-potown"
 track7_link: "https://soundcloud.com/redsoul/simba-jaywalking-redsoul-remix"
+track1_title: "Bob James - Nautilus"
+track2_title: Electric Wire Hustle – Waters
+track3_title: "Fela x Pharrell - Happy Mentality (dj100proof Afroblend)"
+track4_title: "Blitz The Ambassador - Make You No Forget Ft. Seun Kuti"
+track5_title: "Brigitte Bardot - La Madrague (Anna Paul rework)"
+track6_title: "What's Paul Nice - Goin On (Paulie's Potown Reflip) / Marvin Gaye"
+track7_title: "SIMBA - JAYWALKING (REDSOUL REMIX)"
 ---
 
 ## A New Post
