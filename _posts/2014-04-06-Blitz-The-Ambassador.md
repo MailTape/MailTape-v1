@@ -26,7 +26,7 @@ track2_title: Electric Wire Hustle – Waters
 track3_title: "dj100 Proof - Happy Mentality"
 track4_title: "Blitz The Ambassador - Make You No Forget Ft. Seun Kuti"
 track5_title: "Brigitte Bardot - La Madrague (Anna Paul rework)"
-track6_title: "What's Paul Nice - Goin On (Paulie's Potown Reflip) / Marvin Gaye"
+track6_title: "Paul Nice - What's Goin On (Paulie's Potown Reflip) / Marvin Gaye"
 track7_title: "SIMBA - JAYWALKING (REDSOUL REMIX)"
 ---
 
