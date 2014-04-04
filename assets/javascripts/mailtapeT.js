@@ -78,7 +78,7 @@ $(document).ready(
 			var totalDuration = tracksDuration[0]+tracksDuration[1]+tracksDuration[2]+tracksDuration[3]+tracksDuration[4]+tracksDuration[5]+tracksDuration[6];
 			var percentUnit = "%";
 			for (i=0;i<7;i++){
-				$(".track"+(i+1)).width(((tracksDuration[i]/totalDuration)*100-0.1)+percentUnit);
+				$(".track"+(i+1)).width(((tracksDuration[i]/totalDuration)*100-1)+percentUnit);
 			}
 			
 		}
