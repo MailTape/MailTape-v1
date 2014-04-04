@@ -3,7 +3,7 @@ markdown: kramdown
 pygments: true
 permalink: /:categories/:title/
 timezone: Europe/Paris
-paginate: 3
+paginate: 12
 
 ## kramdown config to force interpretation into html block
 kramdown:
