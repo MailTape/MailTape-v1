@@ -27,7 +27,7 @@ track3_title: "dj100 Proof - Happy Mentality"
 track4_title: "Blitz The Ambassador - Make You No Forget Ft. Seun Kuti"
 track5_title: "Brigitte Bardot - La Madrague (Anna Paul rework)"
 track6_title: "Paul Nice - What's Goin On (Paulie's Potown Reflip) / Marvin Gaye"
-track7_title: "SIMBA - JAYWALKING (REDSOUL REMIX)"
+track7_title: "Simba - Jaywalking (Redsoul remix)"
 guestPic: guestPic135.jpg
 fbPic: fbPic135.jpg
 episode_URL: "http://mailta.pe/135/Blitz-The-Ambassador/"
