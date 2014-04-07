@@ -40,7 +40,7 @@ This morning, wake up with a soulful selection inspired by monsieur [Blitz The A
 
 # Africa is the Future
 
-Buying a ticket to explore Africa, this is what you may want to do after having listened to **Afropolitan Dreams**, the new much awaited album of [Blitz The Ambassador](http://blitz.mvmt.com/ "Blitz The Ambassador") (release date april 28th). Mixing poetry, afrobeat, hip-hop with a stunning flow and featuring Oxmo Puccino, Seun Kuti, Angelique Kidjo and Nneka, his music lighted a big green YES in my mind. Truly motivated to make a change, he’ll do everything he can to show you Africa is the future. As he sings _"never in this game for the glory, just to care for Africa, yes that’s all my story and all I had was a dollar and a dream"_.
+Buying a ticket to explore Africa, this is what you may want to do after having listened to **Afropolitan Dreams**, the new much awaited album of [Blitz The Ambassador](http://blitz.mvmt.com/ "Blitz The Ambassador") (release date april 28th). Mixing poetry, afrobeat, hip-hop with a stunning flow and featuring Oxmo Puccino, Seun Kuti, Angelique Kidjo and Nneka, his music lighted a big green YES in my mind. Truly motivated to make a change, he’ll do everything he can to show you Africa is the future. As he sings _"Never in the game for the glory, just a kid from Africa, here to tell my story, and all I had was a dollar and a dream"_.
 
 # His morning inspiration
 
