@@ -14,9 +14,9 @@ track6_color: rough
 track7_color: rough
 category: "138"
 guest_name: Konstantin Sibold
-track1_link: "http://soundcloud.com/colcam/prisoners-song-extended"
-track2_link: "http://mailtapetracks.s3.amazonaws.com/138/track2.mp3"
-track3_link: "http://soundcloud.com/deeply_rooted/harlequin-v3-mp3"
+track1_link: "https://soundcloud.com/tenwallsmusic/boso001-walking-with-elephants"
+track2_link: "https://soundcloud.com/taleofus/tale-of-us-another-earth"
+track3_link: "https://soundcloud.com/ki-records/christian-l-ffler-signals"
 track4_link: "https://soundcloud.com/innervisions/madeleine-snip-mp3"
 track5_link: "https://soundcloud.com/kompakt/dauwd-kindlinn"
 track6_link: "https://soundcloud.com/frenchexpress/isaac-tichauer-changes"
