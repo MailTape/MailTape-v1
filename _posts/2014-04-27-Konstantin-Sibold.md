@@ -5,7 +5,7 @@ author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
+track1_color: bliss
 track2_color: rough
 track3_color: rough
 track4_color: rough
@@ -15,7 +15,7 @@ track7_color: rough
 category: "138"
 guest_name: Konstantin Sibold
 track1_link: "http://soundcloud.com/colcam/prisoners-song-extended"
-track2_link: "http://m.soundcloud.com/st_vincent/sets/love-this-giant/"
+track2_link: "https://soundcloud.com/st_vincent/lazarus"
 track3_link: "http://soundcloud.com/deeply_rooted/harlequin-v3-mp3"
 track4_link: "https://soundcloud.com/innervisions/madeleine-snip-mp3"
 track5_link: "https://soundcloud.com/kompakt/dauwd-kindlinn"
