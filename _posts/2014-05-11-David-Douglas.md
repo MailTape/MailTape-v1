@@ -22,7 +22,7 @@ track4_link: "https://soundcloud.com/daviddouglasmusic/california-poppy"
 track5_link: "https://soundcloud.com/modularpeople/movement-ivory-2"
 track6_link: "https://soundcloud.com/mister-gavin/kind-of-love-original-mix"
 track7_link: "https://soundcloud.com/turksandcaicos/nice-n-slow"
-track1_title: "Franz Schubert - Piano Trio In E-Flat, op. 100"
+track1_title: "Franz Schubert - Piano Trio In E-Flat"
 track3_title: "Air - Le Voyage de Pénélope"
 track4_title: "David Douglas - California Poppy"
 track2_title: "Midlake - Acts Of Man"
@@ -43,11 +43,10 @@ David Douglas is an Utrecht based electronica producer. He released his debut EP
 # His morning selection
 
 ## Franz Schubert - Piano Trio In E Flat
-David Douglas: **"**My father was a graphic designer and played a lot classical music while he was working. Probably that’s why I still have a huge love for those great composers. Classical music is a big inspiration, it was the pop music in that period of time.**"**
+David Douglas: **"**My father was a graphic designer and played a lot of classical music while he was working. Probably that’s why I still have a huge love for those great composers. Classical music is a big inspiration, it used to be as popular as pop music nowadays is.**"**
 
 ## Midlake - Act of Man
-David Douglas: **"**Some time ago I made a road trip through France with my brother. This
-song was popping up over and over. Beautiful soundtrack for road trips on summer nights.**"**
+David Douglas: **"**Some time ago I made a road trip through France with my brother. This song was popping up over and over. Beautiful soundtrack for road trips on summer nights.**"**
 
 ## Air - Le Voyage de Penelope
 David Douglas: **"**When I was 18 I discovered Air. That summer I was hanging with friends along the river side. With beers, the sun and Moon Safari on high rotation.**"**
