@@ -31,14 +31,15 @@ track6_title: "Mister Gavin - Kind Of Love"
 track7_title: "Turks & Caicos - Nice 'n' Slow"
 episode_URL: "http://mailta.pe/140/David-Douglas/"
 fbPic: fbPic140.png
+description: "This Morning, we are pleased to introduce you our guest David Douglas. David has selected three untemporary classics to start our session. We’ve then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!"
 ---
 
 <p id="introduction">
-This Morning, we are pleased to introduce you our guest [David Douglas](https://www.facebook.com/nto.music "David Douglas' Facebook"). David has selected three untemporary classics to start our session. We've then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!</p>
+This Morning, we are pleased to introduce you our guest [David Douglas](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook"). David has selected three untemporary classics to start our session. We've then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!</p>
 
 # The greatness of nature invigorate his music
 
-David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and starts 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
+David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and started 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
 
 # His morning selection
 
@@ -52,5 +53,5 @@ David Douglas: **"**Some time ago I made a road trip through France with my brot
 David Douglas: **"**When I was 18 I discovered Air. That summer I was hanging with friends along the river side. With beers, the sun and Moon Safari on high rotation.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to [David Douglas](https://www.facebook.com/nto.music "David Douglas' Facebook") for his selection. Thanks and enjoy your sunday!
+That’s all folks! A big thank to [David Douglas](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook") for his selection. Thanks and enjoy your sunday!
 </p>
