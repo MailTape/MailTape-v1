@@ -34,7 +34,7 @@ fbPic: fbPic140.png
 ---
 
 <p id="introduction">
-This Morning, be prepared to enter a unique world oscillating in between energy and melancholia. We are very pleased to announce you today our very special guest : [N’to](https://www.facebook.com/nto.music "N'to Facebook"). Influenced by minimal and techno artists such as James Holden, Extrawelt and Stephan Bodzin, his electronic working is recognizable by his using of smoothy melodies surrounded by efficient minimal rhythms.</p>
+This Morning, be prepared to enter a unique world oscillating in between energy and melancholia. We are very pleased to announce you today our very special guest : [N’to](https://www.facebook.com/nto.music "David Douglas' Facebook"). Influenced by minimal and techno artists such as James Holden, Extrawelt and Stephan Bodzin, his electronic working is recognizable by his using of smoothy melodies surrounded by efficient minimal rhythms.</p>
 
 # The story behind the music
 
