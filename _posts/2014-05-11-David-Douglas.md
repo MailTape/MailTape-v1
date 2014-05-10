@@ -34,23 +34,24 @@ fbPic: fbPic140.png
 ---
 
 <p id="introduction">
-This Morning, be prepared to enter a unique world oscillating in between energy and melancholia. We are very pleased to announce you today our very special guest : [N’to](https://www.facebook.com/nto.music "David Douglas' Facebook"). Influenced by minimal and techno artists such as James Holden, Extrawelt and Stephan Bodzin, his electronic working is recognizable by his using of smoothy melodies surrounded by efficient minimal rhythms.</p>
+This Morning, we are pleased to introduce you our guest [David Douglas](https://www.facebook.com/nto.music "David Douglas' Facebook"). David has selected three untemporary classics to start our session. We've then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!</p>
 
-# The story behind the music
+# The greatness of nature invigorate his music
 
-N’to is a french electronic music producer coming from the south of France. His love story with music started in his early childhood with his parents icons. He started learning guitar when he was ten years old and could never give up making music since then. This story may start like many other but, as you will soon understand, it ended like no other.
+David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and starts 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
 
 # His morning selection
 
-## Ten Walls - Walking With Elephants
-N'to: **"**So as for **"**Gotham**"**, I like this track because of its efficiency and simplicity. Love the color and grain of the lead, it's like a strong deep wind instrument. Great orchestration in it by the way.**"**
+## Franz Schubert - Piano Trio In E Flat
+David Douglas: **"**My father was a graphic designer and played a lot classical music while he was working. Probably that’s why I still have a huge love for those great composers. Classical music is a big inspiration, it was the pop music in that period of time.**"**
 
-## Tale Of Us - Another Earth
-N'to: **"**I like this one because it’s kind of solar. The wide melody makes me feel like I’m on a space flight. An intelligent track.**"**
+## Midlake - Act of Man
+David Douglas: **"**Some time ago I made a road trip through France with my brother. This
+song was popping up over and over. Beautiful soundtrack for road trips on summer nights.**"**
 
-## Christian Loeffler - Signals
-N'to: **"**This track is just perfect as it rocks you gently with its smooth and patterned melody. Love it.**"**
+## Air - Le Voyage de Penelope
+David Douglas: **"**When I was 18 I discovered Air. That summer I was hanging with friends along the river side. With beers, the sun and Moon Safari on high rotation.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to [N'to](https://soundcloud.com/ntonto "N'to Soundcloud") for his selection and to his label [Hungry Music](https://www.facebook.com/hungrymusic.fr "Hungry Music Facebook"). Thanks for listening and enjoy your sunday !
+That’s all folks! A big thank to [David Douglas](https://www.facebook.com/nto.music "David Douglas' Facebook") for his selection. Thanks and enjoy your sunday!
 </p>
