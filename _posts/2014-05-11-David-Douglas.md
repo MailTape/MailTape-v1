@@ -34,15 +34,12 @@ fbPic: fbPic140.png
 description: "This Morning, we are pleased to introduce you our guest David Douglas. David has selected three untemporary classics to start our session. We’ve then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!"
 ---
 
-![guestPic140.jpg](/img/guestPic140.jpg)
 <p id="introduction">
 This Morning, we are pleased to introduce you our guest [David Douglas](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook"). David has selected three untemporary classics to start our session. We've then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!</p>
 
 # The greatness of nature invigorate his music
 
-David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and started![guestPic140.jpg](/img/guestPic140.jpg)
-![guestPic140.jpg](/img/guestPic140.jpg)
- 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
+David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and started 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
 
 # His morning selection
 
