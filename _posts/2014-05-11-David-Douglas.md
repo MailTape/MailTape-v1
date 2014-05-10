@@ -5,13 +5,13 @@ author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: bliss
+track2_color: dreamy
+track3_color: dreamy
+track4_color: bliss
+track5_color: bliss
+track6_color: vibrant
+track7_color: vibrant
 category: "140"
 guest_name: David Douglas
 guestPic: guestPic140.jpg
@@ -22,7 +22,7 @@ track4_link: "https://soundcloud.com/daviddouglasmusic/california-poppy"
 track5_link: "https://soundcloud.com/modularpeople/movement-ivory-2"
 track6_link: "https://soundcloud.com/mister-gavin/kind-of-love-original-mix"
 track7_link: "https://soundcloud.com/turksandcaicos/nice-n-slow"
-track1_title: Franz Schubert
+track1_title: "Franz Schubert - Piano Trio In E-Flat, op. 100"
 track3_title: "Air - Le Voyage de Pénélope"
 track4_title: "David Douglas - California Poppy"
 track2_title: "Midlake - Acts Of Man"
