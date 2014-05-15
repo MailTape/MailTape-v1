@@ -35,7 +35,6 @@ description: "This Morning, we are pleased to introduce you our guest David Doug
 musiColor: musiColor140.png
 ---
 
-![guestPic140.jpg](/img/guestPic140.jpg)
 <p id="introduction">
 This Morning, we are pleased to introduce you our guest [David Douglas](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook"). David has selected three untemporary classics to start our session. We've then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!</p>
 
