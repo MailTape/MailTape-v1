@@ -35,24 +35,25 @@ musiColor: musiColor141.png
 ---
 
 <p id="introduction">
-This Morning, [Jesper Ryom](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook") has taken control of the MailTape and (most probably) your soul too. His selection is a pure combination of hiden jewels and heavy rythms.
+This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") inspired us a rainbow MailTape and will (most probably) your soul too. His selection is a combination of hiden jewels and heavy Berlin music.
 . Enjoy!</p>
 
-# The greatness of nature invigorate his music
+# A electronic tinkerer with real performer chops
 
-David Douglas is an Utrecht based electronica producer. He released his debut EP “Royal Horticultural Society” in 2012 and started 2014 with a brand new single, entitled “Higher”. Higher is the first track of his new full-length album due to release 22th of May this year. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
+I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. ![musiColor141.png](/img/musiColor141.png)
+You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
 
 # His morning selection
 
-## Franz Schubert - Piano Trio In E Flat
-David Douglas: **"**My father was a graphic designer and played a lot of classical music while he was working. Probably that’s why I still have a huge love for those great composers. Classical music is a big inspiration, it used to be as popular as pop music nowadays is.**"**
+## Your Friend - Tame One
+Jesper Ryom: **"**Your Friend released her debut EP on one of my favorite labels, Domino, in the beginning of April. This single from the EP is beautifully balanced song-writing. Love her voice, the lyrics and lofi-ishness of the recording. Especially the drums.**"**
 
-## Midlake - Act of Man
-David Douglas: **"**Some time ago I made a road trip through France with my brother. This song was popping up over and over. Beautiful soundtrack for road trips on summer nights.**"**
+## The War on Drugs - Red Eyes
+Jesper Ryom: **"**I guess everybody’s heard this already, but I don’t care - you should listen to it again. It’s amazing.**"**
 
-## Air - Le Voyage de Penelope
-David Douglas: **"**When I was 18 I discovered Air. That summer I was hanging with friends along the river side. With beers, the sun and Moon Safari on high rotation.**"**
+## Fort Romeau - Her Dream
+Jesper Ryom: **"**Fort Romeau is such a great producer - only drops quality tunes. This one from his latest EP is no exception. Love the semi-crooked beat and that looming bass line is super cool as well.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to [David Douglas](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook") for his selection. Thanks and enjoy your sunday!
+That’s all folks! A big thank to [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") for his selection. Thanks and enjoy your sunday!
 </p>
