@@ -40,7 +40,7 @@ This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryo
 
 # A electronic tinkerer with real performer chops
 
-I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen, I got hypnotised. What I really like in his music is its progressive and changing special touch. His debut EP is simply amazing. I highly recommand its purchase on [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
+I had the chance to discover Jesper Ryom through one of our previous guest [Port Rouge](http://mailta.pe/132/Port-Rouge/). Immediatly after my very first listen, I got hypnotised. What I really like in his music is its progressive and changing special touch. His debut EP is simply amazing. I highly recommand its purchase on [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
 
 # His morning selection
 
