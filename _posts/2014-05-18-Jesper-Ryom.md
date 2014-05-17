@@ -28,7 +28,7 @@ track3_title: "Fort Romeau - Her Dream"
 track4_title: "Jesper Ryom - Viewpoint"
 track5_title: "https://soundcloud.com/benjamin-clementine/cornerstone"
 track6_title: "Maudlin Strangers - Play Overdose"
-episode_URL: "http://mailta.pe/141/Jesper-Ryom"
+episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
 track7_title: "Bearcubs x Tom Misch - Colours Of Freedom"
 fbPic: fbPic141.jpg
 musiColor: musiColor141.png
