@@ -40,8 +40,7 @@ This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryo
 
 # A electronic tinkerer with real performer chops
 
-I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. ![musiColor141.png](/img/musiColor141.png)
-You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
+I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
 
 # His morning selection
 
