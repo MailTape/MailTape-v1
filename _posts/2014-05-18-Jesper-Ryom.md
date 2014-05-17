@@ -32,15 +32,15 @@ episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
 track7_title: "Benjamin Clementine - Cornerstone"
 fbPic: fbPic141.jpg
 musiColor: musiColor141.png
+description: "his Morning, Jesper Ryom inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some piano based bliss tracks. Enjoy!"
 ---
 
 <p id="introduction">
-This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") inspired us a rainbow MailTape and will (most probably) your soul too. His selection is a combination of hiden jewels and heavy Berlin music.
-. Enjoy!</p>
+This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some piano based bliss tracks. Enjoy!</p>
 
 # A electronic tinkerer with real performer chops
 
-I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. Highly recommanded purchase [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
+I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen, I got hypnotised. What I really like in his music is its progressive and changing special touch. His debut EP is simply amazing. I highly recommand its purchase on [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
 
 # His morning selection
 
