@@ -11,7 +11,7 @@ track3_color: rough
 track4_color: vibrant
 track5_color: bliss
 track6_color: vibrant
-track7_color: vibrant
+track7_color: bliss
 category: "141"
 guest_name: Jesper Ryom
 guestPic: guestPic141.jpg
