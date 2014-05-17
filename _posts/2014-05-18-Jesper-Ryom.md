@@ -35,7 +35,7 @@ musiColor: musiColor141.png
 ---
 
 <p id="introduction">
-This Morning, [Jesper Ryom](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook") has taken control of the MailTape and (most probably) your soul too. His selection is a pure combination of hiden jewels and heavy rythms. ![guestPic141.jpg](/img/guestPic141.jpg)
+This Morning, [Jesper Ryom](https://www.facebook.com/musicdaviddouglas "David Douglas' Facebook") has taken control of the MailTape and (most probably) your soul too. His selection is a pure combination of hiden jewels and heavy rythms.
 . Enjoy!</p>
 
 # The greatness of nature invigorate his music
