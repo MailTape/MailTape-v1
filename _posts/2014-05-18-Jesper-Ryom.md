@@ -21,7 +21,7 @@ track3_link: "https://soundcloud.com/fortromeau/her-dream"
 track4_link: "https://soundcloud.com/jesper-ryom/viewpoint?in=jesper-ryom/sets/syvsover"
 track5_link: "https://soundcloud.com/benjamin-clementine/cornerstone"
 track6_link: "https://soundcloud.com/maudlinstrangers/overdose"
-track7_link: "https://soundcloud.com/bearcubs/bearcubs-x-tom-misch-colours-of-freedom"
+track7_link: "https://soundcloud.com/tom-misch/understanding"
 track1_title: "Your Friend - Tame One"
 track2_title: "The War on Drugs - Red Eyes"
 track3_title: "Fort Romeau - Her Dream"
@@ -29,7 +29,7 @@ track4_title: "Jesper Ryom - Viewpoint"
 track5_title: "https://soundcloud.com/benjamin-clementine/cornerstone"
 track6_title: "Maudlin Strangers - Play Overdose"
 episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
-track7_title: "Bearcubs x Tom Misch - Colours Of Freedom"
+track7_title: "Tom Misch - Understanding"
 fbPic: fbPic141.jpg
 musiColor: musiColor141.png
 ---
@@ -40,7 +40,7 @@ This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryo
 
 # A electronic tinkerer with real performer chops
 
-I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. You can pre-order it on [bandcamp](http://atomnation.bandcamp.com/album/moon-observations "Pre-order now!").
+I had the chance to discover Jesper Ryom through one of our previous guest Fort Rouge. Immediatly after my very first listen I got hypnotised. It seemed to me that in each of his songs there was multiple on. His debut EP is simply pure diamond. Highly recommanded purchase [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
 
 # His morning selection
 
