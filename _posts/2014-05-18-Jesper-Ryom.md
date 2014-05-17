@@ -2,7 +2,7 @@
 layout: episode
 published: true
 author: Ludovic
-guest_color: trippy
+guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: dreamy
