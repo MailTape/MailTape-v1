@@ -24,6 +24,24 @@ track2_title: "Tom Scott - Today "
 track4_title: "Grey Reverend - Everlasting"
 ---
 
-## A New Post
+<p id="introduction">
+This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# A electronic tinkerer with real performer chops
+
+I had the chance to discover Jesper Ryom through one of our previous guest [Port Rouge](http://mailta.pe/132/Port-Rouge/). Immediatly after my very first listen, I got hypnotised. What I really like in his music is its progressive and changing special touch. His debut EP is simply amazing. I highly recommand its purchase on [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
+
+# His morning selection
+
+## Nina Simone - I Loves You Porgy
+Grey Reverend: **"**This is a great song for a rainy sunday morning! It never ceases to make me feel like there is still beauty in the world amidst all of the ugly around us…**"**
+
+## Tom Scott - Today
+Grey Reverend: **"**This version of this song is one of my favorite productions. It swings just right and I often listen to this one when I’m on the move during a sunday a.m. really gets me going…**"**
+
+## Dusty Springfield - Just A Little loving
+Grey Reverend: **"**I love this song from Live in Memphis by Dusty! The strings and her voice are so sexy and lush. it’s a great song for a “walk of shame” or just for setting the mood with a lover, or **"**potential**"** lover:)**"**
+
+<p id="outroduction">
+That’s all folks! A big thank to [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") for his selection. Thanks and enjoy your sunday!
+</p>
