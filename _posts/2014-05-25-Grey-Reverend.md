@@ -41,7 +41,7 @@ Grey Reverend: **"**This is a great song for a rainy sunday morning! It never ce
 Grey Reverend: **"**This version of this song is one of my favorite productions. It swings just right and I often listen to this one when I’m on the move during a sunday a.m. really gets me going…**"**
 
 ## Dusty Springfield - Just A Little loving
-Grey Reverend: **"**I love this song from Live in Memphis by Dusty! The strings and her voice are so sexy and lush. it’s a great song for a “walk of shame” or just for setting the mood with a lover, or **"**potential**"** lover:)**"**
+Grey Reverend: **"**I love this song from Live in Memphis by Dusty! The strings and her voice are so sexy and lush. it’s a great song for a **“**walk of shame**”** or just for setting the mood with a lover, or **"**potential**"** lover:)**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") for his selection. Thanks and enjoy your sunday!
