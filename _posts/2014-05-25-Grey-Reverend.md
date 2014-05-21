@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: Julien
 guest_color: dreamy
 bigTitle_font_ratio: "6"
@@ -22,6 +22,7 @@ track3_title: "Dusty Springfield - Just A Little loving"
 track1_title: "Nina Simone - I Loves You Porgy"
 track2_title: "Tom Scott - Today "
 track4_title: "Grey Reverend - Everlasting"
+episode_URL: "http://mailta.pe/142/Grey-Reverend/"
 ---
 
 <p id="introduction">
