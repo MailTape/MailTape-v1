@@ -32,11 +32,11 @@ track7_link: "https://soundcloud.com/user2544609/sixto-rodriguez-inner-city-blue
 ---
 
 <p id="introduction">
-This Morning, [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!</p>
+This Morning, a warm voice will wake you up. We are very pleased to introduce you to Grey Reverend. His selection perfectly reflects the emotions he brought in his own music. We hope you'll like it.</p>
 
-# A electronic tinkerer with real performer chops
+# The ingredients of a modern bluesman
 
-I had the chance to discover Jesper Ryom through one of our previous guest [Port Rouge](http://mailta.pe/132/Port-Rouge/). Immediatly after my very first listen, I got hypnotised. What I really like in his music is its progressive and changing special touch. His debut EP is simply amazing. I highly recommand its purchase on [iTunes](https://itunes.apple.com/album/syvsover-ep/id645445493 "buy now!").
+Grey Reverend is a very singular artist. Signed on the label Ninja Tune, he released two album full of smoothness and poetry. His voice revealed to be a perfect fit for some really cool collaborations. Also don't miss an opportunity to see him live. That being said, finish your breakfast and go listening to him, he'll made your sunday...
 
 # His morning selection
 
