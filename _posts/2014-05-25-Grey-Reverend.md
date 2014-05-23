@@ -50,5 +50,5 @@ Grey Reverend: **"**This version of this song is one of my favorite productions.
 Grey Reverend: **"**I love this song from Live in Memphis by Dusty! The strings and her voice are so sexy and lush. it’s a great song for a **“**walk of shame**”** or just for setting the mood with a lover, or **"**potential**"** lover:)**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to [Jesper Ryom](https://www.facebook.com/jesperryommusic "Jesper Ryom's Facebook") for his selection. Thanks and enjoy your sunday!
+That’s all folks! A big thank to Grey Reverend for his selection. Thanks and enjoy your sunday!
 </p>
