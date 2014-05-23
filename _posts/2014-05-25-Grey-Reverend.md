@@ -10,7 +10,7 @@ track2_color: vibrant
 track3_color: vibrant
 track4_color: dreamy
 track5_color: vibrant
-track6_color: rough
+track6_color: dreamy
 track7_color: vibrant
 category: "142"
 guest_name: Grey Reverend
