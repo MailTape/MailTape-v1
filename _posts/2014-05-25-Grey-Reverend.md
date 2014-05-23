@@ -32,11 +32,11 @@ track7_link: "https://soundcloud.com/user2544609/sixto-rodriguez-inner-city-blue
 ---
 
 <p id="introduction">
-This Morning, a warm voice will wake you up. We are very pleased to introduce you to Grey Reverend. His selection perfectly reflects the emotions he brought in his own music. We hope you'll like it.</p>
+This Morning, a warm voice will wake you up. We are very pleased to introduce you to [Grey Reverend](https://soundcloud.com/grey-reverend "Grey Reverend Soundcloud Page"). His selection perfectly reflects the emotions he brings in his own music. We hope you'll like it.</p>
 
 # The ingredients of a modern bluesman
 
-Grey Reverend is a very singular artist. Signed on the label Ninja Tune, he released two album full of smoothness and poetry. His voice revealed to be a perfect fit for some really cool collaborations. Also don't miss an opportunity to see him live. That being said, finish your breakfast and go listening to him, he'll made your sunday...
+[Grey Reverend](http://ninjatune.net/artist/grey-reverend#.U392AZR_uBA "Grey Reverend's Page on Ninja Tune ") is a very singular artist. Signed on the label [Ninja Tune](http://ninjatune.net/ "Ninja Tune Website"), he released two album full of smoothness and poetry. His voice revealed to be a perfect fit for some really cool [collaborations](http://ninjatune.net/release/bonobo/first-fires). Also don't miss an opportunity to see him live. That being said, finish your breakfast and go listening to him, he'll made your sunday...
 
 # His morning selection
 
@@ -50,5 +50,5 @@ Grey Reverend: **"**This version of this song is one of my favorite productions.
 Grey Reverend: **"**I love this song from Live in Memphis by Dusty! The strings and her voice are so sexy and lush. it’s a great song for a **“**walk of shame**”** or just for setting the mood with a lover, or **"**potential**"** lover:)**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to Grey Reverend for his selection. Thanks and enjoy your sunday!
+That’s all folks! A big thank to [Grey Reverend](https://www.facebook.com/greyreverend "Grey Reverend Facebook") for his selection. Thanks and enjoy your sunday!
 </p>
