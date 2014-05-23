@@ -9,9 +9,9 @@ track1_color: vibrant
 track2_color: vibrant
 track3_color: vibrant
 track4_color: dreamy
-track5_color: rough
+track5_color: vibrant
 track6_color: rough
-track7_color: rough
+track7_color: vibrant
 category: "142"
 guest_name: Grey Reverend
 track1_link: "https://soundcloud.com/zo-lamoureux/nina-simone-i-loves-you-porgy"
@@ -23,6 +23,12 @@ track1_title: "Nina Simone - I Loves You Porgy"
 track2_title: "Tom Scott - Today "
 track4_title: "Grey Reverend - Everlasting"
 episode_URL: "http://mailta.pe/142/Grey-Reverend/"
+track5_title: "Mice Parade - Nights Wave"
+track5_link: "https://soundcloud.com/fatcatrecords/mice-parade-nights-wave"
+track6_link: "https://soundcloud.com/bluenoterecords/jose-james-everylittlething"
+track6_title: "José James - EveryLittleThing"
+track7_title: "Sixto Rodriguez - Inner City Blues"
+track7_link: "https://soundcloud.com/user2544609/sixto-rodriguez-inner-city-blues"
 ---
 
 <p id="introduction">
