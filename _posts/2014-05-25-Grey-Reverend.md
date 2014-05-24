@@ -29,6 +29,7 @@ track6_link: "https://soundcloud.com/long-arm/sleepsafe"
 track6_title: "Long Arm - Sleepsafe"
 track7_title: "Sixto Rodriguez - Inner City Blues"
 track7_link: "https://soundcloud.com/user2544609/sixto-rodriguez-inner-city-blues"
+guestPic: guestPic142.jpg
 ---
 
 <p id="introduction">
