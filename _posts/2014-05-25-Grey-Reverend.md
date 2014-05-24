@@ -30,6 +30,9 @@ track6_title: "Long Arm - Sleepsafe"
 track7_title: "Sixto Rodriguez - Inner City Blues"
 track7_link: "https://soundcloud.com/user2544609/sixto-rodriguez-inner-city-blues"
 guestPic: guestPic142.jpg
+fbPic: fbPic142.jpg
+musiColor: musiColor142.png
+description: "This Morning, a warm voice will wake you up. We are very pleased to introduce you to Grey Reverend. His selection perfectly reflects the emotions he brings in his own music. We hope you'll like it."
 ---
 
 <p id="introduction">
