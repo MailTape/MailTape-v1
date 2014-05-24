@@ -36,7 +36,7 @@ This Morning, a warm voice will wake you up. We are very pleased to introduce yo
 
 # The ingredients of a modern bluesman
 
-[Grey Reverend](http://ninjatune.net/artist/grey-reverend#.U392AZR_uBA "Grey Reverend's Page on Ninja Tune ") is a very singular artist. Signed on the label [Ninja Tune](http://ninjatune.net/ "Ninja Tune Website"), he released two albums full of smoothness and poetry. His voice revealed to be a perfect fit for some really cool [collaborations](http://ninjatune.net/release/bonobo/first-fires). Also don't miss an opportunity to see him live. That being said, finish your breakfast and go listening to him, he'll make your sunday...
+[Grey Reverend](http://ninjatune.net/artist/grey-reverend#.U392AZR_uBA "Grey Reverend's Page on Ninja Tune ") is a very singular artist. Signed on the label [Ninja Tune](http://ninjatune.net/ "Ninja Tune Website"), he released two albums full of smoothness and poetry. He has also done some really cool featurings like [this one](http://ninjatune.net/release/bonobo/first-fires "Bonobo Featuring Grey Reverend - First Fires") we had the chance to see live. That being said, finish your breakfast while listening to him, he'll make your sunday...
 
 # His morning selection
 
