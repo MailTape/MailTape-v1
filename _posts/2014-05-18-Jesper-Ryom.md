@@ -15,7 +15,7 @@ track7_color: bliss
 category: "141"
 guest_name: Jesper Ryom
 guestPic: guestPic141.jpg
-track1_link: "https://soundcloud.com/dominorecordco/your-friend-tame-one"
+track1_link: "http://soundcloud.com/dominorecordco/your-friend-tame-one"
 track2_link: "https://soundcloud.com/thewarondrugs/red-eyes"
 track3_link: "https://soundcloud.com/fortromeau/her-dream"
 track4_link: "https://soundcloud.com/jesper-ryom/viewpoint?in=jesper-ryom/sets/syvsover"
@@ -32,6 +32,7 @@ episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
 track7_title: 
   - "Tom Misch - Dusty Memories"
   - "Tom and Laura Misch - Follow"
+  - "Tom Misch - Dusty Memories,Tom and Laura Misch - Follow"
 fbPic: fbPic141.jpg
 musiColor: musiColor141.png
 description: "his Morning, Jesper Ryom inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!"
