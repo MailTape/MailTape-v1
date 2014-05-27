@@ -29,10 +29,7 @@ track4_title: "Jesper Ryom - Viewpoint"
 track5_title: "Tom Misch - Understanding"
 track6_title: "Maudlin Strangers - Play Overdose"
 episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
-track7_title: 
-  - "Tom Misch - Dusty Memories"
-  - "Tom and Laura Misch - Follow"
-  - "Tom Misch - Dusty Memories,Tom and Laura Misch - Follow"
+track7_title: "Tom and Laura Misch - Follow"
 fbPic: fbPic141.jpg
 musiColor: musiColor141.png
 description: "his Morning, Jesper Ryom inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!"
