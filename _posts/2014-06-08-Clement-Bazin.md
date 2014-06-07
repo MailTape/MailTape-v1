@@ -32,6 +32,7 @@ track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
 guestPic: guestPic144.jpg
 fbPic: fbPic144.jpg
 musiColor: musiColor144.png
+description: "This morning, the french beatmaker Clément Bazin So will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready..."
 ---
 
 <p id="introduction">
