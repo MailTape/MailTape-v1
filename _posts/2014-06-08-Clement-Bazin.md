@@ -9,9 +9,9 @@ track1_color: vibrant
 track2_color: bliss
 track3_color: bliss
 track4_color: vibrant
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track5_color: dreamy
+track6_color: bliss
+track7_color: bliss
 category: "144"
 guest_name: Clément Bazin
 track1_link: "https://soundcloud.com/pm-riviere/dimlite-cant-get-used-to-those"
@@ -23,6 +23,12 @@ track2_title: "Flako - Lonely Town feat. Dirg Gerner"
 track3_title: "Miguel - Do You… (Cashmere Cat Remix)"
 track4_title: "Clément Bazin - Come to this"
 episode_URL: "http://mailta.pe/144/Clement-Bazin/"
+track5_title: "Laite Bluem - Rollin Up"
+track5_link: "https://soundcloud.com/laitebluem/rollin-up"
+track6_link: "https://soundcloud.com/romefortune/one-time-for-prod-four-tet"
+track6_title: "Rome Fortune - One Time For"
+track7_title: "Taylor McFerrin - The Antidote (feat. Nai Palm)"
+track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
 ---
 
 <p id="introduction">
