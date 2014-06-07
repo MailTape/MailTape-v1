@@ -42,13 +42,13 @@ With their debut EP, [Veneries Dies](https://itunes.apple.com/fr/album/veneris-d
 # His morning inspiration
 
 ## Dimlite - Can't Get Used To Those
-Clément Bazin: **"**Dimlite is my favorite producer, this song is like a hip hop beat, a simple loop yet perfect that won't leave you for the rest of your sunday, there is always so much emotion and layer in each Dimlite track.**"**
+_Clément Bazin:_ **"**Dimlite is my favorite producer, this song is like a hip hop beat, a simple loop yet perfect that won't leave you for the rest of your sunday, there is always so much emotion and layer in each Dimlite track.**"**
 
 ## Flako - Lonely Town feat. Dirg Gerner
-Clément Bazin: **"**Dirg Gerner aka Flako is also a badboy, I love this Dirg Gerner project, beautiful song, beautiful lyrics. I guess we all feel that way from time to time and I guess it happens a lot to many producer, just staying alone for so much time making music, diging in your own mind.**"**
+_Clément Bazin:_ **"**Dirg Gerner aka Flako is also a badboy, I love this Dirg Gerner project, beautiful song, beautiful lyrics. I guess we all feel that way from time to time and I guess it happens a lot to many producer, just staying alone for so much time making music, diging in your own mind.**"**
 
 ## Miguel - Do You… (Cashmere Cat Remix)
-Clément Bazin: **"**Cashmere cat always manage to do the cutest song, this one is perfect to kick yourself out of bed, clean a bit the bed room and start the day. this song feels good, especially after this 2 other tracks. I could have pick an other Cashmere cat tracks as they are always joyfull and perfect for this time of the day.**"**
+_Clément Bazin:_ **"**Cashmere cat always manage to do the cutest song, this one is perfect to kick yourself out of bed, clean a bit the bed room and start the day. this song feels good, especially after this 2 other tracks. I could have pick an other Cashmere cat tracks as they are always joyfull and perfect for this time of the day.**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to Clément Bazin for his selection and to [Laurene Berchoteau](http://www.laureneberchoteau.com/ "Laurene Berchoteau Website") for the photo. Thanks for listening and enjoy your sunday !
