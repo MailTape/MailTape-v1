@@ -53,5 +53,5 @@ _Clément Bazin:_ **"**Dirg Gerner aka Flako is also a badboy, I love this Dirg 
 _Clément Bazin:_ **"**Cashmere cat always manage to do the cutest song, this one is perfect to kick yourself out of bed, clean a bit the bed room and start the day. this song feels good, especially after this 2 other tracks. I could have pick an other Cashmere cat tracks as they are always joyfull and perfect for this time of the day.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to Clément Bazin for his selection and to [Laurene Berchoteau](http://www.laureneberchoteau.com/ "Laurene Berchoteau Website") for the photo. Thanks for listening and enjoy your sunday !
+That’s all folks! A big thank to [Clément Bazin](https://www.facebook.com/pages/Cl%C3%A9ment-Bazin/240506162716168?fref=ts "Clément Bazin Facebook") for his selection and to [Laurene Berchoteau](http://www.laureneberchoteau.com/ "Laurene Berchoteau Website") for the photo. Thanks for listening and enjoy your sunday !
 </p>
