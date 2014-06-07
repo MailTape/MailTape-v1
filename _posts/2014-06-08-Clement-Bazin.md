@@ -39,7 +39,7 @@ This morning, the french beatmaker [Clément Bazin](https://soundcloud.com/clemb
 
 # From night thoughts to morning selection
 
-With his [EP Night Things](http://withusrec.bandcamp.com/album/night-things-ep "Clément Bazin Night Things EP ") released on the label [With Us Record](https://soundcloud.com/withusrecords "With Us Record Soundcloud"), Clément Bazin explores night feelings in a dreamy and melodic way. The richness of his music sounds unique to us. Sometimes quiet, sometimes more pushy, his music should stick with you for a while, from night walks to morning wake up. 
+With his [Night Things EP](http://withusrec.bandcamp.com/album/night-things-ep "Clément Bazin Night Things EP ") released on the label [With Us Record](https://soundcloud.com/withusrecords "With Us Record Soundcloud"), Clément Bazin explores night feelings in a dreamy and melodic way. The richness of his music sounds unique to us. Sometimes quiet, sometimes more pushy, his music should stick with you for a while, from night walks to morning wake up. 
 
 # His morning inspiration
 
