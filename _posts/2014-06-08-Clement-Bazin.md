@@ -35,11 +35,11 @@ musiColor: musiColor144.png
 ---
 
 <p id="introduction">
-This morning, we’ll start the day with a very aerial and bliss selection inspired by the french duo [Vendredi](https://www.facebook.com/vendredimusic "Check them on fb"). Each beat feeds our imagination, enlarging our vision. New landscapes, before hidden, now appears. Head in the sky, feet on the ground, let’s explore the world with an open heart like Jacques Tati used to.</p>
+This morning, the french beatmaker [Clément Bazin](https://soundcloud.com/clembaz "Clément Bazin Soundcloud") will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...</p>
 
-# Musicians and storytellers
+# From night thoughts to morning selection
 
-With their debut EP, [Veneries Dies](https://itunes.apple.com/fr/album/veneris-dies-ep/id823647184 "Listen to it on iTunes"), [Vendredi](https://www.facebook.com/vendredimusic "Check them on fb") creates intriguing wild landscapes where majestuous trees have taken back their land over the ancient ruins of a previous civilisation. Oscillating between dreamy, bliss and trippy vibes, rare are the french artists who try to compete with the like of Flying Lotus and Amon Tobin. For this, we can only respect them and wish them the best.
+With his [EP Night Things](http://withusrec.bandcamp.com/album/night-things-ep "Clément Bazin Night Things EP ") released on the label [With Us Record](https://soundcloud.com/withusrecords "With Us Record Soundcloud"), Clément Bazin explores night feelings in a dreamy and melodic way. The richness of his music sounds unique to us. Sometimes quiet, sometimes more pushy, his music should stick with you for a while, from night walks to morning wake up. 
 
 # His morning inspiration
 
