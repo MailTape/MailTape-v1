@@ -37,11 +37,11 @@ musiColor: musiColor144.png
 <p id="introduction">
 This morning, the french beatmaker [Clément Bazin](https://soundcloud.com/clembaz "Clément Bazin Soundcloud") will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...</p>
 
-# From night thoughts to morning selection
+# From night thoughts to morning inspiration
 
 With his [Night Things EP](http://withusrec.bandcamp.com/album/night-things-ep "Clément Bazin Night Things EP ") released on the label [With Us Record](https://soundcloud.com/withusrecords "With Us Record Soundcloud"), Clément Bazin explores night feelings in a dreamy and melodic way. The richness of his music sounds unique to us. Sometimes quiet, sometimes more pushy, his music should stick with you for a while, from night walks to morning wake up. 
 
-# His morning inspiration
+# His morning selection
 
 ## Dimlite - Can't Get Used To Those
 _Clément Bazin:_ **"**Dimlite is my favorite producer, this song is like a hip hop beat, a simple loop yet perfect that won't leave you for the rest of your sunday, there is always so much emotion and layer in each Dimlite track.**"**
