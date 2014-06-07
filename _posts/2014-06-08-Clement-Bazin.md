@@ -29,6 +29,7 @@ track6_link: "https://soundcloud.com/romefortune/one-time-for-prod-four-tet"
 track6_title: "Rome Fortune - One Time For"
 track7_title: "Taylor McFerrin - The Antidote (feat. Nai Palm)"
 track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
+guestPic: guestPic144.jpg
 ---
 
 <p id="introduction">
