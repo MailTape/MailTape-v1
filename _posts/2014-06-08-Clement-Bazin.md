@@ -13,7 +13,7 @@ track5_color: rough
 track6_color: rough
 track7_color: rough
 category: "144"
-guest_name: Clement Bazin
+guest_name: Clément Bazin
 track1_link: "https://soundcloud.com/pm-riviere/dimlite-cant-get-used-to-those"
 track2_link: "https://soundcloud.com/dirggerner/flako-lonely-town-feat-dirg"
 track3_link: "https://soundcloud.com/cashmerecat/do-you-cashmere-cat-remix"
@@ -21,7 +21,7 @@ track4_link: "https://soundcloud.com/withusrecords/1-come-to-this"
 track1_title: "Dimlite - Can't Get Used To Those"
 track2_title: "Flako - Lonely Town feat. Dirg Gerner"
 track3_title: "Miguel - Do You… (Cashmere Cat Remix)"
-track4_title: "Clement Bazin - Come to this"
+track4_title: "Clément Bazin - Come to this"
 episode_URL: "http://mailta.pe/144/Clement-Bazin/"
 ---
 
