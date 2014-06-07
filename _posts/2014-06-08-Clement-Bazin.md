@@ -30,6 +30,8 @@ track6_title: "Rome Fortune - One Time For"
 track7_title: "Taylor McFerrin - The Antidote (feat. Nai Palm)"
 track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
 guestPic: guestPic144.jpg
+fbPic: fbPic144.jpg
+musiColor: musiColor144.png
 ---
 
 <p id="introduction">
