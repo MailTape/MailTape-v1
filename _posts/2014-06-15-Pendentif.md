@@ -45,6 +45,8 @@ Lifeblood of the new wave of pop music that is sweeping France, Pendentif form a
 This is the song to listen when you get out of the shower, just before joining buddies for a countryside Sunday barbecue.
 
 ##Matthewdavid - In My World
+Perfect for awakening Sunday when you went to bed at 6am after a good party, in your garden, in the sun with a cup of coffee. 
+You do not know if it's your brain that still spin or if it's the song?
 
 <p id="outroduction">
 That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
