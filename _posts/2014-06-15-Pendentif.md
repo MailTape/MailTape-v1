@@ -47,7 +47,7 @@ Lifeblood is a new pop music wave which is blasting France. Bridging charming En
 _Pendentif:_ **"**This song is literally meant to be listened when you get out of the shower, right before joining your buddies on a countryside Sunday barbecue.**"**
 
 ##Matthewdavid - In My World
-_Pendentif:_ **"**This track i perfect to wake up on a hangovered Sunday morning when you went to bed at 6am. No matter where you are, in your garden, under the sun or with a cup of coffee, you won’t be able to distinguish whether it’s your brain that still spin or if it’s the song.**"**
+_Pendentif:_ **"**This track is perfect to wake up on a hangovered Sunday morning when you went to bed at 6am. No matter where you are, in your garden, under the sun or with a cup of coffee, you won’t be able to distinguish whether it’s your brain that still spin or if it’s the song.**"**
 
 ##Rhye - 3 Days
 _Pendentif:_ **"**We selected this specific track, but this is the entire album that you should listen. Awesome for a chill Sunday with your sweetheart.**"**
