@@ -10,7 +10,7 @@ track2_color: trippy
 track3_color: bliss
 track4_color: vibrant
 track5_color: bliss
-track6_color: rough
+track6_color: dreamy
 track7_color: bliss
 category: "145"
 guest_name: Pendentif
@@ -32,6 +32,9 @@ track7_title: "Caribou - Can't Do Without You"
 episode_URL: "http://mailta.pe/145/Pendentif"
 ---
 
-## A New Post
+<p id="introduction">
+This morning, the Bordeaux-based French pop band [Pendentif](https://soundcloud.com/clembaz "Clément Bazin Soundcloud") will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<p id="outroduction">
+That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
+</p>
