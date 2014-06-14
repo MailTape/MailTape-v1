@@ -32,6 +32,7 @@ track7_title: "Caribou - Can't Do Without You"
 episode_URL: "http://mailta.pe/145/Pendentif"
 ---
 
+![guestPic145.jpg.jpg](/img/guestPic145.jpg.jpg)
 <p id="introduction">
 This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") have prepared for you a freshly musical cocktail to consume irresponsibly...</p>
 
