@@ -33,7 +33,11 @@ episode_URL: "http://mailta.pe/145/Pendentif"
 ---
 
 <p id="introduction">
-This morning, the Bordeaux-based French pop band [Pendentif](https://soundcloud.com/clembaz "Clément Bazin Soundcloud") will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready...</p>
+This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") have prepared a musical cocktail to consume irresponsibly. Quietly first, his selection will then energize your morning, be ready...</p>
+
+# From night thoughts to morning inspiration
+
+3 years ago, Pendentif was one of the first bands to blossom out of a new French music scene, having been shaped by their English speaking peers while their lyrics remained attached to a tradition of great French pop classics. 
 
 <p id="outroduction">
 That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
