@@ -39,7 +39,12 @@ This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendenti
 
 Lifeblood of the new wave of pop music that is sweeping France, Pendentif form a nice bridge between the charming English pop and the language of Molière. Their compositions full of intelligence, freshness and charm combine with malice contemporary pop with the tradition of great French classics.
 
-#Their selection
+#Their morning selection
+
+## Blood Orange - You're Not Good Enough
+This is the song to listen when you get out of the shower, just before joining buddies for a countryside Sunday barbecue.
+
+##Matthewdavid - In My World
 
 <p id="outroduction">
 That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
