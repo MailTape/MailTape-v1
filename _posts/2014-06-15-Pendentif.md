@@ -42,15 +42,14 @@ Lifeblood of the new wave of pop music that is sweeping France, Pendentif form a
 #Their morning selection
 
 ## Blood Orange - You're Not Good Enough
-_Pendentif:_ **"**This is the song to listen when you get out of the shower, just before joining buddies for a countryside Sunday barbecue.
+_Pendentif:_ **"**This is the song to listen when you get out of the shower, just before joining buddies for a countryside Sunday barbecue.**"**
 
 ##Matthewdavid - In My World
-_Pendentif:_ **"**Perfect for awakening Sunday when you went to bed at 6am after a good party, in your garden, in the sun with a cup of coffee. 
-You don't know if it's your brain that still spin or if it's the song.
+_Pendentif:_ **"**Perfect to wake up on Sunday morning when you went to bed at 6am after a good party, in your garden, under the sun, with a cup of coffee. You don’t know if it’s your brain that still spin or if it’s the song.**"**
 
 ##Rhye - 3 Days
 _Pendentif:_ **"**We chose this title, but this is all the album that you need to listen.
-Perfect for a chilling Sunday under the quilt with your love.
+Perfect for a chilling Sunday under the quilt with your love.**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
