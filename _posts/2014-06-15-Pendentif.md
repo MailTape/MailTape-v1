@@ -37,7 +37,7 @@ This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendenti
 
 # French pop lifeblood
 
-3 years ago, Pendentif was one of the first bands to blossom out of a new French music scene, having been shaped by their English speaking peers while their lyrics remained attached to a tradition of great French pop classics. 
+Lifeblood of the new wave of pop music that is sweeping France, Pendentif form a nice bridge between the charming English pop and the language of Molière. Their compositions full of intelligence, freshness and charm combine with malice contemporary pop with the tradition of great French classics.
 
 #Their selection
 
