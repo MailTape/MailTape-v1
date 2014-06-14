@@ -33,23 +33,22 @@ episode_URL: "http://mailta.pe/145/Pendentif"
 ---
 
 <p id="introduction">
-This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") have prepared for you a freshly musical cocktail to consume irresponsibly...</p>
+This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") has prepared you a musical cocktail to be enjoyed without reserve...</p>
 
-# French pop lifeblood
+# Lifeblood pop
 
-Lifeblood of the new wave of pop music that is sweeping France, Pendentif form a nice bridge between the charming English pop and the language of Molière. Their compositions full of intelligence, freshness and charm combine with malice contemporary pop with the tradition of great French classics.
+Lifeblood is a new pop music wave which is blasting France. Bridging charming English pop and the language of Molière, Pendentif is definitaly a strong piece of this new genra. Their compositions are full of intelligence, freshness and charm. They both combine contemporary pop malice and the tradition of great French classics.
 
 #Their morning selection
 
 ## Blood Orange - You're Not Good Enough
-_Pendentif:_ **"**This is the song to listen when you get out of the shower, just before joining buddies for a countryside Sunday barbecue.**"**
+_Pendentif:_ **"**This song is literally meant to be listened when you get out of the shower, right before joining your buddies on a countryside Sunday barbecue.**"**
 
 ##Matthewdavid - In My World
-_Pendentif:_ **"**Perfect to wake up on Sunday morning when you went to bed at 6am after a good party, in your garden, under the sun, with a cup of coffee. You don’t know if it’s your brain that still spin or if it’s the song.**"**
+_Pendentif:_ **"**This track i perfect to wake up on a hangovered Sunday morning when you went to bed at 6am. No matter where you are, in your garden, under the sun or with a cup of coffee, you won’t be able to distinguish whether it’s your brain that still spin or if it’s the song.**"**
 
 ##Rhye - 3 Days
-_Pendentif:_ **"**We chose this title, but this is all the album that you need to listen.
-Perfect for a chilling Sunday under the quilt with your love.**"**
+_Pendentif:_ **"**We selected this specific track, but this is the entire album that you should listen. Awesome for a chill Sunday with your sweetheart.**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [Pendentif](https://www.facebook.com/pendentif?fref=ts "Pendentif Facebook") for their selection. Thanks for listening and enjoy your sunday !
