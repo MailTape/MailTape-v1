@@ -11,7 +11,7 @@ track3_color: bliss
 track4_color: vibrant
 track5_color: bliss
 track6_color: rough
-track7_color: rough
+track7_color: bliss
 category: "145"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
