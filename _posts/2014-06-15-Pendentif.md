@@ -9,7 +9,7 @@ track1_color: bliss
 track2_color: trippy
 track3_color: bliss
 track4_color: vibrant
-track5_color: bliss
+track5_color: vibrant
 track6_color: dreamy
 track7_color: bliss
 category: "145"
