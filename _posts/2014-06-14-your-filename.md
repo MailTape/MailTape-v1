@@ -6,9 +6,9 @@ guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: bliss
-track2_color: rough
-track3_color: rough
-track4_color: rough
+track2_color: trippy
+track3_color: bliss
+track4_color: vibrant
 track5_color: rough
 track6_color: rough
 track7_color: rough
@@ -18,11 +18,14 @@ guestPic: guestPic145.jpg
 track1_link: "https://soundcloud.com/bloodorange/youre-not-good-enough"
 track2_link: "https://soundcloud.com/brainfeeder/matthewdavid-in-my-world"
 track3_link: "https://soundcloud.com/innovativeleisure/rhye-days"
-track4_link: "https://soundcloud.com/w-d-g-s/pendentif-la-nuit-derni-re"
+track4_link: "https://soundcloud.com/itsindoorsoutdoors/pendantif-1er-julliet"
 track5_link: "https://soundcloud.com/border-community/free-migration"
 track6_link: "https://soundcloud.com/turksandcaicos/cars-outside"
 track7_link: "https://soundcloud.com/caribouband/cant-do-without-you"
 track1_title: "Blood Orange - You're Not Good Enough"
+track2_title: "Matthewdavid - In My World"
+track3_title: "Rhye - 3 Days"
+track4_title: "Pendentif - 1er Juillet"
 ---
 
 ## A New Post
