@@ -33,7 +33,7 @@ episode_URL: "http://mailta.pe/145/Pendentif"
 ---
 
 <p id="introduction">
-This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") have prepared a musical cocktail to consume irresponsibly. Quietly first, his selection will then energize your morning, be ready...</p>
+This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") have prepared for you a freshly musical cocktail to consume irresponsibly...</p>
 
 # French pop lifeblood
 
