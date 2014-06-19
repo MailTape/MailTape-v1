@@ -32,6 +32,7 @@ track7_link: "https://soundcloud.com/alt-j/hunger-of-the-pine"
 track7_title: "alt-J - Hunger Of The Pine"
 musiColor: musiColor146.png
 fbPic: fbPic146.jpg
+description: "This morning, two special guests invite you to their universe. Please enter the world of the duo Grandbrothers. "
 ---
 
 <p id="introduction">
