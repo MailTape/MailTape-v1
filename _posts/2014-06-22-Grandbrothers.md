@@ -35,11 +35,11 @@ fbPic: fbPic146.jpg
 ---
 
 <p id="introduction">
-This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") has prepared you a musical cocktail to be enjoyed without reserve...</p>
+This morning, two special guests invite you to their universe. Please enter the world of the duo Grandbrothers.</p>
 
-# Lifeblood pop
+# Experimentations
 
-blabla
+Unusual, that's what you could think at first while listening to them. Their Ezra EP and the tunes they share here and there convey many different feelings at a time: bewitched and ecstatic. This is the result of their musical experiment, trying to push further the limits of their grand piano. We're maybe not used enough to come across such approach and that's exactly the reason why we decided to introduce you to them.
 
 #Their morning selection
 
