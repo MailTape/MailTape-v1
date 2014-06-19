@@ -43,5 +43,5 @@ _Grand Brothers:_ **"**After you've woken up hardly, this song has the perfect f
 _Grand Brothers:_ **"**This one should be on everyone's alarm clock. After the first ten seconds of that catchy intro you should instantly get up, make yourself a cup of coffee and enjoy your day.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to Grand Brothers for their selection and to Mirka Pflüger for the photo. Thanks for listening, enjoy your sunday !
+That’s all folks! A big thank to [Grandbrothers](https://www.facebook.com/grandbrothers "Grandbrothers Facebook") for their selection and to Mirka Pflüger for the photo. Thanks for listening, enjoy your sunday !
 </p>
