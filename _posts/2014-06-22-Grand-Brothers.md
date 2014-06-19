@@ -20,26 +20,9 @@ track3_link: "https://soundcloud.com/ninja-tune/grey-reverend-nightingale"
 track1_title: "Nils Frahm - Re"
 track2_title: "Jono McCleery - Ballade"
 track3_title: "Grey Reverend - Nightingale"
+guestPic: guestPic146.jpg
 ---
 
-<p id="introduction">
-This morning, the Bordeaux-based French pop band [Pendentif](http://www.pendentifmusic.com/ "Pendentif Website") has prepared you a musical cocktail to be enjoyed without reserve...</p>
+## A New Post
 
-# Lifeblood pop
-
-blabla
-
-# Their morning selection
-
-## Nils Frahm - Re
-_Grand Brothers:_ **"**Nils' music has always been a big inspiration to us - his way of combining sadness with beauty is simply brilliant. Imagine this song on a rainy sunday, you're slightly hung over, you don't want to see anyone...you'll feel happier - or sadder - probably both...**"**
-
-## Jono McCleery - Ballade
-_Grand Brothers:_ **"**After you've woken up hardly, this song has the perfect flow to get through the day. And that voice...  **"**
-
-## Grey Reverend - Nightingale
-_Grand Brothers:_ **"**This one should be on everyone's alarm clock. After the first ten seconds of that catchy intro you should instantly get up, make yourself a cup of coffee and enjoy your day.**"**
-
-<p id="outroduction">
-That’s all folks! A big thank to Grand Brothers for their selection and to . Thanks for listening and enjoy your sunday !
-</p>
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
