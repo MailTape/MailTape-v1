@@ -45,13 +45,13 @@ Unusual, that's what you could think at first while listening to them. Their [Ez
 #Their morning selection
 
 ## Nils Frahm - Re
-_Grand Brothers:_ **"**Nils' music has always been a big inspiration to us - his way of combining sadness with beauty is simply brilliant. Imagine this song on a rainy sunday, you're slightly hung over, you don't want to see anyone... you'll feel happier - or sadder - probably both...**"**
+_Grandbrothers:_ **"**Nils' music has always been a big inspiration to us - his way of combining sadness with beauty is simply brilliant. Imagine this song on a rainy sunday, you're slightly hung over, you don't want to see anyone... you'll feel happier - or sadder - probably both...**"**
 
 ## Jono McCleery - Ballade
-_Grand Brothers:_ **"**After you've woken up hardly, this song has the perfect flow to get through the day. And that voice...**"**
+_Grandbrothers:_ **"**After you've woken up hardly, this song has the perfect flow to get through the day. And that voice...**"**
 
 ## Grey Reverend - Nightingale
-_Grand Brothers:_ **"**This one should be on everyone's alarm clock. After the first ten seconds of that catchy intro you should instantly get up, make yourself a cup of coffee and enjoy your day.**"**
+_Grandbrothers:_ **"**This one should be on everyone's alarm clock. After the first ten seconds of that catchy intro you should instantly get up, make yourself a cup of coffee and enjoy your day.**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [Grandbrothers](https://www.facebook.com/grandbrothers "Grandbrothers Facebook") for their selection and to Mirka Pflüger for the photo. Thanks for listening, enjoy your sunday !
