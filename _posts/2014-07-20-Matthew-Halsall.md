@@ -30,8 +30,10 @@ track6_title: "Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)"
 track7_link: "https://soundcloud.com/roy-hargrove-quintet/strasbourg-saint-denis-live"
 track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
 guestPic: guestPic150.jpg
+fbPic: fbPic150.jpg
 ---
 
+![fbPic150.jpg](/img/fbPic150.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
