@@ -34,11 +34,11 @@ fbPic: fbPic150.jpg
 ---
 
 <p id="introduction">
-This morning, our guest' selection will probably widen your morning musical horizon! Please welcome on stage the Manchester based trumpeter Matthew Halsall.</p>
+This morning, our guest' selection will probably widen your morning musical horizon! Please welcome on stage the Manchester based trumpeter [Matthew Halsall](https://soundcloud.com/matthewhalsall "Matthew Halsall Soundcloud").</p>
 
 # The Jazz Heroe of our generation
 
-Beauty wins over strong opinion. This morning, have a seat, forget the word Jazz, prepare to meditate and turn on one of Matthew Halsall's albums he released on his own label Gondwana Records. Subtle references, heart-warming tones and fresh musical landscapes will arise. We hope you'll enjoy his sunday morning cocktail.
+Beauty wins over strong opinion. This morning, have a seat, forget the word Jazz, prepare to meditate and turn on one of [Matthew Halsall's albums](http://matthewhalsall.bandcamp.com/ "Matthew Halsall Bandcamp") he released on his own label [Gondwana Records](http://www.gondwanarecords.com/ "Gondwana Records Website"). Subtle references, heart-warming tones and fresh musical landscapes will arise. We hope you'll enjoy his sunday morning cocktail.
 
 # His morning inspiration
 
@@ -52,7 +52,7 @@ _Matthew Halsall:_ **"**On a slightly more electronic tip The Cinematic Orchestr
 _Matthew Halsall:_ **"**And finally here's a real special one from The Cinematic Orchestra's bassist Phil France. This track has been one of the most played tracks on my home stereo over the last eight months. It's so uplifting and makes me feel like I'm about to take off.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to our guest Matthew Halsall for his soulful selection, to Kerstan Mackness that made this episode possible and to Simon Hunt for the photo.
+That’s all folks! A big thank to our guest [Matthew Halsall](https://www.facebook.com/pages/Matthew-Halsall/16286653188?fref=ts "Matthew Halsall Facebook") for his soulful selection, to [Kerstan Mackness](https://twitter.com/kerstanmac "Kerstan Mackness Twitter") that made this episode possible and to Simon Hunt for the photo.
 <br><br>
-PS: Today is the 150# MailTape episode, big up Max, Ludo and Dimitri ! And big up to each one of you, thanks for listening!
+PS: Today is the 150# MailTape episode, big up [Max](https://twitter.com/imacrea "Max Twitter"), [Ludo](https://twitter.com/greenludo "Ludo Twitter") and Dimitri ! And big up to each one of you, thanks for listening!
 </p>
