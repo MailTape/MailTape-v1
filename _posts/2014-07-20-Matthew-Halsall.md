@@ -2,8 +2,8 @@
 layout: episode
 published: true
 author: Julien
-guest_color: rough
-bigTitle_font_ratio: "6"
+guest_color: dreamy
+bigTitle_font_ratio: "8"
 bigTitle_line_ratio: "1"
 track1_color: vibrant
 track2_color: dreamy
