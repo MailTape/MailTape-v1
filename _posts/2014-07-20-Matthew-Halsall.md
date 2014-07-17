@@ -5,13 +5,13 @@ author: Julien
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: vibrant
+track2_color: dreamy
+track3_color: dreamy
+track4_color: dreamy
+track5_color: trippy
+track6_color: dreamy
+track7_color: vibrant
 category: "150"
 guest_name: Matthew Halsall
 track1_link: "https://soundcloud.com/harpista/he-has-a-name-or-awareness"
