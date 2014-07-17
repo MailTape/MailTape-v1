@@ -21,6 +21,14 @@ episode_URL: "http://mailta.pe/150/Matthew-Halsall/"
 track1_title: "Harpista - He Has a Name (Awareness)"
 track2_title: Necrology (Edit)
 track3_title: The Swimmer
+track4_link: "https://soundcloud.com/matthewhalsall/matthew-halsall-journey-in"
+track4_title: "Matthew Halsall - Journey In Satchidananda"
+track5_link: "https://soundcloud.com/quinn-miller-2/mad-rush-philip-glass-1"
+track5_title: "Philip Glass - Mad Rush"
+track6_link: "https://soundcloud.com/amon-tobin/bedtime-stories-austin-peralta"
+track6_title: "Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)"
+track7_link: "https://soundcloud.com/roy-hargrove-quintet/strasbourg-saint-denis-live"
+track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
 ---
 
 ## A New Post
