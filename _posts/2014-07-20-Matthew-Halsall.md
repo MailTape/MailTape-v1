@@ -29,6 +29,7 @@ track6_link: "https://soundcloud.com/amon-tobin/bedtime-stories-austin-peralta"
 track6_title: "Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)"
 track7_link: "https://soundcloud.com/roy-hargrove-quintet/strasbourg-saint-denis-live"
 track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
+guestPic: guestPic150.jpg
 ---
 
 ## A New Post
