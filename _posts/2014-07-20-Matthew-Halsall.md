@@ -19,8 +19,8 @@ track2_link: "https://soundcloud.com/the-cinematic-orchestra/necrology-edit"
 track3_link: "https://soundcloud.com/phil-france-the-swimmer/the-swimmer"
 episode_URL: "http://mailta.pe/150/Matthew-Halsall/"
 track1_title: "Harpista - He Has a Name (Awareness)"
-track2_title: Necrology (Edit)
-track3_title: The Swimmer
+track2_title: "The Cinematic Orchestra - Necrology"
+track3_title: "Phil France - The Swimmer"
 track4_link: "https://soundcloud.com/matthewhalsall/matthew-halsall-journey-in"
 track4_title: "Matthew Halsall - Journey In Satchidananda"
 track5_link: "https://soundcloud.com/quinn-miller-2/mad-rush-philip-glass-1"
