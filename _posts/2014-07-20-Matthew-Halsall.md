@@ -32,6 +32,7 @@ track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
 guestPic: guestPic150.jpg
 fbPic: fbPic150.jpg
 description: "This morning, our guest' selection will probably widen your morning musical horizon! Please welcome on stage the Manchester based trumpeter Matthew Halsall."
+musiColor: musiColor150.png
 ---
 
 <p id="introduction">
