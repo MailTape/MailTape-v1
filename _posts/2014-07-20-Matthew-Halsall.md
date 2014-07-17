@@ -34,24 +34,25 @@ fbPic: fbPic150.jpg
 ---
 
 <p id="introduction">
-This morning, you'll wake up with some Californian vibes thanks to our guest [B.Lewis](https://soundcloud.com/blewie17 "B.Lewis Soundcloud")</p>
+This morning, our guest' selection will probably widen your morning musical horizon! Please welcome on stage the Manchester based trumpeter Matthew Halsall.</p>
 
-# French inspiration ?
+# The Jazz Heroe of our generation
 
-Back to 2010, B.Lewis caught our attention up with his EP [La Semaine](http://blewis.bandcamp.com/album/la-semaine "B.Lewis - La Semaine on Bandcamp"), 'week' in english: 7 days, 7 tracks with a perfect flow. Four years later and some very cool others [EPs](http://blewis.bandcamp.com/ "B.Lewis Bandcamp") after, we're very happy to let you discover the selection of this San Jose California based producer.
-Hope you'll enjoy...
+Beauty wins over strong opinion. This morning, have a seat, forget the word Jazz, prepare to meditate and turn on one of Matthew Halsall's albums he released on his own label Gondwana Records. Subtle references, heart-warming tones and fresh musical landscapes will arise. We hope you'll enjoy his sunday morning cocktail.
 
-# His morning selection
+# His morning inspiration
 
-## Taylor McFerrin – Decisions (feat. Emily King)
-_B.Lewis:_ **"**I’ve been extremely stuck on this record since it came out. Atmospheric and cohesive, the melody easily carries you on generous morning music high.**"**
+## Harpista - He Has a Name (Awareness)
+_Matthew Halsall:_ **"**Anyone who listens to my music will know how much I love the harp work of Alice Coltrane and Dorothy Ashby and I recently discovered this amazing new harpist Brandee Younger based in Brooklyn, United States. This track is very refreshing and perfect for a Sunday morning.**"**
 
-## Musiq Soulchild – Just Friends
-_B.Lewis:_ **"**For me, this song is a classic, wake up and get your day started on the right foot type of track. The uplifting, teetering borderline gospel feel, is sometimes just what I need to get my days started.**"**
+## The Cinematic Orchestra - Necrology
+_Matthew Halsall:_ **"**On a slightly more electronic tip The Cinematic Orchestra's latest offering Motion Pt. 1 features a track called Necrology which builds beautifully. If you are a fan of Steve Reich as I am you'll love this! another beauty to slowly wake you up on a lazy Sunday morning.**"**
 
-## Toro Y Moi - So Many Details
-_B.Lewis:_ **"**One of the many favorites off of his album “Anything in Return”, curated by the masterful Toro Y Moi. Something moody I can nod my head to while brushing my teeth.**"**
+## Phil France - The Swimmer
+_Matthew Halsall:_ **"**And finally here's a real special one from The Cinematic Orchestra's bassist Phil France. This track has been one of the most played tracks on my home stereo over the last eight months. It's so uplifting and makes me feel like I'm about to take off.**"**
 
 <p id="outroduction">
-That’s all folks! A big thank to [B.Lewis](https://www.facebook.com/pages/BLewis/111089628965674 "B.Lewis Facebook") for his selection. Thanks for listening and enjoy your sunday !
+That’s all folks! A big thank to our guest Matthew Halsall for his soulful selection, to Kerstan Mackness that made this episode possible and to Simon Hunt for the photo.
+
+PS: Today is the 150# MailTape episode, big up Max, Ludo and Dimitri ! And big up to each one of you, thanks for listening!
 </p>
