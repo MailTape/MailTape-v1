@@ -11,7 +11,7 @@ track3_color: vibrant
 track4_color: vibrant
 track5_color: bliss
 track6_color: trippy
-track7_color: rough
+track7_color: bliss
 category: "152"
 guest_name: Harleighblu
 track2_link: "https://soundcloud.com/gilda-notdead/little-dragon-sunshine"
@@ -28,6 +28,8 @@ track5_link: "https://soundcloud.com/goldbloc/ride-me-high-ft-solei"
 track5_title: "Goldbloc - Dreams of mine"
 track6_link: "https://soundcloud.com/rustie/attak-feat-danny-brown"
 track6_title: "Rustie - Attak feat Danny Brown"
+track7_link: "https://soundcloud.com/rvdicalthekid/sango-ago-rvdical-remix-1"
+track7_title: "Sango - Ago (Rvdical Remix)"
 ---
 
 <p id="introduction">
