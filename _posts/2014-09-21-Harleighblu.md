@@ -9,7 +9,7 @@ track1_color: vibrant
 track2_color: bliss
 track3_color: vibrant
 track4_color: vibrant
-track5_color: rough
+track5_color: bliss
 track6_color: rough
 track7_color: rough
 category: "152"
@@ -24,6 +24,8 @@ episode_URL: "http://mailta.pe/152/Harleighblu/"
 track4_link: "https://soundcloud.com/harleighblu/harleighblu-the-weekend-prod"
 track4_title: "Harleighblu - Weekend"
 guestPic: guestPic152.jpg
+track5_link: "https://soundcloud.com/goldbloc/ride-me-high-ft-solei"
+track5_title: "Goldbloc - Dreams of mine"
 ---
 
 <p id="introduction">
