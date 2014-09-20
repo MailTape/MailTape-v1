@@ -32,6 +32,7 @@ track7_link: "https://soundcloud.com/rvdicalthekid/sango-ago-rvdical-remix-1"
 track7_title: "Sango - Ago (Rvdical Remix)"
 fbPic: fbPic152.jpg
 description: "This morning, we're back and with a lady: please welcome Harleighblu !"
+musiColor: musiColor152.png
 ---
 
 <p id="introduction">
