@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: false
-author: Dimitri
+author: Julien
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
@@ -12,6 +12,15 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: rough
+category: "152"
+guest_name: Harleighblu
+track2_link: "https://soundcloud.com/littledragon/sunshine"
+track2_title: "Little Dragon - Sunshine"
+track1_link: "https://soundcloud.com/midnightkoffe/when-will-you-call"
+track1_title: "Bilal - When will you call"
+track3_link: "https://soundcloud.com/stenionobrega/jill-scott-golden"
+track3_title: "Jill Scott - Golden"
+episode_URL: "http://mailta.pe/152/Harleighblu/"
 ---
 
 <p id="introduction">
