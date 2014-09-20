@@ -14,7 +14,7 @@ track6_color: rough
 track7_color: rough
 category: "152"
 guest_name: Harleighblu
-track2_link: "https://soundcloud.com/littledragon/sunshine"
+track2_link: "https://soundcloud.com/gilda-notdead/little-dragon-sunshine"
 track2_title: "Little Dragon - Sunshine"
 track1_link: "https://soundcloud.com/midnightkoffe/when-will-you-call"
 track1_title: "Bilal - When will you call"
