@@ -51,5 +51,5 @@ _Harleighblu:_ **"**I keep listening to this banger! Its got big harmonies, a be
 _Harleighblu:_ **"**My fav vocalist in the world !! I picked this tune because it gives you that spring in your step in the morning, to make you feel like you can take on the world!**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to Dave and Rosie from Tru Thoughts and to our guest Harleighblu for her lovely selection. Enjoy your sunday.
+That’s all folks! A big thank to Dave and Rosie from Tru Thoughts and to our guest [Harleighblu](https://twitter.com/Harleighblu "Harleighblu' Twitter") for her lovely selection. Enjoy your sunday.
 </p>
