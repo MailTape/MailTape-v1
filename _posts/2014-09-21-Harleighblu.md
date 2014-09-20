@@ -30,6 +30,7 @@ track6_link: "https://soundcloud.com/rustie/attak-feat-danny-brown"
 track6_title: "Rustie - Attak feat Danny Brown"
 track7_link: "https://soundcloud.com/rvdicalthekid/sango-ago-rvdical-remix-1"
 track7_title: "Sango - Ago (Rvdical Remix)"
+fbPic: fbPic152.jpg
 ---
 
 <p id="introduction">
