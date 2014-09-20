@@ -26,9 +26,9 @@ track4_title: "Harleighblu - Weekend"
 ---
 
 <p id="introduction">
-This morning, we're back, with a lady. our guest’ selection is a pure ode to relaxness. Please welcome the young and amazing belgian producer [LUUUL](https://soundcloud.com/luuul "LUUUL Soundcloud").</p>
+This morning, we're back and with a lady: please welcome Harleighblu.. Please welcome the young and amazing belgian producer [LUUUL](https://soundcloud.com/luuul "LUUUL Soundcloud").</p>
  
-# Chillwave summer
+# Soul Vibes
  
 Chillwave music has pretty popular for many years now, but new talented producers continue to pop up all around the globe. [LUUUL](https://soundcloud.com/luuul "LUUUL Soundcloud") is definitely one of the most promising one. His music has everything to make you dream and make our existences worth livin’.
  
