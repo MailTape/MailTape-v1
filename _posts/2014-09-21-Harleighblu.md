@@ -33,11 +33,11 @@ track7_title: "Sango - Ago (Rvdical Remix)"
 ---
 
 <p id="introduction">
-This morning, we're back and with a lady: please welcome Harleighblu.</p>
+This morning, we're back and with a lady: please welcome [Harleighblu Soundcloud'](https://soundcloud.com/harleighblu).</p>
  
 # Soul Vibes
  
-Chillwave music has pretty popular for many years now, but new talented producers continue to pop up all around the globe. [LUUUL](https://soundcloud.com/luuul "LUUUL Soundcloud") is definitely one of the most promising one. His music has everything to make you dream and make our existences worth livin’.
+[Harleighblu Facebook'](https://www.facebook.com/HarleighbluOfficial) was raised with soul and rare grooves in the feeding bottle. That's maybe what explain the fact that she've been very talented from a very young age. Now on Tru Thoughts, the [Harleighblu's Tru Thoughts Page](http://www.tru-thoughts.co.uk/artists/harleighblu) delights us with her punchy and sometimes more introverts songs. Hope you'll enjoy.
  
 # Her morning inspiration
  
