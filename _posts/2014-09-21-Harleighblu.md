@@ -37,7 +37,7 @@ This morning, we're back and with a lady: please welcome [Harleighblu](https://s
  
 # Soul Vibes
  
-[Harleighblu](https://www.facebook.com/HarleighbluOfficial "Harleighblu Facebook'") was raised with soul and rare grooves in the feeding bottle. That's maybe what explain the fact that she've been very talented from a very young age. Now on Tru Thoughts, the [Diva](http://www.tru-thoughts.co.uk/artists/harleighblu "Harleighblu's Tru Thoughts Page") delights us with her punchy and sometimes more introvert songs. Hope you'll enjoy.
+[Harleighblu](https://www.facebook.com/HarleighbluOfficial "Harleighblu Facebook'") was raised with soul and rare grooves in the feeding bottle. That's maybe what explain the fact that she've been very talented from a very young age. Now on Tru Thoughts, the [Diva](http://www.tru-thoughts.co.uk/artists/harleighblu "Harleighblu's Tru Thoughts Page") delights us with her punchy and sometimes more personal songs. Hope you'll enjoy.
  
 # Her morning inspiration
  
