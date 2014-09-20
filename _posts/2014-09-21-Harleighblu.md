@@ -10,7 +10,7 @@ track2_color: bliss
 track3_color: vibrant
 track4_color: vibrant
 track5_color: bliss
-track6_color: rough
+track6_color: trippy
 track7_color: rough
 category: "152"
 guest_name: Harleighblu
@@ -26,6 +26,8 @@ track4_title: "Harleighblu - Weekend"
 guestPic: guestPic152.jpg
 track5_link: "https://soundcloud.com/goldbloc/ride-me-high-ft-solei"
 track5_title: "Goldbloc - Dreams of mine"
+track6_link: "https://soundcloud.com/rustie/attak-feat-danny-brown"
+track6_title: "Rustie - Attak feat Danny Brown"
 ---
 
 <p id="introduction">
