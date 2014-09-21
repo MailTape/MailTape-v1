@@ -20,7 +20,7 @@ track1_link: "https://soundcloud.com/midnightkoffe/when-will-you-call"
 track1_title: "Bilal - When will you call"
 track3_link: "https://soundcloud.com/stenionobrega/jill-scott-golden"
 track3_title: "Jill Scott - Golden"
-episode_URL: "http://mailta.pe/152/Harleighblu"
+episode_URL: "http://mailta.pe/152/Harleighblu/"
 track4_link: "https://soundcloud.com/harleighblu/harleighblu-the-weekend-prod"
 track4_title: "Harleighblu - Weekend"
 guestPic: guestPic152.jpg
