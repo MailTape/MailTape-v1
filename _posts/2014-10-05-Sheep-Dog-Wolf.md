@@ -28,6 +28,7 @@ track4_title: "Sheep, Dog & Wolf - Egospect"
 track5_title: "Arms and Sleepers - Swim Team"
 track6_title: "Daisuke Tanabe - bfr017"
 track7_title: " The Two Man Gentlemen Band - The Square Root of Two "
+guestPic: guestPic154.jpg
 ---
 
 <p id="introduction">
