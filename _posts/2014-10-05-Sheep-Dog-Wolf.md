@@ -6,7 +6,7 @@ guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: dreamy
-track2_color: trippy
+track2_color: dreamy
 track3_color: dreamy
 track4_color: bliss
 track5_color: bliss
@@ -20,7 +20,7 @@ track5_link: "https://soundcloud.com/arms-and-sleepers/swim-team"
 track6_link: "https://soundcloud.com/daisuketanabe/bfr017"
 track7_link: "https://soundcloud.com/imacrea/the-two-man-gentlemen-band-the-square-root-of-two"
 category: "154"
-guest_name: "Sheep, Dog and Wolf"
+guest_name: "Sheep, Dog & Wolf"
 track1_title: " Baths - Ironworks"
 track2_title: "Ghoul - Swimming Pool"
 track3_title: "Lontalius -  Yr Heart is Beating "
