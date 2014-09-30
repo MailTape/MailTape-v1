@@ -20,6 +20,7 @@ track5_link: "https://soundcloud.com/arms-and-sleepers/tiger-tempo"
 track6_link: "https://soundcloud.com/daisuketanabe/bfr017"
 track7_link: "https://soundcloud.com/imacrea/the-two-man-gentlemen-band-the-square-root-of-two"
 category: "153"
+guest_name: "Sheep, Dog and Wolf"
 ---
 
 <p id="introduction">
