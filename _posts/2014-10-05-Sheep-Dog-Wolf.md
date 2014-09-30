@@ -5,13 +5,13 @@ author: ImaCrea
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: dreamy
+track2_color: trippy
+track3_color: dreamy
+track4_color: bliss
+track5_color: bliss
+track6_color: trippy
+track7_color: vibrant
 track1_link: "https://soundcloud.com/anticon/baths-ironworks-1"
 track2_link: "https://soundcloud.com/melosan2/202-seekae-ghoul-swimming-pool"
 track3_link: "https://soundcloud.com/lontalius/yr-heart-is-beating"
@@ -21,6 +21,13 @@ track6_link: "https://soundcloud.com/daisuketanabe/bfr017"
 track7_link: "https://soundcloud.com/imacrea/the-two-man-gentlemen-band-the-square-root-of-two"
 category: "154"
 guest_name: "Sheep, Dog and Wolf"
+track1_title: " Baths - Ironworks"
+track2_title: "Ghoul - Swimming Pool"
+track3_title: "Lontalius -  Yr Heart is Beating "
+track4_title: "Sheep, Dog & Wolf - Egospect"
+track5_title: "Arms and Sleepers - Swim Team"
+track6_title: "Daisuke Tanabe - bfr017"
+track7_title: " The Two Man Gentlemen Band - The Square Root of Two "
 ---
 
 <p id="introduction">
