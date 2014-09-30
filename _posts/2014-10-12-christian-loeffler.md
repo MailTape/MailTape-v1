@@ -15,12 +15,12 @@ track7_color: rough
 track1_link: "https://soundcloud.com/ki-records/me-succeeds-rongorongo-arp"
 track2_link: "https://soundcloud.com/ki-records/grounds"
 track3_link: "https://soundcloud.com/daisuketanabe/paper-planes"
-category: "154"
+category: "155"
 guest_name: Christian Löeffler
-guestPic: guestPic154.jpg
-episode_URL: "http://mailta.pe/154/Christian-Loeffler"
-fbPic: fbPic154.png
-musiColor: musiColor154.png
+guestPic: guestPic155.jpg
+episode_URL: "http://mailta.pe/155/Christian-Loeffler"
+fbPic: fbPic155.png
+musiColor: musiColor155.png
 track1_title: "Me Succeeds - Rongorongo (Arp Aubert Remix)"
 track2_title: "Sean Piñeiro - Grounds"
 track3_title: "Daisuke Tanabe - Paper Planes"
@@ -48,7 +48,5 @@ _Christian Löeffler:_ **"**I think Sean is the biggest talents we have discover
 _Christian Löeffler:_ **"**My favorite song at the moment. Daisuke’s latest album „Floating Underwater“ was just released on our label Ki. You have to check it out, a real masterpiece.**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud") for their eclectic selection and [Siddhartha](http://apeacefulending.tumblr.com/) for his story. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud") for his **** selection and [Siddhartha](http://apeacefulending.tumblr.com/) for his story. Enjoy your sunday.
 </p>
-
-
