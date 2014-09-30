@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: ImaCrea
 guest_color: rough
 bigTitle_font_ratio: "6"
@@ -19,6 +19,7 @@ track4_link: "https://soundcloud.com/lilchiefrecords/sheep-dog-wolf-egospect"
 track5_link: "https://soundcloud.com/arms-and-sleepers/tiger-tempo"
 track6_link: "https://soundcloud.com/daisuketanabe/bfr017"
 track7_link: "https://soundcloud.com/imacrea/the-two-man-gentlemen-band-the-square-root-of-two"
+category: "153"
 ---
 
 <p id="introduction">
