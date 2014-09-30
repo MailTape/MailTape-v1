@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: ImaCrea
 guest_color: bliss
-bigTitle_font_ratio: "7"
+bigTitle_font_ratio: "5"
 bigTitle_line_ratio: "1"
 track1_color: dreamy
 track2_color: dreamy
