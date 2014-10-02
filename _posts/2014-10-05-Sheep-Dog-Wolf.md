@@ -58,5 +58,5 @@ This particular track is a remix by Seekae, and it's brilliant.**"**
 _SDW:_ **"**Lontalius, a.k.a. Eddie Johnston, is a 17-year-old musical prodigy from Wellington, New Zealand. Being Wellington-based myself, I am lucky enough to be able to work with him, and he is a truly inspirational guy! This track is just so perfect, short and sweet, heartbreaking, and absolutely beautiful. After you listen to this, go and listen to everything else he has ever released, it is all amazing.**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest ... and [Siddhartha](http://apeacefulending.tumblr.com/) for his story. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Sheep, Dog & Wolf](http://sheepdogandwolf.com/) and [Siddhartha](http://apeacefulending.tumblr.com/) for his story. Enjoy your sunday.
 </p>
