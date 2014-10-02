@@ -35,11 +35,15 @@ musiColor: musiColor154.png
 ---
 
 <p id="introduction">
-Intro here Sidd</p>
- 
-# Paragraph title
- 
-your test Sidd
+Our pick of the week is Daniel McBride, an artist from Wellington who goes by the name [Sheep, Dog & Wolf](http://sheepdogandwolf.com/) and with whom we unveil an episode that will tug at your heartstrings.</p>
+
+# Discovering us is discovering music
+It wouldn’t be hard to imagine oneself in a commune while singing in unison to Sheep, Dog & Wolf’s Egospect; a track which shares the same name as that of his debut album.  The track is raw and natural as it calls out to your primal instinct.
+
+Bath’s Ironworks is an outpouring of harmony that drizzles like an early morning rain giving way to a clear sky and fresh morning – speaking of morning, Arms and Sleeper’s Swim Team is yet another track, all fashioned to engage you with a rapturous morning.  
+
+While you contemplate that life without music is just so incomplete we at Mailtape bring you something of the like that triggers that very thought of yours.   With that said, we end our episode with Strong Love by Gap Dream and hope you to have an exciting week ahead. 
+
 
 # Sheep, Dog and Wolf's morning inspiration
 
