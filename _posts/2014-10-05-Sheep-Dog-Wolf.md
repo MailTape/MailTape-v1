@@ -29,6 +29,9 @@ track5_title: "Arms and Sleepers - Swim Team"
 track6_title: "Daisuke Tanabe - bfr017"
 track7_title: " The Two Man Gentlemen Band - The Square Root of Two "
 guestPic: guestPic154.jpg
+episode_URL: "http://mailta.pe/154/Sheep-Dog-Wolf/"
+fbPic: fbPic154.jpg
+musiColor: musiColor154.png
 ---
 
 <p id="introduction">
