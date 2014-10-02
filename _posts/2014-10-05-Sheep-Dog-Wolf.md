@@ -11,14 +11,14 @@ track3_color: dreamy
 track4_color: bliss
 track5_color: bliss
 track6_color: trippy
-track7_color: vibrant
+track7_color: dreamy
 track1_link: "https://soundcloud.com/anticon/baths-ironworks-1"
 track2_link: "https://soundcloud.com/melosan2/202-seekae-ghoul-swimming-pool"
 track3_link: "https://soundcloud.com/lontalius/yr-heart-is-beating"
 track4_link: "https://soundcloud.com/lilchiefrecords/sheep-dog-wolf-egospect"
 track5_link: "https://soundcloud.com/arms-and-sleepers/swim-team"
 track6_link: "https://soundcloud.com/daisuketanabe/bfr017"
-track7_link: "https://soundcloud.com/imacrea/the-two-man-gentlemen-band-the-square-root-of-two"
+track7_link: "https://soundcloud.com/burgerrecords/gap-dream-strong-love"
 category: "154"
 guest_name: "Sheep, Dog & Wolf"
 track1_title: " Baths - Ironworks"
@@ -27,7 +27,7 @@ track3_title: "Lontalius -  Yr Heart is Beating "
 track4_title: "Sheep, Dog & Wolf - Egospect"
 track5_title: "Arms and Sleepers - Swim Team"
 track6_title: "Daisuke Tanabe - bfr017"
-track7_title: " The Two Man Gentlemen Band - The Square Root of Two "
+track7_title: "Gap Dream - Strong Love"
 guestPic: guestPic154.jpg
 episode_URL: "http://mailta.pe/154/Sheep-Dog-Wolf/"
 fbPic: fbPic154.jpg
