@@ -38,7 +38,7 @@ description: "Our pick of the week is Daniel McBride, an artist from Wellington 
 <p id="introduction">
 Our pick of the week is Daniel McBride, an artist from Wellington who goes by the name [Sheep, Dog & Wolf](http://sheepdogandwolf.com/) and with whom we unveil an episode that will tug at your heartstrings.</p>
 
-# Discovering us is discovering music
+# A kaleidoscope of colors
 It wouldn’t be hard to imagine oneself in a commune while singing in unison to Sheep, Dog & Wolf’s Egospect; a track which shares the same name as that of his debut album.  The track is raw and natural as it calls out to your primal instinct.
 
 Bath’s Ironworks is an outpouring of harmony that drizzles like an early morning rain giving way to a clear sky and fresh morning – speaking of morning, Arms and Sleeper’s Swim Team is yet another track, all fashioned to engage you with a rapturous morning.  
