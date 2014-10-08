@@ -2,16 +2,16 @@
 layout: episode
 published: true
 author: Ludovic
-guest_color: rough
+guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
+track2_color: dreamy
+track3_color: trippy
+track4_color: bliss
 track5_color: rough
-track6_color: rough
-track7_color: rough
+track6_color: vibrant
+track7_color: vibrant
 track1_link: "https://soundcloud.com/ki-records/me-succeeds-rongorongo-arp"
 track2_link: "https://soundcloud.com/ki-records/grounds"
 track3_link: "https://soundcloud.com/daisuketanabe/paper-planes"
@@ -24,7 +24,14 @@ musiColor: musiColor155.png
 track1_title: "Me Succeeds - Rongorongo (Arp Aubert Remix)"
 track2_title: "Sean Piñeiro - Grounds"
 track3_title: "Daisuke Tanabe - Paper Planes"
-track4_title: Christian Löeffler
+track4_title: "Christian Löeffler - Veiled Grey"
+track5_link: "https://soundcloud.com/franthis/bambounou-brim"
+track5_title: "Bambounou - Brim"
+track6_title: "Teeel - Disk Go"
+track6_link: "https://soundcloud.com/teeel/disk-go"
+track7_link: "https://soundcloud.com/kazy-lambist/doing-yoga"
+track7_title: "Kazy Lambist - Doing Yoga"
+track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
 ---
 
 <p id="introduction">
