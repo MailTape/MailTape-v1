@@ -35,11 +35,9 @@ track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
 ---
 
 <p id="introduction">
-Discover this morning [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"), Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
  
-# Lorem ipsum dolor sit amet
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Rythm & style
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
@@ -55,5 +53,5 @@ _Christian Löeffler:_ **"**I think Sean is the biggest talents we have discover
 _Christian Löeffler:_ **"**My favorite song at the moment. Daisuke’s latest album „Floating Underwater“ was just released on our label Ki. You have to check it out, a real masterpiece.**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud") for his **** selection and [Siddhartha](http://apeacefulending.tumblr.com/) for his story. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud") for his morning selection. Enjoy your sunday.
 </p>
