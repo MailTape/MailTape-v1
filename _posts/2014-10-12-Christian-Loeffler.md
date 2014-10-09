@@ -18,7 +18,7 @@ track3_link: "https://soundcloud.com/daisuketanabe/paper-planes"
 category: "155"
 guest_name: Christian Löeffler
 guestPic: guestPic155.jpg
-episode_URL: "http://mailta.pe/155/christian-loeffler"
+episode_URL: "http://mailta.pe/155/Christian-Loeffler"
 fbPic: fbPic155.png
 musiColor: musiColor155.png
 track1_title: "Me Succeeds - Rongorongo (Arp Aubert Remix)"
