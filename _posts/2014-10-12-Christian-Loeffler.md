@@ -34,7 +34,9 @@ track7_title: "Kazy Lambist - Doing Yoga"
 track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
 ---
 
-<p id="introduction">
+<p id="introduction">![fbPic155.png](/img/fbPic155.png)
+![musiColor155.png](/img/musiColor155.png)
+
 This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He choosed for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow.
 </p>
  
