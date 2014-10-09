@@ -35,11 +35,12 @@ track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
 ---
 
 <p id="introduction">
-This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He choosed for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow.
+</p>
  
-# Rythm & style
+# Autodidact grown-up forever kid
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Loeffler started to play music by the age of 14. Living in a secluded region, lacking a musical surrounding, he had to teach himself the essentials of making electronic music. Before long he developed his own deep and moving sound, colored with a melancholic undertone music for both the soul & the body. He recalls a variety of music styles he listened to as a child and teenager that were highly influential to his own development as a musician.
 
 # Christian Löeffler's morning inspiration
  
