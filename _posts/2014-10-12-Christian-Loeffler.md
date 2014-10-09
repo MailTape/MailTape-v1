@@ -35,7 +35,7 @@ track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
 ---
 
 <p id="introduction">
-This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He choosed for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow.
+This morning, discover [Christian Löeffler](https://soundcloud.com/christianloeffler "Christian Löeffler on SoundCloud"). The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He chose for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow.
 </p>
  
 # Autodidact grown-up forever kid
