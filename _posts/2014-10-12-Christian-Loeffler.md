@@ -42,7 +42,7 @@ This morning, discover [Christian Löffler](https://soundcloud.com/christianloef
 
 Loeffler started to play music by the age of 14. Living in a secluded region, lacking a musical surrounding, he had to teach himself the essentials of making electronic music. Before long he developed his own deep and moving sound, colored with a melancholic undertone music for both the soul & the body. He recalls a variety of music styles he listened to as a child and teenager that were highly influential to his own development as a musician.
 
-# Christian Löeffler's morning inspiration
+# Christian Löffler's morning inspiration
  
 ## Me Succeeds - Rongorongo (Arp Aubert Remix)
 _Christian Löffler:_ **"**Me Succeeds and Arp Aubert are very good friends of mine and I already collaborated a lot with Mohna who is the lead singer of Me Succeeds. We are also about to release the next EP of Arp Aubert on Ki, that is currently in the making. For me this is an excellent remix of the original song by Me Succeeds and my favorite from the Rongorongo Remix LP.**"**
