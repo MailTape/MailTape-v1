@@ -18,7 +18,7 @@ track3_link: "https://soundcloud.com/daisuketanabe/paper-planes"
 category: "155"
 guest_name: Christian Löffler
 guestPic: guestPic155.jpg
-episode_URL: "http://mailta.pe/155/Christian-Loeffler"
+episode_URL: "http://mailta.pe/155/Christian-Loeffler/"
 fbPic: fbPic155.png
 musiColor: musiColor155.png
 track1_title: "Me Succeeds - Rongorongo (Arp Aubert Remix)"
@@ -32,6 +32,7 @@ track6_link: "https://soundcloud.com/teeel/disk-go"
 track7_link: "https://soundcloud.com/kazy-lambist/doing-yoga"
 track7_title: "Kazy Lambist - Doing Yoga"
 track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
+description: "This morning, discover Christian Löffler. The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He chose for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow."
 ---
 
 <p id="introduction">
