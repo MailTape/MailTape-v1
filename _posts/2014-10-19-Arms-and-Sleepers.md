@@ -12,6 +12,8 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: rough
+category: "156"
+guest_name: Arms and Sleepers
 ---
 
 <p id="introduction">
