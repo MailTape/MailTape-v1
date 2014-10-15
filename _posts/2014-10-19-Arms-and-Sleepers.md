@@ -5,13 +5,13 @@ author: Dimitri
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: bliss
+track1_color: dreamy
 track2_color: rough
 track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track4_color: dreamy
+track5_color: vibrant
+track6_color: bliss
+track7_color: trippy
 category: "156"
 guest_name: Arms and Sleepers
 track1_link: "https://soundcloud.com/andrewbird/07-near-death-experience"
