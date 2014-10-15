@@ -11,7 +11,7 @@ track3_color: rough
 track4_color: dreamy
 track5_color: vibrant
 track6_color: vibrant
-track7_color: trippy
+track7_color: bliss
 category: "156"
 guest_name: Arms and Sleepers
 track1_link: "https://soundcloud.com/andrewbird/07-near-death-experience"
