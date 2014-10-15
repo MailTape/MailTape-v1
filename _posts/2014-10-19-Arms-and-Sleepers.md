@@ -28,6 +28,7 @@ track4_title: "Arms and Sleepers - Tiger Tempo"
 track5_title: "Paul White - Where You Gonna Go (Andres Remix)"
 track6_title: "Sam Kogon - Wake Up Your Kids"
 track7_title: "Oldtoy - Fountains"
+guestPic: guestPic156.jpg
 ---
 
 <p id="introduction">
