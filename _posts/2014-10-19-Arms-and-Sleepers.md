@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: true
-author: Dimitri
+author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
