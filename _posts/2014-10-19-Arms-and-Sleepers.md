@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: ImaCrea
 guest_color: dreamy
-bigTitle_font_ratio: "6"
+bigTitle_font_ratio: "7"
 bigTitle_line_ratio: "1"
 track1_color: dreamy
 track2_color: dreamy
@@ -29,6 +29,7 @@ track5_title: "Paul White - Where You Gonna Go (Andres Remix)"
 track6_title: "Sam Kogon - Wake Up Your Kids"
 track7_title: "Oldtoy - Fountains"
 guestPic: guestPic156.jpg
+episode_URL: "http://mailta.pe/156/Arms-and-Sleepers/"
 ---
 
 <p id="introduction">
