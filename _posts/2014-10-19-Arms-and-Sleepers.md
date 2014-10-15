@@ -14,15 +14,29 @@ track6_color: rough
 track7_color: rough
 category: "156"
 guest_name: Arms and Sleepers
+track1_link: "https://soundcloud.com/andrewbird/07-near-death-experience"
+track2_link: "https://soundcloud.com/atlanticrecords/estelle-back-in-love"
+track3_link: "https://soundcloud.com/throttleclark/unfurla"
+track4_link: "https://soundcloud.com/arms-and-sleepers/tiger-tempo"
+track5_link: "https://soundcloud.com/paulwhitebeats/where-you-gonna-go-andres-remix"
+track7_link: "https://soundcloud.com/oldtoy/fountains"
+track6_link: "https://soundcloud.com/sam-kogon/wake-up-your-kids"
+track1_title: "Andrew Bird - Near Death Experience"
+track2_title: "Estelle - Back in Love"
+track3_title: "Clark - Unfurla"
+track4_title: "Arms and Sleepers - Tiger Tempo"
+track5_title: "Paul White - Where You Gonna Go (Andres Remix)"
+track6_title: "Sam Kogon - Wake Up Your Kids"
+track7_title: "Oldtoy - Fountains"
 ---
 
 <p id="introduction">
-This morning, discover [Christian Löffler](https://soundcloud.com/christianloeffler "Christian Löffler on SoundCloud"). The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He chose for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow.
+Intro... Take the listener by her hand and unveil to her eyes a glimpse at the beauty that are awaiting her in this marvellous episode...
 </p>
  
-# Autodidact grown-up forever kid
+# Here you write an attractive and engaging title
 
-Loeffler started to play music by the age of 14. Living in a secluded region, lacking a musical surrounding, he had to teach himself the essentials of making electronic music. Before long he developed his own deep and moving sound, colored with a melancholic undertone music for both the soul & the body. He recalls a variety of music styles he listened to as a child and teenager that were highly influential to his own development as a musician.
+And here you speak a bit about the artist and let the inspiration flow :)
 
 # Christian Löffler's morning inspiration
  
