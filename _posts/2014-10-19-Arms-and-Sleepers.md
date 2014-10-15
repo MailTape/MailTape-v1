@@ -30,6 +30,8 @@ track6_title: "Sam Kogon - Wake Up Your Kids"
 track7_title: "Oldtoy - Fountains"
 guestPic: guestPic156.jpg
 episode_URL: "http://mailta.pe/156/Arms-and-Sleepers/"
+fbPic: fbPic156.jpg
+musiColor: musiColor156.png
 ---
 
 <p id="introduction">
