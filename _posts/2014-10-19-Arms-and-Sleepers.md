@@ -39,16 +39,16 @@ Intro... Take the listener by her hand and unveil to her eyes a glimpse at the b
 
 And here you speak a bit about the artist and let the inspiration flow :)
 
-# Christian Löffler's morning inspiration
+# Arms and Sleepers' morning inspiration
  
-## Me Succeeds - Rongorongo (Arp Aubert Remix)
-_Christian Löffler:_ **"**Me Succeeds and Arp Aubert are very good friends of mine and I already collaborated a lot with Mohna who is the lead singer of Me Succeeds. We are also about to release the next EP of Arp Aubert on Ki, that is currently in the making. For me this is an excellent remix of the original song by Me Succeeds and my favorite from the Rongorongo Remix LP.**"**
+## Andrew Bird - Near Death Experience Experience
+_Arms and Sleepers:_ **"**Absolutely love this song - stellar instrumentation and the perfect Sunday morning wake-up call. I spent a couple of days in Istanbul this summer for the Arms and Sleepers show there, and a friend I was staying with played this track on a lovely Sunday morning with the frenetic sounds of the city coming in through the window. It was the perfect tranquilizer to the city's hectic (but energizing) lifestyle.**"**
  
-## Sean Piñeiro - Grounds
-_Christian Löffler:_ **"**I think Sean is the biggest talents we have discovered on Ki so far. A real genius when it comes to atmosphere in music. I can listen to this song over and over again without getting tired about it.**"**
+## XXXXXX
+_Arms and Sleepers:_ **"**XXX**"**
  
-## Daisuke Tanabe - Paper Planes
-_Christian Löffler:_ **"**My favorite song at the moment. Daisuke’s latest album „Floating Underwater“ was just released on our label Ki. You have to check it out, a real masterpiece.**"**
+## Clark - Unfurla
+_Arms and Sleepers:_ **"**This is a new song, but I've been listening to it a lot ever since its release (so maybe not just on Sunday mornings). This tune really gets me going as I'm starting a new day - great, great energy.**"**
  
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Christian Löffler](https://soundcloud.com/christianloeffler "Christian Löffler on SoundCloud") for his morning selection. Enjoy your sunday.
