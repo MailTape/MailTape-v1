@@ -10,7 +10,7 @@ track2_color: rough
 track3_color: rough
 track4_color: dreamy
 track5_color: vibrant
-track6_color: bliss
+track6_color: vibrant
 track7_color: trippy
 category: "156"
 guest_name: Arms and Sleepers
