@@ -37,12 +37,12 @@ musiColor: musiColor156.png
 <p id="introduction">
 A time when we were all one and free,  and we stood, with our hands in hands with a blue sky on top and countless shades of trees.
  
-Let’s get one with our this week’s special and let music speak for us, for it has in it a magic that will cast a spell on you. A beautiful morning with our guest Arms and Sleepers and those ready to embark on a cosy Sunday morning. 
+Let’s unite with our this week’s special and let music speak for us, for it has in it a magic that will cast a spell on you. A beautiful morning with our guest Arms and Sleepers and those ready to embark on a cosy Sunday morning. 
 </p>
  
 # Progressive, Pacey and Dreamy
 
-This Sunday we bring you the ambient, trip-hop band Arms and Sleepers, comprising the duo Max Lewis from Boston and Mirza Ramic from Portland, Maine. They released their first EPs in 2006, of which “Bliss Was It In That Dawn To Be Alive” was the most notable. 
+Today, we bring you the ambient, trip-hop band Arms and Sleepers, comprising the duo Max Lewis from Boston and Mirza Ramic from Portland, Maine. They released their first EPs in 2006, of which “Bliss Was It In That Dawn To Be Alive” was the most notable. 
 
 For those of you ready to pass on a beatific Sunday morning, try Tiger Tempo. On the other hand,  By Some Miracle is a hauntingly beautiful song by Philip Selway from his solo debut album Familial released in 2010. Listening to it is a walk down memory lane to the days when alternative was the rage, led by Radiohead.   Unfurla by Clark is yet another track recommended by our guest which may energise you. 
 
