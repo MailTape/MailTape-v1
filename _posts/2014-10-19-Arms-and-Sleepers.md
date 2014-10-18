@@ -59,5 +59,5 @@ _Arms and Sleepers:_ **"**I first heard this song through the music video direct
 _Arms and Sleepers:_ **"**This is a new song, but I've been listening to it a lot ever since its release (so maybe not just on Sunday mornings). This tune really gets me going as I'm starting a new day - great, great energy.**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Arms and Sleeper](http://armsandsleepers.com/ "Their website") for his morning selection. Enjoy your sunday.
+That’s all we have in stock for this week’s episode. We hope you like it until then auf wiedersehen. A big thank to our guest [Arms and Sleeper](http://armsandsleepers.com/ "Their website") for his morning selection. Enjoy your sunday. (Text by our dear [Siddhartha](http://armsandsleepers.com/ "His Tumblr")
 </p>
