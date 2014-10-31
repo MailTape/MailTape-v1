@@ -8,8 +8,8 @@ bigTitle_line_ratio: "1"
 track1_color: bliss
 track2_color: bliss
 track3_color: vibrant
-track4_color: rough
-track5_color: rough
+track4_color: bliss
+track5_color: vibrant
 track6_color: rough
 track7_color: rough
 category: "158"
@@ -24,6 +24,14 @@ musiColor: musiColor.png
 track1_title: "iamamiwhoami - Thin"
 track2_title: "Andy Stott - Violence"
 track3_title: "Buke and Gase - Seam Esteem"
+track4_title: "Douglas Dare - Caroline"
+track4_link: "https://soundcloud.com/douglas-dare/caroline"
+track5_title: "Francis Inferno Orchestra - G.A.B.O.S"
+track5_link: "https://soundcloud.com/fio/francis-inferno-orchestra-g-a"
+track7_link: "https://soundcloud.com/audion/dem-howl-feat-troels-abrahamsen-kom314"
+track7_title: "Audion - Dem Howl"
+track6_title: "Hans Berg - Tucan Fever"
+track6_link: "https://soundcloud.com/trunkfunk/hans-berg-tucan-fever"
 ---
 
 <p id="introduction">
