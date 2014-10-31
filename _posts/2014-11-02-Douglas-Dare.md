@@ -19,7 +19,7 @@ track1_link: "https://soundcloud.com/twimclabel/thin"
 track2_link: "https://soundcloud.com/modernlove/violence"
 track3_link: "https://soundcloud.com/buke-and-gase/seam-esteem"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
-fbPic: fbPic158.png
+fbPic: fbPic158.jpg
 musiColor: musiColor.png
 track1_title: "iamamiwhoami - Thin"
 track2_title: "Andy Stott - Violence"
