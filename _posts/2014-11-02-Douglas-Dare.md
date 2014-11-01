@@ -36,11 +36,11 @@ description: "This morning, discover Douglas Dare. Douglas Dare grew up in the s
 ---
 
 <p id="introduction">
-This morning, discover [Douglas Dare](http://www.douglasdare.com "Douglas Dare's Website"). Douglas Dare grew up in the small coastal town of Bridport in South West England. Encouraged by his mother, a piano teacher, he began composing music at a very young age. He inspired us a dark and rough tape with with a few bright spots. Hope you'll like it.</p>
+This morning, discover [Douglas Dare](http://www.douglasdare.com "Douglas Dare's Website"). Douglas Dare grew up in the small coastal town of Bridport in South West England. Encouraged by his mother, a piano teacher, he began composing music at a very young age. He inspired us a dark and rough tape with with a few bright spots. Hope you will like it.</p>
  
-# Lorem ipsum dolor
+# Rivers and storms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Rivers are constant liquid flows which inexorably and continiously move from a point A to a point B. Their regularity is both reensuring and relaxing. At the contrary, storms are ponctual and extreme events, which do not last overtime. They are sudden and unpredictible. In less than an hour, today's MailTape will litteraly make you experience both of these phenomenon through a unique music journey. Enjoy!
 
 # Douglas Dare's morning inspiration
  
