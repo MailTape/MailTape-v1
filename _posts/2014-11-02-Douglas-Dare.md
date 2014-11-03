@@ -40,7 +40,7 @@ This morning, discover [Douglas Dare](http://www.douglasdare.com "Douglas Dare's
  
 # Rivers and storms
 
-Rivers are constant liquid flows which inexorably and continiously move from a point A to a point B. Their regularity is both reensuring and relaxing. At the contrary, storms are ponctual and extreme events, which do not last overtime. They are sudden and unpredictible. In less than an hour, today's MailTape will litteraly make you experience both of these phenomenon through a unique music journey. Enjoy!
+Rivers are constant liquid flows which inexorably and continiously move from a point A to a point B. Their regularity is both reensuring and relaxing. At the contrary, storms are ponctual and extreme events, which do not last overtime. They are sudden and unpredictable. In less than an hour, today's MailTape will litteraly make you experience both of these phenomenon through a unique music journey. Enjoy!
 
 # Douglas Dare's morning inspiration
  
