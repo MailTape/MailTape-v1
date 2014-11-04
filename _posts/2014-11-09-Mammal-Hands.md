@@ -32,7 +32,6 @@ episode_URL: "http://mailta.pe/159/Mammal-Hands/"
 guestPic: guestPic159.jpg
 ---
 
-![guestPic159.jpg](/img/guestPic159.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
