@@ -36,4 +36,7 @@ episode_URL: "http://mailta.pe/159/Mammal-Hands/"
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 
-Photo Credit: Simon Hunt
+
+<p id="outroduction">
+That’s all folks! A big thank to our guest [Mammal Hands](https://mammalhands.bandcamp.com/ "Mammal Hands Bandcamp") for their morning selection, to Kerstan Mackness for the contact and Simon Hut for the photo. Enjoy your sunday.
+</p>
