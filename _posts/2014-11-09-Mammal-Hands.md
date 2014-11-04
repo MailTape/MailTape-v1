@@ -34,11 +34,14 @@ fbPic: fbPic159.jpg
 musiColor: musiColor159.png
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
-
-
+## Richard Spaven - Whole Others
+_Jesse Barrett:_ **"**I have been a fan of Richard Spaven for a while now, he has such a tasteful deep sound as a drummer and that comes across in this track which features The Hics. This tune flows with beautiful vocal lines and a sense of judiciously contained drum energy. Just right for me on a Sunday Morning.**"**
+ 
+## Fofoulah - Make good
+_Jordan Smart:_ **"**I've been really loving the slow rolling groove and vocals on this track. This band is full of players that I've really enjoyed from other projects, so this was a really nice discovery. The move from the opening saxophone harmonies into the drums would definitely help getting going on a Sunday morning.**"**
+ 
+## Taylor Mc Ferrin - The Antidote
+_Nick Smart:_ **"**This tune is from Taylor Mcferrin's new record Early Riser, which blends jazz tinged chord progressions with contemporary, off kilter electronic beats. This tune features some beautiful vocals from Nai Palm and would be a perfect mellow start to a Sunday morning.**"** 
 
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Mammal Hands](https://mammalhands.bandcamp.com/ "Mammal Hands Bandcamp") for their morning selection, to Kerstan Mackness for the contact and Simon Hut for the photo. Enjoy your sunday.
