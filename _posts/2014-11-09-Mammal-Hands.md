@@ -30,6 +30,7 @@ track7_title: "Francis Bebay - Sanza Tristesse"
 category: "159"
 episode_URL: "http://mailta.pe/159/Mammal-Hands/"
 guestPic: guestPic159.jpg
+musiColor: musiColor159.png
 ---
 
 ## A New Post
