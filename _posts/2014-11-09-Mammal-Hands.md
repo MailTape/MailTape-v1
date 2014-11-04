@@ -27,6 +27,8 @@ track4_title: "Mammal Hands - Mansions of Millions of Years"
 track5_title: "Scissor and Thread - Desert Sound Colony"
 track6_title: "Little Journey - Doobie Mountain"
 track7_title: "Francis Bebay - Sanza Tristesse"
+category: "159"
+episode_URL: "http://mailta.pe/159/Mammal-Hands/"
 ---
 
 ## A New Post
