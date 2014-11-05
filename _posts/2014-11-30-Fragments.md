@@ -31,6 +31,24 @@ track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
-## A New Post
+<p id="introduction">
+This morning, discover [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia... </p>
+ 
+# Rivers and storms
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia...
+
+# Fragments' morning inspiration
+ 
+## Maps - A.M.A
+_Benjamin:_ **"**A real pop song you will have in mind for the rest of the day. For going on with the party you started the night before as well as for waking up with a smile on your face.**"**
+ 
+## Ariel Pink's Haunted Graffiti - Round and Round
+_Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels just like a sunny Sunday. If everyone listened to Ariel Pink, people may less bit the crap out of each other.**"**
+ 
+## Julien Marchal - I
+_Sylvain:_ **"**Because it's fluffy. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
+ 
+<p id="outroduction">
+That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection and to Jérôme Sevrette for the picture. Enjoy your sunday.
+</p>
