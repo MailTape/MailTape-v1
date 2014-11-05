@@ -5,13 +5,13 @@ author: Dimitri
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: bliss
+track2_color: vibrant
+track3_color: dreamy
+track4_color: dreamy
+track5_color: vibrant
+track6_color: vibrant
+track7_color: vibrant
 track1_link: "https://soundcloud.com/muterecords/maps-a-m-a"
 track2_link: "https://soundcloud.com/indoorsoutdoors/ariel-pinks-haunted-graffiti-round-and-round"
 track3_link: "https://soundcloud.com/julienmarchal/insight"
@@ -23,6 +23,12 @@ track4_title: "Fragments - December Sun"
 episode_URL: "http://mailta.pe/161/Fragments"
 category: "161"
 guest_name: Fragments
+track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
+track5_title: "Atlas Bound - Soul"
+track6_title: "Fellini Félin - On The Way Home"
+track6_link: "https://soundcloud.com/delicieuse-musique/fellini-f-lin-on-the-way-home"
+track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
+track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
 ## A New Post
