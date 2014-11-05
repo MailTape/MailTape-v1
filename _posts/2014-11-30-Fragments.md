@@ -22,6 +22,7 @@ track3_title: "Julien Marchal - I"
 track4_title: "Fragments - December Sun"
 episode_URL: "http://mailta.pe/161/Fragments"
 category: "161"
+guest_name: Fragments
 ---
 
 ## A New Post
