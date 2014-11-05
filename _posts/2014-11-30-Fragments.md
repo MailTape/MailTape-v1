@@ -20,7 +20,8 @@ track1_title: "Maps - A.M.A"
 track2_title: "Ariel Pink's Haunted Graffiti - Round and Round"
 track3_title: "Julien Marchal - I"
 track4_title: "Fragments - December Sun"
-episode_URL: ""
+episode_URL: "http://mailta.pe/161/Fragments"
+category: "161"
 ---
 
 ## A New Post
