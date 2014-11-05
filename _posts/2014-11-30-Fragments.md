@@ -5,7 +5,7 @@ author: Dimitri
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: bliss
+track1_color: rough
 track2_color: vibrant
 track3_color: dreamy
 track4_color: dreamy
