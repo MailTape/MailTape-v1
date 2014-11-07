@@ -31,7 +31,7 @@ prose:
       - name: "author"
         field:
           element: "select"
-          label: "Who are you dude ?"
+          label: "Who are you ?"
           placeholder: "Choose your name"
           options:
             - name: "Dimitri"
@@ -40,8 +40,14 @@ prose:
               value: "Julien"
             - name: "ImaCrea"
               value: "ImaCrea"
+            - name: "Louise"
+              value: "Louise"
             - name: "Ludovic"
               value: "Ludovic"
+            - name: "Maxime"
+              value: "Maxime"
+            - name: "Olivier"
+              value: "Olivier"
             - name: "MailTape Crew"
               value: "MailTape Crew"
       - name: "category"
@@ -297,8 +303,8 @@ prose:
         field:
           element: "text"
           label: "Episode URL ?"
-          help: "Attention aux majuscules !"
-          placeholder: "http://mailta.pe/129/Valentin-Stip"
+          help: "Warning : be careful with caps and don't forget '/' at end!"
+          placeholder: "http://mailta.pe/129/Valentin-Stip/"
           type: "text"
       - name: "fbPic"
         field:
