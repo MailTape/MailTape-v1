@@ -43,24 +43,6 @@ $(document).ready(
 			}
 		});
 
-		var archivesLoaded = false;
-
-		$(".archivesButton").click(function() {
-			if (archivesLoaded==false) {
-				archivesLoaded=true;
-				$( "#archives" ).load( "/Archives.html", function() {
-					$(".stretchMe").anystretch();
-					$("html, body").animate({
-					scrollTop: $('#archives').offset().top
-						}, 1000);
-					});
-			}
-			else
-				{$("html, body").animate({
-				scrollTop: $('#archives').offset().top
-					}, 1000);}
-		});
-
 		/* Teaser image swap function */
 	    $("#logoLink").hover(function () {
 	        $("#logo").src = '/img/Logo_Mailtape.gif';
@@ -103,26 +85,6 @@ $(document).ready(
 
 		getTracksDuration();
 
-
-
-	// module permettant un affichage progressif des archives au fur et à mesure que l'user scroll
-		var archive_n=126;
-	    $(document).scroll(function() {
-
-	    	if (archive_n>0) {
-				console.log("hauteur archive"+archive_n+" : "+$("#archive"+archive_n).offset().top);
-	        	console.log("hauteur actuelle :"+$(document).scrollTop());
-	       		console.log("hauteur actuelle + taille fenêtre :"+($(document).scrollTop()+$(window).height()));
-
-
-	            if ($("#archive"+archive_n).offset().top <= ($(document).scrollTop()+$(window).height())) {
-	                console.log("archive dépassée: "+archive_n+" position : "+$("#archive"+archive_n).offset().top);
-	                archive_n=archive_n-10;
-	                $("#archive"+archive_n).show();$("#archive"+(archive_n+1)).show();$("#archive"+(archive_n+2)).show();$("#archive"+(archive_n+3)).show();$("#archive"+(archive_n+4)).show();$("#archive"+(archive_n+5)).show();$("#archive"+(archive_n+6)).show();$("#archive"+(archive_n+7)).show();$("#archive"+(archive_n+8)).show();$("#archive"+(archive_n+9)).show();
-	                console.log("archive affichée: "+archive_n+" position : "+$("#archive"+archive_n).offset().top);
-	            }
-	        }
-	    });
 
 	// module permettant d'insérer les titres des sons directement à partir la liste fournie
 		$.each(tracksTitle,function(i,trackTitle){
