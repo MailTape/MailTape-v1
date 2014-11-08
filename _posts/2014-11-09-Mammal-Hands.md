@@ -52,6 +52,6 @@ _Jordan Smart:_ **"**I've been really loving the slow rolling groove and vocals 
 _Nick Smart:_ **"**This tune is from Taylor Mcferrin's new record Early Riser, which blends jazz tinged chord progressions with contemporary, off kilter electronic beats. This tune features some beautiful vocals from Nai Palm and would be a perfect mellow start to a Sunday morning.**"** 
 
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Mammal Hands](https://mammalhands.bandcamp.com/ "Mammal Hands Bandcamp") for their morning selection, to Kerstan Mackness for the contact, Simon Hut for the photo and Siddharta for the writing. 
+That’s all folks! A big thank to our guest [Mammal Hands](https://mammalhands.bandcamp.com/ "Mammal Hands Bandcamp") for their morning selection, to Kerstan Mackness for the contact, Simon Hut for the photo and Siddhartha for the writing. 
 Enjoy your sunday.
 </p>
