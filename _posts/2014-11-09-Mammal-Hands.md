@@ -34,6 +34,12 @@ fbPic: fbPic159.jpg
 musiColor: musiColor159.png
 ---
 
+<p id="introduction">
+If there’s one genre in music that can’t be easily defined then that unquestionably is jazz. This Sunday we will communicate with something truly inspirational; a band whose music can be best described as novelty; a trio who are known for their distinctive compositions, and sounds that elicit feelings of melancholy with a touch of subtlety in it. We bring you a relaxed morning with an advocate of the avant-garde and our band of the week Mammal Hands.</p>
+
+Savoring the unpredictable
+The irregularity of this episode goes well along with jazz.  We have sounds ranging from mellow and trippy to blissful and progressively groovy.  Listening to this week’s episode is like predicting an unprecedented weather while having your fingers crossed, thus this Sunday morning we ask you to muse over what we call the unpredictable.
+
 ## Richard Spaven - Whole Others
 _Jesse Barrett:_ **"**I have been a fan of Richard Spaven for a while now, he has such a tasteful deep sound as a drummer and that comes across in this track which features The Hics. This tune flows with beautiful vocal lines and a sense of judiciously contained drum energy. Just right for me on a Sunday Morning.**"**
  
