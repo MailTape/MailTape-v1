@@ -23,11 +23,11 @@ track4_title: "Fragments - December Sun"
 episode_URL: "http://mailta.pe/161/Fragments"
 category: "161"
 guest_name: Fragments
-track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
+track5_link: "https://soundcloud.com/alfamist/easily-i-forget"
 track5_title: "Atlas Bound - Soul"
 track6_title: "Fellini Félin - On The Way Home"
-track6_link: "https://soundcloud.com/delicieuse-musique/fellini-f-lin-on-the-way-home"
-track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
+track6_link: "https://soundcloud.com/nehzuil/addthebassline"
+track7_link: "https://soundcloud.com/idehartist/do-something"
 track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
