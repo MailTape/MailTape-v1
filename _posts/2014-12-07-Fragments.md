@@ -32,11 +32,11 @@ track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
 <p id="introduction">
-This morning, discover [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia... </p>
+This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). If you're not waking up in a good mood by the end of this sunday selection, we can't do anything for you. Enjoy the lively rhythm of these tracks and you will be powered for the day. </p>
  
-# Rivers and storms
+# Ethearal vibes
 
-Denique Antiochensis ordinis vertices sub uno elogio iussit occidi ideo efferatus, quod ei celebrari vilitatem intempestivam urgenti, cum inpenderet inopia, gravius rationabili responderunt; et perissent ad unum ni comes orientis tunc Honoratus fixa constantia...
+Fragments' music is all about freedom. Impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. You just have to close your eyes and imagine a magical land made of their music. 
 
 # Fragments' morning inspiration
  
@@ -47,8 +47,8 @@ _Benjamin:_ **"**A real pop song you will have in mind for the rest of the day. 
 _Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels just like a sunny Sunday. If everyone listened to Ariel Pink, people may less bit the crap out of each other.**"**
  
 ## Julien Marchal - I
-_Sylvain:_ **"**Because it's fluffy. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
+_Sylvain:_ **"**Because it's soft. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection and to Jérôme Sevrette for the picture. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to Jérôme Sevrette for the picture and to Tanguy. Enjoy your sunday.
 </p>
