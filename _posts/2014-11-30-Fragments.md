@@ -10,7 +10,7 @@ track2_color: vibrant
 track3_color: dreamy
 track4_color: dreamy
 track5_color: vibrant
-track6_color: vibrant
+track6_color: bliss
 track7_color: vibrant
 track1_link: "https://soundcloud.com/muterecords/maps-a-m-a"
 track2_link: "https://soundcloud.com/indoorsoutdoors/ariel-pinks-haunted-graffiti-round-and-round"
@@ -23,11 +23,11 @@ track4_title: "Fragments - December Sun"
 episode_URL: "http://mailta.pe/161/Fragments"
 category: "161"
 guest_name: Fragments
-track5_link: "https://soundcloud.com/alfamist/easily-i-forget"
+track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
 track5_title: "Atlas Bound - Soul"
-track6_title: "Fellini Félin - On The Way Home"
-track6_link: "https://soundcloud.com/nehzuil/addthebassline"
-track7_link: "https://soundcloud.com/idehartist/do-something"
+track6_title: "Les Gordon - Isolé"
+track6_link: "https://soundcloud.com/les-gordon/isol"
+track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
