@@ -32,11 +32,13 @@ track7_title: "The Pandamonium - Waiting for Summer"
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). If you're not waking up in a good mood by the end of this sunday selection, we can't do anything for you. Enjoy the lively rhythm of these tracks and you will be powered for the day. </p>
+This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). If you're not waking up in a good mood by the end of this sunday selection, we can't do anything for you. Enjoy the lively rhythm of these tracks and you will be powered for the rest of the day. </p>
  
 # Ethearal vibes
 
 Fragments' music is all about freedom. Impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. You just have to close your eyes and imagine a magical land made of their music. 
+
+Their morning selection is a perfect mirror to how eclectic their inspirations are. From the soaring chorus to the kind piano melody. You just have to let your mind wander.
 
 # Fragments' morning inspiration
  
