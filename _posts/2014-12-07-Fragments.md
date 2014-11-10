@@ -36,9 +36,9 @@ This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com
  
 # Ethearal vibes
 
-Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. You just have to close your eyes and imagine a magical land made of their music. 
+Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. Close your eyes and imagine a magical land made of their music. 
 
-Their morning selection is a perfect mirror to how eclectic their inspirations are. From the soaring chorus to the kind piano melody. You just have to let your mind wander.
+Their morning selection is a perfect mirror to how eclectic their inspirations are. From the soaring chorus to the kind piano melody, just let your mind wander.
 
 # Fragments' morning inspiration
  
