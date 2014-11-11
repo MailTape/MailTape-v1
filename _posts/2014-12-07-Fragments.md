@@ -33,13 +33,13 @@ guestPic: guestPic162.jpg
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). If you're not waking up in a good mood by the end of this sunday selection, we can't do anything for you. Enjoy the lively rhythm of these tracks and you will be powered for the rest of the day. </p>
+This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). You must wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day. </p>
  
 # Ethearal vibes
 
-Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. Close your eyes and imagine a magical land made of their music. 
+Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. Close your eyes and imagine a land echoing with the rhythms of their music.. 
 
-Their morning selection is a perfect mirror to how eclectic their inspirations are. From the soaring chorus to the kind piano melody, just let your mind wander.
+Their morning selection is a perfect mirror to how eclectic their inspirations are. It contains everything you need to kindle your imagination, from the soaring chorus to the kind piano melody, just let your mind wander.
 
 # Fragments' morning inspiration
  
@@ -53,5 +53,5 @@ _Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels 
 _Sylvain:_ **"**Because it's soft. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to Jérôme Sevrette for the picture and to Tanguy. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to Jérôme Sevrette for the picture, to Tanguy and Siddhartha. Enjoy your sunday.
 </p>
