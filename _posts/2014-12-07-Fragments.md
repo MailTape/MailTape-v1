@@ -37,7 +37,7 @@ This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com
  
 # Ethearal vibes
 
-Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. Close your eyes and imagine a land echoing with the rhythms of their music.. 
+Fragments' music is all about freedom. It's impossible to put them inside a tiny little box that defines a musical genre. Without any words, they express their own poetry. Close your eyes and imagine a land echoing with the rhythms of their music. 
 
 Their morning selection is a perfect mirror to how eclectic their inspirations are. It contains everything you need to kindle your imagination, from the soaring chorus to the kind piano melody, just let your mind wander.
 
@@ -53,5 +53,5 @@ _Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels 
 _Sylvain:_ **"**Because it's soft. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to Jérôme Sevrette for the picture, to Tanguy and Siddhartha. Enjoy your sunday.
+That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to Jérôme Sevrette for the picture, to Tanguy and Siddhartha. Enjoy your sunday!
 </p>
