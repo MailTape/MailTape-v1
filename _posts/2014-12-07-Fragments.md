@@ -20,7 +20,7 @@ track1_title: "Maps - A.M.A"
 track2_title: "Ariel Pink's Haunted Graffiti - Round and Round"
 track3_title: "Julien Marchal - I"
 track4_title: "Fragments - December Sun"
-episode_URL: "http://mailta.pe/162/Fragments"
+episode_URL: "http://mailta.pe/162/Fragments/"
 category: "162"
 guest_name: Fragments
 track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
@@ -31,6 +31,8 @@ track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
 guestPic: guestPic162.jpg
 musiColor: musiColor162.png
+description: "This morning, here's a Mailtape inspired by Fragments. You're bound to wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day."
+fbPic: fbPic162.jpg
 ---
 
 <p id="introduction">
