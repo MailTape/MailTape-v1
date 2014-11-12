@@ -30,10 +30,11 @@ track6_link: "https://soundcloud.com/les-gordon/isol"
 track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
 guestPic: guestPic162.jpg
+musiColor: musiColor162.png
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). You must wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day. </p>
+This morning, here's a Mailtape inspired by [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page"). You're bound to wake up in a good mood by the end of this sunday selection. Enjoy the lively rhythms of these tracks and you will be powered for the rest of the day. </p>
  
 # Ethearal vibes
 
@@ -44,13 +45,13 @@ Their morning selection is a perfect mirror to how eclectic their inspirations a
 # Fragments' morning inspiration
  
 ## Maps - A.M.A
-_Benjamin:_ **"**A real pop song you will have in mind for the rest of the day. For going on with the party you started the night before as well as for waking up with a smile on your face.**"**
+_Benjamin:_ **"**It's a real pop song you will have in mind for the rest of the day. For going on with the party you started the night before as well as for waking up with a smile on your face.**"**
  
 ## Ariel Pink's Haunted Graffiti - Round and Round
 _Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels just like a sunny Sunday. If everyone listened to Ariel Pink, people may less bit the crap out of each other.**"**
  
 ## Julien Marchal - I
-_Sylvain:_ **"**Because it's soft. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
+_Sylvain:_ **"**Because it's soft; because the sound of the piano is just a wonder and even more because he's a Frenchman.**"** 
  
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to [Titouan Massé](https://www.facebook.com/pages/Titouan-Massé-Photography/150884571626504?fref=ts "Titouan Massé's Facebook Page") for the picture, to Tanguy and Siddhartha. Enjoy your sunday!
