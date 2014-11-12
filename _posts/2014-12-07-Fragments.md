@@ -29,7 +29,7 @@ track6_title: "Les Gordon - Isolé"
 track6_link: "https://soundcloud.com/les-gordon/isol"
 track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
-guestPic: guestPic162 new.jpg
+guestPic: guestPic162.jpg
 ---
 
 <p id="introduction">
