@@ -53,5 +53,5 @@ _Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels 
 _Sylvain:_ **"**Because it's soft. Because the sound of the piano is just a wonder. Even more because he's a Frenchy.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to [Titouan Massé](https://www.facebook.com/pages/Titouan-Massé-Photography/ "Titouan Massé's Facebook Page") for the picture, to Tanguy and Siddhartha. Enjoy your sunday!
+That’s all folks! A big thank to our guest [Fragments](https://www.facebook.com/frgmntsmusic "Fragments' Facebook Page") for their morning selection, to [Titouan Massé](https://www.facebook.com/pages/Titouan-Massé-Photography/150884571626504?fref=ts "Titouan Massé's Facebook Page") for the picture, to Tanguy and Siddhartha. Enjoy your sunday!
 </p>
