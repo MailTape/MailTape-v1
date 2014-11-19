@@ -47,10 +47,10 @@ Their morning selection is a perfect mirror to how eclectic their inspirations a
 # Fragments' morning inspiration
  
 ## Maps - A.M.A
-_Benjamin:_ **"**It's a real pop song you will have in mind for the rest of the day. For going on with the party you started the night before as well as for waking up with a smile on your face.**"**
+_Benjamin:_ **"**It’s an ultra pop song that lingers in the mind after the party the night before. And it keeps the party going until you wake up with a smile in the morning.**"**
  
 ## Ariel Pink's Haunted Graffiti - Round and Round
-_Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels just like a sunny Sunday. If everyone listened to Ariel Pink, people may less bit the crap out of each other.**"**
+_Tom:_ **"**This song is a cure to melancholia. The bridge at two minutes feels just like a sunny Sunday. If everyone listened to Ariel Pink, less people would fight with each other.**"**
  
 ## Julien Marchal - I
 _Sylvain:_ **"**Because it's soft; because the sound of the piano is just a wonder and even more because he's a Frenchman.**"** 
