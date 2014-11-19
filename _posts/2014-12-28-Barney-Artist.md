@@ -26,7 +26,7 @@ episode_URL: "http://mailta.pe/166/Barney-Artist/"
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Fragments](http://www.barneyartist.com "Barney Artist's website"). Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti. </p>
+This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti. </p>
  
 # Ethearal vibes
  
