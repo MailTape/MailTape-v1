@@ -52,6 +52,6 @@ _Milo McBride:_ **"**Now living in Berlin, Abu Ashley makes house and techno tha
 _Milo McBride:_ **"**NY based video artist and photographer, Minister Akins also makes some really soulful music. Just when the wall of ambience in "Holy Communion" puts you at peace - the sub falls in and the energy starts flowing forward. A great way to start a set or even your morning playlist.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Milo Mc Bride](https://soundcloud.com/milomcbride "Milo's Soundcloud") and their morning selection. And thanks to Ludo who made this possible.
+That’s all folks! A big thank to our guest [Milo McBride](https://soundcloud.com/milomcbride "Milo's Soundcloud") and their morning selection. And thanks to Ludo who made this possible.
 Enjoy your sunday.
 </p>
