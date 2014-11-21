@@ -28,7 +28,7 @@ track4_title: "Milo Mc Bride - Clism"
 track5_title: "David Vandervelde - Where Are You"
 track6_title: "Chief - High"
 track7_title: "David Douglas - Moon Observations (Henry Saiz Remix)"
-guestPic: guesPic161.jpg
+guestPic: guestPic161.jpg
 ---
 
 <p id="introduction">INTRO, take my hand</p>
@@ -49,6 +49,6 @@ _Milo Mc Bride:_ **"**Now living in Berlin, Abu Ashley makes house and techno th
 _Milo Mc Bride:_ **"**NY based video artist and photographer, Minister Akins also makes some really soulful music. Just when the wall of ambience in "Holy Communion" puts you at peace - the sub falls in and the energy starts flowing forward. A great way to start a set or even your morning playlist.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Milo Mc Bride](https://soundcloud.com/milomcbride "Milo's Soundcloud") and their morning selection. And thanks to Ludo who made this possible.
+That’s all folks! A big thank to our guest [Milo Mc Bride](https://soundcloud.com/milomcbride "Milo's Soundcloud") and their morning selection. And thanks to Ludo who made this possible. ![guestPic161.jpg](/img/guestPic161.jpg)
 Enjoy your sunday.
 </p>
