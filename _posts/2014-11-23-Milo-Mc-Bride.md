@@ -13,7 +13,7 @@ track5_color: dreamy
 track6_color: trippy
 track7_color: bliss
 category: "161"
-guest_name: Milo Mc Bride
+guest_name: Milo McBride
 track1_link: "https://soundcloud.com/wildkatzmusic/john-waters"
 track2_link: "https://soundcloud.com/parkarecords/abu-ashley-hussein-online"
 track3_link: "https://soundcloud.com/ministerakins/holycommunion"
