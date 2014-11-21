@@ -29,6 +29,9 @@ track5_title: "David Vandervelde - Where Are You"
 track6_title: "Chief - High"
 track7_title: "David Douglas - Moon Observations (Henry Saiz Remix)"
 guestPic: guestPic161.jpg
+fbPic: fbPic161.jpg
+musiColor: musiColor161.png
+episode_URL: "http://mailta.pe/161/Milo-Mc-Bride/"
 ---
 
 <p id="introduction">INTRO, take my hand</p>
