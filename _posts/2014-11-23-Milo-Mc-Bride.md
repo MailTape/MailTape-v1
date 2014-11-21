@@ -1,8 +1,8 @@
 ---
 layout: episode
 published: false
-author: Dimitri
-guest_color: rough
+author: Maxime
+guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: rough
@@ -12,6 +12,15 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: rough
+category: "161"
+guest_name: Milo Mc Bride
+track1_link: "https://soundcloud.com/wildkatzmusic/john-waters"
+track2_link: "https://soundcloud.com/parkarecords/abu-ashley-hussein-online"
+track3_link: "https://soundcloud.com/ministerakins/holycommunion"
+track4_link: "https://soundcloud.com/milomcbride/03-clism"
+track5_link: "https://soundcloud.com/burgerrecords/david-vandervelde-where-are-you"
+track6_link: "https://soundcloud.com/cosmonostro/chief-high"
+track7_link: "https://soundcloud.com/thump/david-douglas-moon-observations-henry-saiz-remix"
 ---
 
 <p id="introduction">INTRO, take my hand</p>
