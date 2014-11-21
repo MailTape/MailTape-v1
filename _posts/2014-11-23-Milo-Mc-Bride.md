@@ -4,7 +4,7 @@ published: true
 author: Maxime
 guest_color: trippy
 bigTitle_font_ratio: "6"
-bigTitle_line_ratio: "0.5"
+bigTitle_line_ratio: "0.6"
 track1_color: trippy
 track2_color: rough
 track3_color: rough
