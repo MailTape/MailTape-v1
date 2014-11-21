@@ -28,6 +28,7 @@ track4_title: "Milo Mc Bride - Clism"
 track5_title: "David Vandervelde - Where Are You"
 track6_title: "Chief - High"
 track7_title: "David Douglas - Moon Observations (Henry Saiz Remix)"
+guestPic: guesPic161.jpg
 ---
 
 <p id="introduction">INTRO, take my hand</p>
