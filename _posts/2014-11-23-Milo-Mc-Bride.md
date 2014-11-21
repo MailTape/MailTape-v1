@@ -11,7 +11,7 @@ track3_color: rough
 track4_color: trippy
 track5_color: bliss
 track6_color: trippy
-track7_color: dreamy
+track7_color: bliss
 category: "161"
 guest_name: Milo Mc Bride
 track1_link: "https://soundcloud.com/wildkatzmusic/john-waters"
