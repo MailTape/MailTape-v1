@@ -5,13 +5,13 @@ author: Maxime
 guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
+track1_color: trippy
 track2_color: rough
 track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track4_color: trippy
+track5_color: bliss
+track6_color: trippy
+track7_color: bliss
 category: "161"
 guest_name: Milo Mc Bride
 track1_link: "https://soundcloud.com/wildkatzmusic/john-waters"
@@ -21,6 +21,13 @@ track4_link: "https://soundcloud.com/milomcbride/03-clism"
 track5_link: "https://soundcloud.com/burgerrecords/david-vandervelde-where-are-you"
 track6_link: "https://soundcloud.com/cosmonostro/chief-high"
 track7_link: "https://soundcloud.com/thump/david-douglas-moon-observations-henry-saiz-remix"
+track1_title: "Wildkatz - John Waters"
+track2_title: "Abu Ashley - Hussein Online (Habibi Mix)"
+track3_title: "Minister Akins - Holy Communion"
+track4_title: "Milo Mc Bride - Clism"
+track5_title: "David Vandervelde - Where Are You"
+track6_title: "Chief - High"
+track7_title: "David Douglas - Moon Observations (Henry Saiz Remix)"
 ---
 
 <p id="introduction">INTRO, take my hand</p>
