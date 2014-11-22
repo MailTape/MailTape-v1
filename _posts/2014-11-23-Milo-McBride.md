@@ -31,7 +31,8 @@ track7_title: "David Douglas - Moon Observations (Henry Saiz Remix)"
 guestPic: guestPic161.jpg
 fbPic: fbPic161.jpg
 musiColor: musiColor161.png
-episode_URL: "http://mailta.pe/161/Milo-Mc-Bride/"
+episode_URL: "http://mailta.pe/161/Milo-McBride/"
+description: "With this week’s MailTape we have made yet another discovery, featuring an inspired music producer from New York who, along with his groundbreaking selection, is all set to take you on an oracular journey of beats and rhythms, so fasten up your seatbelts and get ready because this Sunday we will be onboard and flying with Milo McBride."
 ---
 
 <p id="introduction">With this week’s MailTape we have made yet another discovery, featuring an inspired music producer from New York who, along with his groundbreaking selection, is all set to take you on an oracular journey of beats and rhythms, so fasten up your seatbelts and get ready because this Sunday we will be onboard and flying with [Milo McBride](https://soundcloud.com/milomcbride "Milo's SoundCloud").   </p>
