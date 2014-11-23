@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: true
-author: Maxime
+author: ImaCrea
 guest_color: trippy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "0.6"
