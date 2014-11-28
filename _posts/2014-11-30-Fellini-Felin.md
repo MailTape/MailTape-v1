@@ -21,16 +21,17 @@ musiColor: musiColor162.png
 track1_title: "Soft Rocks - Talking Jungle (Justin Vandervolgen Remix)"
 track2_title: "Adam Kesher - Local Girl (The Shoes Remix)"
 track3_title: "Tornado Wallace - Insect Overlords"
-track1_link: "https://soundcloud.com/justin.../sof-rocks-talking-jungle"
-track2_link: "https://soundcloud.com/thesh.../adam-kesher-local-girl-shoes"
+track1_link: "https://soundcloud.com/justin-van-der-volgen/sof-rocks-talking-jungle"
+track2_link: "https://soundcloud.com/the-shoes/local-girl-the-shoes-rmx"
 track3_link: "https://soundcloud.com/tornadowallace/tornado-wallace-insect"
 track4_link: "https://soundcloud.com/delicieuse-musique/fellini-f-lin-on-the-way-home?in=delicieuse-musique/sets/fellini-felin-wisteria-ep"
 track4_title: "Fellini Félin - On The Way Home"
-track6_link: "https://soundcloud.com/sylvanesso/coffee?in=sylvanesso/sets/sylvan-esso-mastered-full"
+track6_link: "https://soundcloud.com/sylvanesso/coffee"
 track7_link: "https://soundcloud.com/aela-ezct/bubble-tea-tree"
 track7_title: "Aela Ezct - Bubble Tea Tree"
 track5_title: "Low Leaf - Slaveless Master"
 track6_title: "Sylvain Esso - Coffee"
+track5_link: "https://soundcloud.com/freshselects/low-leaf-slaveless-master"
 ---
 
 <p id="introduction">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud").   </p>
