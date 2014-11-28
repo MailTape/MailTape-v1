@@ -1,17 +1,17 @@
 ---
 layout: episode
 published: true
-author: Ludovic
+author: Julien
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
+track1_color: vibrant
+track2_color: vibrant
+track3_color: trippy
 track4_color: vibrant
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track5_color: trippy
+track6_color: bliss
+track7_color: trippy
 category: "162"
 guest_name: Fellini Félin
 guestPic: guestPic162.jpg
@@ -26,9 +26,14 @@ track2_link: "https://soundcloud.com/thesh.../adam-kesher-local-girl-shoes"
 track3_link: "https://soundcloud.com/tornadowallace/tornado-wallace-insect"
 track4_link: "https://soundcloud.com/delicieuse-musique/fellini-f-lin-on-the-way-home?in=delicieuse-musique/sets/fellini-felin-wisteria-ep"
 track4_title: "Fellini Félin - On The Way Home"
+track6_link: "https://soundcloud.com/sylvanesso/coffee?in=sylvanesso/sets/sylvan-esso-mastered-full"
+track7_link: "https://soundcloud.com/aela-ezct/bubble-tea-tree"
+track7_title: "Aela Ezct - Bubble Tea Tree"
+track5_title: "Low Leaf - Slaveless Master"
+track6_title: "Sylvain Esso - Coffee"
 ---
 
-<p id="introduction">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud).   </p>
+<p id="introduction">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud").   </p>
 
 # A New Post
 
