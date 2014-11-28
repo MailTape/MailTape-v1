@@ -34,11 +34,11 @@ track6_title: "Sylvain Esso - Coffee"
 track5_link: "https://soundcloud.com/freshselects/low-leaf-slaveless-master"
 ---
 
-<p id="introduction">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud").   </p>
+<p id="introduction">This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Twelve years later, after , Sébastien decided to start a solo project. Fellini Félin was born. </p>
 
 # A New Post
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.!
+His first EP, Wissds, has been released on Délicieuse Records. Sébastien  by disco, house and Afrobeat, His music is by modern production such as Kitsuné or DFA Records. Within on month only, their track On the Way Home has already reached 120'000 plays. Hope you'll enjoy his selection.
 
 # Fellini Félin's morning inspiration
  
@@ -52,6 +52,6 @@ _Fellini Félin:_ **"**I've been listening to both of these French artists since
 _Fellini Félin:_ **"**I can't help but turn up the volume with this one! The synths, the percussion, everything is perfect. It captivates from the start and is the ideal track to play to get the party started!**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest (https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud) and his morning selection. And thanks to ImaCrea and Julien who backed me up for this tape. You guys rock!
+That’s all folks! A big thank to our guest (https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud) and his morning selection. And thanks to Ludovic and ImaCrea who backed me up for this tape. You guys rock!
 Enjoy your sunday.
 </p>
