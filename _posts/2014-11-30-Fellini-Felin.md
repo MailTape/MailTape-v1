@@ -32,7 +32,7 @@ track7_title: "Aela Ezct - Bubble Tea Tree"
 track5_title: "Low Leaf - Slaveless Master"
 track6_title: "Sylvain Esso - Coffee"
 track5_link: "https://soundcloud.com/freshselects/low-leaf-slaveless-master"
-description: "This morning, discover Fellini Félin's SoundCloud\"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born."
+description: "This morning, discover Fellini Félin. Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born."
 ---
 
 <p id="introduction">This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born.</p>
