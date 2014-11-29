@@ -53,6 +53,6 @@ _Fellini Félin:_ **"**I've been listening to both of these French artists since
 _Fellini Félin:_ **"**I can't help but turn up the volume with this one! The synths, the percussion, everything is perfect. It captivates from the start and is the ideal track to play to get the party started!**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud) and his morning selection. And thanks to Ludovic and ImaCrea who backed me up for this tape. You guys rock!
+That’s all folks! A big thank to our guest [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud") and his morning selection. And thanks to Ludovic and ImaCrea who backed me up for this tape. You guys rock!
 Enjoy your sunday.
 </p>
