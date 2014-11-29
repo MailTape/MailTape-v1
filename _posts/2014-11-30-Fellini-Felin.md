@@ -34,11 +34,11 @@ track6_title: "Sylvain Esso - Coffee"
 track5_link: "https://soundcloud.com/freshselects/low-leaf-slaveless-master"
 ---
 
-<p id="introduction">This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Twelve years later, after , Sébastien decided to start a solo project. Fellini Félin was born. </p>
+<p id="introduction">This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born. </p>
 
-# A New Post
+# Blended genre make great vibes
 
-His first EP, Wissds, has been released on Délicieuse Records. Sébastien  by disco, house and Afrobeat, His music is by modern production such as Kitsuné or DFA Records. Within on month only, their track On the Way Home has already reached 120'000 plays. Hope you'll enjoy his selection.
+His first EP, Wisteria, has recently been released on Délicieuse Records. Sébastien uses diffrent inspirations to create his own music such as disco, house and Afrobeat. His tracks are influenced by modern productions. Among them we can quote Kitsuné or DFA Records. Within a month only, his brilliant track "On the Way Home" had reached 120'000 plays on SoundCloud. Hope you'll enjoy his selection.
 
 # Fellini Félin's morning inspiration
  
