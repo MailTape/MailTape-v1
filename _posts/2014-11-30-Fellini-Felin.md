@@ -37,7 +37,7 @@ description: "This morning, discover Fellini Félin. Everything started in the F
 
 <p id="introduction">This morning, discover [Fellini Félin](https://soundcloud.com/fellinifelin "Fellini Félin's SoundCloud"). Everything started in the Fellini’s Club in Barcelona. We were in the 2000 and Sébastien Coutureau, together with a bunch of friends, decided to create his first band : Fellini. Ten years later, after the band had split up, Sébastien decided to start a solo project. Fellini Félin was born.</p>
 
-# Blended genre make great vibes
+# Blended genres make great vibes
 
 His first EP, Wisteria, has recently been released on Délicieuse Records. Sébastien uses diffrent inspirations to create his own music such as disco, house and Afrobeat. His tracks are influenced by modern productions. Among them we can quote Kitsuné or DFA Records. Within a month only, his brilliant track "On the Way Home" had reached 120'000 plays on SoundCloud. Hope you'll enjoy his selection.
 
