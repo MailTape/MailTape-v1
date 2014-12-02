@@ -23,6 +23,9 @@ track3_title: "IDEH - Do Something"
 track2_title: "Alfa & Emmavie - Easily, I Forget"
 track1_title: "Jordan Rakei - Add The Bassline (Nehzuil Remix)"
 episode_URL: "http://mailta.pe/166/Barney-Artist/"
+track5_link: "https://soundcloud.com/motherucker/flight-of-the-conchords-foux"
+track6_link: "https://soundcloud.com/life-sweet/nate-dogg-i-got-love"
+track7_link: "https://soundcloud.com/jonisaok/james-blake-retrograde"
 ---
 
 <p id="introduction">
