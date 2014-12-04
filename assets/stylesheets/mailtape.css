@@ -900,6 +900,19 @@ a:hover {
   margin: 2em 0 0.2em 0;
   font-size: 2em;
 }
+.archives h1:nth-of-type(2) {
+  margin: 0.5em 0 0.2em 0;
+}
+@media only screen and (min-width: 768px) and (max-width: 990px) {
+  .archives h1:nth-of-type(2) {
+    margin: 0.5em 0 0.2em 0;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .archives h1:nth-of-type(2) {
+    margin: 0.5em 0 0.2em 0;
+  }
+}
 .archives h2 {
   margin: 0 0 1em 0;
   text-align: center;
