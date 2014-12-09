@@ -32,11 +32,12 @@ track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti. </p>
+This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). As you have eaten in one week, the third of what you eat in one year, we thought you might need a sweet Mailtape to digest your Christmas food, today. </p>
  
-# Ethearal vibes
+# Chill hip-hop
  
-Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti, equorum adiumento pernicium graciliumque camelorum per diversa se raptantes, in tranquillis vel turbidis rebus: nec eorum quisquam aliquando stivam adprehendit vel arborem colit aut arva subigendo quaeritat victum, sed errant semper per spatia longe lateque distenta sine lare sine sedibus fixis aut legibus: nec idem perferunt diutius caelum aut tractus unius soli illis umquam placet.
+We truly believe Barney Artist will be a "hit" in 2015. His EP Bespoke is On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode.
+His selection is really smooth and we wanted to complete it with smoot
  
 # Barney Artist's morning inspiration
  
