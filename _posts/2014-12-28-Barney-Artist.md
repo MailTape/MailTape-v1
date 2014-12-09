@@ -26,7 +26,7 @@ episode_URL: "http://mailta.pe/166/Barney-Artist/"
 track5_link: "https://soundcloud.com/muneshine/miguel-how-many-drinks-muneshine-remix"
 track6_link: "https://soundcloud.com/kflay/make-me-fade-feat-sol-buddy/"
 track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
-track6_title: "K.Flay - Make Me Fade (Feat. Sol & Buddy)"
+track6_title: "K.Flay ft. Sol and Buddy - Make Me Fade"
 track5_title: "Miguel ft. Kendrick Lamar - How Many Drinks (Muneshine Remix)"
 track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 ---
