@@ -11,7 +11,7 @@ track3_color: trippy
 track4_color: dreamy
 track5_color: dreamy
 track6_color: trippy
-track7_color: bliss
+track7_color: dreamy
 category: "166"
 guest_name: Barney Artist
 track1_link: "https://soundcloud.com/nehzuil/addthebassline"
@@ -25,10 +25,10 @@ track1_title: "Jordan Rakei - Add The Bassline (Nehzuil Remix)"
 episode_URL: "http://mailta.pe/166/Barney-Artist/"
 track5_link: "https://soundcloud.com/muneshine/miguel-how-many-drinks-muneshine-remix"
 track6_link: "https://soundcloud.com/kflay/make-me-fade-feat-sol-buddy/"
-track7_link: "https://soundcloud.com/asa6aya/elusive-delusive-feat-lorine-chia"
+track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
 track6_title: "K.Flay - Make Me Fade (Feat. Sol & Buddy)"
 track5_title: "Miguel ft. Kendrick Lamar - How Many Drinks (Muneshine Remix)"
-track7_title: "Asagaya ft. Lorine Chia - Elusive / Delusive"
+track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 ---
 
 <p id="introduction">
