@@ -39,7 +39,7 @@ This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyart
  
 # Chill hip-hop
  
-We truly believe Barney Artist will be a "hit" in 2015. His EP [Bespoke](https://soundcloud.com/barneyartist/sets/bespoke-1 "Listen to Bespoke") is dope. On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode - and this track really is pure chill.
+We truly believe Barney Artist will be a "hit" in 2015. His EP [Bespoke](https://soundcloud.com/barneyartist/sets/bespoke-1 "Listen to Bespoke") is dope. On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode - and this track is pure chill.
 
 Barney's selection is the smoothest so we wanted to complet it with mellow hip-hop and an ounce of harsh beats.
  
