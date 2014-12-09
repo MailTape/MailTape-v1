@@ -29,6 +29,7 @@ track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
 track6_title: "K.Flay ft. Sol and Buddy - Make Me Fade"
 track5_title: "Miguel ft. Kendrick Lamar - How Many Drinks (Muneshine Remix)"
 track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
+guestPic: guestPic166.jpg
 ---
 
 ![guestpic166.jpg](/img/guestpic166.jpg)
