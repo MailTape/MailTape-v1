@@ -32,7 +32,6 @@ track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 guestPic: guestPic166.jpg
 ---
 
-![guestpic166.jpg](/img/guestpic166.jpg)
 <p id="introduction">
 This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). As you have eaten in one week, the third of what you eat in one year, we thought you might need a sweet Mailtape to digest your Christmas food, today. </p>
  
