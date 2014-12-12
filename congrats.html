@@ -40,7 +40,7 @@
 
     <link href="/assets/stylesheets/mailtape.css" rel="stylesheet" media="screen">
     <link href="/assets/stylesheets/landing.css" rel="stylesheet" media="screen">
-    <link href="/assets/stylesheets/archive.css" rel="stylesheet" media="screen">
+
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -56,7 +56,6 @@
    <script src="/assets/javascripts/flowtype.js"></script>
 
    <script src="/assets/javascripts/landing.js"></script>
-   <script src="/assets/javascripts/archive.js"></script>
 
    <script src="/assets/javascripts/jquery.ajaxchimp.js"></script>
 
@@ -77,10 +76,12 @@
     })();
     </script>
 
-    <script type="text/javascript">
+     <script type="text/javascript">
+    <!--
     if (screen.width <= 699) {
     document.location = "{{ post.url }}";
     }
+    //-->
     </script>
 
 </head>
@@ -93,63 +94,33 @@
 <div id="bigHeader" class="stretchMe" data-stretch="/img/hero.jpg">
     <img id="logoLeftCorner" src="/img/Logo_Mailtape_long_white.png">
 <!--     <div id="hero">
-
         <video class="video-playing" loop="loop" preload="auto" autoplay="autoplay" id="pretzel-video">
             <source src="//a0.muscache.com/airbnb/static/London-P1-1.mp4" type="video/mp4">
             <source src="//a0.muscache.com/airbnb/static/London-P1-0.webm" type="video/webm">
           </video>
     </div> -->
     <div id="overHero">
-        <p id="bigIntro"><span id="soundColorHero">Fresh</span> sound in your inbox,<br><span style="font-size:0.8em">every Sunday morning.</span></p>
-        <p id="underBigIntro"></p>
+        <p id="bigIntro">Fantastic, welcome !</p>
+        <p id="underBigIntro">To shorten your wait-time till next Sunday, discover our latest playlist.</p><br><br>
 
-        <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-form" name="mc-form" class="validate" target="_blank" novalidate>
+        <a href="{{ post.url }}" id="latestEpisodeHero" class="{{ post.guest_color }}">
+            <span class="icomoon">&#xe602;</span> PLAYLIST {{ post.category }} x {{ post.guest_name }}
+        </a>
+</div>
+        
 
-                <input type="email" name="EMAIL" class="required email" id="mc-EMAIL" placeholder="Your email ?" required><br>
-                <input type="text" name="PRENOM" class="required" id="mc-PRENOM" placeholder="Your name ?" required><br>
-                <button class="btn btn-default" name="subscribe" id="subscribeButton" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #1']);">Send it to me</button><br>
-                <label id="mc-label" for="mc-EMAIL"></label><br>
-
-
-        </form>
     </div>
-    <p id="photoCredit">Photo credit : <a href="https://flic.kr/p/abD9Vu" target="_blank">Kevin Morris</a></p>
 </div>
 
 <div id="musiColorSeparator" class="{{ post.guest_color }}">
-    <a href="{{ post.url }}" id="latestEpisode" class="{{ post.guest_color }}" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Latest Episode', 'Clicked to listen to latest episode from landing']);">
+<!--     <a href="{{ post.url }}" id="latestEpisode" class="{{ post.guest_color }}">
         <span class="icomoon">&#xe602;</span> PLAYLIST {{ post.category }} x {{ post.guest_name }}
-    </a>
+    </a> -->
 </div>
 
 <div class="container main">
 
-    <div id="quote" class="col-md-10 col-md-offset-1">
-
-        <p id="quoteByHappyUser"><span class="quoteSymbol">“</span>MailTape is the reason I wake up every Sunday with a smile, music smoothing all the hard week behind me.<span class="quoteSymbol">“</span></p>
-        <p id="happyUserName">Barbara M, Quebec.</p>
-
-    </div>
-
-    <div class="row"></div>
-
-    <div id="ourStory" class="col-md-8 col-md-offset-2">
-        <p><span id="bigStatement">We invite a great artist who selects 3 tracks, we craft an inspiring playlist out of it, you receive it. Simple & free.</span><br><br>
-        We believe music is above all an invitation to relax, dance and get inspired.<br>Our mission is to help you to discover great new music in the simplest way ever.
-        </p>
-        <p id="signature">The MailTape Crew</p>
-    </div>
-
-    <div class="row"></div>
-
-    <div class="relance">
-        <button class="relanceButton" class="btn btn-default" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #2']);">Send it to me</button>
-    </div>
     <div class="archives" id="archives">
-    </div>
-    <br>
-    <div class="relance">
-        <button class="relanceButton" class="btn btn-default" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #3']);">Send it to me</button>
     </div>
     <br>
 
@@ -170,7 +141,19 @@
 
 <div class="footer">
     <img src="/img/Logo_Mailtape_long.png" style="width:12em" />
-    <br>Feel Love Every Sunday Morning<br>
+    <br>
+    <a data-toggle="modal" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'SubscribeLow']);">SUBSCRIBE</a>&nbsp;|&nbsp;
+    <a data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'LoveLow']);">LOVE</a>&nbsp;|&nbsp;
+    <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton">ARCHIVES</a>
+    <!-- Eviter d'afficher le bouton archive dans le cas où JS non activé puisque fonctionne pas dans ce cas -->
+    <noscript>
+        <style>
+        #archivesButton {
+            display:none;
+        }
+        </style>
+    </noscript>&nbsp;|&nbsp;
+    <a data-toggle="modal" href="#aboutModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'AboutLow']);">ABOUT</a>
     <br>© 2011-2013 MailTape, all rights reserved. | <a href="http://twitter.com/MailTape" target="_blank">Twitter</a> | <a href="http://facebook.com/MailTape" target="_blank">Facebook</a>
     <br>Created by <a href="http://twitter.com/imacrea" target="_blank">ImaCrea</a> from Toulouse, France.
     <br>

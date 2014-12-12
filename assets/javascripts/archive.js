@@ -2,14 +2,53 @@ $(document).ready(
 	function() {
 
 	// module permettant de ne charger la liste des archives que si l'user le demande en injectant le html de Archives.html dans la page en cours
-
+	console.log("coucou c'est moi les archives :)");
+	
 		var archivesLoaded = false;
 
 		$(".archivesButton").click(function() {
 			if (archivesLoaded==false) {
+				console.log("coucou c'est moi les archives chargées :)");
 				archivesLoaded=true;
 				$( "#archives" ).load( "/Archives.html", function() {
 					$(".stretchMe").anystretch();
+
+					var musiColors = ["rough","dreamy","vibrant","bliss","trippy"];
+
+					$(musiColors).each(function(index,color) {
+
+						$(".selector ."+color).click(function(){
+
+								if ($(".selector ."+color).parent("li").hasClass("selected")) {
+
+									$(".selector ."+color).parent("li").removeClass("selected");
+									for (var i = musiColors.length - 1; i >= 0; i--) {
+										$(".archive."+musiColors[i]).fadeIn("slow");
+										$(".oldies ."+musiColors[i]).fadeIn("slow");
+										$(".selector ."+musiColors[i]).parent("li").removeClass("unselected");
+									};
+
+								}
+
+								else {
+
+								for (var i = musiColors.length - 1; i >= 0; i--) {
+									if (index!=i) {
+										$(".archive."+musiColors[i]).fadeOut("slow");
+										$(".oldies ."+musiColors[i]).fadeOut("slow");
+										$(".selector ."+musiColors[i]).parent("li").addClass("unselected");
+										$(".selector ."+musiColors[i]).parent("li").removeClass("selected");
+									}
+								};
+
+								$(".archive."+color).fadeIn("slow");
+								$(".selector ."+color).parent("li").removeClass("unselected");
+								$(".selector ."+color).parent("li").addClass("selected");
+								$(".oldies ."+color).fadeIn("slow");
+							}
+						})
+
+					});
 					$("html, body").animate({
 					scrollTop: $('#archives').offset().top
 						}, 1000);

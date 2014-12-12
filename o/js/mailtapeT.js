@@ -16,24 +16,6 @@
 			}
 		});
 
-		var archivesLoaded = false;
-
-		$(".archivesButton").click(function() {
-			if (archivesLoaded==false) {
-				archivesLoaded=true;
-				$( "#archives" ).load( "Archives.html", function() {
-					$(".stretchMe").anystretch();
-					$("html, body").animate({
-					scrollTop: $('#archives').offset().top
-						}, 1000);
-					});
-			}
-			else
-				{$("html, body").animate({
-				scrollTop: $('#archives').offset().top
-					}, 1000);}
-		});
-
 		/* Teaser image swap function */
 	    $("#logoLink").hover(function () {
 	        $("#logo").src = 'img/Logo_Mailtape.gif';
