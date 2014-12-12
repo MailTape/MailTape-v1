@@ -9,9 +9,9 @@ track1_color: dreamy
 track2_color: dreamy
 track3_color: trippy
 track4_color: dreamy
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track5_color: dreamy
+track6_color: trippy
+track7_color: dreamy
 category: "166"
 guest_name: Barney Artist
 track1_link: "https://soundcloud.com/nehzuil/addthebassline"
@@ -23,17 +23,25 @@ track3_title: "IDEH - Do Something"
 track2_title: "Alfa & Emmavie - Easily, I Forget"
 track1_title: "Jordan Rakei - Add The Bassline (Nehzuil Remix)"
 episode_URL: "http://mailta.pe/166/Barney-Artist/"
-track5_link: ""
-track6_link: ""
-track7_link: ""
+track5_link: "https://soundcloud.com/muneshine/miguel-how-many-drinks-muneshine-remix"
+track6_link: "https://soundcloud.com/kflay/make-me-fade-feat-sol-buddy/"
+track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
+track6_title: "K.Flay ft. Sol and Buddy - Make Me Fade"
+track5_title: "Miguel ft. Kendrick Lamar - How Many Drinks (Muneshine Remix)"
+track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
+guestPic: guestPic166.jpg
+fbPic: fbPic166.jpg
+musiColor: musiColor166.png
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti. </p>
+This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). As you have eaten in one week, the third of what you eat in one year, we thought you might need a sweet Mailtape to digest your Christmas food, today. </p>
  
-# Ethearal vibes
+# Chill hip-hop
  
-Apud has gentes, quarum exordiens initium ab Assyriis ad Nili cataractas porrigitur et confinia Blemmyarum, omnes pari sorte sunt bellatores seminudi coloratis sagulis pube tenus amicti, equorum adiumento pernicium graciliumque camelorum per diversa se raptantes, in tranquillis vel turbidis rebus: nec eorum quisquam aliquando stivam adprehendit vel arborem colit aut arva subigendo quaeritat victum, sed errant semper per spatia longe lateque distenta sine lare sine sedibus fixis aut legibus: nec idem perferunt diutius caelum aut tractus unius soli illis umquam placet.
+We truly believe Barney Artist will be a "hit" in 2015. His EP [Bespoke](https://soundcloud.com/barneyartist/sets/bespoke-1 "Listen to Bespoke") is dope. On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode - and this track is pure chill.
+
+Barney's selection is the smoothest so we wanted to complet it with mellow hip-hop and an ounce of harsh beats.
  
 # Barney Artist's morning inspiration
  
