@@ -35,25 +35,25 @@ musiColor: musiColor130.png
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). As you have eaten in one week, the third of what you eat in one year, we thought you might need a sweet Mailtape to digest your Christmas food, today. </p>
+This morning, please welcome, smoothly, [The Jazzment](http://thejazzment.bandcamp.com/).
+Most of us stick to some artists over the years, coming back listening to them for they carry some special feeling and memories. That's the case for me with The Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the same vibes this morning. </p>
  
-# Chill hip-hop
+# The _Cool & Smooth_ Jazzment
  
-We truly believe Barney Artist will be a "hit" in 2015. His EP [Bespoke](https://soundcloud.com/barneyartist/sets/bespoke-1 "Listen to Bespoke") is dope. On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode - and this track is pure chill.
-
-Barney's selection is the smoothest so we wanted to complet it with mellow hip-hop and an ounce of harsh beats.
+Three albums released on theirbandcamp page that can follow you everywhere. With calm, clarity, the dutch duo wrap you in a perfect and delightful mood. Sit snugly with a good cup of coffee and listen to this selection they're sharing with us.
  
-# Barney Artist's morning inspiration
+# Enjoy their morning selection
  
-## Jordan Rakei - Add The Bassline (Nehzuil Remix)
-_Barney Artist:_ **"**I'm a huge Jordan Rakei fan : really love his voice and the musicality of his songs. When I heard this Nehzuil remix of Add The Bassline lets just say it was played every Sunday from then on. Great vibes!**"**
+## Henning - Villains Day Off
+_The Jazzment:_ **"**Probably hard to believe, but besides us there are some other dope producers representing the Netherlands. Personally we find Henning one of the illest, bringing back that West-Coast G-funk sound. He definitely has the smoothest beats of the country.**"**
  
-## Alfa & Emmavie - Easily, I Forget
-_Barney Artist:_ **"**So, I had to throw some of my musical family in the mix of this Sunday playlist. Alfa Mist and Emmavie made an incredible EP called _Epoch_ earlier this year and it was so difficult to choose just one song from it but _Easily I forget_ stands out as its melodies, instrumentation and lyrics throw you into a trance.**"**
+## Freddie Joachim - Waves
+_The Jazzment:_ **"**This man has been one of the main inspirations to us since the beginning. People like Freddie Joachim, Dilla and Pete are among the producers we admire the most. Waves is just one of his many classic beats, often characterized by a mellow guitar.**"**
  
-## IDEH - Do Something
-_Barney Artist:_ **"**This track is by a really cool new artist from London _Ideh_. This song reminds me a lot of Brandy on her _Afrodisiac_ album really love the production by V beats and the tones from Ideh. Have a listen and vibe out with me this Sunday.**"** 
+## Overdoz. - Lauren London
+_The Jazzment:_ **"**Man, this song is so dope. We came across Overdoz. like two years ago and Lauren London became our summer anthem for 2012. This song was playing all day while we were chilling to the fullest. Just bump this shit on sunday and enjoy.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
+That's all folks! A big thank to [The Jazzment](http://thejazzment.bandcamp.com/) for their selection.
+Thanks for listening. Enjoy your sunday!
 </p>
