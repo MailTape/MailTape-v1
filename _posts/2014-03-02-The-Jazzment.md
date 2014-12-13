@@ -32,11 +32,12 @@ track7_title: "WillKids - Tsurugi No Mai - Nujabes"
 episode_URL: "http://mailta.pe/130/The-Jazzment/"
 fbPic: fbPic130.jpg
 musiColor: musiColor130.png
+description: "This morning, please welcome, smoothly, The Jazzment. Most of us stick to some artists over the years, coming back listening to them for they carry some special feeling and memories. That's the case for me with The Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the same vibes this morning."
 ---
 
 <p id="introduction">
 This morning, please welcome, smoothly, [The Jazzment](http://thejazzment.bandcamp.com/).
-Most of us stick to some artists over the years, coming back listening to them for they carry some special feeling and memories. That's the case for me with The Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the same vibes this morning. </p>
+Most of us stick to some artists over the years, coming back listening to them for they carry some special feeling and memories. That's the case for me with The Jazzment. Their relaxing flow put me at peace, hope they'll carry you on the same vibes this morning.</p>
  
 # The _Cool & Smooth_ Jazzment
  
