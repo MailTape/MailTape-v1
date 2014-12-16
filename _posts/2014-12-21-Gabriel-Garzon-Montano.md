@@ -28,7 +28,7 @@ track4_title: "Gabriel Garzon-Montano"
 track5_title: "D'Angelo - Sugah Daddy"
 track6_title: "Buscabulla - Sono"
 track7_title: "Jabru feat. Joel Culpepper - Church"
-episode_URL: ""
+episode_URL: "http://mailta.pe/165/Gabriel-Garzon-Montano/"
 ---
 
 ## A New Post
