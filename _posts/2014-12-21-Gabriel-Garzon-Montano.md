@@ -5,10 +5,10 @@ author: Maxime
 guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
-track1_color: dreamy
+track1_color: rough
 track2_color: trippy
 track3_color: bliss
-track4_color: vibrant
+track4_color: dreamy
 track5_color: vibrant
 track6_color: dreamy
 track7_color: dreamy
