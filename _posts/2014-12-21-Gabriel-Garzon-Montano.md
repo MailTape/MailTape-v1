@@ -11,7 +11,7 @@ track3_color: trippy
 track4_color: vibrant
 track5_color: vibrant
 track6_color: dreamy
-track7_color: dreamy
+track7_color: bliss
 category: "165"
 guest_name: "Gabriel Garzón-Montano"
 track1_link: "https://soundcloud.com/quincyvidal/check-prod-by-lorenzo"
