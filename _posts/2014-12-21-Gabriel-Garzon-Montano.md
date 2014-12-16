@@ -5,10 +5,10 @@ author: Maxime
 guest_color: dreamy
 bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: trippy
+track1_color: bliss
+track2_color: rough
 track3_color: trippy
-track4_color: dreamy
+track4_color: vibrant
 track5_color: vibrant
 track6_color: dreamy
 track7_color: dreamy
@@ -30,6 +30,7 @@ track6_title: "Buscabulla - Sono"
 track7_title: "Jabru feat. Joel Culpepper - Church"
 episode_URL: "http://mailta.pe/165/Gabriel-Garzon-Montano/"
 guestPic: guestPic165.jpg
+fbPic: fbPic165.jpg
 ---
 
 <p id="introduction">
