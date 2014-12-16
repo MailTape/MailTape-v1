@@ -19,7 +19,7 @@ track2_link: "https://soundcloud.com/archiepelago/whatever-forever"
 track3_link: "https://soundcloud.com/octobersveryown/drake-how-bout-now"
 track4_link: "https://soundcloud.com/gabriel-garzonmontano/everything-is-everything"
 track6_link: "https://soundcloud.com/buscabulla/sono"
-track7_link: "https://soundcloud.com/k7-records/church?in=jabrumusic/sets/tracks-mixes"
+track7_link: "https://soundcloud.com/k7-records/church"
 track5_link: "https://soundcloud.com/dangelomusicofficial/sugah-daddy"
 ---
 
