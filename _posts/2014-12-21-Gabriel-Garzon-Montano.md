@@ -42,7 +42,7 @@ xxx
 # His selection for a classy morning
 
 ## Quincy Vidal - Check
-_Gabriel:_ **"**I love this woman with my heart and soul. Listen up. Tough and delicate. This is my shit!.**"**
+_Gabriel:_ **"**I love this woman with my heart and soul. Listen up. Tough and delicate. This is my shit!**"**
 
 ## Sage Caswell - Whatever Forever
 _Gabriel:_ **"**Dark funky house vibes on this one. Sage Caswell and Archie Pelago man... goldmines.**"**
