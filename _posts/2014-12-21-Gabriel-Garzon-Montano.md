@@ -44,7 +44,7 @@ Hope you'll enjoy...
 
 ## Quincy Vidal - Check
 _Gabriel:_ **"**I love this woman with my heart and soul. Listen up. Tough and delicate. This is my shit!.**"**
-![guestPic165.jpg](/img/guestPic165.jpg)
+
 ## Sage Caswell - Whatever Forever
 _Gabriel:_ **"**Dark funky house vibes on this one. Sage Caswell and Archie Pelago man... goldmines.**"**
 
