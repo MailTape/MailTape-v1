@@ -48,7 +48,8 @@ _Gabriel:_ **"**I love this woman with my heart and soul. Listen up. Tough and d
 _Gabriel:_ **"**Dark funky house vibes on this one. Sage Caswell and Archie Pelago man... goldmines.**"**
 
 ## How Bout Now - Drake
-_Gabriel:_ **"**Love the sample (although I had never heard the original not gonna front) and the nostalgic feeling of that diminished chord moving up to the minor. That move gets me every time. Lyrics are perfect. Love me a song about underdog days haha. Motivational and soulful music.**"**
+_Gabriel:_ **"**Love the sample (although I had never heard the original not gonna front) and the nostalgic feeling of that diminished chord moving up to the minor. That move gets me every time. Lyrics are perfect. Love me a song about underdog days haha. Motivational and soulful music.![guestPic165.jpg](/img/guestPic165.jpg)
+**"**
 
 <p id="outroduction">
 That’s all folks! A big thank to [B.Lewis](https://www.facebook.com/pages/BLewis/111089628965674 "B.Lewis Facebook") for his selection. Thanks for listening and enjoy your sunday !
