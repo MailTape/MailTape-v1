@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: Maxime
 guest_color: dreamy
-bigTitle_font_ratio: "4"
+bigTitle_font_ratio: "3"
 bigTitle_line_ratio: "1"
 track1_color: rough
 track2_color: rough
