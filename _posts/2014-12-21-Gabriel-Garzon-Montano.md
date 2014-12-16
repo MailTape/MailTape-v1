@@ -7,7 +7,7 @@ bigTitle_font_ratio: "10"
 bigTitle_line_ratio: "1"
 track1_color: rough
 track2_color: trippy
-track3_color: bliss
+track3_color: trippy
 track4_color: dreamy
 track5_color: vibrant
 track6_color: dreamy
