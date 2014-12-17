@@ -34,7 +34,7 @@ fbPic: fbPic165.jpg
 ---
 
 <p id="introduction">
-This morning, please welcome a delighted guest ! Half Colombian, Half French, but born in Brooklyn, Gabriel Garzon-Montano is a true child of the world. </p>
+This morning, please welcome to a delighted guest ! Half Colombian, Half French, but born in Brooklyn, Gabriel Garzon-Montano is a true child of the world. </p>
 
 # French + Colombian + Brooklyn
 That's the cocktail for his classy vibes. Where silents are as important as the melody, where the groove is cold and his voice warm as South-America. Let's listen an impressive selection where all his amazing talent is reflected by his tripolar inspirations.
