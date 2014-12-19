@@ -34,7 +34,7 @@ fbPic: fbPic165.jpg
 ---
 
 <p id="introduction">
-This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. Gabriel Garzon Montano is a true child of the world. </p>
+This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. [Gabriel Garzon Montano](http://www.gabrielgarzonmontano.com/) is a true child of the world. </p>
 
 # French Colombian American
 That’s the blend for his classy vibes where silence is as important as melody and although the groove is cold his voice is as warm as South America. Let’s listen to his handpicked selection where he draws his influence from three diverse cultures.
@@ -51,5 +51,5 @@ _Gabriel:_ **"**Dark funky house vibes on this one. Sage Caswell and Archie Pela
 _Gabriel:_ **"**Love the sample (although I had never heard the original not gonna front) and the nostalgic feeling of that diminished chord moving up to the minor. That move gets me every time. Lyrics are perfect. Love me a song about underdog days haha. Motivational and soulful music.**"**
 
 <p id="outroduction">
-That’s all folks! xxx Thanks for listening and enjoy your sunday !
+That’s all folks! Thanks to our guest Gabriel Garzon-Montano (Download his wonderful EP [here](https://itunes.apple.com/us/album/bishoune-alma-del-huila-ep/id799294062) !) to Siddhartha and Josh, and of course, to you for listenning, hope you like it ! 
 </p>
