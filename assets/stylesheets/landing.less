@@ -73,35 +73,46 @@ body {
     margin: 3px 0;
     .rounded-corners(5px);
     font-size: 1.2em;
-    height: 2em;
-    width: 10em;
+    height: 2.5em;
+    width: 12em;
     .transition;
     .box-shadow();
+    border:none;
     &:hover {
-    	margin-top:-0.5em;
-    	height:3em;
-    	width: 15em;
-    	background: @trippy;
-    	color: white;
+    	//margin-top:-0.5em;
+    	//height:4em;
+    	width: 16em;
+
+    	background: darken(#FFF,10%);
+    	color: darken(#333,10%);
     	border:none;
-    	.box-shadow(@color:darken(@trippy,10%));
+    	.box-shadow(@color:darken(#FFF,20%));
+    	&:after {
+    		content: ", it's free";
+    	}
     }
     &:active {
-    	.box-shadow(1px,1px,0px,0px,darken(@trippy,10%));
+    	.box-shadow(1px,1px,0px,0px,darken(#FFF,20%));
     	transform: translateY(3px);
     }
     &.afterClick {
     	.breathingAnimation();
-		background: @trippy;
+		background: #FFF;
     	border:none;
-       	color:white;
-       	&:hover {       		
+       	color: #333;
+       	height:2em;
+    	margin-top:3px;
+    	width:10em;
+       	&:hover {    
+	       	background: darken(#FFF,10%);
+	    	color: darken(#333,10%);   		
 	    	height:2em;
 	    	margin-top:3px;
 	    	width:10em;
-	    	color: @trippy;
-	    	background: white;
 	    }
+	    &:after {
+    		content: "";
+    	}
     }
 }
 

@@ -185,30 +185,32 @@ body {
   -o-border-radius: 5px;
   border-radius: 5px;
   font-size: 1.2em;
-  height: 2em;
-  width: 10em;
+  height: 2.5em;
+  width: 12em;
   -moz-transition: all ease-in-out 0.3s;
   -webkit-transition: all ease-in-out 0.3s;
   transition: all ease-in-out 0.3s;
   -moz-box-shadow: 3px 3px 0px 0px rgba(255, 242, 224, 0.75);
   -webkit-box-shadow: 3px 3px 0px 0px rgba(255, 242, 224, 0.75);
   box-shadow: 3px 3px 0px 0px rgba(255, 242, 224, 0.75);
+  border: none;
 }
 #subscribeButton:hover {
-  margin-top: -0.5em;
-  height: 3em;
-  width: 15em;
-  background: #23b14c;
-  color: white;
+  width: 16em;
+  background: #e6e6e6;
+  color: #1a1a1a;
   border: none;
-  -moz-box-shadow: 3px 3px 0px 0px #1b863a;
-  -webkit-box-shadow: 3px 3px 0px 0px #1b863a;
-  box-shadow: 3px 3px 0px 0px #1b863a;
+  -moz-box-shadow: 3px 3px 0px 0px #cccccc;
+  -webkit-box-shadow: 3px 3px 0px 0px #cccccc;
+  box-shadow: 3px 3px 0px 0px #cccccc;
+}
+#subscribeButton:hover:after {
+  content: ", it's free";
 }
 #subscribeButton:active {
-  -moz-box-shadow: 1px 1px 0px 0px #1b863a;
-  -webkit-box-shadow: 1px 1px 0px 0px #1b863a;
-  box-shadow: 1px 1px 0px 0px #1b863a;
+  -moz-box-shadow: 1px 1px 0px 0px #cccccc;
+  -webkit-box-shadow: 1px 1px 0px 0px #cccccc;
+  box-shadow: 1px 1px 0px 0px #cccccc;
   transform: translateY(3px);
 }
 #subscribeButton.afterClick {
@@ -222,16 +224,22 @@ body {
   transform-origin: 70% 70%;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
-  background: #23b14c;
+  background: #FFF;
   border: none;
-  color: white;
-}
-#subscribeButton.afterClick:hover {
+  color: #333;
   height: 2em;
   margin-top: 3px;
   width: 10em;
-  color: #23b14c;
-  background: white;
+}
+#subscribeButton.afterClick:hover {
+  background: #e6e6e6;
+  color: #1a1a1a;
+  height: 2em;
+  margin-top: 3px;
+  width: 10em;
+}
+#subscribeButton.afterClick:after {
+  content: "";
 }
 #learnMore {
   color: white;
