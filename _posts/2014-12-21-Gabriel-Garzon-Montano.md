@@ -37,7 +37,7 @@ fbPic: fbPic165.jpg
 This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. Gabriel Garzon Montano is a true child of the world. </p>
 
 # French Colombian American
-That's the cocktail for his classy vibes. Where silents are as important as the melody, where the groove is cold and his voice warm as South-America. Let's listen an impressive selection where his amazing talent is reflected by his tripolars inspirations.
+That’s the blend for his classy vibes where silence is as important as melody and although the groove is cold his voice is as warm as South America. Let’s listen to his handpicked selection where he draws his influence from three diverse cultures.
 
 # His selection for a classy morning
 
