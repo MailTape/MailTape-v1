@@ -39,7 +39,7 @@ musiColor: musiColor165.png
 This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. [Gabriel Garzon Montano](http://www.gabrielgarzonmontano.com/) is a true child of the world. </p>
 
 # French Colombian American
-That’s the blend for his classy vibes where silence is as important as melody and although the groove is cold his voice is as warm as South America. Let’s listen to his handpicked selection where he draws his influence from three diverse cultures.
+That’s the blend for his classy vibes where silence is as important as melody and although the groove is cold his voice is as warm as South America. Let’s listen to this handpicked selection from which he draws some of his inspiration and also to the score that tells us of his own influences.
 
 # His selection for a classy morning
 
