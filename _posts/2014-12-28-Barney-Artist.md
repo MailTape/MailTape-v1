@@ -35,13 +35,13 @@ musiColor: musiColor166.png
 ---
 
 <p id="introduction">
-This morning, here's a Mailtape inspired by [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). As you have eaten in one week, the third of what you eat in one year, we thought you might need a sweet Mailtape to digest your Christmas food, today. </p>
+This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
  
 # Chill hip-hop
  
 We truly believe Barney Artist will be a "hit" in 2015. His EP [Bespoke](https://soundcloud.com/barneyartist/sets/bespoke-1 "Listen to Bespoke") is dope. On _Space_ he has worked with [Tom Misch](http://mailta.pe/147/Tom-Misch/ "Tom Misch's Mailtape") - you might remember him from a previous episode - and this track is pure chill.
 
-Barney's selection is the smoothest so we wanted to complet it with mellow hip-hop and an ounce of harsh beats.
+Barney’s selection is the smoothest so we wanted to complete it with a tinge of mellow hip-hop and an ounce of harsh beats.
  
 # Barney Artist's morning inspiration
  
