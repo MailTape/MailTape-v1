@@ -5,12 +5,12 @@ author: Louise
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: dreamy
+track1_color: vibrant
 track2_color: dreamy
-track3_color: trippy
+track3_color: bliss
 track4_color: dreamy
-track5_color: dreamy
-track6_color: trippy
+track5_color: vibrant
+track6_color: bliss
 track7_color: dreamy
 category: "166"
 guest_name: Barney Artist
