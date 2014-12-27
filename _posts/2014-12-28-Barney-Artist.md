@@ -36,7 +36,7 @@ description: "This morning, we bring you a Mailtape curated in collaboration wit
 ---
 
 <p id="introduction">
-This morning, we bring you a Mailtape curated in collaboration with [Barney Artist's website](http://www.barneyartist.com). Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
+This morning, we bring you a Mailtape curated in collaboration with [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
  
 # Chill hip-hop
  
