@@ -32,10 +32,11 @@ track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 guestPic: guestPic166.jpg
 fbPic: fbPic166.jpg
 musiColor: musiColor166.png
+description: "This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving."
 ---
 
 <p id="introduction">
-This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
+This morning, we bring you a Mailtape curated in collaboration with [Barney Artist's website](http://www.barneyartist.com). Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
  
 # Chill hip-hop
  
@@ -55,5 +56,5 @@ _Barney Artist:_ **"**So, I had to throw some of my musical family in the mix of
 _Barney Artist:_ **"**This track is by a really cool new artist from London _Ideh_. This song reminds me a lot of Brandy on her _Afrodisiac_ album really love the production by V beats and the tones from Ideh. Have a listen and vibe out with me this Sunday.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
+That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney Artist's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
 </p>
