@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: Louise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
