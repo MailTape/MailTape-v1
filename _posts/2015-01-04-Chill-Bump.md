@@ -26,6 +26,12 @@ episode_URL: "http://mailta.pe/167/Chill-Bump/"
 fbPic: fbPic167.jpg
 musiColor: musiColor167.png
 track4_link: "https://soundcloud.com/chill-bump/05-one-way-ticket"
+track5_link: "https://soundcloud.com/75esession/insane-jonny-k-haleek-maul"
+track5_title: "Jonny K. & Haleek Maul - Insane"
+track6_link: "https://soundcloud.com/bigdadasound/03-from-the-outside"
+track6_title: "Wiley ft Teddy & JME - From The Outside"
+track7_link: "https://soundcloud.com/asa6aya/elusive-delusive-feat-lorine-chia"
+track7_title: "Asagaya ft. Lorine Chia - Elusive / Delusive"
 ---
 
 <p id="introduction">
