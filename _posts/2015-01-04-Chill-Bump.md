@@ -28,11 +28,11 @@ musiColor: musiColor167.png
 ---
 
 <p id="introduction">
-This morning, we bring you a Mailtape curated in collaboration with [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
+This morning, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
  
 # Chill hip-hop
  
-
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
  
 # Barney Artist's morning inspiration
  
@@ -46,5 +46,5 @@ _Barney Artist:_ **"**So, I had to throw some of my musical family in the mix of
 _Barney Artist:_ **"**This track is by a really cool new artist from London _Ideh_. This song reminds me a lot of Brandy on her _Afrodisiac_ album really love the production by V beats and the tones from Ideh. Have a listen and vibe out with me this Sunday.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney Artist's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
+That’s all folks! A big thank to our guest Chill Bump for their selection, to Florent and Siddhartha. Enjoy your sunday and thank you for listening!
 </p>
