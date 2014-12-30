@@ -5,9 +5,9 @@ author: Louise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
+track1_color: vibrant
+track2_color: vibrant
+track3_color: dreamy
 track4_color: vibrant
 track5_color: rough
 track6_color: rough
@@ -25,12 +25,13 @@ track4_title: "Chill Bump - One Way Ticket"
 episode_URL: "http://mailta.pe/167/Chill-Bump/"
 fbPic: fbPic167.jpg
 musiColor: musiColor167.png
+track4_link: "https://soundcloud.com/chill-bump/05-one-way-ticket"
 ---
 
 <p id="introduction">
 This morning, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
  
-# Chill hip-hop
+# Lazy sunday morning
  
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
  
