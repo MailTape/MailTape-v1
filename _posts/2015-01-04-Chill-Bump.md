@@ -9,9 +9,9 @@ track1_color: vibrant
 track2_color: vibrant
 track3_color: dreamy
 track4_color: vibrant
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track5_color: vibrant
+track6_color: vibrant
+track7_color: vibrant
 category: "167"
 guest_name: Chill Bump
 guestPic: guestPic167.jpg
@@ -30,8 +30,8 @@ track5_link: "https://soundcloud.com/75esession/insane-jonny-k-haleek-maul"
 track5_title: "Jonny K. & Haleek Maul - Insane"
 track6_link: "https://soundcloud.com/asa6aya/elusive-delusive-feat-lorine-chia"
 track6_title: "Asagaya ft. Lorine Chia - Elusive / Delusive"
-track7_link: ""
-track7_title: ""
+track7_link: "https://soundcloud.com/raury/gods-whisper"
+track7_title: "Raury - God's Whisper"
 ---
 
 <p id="introduction">
