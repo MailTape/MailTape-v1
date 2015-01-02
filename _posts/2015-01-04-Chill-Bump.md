@@ -35,11 +35,11 @@ track7_title: "Raury - God's Whisper"
 ---
 
 <p id="introduction">
-This morning, lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+This morning, check out the selection of the powerful duo [Chill Bump](http://www.chill-bump.com "Chill Bump's website"). Let's danse and celebrate new year 2015 with a cheerful playlist.</p>
  
-# Lazy sunday morning
- 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+# Uplifting music
+
+With their first album _Ego Trip_, Chill Bump has proven that the best is to come. Their hip-hop has so much influences and inspirations that you can find in their tracks. Each time you listen to a track, you will discover a new sound you didn't heard before, a new punchline you didn't notice before.
  
 # Chill Bump's morning inspiration
  
@@ -53,5 +53,5 @@ _Chill Bump:_ **"**Usually, people are more or less hungover on a sunday morning
 _Chill Bump:_ **"**This track is for all the people who like to have a lie in on a sunday.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest Chill Bump for their selection, to Florent and Siddhartha. Enjoy your sunday and thank you for listening!
+That’s all folks! A big thank to our guest [Chill Bump](http://www.chill-bump.com "Chill Bump's website") for their selection, to Florent and Siddhartha. Enjoy your sunday and happy new year!
 </p>
