@@ -35,11 +35,11 @@ track7_title: "Raury - God's Whisper"
 ---
 
 <p id="introduction">
-This morning, check out the selection of the powerful duo [Chill Bump](http://www.chill-bump.com "Chill Bump's website"). Let's danse and celebrate new year 2015 with a cheerful playlist.</p>
+This morning, check out the selection of the powerful duo [Chill Bump](http://www.chill-bump.com "Chill Bump's website"). Let's danse and celebrate the new year of 2015 with a cheerful playlist.</p>
  
 # Uplifting music
 
-With their first album _Ego Trip_, Chill Bump has proven that the best is to come. Their hip-hop has so much influences and inspirations that you can find in their tracks. Each time you listen to a track, you will discover a new sound you didn't heard before, a new punchline you didn't notice before.
+With their first album _Ego Trip_, Chill Bump has proven that the best is to come. Their hip-hop has so much influences and inspirations that you can identify in their tracks if you pay attention. Each time you listen to one of their songs, you will discover a new sound you didn't heard before, a new punchline you didn't notice before.
  
 # Chill Bump's morning inspiration
  
