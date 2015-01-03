@@ -32,6 +32,7 @@ track6_link: "https://soundcloud.com/asa6aya/elusive-delusive-feat-lorine-chia"
 track6_title: "Asagaya ft. Lorine Chia - Elusive / Delusive"
 track7_link: "https://soundcloud.com/raury/gods-whisper"
 track7_title: "Raury - God's Whisper"
+description: "This morning, let's dance and celebrate 2015 to the selection of the powerful duo Chill Bump."
 ---
 
 <p id="introduction">
