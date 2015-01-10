@@ -31,11 +31,11 @@ track7_title: "Sean Nicholas Savage - Naturally"
 guestPic: guestPic169.jpg
 ---
 
-<p id="introduction">TEXT</p>
+<p id="introduction">This morning, it’s the young talented Elliot Moss and his dreamy inspiration that will help us in our attempt to get over this hangover we’re all feeling since the 7th. The human brain is a strange thing filled with many secrets, sometime capable of spreading beautiful light some others capable to express the darkest atrocities. Never forget light is in all of us and if you feel it harder to make it shine in these days, don’t try too hard. Let the music play, close your eyes, feel the moment and let the surprise happen. Soon, light will flow back in your veins, you might be scared of the direction it will show you but it never fails. Follow it, trust yourself and never be afraid to be free to shine, like Charlie used to and will keep doing.</p>
 
-# A graphic music
+# Elliott’s gonna take care of you.
 
-TEXT
+He’s only 20 years old and still, he manages to bring a very mature and detailed music. Filled with moody poetry and sensitive composition, his debut album “Highspeeds” will take its listeners on an introspective journey. Perfect to relax and slow down, it develops an atmosphere particularly adapted for a Sunday afternoon spent with good friends. It will make you at ease to speak or think about what really matters for you which is, after all, what’s one looking for when appreciating a great piece of art.
 
 # Elliot Moss's morning inspiration
  
