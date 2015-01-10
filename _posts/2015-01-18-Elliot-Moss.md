@@ -28,6 +28,7 @@ track4_title: "Elliot Moss - Slip"
 track5_title: "Adult Jazz - Am Gone"
 track6_title: "Nick + Noah - Open for Consideration"
 track7_title: "Sean Nicholas Savage - Naturally"
+guestPic: guestPic169.jpg
 ---
 
 <p id="introduction">TEXT</p>
