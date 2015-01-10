@@ -52,5 +52,5 @@ _Elliot Moss:_ **"**My friend mitski just put out one of the most honest, raw, a
 _Elliot Moss:_ **"**Love the close-up vocal and choppy/beat-repeating guitar on this tune. feel like it never really settles into any one groove, which gives it this anxious thing that absolutely I love.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Elliot Moss](https://www.facebook.com/elliotmossmusic "Elliot Moss") for their selection. Enjoy your sunday !
+That’s all folks! A big thank to our guest [Elliot Moss](https://www.facebook.com/elliotmossmusic "Elliot Moss") for his selection. Enjoy your sunday !
 </p>
