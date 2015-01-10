@@ -5,13 +5,13 @@ author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: dreamy
+track2_color: vibrant
+track3_color: trippy
+track4_color: dreamy
+track5_color: bliss
+track6_color: vibrant
+track7_color: dreamy
 category: "169"
 guest_name: Elliot Moss
 track1_link: "https://soundcloud.com/apparat/out-of-sight?in=elliotmoss"
