@@ -32,7 +32,7 @@ guestPic: guestPic169.jpg
 fbPic: fbPic169b.jpg
 musiColor: musiColor169.png
 episode_URL: "http://mailta.pe/169/Elliot-Moss/"
-description: "This morning, it’s the young talented Elliot Moss and his dreamy inspiration that will help us in our attempt to get over this hangover we’re all feeling since the 7th."
+description: "This morning, let the young talented Elliot Moss and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th."
 ---
 
 <p id="introduction">This morning, let the young talented [Elliot Moss](https://www.facebook.com/elliotmossmusic "Elliot's on Facebook") and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th. The human brain is a strange thing filled with many secrets, sometimes capable of spreading beautiful light other times capable
