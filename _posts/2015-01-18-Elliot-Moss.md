@@ -35,9 +35,9 @@ guestPic: guestPic169.jpg
 <br><br>
 Never forget light is in all of us and if you feel it harder to make it shine in these days, don’t try too hard. Let the music play, close your eyes, feel the moment and let the surprise happen. Soon, light will flow back in your veins, you might be scared of the direction it will show you but it never fails. Follow it, trust yourself and never be afraid to be free to shine, like Charlie used to and will keep doing.</p>
 
-# Elliott’s gonna take care of you.
+# Elliot’s gonna take care of you.
 
-He’s only 20 years old and still, he manages to bring a very mature and detailed music. Filled with moody poetry and sensitive composition, his debut album “Highspeeds” will take its listeners on an introspective journey. Perfect to relax and slow down, it develops an atmosphere particularly adapted for a Sunday afternoon spent with good friends. It will make you at ease to speak or think about what really matters for you which is, after all, what’s one looking for when appreciating a great piece of art.
+He’s only 20 years old and still, he manages to bring a very mature and detailed music. Filled with moody poetry and sensitive composition, his debut album [“Highspeeds”](https://elliotmoss.bandcamp.com/ "Discover his debut album now") will take its listeners on an introspective journey. Perfect to relax and slow down, it develops an atmosphere particularly adapted for a Sunday afternoon spent with good friends. It will make you at ease to speak or think about what really matters for you which is, after all, what’s one looking for when appreciating a great piece of art.
 
 # Elliot Moss's morning inspiration
  
