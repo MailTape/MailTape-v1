@@ -31,7 +31,6 @@ track7_title: "Sean Nicholas Savage - Naturally"
 guestPic: guestPic169.jpg
 ---
 
-![guestPic169.jpg](/img/guestPic169.jpg)
 <p id="introduction">TEXT</p>
 
 # A graphic music
