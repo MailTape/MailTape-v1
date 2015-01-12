@@ -18,6 +18,9 @@ episode_URL: "http://mailta.pe/171/Godblesscomputers/"
 track1_link: "https://soundcloud.com/recordiaulliwgar/ifan-dafydd-celwydd"
 track2_link: "https://soundcloud.com/yespleaserecords/for-qwanisha-1"
 track3_link: "https://soundcloud.com/long-arm/long-arm-when-children-sleep"
+track1_title: qsdfqsdf
+track2_title: qsdfqsdf
+track3_title: qsdfqsdf
 ---
 
 ## A New Post
