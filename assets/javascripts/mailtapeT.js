@@ -110,6 +110,25 @@ $(document).ready(
 
 		});
 
+	//	plugin d'ajaxification du formulaire mailchimp
+
+
+
+		$('#mc-form').ajaxChimp({
+	    	callback: callbackFunction
+	    });
+
+	    function callbackFunction (resp) {
+		    if (resp.result == 'success') {
+		    	var prenom = $( "#mc-PRENOM" ).val();
+		        $('#mc-form').fadeOut('fast', function() {
+		        	$('#topbar-subscription-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        });
+		        setTimeout(function() {
+	    			$('#topbar-subscription').fadeOut('slow');
+				}, 7000);
+		    }
+		}
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 	}
