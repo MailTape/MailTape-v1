@@ -92,6 +92,77 @@ body {
   
   }
 }
+@media only screen and (min-width: 768px) {
+  .only-mobile {
+    display: none;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .only-mobile {
+    display: inline;
+  }
+}
+#topbar-subscription {
+  text-align: right;
+  font-size: 0.8em;
+  margin: 0.5em 0;
+}
+#topbar-subscription p {
+  display: inline;
+}
+#topbar-subscription form {
+  display: inline;
+}
+#topbar-subscription label {
+  font-family: 'rooney-web';
+  font-weight: 300;
+}
+#topbar-subscription input {
+  font-family: 'rooney-web';
+  font-weight: 300;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 0.2em;
+  background: #ededed;
+  border: none;
+  padding: 0 0.3em;
+}
+#topbar-subscription label {
+  display: inline;
+}
+#topbar-subscription label.error {
+  color: red;
+  display: block;
+}
+#topbar-subscription label.valid {
+  display: none;
+}
+#topbar-subscription button {
+  background: #ededed;
+  color: &lighterGrey;
+  padding: 0 1em;
+  font-family: 'superspitze_groteskregular';
+  font-size: 1em;
+  text-align: center;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0 0 0 0.3em;
+  -moz-transition: all ease-in-out 0.3s;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+  border: none;
+}
+#topbar-subscription button:hover {
+  color: #ededed;
+  background: #3a4040;
+  cursor: pointer;
+}
 #preloadLogo {
   display: none;
 }

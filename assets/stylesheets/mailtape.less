@@ -15,6 +15,72 @@ body {
 
 }
 
+.only-mobile{
+	@media only screen and (min-width: 768px) {
+		display: none;
+
+	}
+	@media only screen and (min-width: 0px) and (max-width: 767px) {
+		display: inline;
+	}
+} 
+
+#topbar-subscription {
+	text-align: right;
+	font-size: 0.8em;
+	margin: 0.5em 0;
+	p {
+		display: inline;
+	}
+	form {
+		display: inline;
+	}
+	label {
+			font-family: 'rooney-web';
+			font-weight: 300;
+		}
+
+	input {
+			font-family: 'rooney-web';
+			font-weight: 300;
+			.rounded-corners;
+			margin:0 0.2em;
+			background: rgba(237, 237, 237, 1.0000);
+			border: none;
+			padding: 0 0.3em;
+		}
+
+	label {
+		&.error {
+			color: red;
+			display: block;
+		}
+		&.valid {display: none;}
+		display: inline;
+	}
+
+	button {
+	background: rgba(237, 237, 237, 1.0000);
+	color: &lighterGrey;
+	padding: 0 1em;
+	font-family: 'superspitze_groteskregular';
+	font-size: 1em;
+	text-align:center;
+	.rounded-corners;
+	margin: 0 0 0 0.3em;
+	.transition;
+	border:none;
+
+	
+	&:hover {
+		color: rgba(237, 237, 237, 1.0000);
+		background: rgba(58, 64, 64, 1.0000);
+		cursor: pointer;
+		}
+	}
+}
+
+
 #preloadLogo {
 	display: none;
 }

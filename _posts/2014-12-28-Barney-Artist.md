@@ -24,18 +24,19 @@ track2_title: "Alfa & Emmavie - Easily, I Forget"
 track1_title: "Jordan Rakei - Add The Bassline (Nehzuil Remix)"
 episode_URL: "http://mailta.pe/166/Barney-Artist/"
 track5_link: "https://soundcloud.com/muneshine/miguel-how-many-drinks-muneshine-remix"
-track6_link: "https://soundcloud.com/kflay/make-me-fade-feat-sol-buddy/"
+track6_link: "https://soundcloud.com/burgerrecords/curtis-harding-keep-on-shining"
 track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
-track6_title: "K.Flay ft. Sol and Buddy - Make Me Fade"
+track6_title: "Curtis Harding - Keep On Shining"
 track5_title: "Miguel ft. Kendrick Lamar - How Many Drinks (Muneshine Remix)"
 track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 guestPic: guestPic166.jpg
 fbPic: fbPic166.jpg
 musiColor: musiColor166.png
+description: "This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving."
 ---
 
 <p id="introduction">
-This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
+This morning, we bring you a Mailtape curated in collaboration with [Barney Artist](http://www.barneyartist.com "Barney Artist's website"). Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving. </p>
  
 # Chill hip-hop
  
@@ -55,5 +56,5 @@ _Barney Artist:_ **"**So, I had to throw some of my musical family in the mix of
 _Barney Artist:_ **"**This track is by a really cool new artist from London _Ideh_. This song reminds me a lot of Brandy on her _Afrodisiac_ album really love the production by V beats and the tones from Ideh. Have a listen and vibe out with me this Sunday.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
+That’s all folks! A big thank to our guest [Barney Artist](http://www.barneyartist.com "Barney Artist's website") for his amazing selection, to Alex and Siddhartha. Enjoy your sunday and thank you for listening!
 </p>
