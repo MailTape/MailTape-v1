@@ -721,6 +721,8 @@ a {
 .playlist {
 	width: 100%;
 	height: 100%;
+  padding-right: 27px; 
+
 
 	.icon-control {
 	bottom: 0;
@@ -961,4 +963,15 @@ a {
   -moz-border-radius-bottomright: 0.3em;
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
+}
+
+#autoLoop {
+  position: absolute;
+  right: 0;
+  bottom: 4px;
+  opacity: 0.2;
+}
+
+#autoLoop.active {
+  opacity: 0.8;
 }

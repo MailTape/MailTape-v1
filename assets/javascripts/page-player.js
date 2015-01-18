@@ -46,12 +46,51 @@ function PagePlayer() {
     allowRightClick: true,  // let users right-click MP3 links ("save as...", etc.) or discourage (can't prevent.)
     useThrottling: true,    // try to rate-limit potentially-expensive calls (eg. dragging position around)
     autoStart: true,       // begin playing first sound when page loads
-    autoLoop: true,         // restart from begining when list finish (ImaCrea edit)
     playNext: true,         // stop after one sound, or play through list until end
     updatePageTitle: true,  // change the page title while playing sounds
     emptyTime: '-:--',      // null/undefined timer values (before data is available)
     useFavIcon: false       // try to show peakData in address bar (Firefox + Opera) - may be too CPU heavy
   };
+
+  // Use local storage or create dynamic object
+  this.localStorage = function() {
+    if(typeof(Storage) !== 'undefined') {
+      return localStorage;
+    } else {
+      this.tmpStorage = this.tmpStorage || {};
+      return {
+        setItem: function(key, value) { return this.tmpStorage.key = value },
+        getItem: function(key) { return this.tmpStorage.key}
+      }
+    }
+  }();
+
+  // jQuery Style: setter if new_value given otherwise getter
+  this.autoLoop = function(new_value){
+    if (typeof new_value !== 'undefined') {
+      this.localStorage.setItem('autoLoop', new_value);
+      return this.localStorage.getItem('autoLoop') === 'true';  
+    } else {
+      return this.localStorage.getItem('autoLoop') === 'true';
+    }
+  };
+
+  this.setButtonState = function($el) {
+    if (this.autoLoop()) {
+      $el.addClass('active');
+    } else {
+      $el.removeClass('active');
+    }
+  };
+
+  this.toggleAutoLoopButtonState = function($el) {
+    var that = this;
+    this.setButtonState($el);
+    $el.on('click', function(e) {
+      that.autoLoop(!that.autoLoop());
+      that.setButtonState($el);
+    });
+  }
 
   this.css = {              // CSS class names appended to link during various states
     sDefault: 'sm2_link',   // default state
@@ -313,7 +352,7 @@ function PagePlayer() {
       pl.handleClick({target:nextItem}); // fake a click event - aren't we sneaky. ;)
     } else {
       console.log("nonextitem");
-      if (self.config.autoLoop) {
+      if (self.autoLoop()) {
         pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]}); // autoloop
       }
     }
@@ -935,6 +974,8 @@ function PagePlayer() {
     } else {
       sm._writeDebug('pagePlayer.init(): Using default configuration');
     }
+
+    this.toggleAutoLoopButtonState($('#autoLoop'));
 
     var i, spectrumBox, sbC, oF, oClone, oTiming;
 
