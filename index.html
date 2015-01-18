@@ -87,13 +87,13 @@
 
 <body>
       <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9TRMP"
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC3N5D"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-N9TRMP');</script>
+    })(window,document,'script','dataLayer','GTM-PC3N5D');</script>
     <!-- End Google Tag Manager -->
     <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a> IN ORDER TO DISPLAY WELL MAILTAPE.</noscript>
 
@@ -115,7 +115,7 @@
 
                 <input type="email" name="EMAIL" class="required email" id="mc-EMAIL" placeholder="Your email ?" required><br>
                 <input type="text" name="PRENOM" class="required" id="mc-PRENOM" placeholder="Your name ?" required><br>
-                <button class="btn btn-default" name="subscribe" id="subscribeButton" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #1']);">Subscribe to MailTape</button><br>
+                <button class="btn btn-default" name="subscribe" id="subscribeButton" data-tracking="subscribe1" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #1']);">Subscribe to MailTape</button><br>
                 <label id="mc-label" for="mc-EMAIL"></label><br>
 
 
@@ -151,13 +151,13 @@
     <div class="row"></div>
 
     <div class="relance">
-        <button class="relanceButton" class="btn btn-default" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #2']);">Subscribe to MailTape</button>
+        <button class="relanceButton" id="subscribe2" class="btn btn-default" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #2']);">Subscribe to MailTape</button>
     </div>
     <div class="archives" id="archives">
     </div>
     <br>
     <div class="relance">
-        <button class="relanceButton" class="btn btn-default" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #3']);">Subscribe to MailTape</button>
+        <button class="relanceButton" class="btn btn-default" id="subscribe3" data-tracking="subscribe3" onClick="_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Clicked SendItToMe #3']);">Subscribe to MailTape</button>
     </div>
     <br>
 
