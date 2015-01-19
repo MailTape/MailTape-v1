@@ -112,8 +112,6 @@ $(document).ready(
 
 	//	plugin d'ajaxification du formulaire mailchimp
 
-
-
 		$('#mc-form').ajaxChimp({
 	    	callback: callbackFunction
 	    });
@@ -125,10 +123,31 @@ $(document).ready(
 		        	$('#topbar-subscription-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
 		        });
 		        setTimeout(function() {
-	    			$('#topbar-subscription').fadeOut('slow');
+	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
 				}, 7000);
 		    }
 		}
+
+
+	// script de lecture des paramètre de l'url
+
+		function getParameterByName(name) {
+		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+		        results = regex.exec(location.search);
+		    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+
+	// detection si l'user provient d'un mail
+
+		var utm_source = getParameterByName('utm_source');
+
+		if (utm_source=="MailTape") {
+			console.log("You're coming from our mail ! Hello dear subscriber :)");
+			$('#topbar-subscription').removeClass("hidden-xs").hide();
+		}
+
+
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 	}
