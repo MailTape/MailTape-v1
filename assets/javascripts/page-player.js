@@ -76,11 +76,15 @@ function PagePlayer() {
   };
 
   this.setButtonState = function($el) {
+    var tooltip;
     if (this.autoLoop()) {
       $el.addClass('active');
+      tooltip = 'Repeat Mode On';
     } else {
       $el.removeClass('active');
+      tooltip = 'Repeat Mode Off';
     }
+    $el.attr('title', tooltip).tooltip('fixTitle').parent().find('.tooltip .tooltip-inner').text(tooltip);
   };
 
   this.toggleAutoLoopButtonState = function($el) {
