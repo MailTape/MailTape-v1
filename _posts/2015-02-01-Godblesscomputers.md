@@ -5,30 +5,30 @@ author: Julien
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: bliss
+track2_color: dreamy
+track3_color: bliss
+track4_color: bliss
+track5_color: bliss
+track6_color: dreamy
+track7_color: vibrant
 guest_name: Godblesscomputers
 category: "171"
 episode_URL: "http://mailta.pe/171/Godblesscomputers/"
 track1_link: "https://soundcloud.com/recordiaulliwgar/ifan-dafydd-celwydd"
 track2_link: "https://soundcloud.com/yespleaserecords/for-qwanisha-1"
 track3_link: "https://soundcloud.com/long-arm/long-arm-when-children-sleep"
-track1_title: qsdfqsdf
-track2_title: qsdfqsdf
-track3_title: qsdfqsdf
+track1_title: "Ifan Dafydd - Celwydd (feat. Alys Williams)"
+track2_title: "Guerre - For Qwanisha"
+track3_title: "Long Arm - When Children Sleep"
 track4_link: "https://soundcloud.com/godblesscomputers/icry"
 track5_link: "https://soundcloud.com/samgellaitry/reflectionz"
 track6_link: "https://soundcloud.com/youthfiremusic/leave"
 track7_link: "https://soundcloud.com/izemsounds/sadeo-feat-feather"
-track4_title: qsdf
-track5_title: sqdf
-track6_title: qsd
-track7_title: qsdf
+track4_title: "Godblesscomputers - Icry"
+track5_title: "Sam Gellaitry - Reflectionz"
+track6_title: "Youthfire - Leave"
+track7_title: "iZem - Sadeo (feat. Feather)"
 ---
 
 ## A New Post
