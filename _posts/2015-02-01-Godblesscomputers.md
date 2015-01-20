@@ -2,7 +2,7 @@
 layout: episode
 published: true
 author: Julien
-guest_color: rough
+guest_color: bliss
 bigTitle_font_ratio: "9"
 bigTitle_line_ratio: "1"
 track1_color: bliss
