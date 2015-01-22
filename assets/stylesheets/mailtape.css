@@ -693,7 +693,6 @@ a:hover {
   width: 100%;
   height: 100%;
   padding-right: 30px; 
-  position: relative;
 }
 .playlist .icon-control {
   bottom: 0;
@@ -935,8 +934,7 @@ a:hover {
 #autoLoop {
   position: absolute;
   right: 0;
-  top: 0;
-  bottom: 4px;
+  top: 60%;
   margin: auto;
   opacity: 0.2;
   cursor: pointer;
@@ -950,7 +948,7 @@ a:hover {
   }
 
   #autoLoop {
-    bottom: 2px;
+    top: 58%;
     height: 29px;
   }
 }
@@ -958,6 +956,7 @@ a:hover {
 @media screen and (max-width: 768px) {
   #autoLoop {
     height: 26px;
+    top: 43%;
   }
 }
 
