@@ -967,16 +967,10 @@ a {
 #autoLoop {
   position: absolute;
   right: 0;
-  // top: 0;
-  bottom: 10%;
+  top: 60%;
   margin: auto;
   opacity: 0.2;
   cursor: pointer;
-}
-
-
-#autoLoop.active {
-  opacity: 0.8;
 }
 
 /* TODO: Use bootstrap breakpoint variables */
@@ -987,7 +981,7 @@ a {
   }
 
   #autoLoop {
-	  bottom: 10%;
+    top: 58%;
     height: 29px;
   }
 }
@@ -995,5 +989,11 @@ a {
 @media screen and (max-width: 768px) {
   #autoLoop {
     height: 26px;
+    top: 43%;
   }
+}
+
+
+#autoLoop.active {
+  opacity: 0.8;
 }

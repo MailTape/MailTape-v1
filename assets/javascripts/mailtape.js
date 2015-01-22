@@ -40,4 +40,5 @@ $(document).ready(
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 
 	}
+
 );
