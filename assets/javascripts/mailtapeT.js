@@ -34,11 +34,11 @@ $(document).ready(
 		});
 
 
-		//scroll automatique si  player non visible par l'user
+		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
 		$("#playButton").click(function() {
-			if ($(window).height() + $(document).scrollTop() <= $('#player').offset().top + $("#player").height() * 3) {
+			if ($(window).height() + $(document).scrollTop() <= $('#player').offset().top + $("#player").height() * 9) {
 				$("html, body").animate({
-					scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 3
+					scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
 				}, 1000);
 			}
 		});
