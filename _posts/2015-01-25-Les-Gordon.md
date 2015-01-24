@@ -52,9 +52,10 @@ _Les Gordon:_ **"**The only french guy signed on Future Classic. He is an artist
 ## Marika Hackman - O'Come, O'Come, Emmanuel
 _Les Gordon:_ **"**The song evokes all the grace of this artist which I have been following from her first EP. I really encourage people to discover her work and talent.**"** 
 
-<p id="outroduction">
-That’s all folks! A big thank to our guest [Les Gordon](http://lesgordon.bandcamp.com/ "Les Gordon Bandcamp") for his selection. Enjoy your Sunday !
-</p>
 <p>
 _Photo by [Julien Brachhammer](http://jbrkmr.net/ "Julien Brachhammer website")_
+</p>
+
+<p id="outroduction">
+That’s all folks! A big thank to our guest [Les Gordon](http://lesgordon.bandcamp.com/ "Les Gordon Bandcamp") for his selection. Enjoy your Sunday !
 </p>
