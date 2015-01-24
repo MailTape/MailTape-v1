@@ -32,7 +32,7 @@ episode_URL: "http://mailta.pe/170/Les-Gordon"
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. "
 ---
 
-<p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon] (https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook)
+<p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon] (https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook")
 <br>
 This entrancing selection gives you a look at how Downtempo has nestled itself among a wider audience while artists like Les Gordon tinker with their tools to ensure that we get only the best of their genres. 
 <br><br>
