@@ -35,7 +35,6 @@ fbPic: fbPic170.jpg
 musiColor: musiColor170.jpg
 ---
 
-![guestPic170.jpg](/img/guestPic170.jpg)
 <p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook").
 This entrancing selection gives you a look at how Downtempo has nestled itself among a wider audience while artists like [Les Gordon](https://soundcloud.com/les-gordon "Les Gordon on Soundcloud") tinker with their tools to ensure that we get only the best of their genres. 
 <br><br>
