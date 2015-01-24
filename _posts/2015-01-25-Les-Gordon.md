@@ -22,14 +22,15 @@ track5_link: "https://soundcloud.com/innovativeleisure/tropics-blame"
 track6_link: "https://soundcloud.com/soulection/esta-luna-1"
 track7_link: "https://soundcloud.com/i-d-online-1/premiere-monsoonsiren-sullen-fables-prod-galimatias"
 track1_title: "Imagined Herbal Flows - Clouds"
-track2_title: "123Mrk - Pleasure [IM004]"
+track2_title: "123Mrk - Pleasure"
 track3_title: "Marika Hackman - O'Come, O'Come, Emmanuel"
 track4_title: "Les Gordon - Matisse"
-track6_title: Esta Luna
+track6_title: "Esta - Luna"
 track7_title: "Moosoonsiren - Sullen Fables"
 track5_title: "Tropics - Blame"
 episode_URL: "http://mailta.pe/170/Les-Gordon/"
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. "
+guestPic: guestPic170.jpg
 ---
 
 <p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon Facebok").
