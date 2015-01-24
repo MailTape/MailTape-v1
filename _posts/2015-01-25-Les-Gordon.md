@@ -32,6 +32,23 @@ episode_URL: "http://mailta.pe/170/Les-Gordon"
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. "
 ---
 
-## A New Post
+<p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon] (https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook)
+<br>
+This entrancing selection gives you a look at how Downtempo has nestled itself among a wider audience while artists like Les Gordon tinker with their tools to ensure that we get only the best of their genres. 
+<br><br>
+On the other side, it is not only writing that  creates imagery; the opening track “Imagined Herbal Flows,” will help you form the perfect imagery you haven’t imagined yet… the rest is all yours to discover. That said, we wish you a very good morning and hope you have a good day ahead. </p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# Les Gordon's morning inspiration
+ 
+## Imagined Herbal Flows - Clouds
+_Les Gordon:_ **"**I discovered this song by chance, by browsing Soundcloud ! I really appreciated the mix between Chill and Asiatic samples. By the way, this song is very pleasant to listen to while driving.**"**
+ 
+## 123Mrk - Pleasure
+_Les Gordon:_ **"**The only french guy signed on Future Classic. He is an artist to discover for people who don’t know him yet. I think he is also a forerunner of sounds of the Future.**"**
+ 
+## Marika Hackman - O'Come, O'Come, Emmanuel
+_Les Gordon:_ **"**The song evokes all the grace of this artist which I have been following from her first EP. I really encourage people to discover her work and talent.**"** 
+ 
+<p id="outroduction">
+That’s all folks! A big thank to our guest [Les Gordon] (https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook) for his selection. Enjoy your Sunday !
+</p>
