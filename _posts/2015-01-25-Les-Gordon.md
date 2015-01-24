@@ -49,5 +49,5 @@ _Les Gordon:_ **"**The only french guy signed on Future Classic. He is an artist
 _Les Gordon:_ **"**The song evokes all the grace of this artist which I have been following from her first EP. I really encourage people to discover her work and talent.**"** 
  
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon Facebook") for his selection. Enjoy your Sunday !
+That’s all folks! A big thank to our guest [Les Gordon](http://lesgordon.bandcamp.com/ "Les Gordon Bandcamp") for his selection. Enjoy your Sunday !
 </p>
