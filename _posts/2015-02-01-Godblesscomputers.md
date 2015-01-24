@@ -30,8 +30,10 @@ track5_title: "Sam Gellaitry - Reflectionz"
 track6_title: "Youthfire - Leave"
 track7_title: "iZem - Sadeo (feat. Feather)"
 guestPic: guestPic171.jpg
+fbPic: fbPic171.jpg
 ---
 
+![fbPic171.jpg](/img/fbPic171.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
