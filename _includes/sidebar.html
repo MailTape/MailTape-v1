@@ -1,24 +1,19 @@
 <div class="col-md-3 col-md-offset-1 hidden-xs hidden-sm rightSide">
 
-            <h1>Subscribe now</h1>
-            <h2>Fresh music in your inbox, every Sunday morning.</h2>
+            <div id="mc-sidebar">
+                <h1>Subscribe now</h1>
+                <h2>Fresh music in your inbox, every Sunday morning.</h2>
 
-            <!-- Begin MailChimp Signup Form -->
-            <div id="mc_embed_signup">
-                <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
-                    <div class="mc-field-group">
-                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Your email ?">
-                    </div>
-                    <div class="mc-field-group">
-                        <input type="text" value="" name="PRENOM" class="required" id="mce-PRENOM" placeholder="Your name ?">
-                    </div>
-                    <div id="mce-responses" class="clear">
-                        <div class="response" id="mce-error-response" style="display:none"></div>
-                        <div class="response" id="mce-success-response" style="display:none"></div>
-                        <input type="submit" value="Submit now" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from sidebar']);">
-                    </div>
-                </form>
+
+                <!-- Begin MailChimp Signup Form -->
+
+                    <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-sidebar-form" name="mc-sidebar-form" class="validate" target="_blank">
+                        <input type="email" value="" name="EMAIL" class="required email" id="mc-sidebar-EMAIL" placeholder="Your email ?">
+                        <input type="text" value="" name="PRENOM" class="required" id="mc-sidebar-PRENOM" placeholder="Your name ?">
+                        <button name="subscribe" id="sidebarSubscribeButton" onClick="_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed from Sidebar']);">Subscribe</button>
+                        <label id="mc-sidebar-label" for="mc-sidebar-EMAIL"></label>
+                    </form>
             </div>
 
             <!--End mc_embed_signup-->

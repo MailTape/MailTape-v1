@@ -110,7 +110,7 @@ $(document).ready(
 
 		});
 
-	//	plugin d'ajaxification du formulaire mailchimp
+	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
 
 		$('#mc-form').ajaxChimp({
 	    	callback: callbackFunction
@@ -124,6 +124,30 @@ $(document).ready(
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
+	    			$('#mc-sidebar').fadeOut('slow'); // fais aussi disparaitre la sidebar de subscription
+	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0'); // fais aussi disparaitre la sidebar de subscription
+				}, 7000);
+		    }
+		}
+
+		//	plugin d'ajaxification du formulaire mailchimp de la sidebar
+
+		$('#mc-sidebar-form').ajaxChimp({
+	    	callback: callbackFunctionSidebar
+	    });
+
+	    function callbackFunctionSidebar (resp) {
+		    if (resp.result == 'success') {
+		    	var prenom = $( "#mc-sidebar-PRENOM" ).val();
+		        $('#mc-sidebar-form').fadeOut('fast', function() {
+		        	console.log("your name is: "+prenom);
+		        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
+		        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
+		        });
+		         setTimeout(function() {
+	    			$('#mc-sidebar').fadeOut('slow');
+	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0');
+	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow'); // fais aussi disparaitre la topbar de subscription
 				}, 7000);
 		    }
 		}
