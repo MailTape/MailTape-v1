@@ -140,9 +140,13 @@ $(document).ready(
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-sidebar-PRENOM" ).val();
 		        $('#mc-sidebar-form').fadeOut('fast', function() {
-		        	console.log("your name is: "+prenom);
-		        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
-		        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
+		        	if (isFromEmail()) {
+		        		$('#mc-sidebar h1').html("You're beautiful !");
+		        		$('#mc-sidebar h2').html(prenom+" will receive a confirmation email, be sure to let your dear friend know it's coming from you !");
+		        	} else {
+			        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
+			        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
+			        }
 		        });
 		         setTimeout(function() {
 	    			$('#mc-sidebar').fadeOut('slow');
@@ -152,9 +156,7 @@ $(document).ready(
 		    }
 		}
 
-
 	// script de lecture des paramètre de l'url
-
 		function getParameterByName(name) {
 		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
 		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
@@ -164,12 +166,32 @@ $(document).ready(
 
 	// detection si l'user provient d'un mail
 
-		var utm_source = getParameterByName('utm_source');
+		function isFromEmail(){
+			var utm_source = getParameterByName('utm_source');
 
-		if (utm_source=="MailTape") {
+			if (utm_source=="MailTape") {
+				return true;
+			}
+		}
+
+	// adaptation layout si user vient du mail
+
+		if (isFromEmail()) {
 			console.log("You're coming from our mail ! Hello dear subscriber :)");
 			$('#topbar-subscription').removeClass("hidden-xs").hide();
+			var comingFromMail =true;
+
+			// adaptation sidebar pour inviter ami
+
+			$('#mc-sidebar h1').html("Love is to share");
+		    $('#mc-sidebar h2').html("Subscribe a close friend.");
+		    $('#mc-sidebar-EMAIL').attr("placeholder", "Your friend's email ?");
+		    $('#mc-sidebar-PRENOM').attr("placeholder", "Your friend's name ?");
+		    $('#sidebarSubscribeButton').html("Submit");
+		    $('#mc-sidebar button').attr("onClick","_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed a friend']);");
+
 		}
+
 
 
 
