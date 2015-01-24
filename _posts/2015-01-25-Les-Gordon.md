@@ -54,4 +54,6 @@ _Les Gordon:_ **"**The song evokes all the grace of this artist which I have bee
  
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Les Gordon](http://lesgordon.bandcamp.com/ "Les Gordon Bandcamp") for his selection. Enjoy your Sunday !
+<br>
+Photo by [Julien Brachhammer] (http://jbrkmr.net/ "Julien Brachhammer's website")
 </p>
