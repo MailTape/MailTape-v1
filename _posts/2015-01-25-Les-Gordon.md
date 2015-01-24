@@ -53,7 +53,7 @@ _Les Gordon:_ **"**The only french guy signed on Future Classic. He is an artist
 _Les Gordon:_ **"**The song evokes all the grace of this artist which I have been following from her first EP. I really encourage people to discover her work and talent.**"** 
 
 <p>
-_Photo by [Julien Brachhammer](http://jbrkmr.net/ "Julien Brachhammer website")_
+_© Photo by [Julien Brachhammer](http://jbrkmr.net/ "Julien Brachhammer website")_
 </p>
 
 <p id="outroduction">
