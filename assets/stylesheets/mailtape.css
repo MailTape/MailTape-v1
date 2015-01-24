@@ -338,7 +338,7 @@ article p {
   margin-top: 2em;
 }
 .rightSide h1:nth-of-type(1) {
-  margin-top: 0;
+  margin-top: 2em;
 }
 .rightSide h2 {
   font-size: 1em;
@@ -407,6 +407,57 @@ article p {
 }
 .rightSide .rightSided_footer {
   font-size: 0.7em;
+}
+#mc-sidebar h1 {
+  margin-top: 0;
+}
+#mc-sidebar .clear {
+  text-align: right;
+}
+#mc-sidebar label {
+  font-family: 'rooney-web';
+  font-size: 0.8em;
+  font-weight: 300;
+}
+#mc-sidebar label.error {
+  color: red;
+}
+#mc-sidebar input {
+  font-family: 'rooney-web';
+  font-size: 0.8em;
+  font-weight: 300;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  width: 100%;
+  margin: 0.5em 0;
+  background: #ededed;
+  border: none;
+  padding: 0.4em;
+}
+#mc-sidebar button {
+  background: #ededed;
+  color: &lighterGrey;
+  padding: 0.4em;
+  font-family: 'superspitze_groteskregular';
+  text-align: center;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+  border-radius: 3px;
+  margin: 0.5em 0;
+  -moz-transition: all ease-in-out 0.3s;
+  -webkit-transition: all ease-in-out 0.3s;
+  transition: all ease-in-out 0.3s;
+  border: none;
+}
+#mc-sidebar button:hover {
+  color: #ededed;
+  background: #3a4040;
+  cursor: pointer;
 }
 #mc_embed_signup .clear {
   text-align: right;
@@ -692,7 +743,7 @@ a:hover {
 .playlist {
   width: 100%;
   height: 100%;
-  padding-right: 30px; 
+  padding-right: 30px;
 }
 .playlist .icon-control {
   bottom: 0;
@@ -930,7 +981,6 @@ a:hover {
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
 }
-
 #autoLoop {
   position: absolute;
   right: 0;
@@ -939,28 +989,22 @@ a:hover {
   opacity: 0.2;
   cursor: pointer;
 }
-
 /* TODO: Use bootstrap breakpoint variables */
-
 @media screen and (max-width: 990px) {
   .playlist {
     padding-right: 25px;
   }
-
   #autoLoop {
     top: 58%;
     height: 29px;
   }
 }
-
 @media screen and (max-width: 768px) {
   #autoLoop {
     height: 26px;
     top: 43%;
   }
 }
-
-
 #autoLoop.active {
   opacity: 0.8;
 }
