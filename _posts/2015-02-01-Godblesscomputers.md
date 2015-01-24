@@ -29,6 +29,7 @@ track4_title: "Godblesscomputers - Icry"
 track5_title: "Sam Gellaitry - Reflectionz"
 track6_title: "Youthfire - Leave"
 track7_title: "iZem - Sadeo (feat. Feather)"
+guestPic: guestPic171.jpg
 ---
 
 ## A New Post
