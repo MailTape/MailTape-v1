@@ -31,6 +31,7 @@ track6_title: "Youthfire - Leave"
 track7_title: "iZem - Sadeo (feat. Feather)"
 guestPic: guestPic171.jpg
 fbPic: fbPic171.jpg
+musiColor: musiColor171.png
 ---
 
 ![fbPic171.jpg](/img/fbPic171.jpg)
