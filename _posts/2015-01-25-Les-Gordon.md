@@ -41,7 +41,7 @@ This entrancing selection gives you a look at how Downtempo has nestled itself a
 On the other side, it is not only writing that  creates imagery; the opening track “Imagined Herbal Flows,” will help you form the perfect imagery you haven’t imagined yet… the rest is all yours to discover. That said, we wish you a very good morning and hope you have a good day ahead. </p>
 
 # Les Gordon's morning inspiration
-<br>
+
 ## Imagined Herbal Flows - Clouds
 _Les Gordon:_ **"**I discovered this song by chance, by browsing Soundcloud ! I really appreciated the mix between Chill and Asiatic samples. By the way, this song is very pleasant to listen to while driving.**"**
  
