@@ -10,7 +10,7 @@ track2_color: rough
 track3_color: dreamy
 track4_color: vibrant
 track5_color: dreamy
-track6_color: bliss
+track6_color: vibrant
 track7_color: dreamy
 category: "170"
 guest_name: Les Gordon
