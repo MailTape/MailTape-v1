@@ -32,7 +32,7 @@ episode_URL: "http://mailta.pe/170/Les-Gordon/"
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. "
 guestPic: guestPic170.jpg
 fbPic: fbPic170.jpg
-musiColor: musiColor170.jpg
+musiColor: musiColor170.png
 ---
 
 <p id="introduction">This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, [Les Gordon](https://fr-fr.facebook.com/pages/Les-Gordon/279442925425521 "Les Gordon on Facebook").
