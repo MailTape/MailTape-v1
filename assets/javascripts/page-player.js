@@ -67,12 +67,12 @@ function PagePlayer() {
 
   // jQuery Style: setter if new_value given otherwise getter
   this.autoLoop = function(new_value){
-    if (typeof new_value !== 'undefined') {
-      this.localStorage.setItem('autoLoop', new_value);
-      return this.localStorage.getItem('autoLoop') === 'true';  
-    } else {
-      return this.localStorage.getItem('autoLoop') === 'true';
-    }
+  if (typeof new_value !== 'undefined') {
+  this.localStorage.setItem('autoLoop', new_value);
+  return this.localStorage.getItem('autoLoop') !== 'false';
+  } else {
+  return this.localStorage.getItem('autoLoop') !== 'false';
+  }
   };
 
   this.setButtonState = function($el) {
