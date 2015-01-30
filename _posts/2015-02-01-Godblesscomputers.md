@@ -34,7 +34,8 @@ fbPic: fbPic171.jpg
 ---
 
 <p id="introduction">
-Guten Morgen! Our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility.  His sounds are fresh, but familiar. For those of you open to versatility, [Godblesscomputers](https://soundcloud.com/godblesscomputers "Godblesscomputers' Soundcloud") is a must-listen. 
+Guten Morgen! Our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). 
+We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility.  His sounds are fresh, but familiar. For those of you open to versatility, [Godblesscomputers](https://soundcloud.com/godblesscomputers "Godblesscomputers' Soundcloud") is a must-listen. 
 </p>
 
 # Godblesscomputers' morning inspiration
@@ -50,5 +51,6 @@ _Godblesscomputers:_ **"**I don't have many infos about Guerre. I found his stuf
 _Godblesscomputers:_ **"**I love jazz. And i found really interesting when someone is able to find a good balance between samples and electronic sounds.**"** 
 
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. If your in Paris, you can see him live in few days [here](https://www.facebook.com/events/388539134648862/?fref=ts "GODBLESSCOMPUTERS @ POINT EPHEMERE") ! Enjoy your Sunday !
+That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. 
+If your in Paris, you can see him live in few days [here](https://www.facebook.com/events/388539134648862/?fref=ts "GODBLESSCOMPUTERS @ POINT EPHEMERE") ! Enjoy your Sunday !
 </p>
