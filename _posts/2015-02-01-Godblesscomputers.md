@@ -46,10 +46,10 @@ We like to think that Lorenzo Nada is a genius who knows how to utilize computer
 _Godblesscomputers:_ **"**Ifan Dafydd is one of my favorite producers. I love is way to make beats with deep piano chords and glitch sounds. I also appreciate his way to use vocals as an instrument.**"**
  
 ## Guerre - For Qwanisha
-_Godblesscomputers:_ **"**I don't have many infos about Guerre. I found his stuff some month ago on Bandcamp and i felt in love with his music. He reminds me some James Blake tunes with more glitchy sounds.**"**
+_Godblesscomputers:_ **"**I don't have many infos about Guerre. I found his stuff some month ago on Bandcamp and I felt in love with his music. He reminds me some James Blake tunes with more glitchy sounds.**"**
  
 ## Long Arm - When Children Sleep
-_Godblesscomputers:_ **"**I love jazz. And i found really interesting when someone is able to find a good balance between samples and electronic sounds.**"** 
+_Godblesscomputers:_ **"**I love jazz. And I found really interesting when someone is able to find a good balance between samples and electronic sounds.**"** 
 
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. 
