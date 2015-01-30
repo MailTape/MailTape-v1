@@ -34,7 +34,7 @@ fbPic: fbPic171.jpg
 ---
 
 <p id="introduction">
-Guten Morgen! Our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). 
+Good Morning! Our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). 
 <br>
 We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility.  His sounds are fresh, but familiar. For those of you open to versatility, [Godblesscomputers](https://soundcloud.com/godblesscomputers "Godblesscomputers' Soundcloud") is a must-listen. 
 </p>
