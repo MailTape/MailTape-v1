@@ -50,5 +50,5 @@ _Godblesscomputers:_ **"**I don't have many infos about Guerre. I found his stuf
 _Godblesscomputers:_ **"**I love jazz. And i found really interesting when someone is able to find a good balance between samples and electronic sounds.**"** 
 
 <p id="outroduction">
-That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. Enjoy your Sunday !
+That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. If your in Paris, you can see him live in few days [here](https://www.facebook.com/events/388539134648862/?fref=ts "GODBLESSCOMPUTERS @ POINT EPHEMERE") ! Enjoy your Sunday !
 </p>
