@@ -31,6 +31,7 @@ track6_title: "Youthfire - Leave"
 track7_title: "iZem - Sadeo (feat. Feather)"
 guestPic: guestPic171.jpg
 fbPic: fbPic171.jpg
+description: "We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility. His sounds are fresh, but familiar. For those of you open to versatility, Godblesscomputers is a must-listen."
 ---
 
 <p id="introduction">
