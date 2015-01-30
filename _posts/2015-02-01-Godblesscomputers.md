@@ -53,7 +53,7 @@ _Godblesscomputers:_ **"**I love jazz. And I found really interesting when someo
 
 <p id="outroduction">
 That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. 
-<br>
+<br><br>
 If your in Paris, you can see him live in few days [here](https://www.facebook.com/events/388539134648862/?fref=ts "GODBLESSCOMPUTERS @ POINT EPHEMERE") ! 
 <br><br>
 Enjoy your Sunday !
