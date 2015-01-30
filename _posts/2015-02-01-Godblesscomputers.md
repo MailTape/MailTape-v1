@@ -33,6 +33,22 @@ guestPic: guestPic171.jpg
 fbPic: fbPic171.jpg
 ---
 
-## A New Post
+<p id="introduction">
+Guten Morgen! Our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility.  His sounds are fresh, but familiar. For those of you open to versatility, [Godblesscomputers](https://soundcloud.com/godblesscomputers "Godblesscomputers' Soundcloud") is a must-listen. 
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# Godblesscomputers' morning inspiration
+<br>
+
+## Ifan Dafydd - Celwydd (feat. Alys Williams)
+_Godblesscomputers:_ **"**Ifan Dafydd is one of my favorite producers. I love is way to make beats with deep piano chords and glitch sounds. I also appreciate his way to use vocals as an instrument.**"**
+ 
+## Guerre - For Qwanisha
+_Godblesscomputers:_ **"**I don't have many infos about Guerre. I found his stuff some month ago on Bandcamp and i felt in love with his music. He reminds me some James Blake tunes with more glitchy sounds.**"**
+ 
+## Long Arm - When Children Sleep
+_Godblesscomputers:_ **"**I love jazz. And i found really interesting when someone is able to find a good balance between samples and electronic sounds.**"** 
+
+<p id="outroduction">
+That’s all folks! A big thank to our guest [Godblesscomputers](https://www.facebook.com/Godblesscomputers/timeline?ref=page_internal "Godblesscomputers' Facebook") for his selection and to Florence that made this episode possible. Enjoy your Sunday !
+</p>
