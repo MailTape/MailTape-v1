@@ -136,6 +136,21 @@ $(document).ready(
 	    	callback: callbackFunctionSidebar
 	    });
 
+	    		$(".playlist").click(function() {
+			$("#playButton").fadeOut("slow");
+		});
+
+	    // subscribe button intro !
+	    	// Detection si on a l'intro displayed ou pas selon le test frosno
+	    if ($('#topbar-subscription-intro').length) {
+	    $('#topbar-subscription-form').hide();
+		}	
+			// Mini scriptounet pour la topbar subscription en 2 étapes
+		$('#subscribeButtonIntro').click(function(){
+			$('#topbar-subscription-intro').fadeOut("fast");
+			$('#topbar-subscription-form').fadeIn("slow");
+		})
+
 	    function callbackFunctionSidebar (resp) {
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-sidebar-PRENOM" ).val();
