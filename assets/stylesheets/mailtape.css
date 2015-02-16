@@ -257,11 +257,14 @@ article p {
   width: 100%;
   font-family: 'icomoon';
   z-index: 1;
-  color: rgba(255, 255, 255, 0.92);
+  color: rgba(255, 255, 255, 0.9);
   text-align: center;
-  -moz-transition: color ease-in-out 0.2s;
-  -webkit-transition: color ease-in-out 0.2s;
-  transition: color ease-in-out 0.2s;
+  -moz-transition: color ease-in-out 0.4s;
+  -webkit-transition: color ease-in-out 0.4s;
+  transition: color ease-in-out 0.4s;
+  -moz-transition: background ease-in-out 0.4s;
+  -webkit-transition: background ease-in-out 0.4s;
+  transition: background ease-in-out 0.4s;
   cursor: pointer;
 }
 #playButton.rough {
@@ -291,6 +294,21 @@ article p {
 }
 #playButton:hover {
   color: white;
+}
+#playButton:hover.rough {
+  background: rgba(247, 148, 140, 0.7);
+}
+#playButton:hover.dreamy {
+  background: rgba(122, 205, 235, 0.7);
+}
+#playButton:hover.vibrant {
+  background: rgba(253, 238, 106, 0.7);
+}
+#playButton:hover.bliss {
+  background: rgba(244, 114, 169, 0.7);
+}
+#playButton:hover.trippy {
+  background: rgba(91, 223, 129, 0.7);
 }
 .modal-dialog {
   text-align: left;

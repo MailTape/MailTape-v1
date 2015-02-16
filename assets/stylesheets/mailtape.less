@@ -202,9 +202,10 @@ article {
 
 	font-family: 'icomoon';
 	z-index: 1;
-	color: fadeout(white,8%);
+	color: fadeout(white,10%);
 	text-align: center;
-	.transition(color,0.2s);
+	.transition(color,0.4s);
+	.transition(background,0.4s);
 	
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		padding-top: 100px;
@@ -217,6 +218,11 @@ article {
 
 	&:hover {
 		color: white;
+		&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
+		&.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
+		&.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
+		&.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
+		&.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
 	}
 
 	cursor: pointer;
