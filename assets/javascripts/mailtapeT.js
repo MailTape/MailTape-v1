@@ -104,6 +104,7 @@ $(document).ready(
 					console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
 				} else {
 					console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
+					$("#track"+(i+1)+"_button").prop("href", trackURL);
 	//					alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
 				}
 			});
