@@ -139,6 +139,9 @@ $(document).ready(
 			console.log("tu clique sur le bouton intro");
 			$('#topbar-subscription-intro').fadeOut("fast");
 			$('#topbar-subscription-form').fadeIn("slow");
+			$('#mc-form').ajaxChimp({
+	    	callback: callbackFunction
+	    	});
 		});
 
 	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
