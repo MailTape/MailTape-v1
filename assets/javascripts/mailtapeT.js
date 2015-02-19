@@ -111,6 +111,36 @@ $(document).ready(
 
 		});
 
+	    		$(".playlist").click(function() {
+			$("#playButton").fadeOut("slow");
+		});
+
+	    // subscribe button intro !
+	    	// Detection si on a l'intro displayed ou pas selon le test frosno
+
+		var countInit = 0;
+
+		function superInit() {
+			if ($('#topbar-subscription-intro').length) {
+			    $('#topbar-subscription-form').fadeOut("fast");
+			    console.log("topbar-subscription-intro est là je cache la form!");
+			} else if (countInit < 100) {
+				console.log("topbar-subscription-intro pas là pour le moment");
+			    countInit++;
+				window.setTimeout(superInit, 100);
+			}
+		}
+
+		// Premier lancement
+		window.setTimeout(superInit, 100);
+	
+			// Mini scriptounet pour la topbar subscription en 2 étapes
+		$(document).on('click', '#subscribeButtonIntro',function(){
+			console.log("tu clique sur le bouton intro");
+			$('#topbar-subscription-intro').fadeOut("fast");
+			$('#topbar-subscription-form').fadeIn("slow");
+		});
+
 	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
 
 		$('#mc-form').ajaxChimp({
@@ -121,7 +151,7 @@ $(document).ready(
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-PRENOM" ).val();
 		        $('#mc-form').fadeOut('fast', function() {
-		        	$('#topbar-subscription-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
@@ -136,21 +166,6 @@ $(document).ready(
 		$('#mc-sidebar-form').ajaxChimp({
 	    	callback: callbackFunctionSidebar
 	    });
-
-	    		$(".playlist").click(function() {
-			$("#playButton").fadeOut("slow");
-		});
-
-	    // subscribe button intro !
-	    	// Detection si on a l'intro displayed ou pas selon le test frosno
-	    if ($('#topbar-subscription-intro').length) {
-	    $('#topbar-subscription-form').hide();
-		}	
-			// Mini scriptounet pour la topbar subscription en 2 étapes
-		$('#subscribeButtonIntro').click(function(){
-			$('#topbar-subscription-intro').fadeOut("fast");
-			$('#topbar-subscription-form').fadeIn("slow");
-		})
 
 	    function callbackFunctionSidebar (resp) {
 		    if (resp.result == 'success') {
