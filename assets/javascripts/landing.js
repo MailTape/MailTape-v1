@@ -183,6 +183,7 @@ $(document).ready(
 	    	if (!open) {
 	    	open=true;
 	       	$('#subscribeButton').addClass("afterClick");
+	       	$( "#subscribeButton" ).attr( "onClick", "" );
 
 	    	$('#bigIntro').fadeOut('fast',function(){
 			    $(this).html("Amazing, you're gonna love it.").fadeIn('fast');
