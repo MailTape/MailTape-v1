@@ -157,6 +157,7 @@ $(document).ready(
 		    	var prenom = $( "#mc-PRENOM" ).val();
 		        $('#mc-form').fadeOut('fast', function() {
 		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Submitted info']);
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
@@ -179,9 +180,11 @@ $(document).ready(
 		        	if (isFromEmail()) {
 		        		$('#mc-sidebar h1').html("You're beautiful !");
 		        		$('#mc-sidebar h2').html(prenom+" will receive a confirmation email, be sure to let your dear friend know it's coming from you !");
+		        		_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed a friend']);
 		        	} else {
 			        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
 			        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
+			        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed from Sidebar']);
 			        }
 		        });
 		         setTimeout(function() {
@@ -224,7 +227,6 @@ $(document).ready(
 		    $('#mc-sidebar-EMAIL').attr("placeholder", "Your friend's email ?");
 		    $('#mc-sidebar-PRENOM').attr("placeholder", "Your friend's name ?");
 		    $('#sidebarSubscribeButton').html("Submit");
-		    $('#mc-sidebar button').attr("onClick","_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed a friend']);");
 
 		}
 

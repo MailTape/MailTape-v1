@@ -182,8 +182,9 @@ $(document).ready(
 
 	    	if (!open) {
 	    	open=true;
-	    	$( "#subscribeButton" ).attr( "onClick", "_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submitted info on landing']);" );
+	    	$( "#subscribeButton" ).attr( "onClick", "" );
 	       	$('#subscribeButton').addClass("afterClick");
+
 
 	    	$('#bigIntro').fadeOut('fast',function(){
 			    $(this).html("Amazing, you're gonna love it.").fadeIn('fast');
@@ -221,6 +222,7 @@ $(document).ready(
 
 	    		$('#underBigIntro').fadeOut('fast',function(){
 			    	$(this).html("Check your inbox now, we've just sent you a confirmation email.").fadeIn('fast');
+			    	_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Submitted info on landing']);
 				});
 		    }
 		}

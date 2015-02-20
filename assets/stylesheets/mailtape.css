@@ -137,7 +137,7 @@ body {
 }
 #topbar-subscription label.error {
   color: red;
-  display: block;
+  display: inline !important;
 }
 #topbar-subscription label.valid {
   display: none;
