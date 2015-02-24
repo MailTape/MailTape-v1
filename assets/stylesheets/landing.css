@@ -205,7 +205,7 @@ body {
   box-shadow: 3px 3px 0px 0px #cccccc;
 }
 #subscribeButton:hover:after {
-  content: ", it's free";
+  content: attr(text-after);
 }
 #subscribeButton:active {
   -moz-box-shadow: 1px 1px 0px 0px #cccccc;
