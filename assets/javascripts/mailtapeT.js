@@ -116,16 +116,17 @@ $(document).ready(
 		});
 
 	    // subscribe button intro !
-	    	// Detection si on a l'intro displayed ou pas selon le test frosno
+
+	    	// [FROSMO] Detection si on a l'intro displayed ou pas
 
 		var countInit = 0;
 
 		function superInit() {
 			if ($('#topbar-subscription-intro').length) {
 			    $('#topbar-subscription-form').fadeOut("fast");
-			    console.log("topbar-subscription-intro est là je cache la form!");
+			    console.log("[FROSMO] topbar-subscription-intro est là je cache la form!");
 			} else if (countInit < 100) {
-				console.log("topbar-subscription-intro pas là pour le moment");
+				console.log("[FROSMO] topbar-subscription-intro pas là pour le moment");
 			    countInit++;
 				window.setTimeout(superInit, 100);
 			}
