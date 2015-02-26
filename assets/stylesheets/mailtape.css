@@ -647,6 +647,13 @@ ul {
 #logoFooter {
   background: none;
 }
+
+#mixpanel_logo {
+  position: absolute;
+  left: 0.5em;
+  margin-bottom: 0.5em;
+}
+
 @media only screen and (min-width: 0px) and (max-width: 767px) {
   #bigHeader {
     min-height: 300px;
