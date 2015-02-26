@@ -5,6 +5,22 @@ $(document).ready(
 
 		$(".stretchMe").anystretch();
 
+		// [FROMO] timer pour détecter si new background
+		var countInit=0;
+		function frosmoBGInit() {
+			if ($('#FROSMOchangeBg').length) {
+			    console.log("[FROSMO] Hero background changed, I trigger stretchMe again!");
+			    $("#bigHeader").anystretch($('#FROSMOchangeBg').attr('newBG'), {speed: 150});
+			    $("#photoCredit").html("Photo credit : <a href=\""+$('#FROSMOchangeBg').attr('creditLink')+"\" target=\"_blank\">"+$('#FROSMOchangeBg').attr('creditAuthor')+"</a>");
+			} else if (countInit < 500) {
+				console.log("[FROSMO] Hero background not changed, I wait sir :)");
+			    countInit++;
+				window.setTimeout(frosmoBGInit, 100);
+			}
+		}
+
+		window.setTimeout(frosmoBGInit, 100);
+
 		 <!-- affichage du grand titre -->
 
 	    $('#bigIntro').fitText(2, {minFontSize: '20px', maxFontSize: '70px' });
