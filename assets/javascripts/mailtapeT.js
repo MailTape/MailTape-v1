@@ -65,21 +65,37 @@ $(document).ready(
 			
 		}
 
-	// module de récupération de la duration de tracks directement à partir de l'archivpi soundcloud
+	// module de récupération de la duration de tracks directement à partir de l'api soundcloud
 		var	tracksDuration=[1,1,1,1,1,1,1];
 
+	// array contenant les fichiers audios qui ne viendraient pas de soundcloud
+		var audios=[];
+
 		function getTracksDuration () {
-			var count = tracksURL.length
+			var count = tracksURL.length;
 			$.each(tracksURL,function(i,trackURL){
-				SC.get('/resolve', { url: trackURL }, function(track){
-					tracksDuration[i]=Math.round(track.duration/1000);
-					count--;
-					if (count == 0)
-					//we got all answers (thx Bluxte!)
-						{
-						setTracksWidth(tracksDuration);
+				if (trackURL.search( 'soundcloud' ) != -1) {
+					SC.get('/resolve', { url: trackURL }, function(track){
+						// console.log(Math.round(track.duration/1000));
+						tracksDuration[i]=Math.round(track.duration/1000);
+						count--;
+						if (count == 0) { //we got all answers (thx Bluxte!)
+							setTracksWidth(tracksDuration);
 						}
-				});
+					});
+				}
+				else { // dans le cas où le fichier ne provient pas de soundcloud
+					audios[i] = new Audio(trackURL);
+					audios[i].addEventListener('canplaythrough', function() {
+						// alert("trackURL: "+audios[i].src+" duration: "+audios[i].duration);
+						// console.log("AMZ shit: "+Math.round(audios[i].duration));
+					    tracksDuration[i]=Math.round(audios[i].duration);
+						count--;
+						if (count == 0) { //we got all answers (thx Bluxte!)
+							setTracksWidth(tracksDuration);
+						}
+					});
+				}
 			});
 		}
 
@@ -96,18 +112,36 @@ $(document).ready(
 	// module de gestion de l'api soundcloud afin de jouer les sons directement à partir du stream SC
 			
 		$.each(tracksURL,function(i,trackURL){
+			if (trackURL.search( 'soundcloud' ) != -1) {
+				SC.get('/resolve', { url: trackURL }, function(track){
+					$("#track"+(i+1)+"_link").prop("href", trackURL);
+					if (track.streamable == true) {
+						$("#track"+(i+1)+"_button").prop("href", track.stream_url+"?client_id=5eaa5aae9b1a116f58b43027a7a2206d");
+						console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
+					} 
+					if (track.streamable == false) {
+						console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
+							// alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
+					}
+				});
+			}
 
-			SC.get('/resolve', { url: trackURL }, function(track){
-				$("#track"+(i+1)+"_link").prop("href", trackURL);
-				if (track.streamable == true) {
-					$("#track"+(i+1)+"_button").prop("href", track.stream_url+"?client_id=5eaa5aae9b1a116f58b43027a7a2206d");
-					console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
-				} else {
-					console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
-					$("#track"+(i+1)+"_button").prop("href", trackURL);
-	//					alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
-				}
-			});
+			else if (trackURL.search( 'amazonaws' ) != -1) {
+				$("#track"+(i+1)+"_link").removeAttr("href").removeAttr("target").removeAttr("onclick");
+				$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
+				$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");
+
+				$("#track"+(i+1)+"_button").prop("href", trackURL);
+			}
+
+			else {
+				console.error("/!\\"+"Track:"+(i+1)+" "+trackURL+" ERROR ! URL Vide ou ne provenant ni de soundcloud, ni de amazon. Check it ;)");
+				$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
+				$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");
+				$("#track"+(i+1)+"_button").prop("href", trackURL);
+
+			}
+		//					alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
 
 		});
 

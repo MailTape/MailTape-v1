@@ -407,6 +407,13 @@ article p {
   font-size: 0.7em;
   line-height: 0.7em;
 }
+.rightSide .ingredientsAside .linkNotAvailable {
+  opacity: 0.2;
+}
+.rightSide .ingredientsAside .linkNotAvailable:hover {
+  color: #4d4d4d;
+  background: #ededed;
+}
 .rightSide .ingredientsAside li {
   margin-top: 0.5em;
   font-family: 'rooney-web';
@@ -647,7 +654,6 @@ ul {
 #logoFooter {
   background: none;
 }
-
 @media only screen and (min-width: 0px) and (max-width: 767px) {
   #bigHeader {
     min-height: 300px;
