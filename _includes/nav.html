@@ -1,0 +1,17 @@
+     
+<div id="navEpisodes" style="text-align:center"> 
+  {% if site.time > page.next.date %}
+    <a href="{{page.next.url}}" class="{{ page.next.guest_color }}"><- {{page.next.category}} - {{page.next.title}}</a>
+    &nbsp; &nbsp; &nbsp;
+  {% endif %}
+<a href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">{{page.previous.category}} - {{page.previous.title}} -></a>
+</div>    
+
+
+<!--  {% for post in site.related_posts %}
+     {% if site.time > post.date %}
+      <li id="archive{{ post.category }}">
+          <a href="{{ post.url }}" target="_blank"> {{ post.guest_name }}</a>
+      </li>
+     {% endif %}
+{% endfor %} -->
