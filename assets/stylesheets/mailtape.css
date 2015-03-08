@@ -92,6 +92,21 @@ body {
   
   }
 }
+#navEpisodes .trippy {
+  color: #23b14c;
+}
+#navEpisodes .bliss {
+  color: #ed1370;
+}
+#navEpisodes .vibrant {
+  color: #fbe206;
+}
+#navEpisodes .dreamy {
+  color: #22acdd;
+}
+#navEpisodes .rough {
+  color: #f03c2d;
+}
 @media only screen and (min-width: 768px) {
   .only-mobile {
     display: none;

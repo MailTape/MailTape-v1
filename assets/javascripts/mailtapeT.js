@@ -6,7 +6,7 @@ $(document).ready(
 	$(".stretchMe").anystretch();
 
 	// permet de faire pointer tous les liens dans un nouvel onglet
-	$('a').attr('target','_blank');
+	//$('a').attr('target','_blank');
 
 	$('#playButton').flowtype({
 	 minimum   : 679,
