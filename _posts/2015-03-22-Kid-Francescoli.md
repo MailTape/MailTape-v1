@@ -26,6 +26,9 @@ track4_title: "Kid Francescoli - Blow Up"
 track5_title: "Mark Johns - 5 South (Prod. Alexander Lewis) Ft. Brasstracks"
 track6_title: "Craz - Dust"
 track7_title: "Spongemagnet - Voyage To Cyborn907"
+category: "178"
+guest_name: Kid Francescoli
+guestPic: guestPic178.jpg
 ---
 
 ## A New Post
