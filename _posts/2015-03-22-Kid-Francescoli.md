@@ -1,8 +1,8 @@
 ---
 layout: episode
 published: true
-author: Dimitri
-guest_color: rough
+author: ImaCrea
+guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: rough
@@ -31,6 +31,4 @@ guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
 ---
 
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+WORK IN PROGRESS.... PLEASE BE PATIENT :)
