@@ -31,6 +31,7 @@ guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
 ---
 
+![guestPic178.jpg](/img/guestPic178.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
