@@ -5,13 +5,13 @@ author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: vibrant
+track2_color: dreamy
+track3_color: dreamy
+track4_color: vibrant
+track5_color: vibrant
+track6_color: trippy
+track7_color: trippy
 track1_link: "https://soundcloud.com/turbotito/esmz-40-day-dream-turbotito-remix"
 track2_link: "https://soundcloud.com/le-surf-club/kza-vous-dansez"
 track3_link: "https://soundcloud.com/ionn-blignault/chet-baker-almost-blue"
@@ -29,6 +29,7 @@ track7_title: "Spongemagnet - Voyage To Cyborn907"
 category: "178"
 guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
+episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
 ---
 
 WORK IN PROGRESS.... PLEASE BE PATIENT :)
