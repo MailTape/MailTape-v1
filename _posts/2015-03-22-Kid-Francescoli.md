@@ -32,4 +32,28 @@ guestPic: guestPic178.jpg
 episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
 ---
 
-WORK IN PROGRESS.... PLEASE BE PATIENT :)
+<p id="introduction">INTRO WIP</p>
+
+# TITLE About Artist
+
+TEXT ABOUT ARTIST
+
+
+# Kid Francescoli's morning inspiration
+
+## Edward Sharpe & the Magnetic Zeros - 40 Day Dream (Turbotito Remix)
+_Kid Francescoli:_ **"**For sunny and happy sundays. It instantly makes me wanna get out of bed and start planning a lot of things to have fun all through the day.
+Be careful at what you play right after because it might ruin this positive feeling.**"**
+
+## KZA - Vous Dansez
+_Kid Francescoli:_ **"**It goes perfectly with the well-known sunday melancoly.
+It's very cinematographic and a little groovy, which is all I would like to do with music.
+It has this power to put you in another world, where you can stay all sunday long if you play this loop song on loop.**"**
+
+## Chet Baker - Almost Blue
+_Kid Francescoli:_ **"**For sundays where you just have enough energy to get up, put some music and go back to bed.
+Then you can spend the rest of the day in bed without having lost you sunday.**"**
+
+<p id="outroduction">That's all folks! A big thank to our guest [Poldoore](https://soundcloud.com/poldoore) and his great morning selection.
+Enjoy your sunday.
+</p>
