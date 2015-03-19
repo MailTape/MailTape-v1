@@ -57,6 +57,6 @@ It has this power to put you in another world, where you can stay all sunday lon
 _Kid Francescoli:_ **"**For sundays where you just have enough energy to get up, put some music and go back to bed.
 Then you can spend the rest of the day in bed without having lost your sunday.**"**
 
-<p id="outroduction">That's all folks! A big thank to our guest [Kid Francescoli](https://www.facebook.com/kidfrancescoli) and his great morning selection. Written by [Siddhartha](https://twitter.com/peacefulending).
+<p id="outroduction">That's all folks! A big thank to our guest [Kid Francescoli](https://www.facebook.com/kidfrancescoli) and his great morning selection. Written by [Siddhartha](http://apeacefulending.tumblr.com/).
 Enjoy your sunday.
 </p>
