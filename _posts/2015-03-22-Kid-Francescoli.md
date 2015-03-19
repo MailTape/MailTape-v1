@@ -32,11 +32,11 @@ guestPic: guestPic178.jpg
 episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
 ---
 
-<p id="introduction">INTRO WIP</p>
+<p id="introduction">This morning, our playlist curated with [Kid Francescoli](https://www.facebook.com/kidfrancescoli) is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin. And subsequently, the second track is where the river determines its course. There comes a point where it slows down and rests as Chet Baker’s “Almost Blow” tunes in. But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli, unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean.</p>
 
-# TITLE About Artist
+# About the Kid...
 
-TEXT ABOUT ARTIST
+Our artist of the week, is a producer and musician from Marseille. He has been widely associated with bringing out some of the best electro-pop into the electronic music scene. Today on Mailtape, here’s your turn to listen to a mysterious hit single called, “blow up”—brought to you by the one and only Kid Francescoli.
 
 
 # Kid Francescoli's morning inspiration
