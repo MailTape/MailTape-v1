@@ -36,7 +36,7 @@ episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
 
 # About the Kid...
 
-Our artist of the week, is a producer and musician from Marseille. He has been widely associated with bringing out some of the best electro-pop into the electronic music scene. Today on Mailtape, here’s your turn to listen to a mysterious hit single called, “blow up”—brought to you by the one and only Kid Francescoli.
+Our artist of the week, is a producer and musician from Marseille. He has been widely associated with bringing out some of the best electro-pop into the electronic music scene. Today on Mailtape, here’s your turn to listen to a mysterious hit single called, “blow up”—brought to you by the one and only Kid Francescoli. Discover his new album ["With Julia"](http://kidfrancescoli.com/).
 
 
 # Kid Francescoli's morning inspiration
