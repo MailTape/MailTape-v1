@@ -35,7 +35,7 @@ musiColor: musiColor178.png
 description: "This morning, our playlist curated with Kid Francescoli is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin. And subsequently, the second track is where the river determines its course. There comes a point where it slows down and rests as Chet Baker’s “Almost Blow” tunes in. But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli, unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean."
 ---
 
-<p id="introduction">This morning, our playlist curated with [Kid Francescoli](https://www.facebook.com/kidfrancescoli) is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin. And subsequently, the second track is where the river determines its course. There comes a point where it slows down and rests as Whitey "Made Of Night" tunes in. But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli, unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean.</p>
+<p id="introduction">This morning, our playlist curated with [Kid Francescoli](https://www.facebook.com/kidfrancescoli) is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin with the second track tuning in to help determine its course. And as soon as Whitey’s Made in the night tunes in, the river changes its course in a very sinister yet playful way.  But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean. </p>
 
 # About the Kid...
 
