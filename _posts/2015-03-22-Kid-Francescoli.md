@@ -53,9 +53,8 @@ _Kid Francescoli:_ **"**It goes perfectly with the well-known sunday melancoly.
 It's very cinematographic and a little groovy, which is all I would like to do with music.
 It has this power to put you in another world, where you can stay all sunday long if you play this loop song on loop.**"**
 
-## Chet Baker - Almost Blue
-_Kid Francescoli:_ **"**For sundays where you just have enough energy to get up, put some music and go back to bed.
-Then you can spend the rest of the day in bed without having lost your sunday.**"**
+## Whitey - Made Of Night
+_Kid Francescoli:_ **"**Whitey singing is as lazy as a sunday can be, when you just have enough energy to get up, put some music and go back to bed. Plus it's the perfect mix between old-school songwriting and modern sound**"**
 
 <p id="outroduction">That's all folks! A big thank to our guest [Kid Francescoli](https://www.facebook.com/kidfrancescoli) and his great morning selection. Written by [Siddhartha](http://apeacefulending.tumblr.com/).
 Enjoy your sunday.
