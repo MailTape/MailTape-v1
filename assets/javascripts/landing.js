@@ -261,11 +261,11 @@ $(document).ready(
 	    		$('#underBigIntro').fadeOut('fast',function(){
 			    	$(this).html("Check your inbox now, we've just sent you a confirmation email.").fadeIn('fast');
 			    	_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Submitted info on landing']);
-			    	mixpanel.track("HP > Subscription 1 > Step 2",
+			    	try{mixpanel.track("HP > Subscription 1 > Step 2",
     					{ "Subscription Position": "1",
       					  "Step": "2"
       					}
-      				);
+      				);} catch(e) {}
 				});
 		    }
 		}

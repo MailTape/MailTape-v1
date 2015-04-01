@@ -257,7 +257,7 @@ $(document).ready(
 		        $('#mc-form').fadeOut('fast', function() {
 		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
 		        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Submitted info']);
-		        	mixpanel.track("EP > Top Bar Subscription > Step 2, Subscribed");
+		        	try {mixpanel.track("EP > Top Bar Subscription > Step 2, Subscribed");} catch(e) {}
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
@@ -281,12 +281,12 @@ $(document).ready(
 		        		$('#mc-sidebar h1').html("You're beautiful !");
 		        		$('#mc-sidebar h2').html(prenom+" will receive a confirmation email, be sure to let your dear friend know it's coming from you !");
 		        		_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed a friend']);
-		        		mixpanel.track("EP > Sidebar Friends Subscription > Subscribed a friend");
+		        		try{mixpanel.track("EP > Sidebar Friends Subscription > Subscribed a friend");} catch(e) {}
 		        	} else {
 			        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
 			        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
 			        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed from Sidebar']);
-			        	mixpanel.track("EP > Sidebar Subscription > Subscribed from sidebar");
+			        	try {mixpanel.track("EP > Sidebar Subscription > Subscribed from sidebar");} catch(e) {};
 			        }
 		        });
 		         setTimeout(function() {
