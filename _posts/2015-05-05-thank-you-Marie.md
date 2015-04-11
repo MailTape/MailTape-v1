@@ -54,7 +54,7 @@ _Siddhartha:_ **"**This is one of those songs that you instantly get hooked to. 
 ## The Petch Phin Thong Band – Soul Lam Plearn
 _Julien:_ **"**Listening to this song remember me my morning' feelings in Thaïland where I spent a year. It beautifully captures feelings I had overthere: a certain rythm, unknown tones, smells and tastes, and something slightly joyful.
 Note that this song only works very well on a sunny and 30°C morning !
-This song appear on a compilation 'The Sound of Siam' made by the music label Soundway Record, I recommend you to check it, they do really cool stuff.**"**
+This song appear on a compilation 'The Sound of Siam' made by the music label Soundway Record, I recommend you to check it, they do really cool stuff. Thanks a lot for the contribution Marie !**"**
 
 ## Groves - Send High
 _Dimitri:_ **"**In essence, Mailtape means discoveries and surprises. And this is also my greatest passion. This is why I do not have only one favorite song for my Sunday morning because each week i discorver an artist that comes out of nowhere with a track that can claim the glorious title of Sunday Morning Song. Send High by london's band Groves is the perfect example. Unknown yesterday, today they light my Sunday morning.**"**
