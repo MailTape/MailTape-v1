@@ -27,7 +27,7 @@ track6_title: The Petch Phin Thong Band – Soul Lam Plearn
 track6_link: "https://soundcloud.com/soundway-records/the-petch-phin-thong-band-soul-lam-plearn"
 track7_title: "Groves - Send High"
 track7_link: "https://soundcloud.com/grovesuk/send-high-1"
-episode_URL: "http://mailta.pe/2015-05-05-thank-you-Marie/"
+episode_URL: "http://mailta.pe/2015/thank-you-Marie/"
 ---
 
 <p id="introduction">This morning,  </p>
