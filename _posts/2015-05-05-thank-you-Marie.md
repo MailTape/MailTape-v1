@@ -28,6 +28,7 @@ track6_link: "https://soundcloud.com/soundway-records/the-petch-phin-thong-band-
 track7_title: "Groves - Send High"
 track7_link: "https://soundcloud.com/grovesuk/send-high-1"
 episode_URL: "http://mailta.pe/2015/thank-you-Marie/"
+category: "2015"
 ---
 
 <p id="introduction">This morning,  </p>
