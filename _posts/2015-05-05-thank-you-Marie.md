@@ -29,6 +29,7 @@ track7_title: "Groves - Send High"
 track7_link: "https://soundcloud.com/grovesuk/send-high-1"
 episode_URL: "http://mailta.pe/2015/thank-you-Marie/"
 category: "2015"
+guestPic: guestPic2015.jpg
 ---
 
 <p id="introduction">This morning,  </p>
