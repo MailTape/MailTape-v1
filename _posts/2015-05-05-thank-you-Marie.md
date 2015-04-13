@@ -62,4 +62,5 @@ This song appear on a compilation 'The Sound of Siam' made by the music label So
 _Dimitri:_ **"**In essence, Mailtape means discoveries and surprises. And this is also my greatest passion. This is why I do not have only one favorite song for my Sunday morning because each week i discorver an artist that comes out of nowhere with a track that can claim the glorious title of Sunday Morning Song. Send High by london's band Groves is the perfect example. Unknown yesterday, today they light my Sunday morning.**"**
 
 <p id="outroduction">
+The picture is a Collage sent by another fan, Mayra, from Peru !
 That’s all Marie! </p>
