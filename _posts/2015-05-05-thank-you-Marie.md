@@ -32,7 +32,7 @@ category: "2015"
 guestPic: guestPic2015.jpg
 ---
 
-<p id="introduction">Hey Marie, this morning, please accept this very special MailTape we've curated to tell you how grateful we are about your donation. It means a lot to us. MailTape has remained an independant project for more that three years now and people like you are our reason to continue to do this. We trully appreciated your gesture and wanted to say "thank you" in a special way. This is why each member of the team has curated and commented a song. Hope you'll enjoy! This MailTape is your, so please do whatever you want with it. MailTapeCrew.</p>
+<p id="introduction">Hey Marie, this morning, please accept this very special MailTape we've curated to tell you how grateful we are about your donation. It means a lot to us. MailTape has remained an independant project for more than three years now and people like you are our reason to continue to do this. We trully appreciated your gesture and wanted to say "thank you" in a special way. This is why each member of the team has curated and commented a song. Hope you'll enjoy! This MailTape is your, so please do whatever you want with it. MailTapeCrew.</p>
 
 # MailTape Crew Inspiration
 
