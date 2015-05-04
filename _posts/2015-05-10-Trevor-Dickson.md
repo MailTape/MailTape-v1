@@ -1,8 +1,8 @@
 ---
 layout: episode
 published: false
-author: Dimitri
-guest_color: rough
+author: Maxime
+guest_color: dreamy
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: rough
@@ -12,6 +12,14 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: rough
+category: "185"
+guest_name: Trevor Dickson
+track1_link: "https://soundcloud.com/markdanielmiller/pete-drake-and-his-talking-steel-guitar-forever"
+track3_link: "https://soundcloud.com/lemilyanne/yesu-ka-mkwebaze-novicat-de"
+track4_link: "https://soundcloud.com/trevordickson/powers"
+track5_link: "https://soundcloud.com/sofrito/ibo-combo-mateau"
+track6_link: "https://soundcloud.com/vendredimusic/birdy-outcome-mstrd"
+track7_link: "https://soundcloud.com/bissap/el-rego-hessa"
 ---
 
 ## xxx
