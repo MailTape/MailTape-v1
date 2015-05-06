@@ -28,16 +28,19 @@ track4_title: "Trevor Dickson - Power"
 track5_title: "Fool's Gold - Another Sun"
 track6_title: "Vendredi - Adonis"
 track7_title: "Ibo Combo - Mateau"
+episode_URL: "http://mailta.pe/185/Trevor-Dickson"
 ---
 
 <p id="introduction">This morning, enjoy the musical universe of a charming modern crooner. "Passion Fruit", like a bottle/album in the sea, has been launch last year by the Great Trevor Dickson. Since this date, I respond to his musical happiness. I'm completely submerged by all his tiny ballads. Each one make my travel. All this exotics percussion mixed with his crooner voice, sound to me as a fresh summer cocktail. I can't pass besides this album, I came back to it every time. Prepare to have to respond to his sweet call you too. </p>
  
 # This charming character
- 
+
+
 At first, I fall down to his wonderful clip for "Power". Where he has created a charming character, a naive east cost dandy, who fall in love to a wonderful blond who walk on brooklyn' s beach. That kind of guy who can speak hours about traditional pacific chorals or futuristic musical instruments of the 50s. His poetry is as sweet as his references. I hope Trevor'll launched an other bottle/album across the atlantic, to respond to him again. 
  
 # His sweet sunday morning's selection
- 
+
+
 ## Pete Drake and his talking steel guitar - Forever
 _Trevor:_ **"**Nothing sets a magical mood like the album "Pete Drake and His Singing Steel Guitar". For decades Pete was a famous session musician with his masterful pedal steel guitar playing, and even produced records, but on this album he breathed new and eerie life into popular hits of the 1960's by playing his pedal steel guitar through a talk box. It sounds like a novelty act, but the record stands out in my collection as one of the most strange and original from that time in pop music. **"**
  
