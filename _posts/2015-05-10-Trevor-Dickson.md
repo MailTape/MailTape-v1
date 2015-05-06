@@ -17,9 +17,10 @@ guest_name: Trevor Dickson
 track1_link: "https://soundcloud.com/markdanielmiller/pete-drake-and-his-talking-steel-guitar-forever"
 track3_link: "https://soundcloud.com/lemilyanne/yesu-ka-mkwebaze-novicat-de"
 track4_link: "https://soundcloud.com/trevordickson/powers"
-track5_link: "https://soundcloud.com/sofrito/ibo-combo-mateau"
+track5_link: "https://soundcloud.com/orgmusic-1/fools-gold-another-sun"
 track6_link: "https://soundcloud.com/vendredimusic/birdy-outcome-mstrd"
-track7_link: "https://soundcloud.com/bissap/el-rego-hessa"
+track7_link: "https://soundcloud.com/sofrito/ibo-combo-mateau"
+track2_link: "https://soundcloud.com/pisextra/billie-holiday-gloomy-sunday"
 ---
 
 <p id="introduction">This morning, enjoy the musical universe of a charming modern crooner. His first album "Passion Fruit", like a bottle in the sea, has been launch last year by the Great Trevor Dickson. Since this date, i respond to his musical happiness. I'm completely submerged by all his tiny ballads. Each one make my travel around the world. All this exotics percussion mixed with his crooner voice, sound to me as a fresh summer cocktail. I can't pass besides this album, I came back to it every time. Prepare to have to respond to his sweet call too. </p>
