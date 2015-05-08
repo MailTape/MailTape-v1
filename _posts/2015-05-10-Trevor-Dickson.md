@@ -38,7 +38,6 @@ musiColor: musiColor185.png
  
 # This charming character
 
-
 At first, I fall down to his wonderful clip for "Power". Where he has created a charming character, a naive east cost dandy, who fall in love to a wonderful blond who walk on brooklyn' s beach. That kind of guy who can speak hours about traditional pacific chorals or futuristic musical instruments of the 50s. His poetry is as sweet as his references. I hope Trevor'll launched an other bottle/album across the atlantic, to respond to him again. 
  
 # His sweet sunday morning's selection
