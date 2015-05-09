@@ -35,11 +35,11 @@ musiColor: musiColor185.png
 description: "This morning, enjoy the musical universe of a charming modern crooner. All this exotics percussions mixed with his crooner voice, sound to me as a fresh summer cocktail."
 ---
 
-<p id="introduction">This morning, enjoy the musical universe of a charming modern crooner. "Passion Fruit", like a bottle/album in the sea, has been launch last year by the Great Trevor Dickson. Since this date, I respond to his musical happiness. I'm completely submerged by all his tiny ballads. Each one make my travel. All this exotics percussion mixed with his crooner voice, sound to me as a refreshing summer cocktail. Sipped on a paradise island. I can't pass besides this album, I came back to it every time. Prepare to have to respond to his sweet call you too. </p>
+<p id="introduction">This morning, step into the musical universe of a crooner called, Trevor Dickson. His debut album "Passion Fruit", was launched last year in November. His swooning lyrical ballads, when expressed in his crooning voice, give you a sense of journeying around the world. Whereas, the sounds produced by his percussions show off the best flavors of summer like a fresh exotic cocktail.</p>
  
 # This charming character
 
-At first, I fall down to his wonderful clip for "Power". Where he has created a charming character, a naive east cost dandy, who fall in love to a wonderful blond who walk on brooklyn' s beach. That kind of guy who can speak hours about traditional pacific chorals or futuristic musical instruments of the 50s. His poetry is as sweet as his references. I hope Trevor'll launched an other bottle/album across the atlantic, to respond to him again. 
+Watching the wonderful video of the song, ["Powers"](https://vimeo.com/112319346) without taking an immediate liking to it is simply inevitable. A song about a naive east coast dandy, who tries to approach a wonderful blonde. "The kind of guy who can speak for hours about traditional pacific chorals and futuristic musical instruments of the 50s." With that said, we hope to hear more from him and that he continues to sway us with his distinctive crooning voice. 
  
 # His sweet sunday morning's selection
 
