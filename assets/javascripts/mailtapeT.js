@@ -1,6 +1,7 @@
 $(document).ready(
 	function() {
 
+<<<<<<< HEAD
 	// $("#bigTitle").fitText(0.6);
 	$("#underBigTitle").fitTextV(2.5);
 	$(".stretchMe").anystretch();
@@ -27,21 +28,113 @@ $(document).ready(
 	});
 
 	$(".musicolorLabel").lettering();
+=======
+
+		// $("#bigTitle").fitText(0.6);
+		$("#underBigTitle").fitTextV(2.5);
+		$(".stretchMe").anystretch();
+
+		// permet de faire pointer tous les liens dans un nouvel onglet
+		//$('a').attr('target','_blank');
+		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
+
+		$('#playButton').flowtype({
+		 minimum   : 679,
+		 maximum   : 1110,
+		 minFont   : 40,
+		 maxFont   : 250,
+		 fontRatio : 4, // A modifier au cas par cas ! -- Règle la largeur du titre
+		 lineRatio : 0.7 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+		});
+
+		 $('body').flowtype({
+		 minimum   : 500,
+		 maximum   : 1110,
+		 minFont   : 12,
+		 maxFont   : 28,
+		 fontRatio : 65, // A modifier au cas par cas ! -- Règle la largeur du titre
+		 lineRatio : 1.8 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+		});
+
+		$(".musicolorLabel").lettering();
+		var isPlaying=false;
+
+    	function playTape () {
+    		if (!isPlaying) {
+	    		isPlaying=true;
+	    		$("#playButton").fadeOut("slow");
+	    		$("#player").removeClass("notPlaying");	    				
+	    		$("#player").addClass("isPlaying");
+				$("html, body").animate({
+					scrollTop: $('#player').offset().top+1
+					//scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
+				}, 1000);
+			}
+    	}
+>>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
 
 		//cas où l'user clique directement sur l'une des track au lieu du gros play
 		$(".playlist").click(function() {
-			$("#playButton").fadeOut("slow");
+			playTape();
 		});
 
 
 		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
 		$("#playButton").click(function() {
-			if ($(window).height() + $(document).scrollTop() <= $('#player').offset().top + $("#player").height() * 9) {
-				$("html, body").animate({
-					scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
-				}, 1000);
-			}
+			playTape();
 		});
+    	
+
+
+		// fixage en haut du player lorsqu'on dépasse son niveau au scroll
+		// TODO check au début si déjà à un niveau où le player devrait être collé en haut
+		// TODO check état player. si c'est en train de play quid si: - on fait pause OU - on joue une autre track
+
+	    didScroll = false;
+	    var navHeight = $('#player').offset().top+1;
+	    $(window).scroll(function() {
+	    	if (isPlaying) {
+		        didScroll = true;
+		        // console.log("hauteur du player: "+$('#player').innerHeight());
+		        // console.log("position du player depuis le top :"+($('#player').offset().top));
+		    }
+	    });
+	     
+	    setInterval(function() {
+	        if ( didScroll ) {
+	            didScroll = false;
+	            
+	            if ($(document).scrollTop() >= navHeight) {
+		            $('#player').addClass("navbar-fixed-top");
+		            $('body').css("padding-top",$('#player').innerHeight());
+		        } else {
+		        	$('body').css("padding-top","");
+		            $('#player').removeClass("navbar-fixed-top");
+		        }
+	        }
+	    }, 10);
+
+		// $(window).bind('scroll', function() {
+		// 		if ($(window).scrollTop() > navHeight) {
+		// 			$('#player').addClass('navbar-fixed-top');
+		// 			alert('fix mofo!');
+		// 		}
+		// 		else {
+		// 			$('#player').removeClass('navbar-fixed-top');
+		// 		}
+		// });
+
+
+
+	    // $(window).scroll(function () {
+	    //     if ($(document).scrollTop() > $('#player').offset().top) {
+	    //         $('#player').addClass("navbar-fixed-top");
+	    //     } else {
+	    //         $('#player').removeClass("navbar-fixed-top");
+	    //     }
+	    // });
+
+		
 
 		/* Teaser image swap function */
 	    $("#logoLink").hover(function () {
@@ -193,7 +286,7 @@ $(document).ready(
 		        $('#mc-form').fadeOut('fast', function() {
 		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
 		        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Submitted info']);
-		        	mixpanel.track("EP > Top Bar Subscription > Step 2, Subscribed");
+		        	try {mixpanel.track("EP > Top Bar Subscription > Step 2, Subscribed");} catch(e) {}
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
@@ -217,12 +310,12 @@ $(document).ready(
 		        		$('#mc-sidebar h1').html("You're beautiful !");
 		        		$('#mc-sidebar h2').html(prenom+" will receive a confirmation email, be sure to let your dear friend know it's coming from you !");
 		        		_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed a friend']);
-		        		mixpanel.track("EP > Sidebar Friends Subscription > Subscribed a friend");
+		        		try{mixpanel.track("EP > Sidebar Friends Subscription > Subscribed a friend");} catch(e) {}
 		        	} else {
 			        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
 			        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
 			        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Subscribed from Sidebar']);
-			        	mixpanel.track("EP > Sidebar Subscription > Subscribed from sidebar");
+			        	try {mixpanel.track("EP > Sidebar Subscription > Subscribed from sidebar");} catch(e) {};
 			        }
 		        });
 		         setTimeout(function() {

@@ -3,9 +3,31 @@
 $(document).ready(
 	function() {
 
+		//FROSMO DETECTE CHANGEMENT BOUTON RELANCE
+		var countInitRelance = 0;
+
+		function superInitRelance() {
+			if ($('.frosmo_inline').length) {
+			    console.log("[FROSMO] Modif boutons de relance effectuée");
+
+			   	$('.relanceButton').click(function() {
+		    	$(this).fadeOut();
+		    	$('#subscribeButton').click();
+
+	    })
+			} else if (countInitRelance < 100) {
+				console.log("[FROSMO] Boutons de relance pas modifié pr le moment");
+			    countInitRelance++;
+				window.setTimeout(superInitRelance, 100);
+			}
+		}
+
+		// Premier lancement
+		window.setTimeout(superInitRelance, 100);
+
 		$(".stretchMe").anystretch();
 
-		// [FROMO] timer pour détecter si new background
+		// [FROSMO] timer pour détecter si new background
 		var countInit=0;
 		function frosmoBGInit() {
 			if ($('#FROSMOchangeBg').length) {
@@ -97,6 +119,7 @@ $(document).ready(
         fontRatio : 37 , // A modifier au cas par cas ! -- Règle la largeur du titre
         lineRatio : 1.5 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
         });
+
 
 
 
@@ -238,11 +261,11 @@ $(document).ready(
 	    		$('#underBigIntro').fadeOut('fast',function(){
 			    	$(this).html("Check your inbox now, we've just sent you a confirmation email.").fadeIn('fast');
 			    	_gaq.push(['_trackEvent', 'CTA Landing', 'Subscribe', 'Submitted info on landing']);
-			    	mixpanel.track("HP > Subscription 1 > Step 2",
+			    	try{mixpanel.track("HP > Subscription 1 > Step 2",
     					{ "Subscription Position": "1",
       					  "Step": "2"
       					}
-      				);
+      				);} catch(e) {}
 				});
 		    }
 		}

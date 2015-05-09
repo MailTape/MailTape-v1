@@ -16,10 +16,8 @@
     <h2 id="underBigTitle">SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>
 </div>
 
-<div class="container main">
-
-    <div class="col-md-12" id="player">
-
+<div id="player" class="notPlaying">
+    <div class="container">
         <ul class="playlist">
             <li id="firstTrack" class="track1 {{ page.track1_color }}">
                 <h1 class="tractTitle" id="track1_title_player">track1</h1>
@@ -65,8 +63,12 @@
             </li>
             <img src="/img/repeat.png" id="autoLoop">
         </ul>
-
     </div>
+</div>
+
+
+<div id="main-content" class="container main">
+
 
     <div class="row">
 
