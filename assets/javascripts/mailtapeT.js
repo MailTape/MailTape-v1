@@ -2,6 +2,7 @@ $(document).ready(
 	function() {
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 	// $("#bigTitle").fitText(0.6);
 	$("#underBigTitle").fitTextV(2.5);
 	$(".stretchMe").anystretch();
@@ -29,6 +30,8 @@ $(document).ready(
 
 	$(".musicolorLabel").lettering();
 =======
+=======
+>>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
 
 		// $("#bigTitle").fitText(0.6);
 		$("#underBigTitle").fitTextV(2.5);
@@ -71,6 +74,9 @@ $(document).ready(
 				}, 1000);
 			}
     	}
+<<<<<<< HEAD
+>>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
+=======
 >>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
 
 		//cas où l'user clique directement sur l'une des track au lieu du gros play

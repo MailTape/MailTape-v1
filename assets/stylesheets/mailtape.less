@@ -801,6 +801,7 @@ a {
 	}
 
     background: rgba(255,255,255,0.95);
+<<<<<<< HEAD
 
     .transition(all);
 
@@ -827,6 +828,34 @@ a {
 		}
     }
 
+=======
+
+    .transition(all);
+
+    &.isPlaying {
+    	@media only screen and (min-width: 0px) and (max-width: 767px) {
+			padding: 2.5em 0px 0.5em;
+		}
+
+		@media only screen and (min-width: 768px) {
+			padding: 4em 0px 0.5em;
+		}
+		li {
+			opacity: 0.5;
+			&:hover {
+				opacity: 1;
+			}
+			&.sm2_playing {
+				opacity: 1;
+			}
+
+			&.sm2_paused {
+				opacity: 1;
+			}
+		}
+    }
+
+>>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
     &.notPlaying {
     	h1 {top:0.5em;}
     }

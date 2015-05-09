@@ -804,6 +804,7 @@ a:hover {
 @media only screen and (min-width: 768px) {
   #player {
     padding: 1em 0px 0.5em;
+<<<<<<< HEAD
   }
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
@@ -816,6 +817,20 @@ a:hover {
     padding: 4em 0px 0.5em;
   }
 }
+=======
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  #player.isPlaying {
+    padding: 2.5em 0px 0.5em;
+  }
+}
+@media only screen and (min-width: 768px) {
+  #player.isPlaying {
+    padding: 4em 0px 0.5em;
+  }
+}
+>>>>>>> ce67f99091bedb3b80f1f7b7620c88de01343779
 #player.isPlaying li {
   opacity: 0.5;
 }
