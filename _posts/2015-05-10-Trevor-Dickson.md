@@ -39,7 +39,7 @@ description: "This morning, enjoy the musical universe of a charming modern croo
  
 # This charming character
 
-Watching the wonderful video of the song, ["Powers"](https://vimeo.com/112319346) without taking an immediate liking to it is simply inevitable. A song about a naive east coast dandy, who tries to approach a wonderful blonde. "The kind of guy who can speak for hours about traditional pacific chorals and futuristic musical instruments of the 50s." With that said, we hope to hear more from him and that he continues to sway us with his distinctive crooning voice. 
+Watching the wonderful video of the song, ["Powers"](https://vimeo.com/112319346) without taking an immediate liking to it is simply inevitable. A song about a naive east coast dandy, who tries to approach a wonderful blonde. The kind of character who can speak for hours about traditional pacific chorals and futuristic musical instruments of the 50s. With that said, we hope to hear more from him and that he continues to sway us with his distinctive crooning voice. 
  
 # His sweet sunday morning's selection
 
