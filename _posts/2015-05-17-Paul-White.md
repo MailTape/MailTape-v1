@@ -17,6 +17,9 @@ track2_link: "https://soundcloud.com/tobymusic/bob-marley-three-little-birds-hd-
 track3_link: "https://soundcloud.com/other-voices-web/tame-impala-be-above-it"
 category: "186"
 guest_name: Paul White
+track1_title: "Georgia Anne Muldrow - Run Away"
+track2_title: "Bob Marley - Three Little Birds"
+track3_title: "Tame Impala - Be Above It"
 ---
 
 ## A New Post
