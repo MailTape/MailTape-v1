@@ -22,6 +22,23 @@ track2_title: "Bob Marley - Three Little Birds"
 track3_title: "Tame Impala - Be Above It"
 ---
 
-## A New Post
+<p id="introduction">This morning, step into the intro of [Paul White](https://www.facebook.com/PaulWhiteMusic)</p>
+ 
+# Paragraph title
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+second paragraph :)
+
+# His sweet sunday morning's selection
+
+## Georgia Anne Muldrow - Run Away
+_Paul White:_ **"**You cant get much more of a beautiful wake up than this, inspiring message to set you on your day and your dreams!**"**
+ 
+## Bob Marley - Three Little Birds
+_Paul White:_ **"**Another beauty to wake up to, reminding you to listen to the sweet sounds of nature around you, and to not worry about a thing!**"**
+ 
+## ame Impala - Be Above It
+_Paul White:_ **"**This would be my Rocky motivation song, just to give you that extra fire in the morning to go out there and get it!**"**
+ 
+<p id="outroduction">
+That’s all folks! A big thank to Paul White! 
+</p>
