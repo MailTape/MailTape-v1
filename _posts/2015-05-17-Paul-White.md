@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: true
-author: Dimitri
+author: ImaCrea
 guest_color: rough
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
@@ -15,6 +15,8 @@ track7_color: rough
 track1_link: "https://soundcloud.com/themediawerm/georgia-anne-muldrow-run-away"
 track2_link: "https://soundcloud.com/tobymusic/bob-marley-three-little-birds-hd-original"
 track3_link: "https://soundcloud.com/other-voices-web/tame-impala-be-above-it"
+category: "186"
+guest_name: Paul White
 ---
 
 ## A New Post
