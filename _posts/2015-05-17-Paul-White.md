@@ -32,11 +32,12 @@ track7_title: "µ-Ziq - XT"
 
 
 
-<p id="introduction">This morning, step into the intro of [Paul White](https://www.facebook.com/PaulWhiteMusic)</p>
- 
-# Paragraph title
 
-second paragraph :)
+<p id="introduction">This morning, enjoy a selection filled with great positive vibes. [Paul White](https://www.facebook.com/PaulWhiteMusic) inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around.</p>
+ 
+# Let yourself go
+
+Listening to Paul White’s new album is like flying on a magic carpet, it’s a trip. As I listen to his album and my mind get into a state of flow, exploring the infinity of the universe, it becomes natural to understand we’re all connected. His music will lead you to what you’re truly looking for in your life, filling that way your mind with soulful inspiration. 
 
 # His sweet sunday morning's selection
 
