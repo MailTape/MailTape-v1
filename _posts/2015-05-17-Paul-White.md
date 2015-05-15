@@ -37,7 +37,7 @@ track7_title: "µ-Ziq - XT"
  
 # Let yourself go
 
-Listening to Paul White’s new album is like flying on a magic carpet, it’s a trip. As I listen to his album, my mind gets into a state of flow. Exploring the infinity of the universe, it becomes natural to understand we’re all connected. His music will lead you to what you’re truly looking for in your life, filling that way your mind with soulful inspiration. 
+Listening to Paul White’s new album is like flying on a magic carpet, it’s a trip. As I listen to his [album](https://paulwhite.bandcamp.com/), my mind gets into a state of flow. Exploring the infinity of the universe, it becomes natural to understand we’re all connected. His music will lead you to what you’re truly looking for in your life, filling that way your mind with soulful inspiration. 
 
 # His sweet sunday morning's selection
 
@@ -51,5 +51,5 @@ _Paul White:_ **"**Another beauty to wake up to, reminding you to listen to the 
 _Paul White:_ **"**This would be my Rocky motivation song, just to give you that extra fire in the morning to go out there and get it!**"**
  
 <p id="outroduction">
-That’s all folks! A big thank to Paul White! 
+That’s all folks! Hope you enjoyed, have a great Sunday and a big thank to Paul White! And check his album, [Shaker Notes](https://paulwhite.bandcamp.com/).
 </p>
