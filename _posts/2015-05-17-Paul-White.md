@@ -37,7 +37,7 @@ track7_title: "µ-Ziq - XT"
  
 # Let yourself go
 
-Listening to Paul White’s new album is like flying on a magic carpet, it’s a trip. As I listen to his album and my mind get into a state of flow, exploring the infinity of the universe, it becomes natural to understand we’re all connected. His music will lead you to what you’re truly looking for in your life, filling that way your mind with soulful inspiration. 
+Listening to Paul White’s new album is like flying on a magic carpet, it’s a trip. As I listen to his album, my mind gets into a state of flow. Exploring the infinity of the universe, it becomes natural to understand we’re all connected. His music will lead you to what you’re truly looking for in your life, filling that way your mind with soulful inspiration. 
 
 # His sweet sunday morning's selection
 
