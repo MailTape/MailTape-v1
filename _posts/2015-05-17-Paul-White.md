@@ -25,7 +25,7 @@ track5_link: "https://soundcloud.com/platform/eska-heroes-villains-boiler-room-d
 track6_link: "https://soundcloud.com/funkyman62/james-clarke-mystery-movement"
 track7_link: "https://soundcloud.com/orangepeel-ch/xt-1"
 track4_title: "Paul White - Running On A Rainy Day"
-track5_title: "ESKA - Shades Of Blue"
+track5_title: "ESKA - Heroes & Villains"
 track6_title: "James Clarke - Mystery Movement"
 track7_title: "µ-Ziq - XT"
 ---
