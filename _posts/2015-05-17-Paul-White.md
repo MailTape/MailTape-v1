@@ -4,7 +4,7 @@ published: true
 author: ImaCrea
 guest_color: dreamy
 bigTitle_font_ratio: "5"
-bigTitle_line_ratio: "0.8"
+bigTitle_line_ratio: "0.6"
 track1_color: dreamy
 track2_color: vibrant
 track3_color: rough
@@ -49,7 +49,8 @@ _Paul White:_ **"**You cant get much more of a beautiful wake up than this, insp
 ## Bob Marley - Three Little Birds
 _Paul White:_ **"**Another beauty to wake up to, reminding you to listen to the sweet sounds of nature around you, and to not worry about a thing!**"**
  
-## Tame Impala - Be Above It
+## T![guestPic186.jpg]({{site.baseurl}}/img/guestPic186.jpg)
+ame Impala - Be Above It
 _Paul White:_ **"**This would be my Rocky motivation song, just to give you that extra fire in the morning to go out there and get it!**"**
  
 <p id="outroduction">
