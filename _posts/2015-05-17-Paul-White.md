@@ -2,9 +2,9 @@
 layout: episode
 published: true
 author: ImaCrea
-guest_color: rough
-bigTitle_font_ratio: "6"
-bigTitle_line_ratio: "1"
+guest_color: dreamy
+bigTitle_font_ratio: "5"
+bigTitle_line_ratio: "0.8"
 track1_color: dreamy
 track2_color: vibrant
 track3_color: rough
@@ -28,7 +28,9 @@ track4_title: "Paul White - Running On A Rainy Day (Seagull Mansion live)"
 track5_title: "ESKA - Heroes & Villains"
 track6_title: "James Clarke - Mystery Movement"
 track7_title: "µ-Ziq - XT"
+guestPic: guestPic186.jpg
 ---
+
 
 
 
@@ -47,7 +49,7 @@ _Paul White:_ **"**You cant get much more of a beautiful wake up than this, insp
 ## Bob Marley - Three Little Birds
 _Paul White:_ **"**Another beauty to wake up to, reminding you to listen to the sweet sounds of nature around you, and to not worry about a thing!**"**
  
-## ame Impala - Be Above It
+## Tame Impala - Be Above It
 _Paul White:_ **"**This would be my Rocky motivation song, just to give you that extra fire in the morning to go out there and get it!**"**
  
 <p id="outroduction">
