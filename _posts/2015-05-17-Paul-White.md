@@ -29,9 +29,14 @@ track5_title: "ESKA - Heroes & Villains"
 track6_title: "James Clarke - Mystery Movement"
 track7_title: "µ-Ziq - XT"
 guestPic: guestPic186.jpg
+episode_URL: "http://mailta.pe/186/Paul-White/"
+fbPic: fbPic186.jpg
+musiColor: musiColor186.png
+description: "This morning, enjoy a selection filled with great positive vibes. Paul White inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around."
 ---
 
-<p id="introduction">This morning, enjoy a selection filled with great positive vibes. [Paul White](https://www.facebook.com/PaulWhiteMusic) inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around.</p>
+<p id="introduction">![fbPic186.jpg]({{site.baseurl}}/img/fbPic186.jpg)
+</p>
  
 # Let yourself go
 
