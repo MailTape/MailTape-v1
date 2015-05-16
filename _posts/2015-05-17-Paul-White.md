@@ -31,10 +31,6 @@ track7_title: "µ-Ziq - XT"
 guestPic: guestPic186.jpg
 ---
 
-
-
-
-
 <p id="introduction">This morning, enjoy a selection filled with great positive vibes. [Paul White](https://www.facebook.com/PaulWhiteMusic) inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around.</p>
  
 # Let yourself go
@@ -49,8 +45,7 @@ _Paul White:_ **"**You cant get much more of a beautiful wake up than this, insp
 ## Bob Marley - Three Little Birds
 _Paul White:_ **"**Another beauty to wake up to, reminding you to listen to the sweet sounds of nature around you, and to not worry about a thing!**"**
  
-## T![guestPic186.jpg]({{site.baseurl}}/img/guestPic186.jpg)
-ame Impala - Be Above It
+## Tame Impala - Be Above It
 _Paul White:_ **"**This would be my Rocky motivation song, just to give you that extra fire in the morning to go out there and get it!**"**
  
 <p id="outroduction">
