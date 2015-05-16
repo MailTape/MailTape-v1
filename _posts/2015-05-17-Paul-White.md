@@ -35,8 +35,7 @@ musiColor: musiColor186.png
 description: "This morning, enjoy a selection filled with great positive vibes. Paul White inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around."
 ---
 
-<p id="introduction">![fbPic186.jpg]({{site.baseurl}}/img/fbPic186.jpg)
-</p>
+<p id="introduction">This morning, enjoy a selection filled with great positive vibes. [Paul White](https://www.facebook.com/PaulWhiteMusic) inspired us a beautiful and soulful playlist that will warm you up with all you need to go outside enjoy the sun and spread your energy around.</p>
  
 # Let yourself go
 
