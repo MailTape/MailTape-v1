@@ -32,7 +32,7 @@ body {
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		display: inline;
 	}
-} 
+}
 
 
 
@@ -215,7 +215,7 @@ article {
 	text-align: center;
 	.transition(color,0.4s);
 	.transition(background,0.4s);
-	
+
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		padding-top: 100px;
 	}
@@ -238,6 +238,49 @@ article {
 	// &:before {
 	// 	  	content: "\e602";
 	// 	}
+}
+
+#navEpisodes {
+  position: absolute;
+  margin:0 auto;
+  height: 100%;
+  width:100%;
+
+  &.rough {background: fadeout(lighten(@rough, 20%), 50%) ;}
+  &.dreamy {background: fadeout(lighten(@dreamy, 20%), 50%) ;}
+  &.vibrant {background: fadeout(lighten(@vibrant, 20%), 50%) ;}
+  &.bliss {background: fadeout(lighten(@bliss, 20%), 50%) ;}
+  &.trippy {background: fadeout(lighten(@trippy, 20%), 50%) ;}
+
+  font-family: 'icomoon';
+  z-index: 1;
+  color: fadeout(white,10%);
+  text-align: center;
+  .transition(color,0.4s);
+  .transition(background,0.4s);
+
+  @media only screen and (min-width: 0px) and (max-width: 767px) {
+    padding-top: 100px;
+  }
+
+  @media only screen and (min-width: 768px) {
+    padding-top: 200px;
+
+  }
+
+  &:hover {
+    color: white;
+    &.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
+    &.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
+    &.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
+    &.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
+    &.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
+  }
+
+  cursor: pointer;
+  // &:before {
+  //      content: "\e602";
+  //  }
 }
 
 .modal-dialog {
@@ -276,23 +319,23 @@ article {
 }
 
 // petite fonction pour faire ça propre
-.liMusicolor (@index:1,@color:@rough) {
-	&:nth-of-type(@index) {
-		&:before {
-		color: @color;
-		font-family: 'icomoon';
-	  	content: "\e603";	
-		}	
-	}
-}
+// .liMusicolor (@index:1, @color:@rough) {
+// 	&:nth-of-type(@index) {
+// 		&:before {
+// 		  color: @color;
+// 		  font-family: 'icomoon';
+// 	    content: "\e603";
+// 		}
+// 	}
+// }
 
-// petite fonction pour faire ça propre
-.liIngredientColor (@index:1,@color:@rough) {
-	&:nth-of-type(@index) {
-		color: @color;
-		font-family: 'icomoon';	
-	}
-}
+// // petite fonction pour faire ça propre
+// .liIngredientColor (@index:1,@color:@rough) {
+// 	&:nth-of-type(@index) {
+// 		color: @color;
+// 		font-family: 'icomoon';
+// 	}
+// }
 
 .rightSide {
 
@@ -323,8 +366,8 @@ article {
 		font-weight: 300;
 		margin-bottom: 0.2em;
 		margin-top: 2em;
-		
-		&:nth-of-type(1) {	
+
+		&:nth-of-type(1) {
 			margin-top: 2em;
 		}
 	}
@@ -333,20 +376,20 @@ article {
 		font-size: 1em;
 		font-weight: 300;
 		line-height: 1.2em;
-		margin-top: 0;	
-		
-	}	
+		margin-top: 0;
+
+	}
 
 	.musicolorAside {
 
 		li {
 			margin-top: 0.5em;
-			
-			.liMusicolor (1,@rough);
-			.liMusicolor (2,@dreamy);
-			.liMusicolor (3,@vibrant);
-			.liMusicolor (4,@bliss);
-			.liMusicolor (5,@trippy);
+
+			// .liMusicolor (1,@rough);
+			// .liMusicolor (2,@dreamy);
+			// .liMusicolor (3,@vibrant);
+			// .liMusicolor (4,@bliss);
+			// .liMusicolor (5,@trippy);
 
 			i {
 				font-family: 'rooney-web';
@@ -371,7 +414,7 @@ article {
 			font-family: 'rooney-web';
 			font-weight: 300;
 			font-size: 0.9em;
-			
+
 		}
 
 		a {
@@ -399,7 +442,7 @@ article {
 		font-weight: 300;
 		font-size: 0.9em;
 		line-height: 1.7em;
-	}	
+	}
 
 	.rightSided_footer {
 	font-size: 0.7em;
@@ -451,7 +494,7 @@ article {
 		margin: 0.5em 0;
 		.transition;
 		border:none;
-		
+
 		&:hover {
 		color: rgba(237, 237, 237, 1.0000);
 		background: rgba(58, 64, 64, 1.0000);
@@ -497,7 +540,7 @@ article {
 		margin: 0.5em 0;
 		.transition;
 		border:none;
-		
+
 		&:hover {
 		color: rgba(237, 237, 237, 1.0000);
 		background: rgba(58, 64, 64, 1.0000);
@@ -533,8 +576,8 @@ article {
 		.transition;
 		border:none;
 
-		&:focus {outline:none;} 
-		
+		&:focus {outline:none;}
+
 		&:hover {
 		color: rgba(237, 237, 237, 1.0000);
 		background: rgba(58, 64, 64, 1.0000);
@@ -550,7 +593,7 @@ article {
 		margin:0.5em 0;
 		background: none;
 	}
-	
+
 	select {
     padding:0.4em 1.7em 0.4em 0.5em;
     .rounded-corners;
@@ -623,7 +666,7 @@ article {
 // 	}
 
 // 	color: fadeout(@grey,10%);
-	
+
 // 	p {
 // 		text-align: justify;
 // 	}
@@ -634,14 +677,14 @@ article {
 
 // 		&:first-child{
 // 			margin-top: 0px;
-// 		} 
+// 		}
 // 	}
 // }
 
 ul {
-    padding:0; 
-    margin:0; 
-    list-style-type:none; 
+    padding:0;
+    margin:0;
+    list-style-type:none;
 
 }
 
@@ -737,14 +780,14 @@ ul {
 //   }
 
 // .leftSide p {
-	
+
 // 	h1 {
 // 	    font-weight: 600;
 // 	 }
 
 // 	h2 {
 // 	   font-weight: 500;
-//  	 }	
+//  	 }
 
 //   }
 
@@ -783,7 +826,7 @@ a {
 	// 	margin: 3.5em 0px 2em 0px;
 
 	// }
-	
+
 
 // Réglages pour le position fixed
 
@@ -814,7 +857,7 @@ a {
 .playlist {
 	width: 100%;
 	height: 100%;
-  padding-right: 30px; 
+  padding-right: 30px;
 
 	.icon-control {
 	bottom: 0;
@@ -926,7 +969,7 @@ a {
 			background: white;
 			}
 		}
-	} 
+	}
 
 	a{
 
@@ -953,7 +996,7 @@ a {
 
 	.track1 {
 		width: 13.4%;
-	
+
 
 		.controls .position
 		{
@@ -961,7 +1004,7 @@ a {
 			border-bottom-left-radius: 3em;
 		}
 	}
-	
+
 	.track2{
 	width: 13.4%;
 
@@ -1000,25 +1043,25 @@ a {
 	.rough {
 		.controls .position {background: @rough;}
 		a {background: @rough;}
-		h1 {color: @rough;}		
+		h1 {color: @rough;}
 	}
 
 	.dreamy {
 		.controls .position {background: @dreamy;}
 		a {background: @dreamy;}
-		h1 {color: @dreamy;}		
+		h1 {color: @dreamy;}
 	}
 
 	.vibrant {
 		.controls .position {background: @vibrant;}
 		a {background: @vibrant;}
-		h1 {color: @vibrant;}		
+		h1 {color: @vibrant;}
 	}
 
 	.bliss {
 		.controls .position {background: @bliss;}
 		a {background: @bliss;}
-		h1 {color: @bliss;}		
+		h1 {color: @bliss;}
 	}
 
 	.trippy {
