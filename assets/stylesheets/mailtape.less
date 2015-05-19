@@ -201,7 +201,7 @@ article {
 	position: absolute;
 	margin:0 auto;
 	height: 100%;
-	width:100%;
+	width: 100%;
 
 	&.rough {background: fadeout(lighten(@rough, 20%), 50%) ;}
 	&.dreamy {background: fadeout(lighten(@dreamy, 20%), 50%) ;}
@@ -240,47 +240,18 @@ article {
 	// 	}
 }
 
-#navEpisodes {
+#navEpisodes .previous {
   position: absolute;
-  margin:0 auto;
-  height: 100%;
-  width:100%;
+  z-index: 2;
+  top: 50%;
+  right: 10%;
+}
 
-  &.rough {background: fadeout(lighten(@rough, 20%), 50%) ;}
-  &.dreamy {background: fadeout(lighten(@dreamy, 20%), 50%) ;}
-  &.vibrant {background: fadeout(lighten(@vibrant, 20%), 50%) ;}
-  &.bliss {background: fadeout(lighten(@bliss, 20%), 50%) ;}
-  &.trippy {background: fadeout(lighten(@trippy, 20%), 50%) ;}
-
-  font-family: 'icomoon';
-  z-index: 1;
-  color: fadeout(white,10%);
-  text-align: center;
-  .transition(color,0.4s);
-  .transition(background,0.4s);
-
-  @media only screen and (min-width: 0px) and (max-width: 767px) {
-    padding-top: 100px;
-  }
-
-  @media only screen and (min-width: 768px) {
-    padding-top: 200px;
-
-  }
-
-  &:hover {
-    color: white;
-    &.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
-    &.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
-    &.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
-    &.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
-    &.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
-  }
-
-  cursor: pointer;
-  // &:before {
-  //      content: "\e602";
-  //  }
+#navEpisodes .next {
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: 10%;
 }
 
 .modal-dialog {

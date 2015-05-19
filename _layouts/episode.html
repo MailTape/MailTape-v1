@@ -1,14 +1,15 @@
-{% include head.html %} {% include fb_sdk.html %} {% include nav.html %} {% include topbar-subscription.html %} {% include topbar.html %}
+{% include head.html %} {% include fb_sdk.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
 <div id="bigHeader" class="stretchMe" data-stretch="/img/{{ page.guestPic }}">
     <header id="colorFilter" class="{{ page.guest_color }}">
+
         <div id="playButton" class="{{ page.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
 
         <div class="container">
 
             <div id="bigTitle">{{ page.guest_name }}</div>
         </div>
-
+        {% include nav.html %}
     </header>
 </div>
 
@@ -74,9 +75,9 @@
 
             <article>
 
-                {{ content }}    
+                {{ content }}
                 <p style="font-style:italic" id="signature">{{page.author}}.</p>
-                
+
             </article>
 
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
