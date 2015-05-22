@@ -28,6 +28,7 @@ track6_title: "Fouk - Kill Frenzy"
 track7_title: "Pools - Lil Triceratops"
 guest_name: Project Pablo
 category: "188"
+episode_URL: "http://mailta.pe/Project-Pablo/"
 ---
 
 <p id="introduction">This morning, xxx.</p>
