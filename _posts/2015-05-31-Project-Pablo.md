@@ -10,7 +10,7 @@ track2_color: vibrant
 track3_color: dreamy
 track4_color: bliss
 track5_color: dreamy
-track6_color: bliss
+track6_color: rough
 track7_color: bliss
 track1_link: "https://soundcloud.com/kupfer/sad-001-a"
 track2_link: "https://soundcloud.com/fl-rist/marine-drive"
