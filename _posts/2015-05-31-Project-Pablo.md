@@ -39,7 +39,7 @@ guestPic: guestPic188.jpg
 
 xxx
  
-# xxx![guestPic188.jpg]({{site.baseurl}}/img/guestPic188.jpg)
+# xxx!
 
 
 ## xxx
