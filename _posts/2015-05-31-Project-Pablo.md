@@ -1,8 +1,8 @@
 ---
 layout: episode
 published: false
-author: Dimitri
-guest_color: rough
+author: Maxime
+guest_color: bliss
 bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: bliss
@@ -26,6 +26,8 @@ track4_title: "Project Pablo - The Feeling"
 track5_title: "Essence (Wayne Gardiner) - Just a Touch (Jazz Element Mix)"
 track6_title: "Fouk - Kill Frenzy"
 track7_title: "Pools - Lil Triceratops"
+guest_name: Project Pablo
+category: "188"
 ---
 
 <p id="introduction">This morning, xxx.</p>
