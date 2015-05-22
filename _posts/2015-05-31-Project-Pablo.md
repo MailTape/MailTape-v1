@@ -29,6 +29,7 @@ track7_title: "Pools - Lil Triceratops"
 guest_name: Project Pablo
 category: "188"
 episode_URL: "http://mailta.pe/188/Project-Pablo/"
+guestPic: guestPic188.jpg
 ---
 
 
