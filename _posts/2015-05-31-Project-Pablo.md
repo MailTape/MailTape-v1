@@ -33,24 +33,25 @@ guestPic: guestPic188.jpg
 ---
 
 
-<p id="introduction">This morning, xxx.</p>
- 
-# xxx
 
-xxx
+<p id="introduction">This morning, we've got the pleasure to get Project Pablo as a spécial guest for a tribute to the early 90's House ! As an eighties and nineties's house lover, it was a great surprise to discover the first LP of Patrick Holland as Project Pablo. The Canadian producer gathered spirits of Pal Joey, Wayne Gardiner or Franckie Knuckles in a very rich album. </p>
  
-# xxx!
+# Fresh Canadian wind for the House music
+
+Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little sounds where we found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. "I want to Believe" is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
+ 
+# House music's Time travel!
 
 
-## xxx
-_P.P:_ **"**xxx**"**
+## Florian Kupfer ~ SAD 001 A
+_P.P:_ **"**Sade’s smoothness mixed with the blissfully raw feelings of Florian really catch me. Percussion on the brink of being too blown out, and an over simplified yet encapsulating structure make it very fun to play out. A highly recommended 12-inch! **"**
  
-## xxx
-_P.P:_ **"**xxx**"**
+## Florist ~ Marine Drive
+_P.P:_ **"**Vancouver sounds that make me miss home. Laid back grooves drench this tune with the Canadian West Coast feeling. Cheeky vocal murmurs of “Exclusive”, and “DJ”, poke out of the playful breaks and bongos, while major key chords bounce around. An uplifting hitter!**"**
  
-## xxx
-_P.P:_ **"**xxx**"**
+## Infamous Boogieman ~ Revenge Tactics
+_P.P:_ **"**The most recent release on a label I curate, ASL Singles Club. The Infamous Boogieman blends a ripping guitar solo with a bass line and drum combo that makes me weak at the knees! **"**
  
 <p id="outroduction">
-That’s all folks! A big thank to Trevor Dickson The Great! 
+That’s all folks! A big thank to Patrick Holland aka Project Pablo ! 
 </p>
