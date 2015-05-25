@@ -42,7 +42,6 @@ Old schools samples and uncluttered arrangements give a vintage look to his hous
  
 # Listen his selection of classy vibes
 
-
 ## Florian Kupfer ~ SAD 001 A
 _P.P:_ **"**Sade’s smoothness mixed with the blissfully raw feelings of Florian really catch me. Percussion on the brink of being too blown out, and an over simplified yet encapsulating structure make it very fun to play out. A highly recommended 12-inch! **"**
  
