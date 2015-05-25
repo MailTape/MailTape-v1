@@ -22,10 +22,10 @@ track7_link: "https://soundcloud.com/razor-n-tape/pools-lil-triceratops"
 track1_title: Florian Kupfer ~ SAD 001 A
 track2_title: Florist ~ Marine Drive
 track3_title: Infamous Boogieman ~ Revenge Tactics
-track4_title: "Project Pablo - The Feeling"
-track5_title: "Essence (Wayne Gardiner) - Just a Touch (Jazz Element Mix)"
-track6_title: "Fouk - Kill Frenzy"
-track7_title: "Pools - Lil Triceratops"
+track4_title: Project Pablo ~ The Feeling
+track5_title: Essence (Wayne Gardiner) ~ Just a Touch (Jazz Element Mix)
+track6_title: Fouk ~ Kill Frenzy
+track7_title: Pools ~ Lil Triceratops
 guest_name: Project Pablo
 category: "188"
 episode_URL: "http://mailta.pe/188/Project-Pablo/"
@@ -38,7 +38,7 @@ guestPic: guestPic188.jpg
  
 # Fresh Canadian wind for the House music
 
-Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little sounds we can found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. "I Want to Believe" is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
+Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little sounds we can found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. ["I Want to Believe"](https://soundcloud.com/projectpablo/sets/i-want-to-believe) is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
  
 # Listen his selection of classy vibes
 
