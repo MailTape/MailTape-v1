@@ -444,38 +444,39 @@ article p {
   z-index: 2;
   top: 50%;
   right: 10%;
+  font-family: 'icomoon';
 }
-/* line 250, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003250}}
+/* line 251, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003251}}
 #navEpisodes .next {
   position: absolute;
   z-index: 2;
   top: 50%;
   left: 10%;
 }
-/* line 257, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003257}}
+/* line 258, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003258}}
 .modal-dialog {
   text-align: left;
 }
-/* line 262, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003262}}
+/* line 263, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003263}}
 #introduction {
   margin-top: 0px;
   font-size: 1.3em;
   line-height: 1.3em;
   font-style: italic;
 }
-/* line 269, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003269}}
+/* line 270, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003270}}
 #outroduction {
   font-size: 1.3em;
   margin-bottom: 0;
   margin-top: 2em;
   font-style: italic;
 }
-/* line 276, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003276}}
+/* line 277, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003277}}
 #signature {
   font-size: 1.5em;
   line-height: 1em;
@@ -485,99 +486,99 @@ article p {
   font-family: 'ff-market-web';
   margin-bottom: 3em;
 }
-/* line 287, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003287}}
+/* line 288, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003288}}
 .fb-comments,
 .fb-comments span,
 .fb-comments.fb_iframe_widget span iframe {
   margin-top: 0.8em;
   width: 100% !important;
 }
-/* line 311, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003311}}
+/* line 312, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003312}}
 .rightSide {
   font-family: 'superspitze_groteskregular';
   color: #4d4d4d;
 }
-/* line 317, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003317}}
+/* line 318, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003318}}
 .rightSide .musicolorLabel .char5 {
   color: #f03c2d;
 }
-/* line 320, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003320}}
+/* line 321, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003321}}
 .rightSide .musicolorLabel .char6 {
   color: #22acdd;
 }
-/* line 323, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003323}}
+/* line 324, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003324}}
 .rightSide .musicolorLabel .char7 {
   color: #fbe206;
 }
-/* line 326, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003326}}
+/* line 327, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003327}}
 .rightSide .musicolorLabel .char8 {
   color: #ed1370;
 }
-/* line 329, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003329}}
+/* line 330, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003330}}
 .rightSide .musicolorLabel .char9 {
   color: #23b14c;
 }
-/* line 335, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003335}}
+/* line 336, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003336}}
 .rightSide h1 {
   font-size: 2em;
   font-weight: 300;
   margin-bottom: 0.2em;
   margin-top: 2em;
 }
-/* line 341, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003341}}
+/* line 342, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003342}}
 .rightSide h1:nth-of-type(1) {
   margin-top: 2em;
 }
-/* line 346, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003346}}
+/* line 347, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003347}}
 .rightSide h2 {
   font-size: 1em;
   font-weight: 300;
   line-height: 1.2em;
   margin-top: 0;
 }
-/* line 356, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003356}}
+/* line 357, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003357}}
 .rightSide .musicolorAside li {
   margin-top: 0.5em;
 }
-/* line 365, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003365}}
+/* line 366, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003366}}
 .rightSide .musicolorAside li i {
   font-family: 'rooney-web';
   font-size: 0.7em;
   line-height: 0.7em;
 }
-/* line 375, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003375}}
+/* line 376, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003376}}
 .rightSide .ingredientsAside .linkNotAvailable {
   opacity: 0.2;
 }
-/* line 377, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003377}}
+/* line 378, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003378}}
 .rightSide .ingredientsAside .linkNotAvailable:hover {
   color: #4d4d4d;
   background: #ededed;
 }
-/* line 383, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003383}}
+/* line 384, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003384}}
 .rightSide .ingredientsAside li {
   margin-top: 0.5em;
   font-family: 'rooney-web';
   font-weight: 300;
   font-size: 0.9em;
 }
-/* line 391, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003391}}
+/* line 392, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003392}}
 .rightSide .ingredientsAside a {
   font-family: 'icomoon';
   float: left;
@@ -585,54 +586,54 @@ article p {
   color: #4d4d4d;
   height: 1.7em;
 }
-/* line 397, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003397}}
+/* line 398, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003398}}
 .rightSide .ingredientsAside a:hover {
   color: #ededed;
   background: #3a4040;
 }
-/* line 403, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003403}}
+/* line 404, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003404}}
 .rightSide .ingredientsAside p {
   padding-left: 2.3em;
 }
-/* line 411, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003411}}
+/* line 412, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003412}}
 .rightSide p {
   font-family: 'rooney-web';
   font-weight: 300;
   font-size: 0.9em;
   line-height: 1.7em;
 }
-/* line 418, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003418}}
+/* line 419, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003419}}
 .rightSide .rightSided_footer {
   font-size: 0.7em;
 }
-/* line 426, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003426}}
+/* line 427, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003427}}
 #mc-sidebar h1 {
   margin-top: 0;
 }
-/* line 430, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003430}}
+/* line 431, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003431}}
 #mc-sidebar .clear {
   text-align: right;
 }
-/* line 434, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003434}}
+/* line 435, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003435}}
 #mc-sidebar label {
   font-family: 'rooney-web';
   font-size: 0.8em;
   font-weight: 300;
 }
-/* line 439, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003439}}
+/* line 440, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003440}}
 #mc-sidebar label.error {
   color: red;
 }
-/* line 445, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003445}}
+/* line 446, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003446}}
 #mc-sidebar input {
   font-family: 'rooney-web';
   font-size: 0.8em;
@@ -648,8 +649,8 @@ article p {
   border: none;
   padding: 0.4em;
 }
-/* line 458, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003458}}
+/* line 459, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003459}}
 #mc-sidebar button {
   background: #ededed;
   color: &lighterGrey;
@@ -667,27 +668,27 @@ article p {
   transition: all ease-in-out 0.3s;
   border: none;
 }
-/* line 469, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003469}}
+/* line 470, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003470}}
 #mc-sidebar button:hover {
   color: #ededed;
   background: #3a4040;
   cursor: pointer;
 }
-/* line 480, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003480}}
+/* line 481, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003481}}
 #mc_embed_signup .clear {
   text-align: right;
 }
-/* line 485, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003485}}
+/* line 486, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003486}}
 #mc_embed_signup .mc-field-group label {
   font-family: 'rooney-web';
   font-size: 0.8em;
   font-weight: 300;
 }
-/* line 491, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003491}}
+/* line 492, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003492}}
 #mc_embed_signup .mc-field-group input {
   font-family: 'rooney-web';
   font-size: 0.8em;
@@ -703,8 +704,8 @@ article p {
   border: none;
   padding: 0.4em;
 }
-/* line 504, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003504}}
+/* line 505, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003505}}
 #mc_embed_signup .button {
   background: #ededed;
   color: &lighterGrey;
@@ -722,31 +723,31 @@ article p {
   transition: all ease-in-out 0.3s;
   border: none;
 }
-/* line 515, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003515}}
+/* line 516, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003516}}
 #mc_embed_signup .button:hover {
   color: #ededed;
   background: #3a4040;
   cursor: pointer;
 }
-/* line 524, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003524}}
+/* line 525, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003525}}
 .modal-body .button {
   float: right;
 }
-/* line 529, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003529}}
+/* line 530, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003530}}
 .support_aside {
   margin-bottom: 0.5em;
 }
-/* line 535, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003535}}
+/* line 536, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003536}}
 .paypal_form {
   text-align: right;
   position: relative;
 }
-/* line 539, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003539}}
+/* line 540, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003540}}
 .paypal_form .button {
   background: #ededed;
   color: &lighterGrey;
@@ -764,20 +765,20 @@ article p {
   transition: all ease-in-out 0.3s;
   border: none;
 }
-/* line 550, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003550}}
+/* line 551, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003551}}
 .paypal_form .button:focus {
   outline: none;
 }
-/* line 552, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003552}}
+/* line 553, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003553}}
 .paypal_form .button:hover {
   color: #ededed;
   background: #3a4040;
   cursor: pointer;
 }
-/* line 559, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003559}}
+/* line 560, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003560}}
 .paypal_form table {
   border: none;
   display: table;
@@ -786,8 +787,8 @@ article p {
   margin: 0.5em 0;
   background: none;
 }
-/* line 568, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003568}}
+/* line 569, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003569}}
 .paypal_form select {
   padding: 0.4em 1.7em 0.4em 0.5em;
   -webkit-border-radius: 3px;
@@ -812,13 +813,13 @@ article p {
   text-indent: 0.01px;
   text-overflow: '';
 }
-/* line 590, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003590}}
+/* line 591, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003591}}
 .paypal_form label {
   position: relative;
 }
-/* line 591, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003591}}
+/* line 592, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003592}}
 .paypal_form label:after {
   content: '<>';
   font: 11px "Consolas", monospace;
@@ -834,8 +835,8 @@ article p {
   position: absolute;
   pointer-events: none;
 }
-/* line 605, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003605}}
+/* line 606, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003606}}
 .paypal_form label:before {
   content: '';
   right: 0;
@@ -847,14 +848,14 @@ article p {
   pointer-events: none;
   display: block;
 }
-/* line 616, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003616}}
+/* line 617, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003617}}
 .paypal_form .paypal_options {
   width: 100%;
   border: none;
 }
-/* line 623, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003623}}
+/* line 624, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003624}}
 .footer {
   text-align: center;
   font-family: 'superspitze_groteskregular';
@@ -862,64 +863,64 @@ article p {
   font-size: 0.8em;
   margin-top: 3em;
 }
-/* line 655, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003655}}
+/* line 656, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003656}}
 ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
 }
-/* line 662, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003662}}
+/* line 663, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003663}}
 #logoFooter {
   background: none;
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
-  /* line 668, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003668}}
+  /* line 669, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003669}}
   #bigHeader {
     min-height: 300px;
   }
 }
 @media only screen and (min-width: 768px) {
-  /* line 672, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003672}}
+  /* line 673, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003673}}
   #bigHeader {
     min-height: 550px;
   }
 }
-/* line 676, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003676}}
+/* line 677, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003677}}
 #bigHeader #colorFilter {
   z-index: 1;
 }
-/* line 678, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003678}}
+/* line 679, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003679}}
 #bigHeader #colorFilter.rough {
   background: rgba(240, 60, 45, 0.3);
 }
-/* line 679, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003679}}
+/* line 680, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003680}}
 #bigHeader #colorFilter.dreamy {
   background: rgba(34, 172, 221, 0.3);
 }
-/* line 680, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003680}}
+/* line 681, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003681}}
 #bigHeader #colorFilter.vibrant {
   background: rgba(251, 226, 6, 0.3);
 }
-/* line 681, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003681}}
+/* line 682, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003682}}
 #bigHeader #colorFilter.bliss {
   background: rgba(237, 19, 112, 0.3);
 }
-/* line 682, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003682}}
+/* line 683, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003683}}
 #bigHeader #colorFilter.trippy {
   background: rgba(35, 177, 76, 0.3);
 }
-/* line 687, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003687}}
+/* line 688, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003688}}
 #bigHeader .container {
   color: white;
   position: relative;
@@ -928,21 +929,21 @@ ul {
   font-family: 'superspitze_groteskregular';
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
-  /* line 689, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003689}}
+  /* line 690, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003690}}
   #bigHeader .container {
     min-height: 300px;
   }
 }
 @media only screen and (min-width: 768px) {
-  /* line 693, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003693}}
+  /* line 694, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003694}}
   #bigHeader .container {
     min-height: 550px;
   }
 }
-/* line 704, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003704}}
+/* line 705, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003705}}
 #bigHeader .container #bigTitle {
   text-align: center;
   position: absolute;
@@ -953,41 +954,41 @@ ul {
   bottom: 3%;
   letter-spacing: -5px;
 }
-/* line 719, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003719}}
+/* line 720, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003720}}
 #musiColorSeparator {
   height: 1.4em;
   width: 100%;
   display: block;
   position: relative;
 }
-/* line 723, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003723}}
+/* line 724, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003724}}
 #musiColorSeparator.rough {
   background: #f03c2d;
 }
-/* line 724, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003724}}
+/* line 725, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003725}}
 #musiColorSeparator.dreamy {
   background: #22acdd;
 }
-/* line 725, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003725}}
+/* line 726, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003726}}
 #musiColorSeparator.vibrant {
   background: #fbe206;
 }
-/* line 726, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003726}}
+/* line 727, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003727}}
 #musiColorSeparator.bliss {
   background: #ed1370;
 }
-/* line 727, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003727}}
+/* line 728, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003728}}
 #musiColorSeparator.trippy {
   background: #23b14c;
 }
-/* line 732, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003732}}
+/* line 733, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003733}}
 #musiColorSeparator h2 {
   color: white;
   height: 1em;
@@ -998,8 +999,8 @@ ul {
   font-family: 'superspitze_groteskregular';
   font-weight: 300;
 }
-/* line 766, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003766}}
+/* line 767, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003767}}
 a {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
@@ -1013,45 +1014,45 @@ a {
   -webkit-transition: all ease-in-out 0.3s;
   transition: all ease-in-out 0.3s;
 }
-/* line 773, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003773}}
+/* line 774, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003774}}
 a:hover {
   color: #ededed;
   background: #3a4040;
   text-decoration: none;
   cursor: pointer;
 }
-/* line 786, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003786}}
+/* line 787, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003787}}
 #player {
   height: 6em;
   background: white;
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
-  /* line 807, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003807}}
+  /* line 808, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003808}}
   #player {
     padding: 2.5em 0px 1em 0px;
     margin-bottom: 1em;
   }
 }
 @media only screen and (min-width: 768px) {
-  /* line 813, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003813}}
+  /* line 814, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003814}}
   #player {
     padding: 3.3em 0 0 0;
     margin-bottom: 2em;
   }
 }
-/* line 828, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003828}}
+/* line 829, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003829}}
 .playlist {
   width: 100%;
   height: 100%;
   padding-right: 30px;
 }
-/* line 833, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003833}}
+/* line 834, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003834}}
 .playlist .icon-control {
   bottom: 0;
   height: 50%;
@@ -1063,8 +1064,8 @@ a:hover {
   width: 50%;
   display: block;
 }
-/* line 847, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003847}}
+/* line 848, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003848}}
 .playlist li {
   display: inline;
   float: left;
@@ -1078,8 +1079,8 @@ a:hover {
   transition: padding ease-in-out 0.5s;
 }
 @media only screen and (min-width: 768px) {
-  /* line 859, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003859}}
+  /* line 860, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003860}}
   .playlist li:hover h1 {
     display: block;
     -webkit-animation: fadeIn 0.3s;
@@ -1093,13 +1094,13 @@ a:hover {
     z-index: 2;
   }
 }
-/* line 867, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003867}}
+/* line 868, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003868}}
 .playlist li.track7 {
   margin: 0 0 0 0;
 }
-/* line 871, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003871}}
+/* line 872, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003872}}
 .playlist li h1 {
   white-space: nowrap;
   position: absolute;
@@ -1113,81 +1114,81 @@ a:hover {
   font-family: 'superspitze_groteskregular';
 }
 @media only screen and (min-width: 0px) and (max-width: 767px) {
-  /* line 881, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003881}}
+  /* line 882, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003882}}
   .playlist li h1 {
     font-size: 1em;
   }
 }
 @media only screen and (min-width: 768px) {
-  /* line 885, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003885}}
+  /* line 886, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003886}}
   .playlist li h1 {
     font-size: 2em;
   }
 }
-/* line 892, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003892}}
+/* line 893, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003893}}
 .playlist li .icon-control:before {
   content: "\e602";
 }
-/* line 896, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003896}}
+/* line 897, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003897}}
 .playlist li.sm2_playing {
   padding: 0;
 }
-/* line 899, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003899}}
+/* line 900, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003900}}
 .playlist li.sm2_playing h1 {
   display: block;
 }
-/* line 903, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003903}}
+/* line 904, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003904}}
 .playlist li.sm2_playing:hover {
   padding: 0;
 }
-/* line 907, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003907}}
+/* line 908, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003908}}
 .playlist li.sm2_playing .icon-control {
   color: #FFFFFF;
 }
-/* line 910, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003910}}
+/* line 911, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003911}}
 .playlist li.sm2_playing .icon-control:before {
   content: "\e601";
 }
-/* line 916, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003916}}
+/* line 917, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003917}}
 .playlist li.sm2_paused {
   padding: 0;
 }
-/* line 919, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003919}}
+/* line 920, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003920}}
 .playlist li.sm2_paused h1 {
   display: block;
 }
-/* line 923, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003923}}
+/* line 924, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003924}}
 .playlist li.sm2_paused:hover {
   padding: 0;
 }
-/* line 927, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003927}}
+/* line 928, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003928}}
 .playlist li.sm2_paused .icon-control {
   color: #FFFFFF;
 }
-/* line 930, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003930}}
+/* line 931, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003931}}
 .playlist li.sm2_paused .icon-control:before {
   content: "\e602";
 }
-/* line 936, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003936}}
+/* line 937, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003937}}
 .playlist li .controls {
   margin: -0.5em 0;
 }
-/* line 938, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003938}}
+/* line 939, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003939}}
 .playlist li .controls .statusbar {
   -webkit-animation: fadeIn 0.5s;
   /* Safari 4+ */
@@ -1199,8 +1200,8 @@ a:hover {
   /* IE 10+ */
   background: white;
 }
-/* line 945, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003945}}
+/* line 946, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003946}}
 .playlist a {
   display: block;
   position: relative;
@@ -1219,167 +1220,167 @@ a:hover {
   -webkit-transition: color ease-in-out 0.2s;
   transition: color ease-in-out 0.2s;
 }
-/* line 958, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003958}}
+/* line 959, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003959}}
 .playlist a:hover {
   color: white;
 }
-/* line 968, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003968}}
+/* line 969, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003969}}
 .playlist .track1 {
   width: 13.4%;
 }
-/* line 972, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003972}}
+/* line 973, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003973}}
 .playlist .track1 .controls .position {
   -moz-border-radius-bottomleft: 0.3em;
   border-bottom-left-radius: 3em;
 }
-/* line 979, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003979}}
+/* line 980, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003980}}
 .playlist .track2 {
   width: 13.4%;
 }
-/* line 984, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003984}}
+/* line 985, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003985}}
 .playlist .track3 {
   width: 13.4%;
 }
-/* line 989, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003989}}
+/* line 990, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003990}}
 .playlist .track4 {
   width: 13.4%;
 }
-/* line 994, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003994}}
+/* line 995, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003995}}
 .playlist .track5 {
   width: 13.4%;
 }
-/* line 999, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\00003999}}
+/* line 1000, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031000}}
 .playlist .track6 {
   width: 13.4%;
 }
-/* line 1004, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031004}}
+/* line 1005, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031005}}
 .playlist .track7 {
   width: 13.4%;
 }
-/* line 1006, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031006}}
+/* line 1007, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031007}}
 .playlist .track7 .controls .position {
   -moz-border-radius-bottomright: 0.3em;
   border-bottom-right-radius: 0.3em;
 }
-/* line 1015, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031015}}
-.playlist .rough .controls .position {
-  background: #f03c2d;
-}
 /* line 1016, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031016}}
-.playlist .rough a {
+.playlist .rough .controls .position {
   background: #f03c2d;
 }
 /* line 1017, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031017}}
+.playlist .rough a {
+  background: #f03c2d;
+}
+/* line 1018, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031018}}
 .playlist .rough h1 {
   color: #f03c2d;
 }
-/* line 1021, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031021}}
-.playlist .dreamy .controls .position {
-  background: #22acdd;
-}
 /* line 1022, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031022}}
-.playlist .dreamy a {
+.playlist .dreamy .controls .position {
   background: #22acdd;
 }
 /* line 1023, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031023}}
+.playlist .dreamy a {
+  background: #22acdd;
+}
+/* line 1024, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031024}}
 .playlist .dreamy h1 {
   color: #22acdd;
 }
-/* line 1027, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031027}}
-.playlist .vibrant .controls .position {
-  background: #fbe206;
-}
 /* line 1028, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031028}}
-.playlist .vibrant a {
+.playlist .vibrant .controls .position {
   background: #fbe206;
 }
 /* line 1029, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031029}}
+.playlist .vibrant a {
+  background: #fbe206;
+}
+/* line 1030, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031030}}
 .playlist .vibrant h1 {
   color: #fbe206;
 }
-/* line 1033, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031033}}
-.playlist .bliss .controls .position {
-  background: #ed1370;
-}
 /* line 1034, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031034}}
-.playlist .bliss a {
+.playlist .bliss .controls .position {
   background: #ed1370;
 }
 /* line 1035, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031035}}
+.playlist .bliss a {
+  background: #ed1370;
+}
+/* line 1036, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031036}}
 .playlist .bliss h1 {
   color: #ed1370;
 }
-/* line 1039, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031039}}
-.playlist .trippy .controls .position {
-  background: #23b14c;
-}
 /* line 1040, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031040}}
-.playlist .trippy a {
+.playlist .trippy .controls .position {
   background: #23b14c;
 }
 /* line 1041, mailtape.less */
 @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031041}}
+.playlist .trippy a {
+  background: #23b14c;
+}
+/* line 1042, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031042}}
 .playlist .trippy h1 {
   color: #23b14c;
 }
-/* line 1046, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031046}}
+/* line 1047, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031047}}
 #laFirstTrack {
   -moz-border-radius-topleft: 0.3em;
   -moz-border-radius-bottomleft: 0.3em;
   border-top-left-radius: 0.3em;
   border-bottom-left-radius: 0.3em;
 }
-/* line 1053, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031053}}
+/* line 1054, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031054}}
 #track1_button {
   -moz-border-radius-topleft: 0.3em;
   -moz-border-radius-bottomleft: 0.3em;
   border-top-left-radius: 0.3em;
   border-bottom-left-radius: 0.3em;
 }
-/* line 1060, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031060}}
+/* line 1061, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031061}}
 #laLastTrack {
   -moz-border-radius-topright: 0.3em;
   -moz-border-radius-bottomright: 0.3em;
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
 }
-/* line 1067, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031067}}
+/* line 1068, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031068}}
 #track7_button {
   -moz-border-radius-topright: 0.3em;
   -moz-border-radius-bottomright: 0.3em;
   border-top-right-radius: 0.3em;
   border-bottom-right-radius: 0.3em;
 }
-/* line 1074, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031074}}
+/* line 1075, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031075}}
 #autoLoop {
   position: absolute;
   right: 0;
@@ -1390,28 +1391,28 @@ a:hover {
 }
 /* TODO: Use bootstrap breakpoint variables */
 @media screen and (max-width: 990px) {
-  /* line 1086, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031086}}
+  /* line 1087, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031087}}
   .playlist {
     padding-right: 25px;
   }
-  /* line 1090, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031090}}
+  /* line 1091, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031091}}
   #autoLoop {
     top: 58%;
     height: 29px;
   }
 }
 @media screen and (max-width: 768px) {
-  /* line 1097, mailtape.less */
-  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031097}}
+  /* line 1098, mailtape.less */
+  @media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031098}}
   #autoLoop {
     height: 26px;
     top: 43%;
   }
 }
-/* line 1104, mailtape.less */
-@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031104}}
+/* line 1105, mailtape.less */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/Evryjazz\/Project\/MailTape\.github\.io\/assets\/stylesheets\/mailtape\.less}line{font-family:\000031105}}
 #autoLoop.active {
   opacity: 0.8;
 }
