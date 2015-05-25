@@ -40,7 +40,7 @@ guestPic: guestPic188.jpg
 
 Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little sounds where we found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. "I want to Believe" is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
  
-# House music's Time travel!
+# Listen his selection of classy vibes
 
 
 ## Florian Kupfer ~ SAD 001 A
