@@ -241,18 +241,34 @@ article {
 }
 
 #navEpisodes .previous {
+  font-family: 'icomoon';
+  content: "\e60a";
   position: absolute;
   z-index: 2;
   top: 50%;
   right: 10%;
-  font-family: 'icomoon';
+  color: fadeout(white, 40%);
+  background: none;
+  font-size: 40px;
+  &:hover {
+    color: white;
+  }
 }
 
 #navEpisodes .next {
+  content: "\e609";
   position: absolute;
   z-index: 2;
   top: 50%;
   left: 10%;
+  font-family: 'icomoon';
+  color: fadeout(white, 40%);
+  background: none;
+  font-size: 40px;
+  &:hover {
+    color: white;
+  }
+
 }
 
 .modal-dialog {
