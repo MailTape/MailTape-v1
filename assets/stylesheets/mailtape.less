@@ -9,7 +9,7 @@ body {
   // background-repeat: repeat-x repeat-y;
 
    @media only screen and (min-width: 768px) {
-		.animation(fadeIn,3s);
+	//	.animation(fadeIn,3s);
 
 	}
 
@@ -211,7 +211,6 @@ article {
 
 	font-family: 'icomoon';
 	z-index: 1;
-	color: fadeout(white,10%);
 	text-align: center;
 	.transition(color,0.4s);
 	.transition(background,0.4s);
@@ -225,19 +224,21 @@ article {
 
 	}
 
-	&:hover {
-		color: white;
-		&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
-		&.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
-		&.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
-		&.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
-		&.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
-	}
-
 	cursor: pointer;
 	// &:before {
 	// 	  	content: "\e602";
 	// 	}
+}
+.playButtonIcon {
+	color: fadeout(darken(white,8%),5%);
+	.transition(color,0.4s);}
+.playButtonIcon:hover {
+	color: white;
+	&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
+	&.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
+	&.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
+	&.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
+	&.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
 }
 
 #navEpisodes .previous {
@@ -245,11 +246,11 @@ article {
   content: "\e60a";
   position: absolute;
   z-index: 2;
-  top: 50%;
-  right: 10%;
-  color: fadeout(white, 40%);
+  top: 45%;
+  right: 5%;
+  color: fadeout(darken(white,8%),15%);
   background: none;
-  font-size: 40px;
+  font-size: 3.5em;
   &:hover {
     color: white;
   }
@@ -259,12 +260,12 @@ article {
   content: "\e609";
   position: absolute;
   z-index: 2;
-  top: 50%;
-  left: 10%;
+  top: 45%;
+  left: 5%;
   font-family: 'icomoon';
-  color: fadeout(white, 40%);
+  color: fadeout(darken(white,8%),15%);
   background: none;
-  font-size: 40px;
+  font-size: 3.5em;
   &:hover {
     color: white;
   }
@@ -306,16 +307,16 @@ article {
     width: 100% !important;
 }
 
-// petite fonction pour faire ça propre
-// .liMusicolor (@index:1, @color:@rough) {
-// 	&:nth-of-type(@index) {
-// 		&:before {
-// 		  color: @color;
-// 		  font-family: 'icomoon';
-// 	    content: "\e603";
-// 		}
-// 	}
-// }
+//petite fonction pour faire ça propre
+.liMusicolor (@index:1, @color:@rough) {
+	&:nth-of-type(@index) {
+		&:before {
+		  color: @color;
+		  font-family: 'icomoon';
+	    content: "\e603";
+		}
+	}
+}
 
 // // petite fonction pour faire ça propre
 // .liIngredientColor (@index:1,@color:@rough) {
@@ -373,11 +374,11 @@ article {
 		li {
 			margin-top: 0.5em;
 
-			// .liMusicolor (1,@rough);
-			// .liMusicolor (2,@dreamy);
-			// .liMusicolor (3,@vibrant);
-			// .liMusicolor (4,@bliss);
-			// .liMusicolor (5,@trippy);
+			.liMusicolor (1,@rough);
+			.liMusicolor (2,@dreamy);
+			.liMusicolor (3,@vibrant);
+			.liMusicolor (4,@bliss);
+			.liMusicolor (5,@trippy);
 
 			i {
 				font-family: 'rooney-web';
