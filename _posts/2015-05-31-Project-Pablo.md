@@ -23,7 +23,7 @@ track1_title: Florian Kupfer ~ SAD 001 A
 track2_title: Florist ~ Marine Drive
 track3_title: Infamous Boogieman ~ Revenge Tactics
 track4_title: Project Pablo ~ The Feeling
-track5_title: Essence (Wayne Gardiner) ~ Just a Touch (Jazz Element Mix)
+track5_title: Essence ~ Just a Touch (Jazz Element Mix)
 track6_title: Fouk ~ Kill Frenzy
 track7_title: Pools ~ Lil Triceratops
 guest_name: Project Pablo
