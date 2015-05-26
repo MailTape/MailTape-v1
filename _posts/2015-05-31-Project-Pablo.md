@@ -39,7 +39,7 @@ guestPic: guestPic188.jpg
  
 # Fresh wind for House Music
 
-Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little sounds we can found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. ["I Want to Believe"](https://soundcloud.com/projectpablo/sets/i-want-to-believe) is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
+Old schools samples and uncluttered arrangements give a vintage look to his house. It's in the choice of every little side sounds we can found the contemporary's side of P.Holland. He's definitly a New-York house's child who respect the founding fathers. ["I Want to Believe"](https://soundcloud.com/projectpablo/sets/i-want-to-believe) is almost a classic but also a fresh wind for all fans of the first golden age of the House music, and "The Feeling" is his first Hit ! 
  
 #His classy selection
 
