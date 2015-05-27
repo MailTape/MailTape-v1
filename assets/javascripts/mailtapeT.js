@@ -36,10 +36,13 @@ $(document).ready(
 	    		$("#playButton").fadeOut("slow");
 	    		$("#player").removeClass("notPlaying");	    				
 	    		$("#player").addClass("isPlaying");
-				$("html, body").animate({
-					scrollTop: $('#player').offset().top+1
-					//scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
-				}, 1000);
+
+	    		// animation scroll au play désactivée
+				// $("html, body").animate({
+				// 	scrollTop: $('#player').offset().top+1
+				// 	//scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
+				// }, 1000);
+
 			}
     	}
 
