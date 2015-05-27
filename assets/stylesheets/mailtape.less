@@ -197,6 +197,85 @@ article {
 	}
 }
 
+#bigHeader {
+
+	@media only screen and (min-width: 0px) and (max-width: 767px) {
+		min-height: 300px;
+	}
+
+	@media only screen and (min-width: 768px) {
+		min-height: 520px;
+	}
+
+	#colorFilter {
+
+		&.rough{background: fadeout(@rough,70%);}
+		&.dreamy{background: fadeout(@dreamy,70%);}
+		&.vibrant{background: fadeout(@vibrant,70%);}
+		&.bliss{background: fadeout(@bliss,70%);}
+		&.trippy{background: fadeout(@trippy,70%);}
+
+		z-index: 1;
+	}
+
+	.container {
+
+		@media only screen and (min-width: 0px) and (max-width: 767px) {
+			min-height: 300px;
+		}
+
+		@media only screen and (min-width: 768px) {
+			min-height: 520px;
+
+		}
+
+		color: white;
+		position: relative;
+		width: 100%;
+		height: 100%;
+		font-family:'superspitze_groteskregular';
+
+		#bigTitle {
+			text-align: center;
+			position: absolute;
+			left:0px;
+			right:0px;
+			margin-top: 0px;
+			margin-bottom: 0px;
+			bottom: 3%;
+			letter-spacing: -5px;
+
+		}
+	}
+}
+
+
+#musiColorSeparator {
+	height: 1.4em;
+	width: 100%;
+
+	&.rough{background: @rough;}
+	&.dreamy{background: @dreamy;}
+	&.vibrant{background: @vibrant;}
+	&.bliss{background: @bliss;}
+	&.trippy{background: @trippy;}
+
+	display: block;
+	position: relative;
+
+	h2 {
+		color: white;
+	    height: 1em;
+	    margin: 0;
+	    position: absolute;
+	    text-align: center;
+	    width: 100%;
+	    font-family: 'superspitze_groteskregular';
+	    font-weight: 300;
+	}
+
+}
+
 #playButton {
 	position: absolute;
 	margin:0 auto;
@@ -234,6 +313,7 @@ article {
 .playButtonIcon {
 	color: fadeout(darken(white,8%),5%);
 	.transition(color,0.4s);}
+
 .playButtonIcon:hover {
 	color: white;
 	&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
@@ -698,84 +778,7 @@ ul {
 	background: none;
 }
 
-#bigHeader {
 
-	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		min-height: 300px;
-	}
-
-	@media only screen and (min-width: 768px) {
-		min-height: 550px;
-	}
-
-	#colorFilter {
-
-		&.rough{background: fadeout(@rough,70%);}
-		&.dreamy{background: fadeout(@dreamy,70%);}
-		&.vibrant{background: fadeout(@vibrant,70%);}
-		&.bliss{background: fadeout(@bliss,70%);}
-		&.trippy{background: fadeout(@trippy,70%);}
-
-		z-index: 1;
-	}
-
-	.container {
-
-		@media only screen and (min-width: 0px) and (max-width: 767px) {
-			min-height: 300px;
-		}
-
-		@media only screen and (min-width: 768px) {
-			min-height: 550px;
-
-		}
-
-		color: white;
-		position: relative;
-		width: 100%;
-		height: 100%;
-		font-family:'superspitze_groteskregular';
-
-		#bigTitle {
-			text-align: center;
-			position: absolute;
-			left:0px;
-			right:0px;
-			margin-top: 0px;
-			margin-bottom: 0px;
-			bottom: 3%;
-			letter-spacing: -5px;
-
-		}
-	}
-}
-
-
-#musiColorSeparator {
-	height: 1.4em;
-	width: 100%;
-
-	&.rough{background: @rough;}
-	&.dreamy{background: @dreamy;}
-	&.vibrant{background: @vibrant;}
-	&.bliss{background: @bliss;}
-	&.trippy{background: @trippy;}
-
-	display: block;
-	position: relative;
-
-	h2 {
-		color: white;
-	    height: 1em;
-	    margin: 0;
-	    position: absolute;
-	    text-align: center;
-	    width: 100%;
-	    font-family: 'superspitze_groteskregular';
-	    font-weight: 300;
-	}
-
-}
 
 
 // .leftSide {
