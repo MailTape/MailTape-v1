@@ -9,23 +9,23 @@ track1_color: bliss
 track2_color: vibrant
 track3_color: dreamy
 track4_color: bliss
-track5_color: dreamy
-track6_color: rough
+track5_color: rough
+track6_color: dreamy
 track7_color: rough
 track1_link: "https://soundcloud.com/kupfer/sad-001-a"
 track2_link: "https://soundcloud.com/fl-rist/marine-drive"
 track3_link: "https://soundcloud.com/stampthewax/premiere-infamous-boogieman-revenge-tactics"
 track4_link: "https://soundcloud.com/xlr8r/project-pablo-the-feeling"
-track5_link: "https://soundcloud.com/zacfm/essence-wayne-gardiner-just-a-touch-jazz-element-mix-strictly-rhythm"
-track6_link: "https://soundcloud.com/delicieuse-musique/premiere-fouk-kill-frenzy"
-track7_link: "https://soundcloud.com/foulandsunk/fulbert-night-ride"
+track5_link: "https://soundcloud.com/foulandsunk/fulbert-night-ride"
+track6_link: "https://soundcloud.com/zacfm/essence-wayne-gardiner-just-a-touch-jazz-element-mix-strictly-rhythm"
+track7_link: "https://soundcloud.com/delicieuse-musique/premiere-fouk-kill-frenzy"
 track1_title: Florian Kupfer ~ SAD 001 A
 track2_title: Florist ~ Marine Drive
 track3_title: Infamous Boogieman ~ Revenge Tactics
 track4_title: Project Pablo ~ The Feeling
-track5_title: Essence ~ Just a Touch (Jazz Element Mix)
-track6_title: Fouk ~ Kill Frenzy
-track7_title: Fulbert ~ Night Ride
+track5_title: Fulbert ~ Night Ride
+track6_title: Essence ~ Just a Touch (Jazz Element Mix)
+track7_title: Fouk ~ Kill Frenzy
 guest_name: Project Pablo
 category: "188"
 episode_URL: "http://mailta.pe/188/Project-Pablo/"
