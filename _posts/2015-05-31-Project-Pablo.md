@@ -34,6 +34,7 @@ fbPic: fbPic188.jpg
 musiColor: musiColor188.png
 ---
 
+![fbPic188.jpg]({{site.baseurl}}/img/fbPic188.jpg)
 
 
 
