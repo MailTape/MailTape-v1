@@ -30,7 +30,11 @@ guest_name: Project Pablo
 category: "188"
 episode_URL: "http://mailta.pe/188/Project-Pablo/"
 guestPic: guestPic188.jpg
+fbPic: fbPic188.jpg
+musiColor: musiColor188.png
 ---
+
+![musiColor188.png]({{site.baseurl}}/img/musiColor188.png)
 
 
 
