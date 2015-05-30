@@ -36,6 +36,7 @@ description: "This morning, we’ve got the pleasure to welcome Project Pablo as
 ---
 
 
+
 <p id="introduction">This morning, we've got the pleasure to welcome Project Pablo as a special guest for A tribute to the House Music of the beginning of the 90s ! As an eighties and nineties's House Music lover, it was a great surprise to discover the first LP of Patrick Holland as Project Pablo. The Canadian producer gathered spirits of Pal Joey, Wayne Gardiner or Franckie Knuckles in a very rich album. </p>
  ![fbPic188.jpg]({{site.baseurl}}/img/fbPic188.jpg)
 
