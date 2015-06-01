@@ -1,13 +1,21 @@
 $(document).ready(
 	function() {
 
-		// $("#bigTitle").fitText(0.6);
-		$("#underBigTitle").fitTextV(2.5);
+		// TEST en cours de désactivation
+
 		$(".stretchMe").anystretch();
 
 		// permet de faire pointer tous les liens dans un nouvel onglet
 		//$('a').attr('target','_blank');
 		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
+
+		$('#bigTitle').flowtype({
+         minimum   : 100,
+         maximum   : 1110,
+         minFont   : 12,
+         maxFont   : 250,
+         fontRatio : fontRatioBigTitle // A modifier au cas par cas ! -- Règle la largeur du titre
+         });
 
 		$('#playButton').flowtype({
 		 minimum   : 679,
@@ -15,7 +23,6 @@ $(document).ready(
 		 minFont   : 40,
 		 maxFont   : 250,
 		 fontRatio : 4, // A modifier au cas par cas ! -- Règle la largeur du titre
-		 lineRatio : 0.7 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
 		});
 
 		 $('body').flowtype({
@@ -24,7 +31,6 @@ $(document).ready(
 		 minFont   : 12,
 		 maxFont   : 28,
 		 fontRatio : 65, // A modifier au cas par cas ! -- Règle la largeur du titre
-		 lineRatio : 1.8 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
 		});
 
 		$(".musicolorLabel").lettering();

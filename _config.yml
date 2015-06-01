@@ -83,12 +83,15 @@ prose:
           label: "Big title font ratio"
           help: "Big title font size adjustement. The bigger the value, the smaller the title. Be careful to use dot and not comma for float numbers."
           value: "6"
-      - name: "bigTitle_line_ratio"
-        field:
-          element: "text"
-          label: "Big title line ratio"
-          help: "Big title height adjustement. Working same as font ratio"
-          value: "1"
+
+      # fini le line ratio suite au passage à la nouvelle version de flowtype
+      # - name: "bigTitle_line_ratio"
+      #   field:
+      #     element: "text"
+      #     label: "Big title line ratio"
+      #     help: "Big title height adjustement. Working same as font ratio"
+      #     value: "1"
+      
       - name: "guestPic"
         field:
           element: "text"
