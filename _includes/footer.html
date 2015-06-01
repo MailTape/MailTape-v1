@@ -1,14 +1,7 @@
 
-<!-- affichage du grand titre -->
-<script type="text/javascript">    
-    $('#bigTitle').flowtype({
-        minimum   : 100,
-        maximum   : 1110,
-        minFont   : 12,
-        maxFont   : 250,
-        fontRatio : {{ page.bigTitle_font_ratio }}, // A modifier au cas par cas ! -- Règle la largeur du titre
-        lineRatio : {{ page.bigTitle_line_ratio }} // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
-        });
+<!-- pour l'affichage du grand titre -->
+<script type="text/javascript"> 
+var fontRatioBigTitle = {{ page.bigTitle_font_ratio }};
 </script>
 
 <div class="footer">
