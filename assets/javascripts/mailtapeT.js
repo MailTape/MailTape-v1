@@ -18,11 +18,11 @@ $(document).ready(
          });
 
 		$('#playButton').flowtype({
-		 minimum   : 679,
+		 minimum   : 500,
 		 maximum   : 1110,
-		 minFont   : 40,
-		 maxFont   : 250,
-		 fontRatio : 4, // A modifier au cas par cas ! -- Règle la largeur du titre
+		 minFont   : 30,
+		 maxFont   : 100,
+		 fontRatio : 10, // A modifier au cas par cas ! -- Règle la largeur du titre
 		});
 
 		 $('body').flowtype({

@@ -15,15 +15,6 @@ body {
 
 }
 
-#navEpisodes {
-	.trippy {color: @trippy;}
-	.bliss {color: @bliss;}
-	.vibrant {color: @vibrant;}
-	.dreamy {color: @dreamy;}
-	.rough {color: @rough;}
-
-}
-
 .only-mobile{
 	@media only screen and (min-width: 768px) {
 		display: none;
@@ -198,7 +189,6 @@ article {
 }
 
 #bigHeader {
-
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		min-height: 300px;
 	}
@@ -207,176 +197,199 @@ article {
 		min-height: 520px;
 	}
 
-	#colorFilter {
-
-		// &.rough{background: fadeout(@rough,70%);}
-		// &.dreamy{background: fadeout(@dreamy,70%);}
-		// &.vibrant{background: fadeout(@vibrant,70%);}
-		// &.bliss{background: fadeout(@bliss,70%);}
-		// &.trippy{background: fadeout(@trippy,70%);}
-
-		z-index: 1;
-	}
-
-	.container {
-
-		@media only screen and (min-width: 0px) and (max-width: 767px) {
-			min-height: 300px;
-		}
-
-		@media only screen and (min-width: 768px) {
-			min-height: 520px;
-
-		}
-
-		color: white;
-		position: relative;
-		width: 100%;
-		height: 100%;
-		font-family:'superspitze_groteskregular';
-
-		#bigTitle {
-			z-index: 2;
-			text-align: center;
-			position: absolute;
-			left:0px;
-			right:0px;
-			margin-top: 0px;
-			margin-bottom: 0px;
-			bottom: 30%;
-			letter-spacing: -5px;
-
-		}
-	}
-}
-
-#underBigTitle {
-	z-index: 2;
-	font-size: 20.8px;
-	position: absolute;
-	left: 0px;
-	right: 0px;
-	bottom: 26%;
 	text-align: center;
-	color: white;
-    height: 1em;
-    margin: 0;
-    position: absolute;
-    text-align: center;
-    width: 100%;
-    font-family: 'superspitze_groteskregular';
-    font-weight: 300;
-}
-
-#lastEpisodeSeparator {
-	height: 1em;
-	width: 100%;
-
-	&.rough{background: @rough;}
-	&.dreamy{background: @dreamy;}
-	&.vibrant{background: @vibrant;}
-	&.bliss{background: @bliss;}
-	&.trippy{background: @trippy;}
-
-	display: block;
-	position: relative;
-
-	h2 {
-		color: white;
-	    height: 1em;
-	    margin: 0;
-	    position: absolute;
-	    text-align: center;
-	    width: 100%;
-	    font-family: 'superspitze_groteskregular';
-	    font-weight: 300;
-	}
 
 }
 
-#playButton {
-	position: absolute;
-	margin:0 auto;
-	height: 100%;
-	width: 100%;
+// #bigHeader {
 
-	text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
+// 	@media only screen and (min-width: 0px) and (max-width: 767px) {
+// 		min-height: 300px;
+// 	}
 
-	background: fadeout(black, 70%);
+// 	@media only screen and (min-width: 768px) {
+// 		min-height: 520px;
+// 	}
 
-	// &.rough {background: fadeout(lighten(@rough, 20%), 50%) ;}
-	// &.dreamy {background: fadeout(lighten(@dreamy, 20%), 50%) ;}
-	// &.vibrant {background: fadeout(lighten(@vibrant, 20%), 50%) ;}
-	// &.bliss {background: fadeout(lighten(@bliss, 20%), 50%) ;}
-	// &.trippy {background: fadeout(lighten(@trippy, 20%), 50%) ;}
+// 	#colorFilter {
 
-	font-family: 'icomoon';
-	z-index: 1;
-	color: fadeout(white,20%);
-	text-align: center;
-	.transition(color);
-	.transition(background);
-	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		padding-top: 100px;
-	}
+// 		// &.rough{background: fadeout(@rough,70%);}
+// 		// &.dreamy{background: fadeout(@dreamy,70%);}
+// 		// &.vibrant{background: fadeout(@vibrant,70%);}
+// 		// &.bliss{background: fadeout(@bliss,70%);}
+// 		// &.trippy{background: fadeout(@trippy,70%);}
 
-	@media only screen and (min-width: 768px) {
-		padding-top: 200px;
+// 		z-index: 1;
+// 	}
 
-	}
+// 	.container {
 
-	cursor: pointer;
-	// &:before {
-	// 	  	content: "\e602";
-	// 	}
-}
-.playButtonIcon {
-	color: fadeout(darken(white,10%),5%);
-	.transition(color,0.4s);}
+// 		@media only screen and (min-width: 0px) and (max-width: 767px) {
+// 			min-height: 300px;
+// 		}
 
-.playButtonIcon:hover {
-	color: white;
-	&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
-	&.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
-	&.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
-	&.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
-	&.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
-}
+// 		@media only screen and (min-width: 768px) {
+// 			min-height: 520px;
 
-#navEpisodes {
-	height: 0;
-}
+// 		}
 
-#navEpisodes .previous {
-  font-family: 'icomoon';
-  content: "\e60a";
-  position: absolute;
-  z-index: 3;
-  top: 45%;
-  right: 5%;
-  color: fadeout(darken(white,8%),15%);
-  background: none;
-  font-size: 3.5em;
-  &:hover {
-    color: white;
-  }
-}
+// 		color: white;
+// 		position: relative;
+// 		width: 100%;
+// 		height: 100%;
+// 		font-family:'superspitze_groteskregular';
 
-#navEpisodes .next {
-  content: "\e609";
-  position: absolute;
-  z-index: 3;
-  top: 45%;
-  left: 5%;
-  font-family: 'icomoon';
-  color: fadeout(darken(white,8%),15%);
-  background: none;
-  font-size: 3.5em;
-  &:hover {
-    color: white;
-  }
+// 		#bigTitle {
+// 			z-index: 2;
+// 			text-align: center;
+// 			position: absolute;
+// 			left:0px;
+// 			right:0px;
+// 			margin-top: 0px;
+// 			margin-bottom: 0px;
+// 			bottom: 30%;
+// 			letter-spacing: -5px;
 
-}
+// 		}
+// 	}
+// }
+
+// #underBigTitle {
+// 	z-index: 2;
+// 	font-size: 20.8px;
+// 	position: absolute;
+// 	left: 0px;
+// 	right: 0px;
+// 	bottom: 26%;
+// 	text-align: center;
+// 	color: white;
+//     height: 1em;
+//     margin: 0;
+//     position: absolute;
+//     text-align: center;
+//     width: 100%;
+//     font-family: 'superspitze_groteskregular';
+//     font-weight: 300;
+// }
+
+// #lastEpisodeSeparator {
+// 	height: 1em;
+// 	width: 100%;
+
+// 	&.rough{background: @rough;}
+// 	&.dreamy{background: @dreamy;}
+// 	&.vibrant{background: @vibrant;}
+// 	&.bliss{background: @bliss;}
+// 	&.trippy{background: @trippy;}
+
+// 	display: block;
+// 	position: relative;
+
+// 	h2 {
+// 		color: white;
+// 	    height: 1em;
+// 	    margin: 0;
+// 	    position: absolute;
+// 	    text-align: center;
+// 	    width: 100%;
+// 	    font-family: 'superspitze_groteskregular';
+// 	    font-weight: 300;
+// 	}
+
+// }
+
+// #playButton {
+// 	position: absolute;
+// 	margin:0 auto;
+// 	height: 100%;
+// 	width: 100%;
+
+// 	text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
+
+// 	background: fadeout(black, 70%);
+
+// 	// &.rough {background: fadeout(lighten(@rough, 20%), 50%) ;}
+// 	// &.dreamy {background: fadeout(lighten(@dreamy, 20%), 50%) ;}
+// 	// &.vibrant {background: fadeout(lighten(@vibrant, 20%), 50%) ;}
+// 	// &.bliss {background: fadeout(lighten(@bliss, 20%), 50%) ;}
+// 	// &.trippy {background: fadeout(lighten(@trippy, 20%), 50%) ;}
+
+// 	font-family: 'icomoon';
+// 	z-index: 1;
+// 	color: fadeout(white,20%);
+// 	text-align: center;
+// 	.transition(color);
+// 	.transition(background);
+// 	@media only screen and (min-width: 0px) and (max-width: 767px) {
+// 		padding-top: 100px;
+// 	}
+
+// 	@media only screen and (min-width: 768px) {
+// 		padding-top: 200px;
+
+// 	}
+
+// 	cursor: pointer;
+// 	// &:before {
+// 	// 	  	content: "\e602";
+// 	// 	}
+// }
+// .playButtonIcon {
+// 	color: fadeout(darken(white,10%),5%);
+// 	.transition(color,0.4s);}
+
+// .playButtonIcon:hover {
+// 	color: white;
+// 	&.rough {background: fadeout(lighten(@rough, 20%), 30%) ;}
+// 	&.dreamy {background: fadeout(lighten(@dreamy, 20%), 30%) ;}
+// 	&.vibrant {background: fadeout(lighten(@vibrant, 20%), 30%) ;}
+// 	&.bliss {background: fadeout(lighten(@bliss, 20%), 30%) ;}
+// 	&.trippy {background: fadeout(lighten(@trippy, 20%), 30%) ;}
+// }
+
+// #navEpisodes {
+// 	height: 0;
+// }
+
+// #navEpisodes {
+// 	.trippy {color: @trippy;}
+// 	.bliss {color: @bliss;}
+// 	.vibrant {color: @vibrant;}
+// 	.dreamy {color: @dreamy;}
+// 	.rough {color: @rough;}
+
+// }
+
+// #navEpisodes .previous {
+//   font-family: 'icomoon';
+//   content: "\e60a";
+//   position: absolute;
+//   z-index: 3;
+//   top: 45%;
+//   right: 5%;
+//   color: fadeout(darken(white,8%),15%);
+//   background: none;
+//   font-size: 3.5em;
+//   &:hover {
+//     color: white;
+//   }
+// }
+
+// #navEpisodes .next {
+//   content: "\e609";
+//   position: absolute;
+//   z-index: 3;
+//   top: 45%;
+//   left: 5%;
+//   font-family: 'icomoon';
+//   color: fadeout(darken(white,8%),15%);
+//   background: none;
+//   font-size: 3.5em;
+//   &:hover {
+//     color: white;
+//   }
+
+// }
 
 .modal-dialog {
 	text-align: left;

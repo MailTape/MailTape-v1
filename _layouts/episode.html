@@ -3,6 +3,29 @@
 
 
 <div id="bigHeader" class="stretchMe" data-stretch="/img/{{ page.guestPic }}">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1 col-xs-1">
+                {% if site.time > page.next.date %}
+                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe609;</a>
+                    &nbsp; &nbsp; &nbsp;
+                {% endif %}
+            </div>
+            <div class="col-md-8 col-md-offset-1 col-xs-8 col-xs-offset-1">
+                    <h2>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>
+                    <h1>{{ page.guest_name }}</h1>
+                    <span class="playButton" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</span>
+            </div>
+            <div class="col-md-1 col-md-offset-1 col-xs-1 col-xs-offset-1">
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe60a;</a>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- <div id="bigHeader" class="stretchMe" data-stretch="/img/{{ page.guestPic }}">
     <header id="colorFilter" class="{{ page.guest_color }}">
 
         <div id="playButton" class="{{ page.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);"><span class="playButtonIcon">&#xe602;</span></div>
@@ -12,9 +35,15 @@
             <div id="bigTitle">{{ page.guest_name }}</div>
             <h2 id="underBigTitle">SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>        
             </div>
-        {% include nav.html %}
-    </header>
+        <div id="navEpisodes" style="text-align:center">
+  {% if site.time > page.next.date %}
+    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe609;</a>
+    &nbsp; &nbsp; &nbsp;
+  {% endif %}
+    <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe60a;</a>
 </div>
+    </header>
+</div> -->
 
 <div id="player" class="notPlaying">
     <div class="container">
