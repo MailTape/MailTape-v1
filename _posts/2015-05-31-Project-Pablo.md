@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: Maxime
 guest_color: bliss
-bigTitle_font_ratio: "6"
+bigTitle_font_ratio: "7"
 bigTitle_line_ratio: "1"
 track1_color: bliss
 track2_color: vibrant
@@ -34,6 +34,7 @@ fbPic: fbPic188.jpg
 musiColor: musiColor188.png
 description: "This morning, we’ve got the pleasure to welcome Project Pablo as a special guest for A tribute to the House Music of the beginning of the 90s ! As an eighties and nineties’s House Music lover, it was a great surprise to discover the first LP of Patrick Holland as Project Pablo. The Canadian producer gathered spirits of Pal Joey, Wayne Gardiner or Franckie Knuckles in a very rich album."
 ---
+
 
 
 
