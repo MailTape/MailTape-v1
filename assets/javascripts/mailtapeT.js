@@ -9,12 +9,21 @@ $(document).ready(
 		//$('a').attr('target','_blank');
 		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
 
-		$('#bigTitle').flowtype({
+		$('#bigHeader h1').flowtype({
          minimum   : 100,
          maximum   : 1110,
          minFont   : 12,
-         maxFont   : 250,
-         fontRatio : fontRatioBigTitle // A modifier au cas par cas ! -- Règle la largeur du titre
+         maxFont   : 200,
+         fontRatio : 9 // version fixée pour tt les épisode
+         // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
+         });
+
+		$('#bigHeader h2').flowtype({
+         minimum   : 100,
+         maximum   : 1110,
+         minFont   : 12,
+         maxFont   : 30,
+         fontRatio : 50 // A modifier au cas par cas ! -- Règle la largeur du titre
          });
 
 		$('#playButton').flowtype({
@@ -22,7 +31,7 @@ $(document).ready(
 		 maximum   : 1110,
 		 minFont   : 30,
 		 maxFont   : 100,
-		 fontRatio : 10, // A modifier au cas par cas ! -- Règle la largeur du titre
+		 fontRatio : 6, // A modifier au cas par cas ! -- Règle la largeur du titre
 		});
 
 		 $('body').flowtype({
@@ -42,6 +51,7 @@ $(document).ready(
 	    		$("#playButton").fadeOut("slow");
 	    		$("#player").removeClass("notPlaying");	    				
 	    		$("#player").addClass("isPlaying");
+	    		$("#bigHeader").removeClass("notPlaying");
 
 	    		// animation scroll au play désactivée
 				// $("html, body").animate({
