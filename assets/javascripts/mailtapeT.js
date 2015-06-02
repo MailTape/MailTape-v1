@@ -52,6 +52,7 @@ $(document).ready(
 	    		$("#player").removeClass("notPlaying");	    				
 	    		$("#player").addClass("isPlaying");
 	    		$("#bigHeader").removeClass("notPlaying");
+	    		$("#bigHeader").addClass("isPlaying");
 
 	    		// animation scroll au play désactivée
 				// $("html, body").animate({

@@ -198,7 +198,11 @@ article {
 	}
 
 	&.notPlaying {
-		background : linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)) !important;
+		background : linear-gradient(rgba(0, 0, 0, 0.2) 20%, rgba(255, 255, 255, 1)) !important;
+	}
+
+	&.isPlaying {
+		background : transparent linear-gradient(rgba(0, 0, 0, 0) 98%,rgba(255, 255, 255, 0.5) 99% ,rgba(255, 255, 255, 1) 100%) repeat scroll 0% 0% !important;
 	}
 
 	text-align: center;
