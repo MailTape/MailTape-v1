@@ -194,7 +194,7 @@ article {
 	}
 
 	@media only screen and (min-width: 768px) {
-		min-height: 520px;
+		min-height: 500px;
 	}
 
 	&.notPlaying {
@@ -224,7 +224,7 @@ article {
 
 	.nav {
 		font-family: 'icomoon';
-		padding-top: 15px;
+		padding-top: 15play butpx;
 		font-size: 3.5em;
 	}
 
@@ -247,6 +247,12 @@ article {
 	  		color: white;
 	  		}
 	}
+
+	#readMore {
+		&.notPlaying {
+			display: none;
+		}
+	}
 }
 
 #playButton {
@@ -260,12 +266,14 @@ article {
 	color: fadeout(darken(white,10%),5%);
 	.transition(color,0.4s);
 
-	display: inline-block;
 	line-height: 1.1;
 
 	&:hover {
 		color: white;
 	}
+
+	&.notPlaying {	display: inline-block; }
+	&.isPlaying {display: none;}
 
 }
 
@@ -819,7 +827,7 @@ a {
     }
 
     &.notPlaying {
-    	h1 {top:0.5em;}
+    	h1 {top:0.6em;}
     }
 
 }
@@ -894,7 +902,7 @@ a {
 
 			@media only screen and (min-width: 768px) {
 				font-size: 2em;
-				top:-2.3em;
+				top:-2.4em;
 			}
 			font-family: 'superspitze_groteskregular';
 

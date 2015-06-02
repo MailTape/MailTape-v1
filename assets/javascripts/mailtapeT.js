@@ -48,20 +48,27 @@ $(document).ready(
     	function playTape () {
     		if (!isPlaying) {
 	    		isPlaying=true;
-	    		$("#playButton").fadeOut("slow");
-	    		$("#player").removeClass("notPlaying");	    				
-	    		$("#player").addClass("isPlaying");
-	    		$("#bigHeader").removeClass("notPlaying");
-	    		$("#bigHeader").addClass("isPlaying");
+	    		$(".notPlaying").addClass("isPlaying").removeClass("notPlaying");
 
-	    		// animation scroll au play désactivée
-				// $("html, body").animate({
-				// 	scrollTop: $('#player').offset().top+1
-				// 	//scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
-				// }, 1000);
-
+	    		// $("body").removeClass("notPlaying");
+	    		// $("body").addClass("isPlaying");
+	    		// $("#playButton").removeClass("notPlaying");
+	    		// $("#playButton").addClass("isPlaying");
+	    		// $("#player").removeClass("notPlaying");	    				
+	    		// $("#player").addClass("isPlaying");
+	    		// $("#bigHeader").removeClass("notPlaying");
+	    		// $("#bigHeader").addClass("isPlaying");
+	    		// $("#readMore").removeClass("notPlaying");
+	    		// $("#readMore").addClass("isPlaying");
 			}
     	}
+
+    	$("#readMore").click(function() {
+    		$("#readMore").fadeOut('slow');
+    		$("html, body").animate({
+				scrollTop: $('#player').offset().top+1
+			}, 1000);
+    	});
 
 		//cas où l'user clique directement sur l'une des track au lieu du gros play
 		$(".playlist").click(function() {
