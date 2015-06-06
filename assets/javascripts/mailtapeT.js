@@ -9,21 +9,23 @@ $(document).ready(
 		//$('a').attr('target','_blank');
 		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
 
-		$('#bigHeader h1').flowtype({
-         minimum   : 100,
-         maximum   : 1110,
-         minFont   : 12,
-         maxFont   : 200,
-         fontRatio : 9 // version fixée pour tt les épisode
-         // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
-         });
+		// $('#bigHeader h1').flowtype({
+  //        minimum   : 100,
+  //        maximum   : 1110,
+  //        minFont   : 12,
+  //        maxFont   : 90,
+  //        fontRatio : 7 // version fixée pour tt les épisode
+  //        // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
+  //        });
+
+		$('#bigHeader h1').fitText(0.7);
 
 		$('#bigHeader h2').flowtype({
          minimum   : 100,
          maximum   : 1110,
-         minFont   : 12,
+         minFont   : 10,
          maxFont   : 30,
-         fontRatio : 50 // A modifier au cas par cas ! -- Règle la largeur du titre
+         fontRatio : 55 // A modifier au cas par cas ! -- Règle la largeur du titre
          });
 
 		$('#playButton').flowtype({

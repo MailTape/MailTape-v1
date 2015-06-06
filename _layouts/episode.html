@@ -13,7 +13,7 @@
                 {% endif %}
             </div>
             <div class="col-md-8 col-md-offset-1 col-xs-6 col-xs-offset-1 center">
-                    <h2>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>
+                    <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>
                     <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
                     <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</span>
