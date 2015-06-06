@@ -1,19 +1,29 @@
-{% include head.html %} {% include fb_sdk.html %}  {% include topbar-subscription.html %} {% include topbar.html %}
+{% include head.html %} {% include fb_sdk.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
-<div id="bigHeader" class="stretchMe" data-stretch="/img/{{ page.guestPic }}">
-    <header id="colorFilter" class="{{ page.guest_color }}">
-        <div id="playButton" class="{{ page.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
 
-        <div class="container">
 
-            <div id="bigTitle">{{ page.guest_name }}</div>
+<div id="bigHeader" class="stretchMe notPlaying" data-stretch="/img/{{ page.guestPic }}">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1 col-xs-2 nav left">
+                {% if site.time > page.next.date %}
+                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
+                    &nbsp; &nbsp; &nbsp;
+                {% endif %}
+            </div>
+            <div class="col-md-8 col-md-offset-1 col-xs-6 col-xs-offset-1 center">
+                    <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
+                    <h1>{{ page.guest_name }}</h1>
+                    <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
+                    <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</span>
+            </div>
+            <div class="col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-1 nav right">
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
+            </div>
         </div>
+    </div>
 
-    </header>
-</div>
-
-<div id="musiColorSeparator" class="{{ page.guest_color }}">
-    <h2 id="underBigTitle">SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>
 </div>
 
 <div id="player" class="notPlaying">
@@ -76,9 +86,9 @@
 
             <article>
 
-                {{ content }}    
+                {{ content }}
                 <p style="font-style:italic" id="signature">{{page.author}}.</p>
-                
+
             </article>
 
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>

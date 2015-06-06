@@ -1,22 +1,39 @@
 $(document).ready(
 	function() {
 
+		// TEST en cours de désactivation
 
-		// $("#bigTitle").fitText(0.6);
-		$("#underBigTitle").fitTextV(2.5);
 		$(".stretchMe").anystretch();
 
 		// permet de faire pointer tous les liens dans un nouvel onglet
 		//$('a').attr('target','_blank');
 		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
 
+		// $('#bigHeader h1').flowtype({
+  //        minimum   : 100,
+  //        maximum   : 1110,
+  //        minFont   : 12,
+  //        maxFont   : 90,
+  //        fontRatio : 7 // version fixée pour tt les épisode
+  //        // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
+  //        });
+
+		$('#bigHeader h1').fitText(0.7);
+
+		$('#bigHeader h2').flowtype({
+         minimum   : 100,
+         maximum   : 1110,
+         minFont   : 10,
+         maxFont   : 30,
+         fontRatio : 55 // A modifier au cas par cas ! -- Règle la largeur du titre
+         });
+
 		$('#playButton').flowtype({
-		 minimum   : 679,
+		 minimum   : 500,
 		 maximum   : 1110,
-		 minFont   : 40,
-		 maxFont   : 250,
-		 fontRatio : 4, // A modifier au cas par cas ! -- Règle la largeur du titre
-		 lineRatio : 0.7 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
+		 minFont   : 30,
+		 maxFont   : 100,
+		 fontRatio : 6, // A modifier au cas par cas ! -- Règle la largeur du titre
 		});
 
 		 $('body').flowtype({
@@ -25,7 +42,6 @@ $(document).ready(
 		 minFont   : 12,
 		 maxFont   : 28,
 		 fontRatio : 65, // A modifier au cas par cas ! -- Règle la largeur du titre
-		 lineRatio : 1.8 // A modifier au cas par cas ! -- Règle la hauteur de ligne du titre
 		});
 
 		$(".musicolorLabel").lettering();
@@ -34,15 +50,27 @@ $(document).ready(
     	function playTape () {
     		if (!isPlaying) {
 	    		isPlaying=true;
-	    		$("#playButton").fadeOut("slow");
-	    		$("#player").removeClass("notPlaying");	    				
-	    		$("#player").addClass("isPlaying");
-				$("html, body").animate({
-					scrollTop: $('#player').offset().top+1
-					//scrollTop: $('#player').offset().top - $(window).height() + $("#player").height() * 9
-				}, 1000);
+	    		$(".notPlaying").addClass("isPlaying").removeClass("notPlaying");
+
+	    		// $("body").removeClass("notPlaying");
+	    		// $("body").addClass("isPlaying");
+	    		// $("#playButton").removeClass("notPlaying");
+	    		// $("#playButton").addClass("isPlaying");
+	    		// $("#player").removeClass("notPlaying");	    				
+	    		// $("#player").addClass("isPlaying");
+	    		// $("#bigHeader").removeClass("notPlaying");
+	    		// $("#bigHeader").addClass("isPlaying");
+	    		// $("#readMore").removeClass("notPlaying");
+	    		// $("#readMore").addClass("isPlaying");
 			}
     	}
+
+    	$("#readMore").click(function() {
+    		$("#readMore").fadeOut('slow');
+    		$("html, body").animate({
+				scrollTop: $('#player').offset().top+1
+			}, 1000);
+    	});
 
 		//cas où l'user clique directement sur l'une des track au lieu du gros play
 		$(".playlist").click(function() {
