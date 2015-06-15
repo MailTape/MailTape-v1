@@ -12,7 +12,7 @@ track4_color: trippy
 track5_color: bliss
 track6_color: dreamy
 track7_color: vibrant
-guest_name: Godblesscomputers
+guest_name: Godbless computers
 category: "171"
 episode_URL: "http://mailta.pe/171/Godblesscomputers/"
 track1_link: "https://soundcloud.com/recordiaulliwgar/ifan-dafydd-celwydd"
