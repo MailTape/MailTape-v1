@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: Julien
 guest_color: trippy
-bigTitle_font_ratio: "9"
+bigTitle_font_ratio: "11"
 bigTitle_line_ratio: "1"
 track1_color: bliss
 track2_color: dreamy
@@ -34,6 +34,7 @@ fbPic: fbPic171.jpg
 description: "We like to think that Lorenzo Nada is a genius who knows how to utilize computers to the best of their utility. His sounds are fresh, but familiar. For those of you open to versatility, Godblesscomputers is a must-listen."
 musiColor: musiColor171.png
 ---
+
 
 <p id="introduction">
 This morning, our guest of the week is an Italian Dj and Producer who goes by the name of [Godblesscomputers](http://godblesscomputers.bandcamp.com/ "Godblesscomputers' Bandcamp"). 
