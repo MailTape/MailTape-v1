@@ -3,7 +3,7 @@ layout: episode
 published: true
 author: Julien
 guest_color: trippy
-bigTitle_font_ratio: "13"
+bigTitle_font_ratio: "6"
 bigTitle_line_ratio: "1"
 track1_color: bliss
 track2_color: dreamy
