@@ -8,9 +8,9 @@ track1_color: dreamy
 track2_color: vibrant
 track3_color: vibrant
 track4_color: vibrant
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track5_color: trippy
+track6_color: vibrant
+track7_color: trippy
 category: "191"
 guest_name: Parra for Cuva
 track4_link: "https://soundcloud.com/mailtape/parra-for-cuva-majourefeat-casey-k"
