@@ -7,13 +7,15 @@ bigTitle_font_ratio: "6"
 track1_color: rough
 track2_color: rough
 track3_color: rough
-track4_color: rough
+track4_color: vibrant
 track5_color: rough
 track6_color: rough
 track7_color: rough
 category: "191"
 guest_name: Parra for Cuva
+track4_link: "https://soundcloud.com/mailtape/parra-for-cuva-majourefeat-casey-k"
 ---
+
 
 <p id="introduction">This morning take a trip into the joyful and psychedelic world of Amarillo. Where all cultures and all landscapes are gathered. Where inspiration came from everywhere. Where the night is sunniest than the day. Where rhythms controls you. In short, the perfect summer sound. </p>
  
