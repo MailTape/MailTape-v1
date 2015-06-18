@@ -31,22 +31,22 @@ track5_title: "Part Time - Honey Lips"
 episode_URL: "http://mailta.pe/191/Parra-for-Cuva/"
 ---
 
-<p id="introduction">This morning take a trip into the joyful and psychedelic world of Amarillo. Where all cultures and all landscapes are gathered. Where inspiration came from everywhere. Where the night is sunniest than the day. Where rhythms controls you. In short, the perfect summer sound. </p>
+<p id="introduction">This morning, we're gonna celebrate summer together with our great guest from Berlin, Parra for Cuva. You've waited so long for it to come, now is the moment to finally shine with confidence and share your love around you. Let your ego get vapirozed by the sun and go to this stranger who's looking at you. Like a sound wave, move your body to the beat and feel happiness filling your soul. Be the moment, join the movement.</p>
  
-# Hear the World
+# The storm is over
 
-Prick up one’s ear, did you recognize all influences of Amarillo ? I’ve found sounds of all the five continents in there first EP. Mostly from South America but there some asian vibes in it. Some will say that it looks like a soundtrack of a psychedelic Sergio Leon's western in which gallop David Bowie… This is somewhat true ! Bring up some African and polynesian’s riffs of guitar, and you’ve got all the five continents gathered.   
+His music has healing properties. With the accuracy of a laser beam, Parra for Cuva's tracks will surely touch your heart. His debut album is the perfect companion for your next summer adventure, whether it will be at the beach or in a tropical forest.
  
-# Amarillo's morning inspiration
+# Parra for Cuva's morning inspiration
 
-## Gengahr - She's a Witch
-_AMARILLO:_ **"**A great and rare pop discover, it smell summer, waves, suncream... One of my last crush.**"**
+## Balmorhea - Bowsprit
+_Parra:_ **"**I’m following this band for nearly 8 years now and every album is just wonderful. Their Albums “River Arms” and “Constellation” are some of my all time favs. In this song I especially love the simpleness and ruff beginning which has such a strong development. It always gives me goosebumps.**"**
  
-## Unknow Mortal Orchestra - Swim and Sleep
-_AMARILLO:_ **"**How to say, this track is ... Wonderful ! A lacy writing amazingly mixed with a performance without any fuss, kind of brutal, it's rare and it give a surprising power to a track that seems so simple.**"**
+## Mark Ronson's - A la Modeliste (Bonobo remix)
+_Parra:_ **"**No Sunday without this one. This is my definition of a good vibe track. The first time I heard it I was in New Zealand and we played it in the car over and over again.**"**
  
-## Chinawoman - Party Girl
-_AMARILLO:_ **"**...and there, a little gloomy masterpiece, what a voice ! Perfect incarnation of the word "languid". As nostalgic as sensual.**"**
+## Tom Day & Monsoonsiren - Elegiac
+_Parra:_ **"**Tom Day is such a strong composer with a very special feeling for details and harmonics. If you like this song you should also check out his track "Flamington".**"**
  
 <p id="outroduction">
 That’s all folks! A big thank to Amarillo and Microqlima Records! 
