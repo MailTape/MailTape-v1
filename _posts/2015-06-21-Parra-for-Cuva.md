@@ -50,5 +50,6 @@ _Parra:_ **"**Tom Day is such a strong composer with a very special feeling for 
  
 <p id="outroduction">
 That’s all folks! 9 more playlists and we'll hit the 200th one. This could not have happened with you, and without the amazing team who joined me in this beautiful adventure. Beauty is everywhere, and we're here to stay and keep reminding it to you every Sunday morning. With much Love.
+
 Thanks to [Parra for Cuva](https://www.facebook.com/parraforcuva.official), Lola and [Jan Garet](http://nsrknet.free.fr/) for his great artwork.
 </p>
