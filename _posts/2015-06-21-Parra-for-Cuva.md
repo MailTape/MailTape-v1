@@ -29,7 +29,11 @@ track7_title: "Thundercat  - Them Changes"
 track6_title: "Yoann Feynman - Television"
 track5_title: "Part Time - Honey Lips"
 episode_URL: "http://mailta.pe/191/Parra-for-Cuva/"
+description: "This morning, we're gonna celebrate summer together with our great guest from Berlin, Parra for Cuva. You've waited so long for it to come, now is the moment to finally shine with confidence and share your love around you. Let the sun evaporate your ego and go to this stranger who's looking at you. Like a sound wave, move your body to the beat and feel happiness filling your soul. Be the moment, join the movement."
+musiColor: musiColor191.png
+fbPic: fbPic191.jpg
 ---
+
 
 
 <p id="introduction">This morning, we're gonna celebrate summer together with our great guest from Berlin, [Parra for Cuva](https://www.facebook.com/parraforcuva.official). You've waited so long for it to come, now is the moment to finally shine with confidence and share your love around you. Let the sun evaporate your ego and go to this stranger who's looking at you. Like a sound wave, move your body to the beat and feel happiness filling your soul. Be the moment, join the movement.</p>
