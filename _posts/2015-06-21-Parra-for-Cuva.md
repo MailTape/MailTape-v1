@@ -28,6 +28,7 @@ track4_title: "Parra for Cuva - Majouré (feat Casey K)"
 track7_title: "Thundercat  - Them Changes"
 track6_title: "Yoann Feynman - Television"
 track5_title: "Part Time - Honey Lips"
+episode_URL: "http://mailta.pe/191/Parra-for-Cuva/"
 ---
 
 <p id="introduction">This morning take a trip into the joyful and psychedelic world of Amarillo. Where all cultures and all landscapes are gathered. Where inspiration came from everywhere. Where the night is sunniest than the day. Where rhythms controls you. In short, the perfect summer sound. </p>
