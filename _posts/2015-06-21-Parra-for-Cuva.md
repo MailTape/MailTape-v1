@@ -14,8 +14,21 @@ track7_color: rough
 category: "191"
 guest_name: Parra for Cuva
 track4_link: "https://soundcloud.com/mailtape/parra-for-cuva-majourefeat-casey-k"
+guestPic: guestPic191.jpg
+track1_link: "https://soundcloud.com/leahjasmine/balmorhea-bowsprit"
+track2_link: "https://soundcloud.com/opncow/a-la-modeliste-bonobo-remix"
+track3_link: "https://soundcloud.com/tomday/tom-day-monsoonsiren-elegiac"
+track5_link: "https://soundcloud.com/burgerrecords/part-time-honey-lips"
+track6_link: "https://soundcloud.com/yoannfeynman/television"
+track7_link: "https://soundcloud.com/brainfeeder/thundercat-them-changes"
+track1_title: "Balmorhea - Bowsprit"
+track2_title: "Mark Ronson's - A la Modeliste (Bonobo remix)"
+track3_title: " Tom Day & Monsoonsiren - Elegiac"
+track4_title: "Parra for Cuva - Majouré (feat Casey K)"
+track7_title: "Thundercat  - Them Changes"
+track6_title: "Yoann Feynman - Television"
+track5_title: "Part Time - Honey Lips"
 ---
-
 
 <p id="introduction">This morning take a trip into the joyful and psychedelic world of Amarillo. Where all cultures and all landscapes are gathered. Where inspiration came from everywhere. Where the night is sunniest than the day. Where rhythms controls you. In short, the perfect summer sound. </p>
  
