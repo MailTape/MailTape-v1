@@ -18,7 +18,7 @@ guestPic: guestPic191.jpg
 track1_link: "https://soundcloud.com/leahjasmine/balmorhea-bowsprit"
 track2_link: "https://soundcloud.com/opncow/a-la-modeliste-bonobo-remix"
 track3_link: "https://soundcloud.com/tomday/tom-day-monsoonsiren-elegiac"
-track5_link: "https://soundcloud.com/burgerrecords/part-time-honey-lips"
+track5_link: "https://soundcloud.com/mailtape/glenn-astro-computerkiller"
 track6_link: "https://soundcloud.com/yoannfeynman/television"
 track7_link: "https://soundcloud.com/brainfeeder/thundercat-them-changes"
 track1_title: "Balmorhea - Bowsprit"
@@ -27,12 +27,13 @@ track3_title: " Tom Day & Monsoonsiren - Elegiac"
 track4_title: "Parra for Cuva - Majouré (feat Casey K)"
 track7_title: "Thundercat  - Them Changes"
 track6_title: "Yoann Feynman - Television"
-track5_title: "Part Time - Honey Lips"
+track5_title: "Glenn Astro - Computer Killer"
 episode_URL: "http://mailta.pe/191/Parra-for-Cuva/"
 description: "This morning, we're gonna celebrate summer together with our great guest from Berlin, Parra for Cuva. You've waited so long for it to come, now is the moment to finally shine with confidence and share your love around you. Let the sun evaporate your ego and go to this stranger who's looking at you. Like a sound wave, move your body to the beat and feel happiness filling your soul. Be the moment, join the movement."
 musiColor: musiColor191.png
 fbPic: fbPic191.jpg
 ---
+
 
 
 
