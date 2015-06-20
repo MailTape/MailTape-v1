@@ -51,17 +51,6 @@ $(document).ready(
     		if (!isPlaying) {
 	    		isPlaying=true;
 	    		$(".notPlaying").addClass("isPlaying").removeClass("notPlaying");
-
-	    		// $("body").removeClass("notPlaying");
-	    		// $("body").addClass("isPlaying");
-	    		// $("#playButton").removeClass("notPlaying");
-	    		// $("#playButton").addClass("isPlaying");
-	    		// $("#player").removeClass("notPlaying");	    				
-	    		// $("#player").addClass("isPlaying");
-	    		// $("#bigHeader").removeClass("notPlaying");
-	    		// $("#bigHeader").addClass("isPlaying");
-	    		// $("#readMore").removeClass("notPlaying");
-	    		// $("#readMore").addClass("isPlaying");
 			}
     	}
 
@@ -112,27 +101,6 @@ $(document).ready(
 		        }
 	        }
 	    }, 10);
-
-		// $(window).bind('scroll', function() {
-		// 		if ($(window).scrollTop() > navHeight) {
-		// 			$('#player').addClass('navbar-fixed-top');
-		// 			alert('fix mofo!');
-		// 		}
-		// 		else {
-		// 			$('#player').removeClass('navbar-fixed-top');
-		// 		}
-		// });
-
-
-
-	    // $(window).scroll(function () {
-	    //     if ($(document).scrollTop() > $('#player').offset().top) {
-	    //         $('#player').addClass("navbar-fixed-top");
-	    //     } else {
-	    //         $('#player').removeClass("navbar-fixed-top");
-	    //     }
-	    // });
-
 		
 
 		/* Teaser image swap function */
