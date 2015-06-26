@@ -10,8 +10,8 @@ track2_color: vibrant
 track3_color: dreamy
 track4_color: trippy
 track5_color: dreamy
-track6_color: rough
-track7_color: rough
+track6_color: dreamy
+track7_color: vibrant
 track1_link: "https://soundcloud.com/populous/populous-the-breakfast-drama"
 track2_link: "https://soundcloud.com/international-feel/1-baby-come-home-1 "
 track3_link: "https://soundcloud.com/morrmusic/infinite-stillness"
