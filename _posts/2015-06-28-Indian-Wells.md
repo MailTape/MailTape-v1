@@ -24,6 +24,8 @@ episode_URL: "http://mailta.pe/192/Indian-Wells/"
 track4_link: "https://soundcloud.com/bad-panda-records/indianwells-alcantara"
 track4_title: "Indian Wells - Alcantara"
 guestPic: guestPic192.jpg
+track5_link: "https://soundcloud.com/plvnes/infinite-mind-power-seenmr"
+track5_title: "SEENMR - INFINITE MIND POWER "
 ---
 
 
