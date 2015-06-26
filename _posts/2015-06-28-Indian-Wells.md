@@ -28,6 +28,8 @@ track5_link: "https://soundcloud.com/plvnes/infinite-mind-power-seenmr"
 track5_title: "SEENMR - INFINITE MIND POWER "
 track6_link: "https://soundcloud.com/slowly-rolling-camera/anne"
 track7_link: "https://soundcloud.com/soulmotivators/aftermath"
+track7_title: "The Soul Motivators - Aftermath"
+track6_title: "Slowly Rolling Camera - Anne"
 ---
 
 
