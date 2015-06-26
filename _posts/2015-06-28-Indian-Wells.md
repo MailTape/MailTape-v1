@@ -39,8 +39,7 @@ track6_title: "Slowly Rolling Camera - Anne"
 This morning, our italian guest bring us to a captivating and overpowering world. Night sweatiness and rising morning are Indian Wells kingdom. No matter what you did last night, he's gonna transform your morning.
 
 # Indian Wells
-Subtle, heady, here is what define to us the performance of this italian producer. Slightly, he manages to increase the heaviness of the samples to form sticky and empowering tracks. 
-
+Subtle, heady, here is to us what define the music of this italian producer. Slightly, he manages to increase the heaviness of the samples to form sticky and empowering tracks. 
 
 ## Populous - The Breakfast Drama
 _Indian Wells:_ **"**This was one of the first tracks I listen to from my friend Populous. Simply magic.
