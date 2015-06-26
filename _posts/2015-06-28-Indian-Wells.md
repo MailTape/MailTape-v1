@@ -23,7 +23,9 @@ guest_name: Indian Wells
 episode_URL: "http://mailta.pe/192/Indian-Wells/"
 track4_link: "https://soundcloud.com/bad-panda-records/indianwells-alcantara"
 track4_title: "Indian Wells - Alcantara"
+guestPic: guestPic192.jpg
 ---
+
 
 
 <p id="introduction">This morning, </p>
