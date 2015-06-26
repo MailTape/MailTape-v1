@@ -9,7 +9,7 @@ track1_color: dreamy
 track2_color: vibrant
 track3_color: dreamy
 track4_color: trippy
-track5_color: rough
+track5_color: dreamy
 track6_color: rough
 track7_color: rough
 track1_link: "https://soundcloud.com/populous/populous-the-breakfast-drama"
@@ -26,6 +26,8 @@ track4_title: "Indian Wells - Alcantara"
 guestPic: guestPic192.jpg
 track5_link: "https://soundcloud.com/plvnes/infinite-mind-power-seenmr"
 track5_title: "SEENMR - INFINITE MIND POWER "
+track6_link: "https://soundcloud.com/slowly-rolling-camera/anne"
+track7_link: "https://soundcloud.com/soulmotivators/aftermath"
 ---
 
 
