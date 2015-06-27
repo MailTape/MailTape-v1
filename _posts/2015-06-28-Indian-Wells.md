@@ -38,8 +38,8 @@ track6_title: "Slowly Rolling Camera - Anne"
 This morning, our italian guest [Indian Wells](https://soundcloud.com/indian-wells "Indian Wells Soundcloud") bring us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning.
 </p>
 
-# Indian Wells
-Subtle, heady, here is to us what define best the music of this [italian producer](https://www.facebook.com/Indianbells?fref=ts "Indian Wells Facebook"). Slightly, he manages to increase the heaviness of the samples to form sticky and empowering tracks. 
+# Indian Wells's Selection
+Subtle, heady, here is to us what define best the music of this [italian producer](https://www.facebook.com/Indianbells?fref=ts "Indian Wells Facebook"). Slightly, he manages to increase the heaviness of the samples to form sticky and empowering tracks. Hope you'll enjoy his selection.
 
 ## Populous - The Breakfast Drama
 _Indian Wells:_ **"**This was one of the first tracks I listen to from my friend Populous. Simply magic.
