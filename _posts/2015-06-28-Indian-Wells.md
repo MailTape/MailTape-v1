@@ -32,7 +32,7 @@ track7_title: "The Soul Motivators - Aftermath"
 track6_title: "Slowly Rolling Camera - Anne"
 musiColor: musiColor192.png
 fbPic: fbPic192.jpg
-description: "This morning, our italian guest Indian Wells bring us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning."
+description: "This morning, our italian guest Indian Wells brings us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning."
 ---
 
 
@@ -40,7 +40,7 @@ description: "This morning, our italian guest Indian Wells bring us to a captiva
 
 
 <p id="introduction">
-This morning, our italian guest [Indian Wells](https://soundcloud.com/indian-wells "Indian Wells Soundcloud") bring us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning.
+This morning, our italian guest [Indian Wells](https://soundcloud.com/indian-wells "Indian Wells Soundcloud") brings us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning.
 </p>
 
 # Indian Wells's Selection
