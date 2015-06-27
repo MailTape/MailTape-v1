@@ -35,16 +35,13 @@ fbPic: fbPic192.jpg
 description: "This morning, our italian guest Indian Wells brings us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning."
 ---
 
-
-
-
-
 <p id="introduction">
-This morning, our italian guest [Indian Wells](https://soundcloud.com/indian-wells "Indian Wells Soundcloud") brings us to a captivating and overpowering world. Night sweatiness and rising morning are his kingdom. No matter what you did last night, he's gonna transform your morning.
+Our artist of the week, [Indian Wells](https://soundcloud.com/indian-wells "Indian Wells Soundcloud") is here to help you pull aside the curtain while you bask in the joy of having to wake up to yet another jovial morning.  The sounds from this episode are serene and carry in themselves a novelty that is yet to be explored. Also, some of the sounds including “Baby Come Home” do just about the right thing to gently wake you up from your slumber.
 </p>
 
-# Indian Wells's Selection
-Subtle, heady, here is to us what define best the music of this [Italian producer](https://www.facebook.com/Indianbells?fref=ts "Indian Wells Facebook"). Slightly, he manages to increase the heaviness of the samples to form sticky and empowering tracks. Hope you'll enjoy his selection.
+# Breaking with tradition
+The Italian producer Pietro Iannuzi named the band after the californian city Indian Wells. It is the same city that now hosts the tennis tournament BNP Paribas Open, formerly known as the Indian Wells Masters. 
+Speaking of tournament, there were tennis references in the 2012 debut Night Drops and also a song named “Wimbledon 1980” was sampled on the sound of tennis ball being hit back and forth. That said, we hope you enjoy our selection of the week and we will catch up next week until then, goodbye. 
 <br>
 
 ## Populous - The Breakfast Drama
