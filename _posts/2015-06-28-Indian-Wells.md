@@ -58,7 +58,7 @@ _Indian Wells:_ **"**I don't listen to rock music so much but this track remind 
 
  
 <p id="outroduction">
-A big thanks to [Indian Wells](https://badpandarecords.bandcamp.com/album/indian-wells-pause "Indian Wells Bandcamp") for his selection and to [Kathy Lee](www.kathyylee.com "Kathy Lee's Website") for the artwork.
+A big thanks to [Indian Wells](https://badpandarecords.bandcamp.com/album/indian-wells-pause "Indian Wells Bandcamp") for his selection and to [Kathy Lee](www.kathyylee.com "Kathy Lee's Website") for the great artwork.
 That’s all folks! 
 Enjoy your Sunday ! 
 </p>
