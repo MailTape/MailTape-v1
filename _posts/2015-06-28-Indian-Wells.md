@@ -31,7 +31,9 @@ track7_link: "https://soundcloud.com/soulmotivators/aftermath"
 track7_title: "The Soul Motivators - Aftermath"
 track6_title: "Slowly Rolling Camera - Anne"
 musiColor: musiColor192.png
+fbPic: fbPic192.jpg
 ---
+
 
 
 
