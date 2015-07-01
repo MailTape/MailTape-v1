@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: Maxime
 guest_color: bliss
 bigTitle_font_ratio: "6"
