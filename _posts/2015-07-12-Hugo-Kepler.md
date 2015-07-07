@@ -14,14 +14,16 @@ track7_color: rough
 track1_link: "https://soundcloud.com/partisan-records/john-grant-you-dont-have-to"
 track2_link: "https://soundcloud.com/kdhx/william-tyler-we-cant-go-home"
 track3_link: "https://soundcloud.com/rodrigoamarante/mon-nom"
-track5_link: "https://soundcloud.com/redeye-distribution/08-maribou-state-midas-feat"
-track6_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
-track7_link: "https://soundcloud.com/mailtape/samay-in-and-out"
+track5_link: "https://soundcloud.com/mailtape/samay-in-and-out"
+track6_link: "https://soundcloud.com/redeye-distribution/08-maribou-state-midas-feat"
+track7_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
 track1_title: "You don't have to - John Grant - Pale Green Ghosts"
 track4_link: "https://soundcloud.com/mailtape/hugo-kepler-senza-mon-amour"
 category: "194"
 guest_name: Hugo Kepler
+guestPic: ""
 ---
+
 
 
 ## A New Post
