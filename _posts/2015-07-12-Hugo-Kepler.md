@@ -35,7 +35,11 @@ This morning, be prepared for a shower of heart throbbing words and melodies tha
 </p>
 
 # Water in the desert.
-Quench your thirst for meaning and substance with the candid lyrics of John Grant, let yourself travel with the joyful cords of William Tyler and do not forget to grasp a minute of sensuality with the mesmerizing voice of Amarante. Are you still thirsty? Of course you are, it’s Sunday and ‘’Senza Mon Amour’’ I just can’t keep my ears of off you!! Kepler’ holding your hand, taking you for a tour of heat on chest and dilated pupils. Take a last sip of your glass, seems Maribou has dropped a love-flavored ice cub swirling around a gold straw from which an eruption of inspiration signed Tilman reminisces fun vibes. Digging for more, seems we are in and out of decadence with Samay’s oriental groove drop, toping this selection of magical flavors. 
+Quench your thirst for meaning and substance with the candid lyrics of John Grant, let yourself travel with the joyful cords of William Tyler and do not forget to grasp a minute of sensuality with the mesmerizing voice of Amarante. Are you still thirsty? 
+
+Of course you are, it’s Sunday and ‘’Senza Mon Amour’’ I just can’t keep my ears of off you!! Kepler’ holding your hand, taking you for a tour of heat on chest and dilated pupils. Take a last sip of your glass, seems Maribou has dropped a love-flavored ice cub swirling around a gold straw from which an eruption of inspiration signed Tilman reminisces fun vibes. 
+
+Digging for more, seems we are in and out of decadence with Samay’s oriental groove drop, toping this selection of magical flavors. 
 <br>
 <br>
 
