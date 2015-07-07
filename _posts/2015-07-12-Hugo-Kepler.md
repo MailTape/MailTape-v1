@@ -4,8 +4,8 @@ published: true
 author: ImaCrea
 guest_color: rough
 bigTitle_font_ratio: "6"
-track1_color: rough
-track2_color: rough
+track1_color: trippy
+track2_color: vibrant
 track3_color: rough
 track4_color: dreamy
 track5_color: bliss
@@ -13,7 +13,7 @@ track6_color: vibrant
 track7_color: rough
 track1_link: "https://soundcloud.com/partisan-records/john-grant-you-dont-have-to"
 track2_link: "https://soundcloud.com/kdhx/william-tyler-we-cant-go-home"
-track3_link: "https://soundcloud.com/rodrigoamarante/mon-nom"
+track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/194/Mon+Nom.mp3"
 track5_link: "https://soundcloud.com/mailtape/samay-in-and-out"
 track6_link: "https://soundcloud.com/redeye-distribution/08-maribou-state-midas-feat"
 track7_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
