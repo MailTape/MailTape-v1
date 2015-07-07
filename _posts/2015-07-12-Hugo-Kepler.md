@@ -31,7 +31,7 @@ track7_title: "Tilman - Eruption (Klamauk)"
 ---
 
 <p id="introduction">
-This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun’s universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
+This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
 </p>
 
 # Water in the desert.
