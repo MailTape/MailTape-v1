@@ -6,7 +6,7 @@ guest_color: rough
 bigTitle_font_ratio: "6"
 track1_color: trippy
 track2_color: vibrant
-track3_color: rough
+track3_color: dreamy
 track4_color: dreamy
 track5_color: bliss
 track6_color: vibrant
