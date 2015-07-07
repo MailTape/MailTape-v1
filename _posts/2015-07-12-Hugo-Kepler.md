@@ -44,18 +44,18 @@ Digging for more, seems we are in and out of decadence with Samay’s oriental g
 <br>
 
 
-## Hiatus Kaiyote - Fingerprints
-French Kiwi Juice: **"**_The new Hiatus Kaiyote's album, "Choose your Weapon", is now on my toplist albums, a masterpiece. Soulful, innovative and daring while remaining very accessible. I often start my day with this track._**“**
+## John Grant - You don't have to
+Hugo Kepler: **"**_I like the simplicity of the song. Almost no instruments. Just the voice, the melody, the words... Grant's lyrics are always disturbing and memorable.. They stick with you. You never expect what's coming next. "Because you think you're so fucking cool" ! It's such a childish thing to say !_**“**
 
-## Phony Ppl - Why iii Love the Moon
-FKJ: **"**_Phony Ppl is a nu-soul band, based in Brooklyn, that I follow closely these days. Feel good style, perfect for mornings._**"**
+## William Tyler - We can't go home again
+HK: **"**_Phony Ppl is a nu-soul band, based in Brooklyn, that I follow closely these days. Feel good style, perfect for mornings._**"**
 
-## Jeremih - Chillin 
-FKJ: **"**_It does not seem to me that this track has been an official release, only available on a free Jeremih's mixtape in poor quality mp3. I find it so effective, all hooks are crazy, it makes me smile every time._**"**
+## Rodrigo Amarante - Mon Nom
+HK: **"**_It does not seem to me that this track has been an official release, only available on a free Jeremih's mixtape in poor quality mp3. I find it so effective, all hooks are crazy, it makes me smile every time._**"**
 
  
 <p id="outroduction">
-Well that's all folks, thanks to FKJ and Guillaume for this episode, illustrated by [William Girault](https://www.facebook.com/Wllgr?fref=ts)
+Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](https://www.facebook.com/Wllgr?fref=ts) and written by PS KY.
 
 </p>
 
