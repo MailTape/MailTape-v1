@@ -19,6 +19,8 @@ track6_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
 track7_link: "https://soundcloud.com/mailtape/samay-in-and-out"
 track1_title: "You don't have to - John Grant - Pale Green Ghosts"
 track4_link: "https://soundcloud.com/mailtape/hugo-kepler-senza-mon-amour"
+category: "194"
+guest_name: Hugo Kepler
 ---
 
 ## A New Post
