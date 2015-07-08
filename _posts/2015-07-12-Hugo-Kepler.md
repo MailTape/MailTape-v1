@@ -21,7 +21,7 @@ track1_title: "John Grant - You don't have to"
 track4_link: "https://soundcloud.com/mailtape/hugo-kepler-senza-mon-amour"
 category: "194"
 guest_name: Hugo Kepler
-guestPic: ""
+guestPic: guestPic194.jpg
 track2_title: "William Tyler - We can't go home again"
 track3_title: "Rodrigo Amarante - Mon Nom"
 track4_title: "Hugo Kepler - Senza mon Amour"
@@ -58,4 +58,3 @@ HK: **"**_It does not seem to me that this track has been an official release, o
 Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](https://www.facebook.com/Wllgr?fref=ts) and written by PS KY.
 
 </p>
-
