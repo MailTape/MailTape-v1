@@ -30,6 +30,7 @@ track6_title: "Maribou State - Midas (feat. Holly Walker)"
 track7_title: "Tilman - Eruption (Klamauk)"
 ---
 
+
 <p id="introduction">
 This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
 </p>
@@ -55,6 +56,6 @@ HK: **"**_It does not seem to me that this track has been an official release, o
 
  
 <p id="outroduction">
-Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](https://www.facebook.com/Wllgr?fref=ts) and written by PS KY.
+Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](http://slipontherock.com/) and written by PS KY.
 
 </p>
