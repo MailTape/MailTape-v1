@@ -28,11 +28,15 @@ track4_title: "Hugo Kepler - Senza mon Amour"
 track5_title: "Samay - In and Out"
 track6_title: "Maribou State - Midas (feat. Holly Walker)"
 track7_title: "Tilman - Eruption (Klamauk)"
+fbPic: fbPic194.jpg
+musiColor: musiColor194.png
+episode_URL: "http://mailta.pe/194/Hugo-Kepler/"
+description: "This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Hugo Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  "
 ---
 
 
 <p id="introduction">
-This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
+This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. [Hugo Kepler](http://www.hugokepler.com/) chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
 </p>
 
 # Water in the desert.
@@ -41,7 +45,6 @@ Quench your thirst for meaning and substance with the candid lyrics of John Gran
 Are you still thirsty? Of course you are, it’s Sunday and ‘’Senza Mon Amour’’ I just can’t keep my ears of off you!! Kepler’ holding your hand, taking you for a tour of heat on chest and dilated pupils.
 
 Take a last sip of your glass, we are in and out of decadence with Samay’s oriental groove drop. Digging for more, seems Maribou has dropped a love-flavored ice cube swirling around a gold straw from which an eruption of inspiration signed Tilman reminisces fun vibes, topping this selection of magical flavors with sass. 
-<br>
 <br>
 
 
@@ -53,7 +56,6 @@ HK: **"**_Phony Ppl is a nu-soul band, based in Brooklyn, that I follow closely 
 
 ## Rodrigo Amarante - Mon Nom
 HK: **"**_It does not seem to me that this track has been an official release, only available on a free Jeremih's mixtape in poor quality mp3. I find it so effective, all hooks are crazy, it makes me smile every time._**"**
-
  
 <p id="outroduction">
 Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](http://slipontherock.com/) and written by PS KY.
