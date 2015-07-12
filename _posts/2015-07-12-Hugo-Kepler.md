@@ -2,7 +2,7 @@
 layout: episode
 published: true
 author: ImaCrea
-guest_color: rough
+guest_color: dreamy
 bigTitle_font_ratio: "6"
 track1_color: trippy
 track2_color: vibrant
@@ -33,6 +33,7 @@ musiColor: musiColor194.png
 episode_URL: "http://mailta.pe/194/Hugo-Kepler/"
 description: "This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Hugo Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  "
 ---
+
 
 
 
