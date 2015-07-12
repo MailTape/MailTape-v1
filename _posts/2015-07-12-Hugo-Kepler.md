@@ -36,6 +36,7 @@ description: "This morning, be prepared for a shower of heart throbbing words an
 
 
 
+
 <p id="introduction">
 This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. [Hugo Kepler](http://www.hugokepler.com/) chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  
 </p>
@@ -53,10 +54,10 @@ Take a last sip of your glass, we are in and out of decadence with Samay’s ori
 Hugo Kepler: **"**_I like the simplicity of the song. Almost no instruments. Just the voice, the melody, the words... Grant's lyrics are always disturbing and memorable.. They stick with you. You never expect what's coming next. "Because you think you're so fucking cool" ! It's such a childish thing to say !_**“**
 
 ## William Tyler - We can't go home again
-HK: **"**_Phony Ppl is a nu-soul band, based in Brooklyn, that I follow closely these days. Feel good style, perfect for mornings._**"**
+HK: **"**_I bought this album in 2013. I used to play it when I was driving in Corsica. It made feel like I was on another planet. This track is timeless. This indian-like feeling makes it all the more mysterious. I like the way this track evolves, it's very well written._**"**
 
 ## Rodrigo Amarante - Mon Nom
-HK: **"**_It does not seem to me that this track has been an official release, only available on a free Jeremih's mixtape in poor quality mp3. I find it so effective, all hooks are crazy, it makes me smile every time._**"**
+HK: **"**_In this album all the melodies are super refined. This song is in french. The musicality of the brazilian accent adds something dreamy and melancholic. The lyrics are very intriguing... It's always thrilling to hear the story of a foreigner... You've got to love a guy who's comparing himself to an aubergine._**"**
  
 <p id="outroduction">
 Well that's all folks, thanks to [Hugo Kepler](http://www.hugokepler.com/) and Erwan for this episode, illustrated by [Camille Celestin](http://slipontherock.com/) and written by PS KY.
