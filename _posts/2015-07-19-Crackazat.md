@@ -4,13 +4,13 @@ published: false
 author: Maxime
 guest_color: rough
 bigTitle_font_ratio: "6"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
+track1_color: dreamy
+track2_color: vibrant
+track3_color: vibrant
+track4_color: bliss
 track5_color: rough
 track6_color: rough
-track7_color: rough
+track7_color: dreamy
 category: "195"
 guest_name: Crackazat
 guestPic: guestPic195.jpg
@@ -28,6 +28,9 @@ track4_title: "Crackazat - Eye Light"
 track5_title: "Eli Escobar - The Formula"
 track6_title: "Roman Rauch - Cosmic Shit"
 track7_title: "SG Lewis - No Less (Kartell Remix)"
+episode_URL: "http://mailta.pe/195/Crackazat"
+fbPic: fbPic195.jpg
+musiColor: musiColor195.png
 ---
 
  
