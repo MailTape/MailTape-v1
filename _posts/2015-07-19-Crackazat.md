@@ -33,11 +33,6 @@ fbPic: fbPic195.jpg
 musiColor: musiColor195.png
 ---
 
-
-
-
-
-
 <p id="introduction">
 This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand wagging, then your foot... And here we are ! coffee in one hand, eyes open, here we go !   
 
