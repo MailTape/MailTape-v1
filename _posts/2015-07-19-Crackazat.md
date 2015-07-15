@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: Maxime
 guest_color: rough
 bigTitle_font_ratio: "6"
@@ -28,10 +28,11 @@ track4_title: "Crackazat - Eye Light"
 track5_title: "Eli Escobar - The Formula"
 track6_title: "Roman Rauch - Cosmic Shit"
 track7_title: "SG Lewis - No Less (Kartell Remix)"
-episode_URL: "http://mailta.pe/195/Crackazat"
+episode_URL: "http://mailta.pe/195/Crackazat/"
 fbPic: fbPic195.jpg
 musiColor: musiColor195.png
 ---
+
 
  
 <p id="introduction">
