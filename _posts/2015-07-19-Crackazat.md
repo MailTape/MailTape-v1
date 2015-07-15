@@ -56,6 +56,5 @@ C.: **"**_Like myself, DJ/Producer Sameed has released music on swedish house la
 C.: **"**_Types sun is truly original producer and musician, who through years of dedication and craftsmanship, has created some truly timeless songwriting and productions. 'The PL' was first released over 8 years ago, and still fills me with the same joy and excitement to this day. It is an eternal piece of soul music._**"**
  
 <p id="outroduction">
-xxx
- 
+That's all Folks, Thanks to Benjamin Jacobs for his wonderful selection, and thanks to Celestin for the gorgeous illustration !  
 </p>
