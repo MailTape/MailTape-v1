@@ -1,7 +1,7 @@
 ---
 layout: episode
 published: false
-author: Dimitri
+author: Maxime
 guest_color: rough
 bigTitle_font_ratio: "6"
 track1_color: rough
@@ -11,6 +11,23 @@ track4_color: rough
 track5_color: rough
 track6_color: rough
 track7_color: rough
+category: "195"
+guest_name: Crackazat
+guestPic: guestPic195.jpg
+track1_link: "https://soundcloud.com/skalpelmusic/skalpel-sculpture-skalpel"
+track2_link: "https://soundcloud.com/sameed/blue"
+track3_link: "https://soundcloud.com/stampthewax/typesun-the-pl"
+track4_link: "https://soundcloud.com/nicolas-kitic/crackazat-eye-light"
+track5_link: "https://soundcloud.com/eliescobar/the-formula?in=eliescobar/sets/up-all-night-digital-version"
+track7_link: "https://soundcloud.com/kartell/sg-lewis-no-less-kartell-remix-1"
+track6_link: "https://soundcloud.com/the-ransom-note/roman-rauch-cosmic-shit-from"
+track1_title: "Skalpel - Sculpture"
+track2_title: "Sameed - Blue"
+track3_title: "Type Sun - The PL"
+track4_title: "Crackazat - Eye Light"
+track5_title: "Eli Escobar - The Formula"
+track6_title: "Roman Rauch - Cosmic Shit"
+track7_title: "SG Lewis - No Less (Kartell Remix)"
 ---
 
  
