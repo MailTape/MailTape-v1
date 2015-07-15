@@ -39,8 +39,8 @@ This morning, you deserve an effective awakening of the senses. The kind of awak
 We introduce you Crackazat, exceptionally gifted House music producer. Raise in UK, Benjamin Jacobs lives now in swedento be closer to his label, "Local Talk", which distils the most classy contemporary house music.
 </p>
 
-# Shapeshifter
-Electronic Hip-Hop beats, soulful grooves, classy house and most of all jazzy melodies. That's the Formula ! Crackazat also goes to tribal and exotic beats sometimes, but his touch his already recognized and appreciated at fair value. 
+# as a shapeshifter
+Electronic Hip-Hop beats, soulful grooves, classy house and most of all: jazzy melodies. That's the Formula ! Crackazat also goes to tribal and exotic beats sometimes, but his touch his already recognized and appreciated at fair value. 
 <br>
 
  
