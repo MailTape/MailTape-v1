@@ -33,9 +33,6 @@ fbPic: fbPic195.jpg
 musiColor: musiColor195.png
 ---
 
-![guestPic195.jpg]({{site.baseurl}}/img/guestPic195.jpg)
-
- 
 <p id="introduction">
 xxx
 </p>
