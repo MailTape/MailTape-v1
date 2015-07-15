@@ -39,11 +39,10 @@ This morning, you deserve an effective awakening of the senses. The kind of awak
 We introduce you Crackazat, exceptionally gifted House music producer. Raise in UK, Benjamin Jacobs lives now in swedento be closer to his label, "Local Talk", which distils the most classy contemporary house music.
 </p>
 
-<p 
 # Shapeshifter
 Electronic Hip-Hop beats, soulful grooves, classy house and most of all jazzy melodies. That's the Formula ! Crackazat also goes to tribal and exotic beats sometimes, but his touch his already recognized and appreciated at fair value. 
 <br>
-</p>
+
  
 ## Skalpel - Sculpture
 Crackazat: **"**_A great wake up track, taken from on of my favorite trip-hop/nu-Jazz albums. The rest of the album fantastic. It's simply self titled 'Skalpel' and was released on 2004 on ninja tune._**“**
