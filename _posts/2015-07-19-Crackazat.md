@@ -34,7 +34,7 @@ musiColor: musiColor195.png
 ---
 
 <p id="introduction">
-xxx
+This morning, you deserve an efficient wake up. The kind of alarm that make you smile the head buried in the pillow. And, slowly, it's your hand wagging, then your foot... And here we are ! coffee in one hand, eyes open, ready to live !  
 </p>
  
 # xxx
