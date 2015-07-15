@@ -41,6 +41,7 @@ We introduce you Crackazat, exceptionally gifted House music producer. Raise in 
 # Shapeshifter
 Electronic Hip-Hop beats, soulful grooves, classy house and most of all jazzy melodies. That's the Formula ! Crackazat also goes to tribal and exotic beats sometimes, but his touch his already recognized and appreciated at fair value. 
 <br>
+</p>
  
  
 ## Skalpel - Sculpture
