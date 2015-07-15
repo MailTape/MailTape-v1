@@ -38,7 +38,7 @@ musiColor: musiColor195.png
 
 <p id="introduction">
 This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand wagging, then your foot... And here we are ! coffee in one hand, eyes open, here we go !
-We introduce you Crackazat, exceptionally gifted House music producer. Raise in UK, Benjamin Jacobs lives now in swedento be closer to his label, "Local Talk", which distils the most classy contemporary house music.</p>
+We introduce you Crackazat, exceptionally gifted House-music producer. Raise in UK, Benjamin Jacobs lives now in sweden, maybe to be closer to his label, "Local Talk", which distils the most classy contemporary house music.</p>
 
 # As a shapeshifter
 Electronic Hip-Hop beats, soulful grooves, classy house and most of all: jazzy melodies. That's the Crackazat's formula ! Crackazat also goes to tribal and exotic beats sometimes, but his recipe his already recognizable and appreciated at fair value. 
