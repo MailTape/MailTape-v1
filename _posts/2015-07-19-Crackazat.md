@@ -40,7 +40,7 @@ Today, we introduce you Crackazat, an exceptionally gifted House-music producer.
 
 # As a shapeshifter
 Electronic Hip-Hop beats, soulful grooves, classy house and jazzy melodies especially. That's the Crackazat's formula ! Crackazat also goes to tribal and exotic beats sometimes, but his recipe his already recognizable and appreciated at fair value.  
-B. Jacobs is a Jazz musician and a guitar/piano teacher in Uppsala, and of course it's reflected in his productions, more detailed and richer than average. His debut album, out this year, contain some tracks that are already classics. "Eye Light", "Let Love" or "Somewhere Else", these are tracks that seem to have always been there. As restless as rich in musical arrangements, his album is an obvious sign of an undeniable talent.
+B. Jacobs is a Jazz musician and a guitar/piano teacher in Uppsala, and of course it's reflected in his productions, more detailed and richer than average. His debut album "Crescendo" (out this year) contain some tracks that are already classics. "Eye Light", "Let Love" or "Somewhere Else", these are tracks that seem to have always been there. As restless as rich in musical arrangements, his album is an obvious sign of an undeniable talent.
 
 # A tuneful selection
  
