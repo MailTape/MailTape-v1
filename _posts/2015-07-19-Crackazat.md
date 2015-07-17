@@ -33,6 +33,9 @@ fbPic: fbPic195.jpg
 musiColor: musiColor195.png
 ---
 
+![fbPic195.jpg]({{site.baseurl}}/img/fbPic195.jpg)
+![musiColor195.png]({{site.baseurl}}/img/musiColor195.png)
+
 
 <p id="introduction"> This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !   
 
