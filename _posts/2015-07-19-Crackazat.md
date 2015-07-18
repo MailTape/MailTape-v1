@@ -36,13 +36,14 @@ description: "This morning, you deserve an effective awakening of the senses. Th
 
 
 
+
 <p id="introduction"> This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !   
 
 Today, we introduce you Crackazat, an exceptionally gifted House-music producer. Raised in UK, Benjamin Jacobs lives now in Sweden, maybe to be closer to his crew, the label "Local Talk", which distils the most classy contemporary house music.</p>
 
 # As a shapeshifter
 Electronic Hip-Hop beats, soulful grooves, classy house and jazzy melodies especially. That's the Crackazat's formula ! Crackazat also goes to tribal and exotic beats sometimes, but his recipe his already recognizable and appreciated at fair value.  
-B. Jacobs is a Jazz musician and a guitar/piano teacher in Uppsala, and of course it's reflected in his productions, more detailed and richer than average. His debut album "Crescendo" (out this year) contain some tracks that are already classics. "Eye Light", "Let Love" or "Somewhere Else", these are tracks that seem to have always been there. As restless as rich in musical arrangements, his album is an obvious sign of an undeniable talent.
+B. Jacobs is a Jazz musician and a guitar/piano teacher in Uppsala, and of course it's reflected in his productions, more detailed and richer than average. His debut album "[Crescendo](https://soundcloud.com/localtalk/sets/crackazat-crescendo-ltcd002)" (out this year) contain some tracks that are already classics. "Eye Light", "Let Love" or "Somewhere Else", these are tracks that seem to have always been there. As restless as rich in musical arrangements, his album is an obvious sign of an undeniable talent.
 
 # A tuneful selection
  
@@ -56,4 +57,4 @@ C.: **"**_Like myself, DJ/Producer Sameed has released music on swedish house la
 C.: **"**_Types sun is truly original producer and musician, who through years of dedication and craftsmanship, has created some truly timeless songwriting and productions. 'The PL' was first released over 8 years ago, and still fills me with the same joy and excitement to this day. It is an eternal piece of soul music._**"**
  
 <p id="outroduction">
-That's all Folks, Thanks to Benjamin Jacobs for his wonderful selection, and thanks to Celestin for the gorgeous illustration !</p>
+That's all Folks, Thanks to [Crackazat](https://soundcloud.com/crackazat) for his wonderful selection, and thanks to [Celestin](http://slipontherock.com/) for the gorgeous illustration !</p>
