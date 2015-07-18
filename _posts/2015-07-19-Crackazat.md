@@ -34,6 +34,7 @@ musiColor: musiColor195.png
 description: "This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !"
 ---
 
+![fbPic195.jpg]({{site.baseurl}}/img/fbPic195.jpg)
 <p id="introduction"> This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !   
 
 Today, we introduce you Crackazat, an exceptionally gifted House-music producer. Raised in UK, Benjamin Jacobs lives now in Sweden, maybe to be closer to his crew, the label "Local Talk", which distils the most classy contemporary house music.</p>
