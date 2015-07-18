@@ -31,7 +31,9 @@ track7_title: "SG Lewis - No Less (Kartell Remix)"
 episode_URL: "http://mailta.pe/195/Crackazat/"
 fbPic: fbPic195.jpg
 musiColor: musiColor195.png
+description: "This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !"
 ---
+
 
 
 <p id="introduction"> This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !   
