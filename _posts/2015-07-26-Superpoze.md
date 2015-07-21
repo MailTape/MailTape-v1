@@ -27,6 +27,7 @@ track4_title: "Superpoze - Overseas (Sekuoia rework)"
 track5_title: "Felix Laband - Squeeze the Trigger"
 track6_title: "Laurent Garnier - The Rise & The Fall Of The Donkey Dog_Husbands Remix"
 track7_title: "JeF ZeRo - Arcade Funke"
+guestPic: guestPic196.jpg
 ---
 
 
@@ -44,6 +45,7 @@ Superpoze: **"**_Perfect morning song_**“**
 S.: **"**_Wonderful piece by one of the best producer/songwriter right now._ **"**
  
 ## Fourt Tet - Unicorn
+
 S.: **"**_Let the sunshine in._**"**
  
 <p id="outroduction">
