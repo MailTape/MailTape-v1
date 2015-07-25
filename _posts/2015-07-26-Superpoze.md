@@ -57,4 +57,4 @@ S.: **"**_Wonderful piece by one of the best producer/songwriter right now._ **"
 S.: **"**_Let the sunshine in._**"**
  
 <p id="outroduction">
-That's all Folks, Thanks to [Superpoze](https://www.facebook.com/SuperpozeMusic) for his beautiful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for the gorgeous illustration and PS KY for her poetry !</p>
+That's all Folks, thanks to [Superpoze](https://www.facebook.com/SuperpozeMusic) for his beautiful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for the gorgeous illustration and PS KY for her poetry !</p>
