@@ -34,7 +34,7 @@ fbPic: fbPic196.jpg
 episode_URL: "http://mailta.pe/196/Superpoze/"
 ---
 
-<p id="introduction">This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome [Superpoze](https://www.facebook.com/SuperpozeMusic) and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filled with surprises.</p>
+<p id="introduction">This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome [Trashlagoon](https://www.facebook.com/trashlagoon) and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filled with surprises.</p>
 
 
 # Reveries and Fantasies
