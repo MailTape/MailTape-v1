@@ -33,11 +33,6 @@ track7_title: "Lone - Banyan Drive"
 track6_title: "Blhaz - Wasted Time"
 ---
 
-
-
-
-
-
 <p id="introduction">This Sunday, ... [Trashlagoon](https://www.facebook.com/trashlagoon) ...</p>
 
 
@@ -64,4 +59,4 @@ way. This is electronic jazz music.**"**
 Trashlagoon: **"**This production proves that one vocal sample can make a song. Reprise has a huge built-up that continues with the most chilled groove i’ve ever heard. It even doesn’t need a basedrum to do his magic.**“**
  
 <p id="outroduction">
-That's all Folks, thanks to [Trashlagoon](https://www.facebook.com/trashlagoon) for his beautiful selection, thanks to [...](https://www.facebook.com/Wllgr?fref=ts) for the gorgeous illustration and PS KY for her poetry !</p>
+That's all Folks, thanks to [Trashlagoon](https://www.facebook.com/trashlagoon) for his beautiful selection, thanks to [Celestin](http://slipontherock.com) for the gorgeous illustration and ... for the nicely put text!</p>
