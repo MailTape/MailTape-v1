@@ -10,7 +10,7 @@ track3_color: dreamy
 track4_color: vibrant
 track5_color: dreamy
 track6_color: rough
-track7_color: bliss
+track7_color: vibrant
 category: "197"
 guest_name: Trashlagoon
 guestPic: guestpic197.jpg
@@ -21,16 +21,16 @@ track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
 track2_link: "https://soundcloud.com/mitch_raz/shigeto-ann-arbor-pt-3-4"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
 track5_link: "https://soundcloud.com/driftlessrecordings/cfcf-la-soufriere"
-track6_link: "https://soundcloud.com/boxon-records/kujira?in=boxon-records/sets/boxon062-joy-kujira-ep"
-track7_link: "https://soundcloud.com/atomnation/portable-sunsets-islander-1?in=atomnation/sets/atm027-portable-sunsets-bless"
+track6_link: "https://soundcloud.com/shhsecretsongs/kero-kero-bonito-flamingo"
+track7_link: "https://soundcloud.com/nicholas-larsen/ill-remember"
 track4_link: "https://soundcloud.com/trashlagoon/session-87"
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"
 track3_title: "Gold Panda - Reprise"
 track4_title: "Trashlagoon - Session 87"
 track5_title: "CFCF - La Soufrière"
-track7_title: "Portable Sunset - Islander"
-track6_title: "JOY! - Kujira"
+track7_title: "Nicholas Larsen - I'll Remember"
+track6_title: "Kero Kero Bonito - Flamingo"
 ---
 
 
