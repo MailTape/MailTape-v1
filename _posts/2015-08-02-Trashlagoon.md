@@ -20,11 +20,19 @@ episode_URL: "http://mailta.pe/197/Trashlagoon"
 track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
 track2_link: "https://soundcloud.com/mitch_raz/shigeto-ann-arbor-pt-3-4"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
-track5_link: "https://soundcloud.com/monkeytownrecords/dark-sky-voyages"
+track5_link: "https://soundcloud.com/driftlessrecordings/cfcf-la-soufriere"
 track6_link: "https://soundcloud.com/boxon-records/kujira?in=boxon-records/sets/boxon062-joy-kujira-ep"
 track7_link: "https://soundcloud.com/atomnation/portable-sunsets-islander-1?in=atomnation/sets/atm027-portable-sunsets-bless"
-track4_link: "https://soundcloud.com/trashlagoon/undefined-smth?in=trashlagoon/sets/entracte"
+track4_link: "https://soundcloud.com/trashlagoon/sets/madhira"
+track1_title: "Floating Points - Myrtle Avenue"
+track2_title: "Shigeto - Ann Arbor Part 3 & 4"
+track3_title: "Gold Panda - Reprise"
+track4_title: "Trashlagoon - Madhira"
+track5_title: "CFCF - La Soufrière"
+track7_title: "Portable Sunset - Islander"
+track6_title: "JOY! - Kujira"
 ---
+
 
 
 
