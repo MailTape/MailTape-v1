@@ -17,33 +17,41 @@ guestPic: guestpic197.jpg
 fbPic: fbPic197.png
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon"
+track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
+track2_link: "https://soundcloud.com/mitch_raz/shigeto-ann-arbor-pt-3-4"
+track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
+track5_link: "https://soundcloud.com/atomnation/portable-sunsets-islander-1?in=atomnation/sets/atm027-portable-sunsets-bless"
+track6_link: "https://soundcloud.com/boxon-records/sets/boxon062-joy-kujira-ep"
+track7_link: "https://soundcloud.com/monkeytownrecords/dark-sky-voyages"
+track4_link: "https://soundcloud.com/trashlagoon/undefined-smth?in=trashlagoon/sets/entracte"
 ---
 
 
-<p id="introduction">This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome [Trashlagoon](https://www.facebook.com/trashlagoon) and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filled with surprises.</p>
+
+<p id="introduction">This Sunday, ... [Trashlagoon](https://www.facebook.com/trashlagoon) ...</p>
 
 
-# Reveries and Fantasies
+# ... ... ...
 
-Whether you like it dreamy, fancy, funky or simply groovy, relax in the passenger seat of the Superpoze carousel and let the musical electrolytes revive your senses. 
+... ... ...
 
-You’ll wake up on a Shigeto cloud, letting your eyelids unfold with the gentleness of each lyrical breath. Lucky us!! Saturn boy is here to make you feel the jitters of universal melancholy, pinching your utmost desires for joy with sincerity. And it seems unicorns exist after all. The stars are aligned, ready to take us for a fleeting yet memorable voyage. A flow enchanted with beats, welcoming you to the Sunday of your dreams. 
+... ... ...
 
-The journey continues, overseas we go, with the electric and catchy tunes of Superpoze’s Sekuoia remix. Almost ready to rise, with pace and style, moving forward, Felix Laband is vibrant, a parallel of what it probably feels like to squeeze life out of vanity. 
+... ... ...
 
-We rise & fall with Garnier’s confidence; we all need a friend don’t we? It’s time to go I think, both feet on the floor, out of the bed we go, accompanied by the beats of JeF ZeRo’s zesty and reviving Arcade Funke.
 
-# Superpoze's inspiring selection :
+# Trashlagoon's inspiring selection :
  
-## Hundred Waters - Cavity (Shigeto remix)
-Superpoze: **"**_Perfect morning song_**“**
- 
-## Dream Koala - Saturn Boy
-S.: **"**_Wonderful piece by one of the best producer/songwriter right now._ **"**
- 
-## Fourt Tet - Unicorn
+## Floating Points - Myrtle Avenue
+Trashlagoon: **"**I think there is no appropriate way to describe his awesomeness. The most interesting pieces of music are indescribable to my opinion. Give it a listen, make yourself comfortable and enjoy this
+masterpiece.**"**
 
-S.: **"**_Let the sunshine in._**"**
+## Shigeto - Ann Arbor Part 3 & 4
+Trashlagoon: **"**An ode to his hometown Ann Arbor continued on „Lineage“ (Ghostly International) in 2012. He continues his groundbreaking Ann Arbor Part 1 & 2 Series by using his Rhodes Piano in an virtuosic
+way. This is electronic jazz music.**"**
+
+## Gold Panda - Reprise
+Trashlagoon: **"**This production proves that one vocal sample can make a song. Reprise has a huge built-up that continues with the most chilled groove i’ve ever heard. It even doesn’t need a basedrum to do his magic.**“**
  
 <p id="outroduction">
-That's all Folks, thanks to [Superpoze](https://www.facebook.com/SuperpozeMusic) for his beautiful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for the gorgeous illustration and PS KY for her poetry !</p>
+That's all Folks, thanks to [Trashlagoon](https://www.facebook.com/trashlagoon) for his beautiful selection, thanks to [...](https://www.facebook.com/Wllgr?fref=ts) for the gorgeous illustration and PS KY for her poetry !</p>
