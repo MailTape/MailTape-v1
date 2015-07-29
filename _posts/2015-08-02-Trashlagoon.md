@@ -5,12 +5,12 @@ author: Ludovic
 guest_color: rough
 bigTitle_font_ratio: "6"
 track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
+track2_color: trippy
+track3_color: dreamy
+track4_color: trippy
+track5_color: bliss
 track6_color: rough
-track7_color: rough
+track7_color: dreamy
 category: "197"
 guest_name: Trashlagoon
 guestPic: guestpic197.jpg
