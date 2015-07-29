@@ -27,7 +27,7 @@ track4_link: "https://soundcloud.com/trashlagoon/01-marouki-knows?in=trashlagoon
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"
 track3_title: "Gold Panda - Reprise"
-track4_title: "Trashlagoon - Madhira"
+track4_title: "Trashlagoon - Marouki Knows"
 track5_title: "CFCF - La Soufrière"
 track7_title: "Portable Sunset - Islander"
 track6_title: "JOY! - Kujira"
