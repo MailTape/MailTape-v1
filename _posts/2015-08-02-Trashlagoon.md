@@ -8,9 +8,9 @@ track1_color: rough
 track2_color: trippy
 track3_color: dreamy
 track4_color: trippy
-track5_color: bliss
+track5_color: dreamy
 track6_color: rough
-track7_color: dreamy
+track7_color: bliss
 category: "197"
 guest_name: Trashlagoon
 guestPic: guestpic197.jpg
@@ -20,9 +20,9 @@ episode_URL: "http://mailta.pe/197/Trashlagoon"
 track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
 track2_link: "https://soundcloud.com/mitch_raz/shigeto-ann-arbor-pt-3-4"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
-track5_link: "https://soundcloud.com/atomnation/portable-sunsets-islander-1?in=atomnation/sets/atm027-portable-sunsets-bless"
+track5_link: "https://soundcloud.com/monkeytownrecords/dark-sky-voyages"
 track6_link: "https://soundcloud.com/boxon-records/kujira?in=boxon-records/sets/boxon062-joy-kujira-ep"
-track7_link: "https://soundcloud.com/monkeytownrecords/dark-sky-voyages"
+track7_link: "https://soundcloud.com/atomnation/portable-sunsets-islander-1?in=atomnation/sets/atm027-portable-sunsets-bless"
 track4_link: "https://soundcloud.com/trashlagoon/undefined-smth?in=trashlagoon/sets/entracte"
 ---
 
