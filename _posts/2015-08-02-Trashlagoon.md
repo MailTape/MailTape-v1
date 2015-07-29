@@ -7,7 +7,7 @@ bigTitle_font_ratio: "6"
 track1_color: rough
 track2_color: trippy
 track3_color: dreamy
-track4_color: vibrant
+track4_color: dreamy
 track5_color: vibrant
 track6_color: rough
 track7_color: dreamy
@@ -23,11 +23,11 @@ track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
 track5_link: "https://soundcloud.com/nicholas-larsen/ill-remember"
 track6_link: "https://soundcloud.com/blhaz/wasted-time"
 track7_link: "https://soundcloud.com/lone-1/banyan-drive"
-track4_link: "https://soundcloud.com/trashlagoon/session-87"
+track4_link: "https://soundcloud.com/trashlagoon/01-marouki-knows"
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"
 track3_title: "Gold Panda - Reprise"
-track4_title: "Trashlagoon - Session 87"
+track4_title: "Trashlagoon - Marouki Knows"
 track5_title: "Nicholas Larsen - I'll Remember"
 track7_title: "Lone - Banyan Drive"
 track6_title: "blhaz - wasted time"
