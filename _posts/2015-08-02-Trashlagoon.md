@@ -10,7 +10,7 @@ track3_color: dreamy
 track4_color: dreamy
 track5_color: vibrant
 track6_color: rough
-track7_color: dreamy
+track7_color: trippy
 category: "197"
 guest_name: Trashlagoon
 guestPic: guestpic197.jpg
