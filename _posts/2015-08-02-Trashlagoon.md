@@ -30,7 +30,7 @@ track3_title: "Gold Panda - Reprise"
 track4_title: "Trashlagoon - Marouki Knows"
 track5_title: "Nicholas Larsen - I'll Remember"
 track7_title: "Lone - Banyan Drive"
-track6_title: "blhaz - wasted time"
+track6_title: "Blhaz - Wasted Time"
 ---
 
 
