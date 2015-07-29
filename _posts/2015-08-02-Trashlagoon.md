@@ -9,7 +9,7 @@ track2_color: trippy
 track3_color: dreamy
 track4_color: vibrant
 track5_color: vibrant
-track6_color: dreamy
+track6_color: rough
 track7_color: dreamy
 category: "197"
 guest_name: Trashlagoon
@@ -21,16 +21,16 @@ track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/197/track2.m4a"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
 track5_link: "https://soundcloud.com/nicholas-larsen/ill-remember"
-track6_link: "https://soundcloud.com/tussilagoofficial/01-lovesong-1"
-track7_link: "https://soundcloud.com/driftlessrecordings/cfcf-la-soufriere"
+track6_link: "https://soundcloud.com/blhaz/wasted-time"
+track7_link: "https://soundcloud.com/lone-1/banyan-drive"
 track4_link: "https://soundcloud.com/trashlagoon/session-87"
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"
 track3_title: "Gold Panda - Reprise"
 track4_title: "Trashlagoon - Session 87"
 track5_title: "Nicholas Larsen - I'll Remember"
-track7_title: "CFCF - La Soufrière"
-track6_title: "Tussilago - Lovesong #1"
+track7_title: "Lone - Banyan Drive"
+track6_title: "blhaz - wasted time"
 ---
 
 
