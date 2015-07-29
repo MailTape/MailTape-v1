@@ -18,7 +18,7 @@ fbPic: fbPic197.png
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon"
 track1_link: "https://soundcloud.com/sono-do/floating-points-myrtle-avenue"
-track2_link: "https://soundcloud.com/mitch_raz/shigeto-ann-arbor-pt-3-4"
+track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/197/track2.m4a"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
 track5_link: "https://soundcloud.com/nicholas-larsen/ill-remember"
 track6_link: "https://soundcloud.com/shhsecretsongs/kero-kero-bonito-flamingo"
@@ -32,6 +32,7 @@ track5_title: "Nicholas Larsen - I'll Remember"
 track7_title: "CFCF - La Soufrière"
 track6_title: "Kero Kero Bonito - Flamingo"
 ---
+
 
 
 
