@@ -13,7 +13,7 @@ track6_color: rough
 track7_color: trippy
 category: "197"
 guest_name: Trashlagoon
-guestPic: guestpic197.jpg
+guestPic: guestPic197.jpg
 fbPic: fbPic197.png
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon"
