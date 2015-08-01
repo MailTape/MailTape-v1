@@ -16,7 +16,7 @@ guest_name: Trashlagoon
 guestPic: guestPic197.jpg
 fbPic: fbPic197.jpg
 musiColor: musiColor197.png
-episode_URL: "http://mailta.pe/197/Trashlagoon"
+episode_URL: "http://mailta.pe/197/Trashlagoon/"
 track1_link: "https://soundcloud.com/nicolas-perdereau/floating-points-myrtle-avenue"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/197/track2.m4a"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
