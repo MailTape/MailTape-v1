@@ -34,7 +34,6 @@ track6_title: "Blhaz - Wasted Time"
 description: "This Sunday, Trashlagoon, comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies."
 ---
 
-
 <p id="introduction">This Sunday, [Trashlagoon](https://www.facebook.com/trashlagoon), comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.</p>
 
 # Sounds from Berlin
