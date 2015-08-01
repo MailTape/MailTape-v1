@@ -31,17 +31,15 @@ track4_title: "Trashlagoon - Marouki Knows"
 track5_title: "Nicholas Larsen - I'll Remember"
 track7_title: "Lone - Banyan Drive"
 track6_title: "Blhaz - Wasted Time"
+description: "This Sunday, Trashlagoon, comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies."
 ---
 
-<p id="introduction">This Sunday, ... [Trashlagoon](https://www.facebook.com/trashlagoon) ...</p>
 
-# ... ... ...
+<p id="introduction">This Sunday, [Trashlagoon](https://www.facebook.com/trashlagoon), comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.</p>
 
-... ... ...
+# Sounds from Berlin
 
-... ... ...
-
-... ... ...
+What makes Trashlagoon stand out is their modernistic approach to music. “Marouki Knows” is a song that helps you escape into a fairytale your mind fabricates out of thin air. The journey, though, short-lived leaves you wonderstruck while you make your way out counting stars in the firmament. The avant-garde electronic from Berlin promises the sound of the future. It’s rich in positivity and have what it takes to make a long lasting impression.
 
 # Trashlagoon's inspiring selection :
  
@@ -57,4 +55,4 @@ way. This is electronic jazz music.**"**
 Trashlagoon: **"**This production proves that one vocal sample can make a song. Reprise has a huge built-up that continues with the most chilled groove i’ve ever heard. It even doesn’t need a basedrum to do his magic.**“**
  
 <p id="outroduction">
-That's all Folks, thanks to [Trashlagoon](https://www.facebook.com/trashlagoon) for his beautiful selection, thanks to [Celestin](http://slipontherock.com) for the gorgeous illustration and ... for the nicely put text!</p>
+That's all Folks, thanks to [Trashlagoon](https://www.facebook.com/trashlagoon) for his beautiful selection, thanks to [Celestin](http://slipontherock.com) for the gorgeous illustration and [Sidd'](http://www.apeacefulending.tumblr.com) for the nicely put words!</p>
