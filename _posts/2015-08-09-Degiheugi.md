@@ -30,9 +30,6 @@ track7_title: "Hings - Chili Town"
 guestPic: guestPic198.jpg
 ---
 
-![guestPic198.jpg]({{site.baseurl}}/img/guestPic198.jpg)
-
-
 <p id="introduction">This Sunday, [Trashlagoon](https://www.facebook.com/trashlagoon), comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.</p>
 
 # Sounds from Berlin
