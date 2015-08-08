@@ -30,7 +30,9 @@ track7_title: "Hings - Chili Town"
 guestPic: guestPic198.jpg
 ---
 
-<p id="introduction">This morning, get ready to a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. 
+<p id="introduction">This morning, get ready to a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. 
+
+Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. 
 </p>
 
 # The art of sampling.
@@ -44,7 +46,7 @@ His secret weapon ? Transcending samples to another level by not solely using th
 # Degiheugi's inspiring selection :
  
 ## Jorge Ben Jor - Oba, la vem ela
-Degiheugi: **"**c'est typiquement le son que je met le dimanche matin... le truc qui cool, et qui te met le sourire. Même avec la gueule de bois, t'as envie de danser. Au delà de ça, j'ai depuis 2-3 ans une grosse attirance pour la musique brésilienne des années 70, ça te met soleil dans le salon direct, une sorte de drogue à la bonne humeur.**"**
+Degiheugi: **"**C'est typiquement le son que je met le dimanche matin... le truc qui cool, et qui te met le sourire. Même avec la gueule de bois, t'as envie de danser. Au delà de ça, j'ai depuis 2-3 ans une grosse attirance pour la musique brésilienne des années 70, ça te met soleil dans le salon direct, une sorte de drogue à la bonne humeur.**"**
 
 ## RJD2 - Reminder
 Degiheugi: C'est tiré de l'album que RJD2 à fait en collaboration avec STS. J'adore ce track, c'est le genre de son épique que Rjd2 maitrise à merveille. 
