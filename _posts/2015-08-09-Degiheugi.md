@@ -28,13 +28,13 @@ track5_title: "Chick Corea - Armando's Rhumba"
 track6_title: "Joy! - Entréé"
 track7_title: "Hings - Chili Town"
 guestPic: guestPic198.jpg
-description: "This morning, get ready to a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with Degiheugi, master in the art of finding the best samples.   Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. "
+description: "This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with Degiheugi, master in the art of finding the best samples.   Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. "
 musiColor: musiColor198.png
 fbPic: fbPic198.png
 episode_URL: "http://mailta.pe/198/Degiheugi/"
 ---
 
-<p id="introduction">This morning, get ready to a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. 
+<p id="introduction">This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. 
 
 Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. 
 </p>
