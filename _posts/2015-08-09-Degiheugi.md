@@ -63,4 +63,4 @@ En concert c'est dingue, et y' a un sorte de vibes super positive qui sort de le
 En plus ils sont indépendants, ils ont montés leur label, ils gèrent eux mêmes, je respecte énormément ça, car finalement c'est ce que je fais aussi, à une toute autre (et minuscule) échelle...**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Degiheugi](https://www.facebook.com/degiheugi) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for beautiful illustration.</p>
+That's all folks, thanks to [Degiheugi](https://www.facebook.com/degiheugi) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
