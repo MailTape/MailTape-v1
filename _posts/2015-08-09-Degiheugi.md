@@ -1,6 +1,6 @@
 ---
 layout: episode
-published: false
+published: true
 author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
@@ -21,6 +21,7 @@ track5_link: "https://soundcloud.com/chickcorea/1-armandos-rumba"
 track6_link: "https://soundcloud.com/joy-1"
 track7_link: "https://soundcloud.com/hindsband/chili"
 ---
+
 
 
 <p id="introduction">This Sunday, [Trashlagoon](https://www.facebook.com/trashlagoon), comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.</p>
