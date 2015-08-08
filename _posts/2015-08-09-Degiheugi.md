@@ -4,13 +4,13 @@ published: true
 author: ImaCrea
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-track1_color: rough
-track2_color: rough
-track3_color: rough
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track1_color: dreamy
+track2_color: vibrant
+track3_color: dreamy
+track4_color: dreamy
+track5_color: trippy
+track6_color: bliss
+track7_color: vibrant
 category: "198"
 guest_name: Degiheugi
 track1_link: "https://soundcloud.com/caebrownie/jorge-ben-jor-oba-la-vem-ela"
@@ -20,8 +20,17 @@ track4_link: "https://soundcloud.com/degiheugi/betty"
 track5_link: "https://soundcloud.com/chickcorea/1-armandos-rumba"
 track6_link: "https://soundcloud.com/joy-1"
 track7_link: "https://soundcloud.com/hindsband/chili"
+track1_title: " Jorge Ben Jor - Oba, la vem ela "
+track2_title: "Chinese Man - The Reminder"
+track3_title: "RJD2 - 420"
+track4_title: "Degiheugi - Betty"
+track5_title: "Chick Corea - Armando's Rhumba"
+track6_title: "Joy! - Entréé"
+track7_title: "Hings - Chili Town"
+guestPic: guestPic198.jpg
 ---
 
+![guestPic198.jpg]({{site.baseurl}}/img/guestPic198.jpg)
 
 
 <p id="introduction">This Sunday, [Trashlagoon](https://www.facebook.com/trashlagoon), comprising of the German duo Sebastian Welicki and Niklas Freund will take on itself to port you to their fantastic world of atmospheric soundscapes and melodies.</p>
