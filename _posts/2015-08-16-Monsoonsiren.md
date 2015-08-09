@@ -17,7 +17,7 @@ track1_link: "https://soundcloud.com/munkherdene-munkhbat/nathan-johnson-emelys-
 track2_link: "https://soundcloud.com/constellation-records/among-the-sef"
 track3_link: "https://soundcloud.com/teachersband/monster-teachers-remix"
 track2_title: "Colin Stetson - Among the sef"
-track3_title: "Kanye West - Monster (Teachers remix-"
+track3_title: "Kanye West - Monster (Teachers remix)"
 track1_title: "Nathan Johnson - Emelys Theme (Brick OST)"
 episode_URL: "http://mailta.pe/199/Monsoonsiren/"
 ---
