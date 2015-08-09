@@ -34,10 +34,8 @@ fbPic: fbPic198.jpg
 episode_URL: "http://mailta.pe/198/Degiheugi/"
 ---
 
-
-
 <p id="introduction">This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with [Degiheugi](https://www.facebook.com/degiheugi), master in the art of finding the best samples. 
-
+<br>
 Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. 
 </p>
 
@@ -52,21 +50,19 @@ His secret weapon ? Transcending samples to another level by not solely using th
 # Degiheugi's inspiring selection :
  
 ## Jorge Ben Jor - Oba, la vem ela
-Degiheugi: **"**C'est typiquement le son que je met le dimanche matin... le truc qui cool, et qui te met le sourire. Même avec la gueule de bois, t'as envie de danser. Au delà de ça, j'ai depuis 2-3 ans une grosse attirance pour la musique brésilienne des années 70, ça te met soleil dans le salon direct, une sorte de drogue à la bonne humeur.**"**
+Degiheugi: **"**This is a typical Sunday morning track for me... the cool stuff that always put a smile on your face. Even on hangover, you'll wanna dance. More than that, I've been digging 70's brazilian music for the last 2-3 years, it's like a sun ray shining in your living room, a kind of happiness drug.**"**
 
 ## RJD2 - Reminder
-Degiheugi: C'est tiré de l'album que RJD2 à fait en collaboration avec STS. J'adore ce track, c'est le genre de son épique que Rjd2 maitrise à merveille. 
+Degiheugi:**"**This track comes from the album RJD2 produced in collaboration with STS. I love it, it's the kind of epic sound showing the full range of his mastery.
 
-Je vais pas te cacher que Rjd2 fait partie de ces artistes qui m'ont terriblement inspiré ... j'ai toujours adoré son style, ce coté hip-hop mais qui ne s'arrête pas aux samples de soul ou funk, le gars sait partir dans différentes direction, j'adore ça. Le truc assez marrant c'est que cet album de Rjd2 est sorti le même jour que le mien, j'etais en plein lancement d'album ce jour, et je vois un commentaire d'un auditeur sur ma page facebook du genre "entre ton album et celui de rjd2 aujourd'hui, y'a de quoi faire" .... j'étais partagé entre me dire "merde, quel con de sortir mon album le même jour que lui" et "trop bon un nouvel album de Rjd2".
-
-Finalement j'ai tout mis en stand by, j'ai chopé son album, et j'ai pris 1 heure pour l'écouter tranquilement.**"**
+I won't hide RJD2 is part of these artists who largely inspired me... I've always loved hi style, his hip-hop inspired sampling breaks the frontiers of soul and funk. A funny story, RJD2 album has been released the same day as mine. As I was promoting it, I see a commentary of a fan "between your album and rjd2's we're well served today"... I was divided between "shit, how come I could make this mistake?" and "amazing, let's listen to his new album". Finally I decided to take an hour to fully enjoy it.**"**
 
 ## Chinese Man - The Reminder
-Degiheugi: **"**Chinese Man parce que je trouve qu'en france, dans le style de musique que je fait, c'est ce qui sont au dessus... et quand il font des morceaux intrumentaux comme celui-ci, je trouve qu'ils ont vraiment leur truc.
+Degiheugi: **"**Chinese Man because, in the style I'm doing, there're at an upper level... and when they produce a track like that, they demonstrate the best of their art.
 
-En concert c'est dingue, et y' a un sorte de vibes super positive qui sort de leur musique, quoiqu'ils fassent... Je connais pas les gars, mais depuis le temps que je les écoute, j'ai l'impression que les mecs sont super cools (c'est bête mais leur musique me donne cette impression).
+Their live show is astonishing, it's like an explosion of positive vibes whetever they'd do. I don't know them but I guess they're super cool, that's what their music suggests to me.
 
-En plus ils sont indépendants, ils ont montés leur label, ils gèrent eux mêmes, je respecte énormément ça, car finalement c'est ce que je fais aussi, à une toute autre (et minuscule) échelle...**“**
+On top of that, they're independant. They got their own label and manage everything by themselves. It's something I deeply respect since I'm doing the same, at and other (and smaller) scale...**“**
  
 <p id="outroduction">
 That's all folks, thanks to [Degiheugi](https://www.facebook.com/degiheugi) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
