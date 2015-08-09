@@ -7,7 +7,7 @@ bigTitle_font_ratio: "6"
 track1_color: trippy
 track2_color: trippy
 track3_color: vibrant
-track4_color: rough
+track4_color: vibrant
 track5_color: rough
 track6_color: rough
 track7_color: rough
@@ -20,6 +20,8 @@ track2_title: "Colin Stetson - Among the sef"
 track3_title: "Kanye West - Monster (Teachers remix)"
 track1_title: "Nathan Johnson - Emelys Theme (Brick OST)"
 episode_URL: "http://mailta.pe/199/Monsoonsiren/"
+track4_link: "https://soundcloud.com/projectmooncircle/monsoonsiren-paper-tiger"
+track4_title: "Monsoonsiren - Paper Tiger"
 ---
 
 
