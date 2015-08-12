@@ -2,7 +2,7 @@
 layout: episode
 published: true
 author: Olivier
-guest_color: bliss
+guest_color: vibrant
 bigTitle_font_ratio: "6"
 track1_color: trippy
 track2_color: vibrant
