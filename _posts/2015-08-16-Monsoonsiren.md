@@ -5,12 +5,12 @@ author: Olivier
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 track1_color: trippy
-track2_color: vibrant
+track2_color: bliss
 track3_color: trippy
 track4_color: dreamy
 track5_color: trippy
 track6_color: bliss
-track7_color: vibrant
+track7_color: bliss
 category: "199"
 guest_name: Monsoonsiren
 track1_link: "https://soundcloud.com/munkherdene-munkhbat/nathan-johnson-emelys-theme"
