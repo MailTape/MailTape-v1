@@ -20,7 +20,7 @@ track2_title: "Kanye West - Monster (Teachers remix)"
 track3_title: "Colin Stetson - Among the sef"
 track1_title: "Nathan Johnson - Emelys Theme (Brick OST)"
 episode_URL: "http://mailta.pe/199/Monsoonsiren/"
-track4_link: "https://soundcloud.com/projectmooncircle/monsoonsiren-paper-tiger"
+track4_link: "https://soundcloud.com/monsoonsiren/monsoonsiren-untitled-snippet"
 track4_title: "Monsoonsiren - Untitled (snippet)"
 track5_link: "https://soundcloud.com/mosessumney/3-mumblin"
 track6_link: "https://soundcloud.com/badbadnotgood/boogie-no-69"
@@ -28,15 +28,20 @@ track7_link: "https://soundcloud.com/stampthewax/exclusive-melanie-de-biasio-im-
 track5_title: "Moses Sumney - Mumblin'"
 track6_title: "BadBadNotGood - Boogie No. 69"
 track7_title: "Melanie De Biasio - I'm Gonna Leave You"
+guestPic: guestPic199.jpg
+fbPic: fbPic199.png
+musiColor: musiColor199.png
+description: ""
 ---
-
-
 
 <p id="introduction">Introduction</p>
 
 # Title.
+This Sunday, we bring you a breath of fresh air with a young and rejuvenating artist from India. Nathan Menon is a vibrant and budding artist who goes by the name of [Monsoonsiren](https://soundcloud.com/monsoonsiren). His minimalist vocals are both spacey and captivating, combining a style of easy-going percussions flowing slowly through your veins.
 
-Text
+[Monsoonsiren](https://www.facebook.com/pages/Monsoonsiren/333811626735137) is an eclectic and interesting artist with a taste palate that will make you wonder if it ever snows in the summer. Starting off with a track that, although a bit strange at first, quickly unleashes an ingeniosity that is unique and dreamy. Sunday is just beginning and this song will replace the missing chants of the spring birds should you need an enticing reason to wonder out of bed.. Kanye West! What else to say? Risk-takers don’t exist for nothing. Stetson is a touching discovery, releasing a constellation of tickling vibes down your spine. ‘’Among the sef’’ is magical, heartrending with sincerity and force. One may wonder how can an untitled track resonate such soulful and deep vibes? 
+
+Monsoonsiren tempts us with his lustful voice and gives us a glimpse of his pulsating talent. Forget the basics, mumbles “can” be interpreted, especially with hints of love and you, two words that will make anything vague clearly meaningful. From mumbles to the boogie, it’s all good honey!!! Just hang-on to that favorite number of yours cause I am gonna leave you anyway. I don’t need you no more, no more, I have music to keep me company......
 
 # Monsoonsiren's inspiring selection :
 
@@ -50,4 +55,4 @@ Monsoonsiren: **"**Such a unique take on one of my favorite Kanye tracks.**"**
 Monsoonsiren:**"**I can't quite articulate precisely how this piece makes me feel. To call it cathartic would be a cliche.**"**
   
 <p id="outroduction">
-That's all folks, thanks to [Monsoonsiren](https://www.facebook.com/pages/Monsoonsiren/333811626735137)</p>
+That's all folks, thanks to [Monsoonsiren](https://projectmooncircle.bandcamp.com/album/falstrati) for his selection and all of his inspiring work. Thanks to Celestin for the gorgeous illustration and Sidd’ + PS KY for the nicely put words!</p>
