@@ -52,4 +52,4 @@ Monsoonsiren: **"**Such a unique take on one of my favorite Kanye tracks.**"**
 Monsoonsiren:**"**I can't quite articulate precisely how this piece makes me feel. To call it cathartic would be a cliche.**"**
   
 <p id="outroduction">
-That's all folks, thanks to [Monsoonsiren](https://projectmooncircle.bandcamp.com/album/falstrati) for his selection and all of his inspiring work. Thanks to [Celestin] (http://slipontherock.com) for the gorgeous illustration and [Sidd’] (http://apeacefulending.tumblr.com) + PS KY for the nicely put words!</p>
+That's all folks, thanks to [Monsoonsiren](https://projectmooncircle.bandcamp.com/album/falstrati) for his selection and all of his inspiring work. Thanks to [Celestin](http://slipontherock.com) for the great illustration and [Sidd’](http://apeacefulending.tumblr.com) + PS KY for the nicely put words!</p>
