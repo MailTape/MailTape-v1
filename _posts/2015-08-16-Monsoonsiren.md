@@ -34,10 +34,7 @@ musiColor: musiColor199.png
 description: ""
 ---
 
-<p id="introduction">Introduction</p>
-
-# Title.
-This Sunday, we bring you a breath of fresh air with a young and rejuvenating artist from India. Nathan Menon is a vibrant and budding artist who goes by the name of [Monsoonsiren](https://soundcloud.com/monsoonsiren). His minimalist vocals are both spacey and captivating, combining a style of easy-going percussions flowing slowly through your veins.
+<p id="introduction">This Sunday, we bring you a breath of fresh air with a young and rejuvenating artist from India. Nathan Menon is a vibrant and budding artist who goes by the name of [Monsoonsiren](https://soundcloud.com/monsoonsiren). His minimalist vocals are both spacey and captivating, combining a style of easy-going percussions flowing slowly through your veins.</p>
 
 [Monsoonsiren](https://www.facebook.com/pages/Monsoonsiren/333811626735137) is an eclectic and interesting artist with a taste palate that will make you wonder if it ever snows in the summer. Starting off with a track that, although a bit strange at first, quickly unleashes an ingeniosity that is unique and dreamy. Sunday is just beginning and this song will replace the missing chants of the spring birds should you need an enticing reason to wonder out of bed.. Kanye West! What else to say? Risk-takers don’t exist for nothing. Stetson is a touching discovery, releasing a constellation of tickling vibes down your spine. ‘’Among the sef’’ is magical, heartrending with sincerity and force. One may wonder how can an untitled track resonate such soulful and deep vibes? 
 
