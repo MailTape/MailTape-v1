@@ -2,10 +2,10 @@
 
 body {
    font-size: 18px;
-   line-height: 26px;
-   font-family: 'rooney-web',"Helvetica Neue",Helvetica,Arial;
+   line-height: 1.6;
+   font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
    color: @grey;
-  // background-image: url("/img/backWithNoGrid.gif");
+     // background-image: url("/img/backWithNoGrid.gif");
   // background-repeat: repeat-x repeat-y;
 
    @media only screen and (min-width: 768px) {
@@ -123,30 +123,30 @@ body {
 
 article {
 
+	@media only screen and (min-width: 768px) {
+		margin-top: 1em;
+
+	}
+
+
 	h1 {
-		font-family: 'superspitze_groteskregular';
-		font-size: 2.5em;
-		line-height: 1em;
-		margin-bottom: 0.2em;
-		margin-top: 1.2em;
+		text-align: center;
+		font-size: 1.6em;
+		margin-bottom: 0.5em;
+		font-weight: 500;
+		margin-top: 2em;
+
 	}
 	h2 {
-		font-family: 'superspitze_groteskregular';
-		margin-top: 1.5em;
-		margin-bottom:0.2em;
-		font-weight: 300;
-
-		font-size: 1.5em;
-  		line-height: 1em;
-
-		&:nth-of-type(1) {
-		margin-top: 0.5em;
-		}
+		text-align: center;
+		margin-top: 1.8em;
+		font-weight: 500;
+		font-size: 1.3em;
 	}
 	p {
-		margin-top: 0;
+		margin-top: 1em;
 		font-size: 1.2em;
-		font-weight: 300;
+		font-weight: 400;
 	}
 }
 
@@ -166,7 +166,7 @@ article {
 
 .topbar {
 	position: absolute;
-	z-index: 2;
+	z-index: 10;
 	margin-top: 0.5em;
 	left: 0;
 	right: 0;
@@ -189,6 +189,7 @@ article {
 }
 
 #bigHeader {
+
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		min-height: 300px;
 		padding-top: 50px;
@@ -204,7 +205,8 @@ article {
 	}
 
 	&.isPlaying {
-		background : transparent linear-gradient(transparent 98.7%, rgba(255, 255, 255, 0.5) 99%, #FFF 100%) repeat scroll 0px 0px !important
+		background: none;
+		z-index:5;
 	}
 	
 
@@ -276,7 +278,45 @@ article {
 		color: white;
 	}
 
-	&.notPlaying {	display: inline-block; }
+	&.notPlaying {	
+		@media only screen and (min-width: 0px) and (max-width: 767px) { display: inline-block; }
+		@media only screen and (min-width: 768px) { display: none; }
+	}
+
+	&.isPlaying {display: none;}
+
+}
+
+// for big screens, playButton goes on the side of the player
+
+
+#playButtonAsidePlaylist {
+
+	position: absolute;
+	left: 0;
+	top:-35%;
+
+	z-index: 2;
+
+	font-size: 3em;
+
+	font-family: 'icomoon';
+	.transition(color);
+	.transition(background);
+	cursor: pointer;
+	color: @grey;
+
+	.transition(color,0.4s);
+
+	&:hover {
+		color: black;
+	}
+
+	&.notPlaying {	
+		@media only screen and (min-width: 0px) and (max-width: 767px) { display: none; }
+		@media only screen and (min-width: 768px) { display: inline-block; }
+	}
+
 	&.isPlaying {display: none;}
 
 }
@@ -787,8 +827,7 @@ a {
 
 #player {
 
-// Réglages pour le position fixed
-	
+// Réglages pour le position fixed-
 	&.navbar-fixed-top {
 	-webkit-box-shadow: 0px 3px 10px 0px rgba(168,168,168,0.2);
 	-moz-box-shadow: 0px 3px 10px 0px rgba(168,168,168,0.2);
@@ -803,6 +842,7 @@ a {
 			padding: 1em 0px 0.5em;
 	}
 
+
     background: rgba(255,255,255,0.95);
 
     .transition(all);
@@ -816,7 +856,7 @@ a {
 			padding: 4em 0px 0.5em;
 		}
 		li {
-			opacity: 0.5;
+			opacity: 0.35;
 			&:hover {
 				opacity: 1;
 			}
@@ -837,13 +877,16 @@ a {
 }
 
 .playlist {
- 	padding-right: 30px;
+
+
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		height: 3em;
 	}
 
 	@media only screen and (min-width: 768px) {
 		height: 2.8em;
+		padding: 0 0 0 4em;
+
 	}
 
 	position: relative;
@@ -867,7 +910,7 @@ a {
 		display:inline;
 		float: left;
 		height: 100%;
-		margin: 0 1% 0 0;
+		margin: 0 0.2% 0 0;
 		padding: 0.5em 0;
 		background: white;
 		text-align: center;
@@ -889,14 +932,15 @@ a {
 		}
 
 		h1 {
+			background: white;
+
 			white-space:nowrap;
 			position: absolute;
-			
-			left:0;
-			right: 0;
+
+			left:2em;
+			right: 2em;
 			text-align: center;
 			display: none;
-			background: white;
 			padding: 0.5em 0 0.2em 0;
 			.transition(all);
 			@media only screen and (min-width: 0px) and (max-width: 767px) {

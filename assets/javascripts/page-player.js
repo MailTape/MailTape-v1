@@ -1129,11 +1129,15 @@ function PagePlayer() {
       //     // Animation complete.
       //     });
       // });
-
     $( "#playButton" ).click(function(event) {
       pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
 //      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
       $( "#playButton" ).fadeOut("slow");
+    });
+
+    $( "#playButtonAsidePlaylist" ).click(function(event) {
+      pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
+//      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
     });
 
   };

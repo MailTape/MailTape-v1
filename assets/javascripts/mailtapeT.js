@@ -37,11 +37,11 @@ $(document).ready(
 		});
 
 		 $('body').flowtype({
-		 minimum   : 500,
-		 maximum   : 1110,
+		 minimum   : 300,
+		 maximum   : 750,
 		 minFont   : 12,
-		 maxFont   : 28,
-		 fontRatio : 65, // A modifier au cas par cas ! -- Règle la largeur du titre
+		 maxFont   : 21,
+		 fontRatio : 42, // A modifier au cas par cas ! -- Règle la largeur du titre
 		});
 
 		$(".musicolorLabel").lettering();
@@ -69,6 +69,11 @@ $(document).ready(
 
 		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
 		$("#playButton").click(function() {
+			playTape();
+		});
+
+		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
+		$("#playButtonAsidePlaylist").click(function() {
 			playTape();
 		});
     	
@@ -327,8 +332,6 @@ $(document).ready(
 		    $('#sidebarSubscribeButton').html("Submit");
 
 		}
-
-
 
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
