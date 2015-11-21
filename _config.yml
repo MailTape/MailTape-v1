@@ -5,6 +5,8 @@ permalink: /:categories/:title/
 timezone: Europe/Paris
 paginate: 12
 
+include: ['.htaccess']
+
 ## kramdown config to force interpretation into html block
 kramdown:
   parse_block_html: true

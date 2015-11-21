@@ -1,6 +1,8 @@
 $(document).ready(
 	function() {
 
+		var page = $("html, body");
+
 		// TEST en cours de désactivation
 
 		$(".stretchMe").anystretch();
@@ -25,7 +27,7 @@ $(document).ready(
          maximum   : 1110,
          minFont   : 10,
          maxFont   : 30,
-         fontRatio : 55 // A modifier au cas par cas ! -- Règle la largeur du titre
+         fontRatio : 45 // A modifier au cas par cas ! -- Règle la largeur du titre
          });
 
 		$('#playButton').flowtype({
@@ -56,7 +58,7 @@ $(document).ready(
 
     	$("#readMore").click(function() {
     		$("#readMore").fadeOut('slow');
-    		$("html, body").animate({
+    		page.animate({
 				scrollTop: $('#player').offset().top+1
 			}, 1000);
     	});
@@ -84,7 +86,7 @@ $(document).ready(
 		// TODO check état player. si c'est en train de play quid si: - on fait pause OU - on joue une autre track
 
 	    didScroll = false;
-	    var navHeight = $('#player').offset().top+1;
+	    var navYposition = $('#player').offset().top+1;
 	    $(window).scroll(function() {
 	    	if (isPlaying) {
 		        didScroll = true;
@@ -97,7 +99,7 @@ $(document).ready(
 	        if ( didScroll ) {
 	            didScroll = false;
 	            
-	            if ($(document).scrollTop() >= navHeight) {
+	            if ($(document).scrollTop() >= navYposition) {
 		            $('#player').addClass("navbar-fixed-top");
 		            $('body').css("padding-top",$('#player').innerHeight());
 		        } else {
@@ -216,35 +218,35 @@ $(document).ready(
 
 	    // subscribe button intro !
 
-	    	// [FROSMO] Detection si on a l'intro displayed ou pas
+	 //    	// [FROSMO] Detection si on a l'intro displayed ou pas
 
-		var countInit = 0;
+		// var countInit = 0;
 
-		function superInit() {
-			if ($('#topbar-subscription-intro').length) {
-			    $('#topbar-subscription-form').fadeOut("fast");
-			    console.log("[FROSMO] topbar-subscription-intro est là je cache la form!");
-			} else if (countInit < 100) {
-				console.log("[FROSMO] topbar-subscription-intro pas là pour le moment");
-			    countInit++;
-				window.setTimeout(superInit, 100);
-			}
-		}
+		// function superInit() {
+		// 	if ($('#topbar-subscription-intro').length) {
+		// 	    $('#topbar-subscription-form').fadeOut("fast");
+		// 	    console.log("[FROSMO] topbar-subscription-intro est là je cache la form!");
+		// 	} else if (countInit < 100) {
+		// 		console.log("[FROSMO] topbar-subscription-intro pas là pour le moment");
+		// 	    countInit++;
+		// 		window.setTimeout(superInit, 100);
+		// 	}
+		// }
 
-		// Premier lancement
-		window.setTimeout(superInit, 100);
+		// // Premier lancement
+		// window.setTimeout(superInit, 100);
 	
-			// Mini scriptounet pour la topbar subscription en 2 étapes
-		$(document).on('click', '#subscribeButtonIntro',function(){
-			console.log("tu clique sur le bouton intro");
-			$('#topbar-subscription-intro').fadeOut("fast");
-			$('#topbar-subscription-form').fadeIn("slow", function () {
-				console.log("je charge ajaxchimp");
-				$('#mc-form').ajaxChimp({
-		    	callback: callbackFunction
-		    	});
-		    });
-		});
+		// 	// Mini scriptounet pour la topbar subscription en 2 étapes
+		// $(document).on('click', '#subscribeButtonIntro',function(){
+		// 	console.log("tu clique sur le bouton intro");
+		// 	$('#topbar-subscription-intro').fadeOut("fast");
+		// 	$('#topbar-subscription-form').fadeIn("slow", function () {
+		// 		console.log("je charge ajaxchimp");
+		// 		$('#mc-form').ajaxChimp({
+		//     	callback: callbackFunction
+		//     	});
+		//     });
+		// });
 
 	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
 
@@ -256,12 +258,12 @@ $(document).ready(
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-PRENOM" ).val();
 		        $('#mc-form').fadeOut('fast', function() {
-		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        	$('#footerSubscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
 		        	_gaq.push(['_trackEvent', 'CTA Episode', 'Subscribe', 'Submitted info']);
 		        	try {mixpanel.track("EP > Top Bar Subscription > Step 2, Subscribed");} catch(e) {}
 		        });
 		        setTimeout(function() {
-	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
+	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow');
 	    			$('#mc-sidebar').fadeOut('slow'); // fais aussi disparaitre la sidebar de subscription
 	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0'); // fais aussi disparaitre la sidebar de subscription
 				}, 7000);
@@ -293,7 +295,7 @@ $(document).ready(
 		         setTimeout(function() {
 	    			$('#mc-sidebar').fadeOut('slow');
 	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0');
-	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow'); // fais aussi disparaitre la topbar de subscription
+	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow'); // fais aussi disparaitre la topbar de subscription
 				}, 7000);
 		    }
 		}
@@ -320,7 +322,7 @@ $(document).ready(
 
 		if (isFromEmail()) {
 			console.log("You're coming from our mail ! Hello dear subscriber :)");
-			$('#topbar-subscription').removeClass("hidden-xs").hide();
+			$('#footerSubscription').removeClass("hidden-xs").hide();
 			var comingFromMail =true;
 
 			// adaptation sidebar pour inviter ami
@@ -333,6 +335,49 @@ $(document).ready(
 
 		}
 
+	// la topbar d'abonnement n'est plus affichée. à voir ce qu'on en fait pour plus tard.
+			// $('#topbar-subscription').removeClass("hidden-xs").hide();
+			// $("#player").click(function() {
+			// 	setTimeout(function(){
+			// 		$('#topbar-subscription').addClass("hidden-xs").show();
+			// 		page.animate({
+			// 			scrollTop: ($(window).scrollTop() + $('#topbar-subscription').outerHeight())
+			// 		}, 1);
+			// 	},2000);
+
+			// console.log("CUL3:"+$(window).scrollTop() + $('#topbar-subscription').outerHeight());
+			// });
+
+	// petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
+    	var scrolledDown=false;
+
+    	$("#player").click(function() {
+
+    	 	if (!scrolledDown && $(document).scrollTop()<100) {
+	    	 	setTimeout(function(){
+
+	    	 	page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function(){
+  					page.stop();
+				});
+
+	    		page.animate({
+					scrollTop: $("#player").offset().top+1
+					}, 20000, 'easeInOutSine' , function(){
+						page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
+					});
+	    		}, 5000);
+	    		scrolledDown=true;
+    	 	}
+    	});
+
+    	$("#footerLearnMore").click(function(){
+    		$(this).fadeOut('slow');
+			$(".footerLearnMoreArea").delay(500).fadeIn(2000);
+    	// 	page.animate({
+					// scrollTop: $(".footerLearnMoreArea").offset().top+1
+					// },5000,'easeOutBack',
+	    // 		, 100);
+    	});
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 	}

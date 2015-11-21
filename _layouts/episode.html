@@ -15,7 +15,8 @@
             <div class="col-md-8 col-md-offset-1 col-xs-6 col-xs-offset-1 center">
                     <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>
-                    <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
+<!--                     <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
+ -->                    
                     <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
             </div>
             <div class="col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-1 nav right">
@@ -30,8 +31,7 @@
     <div class="container">
         <div class="col-md-12">
             <span id="playButtonAsidePlaylist" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
-            <br><span id="pauseButton" style="cursor:pointer">PAUSECUL</span>
-            <ul class="playlist">
+            <ul class="playlist notPlaying">
                 <li id="firstTrack" class="track1 {{ page.track1_color }}">
                     <h1 class="tractTitle" id="track1_title_player">track1</h1>
                     <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '1']);">
