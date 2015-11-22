@@ -1015,6 +1015,13 @@ a {
     width: 50%;
     display: block;
 
+	&.musiColorHelperVisible{
+	color: transparent !important;
+		&:hover{
+			color: transparent !important;
+		}
+	}
+
     .transition(padding);
 
 	}
@@ -1146,12 +1153,14 @@ a {
 
 	}
 
+
 // 	ul.playlist li.sm2_playing, ul.playlist li.sm2_playing:hover {
 //     background-color: #6699CC;
 // }
 
 	.track1 {
 		width: 14%;
+		.transition(width);
 
 
 		.controls .position
@@ -1168,31 +1177,37 @@ a {
 
 	.track2{
 	width: 14%;
+	.transition(width);
 
 	}
 
 	.track3{
 		width: 14%;
+		.transition(width);
 
 	}
 
 	.track4{
 		width: 14%;
+		.transition(width);
 
 	}
 
 	.track5{
 		width: 14%;
+		.transition(width);
 
 	}
 
 	.track6{
 		width: 14%;
+		.transition(width);
 
 	}
 
 	.track7{
 		width: 14%;
+		.transition(width);
 		.controls .position
 		{
 			-moz-border-radius-bottomright: 0.3em;

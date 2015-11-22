@@ -132,7 +132,7 @@ $(document).ready(
 			for (i=0;i<7;i++){
 				$(".track"+(i+1)).width((tracksDuration[i]/totalDuration*100-0.2)+percentUnit);
 			}
-			console.log("redimensionnement good sir!");
+			//console.log("redimensionnement good sir!");
 			
 		}
 
@@ -359,7 +359,7 @@ $(document).ready(
 	// petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
     	var scrolledDown=false;
 
-    	$("#player").click(function() {
+    	$(".playlist a , #playButtonAsidePlaylist, #playButton").click(function() {
 
     	 	if (!scrolledDown && $(document).scrollTop()<100) {
 	    	 	setTimeout(function(){
@@ -389,11 +389,15 @@ $(document).ready(
 
     	var timeoutMusiColorMiniIcon;
     	$("#musiColorMiniIcon").toggle(function(){
-				$(".musiColorHelper").fadeIn(1000)
+    			$(".icon-control").addClass("musiColorHelperVisible");
+    			setTracksWidth ([1,1,1,1,1,1,1]);
+				$(".musiColorHelper").fadeIn(1000);
 				timeoutMusiColorMiniIcon = setTimeout(function() {
 					$("#musiColorMiniIcon").click();
 				},5000);
 			}, function() {
+				$(".icon-control").removeClass("musiColorHelperVisible");
+				setTracksWidth (tracksDuration);
 				$(".musiColorHelper").fadeOut(500);
 				clearTimeout(timeoutMusiColorMiniIcon);
 			}
