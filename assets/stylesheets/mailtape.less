@@ -294,6 +294,7 @@ article {
 	display: none;
 	text-transform: capitalize;
 	font-family: 'superspitze_groteskregular';
+
 }
 
 #musiColorMiniIcon {
@@ -308,6 +309,12 @@ article {
 	&:hover {
   -webkit-transform: rotate(720deg);
   transform: rotate(720deg);
+	}
+
+	/* hidden on too small screen */
+	@media (max-width: 450px) {
+		display: none;
+
 	}
 }
 
@@ -989,8 +996,44 @@ a {
 
 	display: inline-block;
 	vertical-align: middle;
-	&.notPlaying {width: 85%;}
-	&.isPlaying{width: 93%;}
+
+	// large desktop
+	@media (min-width: 1200px) { 
+		&.notPlaying {width: 85%;}
+		&.isPlaying{width: 93%;}
+	 }
+
+	// desktop
+	@media (min-width: 990px) and (max-width: 1199px)  { 
+		&.notPlaying {width: 83%;}
+		&.isPlaying{width: 91%;}
+	 }
+
+	// portrait tablet
+	@media (min-width: 768px) and (max-width: 989px)  { 
+		&.notPlaying {width: 78%;}
+		&.isPlaying{width: 89%;}
+	 }
+
+	/* Landscape phone to portrait tablet */
+	@media (max-width: 767px)  { 
+		&.notPlaying {width: 85%;}
+		&.isPlaying{width: 87%;}
+	 }
+
+	/* Landscape phones and down */
+	@media (min-width: 450px) and (max-width: 480px) {
+		&.notPlaying {width: 86%;}
+		&.isPlaying{width: 86%;}
+
+	}
+
+	/* super mini screen with no musiColorHelperIcon and no autoloop */
+	@media (max-width: 449px) {
+		&.notPlaying {width: 100%;}
+		&.isPlaying{width: 100%;}
+
+	}
 
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
@@ -1285,6 +1328,12 @@ a {
 	display: inline-block;
 	vertical-align: middle;
 
+	/* super mini screen with no musiColorHelperIcon and no autoloop */
+	@media (max-width: 449px) {
+	display: none;
+
+	}
+
   margin: auto;
   opacity: 0.2;
   cursor: pointer;
@@ -1293,10 +1342,6 @@ a {
 /* TODO: Use bootstrap breakpoint variables */
 
 @media screen and (max-width: 990px) {
-  .playlist {
-    padding-right: 25px;
-  }
-
   #autoLoop {
     height: 29px;
   }
