@@ -287,18 +287,43 @@ article {
 
 }
 
+// musiColor helper
+
+.musiColorHelper {
+	color: white;
+	display: none;
+	text-transform: capitalize;
+	font-family: 'superspitze_groteskregular';
+}
+
+#musiColorMiniIcon {
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+  cursor: pointer;
+  display: inline-block;
+  vertical-align: middle;
+  height: 2em;
+
+	&:hover {
+  -webkit-transform: rotate(720deg);
+  transform: rotate(720deg);
+	}
+}
+
+
 // for big screens, playButton goes on the side of the player
 
 
 #playButtonAsidePlaylist {
 
-	position: absolute;
-	left: 0;
-	top:-54%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 0.2em;
 
 	z-index: 2;
 
-	font-size: 3.7em;
+	font-size: 3.4em;
 
 	font-family: 'icomoon';
 	.transition(color);
@@ -962,6 +987,11 @@ a {
 
 .playlist {
 
+	display: inline-block;
+	vertical-align: middle;
+	&.notPlaying {width: 85%;}
+	&.isPlaying{width: 93%;}
+
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
 		height: 3em;
@@ -969,7 +999,6 @@ a {
 
 	@media only screen and (min-width: 768px) {
 		height: 2.8em;
-		padding: 0 0 0 4em;
 
 	}
 
@@ -1122,7 +1151,7 @@ a {
 // }
 
 	.track1 {
-		width: 13.4%;
+		width: 14%;
 
 
 		.controls .position
@@ -1138,32 +1167,32 @@ a {
 	}
 
 	.track2{
-	width: 13.4%;
+	width: 14%;
 
 	}
 
 	.track3{
-		width: 13.4%;
+		width: 14%;
 
 	}
 
 	.track4{
-		width: 13.4%;
+		width: 14%;
 
 	}
 
 	.track5{
-		width: 13.4%;
+		width: 14%;
 
 	}
 
 	.track6{
-		width: 13.4%;
+		width: 14%;
 
 	}
 
 	.track7{
-		width: 13.4%;
+		width: 14%;
 		.controls .position
 		{
 			-moz-border-radius-bottomright: 0.3em;
@@ -1238,9 +1267,9 @@ a {
 }
 
 #autoLoop {
-  position: absolute;
-  right: 0;
-  top: 20%;
+	display: inline-block;
+	vertical-align: middle;
+
   margin: auto;
   opacity: 0.2;
   cursor: pointer;

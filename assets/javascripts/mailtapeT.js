@@ -1,6 +1,9 @@
 $(document).ready(
 	function() {
 
+		$('[data-toggle="tooltip"]').tooltip();
+		$('[data-toggle="popover"]').popover();
+
 		var page = $("html, body");
 
 		// TEST en cours de désactivation
@@ -127,8 +130,9 @@ $(document).ready(
 			var totalDuration = tracksDuration[0]+tracksDuration[1]+tracksDuration[2]+tracksDuration[3]+tracksDuration[4]+tracksDuration[5]+tracksDuration[6];
 			var percentUnit = "%";
 			for (i=0;i<7;i++){
-				$(".track"+(i+1)).width(((tracksDuration[i]/totalDuration)*100-1)+percentUnit);
+				$(".track"+(i+1)).width((tracksDuration[i]/totalDuration*100-0.2)+percentUnit);
 			}
+			console.log("redimensionnement good sir!");
 			
 		}
 
@@ -143,9 +147,13 @@ $(document).ready(
 			$.each(tracksURL,function(i,trackURL){
 				if (trackURL.search( 'soundcloud' ) != -1) {
 					SC.get('/resolve', { url: trackURL }, function(track){
-						// console.log(Math.round(track.duration/1000));
-						tracksDuration[i]=Math.round(track.duration/1000);
+						
+						if (track.duration) {tracksDuration[i]=track.duration/1000;
+						//console.log("GOGO:"+track.duration/1000);
 						count--;
+						}
+
+						//empêche de casser le musicolor en cas de musique non récupérable en attendant de trouver un fix
 						if (count == 0) { //we got all answers (thx Bluxte!)
 							setTracksWidth(tracksDuration);
 						}
@@ -155,7 +163,7 @@ $(document).ready(
 					audios[i] = new Audio(trackURL);
 					audios[i].addEventListener('canplaythrough', function() {
 						// alert("trackURL: "+audios[i].src+" duration: "+audios[i].duration);
-						// console.log("AMZ shit: "+Math.round(audios[i].duration));
+						//console.log("AMZ shit: "+Math.round(audios[i].duration));
 					    tracksDuration[i]=Math.round(audios[i].duration);
 						count--;
 						if (count == 0) { //we got all answers (thx Bluxte!)
@@ -378,6 +386,18 @@ $(document).ready(
 					// },5000,'easeOutBack',
 	    // 		, 100);
     	});
+
+    	var timeoutMusiColorMiniIcon;
+    	$("#musiColorMiniIcon").toggle(function(){
+				$(".musiColorHelper").fadeIn(1000)
+				timeoutMusiColorMiniIcon = setTimeout(function() {
+					$("#musiColorMiniIcon").click();
+				},5000);
+			}, function() {
+				$(".musiColorHelper").fadeOut(500);
+				clearTimeout(timeoutMusiColorMiniIcon);
+			}
+    	);
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 	}
