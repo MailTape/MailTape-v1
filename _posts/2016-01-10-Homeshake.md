@@ -9,7 +9,7 @@ guestPic: guestPic200.jpg
 track1_link: "https://soundcloud.com/jerry-paper/3d-dream-world-mix"
 track2_link: "https://soundcloud.com/eggpaperfactory/un-blonde-water-the-next?in=eggpaperfactory/sets/un-blonde-water-the-next-day"
 track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
-track4_link: ""
+track4_link: "https://soundcloud.com/homeshake/i-dont-play"
 track5_link: ""
 track6_link: ""
 track7_link: ""
@@ -19,8 +19,8 @@ track2_title: "Unblonde - Look"
 track2_color: trippy
 track3_title: " Tonstartssbandht - Hymn Eola"
 track3_color: dreamy
-track4_title: ""
-track4_color: rough
+track4_title: "Homeshake - I Don't Play"
+track4_color: dreamy
 track5_title: ""
 track5_color: rough
 track6_title: ""
