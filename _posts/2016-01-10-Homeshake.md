@@ -34,6 +34,24 @@ description: ""
 published: false
 ---
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<p id="introduction">introooooo
+</p>
+
+# Title1
+
+Story about music and Homeshake
+
+# Homeshake's inspiring selection :
+ 
+## Jerry Paper - 3D Dream
+Homeshake: **"**The universe is a hologram, but today you can get out of bed and make it work for you with help from Jerry Paper, what a great guy!**"**
+
+## Unblonde - Look
+Degiheugi:**"**Unblonde's album "water the next day" is a good soundtrack to the glass of water you poured yourself last night and woke up next to, stale, and with all that dust on the top**"**
+
+## Tonstartssbandht - Hymn Eola
+Degiheugi: **"**There is a god, and she is beautiful and gives life to song through the voices of two brothers named Andy and Edwin**“**
+ 
+<p id="outroduction">
+That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
