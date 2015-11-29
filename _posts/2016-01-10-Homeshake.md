@@ -14,11 +14,11 @@ track5_link: ""
 track6_link: ""
 track7_link: ""
 track1_title: "Jerry Paper - 3D Dream"
-track1_color: rough
+track1_color: trippy
 track2_title: "Un Blonde - Look"
-track2_color: rough
+track2_color: trippy
 track3_title: " Tonstartssbandht - Hymn Eola"
-track3_color: rough
+track3_color: dreamy
 track4_title: ""
 track4_color: rough
 track5_title: ""
@@ -54,4 +54,7 @@ Degiheugi:**"**Unblonde's album "water the next day" is a good soundtrack to the
 Degiheugi: **"**There is a god, and she is beautiful and gives life to song through the voices of two brothers named Andy and Edwin**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
+That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to ![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
+![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
+![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
+[William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
