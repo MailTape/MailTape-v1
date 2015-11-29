@@ -15,7 +15,7 @@ track6_link: ""
 track7_link: ""
 track1_title: "Jerry Paper - 3D Dream"
 track1_color: trippy
-track2_title: "Un Blonde - Look"
+track2_title: "Unblonde - Look"
 track2_color: trippy
 track3_title: " Tonstartssbandht - Hymn Eola"
 track3_color: dreamy
