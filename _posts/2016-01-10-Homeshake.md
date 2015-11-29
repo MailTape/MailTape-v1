@@ -35,6 +35,7 @@ published: true
 ---
 
 
+
 <p id="introduction">introooooo
 </p>
 
@@ -54,7 +55,4 @@ Degiheugi:**"**Unblonde's album "water the next day" is a good soundtrack to the
 Degiheugi: **"**There is a god, and she is beautiful and gives life to song through the voices of two brothers named Andy and Edwin**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to ![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
-![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
-![guestPic200.jpg]({{site.baseurl}}/img/guestPic200.jpg)
-[William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
+That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
