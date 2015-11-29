@@ -12,7 +12,7 @@ track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
 track4_link: "https://soundcloud.com/homeshake/i-dont-play"
 track5_link: "https://soundcloud.com/ninja-tune/max-graef-glenn-astro-magic-johnson"
 track6_link: "https://soundcloud.com/mailtape/dego-kaidi-black-is-key"
-track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/200/Sunday+kind+of+love-Bobby+Rodriguez+Y+la+Compan%CC%83ia.mp3"
+track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/200/track7.mp3"
 track1_title: "Jerry Paper - 3D Dream"
 track1_color: trippy
 track2_title: "Unblonde - Look"
