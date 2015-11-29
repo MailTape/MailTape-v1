@@ -10,9 +10,9 @@ track1_link: "https://soundcloud.com/jerry-paper/3d-dream-world-mix"
 track2_link: "https://soundcloud.com/eggpaperfactory/un-blonde-water-the-next?in=eggpaperfactory/sets/un-blonde-water-the-next-day"
 track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
 track4_link: "https://soundcloud.com/homeshake/i-dont-play"
-track5_link: ""
-track6_link: ""
-track7_link: ""
+track5_link: "https://soundcloud.com/ninja-tune/max-graef-glenn-astro-magic-johnson"
+track6_link: "https://soundcloud.com/mailtape/dego-kaidi-black-is-key"
+track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/200/Sunday+kind+of+love-Bobby+Rodriguez+Y+la+Compan%CC%83ia.mp3"
 track1_title: "Jerry Paper - 3D Dream"
 track1_color: trippy
 track2_title: "Unblonde - Look"
@@ -21,12 +21,12 @@ track3_title: " Tonstartssbandht - Hymn Eola"
 track3_color: dreamy
 track4_title: "Homeshake - I Don't Play"
 track4_color: dreamy
-track5_title: ""
-track5_color: rough
-track6_title: ""
+track5_title: "Max Graef & Glenn Astro - Magic Johnson"
+track5_color: vibrant
+track6_title: "Dego & Kaidi - Black is Key"
 track6_color: rough
-track7_title: ""
-track7_color: rough
+track7_title: " Sunday Kind Of Love - Bobby Rodriguez Y La Compania"
+track7_color: vibrant
 episode_URL: ""
 fbPic: ""
 musiColor: ""
