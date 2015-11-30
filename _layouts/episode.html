@@ -114,6 +114,17 @@
 
             <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="500"></div>
 
+          
+        <div id="relatedEpisodes"> 
+            {% for post in site.posts %}
+                {% if site.time > post.date %}
+                    {% if post.guest_color == page.guest_color and post.category != page.category %}
+                        <a href="{{post.url}}" style="display:none" class="{{ post.guest_color }} relatedEpisode">{{post.category}} - {{post.title}}</a>
+                    {% endif %}
+                {% endif %}
+          {% endfor %}
+        </div>  
+
         </div>
 
 
