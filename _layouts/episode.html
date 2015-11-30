@@ -1,5 +1,7 @@
 {% include head.html %} {% include fb_sdk.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
+
+
 <div id="bigHeader" class="stretchMe notPlaying" data-stretch="/img/{{ page.guestPic }}">
 
     <div class="container">
@@ -115,16 +117,7 @@
 
     <div class="archives" id="archives">
     </div>
-    
- <div id="relatedEpisodes"> 
-            {% for post in site.posts %}
-                {% if site.time > post.date %}
-                    {% if post.guest_color == page.guest_color and post.category != page.category %}
-                        <a href="{{post.url}}" style="display:none" class="{{ post.guest_color }} relatedEpisode">{{post.category}} - {{post.title}}</a>
-                    {% endif %}
-                {% endif %}
-          {% endfor %}
-        </div> 
+
 </div>
 
 {% include footer.html %}
