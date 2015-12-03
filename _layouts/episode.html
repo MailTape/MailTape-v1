@@ -114,23 +114,29 @@
 
             <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="500"></div>
 
-          
+        </div>
+    </div>
+
+    <div class="row">
+
         <div id="relatedEpisodes"> 
             {% for post in site.posts %}
                 {% if site.time > post.date %}
                     {% if post.guest_color == page.guest_color and post.category != page.category %}
-                        <a href="{{post.url}}" style="display:none" class="{{ post.guest_color }} relatedEpisode">{{post.category}} - {{post.title}}</a>
+                    <div class="col-md-4 relatedEpisode {{ post.guest_color }}" style="display:none"> 
+                        <a class="stretchMe" data-stretch="/img/{{ post.guestPic }}" href="{{ post.url }}">
+                            <h1><span class="re-hash">#{{ post.category }}&nbsp;</span><br/>{{ post.guest_name }}</h1>
+                              <img src="/img/{{ post.musiColor }}" class="img-responsive re-musiColor"/>
+                        </a>
+                    </div>
                     {% endif %}
                 {% endif %}
           {% endfor %}
-        </div>  
-
         </div>
-
 
     </div>
 
-    <div class="archives" id="archives">
+   <div class="archives" id="archives">
     </div>
 
 </div>

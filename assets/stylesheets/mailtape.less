@@ -174,8 +174,8 @@ article {
 
 	.menu {
 		text-align: right;
-		margin-top: 1.5em;
-		font-family: 'superspitze_groteskregular';
+		margin-top: 1.5em;		font-family: 'superspitze_groteskregular';
+
 
 		a {
 			margin-left:0.5em;
@@ -1356,4 +1356,70 @@ a {
 
 #autoLoop.active {
   opacity: 0.8;
+}
+
+#relatedEpisodes {
+	margin-top: 2em;
+}
+
+.relatedEpisode {
+
+	.transition;
+
+	h1 {
+		text-align: center;	
+		font-family: 'superspitze_groteskregular';
+		opacity: 0;
+		padding-top: 2em;
+
+		.re-hash {
+			font-size: 0.5em;
+		}
+
+	}
+
+	.re-musiColor {
+		opacity: 0;
+		border-top: solid 8px white;
+		border-bottom: solid 5px white;
+		border-left: solid 4px white;
+		border-right: solid 4px white;
+		position: absolute;
+		bottom: 0;
+		.transition;
+		background: white;
+	}
+
+	.stretchMe {
+		display: block;
+
+		height: 12em;
+
+		&:hover {
+
+			background: fadeout(black, 50%) !important;
+
+			.re-musiColor {
+				opacity: 1;
+			}
+			h1 {
+				opacity: 1;
+			}
+		}
+	}
+
+	.anystretch {
+		.rounded-corners;
+	}
+
+	a {
+		color: none;
+		border:none;
+		padding:0;
+		background:none;
+	}
+}
+
+.relatedEpisode_title {
+
 }
