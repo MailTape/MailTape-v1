@@ -5,7 +5,7 @@ category: "200"
 guest_name: Homeshake
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: guestPic200.jpg
+guestPic: guestPic200.png
 track1_link: "https://soundcloud.com/jerry-paper/3d-dream-world-mix"
 track2_link: "https://soundcloud.com/eggpaperfactory/un-blonde-water-the-next?in=eggpaperfactory/sets/un-blonde-water-the-next-day"
 track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
@@ -33,8 +33,6 @@ musiColor: ""
 description: ""
 published: true
 ---
-
-
 
 <p id="introduction">introooooo
 </p>
