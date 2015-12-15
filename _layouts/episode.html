@@ -1,19 +1,29 @@
-{% include head.html %} {% include fb_sdk.html %} {% include nav.html %} {% include topbar-subscription.html %} {% include topbar.html %}
+{% include head.html %} {% include fb_sdk.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
-<div id="bigHeader" class="stretchMe" data-stretch="/img/{{ page.guestPic }}">
-    <header id="colorFilter" class="{{ page.guest_color }}">
-        <div id="playButton" class="{{ page.guest_color }}" onClick="_gaq.push(['_trackEvent', 'Music', 'Play', 'BigButton']);">&#xe602;</div>
 
-        <div class="container">
 
-            <div id="bigTitle">{{ page.guest_name }}</div>
+<div id="bigHeader" class="stretchMe notPlaying" data-stretch="/img/{{ page.guestPic }}">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-1 col-xs-2 nav left">
+                {% if site.time > page.next.date %}
+                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
+                    &nbsp; &nbsp; &nbsp;
+                {% endif %}
+            </div>
+            <div class="col-md-8 col-md-offset-1 col-xs-6 col-xs-offset-1 center">
+                    <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
+                    <h1>{{ page.guest_name }}</h1>
+                    <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
+                    <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
+            </div>
+            <div class="col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-1 nav right">
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
+            </div>
         </div>
+    </div>
 
-    </header>
-</div>
-
-<div id="musiColorSeparator" class="{{ page.guest_color }}">
-    <h2 id="underBigTitle">SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }} - EPISODE {{ page.category }}</h2>
 </div>
 
 <div id="player" class="notPlaying">
@@ -21,43 +31,43 @@
         <ul class="playlist">
             <li id="firstTrack" class="track1 {{ page.track1_color }}">
                 <h1 class="tractTitle" id="track1_title_player">track1</h1>
-                <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '1']);">
+                <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '1']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track2 {{ page.track2_color }}">
                 <h1 class="tractTitle" id="track2_title_player">track2</h1>
-                <a type="audio/mp3" id="track2_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '2']);">
+                <a type="audio/mp3" id="track2_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '2']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track3 {{ page.track3_color }}">
                 <h1 class="tractTitle" id="track3_title_player">track3</h1>
-                <a type="audio/mp3" id="track3_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '3']);">
+                <a type="audio/mp3" id="track3_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '3']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track4 {{ page.track4_color }}">
                 <h1 class="tractTitle" id="track4_title_player">track4</h1>
-                <a type="audio/mp3" id="track4_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '4']);">
+                <a type="audio/mp3" id="track4_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '4']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track5 {{ page.track5_color }}">
                 <h1 class="tractTitle" id="track5_title_player">track5</h1>
-                <a type="audio/mp3" id="track5_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '5']);">
+                <a type="audio/mp3" id="track5_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '5']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track6 {{ page.track6_color }}">
                 <h1 class="tractTitle" id="track6_title_player">track6</h1>
-                <a type="audio/mp3" id="track6_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '6']);">
+                <a type="audio/mp3" id="track6_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '6']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
             <li class="track7 {{ page.track7_color }}">
                 <h1 class="tractTitle" id="track7_title_player">track7</h1>
-                <a type="audio/mp3" id="track7_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Play Track', '7']);">
+                <a type="audio/mp3" id="track7_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '7']);">
                     <span class="icon-control"></span>
                 </a>
             </li>
@@ -76,9 +86,9 @@
 
             <article>
 
-                {{ content }}    
+                {{ content }}
                 <p style="font-style:italic" id="signature">{{page.author}}.</p>
-                
+
             </article>
 
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
