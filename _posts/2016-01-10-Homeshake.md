@@ -35,12 +35,19 @@ published: true
 ---
 
 
-<p id="introduction">introooooo
+
+<p id="introduction">This morning, let the warm, soul-stirring music of a Montreal guitarist show you how to cozy up on the coldest morning of the year. Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting your return from a walk in the snow, he takes you there, transforming hints of winter blues into joy. Homeshake’s voice is undeniably comforting and his morning selection magically reassuring.
 </p>
 
 # Title1
 
-Story about music and Homeshake
+It all starts with Jerry Paper and his 3D activity, shedding light on all there is to know about surrendering yourself to yourself. Like the shadow of a mallet tapping a xylophone with the purest intention, we hear it, and then again, and then it echoes, deeply. 3D vision, third eye wisdom, slowly waking you up to Water the next day, Unblond’s Look’s is pure, yet soft, straight to the point, helping you unfold slowly out of bed, without torture, pacing with confidence, this track is smooth, real and will absorb enough guilt from your wildest night, taking the ordinary out of the binary. 
+
+It’s not so simple anymore, the earth is shaking a bit more as we’re diving into the mantra like, almost holy hymn Eola. Tonstartssbandht is surprisingly elevating, like the feeling of hypnotic sand pouring down your spine, grounding with its mesmerizing ambient chants from planet elsewhere. We keep it rolling, unfolding with Homeshake’s I don’t want to play, like the soft approach of the sensuous hand you’ve craved for years to calm and sooth the jitters of your unrested vibrations. The fluidity of his comforting vocals will drown you in a river of pleasuring glitters.
+
+And yet, we are ready for more, slowly releasing inhibitions, the full moon has come, and magically, it seems it’s time to dance. Max Graef & Glenn Astro will charm your senses with their multi dimensional track. Magic Johnson is a like a deep dive into a pool of instrumental madness that is both enticing and exciting. Open up, start grooving, keep it moving and embark on the funky disco boat. Dego & Kaidi- ‘’Black is Key’’ will get your shoulders rotating and your feet sliding. Don’t hesitate, it’s all for fun, because it’s Sunday and we’re to love, play, live, feel and danse every minute of every day of each month of the year.
+
+A Sunday kind of love is all you deserve, you’re alive, wherever you are, remember that music, in the end is ‘’The Companion’’, par excellence.
 
 # Homeshake's inspiring selection :
  
@@ -48,10 +55,10 @@ Story about music and Homeshake
 Homeshake: **"**The universe is a hologram, but today you can get out of bed and make it work for you with help from Jerry Paper, what a great guy!**"**
 
 ## Unblonde - Look
-Degiheugi:**"**Unblonde's album "water the next day" is a good soundtrack to the glass of water you poured yourself last night and woke up next to, stale, and with all that dust on the top**"**
+Homeshake:**"**Unblonde's album "water the next day" is a good soundtrack to the glass of water you poured yourself last night and woke up next to, stale, and with all that dust on the top**"**
 
 ## Tonstartssbandht - Hymn Eola
-Degiheugi: **"**There is a god, and she is beautiful and gives life to song through the voices of two brothers named Andy and Edwin**“**
+Homeshake: **"**There is a god, and she is beautiful and gives life to song through the voices of two brothers named Andy and Edwin**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration.</p>
+That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration and PS KY for her magic writings.</p>
