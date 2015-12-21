@@ -31,7 +31,7 @@ episode_URL: ""
 fbPic: ""
 musiColor: ""
 description: ""
-published: false
+published: true
 ---
 
 
