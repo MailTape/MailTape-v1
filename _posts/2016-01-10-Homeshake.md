@@ -12,7 +12,7 @@ track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
 track4_link: "https://soundcloud.com/homeshake/i-dont-play"
 track5_link: "https://soundcloud.com/ninja-tune/max-graef-glenn-astro-magic-johnson"
 track6_link: "https://soundcloud.com/mailtape/dego-kaidi-black-is-key"
-track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/200/track7.mp3"
+track7_link: "https://soundcloud.com/soulection/monte-booker-baby-ft-ravyn-lenae"
 track1_title: "Jerry Paper - 3D Dream"
 track1_color: trippy
 track2_title: "Unblonde - Look"
@@ -25,14 +25,15 @@ track5_title: "Max Graef & Glenn Astro - Magic Johnson"
 track5_color: vibrant
 track6_title: "Dego & Kaidi - Black is Key"
 track6_color: rough
-track7_title: " Sunday Kind Of Love - Bobby Rodriguez Y La Compania"
-track7_color: vibrant
+track7_title: " Monte Booker - Baby Ft. Ravyn Lenae "
+track7_color: dreamy
 episode_URL: ""
 fbPic: ""
 musiColor: ""
 description: ""
 published: true
 ---
+
 
 
 
