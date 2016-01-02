@@ -1,33 +1,33 @@
 ---
 layout: episode
-author: Dimitri
-category: ""
-guest_name: ""
-guest_color: rough
+author: Ludovic
+category: "201"
+guest_name: Nicholas Larsen
+guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: ""
-track1_link: ""
-track2_link: ""
-track3_link: ""
-track4_link: ""
-track5_link: ""
-track6_link: ""
-track7_link: ""
-track1_title: ""
-track1_color: rough
-track2_title: ""
-track2_color: rough
-track3_title: ""
-track3_color: rough
-track4_title: ""
-track4_color: rough
-track5_title: ""
+guestPic: guestPic201.jpg
+track1_link: "https://soundcloud.com/bleutoucan/lafree"
+track2_link: "https://soundcloud.com/jimmyedgar/feel-what-it-is"
+track3_link: "https://soundcloud.com/kaytranada/rejjie-snow-blakkst-skn-feat-rae-morris-kaytra-mix"
+track4_link: "https://soundcloud.com/nicholas-larsen/starlight"
+track5_link: "https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav"
+track6_link: "https://soundcloud.com/partyfinemusic/daniel-alexander-trains"
+track7_link: "https://soundcloud.com/search?q=frankey%20and%20sandrino%20acamar"
+track1_title: "Bleu Toucan - LA feat. Vendredi sur Mer"
+track1_color: vibrant
+track2_title: "Jimmy Edgar - Feel What It Is"
+track2_color: bliss
+track3_title: "Rejjie Snow - Blakkst Skn feat. Rae Morris"
+track3_color: trippy
+track4_title: "Nicholas Larsen - Starlight"
+track4_color: vibrant
+track5_title: "Silver Firs - Signals"
 track5_color: rough
-track6_title: ""
-track6_color: rough
-track7_title: ""
+track6_title: "Daniel Alexander - Trains"
+track6_color: bliss
+track7_title: "Frankey & Sandrino - Acamar"
 track7_color: rough
-episode_URL: ""
+episode_URL: "http://mailta.pe/201/Nicholas-Larsen"
 fbPic: ""
 musiColor: ""
 description: ""
