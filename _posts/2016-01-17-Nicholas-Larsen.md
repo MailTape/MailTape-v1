@@ -28,8 +28,8 @@ track6_color: bliss
 track7_title: "Frankey & Sandrino - Acamar"
 track7_color: rough
 episode_URL: "http://mailta.pe/201/Nicholas-Larsen"
-fbPic: ""
-musiColor: ""
+fbPic: fbPic201.png
+musiColor: musiColor201.png
 description: ""
 published: false
 ---
@@ -53,4 +53,4 @@ Nicholas:**"**I stumbled across this tune by chance, and it's casually q gangste
 Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it's super original! Rejjie is killing it atm, and Kaytranada too - the tune he did for The Internet, 'Girl', is so banging also... Anyway, hope you enjoy!**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Homeshake](https://www.facebook.com/homeshake/) for his soulful selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for his beautiful illustration and PS KY for her magic writings.</p>
+That's all folks, thanks to [Nicholas Larsen](https://www.facebook.com/homeshake/) for his nice selection, thanks to [William Girault](https://www.facebook.com/Wllgr?fref=ts) for her beautiful illustration and PS KY for her magic writings.</p>
