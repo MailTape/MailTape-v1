@@ -31,8 +31,9 @@ episode_URL: "http://mailta.pe/201/Nicholas-Larsen/"
 fbPic: fbPic201.png
 musiColor: musiColor201.png
 description: ""
-published: false
+published: true
 ---
+
 
 <p id="introduction">This morning, [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..
 </p>
