@@ -27,7 +27,7 @@ track6_title: "Daniel Alexander - Trains"
 track6_color: bliss
 track7_title: "Frankey & Sandrino - Acamar"
 track7_color: rough
-episode_URL: "http://mailta.pe/201/Nicholas-Larsen"
+episode_URL: "http://mailta.pe/201/Nicholas-Larsen/"
 fbPic: fbPic201.png
 musiColor: musiColor201.png
 description: ""
