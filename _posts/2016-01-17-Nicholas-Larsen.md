@@ -22,7 +22,7 @@ track3_color: trippy
 track4_title: "Nicholas Larsen - Starlight"
 track4_color: vibrant
 track5_title: "Silver Firs - Signals"
-track5_color: rough
+track5_color: dreamy
 track6_title: "Daniel Alexander - Trains"
 track6_color: bliss
 track7_title: "Frankey & Sandrino - Acamar"
