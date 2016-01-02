@@ -12,7 +12,7 @@ track3_link: "https://soundcloud.com/kaytranada/rejjie-snow-blakkst-skn-feat-rae
 track4_link: "https://soundcloud.com/nicholas-larsen/starlight"
 track5_link: "https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav"
 track6_link: "https://soundcloud.com/partyfinemusic/daniel-alexander-trains"
-track7_link: "https://soundcloud.com/search?q=frankey%20and%20sandrino%20acamar"
+track7_link: "https://soundcloud.com/frankey-official/frankey-sandrino-acamar"
 track1_title: "Bleu Toucan - LA feat. Vendredi sur Mer"
 track1_color: vibrant
 track2_title: "Jimmy Edgar - Feel What It Is"
