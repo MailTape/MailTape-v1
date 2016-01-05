@@ -4,7 +4,7 @@ author: Ludovic
 category: "201"
 guest_name: Nicholas Larsen
 guest_color: vibrant
-bigTitle_font_ratio: "10"
+bigTitle_font_ratio: "7"
 guestPic: guestPic201.jpg
 track1_link: "https://soundcloud.com/bleutoucan/lafree"
 track2_link: "https://soundcloud.com/jimmyedgar/feel-what-it-is"
