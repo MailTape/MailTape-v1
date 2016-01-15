@@ -3,7 +3,7 @@
 body {
    font-size: 18px;
    line-height: 1.6;
-   font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+   font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
    color: @grey;
      // background-image: url("/img/backWithNoGrid.gif");
   // background-repeat: repeat-x repeat-y;
@@ -40,12 +40,12 @@ body {
 // 		display: inline;
 // 	}
 // 	label {
-// 			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+// 			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 // 			font-weight: 300;
 // 		}
 
 // 	input {
-// 			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+// 			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 // 			font-weight: 300;
 // 			.rounded-corners;
 // 			margin:0 0.2em;
@@ -121,33 +121,79 @@ body {
 	}
 }
 
+#social {
+	margin-top: 0.5em;
+}
+
 article {
 
-	@media only screen and (min-width: 768px) {
-		margin-top: 1em;
-
-	}
-
+	// h1 {
+	// 	text-align: center;
+	// 	font-size: 1.6em;
+	// 	margin-bottom: 0.5em;
+	// 	font-weight: 400;
+	// 	margin-top: 2em;
+	// }
+	
+	// h2 {
+	// 	text-align: center;
+	// 	margin-top: 1.8em;
+	// 	font-weight: 400;
+	// 	font-size: 1.3em;
+	// }
+	
+	// p {
+	// 	margin-top: 1em;
+	// 	font-size: 1.1em;
+	// 	font-weight: 300;
+	// }
 
 	h1 {
-		text-align: center;
-		font-size: 1.6em;
+		text-align: left;
+		font-size: 36px;
 		margin-bottom: 0.5em;
-		font-weight: 500;
-		margin-top: 2em;
+		font-weight: 600;
+		margin-top: 60px;
+		font-family: "source-sans-pro";
+	}
+	
+
+	h2:first-of-type {
+		margin-top: 25px;
+	}
+
+	h2 {
+		text-align: left;
+		margin-top: 50px;
+		font-weight: 600;
+		font-size: 1.3em;
+		font-family: "source-sans-pro";
 
 	}
-	h2 {
-		text-align: center;
-		margin-top: 1.8em;
-		font-weight: 500;
-		font-size: 1.3em;
-	}
+	
 	p {
-		margin-top: 1em;
-		font-size: 1.2em;
+		margin-bottom: 25px;
+		font-size: 22px;
+		font-weight: 400;
+		line-height: 35px;
+	}
+
+	// p:first-letter {
+	// float:left;
+	// font-size: 76px;
+	// font-weight: 800;
+	// margin-right: 3px; 
+	// padding-top: 7px;
+	// }	
+
+	em {
+		font-style: normal;
 		font-weight: 400;
 	}
+}
+
+.separator {
+	width: 10%;
 }
 
 .topTopbar {
@@ -184,7 +230,7 @@ article {
 	}
 
 	p {
-		font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+		font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 	}
 }
 
@@ -400,11 +446,11 @@ article {
 
 #main-content {
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		padding-top: 1.5em;
+		padding-top: 1em;
 	}
 
 	@media only screen and (min-width: 768px) {
-		padding-top: 2.3em;
+		padding-top: 2em;
 
 	}
 	
@@ -412,16 +458,26 @@ article {
 
 #introduction {
 	margin-top: 0px;
-	font-size: 1.3em;
-	line-height: 1.3em;
-	font-style: italic;
+	font-size: 24px;
+	line-height: 38px;
+	font-weight: 300;
+	
+}
+
+#introduction:first-letter {
+	padding-top: 10px;
+	margin-right: 3px;
+	float: left;
+	font-size: 86px;
+	font-weight: 400;
 }
 
 #outroduction {
-	font-size: 1.3em;
-	margin-bottom: 0;
-	margin-top: 2em;
-	font-style: italic;
+	font-size: 24px;
+	line-height: 38px;
+	font-weight: 300;
+	margin-bottom: 50px;
+	margin-top: 6yout0px;
 }
 
 #signature {
@@ -437,8 +493,12 @@ article {
 
 }
 
+#sociallyAligned {
+	line-height: 10px;
+}
+
 .fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe {
-    margin-top: 0.8em;
+    margin-top: 0.3em;
     width: 100% !important;
 }
 
@@ -516,7 +576,7 @@ article {
 			.liMusicolor (5,@trippy);
 
 			i {
-				font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+				font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 				font-size: 0.7em;
 				line-height: 0.7em;
 			}
@@ -535,7 +595,7 @@ article {
 
 		li {
 			margin-top: 0.5em;
-			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-weight: 300;
 			font-size: 0.9em;
 
@@ -562,7 +622,7 @@ article {
 	}
 
 	p {
-		font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+		font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 		font-weight: 300;
 		font-size: 0.9em;
 		line-height: 1.7em;
@@ -585,7 +645,7 @@ article {
 	}
 
 	label {
-		font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+		font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 		font-size: 0.8em;
 		font-weight: 300;
 
@@ -596,7 +656,7 @@ article {
 	}
 
 	input {
-		font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+		font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 		font-size: 0.8em;
 		font-weight: 300;
 		.rounded-corners;
@@ -636,13 +696,13 @@ article {
 
 	.mc-field-group {
 		label {
-			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-size: 0.8em;
 			font-weight: 300;
 		}
 
 		input {
-			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-size: 0.8em;
 			font-weight: 300;
 			.rounded-corners;
@@ -686,19 +746,20 @@ article {
 }
 
 .paypal_form {
-	text-align: right;
+	text-align: center;
 	position: relative;
 
 	.button {
 		background: rgba(237, 237, 237, 1.0000);
 		color: &lighterGrey;
-		padding: 0.4em;
+		padding: 0.2em;
 		font-family: 'superspitze_groteskregular';
 		text-align:center;
 		.rounded-corners;
-		margin: 0 0 0 0.5em;
+		margin: 0.5em 0;
 		.transition;
 		border:none;
+		width: 100%;
 
 		&:focus {outline:none;}
 
@@ -730,7 +791,7 @@ article {
     -moz-appearance:none;
     appearance:none;
     cursor:pointer;
-    font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+    font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
     font-weight: 300;
     .transition;
 
@@ -772,6 +833,88 @@ article {
 	}
 }
 
+#articleFooter {
+	margin-top: 4fem;
+}
+
+#creditAndSupport {
+	h1 {
+		font-size: 1.7em;
+		font-family: 'superspitze_groteskregular';
+		margin-top: 0;
+	}
+}
+
+#relatedEpisodes {
+	margin-top: 4em;
+	h1 {
+		text-align: center;
+		font-family: 'superspitze_groteskregular';
+	}
+}
+
+
+.relatedEpisode {
+
+	.transition;
+
+	h1 {
+		text-align: center;	
+		font-family: 'superspitze_groteskregular';
+		opacity: 0;
+		padding-top: 2em;
+
+		.re-hash {
+			font-size: 0.5em;
+		}
+
+	}
+
+	.re-musiColor {
+		opacity: 0;
+		border-top: solid 8px white;
+		border-bottom: solid 5px white;
+		border-left: solid 4px white;
+		border-right: solid 4px white;
+		position: absolute;
+		bottom: 0;
+		.transition;
+		background: white;
+	}
+
+	.stretchMe {
+		display: block;
+
+		height: 12em;
+
+		&:hover {
+
+			background: fadeout(black, 50%) !important;
+
+			.re-musiColor {
+				opacity: 1;
+			}
+			h1 {
+				opacity: 1;
+			}
+		}
+	}
+
+	.anystretch {
+		.rounded-corners;
+	}
+
+	a {
+		color: none;
+		border:none;
+		padding:0;
+		background:none;
+	}
+}
+
+.relatedEpisode_title {
+
+}
 
 #footer {
 	text-align: center;
@@ -822,12 +965,12 @@ article {
 		display: inline;
 	}
 	label {
-			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-weight: 300;
 		}
 
 	input {
-			font-family: 'freight-text-pro',"Helvetica Neue",Helvetica,Arial;
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-weight: 300;
 			.rounded-corners;
 			margin:0 0.2em;
@@ -1358,70 +1501,4 @@ a {
 
 #autoLoop.active {
   opacity: 0.8;
-}
-
-#relatedEpisodes {
-	margin-top: 2em;
-}
-
-.relatedEpisode {
-
-	.transition;
-
-	h1 {
-		text-align: center;	
-		font-family: 'superspitze_groteskregular';
-		opacity: 0;
-		padding-top: 2em;
-
-		.re-hash {
-			font-size: 0.5em;
-		}
-
-	}
-
-	.re-musiColor {
-		opacity: 0;
-		border-top: solid 8px white;
-		border-bottom: solid 5px white;
-		border-left: solid 4px white;
-		border-right: solid 4px white;
-		position: absolute;
-		bottom: 0;
-		.transition;
-		background: white;
-	}
-
-	.stretchMe {
-		display: block;
-
-		height: 12em;
-
-		&:hover {
-
-			background: fadeout(black, 50%) !important;
-
-			.re-musiColor {
-				opacity: 1;
-			}
-			h1 {
-				opacity: 1;
-			}
-		}
-	}
-
-	.anystretch {
-		.rounded-corners;
-	}
-
-	a {
-		color: none;
-		border:none;
-		padding:0;
-		background:none;
-	}
-}
-
-.relatedEpisode_title {
-
 }

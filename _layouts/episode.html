@@ -95,17 +95,9 @@
                 <p style="font-style:italic" id="signature">{{page.author}}.</p>
 
             </article>
-
-        </div>
-    </div>
-
-    <div class="row">
-    <br><br>
-        <div class="col-md-5 col-md-offset-2">
-            <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="500"></div>
         </div>
 
-        <div class="col-md-1">
+        <div id="social" class="col-md-1">
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
                     <script>
                     ! function(d, s, id) {
@@ -123,22 +115,61 @@
                 <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
         </div>
 
-        <div class="col-md-2">
+    </div>
+
+    <div class="row" id="articleFooter">
+        <div class="col-md-5 col-md-offset-2">
+
+            <div id="sociallyAligned">
+
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
+                        <script>
+                        ! function(d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0],
+                                p = /^http:/.test(d.location) ? 'http' : 'https';
+                            if (!d.getElementById(id)) {
+                                js = d.createElement(s);
+                                js.id = id;
+                                js.src = p + '://platform.twitter.com/widgets.js';
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }
+                        }(document, 'script', 'twitter-wjs');
+                        </script>
+                        &nbsp;&nbsp;
+                <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true" ></div>
+
+            </div>
+
+            <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="400"></div>
+        </div>
+
+        <div id="creditAndSupport" class="col-md-2 col-md-offset-1">
+            
+
             <h1>Credit</h1>
             <p>Curator : ImaCrea<br>
             Writer : PS KY<br>
             Illustrator : Celestin<br>
+            <br><br>
             </p>
+
             <h1>Support us</h1>
-            <p>In the shop now</p>
-            <img src="http://www.duplication.ca/shop/images/D/vinyl-chipboard-jacket_800.jpg" style="width:150px">
+            <p>We believe in the inspirational power of music. MailTape is ad-free and supported by our generous community.
+            <div class="paypal_form">
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+                    <input type="hidden" name="cmd" value="_s-xclick">
+                    <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
+                    <input type="submit" border="0" name="submit" value="I &#9829; MailTape" class="button" data-tracking="single_donation_sidebar" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from sidebar']);">
+                </form>
+            </div>
+
         </div>
 
     </div>
 
     <div class="row">
-    <h1>In the same vibe</h1>
         <div id="relatedEpisodes"> 
+            <h1>Keep it flowin</h1>
             {% for post in site.posts %}
                 {% if site.time > post.date %}
                     {% if post.guest_color == page.guest_color and post.category != page.category %}
