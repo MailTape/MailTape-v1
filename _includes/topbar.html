@@ -4,7 +4,15 @@
             <div id="preloadLogo">
                 <img src="{{ site.baseurl }}/img/logo_MailTape.gif">
             </div>
-            <a id="logo" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Logo', 'GoBackHome']);" href="/"></a>
+            {% for post in site.posts %}
+            {% if site.time > post.date %}
+
+            <a id="logo" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Logo', 'GoBackHome']);" href="{{ post.url }}"></a>
+
+            {% break %}
+            {% endif %}
+            {% endfor %}
+        
         </div>
         <div class="col-xs-10 col-md-10 menu">
 
@@ -14,8 +22,9 @@
                     <div class="modal-content">
                         <div class="modal-header">
                             <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-                            <h3 class="modal-title">Fresh music in your inbox, every Sunday morning.</h3>
-                            <p>We invite a great artist who selects 3 tracks, we craft an inspiring playlist out of it, you receive it. Simple & free.
+                            <h3 class="modal-title">It's more than a newsletter.<br>
+                            It's fresh, it's MailTape.</h3>
+                            <p>We craft an inspiring playlist in collaboration with a great guest, you receive it every Sunday morning and enjoy. Simple & free.
                             </p>
                         </div>
                         <div class="modal-body">
@@ -38,14 +47,14 @@
                                         <div class="response" id="mce-success-response" style="display:none"></div>
                                     </div>
                                     <div class="clear">
-                                        <input type="submit" value="Submit now" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from popup']);">
+                                        <input type="submit" value="Yes darling!" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from popup']);">
                                     </div>
                                 </form>
                             </div>
 
                             <!--End mc_embed_signup-->
 
-                            <p>See you next Sunday my dear :)
+                            <p>See you next Sunday :)
                             </p>
 
                         </div>
@@ -105,12 +114,12 @@
             <!-- /.modal -->
 
 
-            <a data-toggle="modal" class="only-mobile" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Subscribe']);">SUBSCRIBE</a>
+            <a data-toggle="modal" class="only-mobile" href="#subModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Subscribe']);">WTF ?!</a>
 
-            <a class="donate_button_top" data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Love']);">DONATE</a>
+<!--             <a class="donate_button_top only-mobile" data-toggle="modal" href="#loveModal" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Love']);">DONATE</a> -->
 
-            <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton hidden-xs">ARCHIVES</a>
-
+<!--             <a onClick="_gaq.push(['_trackEvent', 'Buttons', 'Nav', 'Archives']);" class="archivesButton hidden-xs">ARCHIVES</a>
+ -->
             <!-- Eviter d'afficher le bouton archive dans le cas où JS non activé puisque fonctionne pas dans ce cas -->
             <noscript>
                 <style>

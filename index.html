@@ -1,8 +1,12 @@
+<!-- DEPRECATED. NO LANDING ANYMORE.  -->
+
 ---
 ---
 
 {% for post in site.posts %}
 {% if site.time > post.date %}
+
+{{ post.url }}
 
 <!DOCTYPE html>
 <html>
@@ -27,7 +31,7 @@
     try {
         Typekit.load();
     } catch (e) {}
-    </script>
+    </script> 
 
 
     <link rel="shortcut icon" href="favicon.ico">

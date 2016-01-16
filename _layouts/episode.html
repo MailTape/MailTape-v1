@@ -6,73 +6,97 @@
 
     <div class="container">
         <div class="row">
-            <div class="col-md-1 col-xs-2 nav left">
+            <div class="col-md-1 col-sm-1 hidden-xs nav left">
                 {% if site.time > page.next.date %}
                     <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
-                    &nbsp; &nbsp; &nbsp;
                 {% endif %}
             </div>
-            <div class="col-md-8 col-md-offset-1 col-xs-6 col-xs-offset-1 center">
+            <div class="col-md-10 col-sm-10 col-xs-12 center">
                     <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>
-                    <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
-                    <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
+<!--                     <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
+ -->                
             </div>
-            <div class="col-md-1 col-md-offset-1 col-xs-2 col-xs-offset-1 nav right">
+
+            <div class="col-md-1 col-sm-1 hidden-xs nav right">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
             </div>
+
         </div>
+
+        <div id="mobileHeaderControl" class="row visible-xs">
+
+            <div class="col-xs-1 nav left">
+            {% if site.time > page.next.date %}
+                <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
+            {% endif %}
+            </div>  
+            
+            <div class="col-xs-8 col-xs-offset-1 center">    
+            <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
+            </div>
+            
+            <div class="col-xs-2 nav right">
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
+            </div>
+
+        </div>
+
     </div>
 
 </div>
 
 <div id="player" class="notPlaying">
     <div class="container">
-        <ul class="playlist">
-            <li id="firstTrack" class="track1 {{ page.track1_color }}">
-                <h1 class="tractTitle" id="track1_title_player">track1</h1>
-                <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '1']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track2 {{ page.track2_color }}">
-                <h1 class="tractTitle" id="track2_title_player">track2</h1>
-                <a type="audio/mp3" id="track2_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '2']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track3 {{ page.track3_color }}">
-                <h1 class="tractTitle" id="track3_title_player">track3</h1>
-                <a type="audio/mp3" id="track3_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '3']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track4 {{ page.track4_color }}">
-                <h1 class="tractTitle" id="track4_title_player">track4</h1>
-                <a type="audio/mp3" id="track4_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '4']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track5 {{ page.track5_color }}">
-                <h1 class="tractTitle" id="track5_title_player">track5</h1>
-                <a type="audio/mp3" id="track5_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '5']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track6 {{ page.track6_color }}">
-                <h1 class="tractTitle" id="track6_title_player">track6</h1>
-                <a type="audio/mp3" id="track6_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '6']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
-            <li class="track7 {{ page.track7_color }}">
-                <h1 class="tractTitle" id="track7_title_player">track7</h1>
-                <a type="audio/mp3" id="track7_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '7']);">
-                    <span class="icon-control"></span>
-                </a>
-            </li>
+        <div class="col-md-12">
+            <span id="playButtonAsidePlaylist" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
+            <ul class="playlist notPlaying">
+                <li id="firstTrack" class="track1 {{ page.track1_color }}">
+                    <h1 class="tractTitle" id="track1_title_player">track1</h1>
+                    <a type="audio/mp3" id="track1_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '1']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track1_color }}</span>
+                    </a>
+                </li>
+                <li class="track2 {{ page.track2_color }}">
+                    <h1 class="tractTitle" id="track2_title_player">track2</h1>
+                    <a type="audio/mp3" id="track2_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '2']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track2_color }}</span>
+                    </a>
+                </li>
+                <li class="track3 {{ page.track3_color }}">
+                    <h1 class="tractTitle" id="track3_title_player">track3</h1>
+                    <a type="audio/mp3" id="track3_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '3']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track3_color }}</span>
+                    </a>
+                </li>
+                <li class="track4 {{ page.track4_color }}">
+                    <h1 class="tractTitle" id="track4_title_player">track4</h1>
+                    <a type="audio/mp3" id="track4_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '4']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track4_color }}</span>
+                    </a>
+                </li>
+                <li class="track5 {{ page.track5_color }}">
+                    <h1 class="tractTitle" id="track5_title_player">track5</h1>
+                    <a type="audio/mp3" id="track5_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '5']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track5_color }}</span>
+                    </a>
+                </li>
+                <li class="track6 {{ page.track6_color }}">
+                    <h1 class="tractTitle" id="track6_title_player">track6</h1>
+                    <a type="audio/mp3" id="track6_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '6']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track6_color }}</span>
+                    </a>
+                </li>
+                <li class="track7 {{ page.track7_color }}">
+                    <h1 class="tractTitle" id="track7_title_player">track7</h1>
+                    <a type="audio/mp3" id="track7_button" href="#" onClick="_gaq.push(['_trackEvent', 'Music', 'Click play on a track', '7']);">
+                        <span class="icon-control"></span><span class="musiColorHelper">{{ page.track7_color }}</span>
+                    </a>
+                </li>
+            </ul>
             <img src="/img/repeat.png" id="autoLoop">
-        </ul>
+            <img src="/img/musiColor-mini-icon.png" id="musiColorMiniIcon" class="hidden-xs hidden-sm" title="To each mood, a color. Show MusiColors and learn them :)" data-toggle="tooltip" data-placement"bottom">
+        </div>
     </div>
 </div>
 
@@ -82,7 +106,7 @@
 
     <div class="row">
 
-        <div class="col-md-8">
+        <div class="col-md-8 col-md-offset-2">
 
             <article>
 
@@ -90,32 +114,100 @@
                 <p style="font-style:italic" id="signature">{{page.author}}.</p>
 
             </article>
-
-            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
-            <script>
-            ! function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0],
-                    p = /^http:/.test(d.location) ? 'http' : 'https';
-                if (!d.getElementById(id)) {
-                    js = d.createElement(s);
-                    js.id = id;
-                    js.src = p + '://platform.twitter.com/widgets.js';
-                    fjs.parentNode.insertBefore(js, fjs);
-                }
-            }(document, 'script', 'twitter-wjs');
-            </script>
-            <br>
-            <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
-
-            <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="500"></div>
-
         </div>
 
-        {% include sidebar.html %}
+        <div id="social" class="col-md-1 hidden-xs hidden-sm">
+            <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
+                    <script>
+                    ! function(d, s, id) {
+                        var js, fjs = d.getElementsByTagName(s)[0],
+                            p = /^http:/.test(d.location) ? 'http' : 'https';
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + '://platform.twitter.com/widgets.js';
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+                    }(document, 'script', 'twitter-wjs');
+                    </script>
+                <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true"></div>
+        </div>
 
     </div>
 
-    <div class="archives" id="archives">
+    <div class="row" id="articleFooter">
+        <div class="col-md-5 col-md-offset-2">
+
+            <div id="sociallyAligned">
+
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
+                        <script>
+                        ! function(d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0],
+                                p = /^http:/.test(d.location) ? 'http' : 'https';
+                            if (!d.getElementById(id)) {
+                                js = d.createElement(s);
+                                js.id = id;
+                                js.src = p + '://platform.twitter.com/widgets.js';
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }
+                        }(document, 'script', 'twitter-wjs');
+                        </script>
+                        &nbsp;&nbsp;
+                <div class="fb-like" data-href="{{ page.episode_URL }}" data-width="100" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="true" ></div>
+
+            </div>
+
+            <div class="fb-comments" data-href="{{ page.episode_URL }}" data-numposts="5" data-width="400"></div>
+        </div>
+
+        <div id="creditAndSupport" class="col-md-2 col-md-offset-1">
+            
+            <div id="credit" class="hidden">
+                <h1>Credit</h1>
+                <p>Curator : ImaCrea<br>
+                Writer : PS KY<br>
+                Illustrator : Celestin<br>
+                </p>
+            </div>
+
+            <div id="supportMailTape">
+                <h1>Support us</h1>
+                <p>We believe in the inspirational power of music. MailTape is ad-free and supported by our generous community.</p>
+                <div class="paypal_form">
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
+                        <input type="submit" border="0" name="submit" value="I &#9829; MailTape" class="button" data-tracking="single_donation_sidebar" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from sidebar']);">
+                    </form>
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="row">
+        <div id="relatedEpisodes" class="col-md-12"> 
+            <h1>Keep it flowin</h1>
+            {% for post in site.posts %}
+                {% if site.time > post.date %}
+                    {% if post.guest_color == page.guest_color and post.category != page.category %}
+                    <div class="col-md-4 relatedEpisode {{ post.guest_color }}" style="display:none"> 
+                        <a class="stretchMe" data-stretch="/img/{{ post.guestPic }}" href="{{ post.url }}">
+                            <h2><span class="re-hash">#{{ post.category }}&nbsp;</span><br/>{{ post.guest_name }}</h2>
+                              <img src="/img/{{ post.musiColor }}" class="img-responsive re-musiColor"/>
+                        </a>
+                    </div>
+                    {% endif %}
+                {% endif %}
+          {% endfor %}
+        </div>
+
+    </div>
+
+   <div class="archives" id="archives">
     </div>
 
 </div>
