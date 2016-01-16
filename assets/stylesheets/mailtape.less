@@ -1,7 +1,46 @@
 @import "reference.less";
 
+html {
+	font-size: 22px;
+}
+
+@media(max-width: 992px) {
+  html {
+    font-size: 20px;
+  }
+
+  #bigHeader {
+  	h1 {
+    	font-size: 3.5rem;
+  	}
+  }
+
+ }
+
+@media(max-width: 768px) {
+  html {
+    font-size: 18px;
+  }
+
+   #bigHeader {
+   	h1 {
+    	font-size: 2.3rem;
+	}
+  }
+
+ }
+
+@media(min-width: 992px) {
+  #bigHeader {
+  	h1 {
+    	font-size: 4.236rem;
+	}
+  }
+
+ }
+
 body {
-   font-size: 18px;
+   font-size: 22px;
    line-height: 1.6;
    font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
    color: @grey;
@@ -103,18 +142,18 @@ body {
 }
 
 #logo {
-	height: 4.3em;
-	width: 5.2em;
+	height: 4.236rem;
+	width: 4.5rem;
 	background: url("/img/logo_MailTape_static.png") no-repeat;
-	background-size: 5em;
+	background-size: 4.236rem;
 	display: block;
 	padding: 0;
 	margin: 0;
 	&:hover {
-		height: 5em;
-		width: 5.2em;
+		height: 4.236rem;
+		width: 4.5rem;
 		background: url("/img/logo_MailTape.gif") no-repeat;
-		background-size: 5em;
+		background-size: 4.236rem;
 		display: block;
 		padding: 0;
 		margin: 0;
@@ -122,39 +161,19 @@ body {
 }
 
 #social {
-	margin-top: 0.5em;
+	margin-top: 0.5rem;
+	line-height: 1rem;
 }
 
 article {
 
-	// h1 {
-	// 	text-align: center;
-	// 	font-size: 1.6em;
-	// 	margin-bottom: 0.5em;
-	// 	font-weight: 400;
-	// 	margin-top: 2em;
-	// }
-	
-	// h2 {
-	// 	text-align: center;
-	// 	margin-top: 1.8em;
-	// 	font-weight: 400;
-	// 	font-size: 1.3em;
-	// }
-	
-	// p {
-	// 	margin-top: 1em;
-	// 	font-size: 1.1em;
-	// 	font-weight: 300;
-	// }
-
 	h1 {
 		text-align: left;
-		font-size: 36px;
+		font-size: 1.618rem;
 		margin-bottom: 0.5em;
 		font-weight: 600;
-		margin-top: 60px;
-		font-family: "source-sans-pro";
+		margin-top: 3rem;
+		font-family: "superspitze_groteskregular";
 	}
 	
 
@@ -164,18 +183,17 @@ article {
 
 	h2 {
 		text-align: left;
-		margin-top: 50px;
+		margin-top: 2.5rem;
 		font-weight: 600;
-		font-size: 1.3em;
-		font-family: "source-sans-pro";
+		font-size: 1rem;
 
 	}
 	
 	p {
-		margin-bottom: 25px;
-		font-size: 22px;
-		font-weight: 400;
-		line-height: 35px;
+		margin-bottom: 1.2rem;
+		font-size: 1rem;
+		font-weight: 300;
+		line-height: 1.618rem;
 	}
 
 	// p:first-letter {
@@ -200,7 +218,7 @@ article {
 	position: relative;
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		height: 5em;
+		height: 4.236rem;
 	}
 
 	@media only screen and (min-width: 768px) {
@@ -220,12 +238,13 @@ article {
 
 	.menu {
 		text-align: right;
-		margin-top: 1.5em;		font-family: 'superspitze_groteskregular';
+		margin-top: 1rem;		font-family: 'superspitze_groteskregular';
 
 
 		a {
-			margin-left:0.5em;
-			padding: 0 0.4em;
+			margin-left:0.5rem;
+			padding: 0 0.4rem;
+			font-size: 1rem
 		}
 	}
 
@@ -237,17 +256,17 @@ article {
 #bigHeader {
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		min-height: 300px;
-		padding-top: 50px;
+		min-height: 29.03rem;
+		padding-top: 11.089rem;
 	}
 
 	@media only screen and (min-width: 768px) {
-		min-height: 500px;
-		padding-top: 150px;
+		min-height: 29.03rem;
+		padding-top: 11.089rem;
 	}
 
 	&.notPlaying {
-		background : linear-gradient(rgba(0, 0, 0, 0.2) 20%, rgba(255, 255, 255, 1)) !important;
+	//	background : linear-gradient(rgba(0, 0, 0, 0.2) 20%, rgba(255, 255, 255, 1)) !important;
 	}
 
 	&.isPlaying {
@@ -263,38 +282,42 @@ article {
 	h1 {
 		color: white;
 		margin-top: 0.1em;
-		line-height: 1.1;
 		font-weight: 600;
 		letter-spacing: -1px;
+		overflow: hidden;
 	}
 
 	h2 {
 		color: white;
 		margin: 0 0 1.5em 0;
-		line-height: 1.1;
+		font-size: 0.618rem;
 	}
 
 	.nav {
 		font-family: 'icomoon';
 		//padding-top: 20px;
-		font-size: 3.5em;
+		font-size: 2.618rem;
 	}
 
 	.previous {
-		color: fadeout(darken(white,8%),15%);
+		//padding: 0;
+		width: auto;
+
 	  	content: "\e60a";
 	  	background: none;
-	  	padding: 0;
+	  	color: fadeout(darken(white,8%),15%);
 		&:hover {
 			color: white;
 			}
 	  }
 
 	.next {
+		//padding: 0;
+		width: auto;
+		
 		color: fadeout(darken(white,8%),15%);
 	  	content: "\e60a";
 	 	background: none;
-	  	padding: 0;
 	  	&:hover {
 	  		color: white;
 	  		}
@@ -308,17 +331,15 @@ article {
 }
 
 #playButton {
-	text-shadow: 1px 1px 7px rgba(150, 150, 150, 1);
+	color: fadeout(white,10%);
 
 	font-family: 'icomoon';
-	.transition(color);
 	.transition(background);
 	cursor: pointer;
 
-	color: fadeout(darken(white,10%),5%);
 	.transition(color,0.4s);
 
-	line-height: 1.1;
+	font-size: 2.618rem;
 
 	&:hover {
 		color: white;
@@ -350,7 +371,7 @@ article {
   cursor: pointer;
   display: inline-block;
   vertical-align: middle;
-  height: 2em;
+  height: 1.618rem;
 
 	&:hover {
   -webkit-transform: rotate(720deg);
@@ -372,11 +393,11 @@ article {
 
 	display: inline-block;
 	vertical-align: middle;
-	margin-right: 0.2em;
+	margin-right: 0.5rem;
 
 	z-index: 2;
 
-	font-size: 3.4em;
+	font-size: 2.618rem;
 
 	font-family: 'icomoon';
 	.transition(color);
@@ -458,26 +479,26 @@ article {
 
 #introduction {
 	margin-top: 0px;
-	font-size: 24px;
-	line-height: 38px;
+	font-size: 1rem;
+	line-height: 1.618rem;
 	font-weight: 300;
 	
 }
 
 #introduction:first-letter {
-	padding-top: 10px;
-	margin-right: 3px;
+	padding-top: 0.4rem;
+	margin-right: 0.15rem;
 	float: left;
-	font-size: 86px;
+	font-size: 4rem;
 	font-weight: 400;
 }
 
 #outroduction {
-	font-size: 24px;
-	line-height: 38px;
+	font-size: 1rem;
+	line-height: 1.618rem;
 	font-weight: 300;
-	margin-bottom: 50px;
-	margin-top: 6yout0px;
+	margin-bottom: 1.8rem;
+	margin-top: 2rem;
 }
 
 #signature {
@@ -760,6 +781,7 @@ article {
 		.transition;
 		border:none;
 		width: 100%;
+		font-size: 0.618rem;
 
 		&:focus {outline:none;}
 
@@ -839,17 +861,23 @@ article {
 
 #creditAndSupport {
 	h1 {
-		font-size: 1.7em;
+		font-size: 0.618rem;
 		font-family: 'superspitze_groteskregular';
 		margin-top: 0;
+	}
+
+	p {
+		font-size: 0.618rem;
 	}
 }
 
 #relatedEpisodes {
-	margin-top: 4em;
+	margin-top: 4.236rem;
+	text-align: center;
+	font-family: 'superspitze_groteskregular';
+
 	h1 {
-		text-align: center;
-		font-family: 'superspitze_groteskregular';
+		font-size: 2.618rem;
 	}
 }
 
@@ -858,14 +886,15 @@ article {
 
 	.transition;
 
-	h1 {
+	h2 {
 		text-align: center;	
 		font-family: 'superspitze_groteskregular';
 		opacity: 0;
-		padding-top: 2em;
+		padding-top: 1rem;
+		font-size: 1.618rem;
 
 		.re-hash {
-			font-size: 0.5em;
+			font-size: 0.618rem;
 		}
 
 	}
@@ -885,7 +914,7 @@ article {
 	.stretchMe {
 		display: block;
 
-		height: 12em;
+		height: 6.854rem;
 
 		&:hover {
 
@@ -894,14 +923,14 @@ article {
 			.re-musiColor {
 				opacity: 1;
 			}
-			h1 {
+			h2 {
 				opacity: 1;
 			}
 		}
 	}
 
 	.anystretch {
-		.rounded-corners;
+		.rounded-corners(2px);
 	}
 
 	a {
@@ -919,9 +948,8 @@ article {
 #footer {
 	text-align: center;
 	font-weight: 300;
-	font-size: 0.8em;
-	margin-top: 3em;
-	padding-top: 3em;
+	font-size: 0.618rem;
+	margin-top: 4.236rem;
 	background : linear-gradient(rgba(255,255,255, 1) 10%, rgba(255,255,255, 0)) !important;
 	font-family: 'superspitze_groteskregular';
 
@@ -1132,7 +1160,7 @@ a {
     }
 
     &.notPlaying {
-    	h1 {top:0.6em;}
+    	h1 {top:1.618rem;}
     }
 
 }
@@ -1145,7 +1173,7 @@ a {
 	// large desktop
 	@media (min-width: 1200px) { 
 		&.notPlaying {width: 85%;}
-		&.isPlaying{width: 93%;}
+		&.isPlaying{width: 92%;}
 	 }
 
 	// desktop
@@ -1163,7 +1191,7 @@ a {
 	/* Landscape phone to portrait tablet */
 	@media (max-width: 767px)  { 
 		&.notPlaying {width: 85%;}
-		&.isPlaying{width: 87%;}
+		&.isPlaying{width: 86%;}
 	 }
 
 	/* Landscape phones and down */
@@ -1182,11 +1210,11 @@ a {
 
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		height: 3em;
+		height: 2.618rem;
 	}
 
 	@media only screen and (min-width: 768px) {
-		height: 2.8em;
+		height: 2.618rem;
 
 	}
 
@@ -1249,19 +1277,20 @@ a {
 			white-space:nowrap;
 			position: absolute;
 
-			left:2em;
-			right: 2em;
+			left:1rem;
+			right: 1rem;
 			text-align: center;
 			display: none;
 			padding: 0.5em 0 0.2em 0;
 			.transition(all);
+			overflow: hidden;
 			@media only screen and (min-width: 0px) and (max-width: 767px) {
-				font-size: 1em;
+				font-size: 1.618rem;
 				top:-3em;
 			}
 
 			@media only screen and (min-width: 768px) {
-				font-size: 2em;
+				font-size: 1.618rem;
 				top:-2.4em;
 			}
 			font-family: 'superspitze_groteskregular';

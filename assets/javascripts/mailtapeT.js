@@ -23,15 +23,35 @@ $(document).ready(
   //        // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
   //        });
 
-		$('#bigHeader h1').fitText(0.7);
+		// enquire.register("screen and (max-width: 768px)", function() {
+		// 		$('#bigHeader h1').fitText(0.6);
+  //   	});
 
-		$('#bigHeader h2').flowtype({
-         minimum   : 100,
-         maximum   : 1110,
-         minFont   : 10,
-         maxFont   : 30,
-         fontRatio : 45 // A modifier au cas par cas ! -- Règle la largeur du titre
-         });
+  //   	enquire.register("screen and (min-width: 768px)", function() {
+		// 		$('#bigHeader h1').fitText(0.8);
+  //   	});
+
+
+		// enquire.register("screen and (max-width: 768px)", function() {
+		// 		$('#bigHeader h2').flowtype({
+		//          minimum   : 100,
+		//          maximum   : 768,
+		//          minFont   : 10,
+		//          maxFont   : 18,
+		//          fontRatio : 75 // A modifier au cas par cas ! -- Règle la largeur du titre
+		//          });
+  //   	});
+
+  //   	enquire.register("screen and (min-width: 768px)", function() {
+		// 		$('#bigHeader h2').flowtype({
+		//          minimum   : 100,
+		//          maximum   : 1110,
+		//          minFont   : 10,
+		//          maxFont   : 30,
+		//          fontRatio : 45 // A modifier au cas par cas ! -- Règle la largeur du titre
+		//          });
+  //   	});
+
 
 		$('#playButton').flowtype({
 		 minimum   : 500,
@@ -41,13 +61,13 @@ $(document).ready(
 		 fontRatio : 6, // A modifier au cas par cas ! -- Règle la largeur du titre
 		});
 
-		 $('body').flowtype({
-		 minimum   : 300,
-		 maximum   : 750,
-		 minFont   : 12,
-		 maxFont   : 21,
-		 fontRatio : 42, // A modifier au cas par cas ! -- Règle la largeur du titre
-		});
+		//  $('body').flowtype({
+		//  minimum   : 300,
+		//  maximum   : 750,
+		//  minFont   : 12,
+		//  maxFont   : 22,
+		//  fontRatio : 30, // A modifier au cas par cas ! -- Règle la largeur du titre
+		// });
 
 		$(".musicolorLabel").lettering();
 		var isPlaying=false;
