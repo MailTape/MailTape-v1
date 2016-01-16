@@ -30,7 +30,7 @@ track7_color: dreamy
 episode_URL: "http://mailta.pe/200/Homeshake/"
 fbPic: ""
 musiColor: ""
-description: ""
+description: "This morning, let the warm, soul-stirring music of a Montreal guitarist show you how to cozy up on the coldest morning of the year. Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting your return from a walk in the snow, he takes you there, transforming hints of winter blues into joy. Homeshake’s voice is undeniably comforting and his morning selection magically reassuring."
 published: true
 ---
 
