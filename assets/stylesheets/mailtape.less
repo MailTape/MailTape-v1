@@ -4,6 +4,15 @@ html {
 	font-size: 22px;
 }
 
+// html,body
+// {
+//     width: 100%;
+//     height: 100%;
+//     margin: 0px;
+//     padding: 0px;
+//     overflow-x: hidden; 
+// }
+
 @media(max-width: 992px) {
   html {
     font-size: 20px;
@@ -11,7 +20,7 @@ html {
 
   #bigHeader {
   	h1 {
-    	font-size: 3.5rem;
+    	font-size: 4.236rem;
   	}
   }
 
@@ -24,7 +33,7 @@ html {
 
    #bigHeader {
    	h1 {
-    	font-size: 2.3rem;
+    	font-size: 2.618rem;
 	}
   }
 
@@ -41,7 +50,6 @@ html {
 
 body {
    font-size: 22px;
-   line-height: 1.6;
    font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
    color: @grey;
      // background-image: url("/img/backWithNoGrid.gif");
@@ -142,18 +150,39 @@ body {
 }
 
 #logo {
-	height: 4.236rem;
-	width: 4.5rem;
+
+	@media only screen and (min-width: 0px) and (max-width: 767px) {
+		height: 2.618rem;
+		width: 2.8rem;
+		background-size: 2.618rem;
+	}
+
+	@media only screen and (min-width: 767px) {
+		height: 4.236rem;
+		width: 4.5rem;
+		background-size: 4.236rem;
+	}
+	
 	background: url("/img/logo_MailTape_static.png") no-repeat;
-	background-size: 4.236rem;
 	display: block;
 	padding: 0;
 	margin: 0;
+
 	&:hover {
-		height: 4.236rem;
-		width: 4.5rem;
+
+		@media only screen and (min-width: 0px) and (max-width: 767px) {		
+			height: 2.618rem;
+			width: 2.8rem;
+			background-size: 2.618rem;
+		}
+
+		@media only screen and (min-width: 767px) {
+			height: 4.236rem;
+			width: 4.5rem;
+			background-size: 4.236rem;
+		}
+
 		background: url("/img/logo_MailTape.gif") no-repeat;
-		background-size: 4.236rem;
 		display: block;
 		padding: 0;
 		margin: 0;
@@ -218,7 +247,7 @@ article {
 	position: relative;
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		height: 4.236rem;
+		height: 3.4rem;
 	}
 
 	@media only screen and (min-width: 768px) {
@@ -238,13 +267,13 @@ article {
 
 	.menu {
 		text-align: right;
-		margin-top: 1rem;		font-family: 'superspitze_groteskregular';
+		margin-top: 0.218rem;		font-family: 'superspitze_groteskregular';
 
 
 		a {
 			margin-left:0.5rem;
-			padding: 0 0.4rem;
-			font-size: 1rem
+			padding: 0.4rem;
+			font-size: 0.618rem
 		}
 	}
 
@@ -253,11 +282,15 @@ article {
 	}
 }
 
+#mobileHeaderControl {
+	margin-top: 2.618rem;
+}
+
 #bigHeader {
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		min-height: 26rem;
-		padding-top: 11.089rem;
+		min-height: 23rem;
+		padding-top: 9rem;
 	}
 
 	@media only screen and (min-width: 768px) {
@@ -293,19 +326,26 @@ article {
 		font-size: 0.618rem;
 	}
 
+
+
 	.nav {
 		font-family: 'icomoon';
 		//padding-top: 20px;
 		font-size: 2.618rem;
+		top:0.618rem;
+
+		a {
+			padding:0;
+		}
 	}
 
 	.previous {
 		//padding: 0;
-		width: auto;
+		//width: auto;
 
-	  	content: "\e60a";
 	  	background: none;
 	  	color: fadeout(darken(white,8%),15%);
+
 		&:hover {
 			color: white;
 			}
@@ -313,11 +353,17 @@ article {
 
 	.next {
 		//padding: 0;
-		width: auto;
+		//width: auto;
 
 		color: fadeout(darken(white,8%),15%);
-	  	content: "\e60a";
 	 	background: none;
+
+	 	@media(max-width: 768px) {
+  		
+  		padding-left: 15px !important;
+
+  		}
+
 	  	&:hover {
 	  		color: white;
 	  		}
@@ -372,10 +418,16 @@ article {
   display: inline-block;
   vertical-align: middle;
   height: 1.618rem;
+  opacity: 0.8;
 
 	&:hover {
   -webkit-transform: rotate(720deg);
   transform: rotate(720deg);
+  opacity: 0.9;
+	}
+
+	&:active {
+		opacity: 1;
 	}
 
 	/* hidden on too small screen */
@@ -460,6 +512,15 @@ article {
 
 }
 
+.modal-content {
+	font-size: 1rem;
+	line-height: 1.218rem;
+
+	h3 {
+		margin-bottom: 1rem;
+	}
+
+}
 
 .modal-dialog {
 	text-align: left;
@@ -467,11 +528,11 @@ article {
 
 #main-content {
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		padding-top: 1em;
+		padding-top: 2rem;
 	}
 
 	@media only screen and (min-width: 768px) {
-		padding-top: 2em;
+		padding-top: 2.618rem;
 
 	}
 	
@@ -516,6 +577,10 @@ article {
 
 #sociallyAligned {
 	line-height: 10px;
+}
+
+.fb-comments {
+	margin-bottom: 4.236rem;
 }
 
 .fb-comments, .fb-comments span, .fb-comments.fb_iframe_widget span iframe {
@@ -696,7 +761,6 @@ article {
 		font-family: 'superspitze_groteskregular';
 		text-align:center;
 		.rounded-corners;
-		margin: 0.5em 0;
 		.transition;
 		border:none;
 
@@ -716,6 +780,9 @@ article {
 	}
 
 	.mc-field-group {
+
+		margin: 1rem 0;
+
 		label {
 			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-size: 0.8em;
@@ -728,7 +795,6 @@ article {
 			font-weight: 300;
 			.rounded-corners;
 			width: 100%;
-			margin:0.5em 0;
 			background: rgba(237, 237, 237, 1.0000);
 			border: none;
 			padding: 0.4em;
@@ -742,7 +808,6 @@ article {
 		font-family: 'superspitze_groteskregular';
 		text-align:center;
 		.rounded-corners;
-		margin: 0.5em 0;
 		.transition;
 		border:none;
 
@@ -859,25 +924,61 @@ article {
 	margin-top: 4fem;
 }
 
+
 #creditAndSupport {
+
+	.button {
+		@media only screen and (min-width: 767px) {
+			font-size: 0.618rem;
+		}
+
+		@media only screen and (max-width: 767px) {
+			font-size: 1rem;
+		}
+	}
+
 	h1 {
-		font-size: 0.618rem;
 		font-family: 'superspitze_groteskregular';
-		margin-top: 0;
+
+		@media only screen and (min-width: 767px) {
+			margin-top: 0;
+			font-size: 0.618rem;
+		}
+
+		@media only screen and (max-width: 767px) {
+			font-size: 1.618rem;
+			margin: 1.618rem 0 1rem 0;
+		}
 	}
 
 	p {
-		font-size: 0.618rem;
+		@media only screen and (min-width: 767px) {
+			font-size: 0.618rem;
+		}
+
+		@media only screen and (max-width: 767px) {
+			font-size: 1rem;
+		}
 	}
 }
 
 #relatedEpisodes {
-	margin-top: 4.236rem;
 	text-align: center;
 	font-family: 'superspitze_groteskregular';
 
 	h1 {
-		font-size: 2.618rem;
+
+		@media only screen and (min-width: 767px) {
+			text-align: center;
+			font-size: 2.618rem;
+		}
+
+		@media only screen and (max-width: 767px) {
+			text-align: left;
+			font-size: 1.618rem;
+			margin: 2.618rem 0 1rem 0;
+		}
+
 	}
 }
 
@@ -885,6 +986,11 @@ article {
 .relatedEpisode {
 
 	.transition;
+
+	@media only screen and (min-width: 0px) and (max-width: 767px) {
+		margin: 1.618rem 0;
+		padding: 0;
+	}
 
 	h2 {
 		text-align: center;	
@@ -916,17 +1022,32 @@ article {
 
 		height: 6.854rem;
 
-		&:hover {
+		@media only screen and (min-width: 768px) {
+			&:hover {
 
+				background: fadeout(black, 50%) !important;
+
+				.re-musiColor {
+					opacity: 1;
+				}
+				h2 {
+					opacity: 1;
+				}
+			}
+		}
+
+		@media only screen and (min-width: 0px) and (max-width: 767px) {
 			background: fadeout(black, 50%) !important;
 
 			.re-musiColor {
 				opacity: 1;
 			}
 			h2 {
+				color: white;
 				opacity: 1;
 			}
 		}
+
 	}
 
 	.anystretch {
@@ -949,6 +1070,7 @@ article {
 	text-align: center;
 	font-weight: 300;
 	font-size: 0.618rem;
+	line-height: 1rem;
 	margin-top: 4.236rem;
 	background : linear-gradient(rgba(255,255,255, 1) 10%, rgba(255,255,255, 0)) !important;
 	font-family: 'superspitze_groteskregular';
@@ -1210,7 +1332,7 @@ a {
 
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		height: 2.618rem;
+		height: 2.8rem;
 	}
 
 	@media only screen and (min-width: 768px) {
@@ -1221,6 +1343,7 @@ a {
 	position: relative;
 
 	.icon-control {
+	font-size: 1rem;
 	bottom: 0;
     height: 50%;
     left: 0;
@@ -1285,8 +1408,8 @@ a {
 			.transition(all);
 			overflow: hidden;
 			@media only screen and (min-width: 0px) and (max-width: 767px) {
-				font-size: 1.618rem;
-				top:-3em;
+				font-size: 1rem;
+				top:-3.8rem;
 			}
 
 			@media only screen and (min-width: 768px) {
@@ -1382,13 +1505,13 @@ a {
 
 		.controls .position
 		{
-			-moz-border-radius-bottomleft: 0.3em;
-			border-bottom-left-radius: 3em;
+			-moz-border-radius-bottomleft: 0.2rem;
+			border-bottom-left-radius: 0.2rem;
 		}
 		.statusbar .position,.loading
 		{
-			-moz-border-radius-bottomleft: 0.3em;
-			border-bottom-left-radius: 3em;
+			-moz-border-radius-bottomleft: 0.2rem;
+			border-bottom-left-radius: 0.2rem;
 		}
 	}
 
@@ -1427,13 +1550,13 @@ a {
 		.transition(width);
 		.controls .position
 		{
-			-moz-border-radius-bottomright: 0.3em;
-			border-bottom-right-radius: 0.3em;
+			-moz-border-radius-bottomright: 0.2rem;
+			border-bottom-right-radius: 0.2rem;
 		}
 		.statusbar .position,.loading
 		{
-			-moz-border-radius-bottomright: 0.3em;
-			border-bottom-right-radius: 3em;
+			-moz-border-radius-bottomright: 0.2rem;
+			border-bottom-right-radius: 0.2rem;
 		}
 
 	}
@@ -1471,31 +1594,31 @@ a {
 }
 
 #laFirstTrack {
-  -moz-border-radius-topleft: 0.3em;
-  -moz-border-radius-bottomleft: 0.3em;
-  border-top-left-radius: 0.3em;
-  border-bottom-left-radius: 0.3em;
+  -moz-border-radius-topleft: 0.2rem;
+  -moz-border-radius-bottomleft: 0.2rem;
+  border-top-left-radius: 0.2rem;
+  border-bottom-left-radius: 0.2rem;
 }
 
 #track1_button {
-	 -moz-border-radius-topleft: 0.3em;
-	-moz-border-radius-bottomleft: 0.3em;
-	border-top-left-radius: 0.3em;
-	border-bottom-left-radius: 0.3em;
+	 -moz-border-radius-topleft: 0.2rem;
+	-moz-border-radius-bottomleft: 0.2rem;
+	border-top-left-radius: 0.2rem;
+	border-bottom-left-radius: 0.2rem;
 }
 
 #laLastTrack {
-  -moz-border-radius-topright: 0.3em;
-  -moz-border-radius-bottomright: 0.3em;
-  border-top-right-radius: 0.3em;
-  border-bottom-right-radius: 0.3em;
+  -moz-border-radius-topright: 0.2rem;
+  -moz-border-radius-bottomright: 0.2rem;
+  border-top-right-radius: 0.2rem;
+  border-bottom-right-radius: 0.2rem;
 }
 
 #track7_button {
-  -moz-border-radius-topright: 0.3em;
-  -moz-border-radius-bottomright: 0.3em;
-  border-top-right-radius: 0.3em;
-  border-bottom-right-radius: 0.3em;
+  -moz-border-radius-topright: 0.2rem;
+  -moz-border-radius-bottomright: 0.2rem;
+  border-top-right-radius: 0.2rem;
+  border-bottom-right-radius: 0.2rem;
 }
 
 #autoLoop {

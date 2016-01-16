@@ -11,32 +11,32 @@
                     <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
                 {% endif %}
             </div>
-            <div class="col-md-8 col-md-offset-1 col-sm-10 col-xs-12 center">
+            <div class="col-md-10 col-sm-10 col-xs-12 center">
                     <h2>EPISODE {{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>
 <!--                     <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
  -->                
             </div>
 
-            <div class="col-md-1 col-md-offset-1 col-sm-1 hidden-xs nav right">
+            <div class="col-md-1 col-sm-1 hidden-xs nav right">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
             </div>
 
         </div>
 
-        <div class="row visible-xs">
+        <div id="mobileHeaderControl" class="row visible-xs">
 
-            <div class="col-xs-1 col-xs-offset-1 nav left">
+            <div class="col-xs-1 nav left">
             {% if site.time > page.next.date %}
                 <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Next']);">&#xe609;</a>
             {% endif %}
             </div>  
             
-            <div class="col-xs-4 col-xs-offset-1 center">    
+            <div class="col-xs-8 col-xs-offset-1 center">    
             <span id="playButton" class="notPlaying" onClick="_gaq.push(['_trackEvent', 'Music', 'BigButton', 'Click on bigbutton play']);">&#xe602;</span>
             </div>
             
-            <div class="col-xs-1 col-xs-offset-1 nav right">
+            <div class="col-xs-2 nav right">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}" onclick="_gaq.push(['_trackEvent', 'Episode', 'Nav', 'Previous']);">&#xe60a;</a>
             </div>
 
@@ -95,7 +95,7 @@
                 </li>
             </ul>
             <img src="/img/repeat.png" id="autoLoop">
-            <img src="/img/musiColor-mini-icon.png" id="musiColorMiniIcon" title="To each mood, a color. Show MusiColors and learn them :)" data-toggle="tooltip" data-placement"bottom">
+            <img src="/img/musiColor-mini-icon.png" id="musiColorMiniIcon" class="hidden-xs hidden-sm" title="To each mood, a color. Show MusiColors and learn them :)" data-toggle="tooltip" data-placement"bottom">
         </div>
     </div>
 </div>
@@ -116,7 +116,7 @@
             </article>
         </div>
 
-        <div id="social" class="col-md-1 .hidden-sm-down">
+        <div id="social" class="col-md-1 hidden-xs hidden-sm">
             <a href="https://twitter.com/share" class="twitter-share-button" data-url="{{ page.episode_URL }}" data-via="MailTape">Tweet</a>
                     <script>
                     ! function(d, s, id) {
@@ -163,22 +163,25 @@
 
         <div id="creditAndSupport" class="col-md-2 col-md-offset-1">
             
+            <div id="credit" class="hidden">
+                <h1>Credit</h1>
+                <p>Curator : ImaCrea<br>
+                Writer : PS KY<br>
+                Illustrator : Celestin<br>
+                </p>
+            </div>
 
-            <h1>Credit</h1>
-            <p>Curator : ImaCrea<br>
-            Writer : PS KY<br>
-            Illustrator : Celestin<br>
-            <br><br>
-            </p>
+            <div id="supportMailTape">
+                <h1>Support us</h1>
+                <p>We believe in the inspirational power of music. MailTape is ad-free and supported by our generous community.</p>
+                <div class="paypal_form">
+                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
+                        <input type="hidden" name="cmd" value="_s-xclick">
+                        <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
+                        <input type="submit" border="0" name="submit" value="I &#9829; MailTape" class="button" data-tracking="single_donation_sidebar" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from sidebar']);">
+                    </form>
+                </div>
 
-            <h1>Support us</h1>
-            <p>We believe in the inspirational power of music. MailTape is ad-free and supported by our generous community.
-            <div class="paypal_form">
-                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
-                    <input type="hidden" name="cmd" value="_s-xclick">
-                    <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
-                    <input type="submit" border="0" name="submit" value="I &#9829; MailTape" class="button" data-tracking="single_donation_sidebar" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from sidebar']);">
-                </form>
             </div>
 
         </div>
@@ -186,7 +189,7 @@
     </div>
 
     <div class="row">
-        <div id="relatedEpisodes"> 
+        <div id="relatedEpisodes" class="col-md-12"> 
             <h1>Keep it flowin</h1>
             {% for post in site.posts %}
                 {% if site.time > post.date %}
