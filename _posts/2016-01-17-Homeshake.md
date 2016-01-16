@@ -34,11 +34,6 @@ description: "This morning, let the warm, soul-stirring music of a Montreal guit
 published: true
 ---
 
-
-<<<<<<< HEAD:_posts/2016-01-17-Homeshake.md
-
-=======
->>>>>>> newLayout:_posts/2016-01-17-Homeshake.md
 <p id="introduction">This morning, let the warm, soul-stirring music of a Montreal guitarist show you how to cozy up on the coldest morning of the year. Homeshake’s selection is easy on the ears, like the fuzzy sweater awaiting your return from a walk in the snow, he takes you there, transforming hints of winter blues into joy. Homeshake’s voice is undeniably comforting and his morning selection magically reassuring.
 </p>
 
