@@ -35,6 +35,7 @@ published: true
 ---
 
 
+
 <p id="introduction">This morning, [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..
 </p>
 
@@ -54,4 +55,4 @@ Nicholas:**"**I stumbled across this tune by chance, and it's casually q gangste
 Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it's super original! Rejjie is killing it atm, and Kaytranada too - the tune he did for The Internet, 'Girl', is so banging also... Anyway, hope you enjoy!**“**
  
 <p id="outroduction">
-That's all folks, thanks to [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) for his nice selection, thanks to [Celestin](http://www.slipontherock.com) for the artwork and PS KY for nice and crispy words.</p>
+That's all folks, thanks to [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) for his nice selection, thanks to [Celestin](https://www.facebook.com/slipontherock/) for the artwork and PS KY for nice and crispy words.</p>
