@@ -55,10 +55,13 @@ Nicholas:**"**I stumbled across this tune by chance, and it's casually q gangste
 Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it's super original! Rejjie is killing it atm, and Kaytranada too - the tune he did for The Internet, 'Girl', is so banging also... Anyway, hope you enjoy!**“**
 
 # Mailtape's selection :
-
+ 
 ## Nicholas Larsen - Starlights
+
 ## Silver Firs - Signals
+
 ## Daniel Alexander - Trains
+
 ## Frankey & Sandrino - Acamar
  
 <p id="outroduction">
