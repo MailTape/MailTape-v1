@@ -62,9 +62,8 @@ Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it'
 
 ## Daniel Alexander - Trains
 
-## Frankey & Sandrino - Acamar
- 
- 
+## Frankey & Sandrino - Acamar  
+
  
 <p id="outroduction">
 That's all folks, thanks to [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) for his nice selection, thanks to [Celestin](https://www.facebook.com/slipontherock/) for the artwork and PS KY for nice and crispy words.</p>
