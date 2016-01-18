@@ -57,11 +57,8 @@ Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it'
 # Mailtape's selection :
 
 ## Nicholas Larsen - Starlights
-
 ## Silver Firs - Signals
-
 ## Daniel Alexander - Trains
-
 ## Frankey & Sandrino - Acamar
  
 <p id="outroduction">
