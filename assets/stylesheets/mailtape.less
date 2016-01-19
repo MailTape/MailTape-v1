@@ -332,7 +332,9 @@ article {
 		font-family: 'icomoon';
 		//padding-top: 20px;
 		font-size: 2.618rem;
-		top:0.618rem;
+		
+		@media only screen and (min-width: 0px) and (max-width: 767px) { top: 1.5rem; }
+		@media only screen and (min-width: 767px) { top: 0.618rem; }
 
 		a {
 			padding:0;
@@ -547,11 +549,22 @@ article {
 }
 
 #introduction:first-letter {
-	padding-top: 0.4rem;
 	margin-right: 0.15rem;
 	float: left;
-	font-size: 4rem;
 	font-weight: 400;
+
+	@media only screen and (min-width: 0px) and (max-width: 767px) {
+		padding-top: 0.6rem;
+		font-size: 3.6rem;
+	}
+
+	@media only screen and (min-width: 768px) {
+		font-size: 4rem;
+		padding-top: 0.4rem;
+
+
+	}
+
 }
 
 #outroduction {

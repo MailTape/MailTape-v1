@@ -79,12 +79,12 @@ $(document).ready(
 			}
     	}
 
-    	$("#readMore").click(function() {
-    		$("#readMore").fadeOut('slow');
-    		page.animate({
-				scrollTop: $('#player').offset().top+1
-			}, 1000);
-    	});
+   //  	$("#readMore").click(function() {
+   //  		$("#readMore").fadeOut('slow');
+   //  		page.animate({
+			// 	scrollTop: $('#player').offset().top+1
+			// }, 1000);
+   //  	});
 
 		//cas où l'user clique directement sur l'une des track au lieu du gros play
 		$(".playlist").click(function() {
@@ -109,7 +109,7 @@ $(document).ready(
 		// TODO check état player. si c'est en train de play quid si: - on fait pause OU - on joue une autre track
 
 	    didScroll = false;
-	    var navYposition = $('#player').offset().top+1;
+	    var navYposition = $('#player').offset().top;
 	    $(window).scroll(function() {
 	    	if (isPlaying) {
 		        didScroll = true;
