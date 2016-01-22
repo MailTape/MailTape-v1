@@ -30,7 +30,7 @@ track7_color: rough
 episode_URL: "http://mailta.pe/201/Nicholas-Larsen/"
 fbPic: fbPic201.png
 musiColor: musiColor201.png
-description: ""
+description: "This morning, let’s play a bit with this untamed selection from our guest Nicholas Larsen. It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds."
 published: true
 ---
 
