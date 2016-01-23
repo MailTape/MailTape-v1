@@ -34,10 +34,6 @@ description: "This morning, let’s play a bit with this untamed selection from 
 published: true
 ---
 
-
-
-
-
 <p id="introduction">This morning, let’s play a bit with this untamed selection from our guest [Nicholas Larsen](https://soundcloud.com/nicholas-larsen). It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds. Buzzed from these tracks you will be, and his own is a new kind of grove you have yet to dance to. We’ve made it clear we were back last week, but today’s Mailtape is just a reminder of the excellence of music we strive to share. Sunday mornings are here to stay, and today, your eardrums will be at ease with the only resolution you should stick to; music’s a must everywhere I go.</p>
 
 # Silver rain and copper chips
@@ -63,18 +59,6 @@ Nicholas:**"**I stumbled across this tune by chance, and it's casually q gangste
 
 ## Rejjie Snow - Blakkst Skn feat. Rae Morris
 Nicholas: **"**Maybe this is a bit heavy for a Sunday morning, but fuck it - it's super original! Rejjie is killing it atm, and Kaytranada too - the tune he did for The Internet, 'Girl', is so banging also... Anyway, hope you enjoy!**“**
-
-# Mailtape's selection :
- 
-## Nicholas Larsen - Starlights
-
-## Silver Firs - Signals
-
-## Daniel Alexander - Trains
-
-## Frankey & Sandrino - Acamar
-.
-
  
 <p id="outroduction">
 That's all folks, thanks to [Nicholas Larsen](https://soundcloud.com/nicholas-larsen) for his nice selection, thanks to [Celestin](https://www.facebook.com/slipontherock/) for the artwork and PS KY for nice and crispy words.</p>
