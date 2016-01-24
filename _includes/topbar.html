@@ -7,7 +7,7 @@
             {% for post in site.posts %}
             {% if site.time > post.date %}
 
-            <a id="logo" onClick="_gaq.push(['_trackEvent', 'Buttons', 'Logo', 'GoBackHome']);" href="{{ post.url }}"></a>
+            <a id="logo" href="{{ post.url }}"></a>
 
             {% break %}
             {% endif %}
@@ -47,7 +47,7 @@
                                         <div class="response" id="mce-success-response" style="display:none"></div>
                                     </div>
                                     <div class="clear">
-                                        <input type="submit" value="Yes darling!" name="subscribe" id="mc-embedded-subscribe" class="button" onClick="_gaq.push(['_trackEvent', 'CTA', 'Subscribe', 'Submit infos from popup']);">
+                                        <input type="submit" value="Yes darling!" name="subscribe" id="mc-embedded-subscribe" class="button">
                                     </div>
                                 </form>
                             </div>
@@ -90,7 +90,7 @@
                                         </select>
                                     </label>
                                     <input type="hidden" name="currency_code" value="EUR">
-                                    <input type="submit" value="Donate" name="subscribe" id="mc-embedded-subscribe" alt="Secured payment with Paypal" class="button" class="button" data-tracking="weekly_donation_popup" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on weekly donation from popup']); mixpanel.track('EP > Donate Button > Top > Weekly Donation');">
+                                    <input type="submit" value="Donate" name="subscribe" id="mc-embedded-subscribe" alt="Secured payment with Paypal" class="button" class="button" data-tracking="weekly_donation_popup" onClick="mixpanel.track('EP > Donate Button > Top > Weekly Donation');">
                                 </form>
                             </div>
 
@@ -100,7 +100,7 @@
                                 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank" class="paypal_form">
                                     <input type="hidden" name="cmd" value="_s-xclick">
                                     <input type="hidden" name="hosted_button_id" value="HLFXGUF7DYTLG">
-                                    <input type="submit" border="0" name="submit" value="Donate" class="button" data-tracking="single_donation_popup" onClick="_gaq.push(['_trackEvent', 'CTA', 'Donating', 'Clicked on single donation from popup']); mixpanel.track('EP > Donate Button > Top > Single Donation');">
+                                    <input type="submit" border="0" name="submit" value="Donate" class="button" data-tracking="single_donation_popup" onClick="mixpanel.track('EP > Donate Button > Top > Single Donation');">
                                 </form>
                                 <br>
                                 <br>

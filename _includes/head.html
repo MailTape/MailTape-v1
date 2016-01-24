@@ -37,11 +37,6 @@
     <link href="/assets/stylesheets/mailtape.css" rel="stylesheet" media="screen">
     <link href="/assets/stylesheets/archive.css" rel="stylesheet" media="screen">
 
-    <!-- Frosmo Integration for Live Testing ! -->
-    <script type="text/javascript" charset="utf-8" src="//inpref.s3.amazonaws.com/frosmo.easy.js"></script>
-    <script type="text/javascript" charset="utf-8" src="//inpref.s3.amazonaws.com/sites/687f2abb00b745c6133ff256feac24d3.js">
-    </script>
-
     <!-- Page player core CSS -->
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/page-player.css" />
 
@@ -109,22 +104,6 @@
 
    <script src="/assets/javascripts/archive.js"></script>
 
-    <script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-11613573-3']);
-    _gaq.push(['_setDomainName', 'mailta.pe']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
-    </script>
-
     <!-- Page player main script -->
     <script src="/assets/javascripts/page-player.js"></script>
 
@@ -153,14 +132,27 @@
 
     </script>
 
-    <!-- go.goroost.com integration -->
-    <script src='//cdn.goroost.com/roostjs/2a0a0beb7857493c8fc607f1b84a00a9' async></script>
-    <!-- End go.goroost.com integration -->
+    <!-- dataLayer for Google Tag Manager -->
+    <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+        'artist' : '{{ page.guest_name }}',
+        'episode' : '{{ page.category }}',
+        'color' : '{{ post.guest_color }}',
+        'track_1' : "{{ page.track1_title }}",
+        'track_2' : "{{ page.track2_title }}",
+        'track_3' : "{{ page.track3_title }}",
+        'track_4' : "{{ page.track4_title }}",
+        'track_5' : "{{ page.track5_title }}",
+        'track_6' : "{{ page.track6_title }}",
+        'track_7' : "{{ page.track7_title }}"
+    });
+    </script>
     
 </head>
 
 <body>
-      <!-- Google Tag Manager -->
+    <!-- Google Tag Manager -->
     <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC3N5D"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
