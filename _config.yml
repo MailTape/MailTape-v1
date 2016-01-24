@@ -59,7 +59,7 @@ prose:
           placeholder: "Choose illustrator"
           options:
             - name: "Celestin"
-              value: '<a href="test">Celestin</a>'
+              value: "Celestin"
             - name: "Pierre-Julien"
               value: "Pierre-Julien"
             - name: "William"
