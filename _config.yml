@@ -55,7 +55,7 @@ prose:
       - name: "illustrator"
         field:
           element: "select"
-          label: "Who's done the illustration?"
+          label: "Who did the illustration?"
           placeholder: "Choose illustrator"
           options:
             - name: "Celestin"
@@ -64,6 +64,20 @@ prose:
               value: "Pierre-Julien"
             - name: "William"
               value: "William Girault"
+      - name: "writer"
+        field:
+          element: "select"
+          label: "Who wrote the text?"
+          placeholder: "Choose writer"
+          options:
+            - name: "ImaCrea"
+              value: "ImaCrea"
+            - name: "Ludovic"
+              value: "Ludovic"
+            - name: "PS KY"
+              value: "PS KY"
+            - name: "Siddhartha"
+              value: "Siddhartha"
       - name: "category"
         field:
           element: "text"
