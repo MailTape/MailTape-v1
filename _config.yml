@@ -30,7 +30,7 @@ prose:
       #     help: "Used for your signature. Please keep the same name for each of your episode to stay consistent."
       #     placeholder: "Write your name"
       #     type: "text"
-      - name: "author"
+      - name: "curator"
         field:
           element: "select"
           label: "Who are you ?"
@@ -52,6 +52,18 @@ prose:
               value: "Olivier"
             - name: "MailTape Crew"
               value: "MailTape Crew"
+      - name: "illustrator"
+        field:
+          element: "select"
+          label: "Who's done the illustration?"
+          placeholder: "Choose illustrator"
+          options:
+            - name: "Celestin"
+              value: "<a href="test">Celestin</a>"
+            - name: "Pierre-Julien"
+              value: "Pierre-Julien"
+            - name: "William"
+              value: "William Girault"
       - name: "category"
         field:
           element: "text"
