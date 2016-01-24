@@ -111,7 +111,7 @@
             <article>
 
                 {{ content }}
-                <p style="font-style:italic" id="signature">{{page.author}}.</p>
+                <p style="font-style:italic" id="signature" class="hidden">{{page.author}}.</p>
 
             </article>
         </div>
@@ -164,10 +164,10 @@
         <div id="creditAndSupport" class="col-md-2 col-md-offset-1">
             
             <div id="credit" class="hidden">
-                <h1>Credit</h1>
-                <p>Curator : {{ page.author }}<br>
-                Writer : {{ page.writer }}<br>
-                Illustrator : {{ page.illustrator }}<br>
+                <h1>Credits</h1>
+                <p>Curator: {{ page.author }}<br>
+                Writer: {{ page.writer }}<br>
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
                 </p>
             </div>
 

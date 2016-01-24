@@ -424,30 +424,39 @@ $(document).ready(
     	);
 
 
-    // select randomly 3 related episodes to display
-	
-	// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
-	function shuffle(array) {
- 	 	var m = array.length, t, i;
+	    // select randomly 3 related episodes to display
+		
+		// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
+		function shuffle(array) {
+	 	 	var m = array.length, t, i;
 
- 	 // While there remain elements to shuffle…
-	  while (m) {
+	 	 // While there remain elements to shuffle…
+		  while (m) {
 
-	    // Pick a remaining element…
-	    i = Math.floor(Math.random() * m--);
+		    // Pick a remaining element…
+		    i = Math.floor(Math.random() * m--);
 
-	    // And swap it with the current element.
-	    t = array[m];
-	    array[m] = array[i];
-	    array[i] = t;
-	  }
+		    // And swap it with the current element.
+		    t = array[m];
+		    array[m] = array[i];
+		    array[i] = t;
+		  }
 
-	  return array;
-	}
+		  return array;
+		}
 
-	var relatedEpisodes = shuffle($(".relatedEpisode")).slice(0, 3);
-	relatedEpisodes.fadeIn();
+		var relatedEpisodes = shuffle($(".relatedEpisode")).slice(0, 3);
+		relatedEpisodes.fadeIn();
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
+		
+		// affichage de la nouvelle version des credits à partir de l'épisode 200
+		if ($("#illustrator").html() != "Illustrator: ") {
+			$("#credit").removeClass("hidden");
+		}
+		else {
+			$("#signature").removeClass("hidden");
+		}
+
 	}
 );
