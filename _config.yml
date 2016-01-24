@@ -59,7 +59,7 @@ prose:
           placeholder: "Choose illustrator"
           options:
             - name: "Celestin"
-              value: "Celestin"
+              value: "Camille Célestin"
             - name: "Pierre-Julien"
               value: "Pierre-Julien Fieux"
             - name: "William"
