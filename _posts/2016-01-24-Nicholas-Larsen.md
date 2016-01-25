@@ -39,7 +39,8 @@ writer: PS KY
 
 
 
-<p id="introduction">This morning, let’s play a bit with this untamed selection from our guest [Nicholas Larsen](https://soundcloud.com/nicholas-larsen). It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds. Buzzed from these tracks you will be, and his own is a new kind of grove you have yet to dance to. We’ve made it clear we were back last week, but today’s Mailtape is just a reminder of the excellence of music we strive to share. Sunday mornings are here to stay, and today, your eardrums will be at ease with the only resolution you should stick to; music’s a must everywhere I go.</p>
+
+<p id="introduction">This morning, let’s play a bit with this untamed selection from our guest [Nicholas Larsen](https://soundcloud.com/nicholas-larsen). It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds. Buzzed from these tracks you will be, and his own is a new kind of groove you have yet to dance to. We’ve made it clear we were back last week, but today’s Mailtape is just a reminder of the excellence of music we strive to share. Sunday mornings are here to stay, and today, your eardrums will be at ease with the only resolution you should stick to; music’s a must everywhere I go.</p>
 
 # Silver rain and copper chips
 
