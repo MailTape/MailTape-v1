@@ -30,7 +30,7 @@ prose:
       #     help: "Used for your signature. Please keep the same name for each of your episode to stay consistent."
       #     placeholder: "Write your name"
       #     type: "text"
-      - name: "curator"
+      - name: "author"
         field:
           element: "select"
           label: "Who are you ?"
