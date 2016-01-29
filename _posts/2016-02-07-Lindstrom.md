@@ -38,15 +38,20 @@ author: Maxime
 ---
 
 
-<p id="introduction">This morning, fly off from the Scandinavian Arctic towards space. We head to the mysterious new planet in our solar system. We hope to find the interplanetary music on this new planet. Yet unnamed , I solemnly proposes to name this one in tribute to the man who had perhaps discovered it before anyone else : Hans-Peter Lindstrøm. It's the only answer to explain how great is his Space-Disco. </p>
+
+<p id="introduction">This morning, fly off from the Scandinavian Arctic towards space. We head to the mysterious new planet in our solar system. We hope to find the interplanetary music on this  ninth planet. Yet unnamed, I solemnly proposes to name the new one in tribute to the man who had perhaps discovered it before anyone else : Hans-Peter Lindstrøm. It's the only answer to explain how great is his Space-Disco. </p>
 
 # To infinity ... and Beyond
 
-In a galaxy far far away, where spaceships are loyal steeds and battles are won with sound waves, King ARP-2600 reign on the Great Analogic planet. Minimoog, leader of the Glorious Guardians, devoted servants of The Holy Groove and Electrical Harmony, protect the Analogic King from sovereign Monotron. Who swear on his connections to bring down his great neighbor... 
+Push play, close your eyes, and let the music flood your imagination. And there is where it all begin...
+
+In a galaxy far far away, where spaceships are loyal steeds and battles are won with sound waves, King ARP-2600 reign on the Great Analogic planet. Minimoog Voyager, leader of the Glorious Guardians, devoted servants of The Holy Groove and Electrical Harmony, protect the Analogic King from sovereign neighbor Bontempi AZ-9000. Who swear on his connections to bring down his great contender... 
 
 As a child who play with his toys, creates universes, stories, heroes, bad guys, Lindstrom make music. Each track, creating his own mythology. 
 
-Since the dawn of time rhythm of days is governed by the BPMs of Disco Masters. This frail harmony is broken when the princess Volca is kidnapped by the demonic king neighbor Monotron. Minimoog and The Glorious Guardians begins a journey through time and space to found the missing princess... 
+Since the dawn of time, rhythm of days is governed by the BPMs of Disco Masters. This frail harmony is broken when the princess Korg PS-3100 is kidnapped by the demonic king neighbor Monotron. Minimoog and The Glorious Guardians begins a journey through time and space to found the missing princess... 
+
+The track is over but our story aren't.
 
 # The Lindstrøm's space opera soundtrack
  
