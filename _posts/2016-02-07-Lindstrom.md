@@ -51,9 +51,9 @@ As a child who play with his toys, creates universes, stories, heroes, bad guys,
 
 Since the dawn of time, rhythm of days is governed by the BPMs of Disco Masters. This frail harmony is broken when the princess Korg PS-3100 is kidnapped by the demonic king neighbor Monotron. Minimoog and The Glorious Guardians begins a journey through time and space to found the missing princess... 
 
-The track is over but our story aren't.
+Now the track is over but our story aren't.
 
-# The Lindstrøm's space opera soundtrack
+# The Lindstrøm's summer space opera soundtrack
  
 ## Oma & Amberflame - Lazy Sun
 Hans-Peter Lindstrøm: " _Great harp-drenched version of the 2007 AN-2 summertime anthem to extend your summer!_ "
