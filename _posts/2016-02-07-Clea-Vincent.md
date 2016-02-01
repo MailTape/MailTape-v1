@@ -45,7 +45,7 @@ xxx
 
 
 
-# The Lindstrøm's summer space opera soundtrack
+# Clea Vincent's selection
  
 ## Ricky Hollywood - Parti dans le passé (Athanase Granson edit)
 Cléa Vincent : " _Ricky Hollywood et Athanase Granson sont deux artistes de la scène indé parisienne que j'adore, ils ont chacun leur projet. Leurs morceaux sont toujours très doux. Ricky est assez 80's poétique, Athanase plutôt 60's psyché folk bizarre :) C'est vraiment une musique du dimanche matin :)_ "
