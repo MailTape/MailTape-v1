@@ -1,8 +1,8 @@
 ---
 layout: episode
-author: Dimitri
+author: Maxime
 illustrator: Camille Célestin
-writer: ImaCrea
+writer: Maxime
 category: ""
 guest_name: ""
 guest_color: rough
