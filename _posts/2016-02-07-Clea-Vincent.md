@@ -13,7 +13,7 @@ track2_link: "https://soundcloud.com/flairs/12-bus"
 track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
 track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
 track5_link: "https://soundcloud.com/croque-macadam/forever-calypso-shrimp-oyster"
-track6_link: "https://soundcloud.com/thomas-brissault/alain-chamfort-paradis-paradis-reprise"
+track6_link: "https://soundcloud.com/echoorangerecords/08-i-dont-care"
 track7_link: "https://soundcloud.com/daria-morgendorffer/bon-voyage-organisation-love-soup"
 track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
 track1_color: vibrant
@@ -25,8 +25,8 @@ track4_title: "Cléa Vincent - Retient mon Désir"
 track4_color: vibrant
 track5_title: "Forever Calypso - Shrimp Oyster"
 track5_color: dreamy
-track6_title: "Alain Chamfort - Paradis (Paradis cover)"
-track6_color: dreamy
+track6_title: "VedeTT - I Don't Care"
+track6_color: vibrant
 track7_title: "Bon Voyage Organisation - Love Soup"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/203/Clea-Vincent/"
@@ -36,6 +36,7 @@ description: ""
 published: true
 curator: Maxime
 ---
+
 
 
 
