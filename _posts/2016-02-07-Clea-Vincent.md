@@ -14,7 +14,7 @@ track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
 track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
 track5_link: "https://soundcloud.com/bella-union/wild-nothing-reichpop?in=commeunlundi/sets/mailtape/s-sZqdb"
 track6_link: "https://soundcloud.com/bennysings/straight-lines"
-track7_link: "https://soundcloud.com/disque-pointu/bon-voyage-04-love-soup?in=commeunlundi/sets/mailtape/s-sZqdb"
+track7_link: "https://soundcloud.com/disque-pointu/bon-voyage-04-love-soup"
 track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
 track1_color: vibrant
 track2_title: "Flairs - Bus"
