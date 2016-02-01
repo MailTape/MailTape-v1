@@ -4,17 +4,17 @@ author: Maxime
 illustrator: Camille Célestin
 writer: Maxime
 category: "203"
-guest_name: ""
-guest_color: rough
+guest_name: Cléa Vincent
+guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: ""
-track1_link: ""
-track2_link: ""
-track3_link: ""
-track4_link: ""
-track5_link: ""
-track6_link: ""
-track7_link: ""
+track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase-digital-reggae-mix"
+track2_link: "https://soundcloud.com/flairs/12-bus"
+track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
+track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
+track5_link: "https://soundcloud.com/bella-union/wild-nothing-reichpop?in=commeunlundi/sets/mailtape/s-sZqdb"
+track6_link: "https://soundcloud.com/bennysings/straight-lines"
+track7_link: "https://soundcloud.com/disque-pointu/bon-voyage-04-love-soup?in=commeunlundi/sets/mailtape/s-sZqdb"
 track1_title: ""
 track1_color: rough
 track2_title: ""
@@ -35,6 +35,7 @@ musiColor: ""
 description: ""
 published: false
 ---
+
 
 <p id="introduction">xxx </p>
 
