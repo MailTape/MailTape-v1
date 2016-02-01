@@ -12,7 +12,7 @@ track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase
 track2_link: "https://soundcloud.com/flairs/12-bus"
 track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
 track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
-track5_link: "https://soundcloud.com/bella-union/wild-nothing-reichpop?in=commeunlundi/sets/mailtape/s-sZqdb"
+track5_link: "https://soundcloud.com/thomas-brissault/alain-chamfort-paradis-paradis-reprise"
 track6_link: "https://soundcloud.com/bennysings/straight-lines"
 track7_link: "https://soundcloud.com/daria-morgendorffer/bon-voyage-organisation-love-soup"
 track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
@@ -23,7 +23,7 @@ track3_title: "Kumi Solo - Ce soir"
 track3_color: bliss
 track4_title: "Cléa Vincent - Retient mon Désir"
 track4_color: vibrant
-track5_title: "Wild nothing - Reichpop"
+track5_title: "Alain Chamfort - Paradis (Paradis cover)"
 track5_color: dreamy
 track6_title: "Benny Sings - Straight Lines"
 track6_color: dreamy
