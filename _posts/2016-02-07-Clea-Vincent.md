@@ -7,7 +7,7 @@ category: "203"
 guest_name: Cléa Vincent
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: ""
+guestPic: guestPic203.jpg
 track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase-digital-reggae-mix"
 track2_link: "https://soundcloud.com/flairs/12-bus"
 track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
@@ -15,21 +15,21 @@ track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in
 track5_link: "https://soundcloud.com/bella-union/wild-nothing-reichpop?in=commeunlundi/sets/mailtape/s-sZqdb"
 track6_link: "https://soundcloud.com/bennysings/straight-lines"
 track7_link: "https://soundcloud.com/disque-pointu/bon-voyage-04-love-soup?in=commeunlundi/sets/mailtape/s-sZqdb"
-track1_title: ""
-track1_color: rough
-track2_title: ""
-track2_color: rough
-track3_title: ""
-track3_color: rough
-track4_title: ""
-track4_color: rough
-track5_title: ""
-track5_color: rough
-track6_title: ""
-track6_color: rough
-track7_title: ""
-track7_color: rough
-episode_URL: ""
+track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
+track1_color: vibrant
+track2_title: "Flairs - Bus"
+track2_color: dreamy
+track3_title: "Kumi Solo - Ce soir"
+track3_color: bliss
+track4_title: "Cléa Vincent - Retient mon Désir"
+track4_color: vibrant
+track5_title: "Wild nothing - Reichpop"
+track5_color: dreamy
+track6_title: "Benny Sings - Straight Lines"
+track6_color: dreamy
+track7_title: "Bon Voyage Organisation - Love Soup"
+track7_color: vibrant
+episode_URL: "http://mailta.pe/203/Clea-Vincent/"
 fbPic: ""
 musiColor: ""
 description: ""
