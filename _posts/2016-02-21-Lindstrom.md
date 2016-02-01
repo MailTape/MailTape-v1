@@ -3,7 +3,7 @@ layout: episode
 curator: Maxime
 illustrator: William Girault
 writer: Maxime
-category: "203"
+category: "204"
 guest_name: Lindstrøm
 guest_color: bliss
 bigTitle_font_ratio: "6"
@@ -36,6 +36,7 @@ description: ""
 published: true
 author: Maxime
 ---
+
 
 
 
