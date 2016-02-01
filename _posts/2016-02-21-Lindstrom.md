@@ -7,7 +7,7 @@ category: "205"
 guest_name: Lindstrøm
 guest_color: bliss
 bigTitle_font_ratio: "6"
-guestPic: guestPic203.jpg
+guestPic: guestPic205.jpg
 track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amberflame-lazy-sun"
 track2_link: "https://soundcloud.com/distantworks/ohana"
 track3_link: "https://soundcloud.com/nicolas-kitic/crackazat-eye-light"
@@ -29,13 +29,14 @@ track6_title: "A Visitor From Another Meaning - I Rarely Talk To Strangers"
 track6_color: vibrant
 track7_title: "Liem - If Only"
 track7_color: rough
-episode_URL: "http://mailta.pe/203/Lindstrom/"
+episode_URL: "http://mailta.pe/205/Lindstrom/"
 fbPic: ""
 musiColor: ""
 description: ""
 published: true
 author: Maxime
 ---
+
 
 
 
