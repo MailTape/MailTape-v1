@@ -34,7 +34,9 @@ fbPic: ""
 musiColor: ""
 description: ""
 published: true
+curator: Maxime
 ---
+
 
 
 <p id="introduction">xxx </p>
