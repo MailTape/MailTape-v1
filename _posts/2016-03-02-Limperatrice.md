@@ -29,7 +29,7 @@ track6_title: ""
 track6_color: rough
 track7_title: ""
 track7_color: rough
-episode_URL: ""
+episode_URL: "http://mailta.pe/206/Limperatrice/"
 fbPic: ""
 musiColor: ""
 description: ""
