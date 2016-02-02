@@ -1,6 +1,6 @@
 ---
 layout: episode
-author: Dimitri
+author: Maxime
 illustrator: Camille Célestin
 writer: ImaCrea
 category: ""
