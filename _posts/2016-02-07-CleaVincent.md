@@ -3,7 +3,7 @@ layout: episode
 author: Dimitri
 illustrator: Camille Célestin
 writer: ImaCrea
-category: ""
+category: "203"
 guest_name: ""
 guest_color: rough
 bigTitle_font_ratio: "6"
