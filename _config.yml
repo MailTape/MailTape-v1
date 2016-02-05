@@ -4,6 +4,7 @@ pygments: true
 permalink: /:categories/:title/
 timezone: Europe/Paris
 paginate: 12
+future: true
 
 include: ['.htaccess']
 
