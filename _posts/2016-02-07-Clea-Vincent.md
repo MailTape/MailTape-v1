@@ -37,9 +37,6 @@ published: true
 curator: Maxime
 ---
 
-![guestPic203.jpg]({{site.baseurl}}/img/guestPic203.jpg)
-
-
 
 <p id="introduction">xxx </p>
 
