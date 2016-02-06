@@ -37,13 +37,13 @@ published: true
 curator: Maxime
 ---
 
-<p id="introduction">Salut! comment ça va? Bien ou bien ? Yes, this morning we gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands who sing mostly in french. A things that frenchies had almost forget to. It takes time to uninhibite our generation to, but now it's a trunami of great bands. I beginning to dive in this musicale revolution when I listen Cléa Vincent for the first time. And now there are plenty of references who I treasure. </p>
+<p id="introduction">Salut! comment ça va? Bien ou bien ? Yes, this morning we gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands who sing mostly in french. A things that frenchies had almost forget to. I beginning to dive in this musicale revolution when I listen Cléa Vincent for the first time. And now there are plenty of references who I treasure. </p>
 
 # My new queen of French pop
 
 For this new generation, to sing in french wasn't a choice but a deep desire, almost an evidence. Artists like Clea Vincent write their songs, inspired by the golden age of French pop, the 80's. Their songs resonate in the hearts of French youth. I think that is the formula : singing in french sound to resonate in present French Youth. 
 
-Clea Vincent's songs are falsely naive and full of metaphors. Flippant exquisite poetry. It's not innocente that she chosen a song from "Les Beaux Gosses", this is a movie wich are a part of our new cultural pantheon. 
+Clea Vincent's songs are falsely naive and full of metaphors. Flippant exquisite poetry. It's not innocente that she chosen a song from "Les Beaux Gosses", this is a movie wich are a part of our new cultural pantheon. I thinks it's just the beginning. It takes time to uninhibite our generation to considered a new way to make pop in french. But now, I expect a huge tsunami of greats bands who gonna reshape our pop in french.
 
 
 # Clea Vincent's selection
