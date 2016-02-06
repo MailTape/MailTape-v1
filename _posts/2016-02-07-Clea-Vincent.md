@@ -37,6 +37,7 @@ published: true
 curator: Maxime
 ---
 
+![fbPic203.jpg]({{site.baseurl}}/img/fbPic203.jpg)
 <p id="introduction">Salut! comment ça va? Bien ou bien ? Yes, this morning we're gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands singing mostly in french. A thing that french pop singers had almost forgotten. It’s not coming from a patriotic phenomenon but from a strong desire to touch our emotions with a language that we understand and feel deeper than any others. I began to dive in this musical revolution when I discovered Cléa Vincent. And now there are plenty of references which I treasure. </p>
 
 # My new queen of French pop
