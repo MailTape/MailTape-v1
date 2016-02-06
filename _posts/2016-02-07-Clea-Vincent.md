@@ -41,7 +41,7 @@ curator: Maxime
 
 # My new queen of French pop
 
-This revolution began maybe 3/4 years now. For this generation sing in french wasn't a choice but a deep desire, almost an evidence. Clea Vincent write her songs, inspired by the golden age of French pop, the 80's. Falsely naive songs, full of metaphors. Flippant exquisite poetry. Her songs resonate in the hearts of French youth. I think that is the formula : singing in french sound to resonate in French Youth. 
+For this new generation, to sing in french wasn't a choice but a deep desire, almost an evidence. Artists like Clea Vincent write their songs, inspired by the golden age of French pop, the 80's. Falsely naive songs, full of metaphors. Flippant exquisite poetry. Their songs resonate in the hearts of French youth. I think that is the formula : singing in french sound to resonate in present French Youth. 
 
 # Clea Vincent's selection
  
