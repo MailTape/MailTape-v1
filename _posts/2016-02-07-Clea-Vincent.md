@@ -37,14 +37,11 @@ published: true
 curator: Maxime
 ---
 
-![guestPic203.jpg]({{site.baseurl}}/img/guestPic203.jpg)
+<p id="introduction">Salut! comment ça va? Bien ou bien ? Yes, this morning we gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands who sing mostly in french. A things that frenchies had almost forget to. I beginning to dive in this musicale revolution when I listen Cléa Vincent for the first time. And now there are plenty of references who I treasure. </p>
 
+# My new queen of pop
 
-<p id="introduction">xxx </p>
-
-# xxx
-
-xxx
+This revolution began maybe 3/4 years now. For this generation sing in french wasn't a choice but a deep desire, almost an evidence. Clea Vincent write her songs, inspired by the golden age of French pop, the 80's. Falsely naive songs, full of metaphors and exquisite generationnal poetry. 
 
 
 
