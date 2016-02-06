@@ -12,9 +12,9 @@ track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase
 track2_link: "https://soundcloud.com/flairs/12-bus"
 track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
 track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
-track5_link: "https://soundcloud.com/croque-macadam/forever-calypso-shrimp-oyster"
-track6_link: "https://soundcloud.com/echoorangerecords/08-i-dont-care"
-track7_link: "https://soundcloud.com/daria-morgendorffer/bon-voyage-organisation-love-soup"
+track5_link: "https://soundcloud.com/daria-morgendorffer/bon-voyage-organisation-love-soup"
+track6_link: "https://soundcloud.com/vedetttobogganrecords/09-tuer-les-gens"
+track7_link: "https://soundcloud.com/la_souterraine/o-mon-echo-2015"
 track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
 track1_color: vibrant
 track2_title: "Flairs - Bus"
@@ -23,12 +23,12 @@ track3_title: "Kumi Solo - Ce soir"
 track3_color: bliss
 track4_title: "Cléa Vincent - Retient mon Désir"
 track4_color: vibrant
-track5_title: "Forever Calypso - Shrimp Oyster"
-track5_color: dreamy
-track6_title: "VedeTT - I Don't Care"
-track6_color: vibrant
-track7_title: "Bon Voyage Organisation - Love Soup"
-track7_color: vibrant
+track5_title: "Bon Voyage Organisation - Love Soup"
+track5_color: vibrant
+track6_title: "VedeTT - Tuer Les Gens"
+track6_color: bliss
+track7_title: "O - Mon Echos"
+track7_color: dreamy
 episode_URL: "http://mailta.pe/203/Clea-Vincent/"
 fbPic: ""
 musiColor: ""
