@@ -43,7 +43,7 @@ curator: Maxime
 
 For this new generation, to sing in french wasn't a choice but a deep desire, almost an evidence. Artists like Clea Vincent write their songs, inspired by the golden age of French pop, the 80's. Their songs resonate in the hearts of French youth. I think that is the formula : singing in french resonate in present French Youth. 
 
-Clea Vincent's songs are falsely naive and full of metaphors. Flippant exquisite poetry. It's not innocent that she chosen a song from "Les Beaux Gosses" (_Flairs - Bus_), this is a movie wich are a part of our new cultural pantheon. I thinks it's just the beginning. It takes time to uninhibite our generation to considered a new way to make pop in french. But now, I expect a huge tsunami of greats bands who gonna reshape our pop in french. 
+Clea Vincent's songs are falsely naive and full of metaphors. Flippant exquisite poetry. It's not innocent that she chosen a song from "Les Beaux Gosses" (_Flairs - Bus_), this movie is a part of our new cultural pantheon. I think it's just the beginning. It takes time to uninhibite our generation to considered a new way to make pop in french. But now, I expect a huge tsunami of greats bands who gonna reshape our pop in french. 
 
 
 # La délicieuse séléction de Clea Vincent 
