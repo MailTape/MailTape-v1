@@ -58,4 +58,4 @@ C.V.: "_ This one is in the original soundtrack of my favorite movie : "Les Beau
 C.V.: " _I recently wrote a songs for Kumi, I really enjoyed working with her, she's so cute!!! I'm her best fan!_“
  
 <p id="outroduction">
-That's all folks, thanks to xxx.</p>
+That's all folks, thanks to Cléa Vincent for her kindness, Celestin for the huge artwork (again) ! See you next week!.</p>
