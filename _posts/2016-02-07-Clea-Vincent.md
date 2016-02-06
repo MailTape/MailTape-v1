@@ -15,7 +15,7 @@ track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in
 track5_link: "https://soundcloud.com/daria-morgendorffer/bon-voyage-organisation-love-soup"
 track6_link: "https://soundcloud.com/vedetttobogganrecords/09-tuer-les-gens"
 track7_link: "https://soundcloud.com/la_souterraine/o-mon-echo-2015"
-track1_title: "Ricky Hollywood - Parti dans le Passé (Athanase Granson reggae mix)"
+track1_title: "Ricky Hollywood - Parti dans le Passé(Athanase Granson edit)"
 track1_color: vibrant
 track2_title: "Flairs - Bus"
 track2_color: dreamy
