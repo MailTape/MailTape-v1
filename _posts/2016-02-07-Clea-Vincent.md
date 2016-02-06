@@ -30,7 +30,7 @@ track6_color: bliss
 track7_title: "O - Mon Echos"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/203/Clea-Vincent/"
-fbPic: ""
+fbPic: fbPic203.jpg
 musiColor: ""
 description: ""
 published: true
