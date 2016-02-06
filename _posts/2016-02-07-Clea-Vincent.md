@@ -46,7 +46,7 @@ For this new generation, to sing in french wasn't a choice but a deep desire, al
 Clea Vincent's songs are falsely naive and full of metaphors. Flippant exquisite poetry. It's not innocente that she chosen a song from "Les Beaux Gosses", this is a movie wich are a part of our new cultural pantheon. I thinks it's just the beginning. It takes time to uninhibite our generation to considered a new way to make pop in french. But now, I expect a huge tsunami of greats bands who gonna reshape our pop in french.
 
 
-# Clea Vincent's selection
+# La délicieuse séléction de Clea Vincent 
  
 ## Ricky Hollywood - Parti dans le passé (Athanase Granson edit)
 Cléa Vincent : " _Ricky Hollywood et Athanase Granson sont deux artistes de la scène indé parisienne que j'adore, ils ont chacun leur projet. Leurs morceaux sont toujours très doux. Ricky est assez 80's poétique, Athanase plutôt 60's psyché folk bizarre :) C'est vraiment une musique du dimanche matin :)_ "
