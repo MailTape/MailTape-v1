@@ -38,7 +38,8 @@ curator: Maxime
 ---
 
 
-<p id="introduction">Salut! comment ça va? Bien ou bien ? Yes, this morning we're gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands singing mostly in french. A thing that french pop singers had almost forgotten. It’s not coming from a patriotic phenomenon but from a strong desire to touch our emotions with a language that we understand and feel deeper than any others. I began to dive in this musical revolution when I discovered [Cléa Vincent](https://www.facebook.com/cleavincentmusic/?fref=ts). And now there are plenty of references which I treasure. </p>
+
+<p id="introduction">Salut ! comment ça va ? Bien ou bien ? Yes, this morning we're gonna speak in french, or rather speak in english about the revival of French pop. The new waves of bands singing mostly in french. A thing that french pop singers had almost forgotten. It’s not coming from a patriotic phenomenon but from a strong desire to touch our emotions with a language that we understand and feel deeper than any others. I began to dive in this musical revolution when I discovered [Cléa Vincent](https://www.facebook.com/cleavincentmusic/?fref=ts). And now there are plenty of references which I treasure. </p>
 
 # The magic formula
 
@@ -50,13 +51,13 @@ Clea Vincent’s songs are falsely naive and full of metaphors. Flippant exquisi
 # _La délicieuse séléction de Clea Vincent_
  
 ## Ricky Hollywood - Parti dans le passé (Athanase Granson edit)
-Cléa Vincent : " _Ricky Hollywood and Athanase Granson are two artists of the Parisian indie scene that I love, each have their distinct project. Their songs are allways soft. Ricky got an 80's poetry, Athanase is more inspired by 60's weird psychedelic folk. It's the perfect music for sunday mornings!_ "
+Cléa Vincent : _"Ricky Hollywood and Athanase Granson are two artists of the Parisian indie scene that I love, each have their distinct project. Their songs are allways soft. Ricky got an 80's poetry, Athanase is more inspired by 60's weird psychedelic folk. It's the perfect music for sunday mornings!"_
 
 ## Flairs - Bus
-C.V.: "_ This one is in the original soundtrack of my favorite movie : "Les Beaux Gosses" de Riad Sattouf_"
+C.V.: _"This one is in the original soundtrack of my favorite movie : "Les Beaux Gosses" de Riad Sattouf"_
 
 ## Kumi Solo - Ce soir
-C.V.: " _I recently wrote a songs for Kumi, I really enjoyed working with her, she's so cute!!! I'm her best fan!_“
+C.V.: _"I recently wrote a songs for Kumi, I really enjoyed working with her, she's so cute!!! I'm her best fan!“_
  
 <p id="outroduction">
 That's all folks, thanks to [Cléa Vincent](https://www.facebook.com/cleavincentmusic/?fref=ts) for her kindness, [Célestin](https://www.facebook.com/slipontherock/) for the huge artwork (again) ! See you next week!.</p>
