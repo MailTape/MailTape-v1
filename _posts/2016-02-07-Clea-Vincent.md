@@ -56,7 +56,7 @@ Clea Vincent’s songs are falsely naive and full of metaphors. Flippant exquisi
 Cléa Vincent : _"Ricky Hollywood and Athanase Granson are two artists of the Parisian indie scene that I love, each have their distinct project. Their songs are allways soft. Ricky got an 80's poetry, Athanase is more inspired by 60's weird psychedelic folk. It's the perfect music for sunday mornings!"_
 
 ## Flairs & Riad Sattouf - Bus
-C.V.: _"This one is in the original soundtrack of my favorite movie : "Les Beaux Gosses" from Riad Sattouf"_
+C.V.: _"This one is in the original soundtrack of my favorite movie : "Les Beaux Gosses" by Riad Sattouf"_
 
 ## Kumi Solo - Ce soir
 C.V.: _"I recently wrote a songs for Kumi, I really enjoyed working with her, she's so cute!!! I'm her best fan!“_
