@@ -44,11 +44,13 @@ author: Maxime
 
 Push play, close your eyes, and let the music flood your imagination. And there is where it all begin...
 
-In a galaxy far far away, where spaceships are loyal steeds and battles are won with sound waves, King ARP-2600 reign on the Great Analogic planet. Minimoog Voyager, leader of the Glorious Guardians, devoted servants of The Holy Groove and Electrical Harmony, protect the Analogic King from the dark sovereign  Bontempi AZ-9000. Who swear on his connections to bring down his great contender... 
+"...In a galaxy far far away, where spaceships are loyal steeds and battles are won with sound waves, King ARP-2600 reign on the Analogic planet. Minimoog Voyager, leader of the Glorious Guardians, devoted servants of The Holy Groove and Electrical Harmony, protect the Analogic King from the dark sovereign  Bontempi AZ-9000. Who swear on his connections to bring down his great contender..."
 
-As a child who play with his toys, creates universes, stories, heroes, bad guys, Lindstrom make music. Each track, creating his own mythology. It's up to us to go through his waves and discover his Analogic Galaxy. 
+As a child who play with his toys, creates universes, stories, heroes, bad guys, Lindstrom play with his analogic synthetizers. Each track, creating his own mythology. It's up to us to go through his waves and discover his Analogic Galaxy. 
 
-Since the dawn of time, rhythm of days in this specific Galaxy is governed by the BPMs of Disco-Masters. As Long they're playing, everything is supposed to going well. The rhythms are accelerating at nightfall, and slow at dawn. That's the first rule. This frail harmony is broken when the princess Korg PS-3100, Queen of all Disco-Masters, is kidnapped by the diabolical Bontempi AZ-9000. Minimoog Voyager and his Glorious Guardians begans a journey through time and space to found the missing princess...
+"...Since the dawn of time, rhythm of days in this specific Galaxy is governed by the BPMs of Disco-Masters. As Long they're playing, everything is supposed to going well. The rhythms are accelerating at nightfall, and slow at dawn. That's the first rule. This frail harmony is broken when the princess Korg PS-3100, Queen of all Disco-Masters, is kidnapped by the diabolical Bontempi AZ-9000. Minimoog Voyager and his Glorious Guardians begans a journey through time and space to found the missing princess..."
+
+To be continued ... 
 
 # The Lindstrøm's summer space opera soundtrack
  
