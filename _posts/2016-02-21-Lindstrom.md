@@ -14,7 +14,7 @@ track3_link: "https://soundcloud.com/nicolas-kitic/crackazat-eye-light"
 track4_link: "https://soundcloud.com/feedelity/lindstrom-raakost"
 track5_link: "https://soundcloud.com/voltaire_records/social-lovers-cant-let-it-go"
 track6_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"
-track7_link: "https://soundcloud.com/heraultmathis/liem-if-only-lehult"
+track7_link: "https://soundcloud.com/baarregaard/02-b-g-baarregaard-filtered"
 track1_title: "OMA & Amberflame - Lazy Sun"
 track1_color: dreamy
 track2_title: "Michael David - Ohana"
@@ -27,8 +27,8 @@ track5_title: "Social Lovers - Can't Let It Go"
 track5_color: vibrant
 track6_title: "A Visitor From Another Meaning - I Rarely Talk To Strangers"
 track6_color: vibrant
-track7_title: "Liem - If Only"
-track7_color: rough
+track7_title: "B.G. Baarregaard - Filtered Summer"
+track7_color: dreamy
 episode_URL: "http://mailta.pe/205/Lindstrom/"
 fbPic: ""
 musiColor: ""
