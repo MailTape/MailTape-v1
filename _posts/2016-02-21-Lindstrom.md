@@ -12,9 +12,9 @@ track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amb
 track2_link: "https://soundcloud.com/distantworks/ohana"
 track3_link: "https://soundcloud.com/nicolas-kitic/crackazat-eye-light"
 track4_link: "https://soundcloud.com/feedelity/lindstrom-raakost"
-track5_link: "https://soundcloud.com/voltaire_records/social-lovers-cant-let-it-go"
-track6_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"
-track7_link: "https://soundcloud.com/baarregaard/02-b-g-baarregaard-filtered"
+track5_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"
+track6_link: ""
+track7_link: ""
 track1_title: "OMA & Amberflame - Lazy Sun"
 track1_color: dreamy
 track2_title: "Michael David - Ohana"
@@ -23,12 +23,12 @@ track3_title: "Crackazat - Eye Light"
 track3_color: rough
 track4_title: "Lindstrøm - Rà-àkõ-st"
 track4_color: rough
-track5_title: "Social Lovers - Can't Let It Go"
-track5_color: vibrant
-track6_title: "A Visitor From Another Meaning - I Rarely Talk To Strangers"
+track5_title: "A Visitor From Another Meaning - I Rarely Talk To Strangers"
+track5_color: trippy
+track6_title: "B.G. Baarregaard - Filtered Summer"
 track6_color: vibrant
-track7_title: "B.G. Baarregaard - Filtered Summer"
-track7_color: dreamy
+track7_title: "Social Lovers - Can't Let It Go"
+track7_color: vibrant
 episode_URL: "http://mailta.pe/205/Lindstrom/"
 fbPic: ""
 musiColor: ""
