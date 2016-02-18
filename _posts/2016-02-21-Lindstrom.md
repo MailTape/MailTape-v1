@@ -30,8 +30,8 @@ track6_color: trippy
 track7_title: "Social Lovers - Can't Let It Go"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/205/Lindstrom/"
-fbPic: ""
-musiColor: ""
+fbPic: fbPic205.jpg
+musiColor: musiColor205.png
 description: ""
 published: true
 author: Maxime
@@ -65,4 +65,6 @@ L.: "Totally awesome balearic spacey 80-s boogie track from Michael David of LA 
 L.: " Amazing track from a band I know nothing about. Jazz-soul chords with a nice swing makes this a no-brainer.“
  
 <p id="outroduction">
-That's all folks, thanks to Lindstrom of course, and to William Girault for the beautiful mountain artwork. See you next week !</p>
+That's all folks, thanks to Lindstrom of course, and to William Girault for the beautiful mountain artwork. See you next week !![fbPic205.jpg]({{site.baseurl}}/img/fbPic205.jpg)
+![musiColor205.png]({{site.baseurl}}/img/musiColor205.png)
+</p>
