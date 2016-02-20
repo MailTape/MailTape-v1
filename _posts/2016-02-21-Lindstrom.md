@@ -52,8 +52,6 @@ As a child who play with his toys, creates universes, stories, heroes, bad guys,
 
 "...Since the dawn of time, rhythm of days in this specific Galaxy is governed by the BPMs of Disco-Masters. As Long they're playing, everything is supposed to going well. The rhythms are accelerating at nightfall, and slow at dawn. That's the first rule. This frail harmony is broken when the princess Korg PS-3100, Queen of all Disco-Masters, is kidnapped by the diabolical Bontempi AZ-9000. Minimoog Voyager and his Glorious Guardians begans a journey through time and space to found the missing princess..."
 
-To be continued ... 
-
 # The Lindstrøm's summer space opera soundtrack
  
 ## Oma & Amberflame - Lazy Sun
