@@ -5,7 +5,7 @@ illustrator: William Girault
 writer: Maxime
 category: "205"
 guest_name: Lindstrøm
-guest_color: bliss
+guest_color: trippy
 bigTitle_font_ratio: "6"
 guestPic: guestPic205.jpg
 track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amberflame-lazy-sun"
@@ -36,6 +36,7 @@ description: ""
 published: true
 author: Maxime
 ---
+
 
 
 
