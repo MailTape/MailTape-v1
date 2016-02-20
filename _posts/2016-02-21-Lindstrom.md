@@ -66,5 +66,5 @@ L.: "Totally awesome balearic spacey 80-s boogie track from Michael David of LA 
 L.: " Amazing track from a band I know nothing about. Jazz-soul chords with a nice swing makes this a no-brainer.“
  
 <p id="outroduction">
-That's all folks, thanks to Lindstrom of course, and to William Girault for the beautiful mountain artwork. See you next week !
+That's all folks, thanks to [Lindstrom](https://www.facebook.com/hplindstrom/?fref=ts) of course, and to [William Girault](https://www.facebook.com/Wllgr/?fref=ts) for the beautiful mountain artwork. See you next week !
 </p>
