@@ -73,6 +73,8 @@ prose:
           options:
             - name: "ImaCrea"
               value: "ImaCrea"
+            - name: "Louise"
+              value: "Louise"
             - name: "Ludovic"
               value: "Ludovic"
             - name: "Maxime"
