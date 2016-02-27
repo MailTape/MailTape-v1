@@ -208,16 +208,24 @@ $(document).ready(
 			
 		$.each(tracksURL,function(i,trackURL){
 			if (trackURL.search( 'soundcloud' ) != -1) {
-				SC.get('/resolve', { url: trackURL }, function(track){
-					$("#track"+(i+1)+"_link").prop("href", trackURL);
-					if (track.streamable == true) {
+				SC.get('/resolve', { url: trackURL }, function(track,error){
+
+					if (error) {
+						console.error("/!\\"+"Track:"+(i+1)+" "+" NOT FOUND ! You gotta fix this darling ;)");
+						$("#track"+(i+1)+"_button").prop("href", "https://s3-eu-west-1.amazonaws.com/mailtapetracks/missingTrack.mp3");
+					}
+
+					else if (track.streamable == true) {
+						$("#track"+(i+1)+"_link").prop("href", "trackURL");
 						$("#track"+(i+1)+"_button").prop("href", track.stream_url+"?client_id=5eaa5aae9b1a116f58b43027a7a2206d");
 						console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
 					} 
-					if (track.streamable == false) {
+
+					else if (track.streamable == false) {
 						console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
 							// alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
 					}
+					
 				});
 			}
 
@@ -229,14 +237,14 @@ $(document).ready(
 				$("#track"+(i+1)+"_button").prop("href", trackURL);
 			}
 
-			else {
-				console.error("/!\\"+"Track:"+(i+1)+" "+trackURL+" ERROR ! URL Vide ou ne provenant ni de soundcloud, ni de amazon. Check it ;)");
-				$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
-				$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");
-				$("#track"+(i+1)+"_button").prop("href", trackURL);
+			// else {
+			// 	console.error("/!\\"+"Track:"+(i+1)+" "+trackURL+" ERROR ! URL Vide ou ne provenant ni de soundcloud, ni de amazon. Check it ;)");
+			// 	$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
+			// 	$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");
+			// 	$("#track"+(i+1)+"_button").prop("href", trackURL);
 
-			}
-		//					alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
+			// }
+			// 				alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
 
 		});
 
