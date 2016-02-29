@@ -59,6 +59,8 @@ prose:
           label: "Who did the illustration?"
           placeholder: "Choose illustrator"
           options:
+            - name: "Anais"
+              value: "Anais Caura"
             - name: "Celestin"
               value: "Camille Célestin"
             - name: "Pierre-Julien"
