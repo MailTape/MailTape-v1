@@ -284,7 +284,7 @@ $(document).ready(
 		//     });
 		// });
 
-	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
+	//	plugin d'ajaxification du formulaire mailchimp footer
 
 		$('#mc-form').ajaxChimp({
 	    	callback: callbackFunction
@@ -298,9 +298,26 @@ $(document).ready(
 		        });
 		        setTimeout(function() {
 	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow');
-	    			$('#mc-sidebar').fadeOut('slow'); // fais aussi disparaitre la sidebar de subscription
-	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0'); // fais aussi disparaitre la sidebar de subscription
-				}, 7000);
+				}, 4000);
+		    }
+		}
+
+
+	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
+
+		$('#mc-form-top').ajaxChimp({
+	    	callback: callbackFunctionTop
+	    });
+
+	    function callbackFunctionTop (resp) {
+		    if (resp.result == 'success') {
+		    	var prenom = $( "#mc-PRENOM" ).val();
+		        $('#mc-form-top').fadeOut('fast', function() {
+		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        });
+		        setTimeout(function() {
+	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
+				}, 4000);
 		    }
 		}
 
@@ -352,6 +369,7 @@ $(document).ready(
 
 		if (isFromEmail()) {
 			console.log("You're coming from our mail ! Hello dear subscriber :)");
+			$('#topbar-subscription').removeClass("hidden-xs").hide();
 			$('#footerSubscription').removeClass("hidden-xs").hide();
 			var comingFromMail =true;
 
