@@ -445,6 +445,14 @@ $(document).ready(
 
 
 	    // select randomly 3 related episodes to display
+
+	    // récupération des épisodes similaires et stockage dans un array pour sélection au hasard
+
+	    var relatedEpisodes_preselection = new Array();
+
+	    for (var i = 0; i < relatedEpisodes_numbers.length ; i++) {
+	    	relatedEpisodes_preselection[i]=[relatedEpisodes_numbers[i],relatedEpisodes_guestNames[i],relatedEpisodes_URLs[i],relatedEpisodes_guestPics[i],relatedEpisodes_MusiColors[i]];
+	    }
 		
 		// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
 		function shuffle(array) {
@@ -465,8 +473,18 @@ $(document).ready(
 		  return array;
 		}
 
-		var relatedEpisodes = shuffle($(".relatedEpisode")).slice(0, 3);
-		relatedEpisodes.fadeIn();
+		// extraction dans un array de 3 episodes relatifs parmi la preselection
+		var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 3);
+
+		for (var i = 0; i < 3; i++) {
+			$("#relatedEpisode_a_"+(i+1)).attr("data-stretch",relatedEpisodes_selection[i][3]);
+			$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
+			//$("#relatedEpisode_span_"+(i+1)).html(relatedEpisodes_selection[i][0]+"&nbsp;");
+			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
+			$("#relatedEpisode_img_"+(i+1)).attr("src",relatedEpisodes_selection[i][4]);
+
+		}
+
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 		
