@@ -188,21 +188,31 @@
 
     </div>
 
+
+
     <div class="row">
         <div id="relatedEpisodes" class="col-md-12"> 
             <h1>Keep it flowin</h1>
-            {% for post in site.posts %}
-                {% if site.time > post.date %}
-                    {% if post.guest_color == page.guest_color and post.category != page.category %}
-                    <div class="col-md-4 relatedEpisode {{ post.guest_color }}" style="display:none"> 
-                        <a class="stretchMe" data-stretch="/img/{{ post.guestPic }}" href="{{ post.url }}">
-                            <h2><span class="re-hash">#{{ post.category }}&nbsp;</span><br/>{{ post.guest_name }}</h2>
-                              <img src="/img/{{ post.musiColor }}" class="img-responsive re-musiColor"/>
-                        </a>
-                    </div>
-                    {% endif %}
-                {% endif %}
-          {% endfor %}
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                    <a id="relatedEpisode_a_1" class="stretchMe">
+                        <h2 id="relatedEpisode_h2_1"><span id="relatedEpisode_span_1" class="re-hash"></span><br/></h2>
+                          <img id="relatedEpisode_img_1" class="img-responsive re-musiColor"/>
+                    </a>
+                </div>
+
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                    <a id="relatedEpisode_a_2" class="stretchMe">
+                        <h2 id="relatedEpisode_h2_2"></h2>
+                          <img id="relatedEpisode_img_2" class="img-responsive re-musiColor"/>
+                    </a>
+                </div>
+
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                    <a id="relatedEpisode_a_3" class="stretchMe">
+                        <h2 id="relatedEpisode_h2_3"><span id="relatedEpisode_span_3" class="re-hash"></span><br/></h2>
+                          <img id="relatedEpisode_img_3" class="img-responsive re-musiColor"/>
+                    </a>
+                </div>
         </div>
 
     </div>
