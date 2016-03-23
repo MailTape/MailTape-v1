@@ -7,7 +7,7 @@ category: "212"
 guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: ""
+guestPic: guestPic212.jpg
 track1_link: "https://soundcloud.com/chillicious/recondite-robur"
 track2_link: "https://soundcloud.com/r-srecords/alma-construct-on-the-edge-surrounded"
 track3_link: "https://soundcloud.com/wearecolorado/undisclosed"
@@ -33,8 +33,10 @@ episode_URL: "http://mailta.pe/212/Stand-Wise/"
 fbPic: ""
 musiColor: ""
 description: ""
-published: false
+published: true
 ---
+
+![guestPic212.jpg]({{site.baseurl}}/img/guestPic212.jpg)
 
 
 <p id="introduction">Stand Wise, Baby !</p>
