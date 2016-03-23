@@ -37,7 +37,6 @@ published: true
 ---
 
 <p id="introduction">Stand Wise, Baby !</p>
-![guestPic212.jpg]({{site.baseurl}}/img/guestPic212.jpg)
 
 # Headline
 
