@@ -48,7 +48,7 @@ Feeling blessed lately? I don't like to talk much about religion but I often fee
 
 ## Recondite - Robur
 
-Stand Wise: **"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
+> Stand Wise: **"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
