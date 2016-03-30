@@ -55,7 +55,7 @@ Stand Wise:
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
-Stand Wise: **"**To listen to on a rough morning.
+Stand Wise: > **"**To listen to on a rough morning.
 You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolt you out of it.**"**
 
 ## Colorado - Undisclosed
