@@ -36,6 +36,7 @@ description: ""
 published: true
 ---
 
+
 <p id="introduction">This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing [Stand Wise](https://soundcloud.com/standwise), an intriguing duo from Paris and their selection of fine tunes.</p>
 
 # Synth' out
@@ -48,16 +49,16 @@ _Recondite_, little known or obscure isn't what this track resonates in all of u
 
 ## Recondite - Robur
 
-Stand Wise:**"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
+_Stand Wise_:**"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
-Stand Wise:**"**To listen to on a rough morning.
+_Stand Wise_:**"**To listen to on a rough morning.
 You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolt you out of it.**"**
 
 ## Colorado - Undisclosed
 
-Stand Wise:**"**You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany.**"**
+_Stand Wise_:**"**You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany.**"**
 
 <p id="outroduction">
 That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their great and vibrant selection. Enjoy your Sunday !</p>
