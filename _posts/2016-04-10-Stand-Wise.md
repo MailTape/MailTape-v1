@@ -36,27 +36,30 @@ description: ""
 published: true
 ---
 
-<p id="introduction">Stand Wise, Baby !</p>
+![guestPic212.jpg]({{site.baseurl}}/img/guestPic212.jpg)
 
-# Headline
+<p id="introduction">This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing Stand Wise, an intriguing duo from Paris and their selection of fine tunes.</p>
 
-Some text here... 
+# Synth' out
+
+Feeling blessed lately? I don't like to talk much about religion but I often feel music is the only avatar worth worshiping on this earth. Landing the unanimous consensus of the living peers, never revoked, it pokes the jokes out of your degenerated mind, calming its overreacting neurons and reviving dead cells through apoptosis. Sunday's the day for revival, some see it as the last, but I like to see it as the gate of entry into another week of uncertain affluence. Turn up the volume, but not too high, as this MailTape is for the travelling mind of a mature soldier needing a little assistance with effervescence.
+
+**Recondite**, little known or obscure isn't what this track resonates in all of us. Like a manifestation of dancing thoughts parading around a glass globe. Avid visitor of the frequency garden, passing through, letting go, letting light, allowing this next track to keep you on track. **Alma Construct** has me on the edge, on the tipping point of an internal chemical reaction, and yet you'll burst, and flirt with the dangers of a firing heart palpitation. "Colorado 's Undisclosed" is a surprise from Bretagne, acknowledge its originality and dive into the otherside with "Stand Wise". An apprenticeship for the new comers of the synthesizer Galaxy. **David August** needs no intro, his talent multiplies with time and "The Acid" squashes all existing doubts of his supremacy. Carrying on, hold still, just wait for it and the day will unfold just like slow magic.
  
 # Stand Wise's selection:
 
 ## Recondite - Robur
 
-Stand Wise: **"**Tu te réveilles à l’aube. Le temps est gris et il fait un froid glacial : on est en plein hiver. 
-Tu envoies Robur et elle vient t’envelopper pendant quelques minutes pour que tu ressortes de ton cocon plus serein ! Un kick léger, des basses profondes et des synths aériens : le remède parfait pour un réveil en douceur !**"**
+Stand Wise: **"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
-Stand Wise: **"**A écouter lors d’un réveil difficile. T’as trop peu dormi, tu tiens difficilement debout et il faut que tu te reconnectes. "On the edge", c’est le bras qui te remonte à la surface ! Ce track te laisse pas le choix : il est comme un cri qui résonne dans ta tête : « Réveille-toi ! » !  Ton corps, lourd et fatigué, ne tarde pas a répondre : les basses ont vite fait de te galvaniser ! **"**
+Stand Wise: **"**To listen to on a rough morning.
+You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolt you out of it.**"**
 
 ## Colorado - Undisclosed
 
-Stand Wise: **"**Tu te réveilles de pure bonne humeur ! Tu sais qu’aujourd’hui tu pars en voyage. Tu montes dans ta voiture, tu démarres, et tu mets Undisclosed à fond ! Les synths rêveurs, le pattern de batterie tout droit sortie d’un morceau rock, la voix complètement inattendue, sans oublier le pont aux sonorités kitchs, c’est ce qui fait la force de Undisclosed, morceau composé par les talentueux Colorado, jeune duo Breton.**"**
-
+Stand Wise: **"**You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany.**"**
 
 <p id="outroduction">
-That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for her great and vibrant selection. Enjoy your Sunday !</p>
+That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their great and vibrant selection. Enjoy your Sunday !</p>
