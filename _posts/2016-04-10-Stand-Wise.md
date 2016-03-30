@@ -42,29 +42,22 @@ published: true
 
 Feeling blessed lately? I don't like to talk much about religion but I often feel music is the only avatar worth worshiping on this earth. Landing the unanimous consensus of the living peers, never revoked, it pokes the jokes out of your degenerated mind, calming its overreacting neurons and reviving dead cells through apoptosis. Sunday's the day for revival, some see it as the last, but I like to see it as the gate of entry into another week of uncertain affluence. Turn up the volume, but not too high, as this MailTape is for the travelling mind of a mature soldier needing a little assistance with effervescence.
 
- **Alma Construct** **David August** needs no intro, his talent multiplies with time and "The Acid" squashes all existing doubts of his supremacy. Carrying on, hold still, just wait for it and the day will unfold just like slow magic.
+**Recondite**, little known or obscure isn't what this track resonates in all of us. Like a manifestation of dancing thoughts parading around a glass globe. Avid visitor of the frequency garden, passing through, letting go, letting light, allowing this next track to keep you on track. **Alma Construct** has me on the edge, on the tipping point of an internal chemical reaction, and yet you'll burst, and flirt with the dangers of a firing heart palpitation. Colorado 's **Undisclosed** is a surprise from Bretagne, acknowledge its originality and dive into the otherside with [Stand Wise](https://soundcloud.com/standwise). An apprenticeship for the new comers of the synthesizer Galaxy. **David August** needs no intro, his talent multiplies with time and "The Acid" squashes all existing doubts of his supremacy. Carrying on, hold still, just wait for it and the day will unfold just like slow magic.
  
 # Stand Wise's selection:
 
 ## Recondite - Robur
 
-> You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.
-
-Little known or obscure isn't what this track resonates in all of us. Like a manifestation of dancing thoughts parading around a glass globe. Avid visitor of the frequency garden, passing through, letting go, letting light, allowing this next track to keep you on track.
-
+> _You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening._
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
-> To listen to on a rough morning.
-You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolt you out of it.
-
-This track has me on the edge, on the tipping point of an internal chemical reaction, and yet you'll burst, and flirt with the dangers of a firing heart palpitation. "Colorado 's Undisclosed" is a surprise from Bretagne, acknowledge its originality and dive into the otherside with "Stand Wise". An apprenticeship for the new comers of the synthesizer Galaxy. 
-
-
+> _To listen to on a rough morning.
+You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolt you out of it._
 
 ## Colorado - Undisclosed
 
-Stand Wise: **"**You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany.**"**
+> _You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany._
 
 <p id="outroduction">
 That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their great and vibrant selection. Enjoy your Sunday !</p>
