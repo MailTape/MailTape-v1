@@ -48,10 +48,10 @@ Feeling blessed lately? I don't like to talk much about religion but I often fee
 
 ## Recondite - Robur
 
-**Recondite**, little known or obscure isn't what this track resonates in all of us. Like a manifestation of dancing thoughts parading around a glass globe. Avid visitor of the frequency garden, passing through, letting go, letting light, allowing this next track to keep you on track.
+Little known or obscure isn't what this track resonates in all of us. Like a manifestation of dancing thoughts parading around a glass globe. Avid visitor of the frequency garden, passing through, letting go, letting light, allowing this next track to keep you on track.
 
 Stand Wise: 
-> **"**You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening.**"**
+> "You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening."
 
 ##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
 
