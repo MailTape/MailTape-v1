@@ -60,7 +60,7 @@ You slept very little and can hardly stand, but you must somehow reconnect. On t
 
 ## Colorado - Undisclosed
 
-_Stand Wise_: "You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpexted vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany."
+_Stand Wise_: "You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the drums seem straight out of a rock song, the unexpected vocals and the rather kitsch bridge. There lies the strength of Undisclosed, a track from the talented young duo from Brittany."
 
 <p id="outroduction">
 That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their great and vibrant selection. Enjoy your Sunday !</p>
