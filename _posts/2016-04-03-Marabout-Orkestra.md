@@ -18,17 +18,17 @@ track7_link: "https://soundcloud.com/jamal-gutierrez/02-animal-kingdom"
 track1_title: "Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)"
 track1_color: vibrant
 track2_title: "Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas"
-track2_color: rough
+track2_color: vibrant
 track3_title: " Shake Hands - Geraldo Pino"
-track3_color: rough
+track3_color: vibrant
 track4_title: "Marabout Orkestra - Warteef Jigeen"
-track4_color: rough
+track4_color: vibrant
 track5_title: " Freddie Joachim - To Remind Us Feat Miles Bonny "
-track5_color: rough
+track5_color: bliss
 track6_title: "Zuper -  Too Early.. "
-track6_color: rough
+track6_color: dreamy
 track7_title: " All Flows Reach Out - Animal Kingdom"
-track7_color: rough
+track7_color: vibrant
 episode_URL: ""
 fbPic: ""
 musiColor: ""
