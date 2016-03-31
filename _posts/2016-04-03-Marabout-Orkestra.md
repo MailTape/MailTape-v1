@@ -8,7 +8,7 @@ guest_name: Marabout Orkestra
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: ""
-track1_link: "https://soundcloud.com/mr-scruff/herbie-hancock-wiggle-waggle-mr-scruff-remix"
+track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/211/track1.mp3"
 track2_link: "https://soundcloud.com/musicevolution/kyenkyen-bi-adi-mawu-alhaji-k"
 track3_link: "https://soundcloud.com/souldressing/shake-hands-geraldo-pino"
 track4_link: "https://soundcloud.com/marabout-orkestra/warteef-jigeen"
