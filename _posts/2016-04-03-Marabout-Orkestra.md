@@ -1,39 +1,39 @@
 ---
 layout: episode
-author: Dimitri
-illustrator: Anais Caura
+author: ImaCrea
+illustrator: William Girault
 writer: ImaCrea
-category: ""
-guest_name: ""
-guest_color: rough
+category: "211"
+guest_name: Marabout Orkestra
+guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: ""
-track1_link: ""
-track2_link: ""
-track3_link: ""
-track4_link: ""
-track5_link: ""
-track6_link: ""
-track7_link: ""
-track1_title: ""
+track1_link: "https://soundcloud.com/mr-scruff/herbie-hancock-wiggle-waggle-mr-scruff-remix"
+track2_link: "https://soundcloud.com/musicevolution/kyenkyen-bi-adi-mawu-alhaji-k"
+track3_link: "https://soundcloud.com/souldressing/shake-hands-geraldo-pino"
+track4_link: "https://soundcloud.com/marabout-orkestra/warteef-jigeen"
+track5_link: "https://soundcloud.com/milesbonny/freddie-joachim-to-remind-us"
+track6_link: "https://soundcloud.com/zuper6/too-early"
+track7_link: "https://soundcloud.com/jamal-gutierrez/02-animal-kingdom"
+track1_title: "Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)"
 track1_color: rough
-track2_title: ""
+track2_title: "Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas"
 track2_color: rough
-track3_title: ""
+track3_title: " Shake Hands - Geraldo Pino"
 track3_color: rough
-track4_title: ""
+track4_title: "Marabout Orkestra - Warteef Jigeen"
 track4_color: rough
-track5_title: ""
+track5_title: " Freddie Joachim - \"To Remind Us\" Feat Miles Bonny "
 track5_color: rough
-track6_title: ""
+track6_title: "Zuper -  Too Early.. "
 track6_color: rough
-track7_title: ""
+track7_title: " All Flows Reach Out - Animal Kingdom"
 track7_color: rough
 episode_URL: ""
 fbPic: ""
 musiColor: ""
 description: ""
-published: false
+published: true
 ---
 
 
