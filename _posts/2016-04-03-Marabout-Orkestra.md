@@ -7,7 +7,7 @@ category: "211"
 guest_name: Marabout Orkestra
 guest_color: vibrant
 bigTitle_font_ratio: "6"
-guestPic: ""
+guestPic: guestPic211.jpg
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/211/track1.mp3"
 track2_link: "https://soundcloud.com/imacrea/k-frimpong-and-his-cubano-fiestas-kyenkyen-bi-adi-mawu"
 track3_link: "https://soundcloud.com/souldressing/shake-hands-geraldo-pino"
@@ -37,7 +37,7 @@ published: true
 ---
 
 
-<p id="introduction"> intro [Marabout Orkestra](http://maraboutorkestra.com/) !
+<p id="introduction"> intro  !
 </p>
 
 # intro marabout
