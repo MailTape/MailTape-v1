@@ -36,6 +36,25 @@ description: ""
 published: false
 ---
 
-## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<p id="introduction"> intro
+</p>
+
+# intro marabout
+
+maraboubou
+ 
+# Marabout Orkestra's selection:
+
+## Herbie Hancock - Wiggle Waggle (Mr Scruff Remix)
+
+Marabout Orkestra: "It's very cool to listen a pure musical monument ! Fat Albert Rotunda is a jazz funk album base, released in 1969.
+Wiggle Waggle is a very cool track, the horns are well lush and so punchy, sweet keys....and that break crisper and fatter...I wouldn't expect anything less from Scruff. And for sure Herbie is THE man !"
+
+## K Frimpong & His Cubano Fiestas - Kyenkyen Bi Adi M'awu
+
+MO: "Alhaji K. Frimpong recorded this masterpiece album of Ghanaian highlife in 1976. It starts off with the classic "Kyenkyen Bi Adi M'awu". Chunky grooves laid down by rolling percussion, funky guitar comp, and moody vibrato-heavy organ, all topped with beautiful melancholic vocal and horn lines."
+
+## Geraldo Pino - Shake Hands
+
+MO: "From Sierra Leone, this singer and guitarist was a huge influence on the West African soul/funk/afrobeat scene back in the 60s. He does one of the best James Brown imitations I've ever heard, other than the Godfather himself..."
