@@ -38,12 +38,14 @@ published: true
 
 
 
-<p id="introduction"> intro  !
+<p id="introduction">This morning, we're bringing you a soulful selection made in collaboration with [Marabout Orkestra](http://maraboutorkestra.com/). Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon.
 </p>
 
-# intro marabout
+# That warm human feeling
 
-maraboubou orkes
+Jazz feels like a deeply humane music in the sense that it ask a full body approach when being played. One might have difficulties in playing jazz without being able to fully relax her thoughts and go in the flow without any compromise. One could argue that for any music genre, but the fact that jazz is mostly improvised builds, I believe, even more expectations towards that total self-giving way of playing.
+
+In return, the music which results from it creates an intense feeling of warmth mixed with bits of charming imperfections. See, as you're reading I'd bet you're head is already noding to these soulful beats. Come on, shake that thing, it's Sunday!
  
 # Marabout Orkestra's selection:
 
