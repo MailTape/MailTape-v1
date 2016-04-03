@@ -19,7 +19,7 @@ track1_title: "Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)"
 track1_color: vibrant
 track2_title: "Kyenkyen Bi Adi M'awu - Alhaji K Frimpong & His Cubano Fiestas"
 track2_color: vibrant
-track3_title: " Shake Hands - Geraldo Pino"
+track3_title: "Geraldo Pino - Shake Hands"
 track3_color: vibrant
 track4_title: "Marabout Orkestra - Warteef Jigeen"
 track4_color: vibrant
@@ -35,6 +35,7 @@ musiColor: musiColor211.png
 description: "This morning, we're bringing you a soulful selection made in collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon."
 published: true
 ---
+
 
 
 
