@@ -38,7 +38,8 @@ published: true
 
 
 
-<p id="introduction">This morning, we're bringing you a soulful selection made in collaboration with [Marabout Orkestra](http://maraboutorkestra.com/). Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon.
+
+<p id="introduction">This morning, we're bringing you a soulful selection made in collaboration with [Marabout Orkestra](http://maraboutorkestra.com/). Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon. 
 </p>
 
 # That warm human feeling
