@@ -39,6 +39,8 @@ published: true
 <p id="introduction">This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing [Stand Wise](https://soundcloud.com/standwise), an intriguing duo from Paris and their selection of fine tunes.</p>
 
 # Synth' out
+![guestPic212.jpg]({{site.baseurl}}/img/guestPic212.jpg)
+
 
 Feeling blessed lately? I don't like to talk much about religion but I often feel music is the only avatar worth worshiping on this earth. Landing the unanimous consensus of the living peers, never revoked, it pokes the jokes out of your degenerated mind, calming its overreacting neurons and reviving dead cells through apoptosis. 
 Sunday's the day for revival, some see it as the last, but I like to see it as the gate of entry into another week of uncertain affluence. Turn up the volume, but not too high, as this MailTape is for the travelling mind of a mature soldier needing a little assistance with flesh effervescence.
