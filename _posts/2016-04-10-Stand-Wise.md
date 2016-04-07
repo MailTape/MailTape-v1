@@ -65,4 +65,4 @@ _Stand Wise_: "You wake up in the best mood ever! You know you're off for a trip
 
 
 <p id="outroduction">
-That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their great and vibrant selection. Enjoy your Sunday !</p>
+That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their magical selection. If you believe that great music rhymes with good food, we truly recommend you to discover Animal Kitchen & Records, Stand Wise's record label, the first hybrid music label mixing musical production (Animal Records) and food (Animal Kitchen). And for our epicurean parisian based music lovers, Animal Kitchen just took control of the parisian venue Point Ephémère's kitchen...</p>
