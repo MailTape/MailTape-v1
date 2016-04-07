@@ -50,16 +50,16 @@ _Recondite_, little known or obscure isn't what this track resonates in all of u
  
 # Stand Wise's selection:
 
-## [Recondite - Robur](https://soundcloud.com/standwise)
+## [Recondite - Robur](https://soundcloud.com/chillicious/recondite-robur)
 
 _Stand Wise_: "You wake up at dawn, the weather is freezing and the sky is grey. You put on Robur and it wraps you up for just a few minutes, allowing you to exit your cocoon more peacefully. A light kick, some deep base and airy synths: the perfect remedy for a soft awakening."
 
-##  Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey
+##  [Alma Construct - On The Edge, Surrounded With The Shores Of Assudrey](https://soundcloud.com/r-srecords/alma-construct-on-the-edge-surrounded)
 
 _Stand Wise_: "To listen to on a rough morning.
 You slept very little and can hardly stand, but you must somehow reconnect. On the edge is your wing man, allowing you to resurface. This track leaves you no choice. Like a sharp scream echoing in your head. "Wake-up". Your body, heavy and wasted soon reponds: the base quickly jolts you out of it."
 
-## Colorado - Undisclosed
+## [Colorado - Undisclosed](https://soundcloud.com/wearecolorado/undisclosed)
 
 _Stand Wise_: "You wake up in the best mood ever! You know you're off for a trip today. You get in your car and take off. The dreamy synths, the patterns of the drums straight out of a rock band, the unexpected vocals, without forgetting the bridge with the kitsch sonority. There lies the strength of Undisclosed, a track from the talented young duo from Brittany."
 
