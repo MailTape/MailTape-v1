@@ -36,6 +36,7 @@ description: "This morning, let us keep you on the edge of new talent discovery 
 published: true
 ---
 
+
 <p id="introduction">This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing [Stand Wise](https://soundcloud.com/standwise), an intriguing duo from Paris and their selection of fine tunes.</p>
 
 # Synth' out
@@ -61,4 +62,4 @@ _Stand Wise_: "You wake up in the best mood ever! You know you're off for a trip
 <p id="outroduction">
 That's all folks, thanks to [Stand Wise](https://soundcloud.com/standwise) for their magical selection.</p>
 <p id="outroduction">
-If you believe that great music rhymes with good food, we truly recommend you to discover _Animal Kitchen & Records_, Stand Wise's record label, the first hybrid music label mixing musical production ([Animal Records](https://www.facebook.com/animalrec/)) and food ([Animal Kitchen](https://www.facebook.com/AnimalKitchen/)). And for our epicurean parisian based music lovers, Animal Kitchen just took control of the parisian venue Point Ephémère's kitchen...</p>
+If you believe that great music rhymes with good food, we truly recommend you to discover _Animal Kitchen & Records_, Stand Wise's record label, the first hybrid music label mixing musical production ([Animal Records](https://www.facebook.com/animalrec/)) and food ([Animal Kitchen](https://www.facebook.com/AnimalKitchen/)). And for our epicurean Paris-based music lovers, Animal Kitchen just took control of the parisian venue Point Ephémère's kitchen...</p>
