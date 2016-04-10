@@ -37,6 +37,7 @@ published: true
 ---
 
 
+
 <p id="introduction">This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing [Stand Wise](https://soundcloud.com/standwise), an intriguing duo from Paris and their selection of fine tunes.</p>
 
 # Synth' out
