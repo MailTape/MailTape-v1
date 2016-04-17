@@ -35,6 +35,21 @@ musiColor: ""
 description: ""
 published: true
 ---
-## A New Post
+WORK IN PROGRESS
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Nicolas Jaar nous invite dans un voyage psychédélique dés le réveil avec The Electric Prunes.
+En réalité, nous sommes encore en train de rêver et ceci n'est que le début de notre voyage. C'est Al Green qui nous prend maintenant la main et peint un décor idyllique sous nos yeux. Nos yeux s'ouvrent ensuite réellement avec Nas pour nous sortir du lit sur ses sample de James Brown.
+
+Un bruit de moteur se fait entendre au travers de la fenêtre, les Laid Back nous attendent avec leur avion pour une session de parachutisme. En pleine chute libre, la voix d'Erykah Badu nous téléporte dans son vaisseau spatial. Accoudés contre l'un des hublots de la navette en orbite autour de la Lune, nous voyons celle-ci montrer son visage et commencer à chanter un titre des Man Man. Nos yeux s'ouvrent à nouveau, réalité ou rêve? Qu'importe, Danger Mouse et Jack White sont dans le salon, nous attendant pour le café.
+
+
+THE ELECTRIC PRUNES - Holy Are You
+"This is almost my favorite song of all time."
+
+
+AL GREEN - Simply Beautiful
+"This is probably my favorite songs right now. I've been trying to make music that has this type of warmth..."
+
+
+NAS - Get Down
+"Nas's album "God's Son" doesn't get enough credit - here's to that."
