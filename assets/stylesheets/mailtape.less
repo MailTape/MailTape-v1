@@ -383,10 +383,11 @@ article {
 }
 
 #playButton {
-	color: fadeout(white,10%);
+	color: darken(white,2%);
+	text-shadow: 0px 1px 1px rgb(56, 56, 56);
 
 	font-family: 'icomoon';
-	.transition(background);
+	.transition;
 	cursor: pointer;
 
 	.transition(color,0.4s);
@@ -395,6 +396,8 @@ article {
 
 	&:hover {
 		color: white;
+		text-shadow: none;
+
 	}
 
 	&.notPlaying {	
