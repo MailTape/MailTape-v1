@@ -345,10 +345,12 @@ article {
 		//width: auto;
 
 	  	background: none;
-	  	color: fadeout(darken(white,8%),15%);
+	  	color: darken(white,5%);
+	  	text-shadow: 1px 1px 1px rgba(56, 56, 56, 1);
 
 		&:hover {
 			color: white;
+			text-shadow: none;
 			}
 	  }
 
@@ -356,8 +358,10 @@ article {
 		//padding: 0;
 		//width: auto;
 
-		color: fadeout(darken(white,8%),15%);
 	 	background: none;
+
+	 	color: darken(white,5%);
+	  	text-shadow: -1px 1px 1px rgba(56, 56, 56, 1);
 
 	 	@media(max-width: 768px) {
   		
@@ -367,6 +371,7 @@ article {
 
 	  	&:hover {
 	  		color: white;
+	  		text-shadow: none;
 	  		}
 	}
 
