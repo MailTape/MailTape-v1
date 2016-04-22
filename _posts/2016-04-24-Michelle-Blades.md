@@ -1,35 +1,35 @@
 ---
 layout: episode
-author: Dimitri
-illustrator: Anais Caura
-writer: ImaCrea
-category: ""
-guest_name: ""
-guest_color: rough
+author: Maxime
+illustrator: William Girault
+writer: Maxime
+category: "214"
+guest_name: Michelle Blades
+guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: ""
-track1_link: ""
-track2_link: ""
-track3_link: ""
-track4_link: ""
-track5_link: ""
-track6_link: ""
-track7_link: ""
-track1_title: ""
-track1_color: rough
-track2_title: ""
-track2_color: rough
-track3_title: ""
-track3_color: rough
-track4_title: ""
-track4_color: rough
-track5_title: ""
-track5_color: rough
-track6_title: ""
-track6_color: rough
-track7_title: ""
-track7_color: rough
-episode_URL: ""
+track1_link: "https://soundcloud.com/magic-drop/the-punks"
+track2_link: "https://soundcloud.com/caracolin/victor-jara-te-recuerdo-amanda"
+track3_link: "https://soundcloud.com/cyclo-raquette"
+track4_link: "https://soundcloud.com/midnightspecialrecords/michelle-blades-polylust-03-watch-me-stray-mstd"
+track5_link: "https://soundcloud.com/crackirecords/agar-agar-prettiest-virgin"
+track6_link: "https://soundcloud.com/profildeface/vendredi-sur-mer-la-femme-a-la-peau-bleue"
+track7_link: "https://soundcloud.com/delicieuse-musique/premiere-fatnotronic-in-flagranti-botoque"
+track1_title: "Stephen Steinbrink - The Punks"
+track1_color: vibrant
+track2_title: "Victor Jara - Te Recuerdo Amanda"
+track2_color: vibrant
+track3_title: "Eddy Crampes - Automne"
+track3_color: trippy
+track4_title: "Michelle Blades - New Friends"
+track4_color: dreamy
+track5_title: "Agar Agar - Prettiest Virgin"
+track5_color: dreamy
+track6_title: "Vendredi Sur Mer - La Femme à la Peau Bleue"
+track6_color: dreamy
+track7_title: "Fatnotronic & In Flagranti - Botoque"
+track7_color: vibrant
+episode_URL: "http://mailta.pe/214/Michelle-Blades/"
 fbPic: ""
 musiColor: ""
 description: ""
