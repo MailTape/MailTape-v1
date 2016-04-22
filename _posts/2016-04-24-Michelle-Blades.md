@@ -7,7 +7,7 @@ category: "214"
 guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: ""
+guestPic: guestPic214.jpg
 track1_link: "https://soundcloud.com/magic-drop/the-punks"
 track2_link: "https://soundcloud.com/caracolin/victor-jara-te-recuerdo-amanda"
 track3_link: "https://soundcloud.com/cyclo-raquette"
