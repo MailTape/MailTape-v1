@@ -2,14 +2,71 @@
     <div class="row">
         <div class="col-md-12 hidden-xs" id="topbar-subscription">
             <div id="topbar-subscription-form">
-                <p id="topbar-subscription-form-text">Fresh music in your inbox, every Sunday morning : </p>
+                <p id="topbar-subscription-form-text">Receive MailTape's next issue: </p>
                 <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-form-top" name="mc-form-top" class="validate" target="_blank">
-                   <input type="email" name="EMAIL" class="required email" id="mc-EMAIL" placeholder="Your email ?" required>
-                    <input type="text" name="PRENOM" class="required" id="mc-PRENOM" placeholder="Your name ?" required>
-                    <button name="subscribe" id="subscribeButton">Subscribe</button>
+                    <input type="text" name="PRENOM" class="required" id="mc-PRENOM" placeholder="Jim" required>
+                    <input type="email" name="EMAIL" class="required email" id="mc-EMAIL" placeholder="jim@morrison.com" required>
+                    <button name="subscribe" id="subscribeButton">+ FOLLOW</button>
                     <label id="mc-label" for="mc-EMAIL"></label>
                 </form>
+                <button data-toggle="modal" id="topLearnMore" href="#topLearnMoreModal">Learn more</button>
             </div>
         </div>
     </div>
 </div> 
+
+
+
+<!-- Modal -->
+            <div class="modal fade" id="topLearnMoreModal" tabindex="-1" role="dialog" aria-labelledby="subModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h3 class="modal-title">MailTape is a nonprofit art collective dedicated to feed your inspiration through music.</h3>
+                            <p>
+                                We release a new issue each Sunday morning.
+                                <br><br>
+                                Each of them is the result of a collaborative work between our guest who curates the three first tracks, a curator who completes the selection, an illustrator and a writer.
+                                <br><br>
+                                More than 7k dancers, musicians, illustrators, writers, researchers, photographers, artists, music passionate and creators of all kinds are following MailTape.
+                                <br><br>
+                                MailTape is supported by our generous backers.
+                            </p>
+                        </div>
+                        <div class="modal-body">
+                        <h3>Receive our next issue:</h3>
+                            <div id="mc_embed_signup">
+                                <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                                
+                                    <div class="mc-field-group">
+                                        <!--           <label for="mce-PRENOM">How should we call you ?  <span class="asterisk">*</span>
+      </label> -->
+                                        <input type="text" value="" name="PRENOM" class="required" id="mce-PRENOM" placeholder="Pina">
+                                    </div>
+
+                                    <div class="mc-field-group">
+                                        <!--           <label for="mce-EMAIL">Your email ?<span class="asterisk">*</span>
+      </label> -->
+                                        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="pina@bausch.com">
+                                    </div>
+
+                                    <div id="mce-responses" class="clear">
+                                        <div class="response" id="mce-error-response" style="display:none"></div>
+                                        <div class="response" id="mce-success-response" style="display:none"></div>
+                                    </div>
+                                    <div class="clear">
+                                        <input type="submit" value="+ FOLLOW" name="subscribe" id="mc-embedded-subscribe" class="button">
+                                    </div>
+                                </form>
+                            </div>
+
+                            <!--End mc_embed_signup-->
+
+                        </div>
+                    </div>
+                    <!-- /.modal-content -->
+                </div>
+                <!-- /.modal-dialog -->
+            </div>
+            <!-- /.modal -->

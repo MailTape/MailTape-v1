@@ -294,11 +294,11 @@ $(document).ready(
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-PRENOM" ).val();
 		        $('#mc-form').fadeOut('fast', function() {
-		        	$('#footerSubscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        	$('#footerSubscription-form-text').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
 		        });
 		        setTimeout(function() {
 	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow');
-				}, 4000);
+				}, 5000);
 		    }
 		}
 
@@ -313,7 +313,7 @@ $(document).ready(
 		    if (resp.result == 'success') {
 		    	var prenom = $( "#mc-PRENOM" ).val();
 		        $('#mc-form-top').fadeOut('fast', function() {
-		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love Sunday morning. We've just sent you a confirmation email !");
+		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
 		        });
 		        setTimeout(function() {
 	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');

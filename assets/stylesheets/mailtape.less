@@ -94,10 +94,10 @@ body {
 			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-weight: 300;
 			.rounded-corners;
-			margin:0 0.2em;
+			margin:0 0.1rem 0 0;
 			background: rgba(237, 237, 237, 1.0000);
 			border: none;
-			padding: 0 0.3em;
+			padding: 0.1rem 0.3rem;
 		}
 
 	label {
@@ -112,12 +112,11 @@ body {
 	button {
 	background: rgba(237, 237, 237, 1.0000);
 	color: &lighterGrey;
-	padding: 0 1em;
+	padding: 0.1rem 0.5rem;
 	font-family: 'superspitze_groteskregular';
 	font-size: 1em;
 	text-align:center;
 	.rounded-corners;
-	margin: 0.3em 0;
 	.transition;
 	border:none;
 
@@ -126,6 +125,10 @@ body {
 		background: rgba(58, 64, 64, 1.0000);
 		cursor: pointer;
 		}
+	}
+
+	#topLearnMore {
+		margin: 0 0 0 1rem;
 	}
 }
 
@@ -1123,9 +1126,8 @@ article {
 
 #footerSubscription{
 
-	margin: 0.5em 0 3em 0;
-	height: 2.5em;
-	overflow: hidden;
+	margin: 0.5rem 0 3rem 0;
+	height: 2.5rem;
 	p {
 		display: inline;
 	}
@@ -1141,10 +1143,12 @@ article {
 			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
 			font-weight: 300;
 			.rounded-corners;
-			margin:0 0.2em;
+			margin:0 0.2rem;
 			background: white;
 			border: none;
-			padding: 0.3em 1em;
+			padding: .2rem .5rem;
+			font-size: .6rem;
+			box-shadow: 0px 1px 1px grey;
 		}
 
 	label {
@@ -1159,14 +1163,16 @@ article {
 	button {
 		background: white;
 		color: &lighterGrey;
-		padding: 0.3em 1em;
+		padding: 0.2rem .5rem;
 		font-family: 'superspitze_groteskregular';
-		font-size: 1em;
+		font-size: .6rem;
 		text-align:center;
 		.rounded-corners;
-		margin: 0.3em 0;
+		margin: 0 0.2rem;
 		.transition;
 		border:none;
+		box-shadow: 0px 1px 1px grey;
+
 
 		&:hover {
 			color: rgba(237, 237, 237, 1.0000);
@@ -1671,4 +1677,19 @@ a {
 
 #autoLoop.active {
   opacity: 0.8;
+}
+
+#topLearnMoreModal {
+	h3 {
+		margin: 0 0 1rem 0;
+	}
+
+	.mc-field-group {
+		display: inline-block;
+		margin: 0;
+	}
+
+	.clear {
+		display: inline;
+	}
 }
