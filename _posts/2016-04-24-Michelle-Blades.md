@@ -33,7 +33,7 @@ episode_URL: "http://mailta.pe/214/Michelle-Blades/"
 fbPic: ""
 musiColor: ""
 description: ""
-published: false
+published: true
 ---
 ![guestPic214.jpg]({{site.baseurl}}/img/guestPic214.jpg)
 <p id="introduction"> xxx </p>
