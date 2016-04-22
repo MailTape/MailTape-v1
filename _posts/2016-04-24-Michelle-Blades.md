@@ -35,6 +35,24 @@ musiColor: ""
 description: ""
 published: false
 ---
-## A New Post
+<p id="introduction"> xxx </p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+xxx
+
+# xxx
+
+xxxx
+ 
+# Michelle Blades's selection:
+
+## Stephen Steinbrink - The Punks
+
+Michelle Blades: "Stephen and I used to live in the same town and he's been one of my favorite artists all around ever since I came across his music. This song in particular is special as it talks about aspects of living in Tempe/Phoenix and being part of the music scene there. True folk."
+
+## Victor Jara - Te recuerdo Amanda
+
+Michelle Blades: "Probably my favorite song of his. Political, folkloric, romantic & tragic all at the same time. It's like a cocktail I wish I could drink."
+
+## Eddy Crampes - Automne
+
+Michelle Blades: "I met Eddy while he was working on the finishing touches for Laure Briard's upcoming album. Watching him work and listening to his arrangements made me wonder what  his own work was like. I'm so glad I discovered his weird brilliant pop.  "
