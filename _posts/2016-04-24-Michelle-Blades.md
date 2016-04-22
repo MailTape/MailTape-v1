@@ -35,6 +35,7 @@ musiColor: ""
 description: ""
 published: false
 ---
+![fbPic214.jpg]({{site.baseurl}}/img/fbPic214.jpg)
 <p id="introduction"> xxx </p>
 
 xxx
