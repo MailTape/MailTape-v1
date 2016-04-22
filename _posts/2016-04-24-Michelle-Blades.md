@@ -35,7 +35,6 @@ musiColor: ""
 description: ""
 published: true
 ---
-![guestPic214.jpg]({{site.baseurl}}/img/guestPic214.jpg)
 <p id="introduction"> xxx </p>
 
 xxx
