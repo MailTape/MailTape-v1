@@ -56,5 +56,4 @@ Michelle Blades: "Probably my favorite song of his. Political, folkloric, romant
 
 ## Eddy Crampes - Automne
 
-Michelle Blades![Michelle_bades.jpg]({{site.baseurl}}/img/Michelle_bades.jpg)
-: "I met Eddy while he was working on the finishing touches for Laure Briard's upcoming album. Watching him work and listening to his arrangements made me wonder what  his own work was like. I'm so glad I discovered his weird brilliant pop.  "
+Michelle Blades: "I met Eddy while he was working on the finishing touches for Laure Briard's upcoming album. Watching him work and listening to his arrangements made me wonder what  his own work was like. I'm so glad I discovered his weird brilliant pop.  "
