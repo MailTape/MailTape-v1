@@ -37,7 +37,7 @@ published: true
 ---
 <p id="introduction"> Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived until 2012 in USA, then moved to Paris. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. </p>
 
-# World, World, World, World, World, World
+# "World, World, World, World, World, World"
 
 She is a great example of a work where experimentation is a finality. She could do punk, folk or electronical pop, we can detect a Michelle Blades’s style. Her muscial experiment is proportional to her life's mileage. Every gender of music created can be joined to a country, or a city, or all at once. As "New Friends", a song wrote during the attacks in November in Paris, she talks about her new friends locked up in a bar in Paris, thinking back to his old friends in Pheonix, Arizona. She choosen to use an electronical cumbia behind her lyrics. In a way, this song is a life review. 
 
