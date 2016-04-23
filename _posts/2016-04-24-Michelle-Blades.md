@@ -37,16 +37,14 @@ published: true
 ---
 <p id="introduction"> Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived since 2012 in USA, then moved to Paris. It's quiet the same than talking about globalisation. Even if her music was not inspired by her life, we could be speak about this itinerary and compare it to her music. But she simplified our job, her life is totally reflected by her music. Let talk about the world of Michelle Blades. </p>
 
-She is great exemple of a work where experimentation is a finality. She could do punk, folk or electronial pop, we can detect a michelle Blades’s style. Her muscial experiment is proportional to her life's mileage. Every gender of music created can be joined to a country, or a city. As "New Friends", a song wrote during the attacks in November in Paris, she talks about her new friends locked up in a bar in Paris, thinking back to his old friends in Pheonix, Arizona. She choosen to use an electronical cumbia behind her lyrics. In a way, this song is a life review. 
-
+She is great exemple of a work where experimentation is a finality. She could do punk, folk or electronial pop, we can detect a michelle Blades’s style. Her muscial experiment is proportional to her life's mileage. Every gender of music created can be joined to a country, or a city, our all at once. As "New Friends", a song wrote during the attacks in November in Paris, she talks about her new friends locked up in a bar in Paris, thinking back to his old friends in Pheonix, Arizona. She choosen to use an electronical cumbia behind her lyrics. In a way, this song is a life review. 
 
 # Haunting and elusive music
 
-"Eternal Fugitive" is the last song of her last EP "Polylust". Does she run out something, or does she keep searching ? It's that kind of questions she ask herself
-
-xxxx
+"Eternal Fugitive" is the last song of her last EP "Polylust". Does she run out something, or does she keep searching ? It's that kind of questions she ask herself. It's maybe why her music look like completly elusive. Follow her it an assurance to always be surprised.
+As a citizen of the world, recording some song in an Airbnb in Walles look totally normal for her. And it's why we must take an interest in Michelle Blades. She is the musical alegory of the world where we gonna live. No doubt about that. Look at her selection : a pheonix folk singer, a Panamanian musician politically engaged and a French pop singer. That's her life. Let's listen to her life together.  
  
-# Michelle Blades's selection:
+# Michelle Blades's life:
 
 ## Stephen Steinbrink - The Punks
 
