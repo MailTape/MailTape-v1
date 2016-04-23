@@ -22,7 +22,7 @@ track2_color: vibrant
 track3_title: "Eddy Crampes - Automne"
 track3_color: trippy
 track4_title: "Michelle Blades - New Friends"
-track4_color: dreamy
+track4_color: vibrant
 track5_title: "Agar Agar - Prettiest Virgin"
 track5_color: dreamy
 track6_title: "Vendredi Sur Mer - La Femme à la Peau Bleue"
@@ -30,8 +30,8 @@ track6_color: dreamy
 track7_title: "Fatnotronic & In Flagranti - Botoque"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/214/Michelle-Blades/"
-fbPic: ""
-musiColor: ""
+fbPic: fbPic214.jpg
+musiColor: musiColor214.png
 description: ""
 published: true
 ---
