@@ -35,17 +35,17 @@ musiColor: musiColor214.png
 description: "Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades."
 published: true
 ---
-<p id="introduction"> Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. </p>
+<p id="introduction"> Hello there, this morning we're gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in the USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades. </p>
 
 # "World, World, World, World, World"
 
-She is a great example of a work where experimentation is a finality. She could do punk, folk or electronical pop, we can detect a Michelle Blades’s style. Her muscial experiment is proportional to her life's mileage. Every gender of music created can be joined to a country, or a city, or all at once. As "New Friends", a song wrote during the attacks in November in Paris, she talks about her new friends locked up in a bar in Paris, thinking back to his old friends in Phoenix, Arizona. She choosen to use an electronical cumbia behind her lyrics. In a way, this song is a life review. 
+She is a great example of a work where experimentation is a finality. She could do punk, folk or electronical pop, we can't detect a Michelle Blades’s style. Her muscial experiment is proportional to her life's mileage. Every genre of music created can be joined to a country, or a city, or all at once. As "New Friends", a song wrote during the attacks in November in Paris, she talks about her new friends locked up in a bar in Paris, thinking back to his old friends in Phoenix, Arizona. She chose to use an electronical cumbia behind her lyrics. In a way, this song is a life review.
 
 # Haunting and elusive music
 
-"Eternal Fugitive" is the last song of her last EP "Polylust". Does she run out something, or does she keep searching ? It's that kind of questions she ask herself. It's maybe why her music look like completly elusive. Follow her is an assurance to always be surprised.
+"Eternal Fugitive" is the last song of her latest EP "Polylust". Does she run out something, or does she keep searching? It's that kind of questions she asks herself. It's maybe why her music looks like completly elusive. Following her is always full of surprises.
 
-As a citizen of the world, recording some songs in an Airbnb in Walles look totally normal for her. And it's why we must take an interest in Michelle Blades. She is the musical alegory of the world where we gonna live. No doubt about that. Look at her selection : a Phoenix folk singer, a Panamanian musician politically engaged and a French pop singer. That's her life. Let's listen to her life together.  
+As a citizen of the world, recording some songs in an Airbnb in Walles looks totally normal for her. And it's why we must take an interest in Michelle Blades. She is the musical alegory of the world where we live in. No doubt about that. Look at her selection : a Phoenix folk singer, a Panamanian musician politically engaged and a French pop singer. That's her life. Let's listen to her life together.  
  
 # Michelle Blades's life:
 
@@ -59,4 +59,4 @@ Michelle Blades: "Probably my favorite song of his. Political, folkloric, romant
 
 ## Eddy Crampes - Automne
 
-Michelle Blades: "I met Eddy while he was working on the finishing touches for Laure Briard's upcoming album. Watching him work and listening to his arrangements made me wonder what  his own work was like. I'm so glad I discovered his weird brilliant pop.  "
+Michelle Blades: "I met Eddy while he was working on the finishing touches for Laure Briard's upcoming album. Watching him work and listening to his arrangements made me wonder what his own work was like. I'm so glad I discovered his weird brilliant pop.  "
