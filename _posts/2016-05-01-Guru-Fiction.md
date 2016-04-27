@@ -14,7 +14,7 @@ track3_link: "https://soundcloud.com/tobas/a-tribe-called-quest-electric"
 track4_link: "https://soundcloud.com/gurufiction/california-1"
 track5_link: ""
 track6_link: ""
-track7_link: ""
+track7_link: "https://soundcloud.com/octave-official/silver-rain"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy
 track2_title: "Vulfpeck - Fugue State - 02 1612"
@@ -27,8 +27,8 @@ track5_title: ""
 track5_color: rough
 track6_title: ""
 track6_color: rough
-track7_title: ""
-track7_color: rough
+track7_title: Silver Rain
+track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction"
 fbPic: ""
 musiColor: ""
