@@ -21,9 +21,9 @@ track2_title: "Vulfpeck - Fugue State - 02 1612"
 track2_color: trippy
 track3_title: "A Tribe Called Quest - Electric Relaxation"
 track3_color: rough
-track4_title: California
+track4_title: "Guru-Fiction - California"
 track4_color: trippy
-track5_title: Cumbia de Mexico
+track5_title: "Cumbia - Unknown "
 track5_color: trippy
 track6_title: ""
 track6_color: rough
