@@ -27,7 +27,7 @@ track5_title: "Cumbia - Unknown "
 track5_color: vibrant
 track6_title: Ninfa De Las Aguas
 track6_color: dreamy
-track7_title: Silver Rain
+track7_title: "Octave Lissner - Silver Rain"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction"
 fbPic: ""
