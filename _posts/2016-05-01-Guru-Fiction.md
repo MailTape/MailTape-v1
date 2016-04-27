@@ -25,7 +25,7 @@ track4_title: "Guru - Fiction - California"
 track4_color: vibrant
 track5_title: "Cumbia - Unknown "
 track5_color: vibrant
-track6_title: Ninfa De Las Aguas
+track6_title: "Carolina Camacho - Ninfa De Las Aguas"
 track6_color: dreamy
 track7_title: "Octave Lissner - Silver Rain"
 track7_color: dreamy
