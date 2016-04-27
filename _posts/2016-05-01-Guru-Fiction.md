@@ -13,7 +13,7 @@ track2_link: "https://soundcloud.com/adam-morrison-1217/vulfpeck-fugue-state-02-
 track3_link: "https://soundcloud.com/tobas/a-tribe-called-quest-electric"
 track4_link: "https://soundcloud.com/gurufiction/california-1"
 track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
-track6_link: ""
+track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
 track7_link: "https://soundcloud.com/octave-official/silver-rain"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy
@@ -22,11 +22,11 @@ track2_color: trippy
 track3_title: "A Tribe Called Quest - Electric Relaxation"
 track3_color: rough
 track4_title: "Guru - Fiction - California"
-track4_color: trippy
+track4_color: vibrant
 track5_title: "Cumbia - Unknown "
-track5_color: trippy
-track6_title: ""
-track6_color: rough
+track5_color: vibrant
+track6_title: Ninfa De Las Aguas
+track6_color: dreamy
 track7_title: Silver Rain
 track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction"
