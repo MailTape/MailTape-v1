@@ -16,7 +16,7 @@ track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
 track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
 track7_link: "https://soundcloud.com/octave-official/silver-rain"
 track1_title: "Silk Rhodes - Pains"
-track1_color: dreamy
+track1_color: bliss
 track2_title: "Vulfpeck - Fugue State - 02 1612"
 track2_color: vibrant
 track3_title: "A Tribe Called Quest - Electric Relaxation"
@@ -28,7 +28,7 @@ track5_color: dreamy
 track6_title: "Carolina Camacho - Ninfa De Las Aguas"
 track6_color: dreamy
 track7_title: "Octave Lissner - Silver Rain"
-track7_color: bliss
+track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction"
 fbPic: ""
 musiColor: ""
