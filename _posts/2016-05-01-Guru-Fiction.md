@@ -39,6 +39,7 @@ published: true
 <p id="introduction">This morning, I'm not quite sure how to say it, but even if the sun's not yet on your side of the world, or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear-up the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!</p>
 
 # Experiential Knowledge 
+
 I am not certain how to feel about a group of musicians claiming that women should love their bourbon more than men or that everything they're saying is completely delirious, but I kind of love it!!
 Six, beyond talented musical artists rather audacious in their style, powered by the voice of a singer reminiscent of the excellence of soul music from the grooviest country, their music won't just invite you to dance, it will order you to feel and nest in their instrumental madness. "Guru Fiction"'s music is like a tale from above, down on earth to share their experiential knowledge. After all, isn't that what a guru is supposed to be? They sing, they play and will leave you wondering what ''the dragon'' is all about, but I guess mystery is what keeps us going upside down, sort of like that first track they chose. 
 
