@@ -37,4 +37,6 @@ published: true
 ---
 ## A New Post
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Enter text in [Markdown](http://daringfireball.net/projects/
+This morning, I am not quite sure how to say it, but even if the sun is not yet on your side of the world,or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear up the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls.That's Guru Fiction!
+/). Use the toolbar above, or click the **?** button for formatting help.
