@@ -35,6 +35,7 @@ musiColor: musiColor215.png
 description: "This morning, I am not quite sure how to say it, but even if the sun's not yet on your side of the world or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!!"
 published: true
 ---
+![GURU_3 (1).jpg]({{site.baseurl}}/img/GURU_3 (1).jpg)
 
 <p id="introduction">This morning, I'm not quite sure how to say it, but even if the sun's not yet on your side of the world, or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear-up the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!</p>
 
@@ -55,5 +56,4 @@ _Guru Fiction_: "This song inspires us because of its holy vibe. When we first h
 _Guru Fiction_: "We love this track for the killer groove, and the incredible vocal performance. The upbeat nature of the song along with the smooth arrangement and minimal instrumentation is perfect in its simplicity - goes great with bacon & eggs."
 
 ## A Tribe Called Quest - Electric Relaxation 
-_Guru Fiction_: "We chose this sound because of its raw quality and playfulness. Q-Tip never fails to bring the best samples to the table - always on point (in this track: Mystic Brew by Ronnie Foster). We also chose it to pay homage to Phife Dawg, who recently passed." 
-
+_Guru Fiction_: "We chose this sound because of its raw quality and playfulness. Q-Tip never fails to bring the best samples to the table - always on point (in this track: Mystic Brew by Ronnie Foster). We also chose it to pay homage to Phife Dawg, who recently passed."
