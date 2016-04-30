@@ -35,4 +35,25 @@ musiColor: ""
 description: "This morning, I am not quite sure how to say it, but even if the sun's not yet on your side of the world or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!!"
 published: true
 ---
-## A New Post
+
+<p id="introduction">This morning, I'm not quite sure how to say it, but even if the sun's not yet on your side of the world, or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear-up the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!</p>
+
+# Title
+
+I am not certain how to feel about a group of musicians claiming that women should love their bourbon more than men or that everything they're saying is completely delirious, but I kind of love it!!
+Six, beyond talented musical artists rather audacious in their style, powered by the voice of a singer reminiscent of the excellence of soul music from the grooviest country, their music won't just invite you to dance, it will order you to feel and nest in their instrumental madness. They sing, they play and will leave you wondering what ''the dragon'' is all about, but I guess mystery is what keeps us going upside down, sort of like the first track they chose. 
+
+Confession! I've never taken acid before, but I'll make sure to have ''Pains'' by ''Silk Rhodes'' playing on my imaginary speakers should I ever decide to go down that road. But not off the road for sure, since I'd like to keep on track and wake up to Wulpeck, a cup of early grey and a bit of a hang over by my side that is sure to disappear listening to 1612. A bit of a smooth rap, roughing it up with a classic, and you're ready for California!  Don't be shy, nobody's watching, you can dance with the purest intention of honoring this track, don't worry, I have done it more than.... well,  I'll keep that number a secret. And there it goes! The sun is out, California warmed you up for some Cumbia. This is my go to song for some emotionally powered psychedelic dancing . An anonymous track with a ''no name effect''.We slow it down a bit with ''Nifa de Las Aguas'' and end it with ''Silver Rain'' by ''Octave Lissner''. Hint,  our guest and Octave supposedly use to play together . 
+Didn't I say I was gonna make a rainbow. Silver Rain on your California Sun. 
+
+# Guru Fiction's selection:
+
+## Pains - Silk Rhodes 
+_Guru Fiction_: "This song inspires us because of its holy vibe. When we first heard it, we were all diggin' the sound of the lead guitar, backed by the uplifting strings. Reminiscent of a psychedelic trip."
+
+## Wulpeck - 1612
+_Guru Fiction_: "We love this track for the killer groove, and the incredible vocal performance. The upbeat nature of the song along with the smooth arrangement and minimal instrumentation is perfect in its simplicity - goes great with bacon & eggs."
+
+## Tribe Called Quest - Electri Relaxation 
+_Guru Fiction_: "We chose this sound because of its raw quality and playfulness. Q-Tip never fails to bring the best samples to the table - always on point (in this track: Mystic Brew by Ronnie Foster). We also chose it to pay homage to Phife Dawg, who recently passed." 
+
