@@ -20,7 +20,7 @@ track1_color: dreamy
 track2_title: "Wulfpeck - 1612"
 track2_color: vibrant
 track3_title: "A Tribe Called Quest - Electric Relaxation"
-track3_color: rough
+track3_color: dreamy
 track4_title: "Guru Fiction - California"
 track4_color: vibrant
 track5_title: "Cumbia - Unknown "
