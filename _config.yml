@@ -1,6 +1,7 @@
 name: MailTape
 markdown: kramdown
-pygments: true
+pygments: false
+highlighter: rouge
 permalink: /:categories/:title/
 timezone: Europe/Paris
 paginate: 12
