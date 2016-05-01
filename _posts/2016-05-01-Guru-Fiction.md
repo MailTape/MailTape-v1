@@ -10,7 +10,7 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic215.jpg
 track1_link: "https://soundcloud.com/stonesthrow/silk-rhodes-pains"
 track2_link: "https://soundcloud.com/adam-morrison-1217/vulfpeck-fugue-state-02-1612"
-track3_link: "https://soundcloud.com/tobas/a-tribe-called-quest-electric"
+track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/215/track3.mp3"
 track4_link: "https://soundcloud.com/gurufiction/california-1"
 track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
 track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
