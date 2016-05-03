@@ -35,21 +35,23 @@ musiColor: ""
 description: ""
 published: true
 ---
-WORK IN PROGRESS
+<p id="introduction">This morning, Nicolas Jaar is inviting you to embark on a psychedelic journey with “The Electric Prunes”.
+In reality, we are still dreaming, and this is only the start of our journey. “Al Green” is now taking your hand, painting the most idyllic, eye-catching scenery. To the sound of “Nas” our eyes finally open, allowing us to slowly motion out of bed to some samples of “James Brown”.</p>
 
-Nicolas Jaar nous invite dans un voyage psychédélique dés le réveil avec The Electric Prunes.
-En réalité, nous sommes encore en train de rêver et ceci n'est que le début de notre voyage. C'est Al Green qui nous prend maintenant la main et peint un décor idyllique sous nos yeux. Nos yeux s'ouvrent ensuite réellement avec Nas pour nous sortir du lit sur ses sample de James Brown.
+# Jump and fly
 
-Un bruit de moteur se fait entendre au travers de la fenêtre, les Laid Back nous attendent avec leur avion pour une session de parachutisme. En pleine chute libre, la voix d'Erykah Badu nous téléporte dans son vaisseau spatial. Accoudés contre l'un des hublots de la navette en orbite autour de la Lune, nous voyons celle-ci montrer son visage et commencer à chanter un titre des Man Man. Nos yeux s'ouvrent à nouveau, réalité ou rêve? Qu'importe, Danger Mouse et Jack White sont dans le salon, nous attendant pour le café.
+The noise of a motor echoes through the window, seems “Laid Back” are waiting for us with their plane, inviting us to a skydiving session. Free falling, the voice of "Erykah Badu" transports us to a space navel. Elbow leaning against the porthole, orbiting around the moon, we now see her, revealing her face, beginning to sing a single from “Man Man”. Our eyes open-up once more, is it a dream or reality? No importance, since “Danger Mouse” and “Jack White” are in the living room, waiting for us with a cup of coffee.
 
-
-THE ELECTRIC PRUNES - Holy Are You
-"This is almost my favorite song of all time."
+# Nicolas Jaar's selection:
 
 
-AL GREEN - Simply Beautiful
-"This is probably my favorite songs right now. I've been trying to make music that has this type of warmth..."
+## The Electric Prunes - Holy Are You
+_Nicolas Jaar_: **"**This is almost my favorite song of all time.**"**
 
 
-NAS - Get Down
-"Nas's album "God's Son" doesn't get enough credit - here's to that."
+## Al Green - Simply Beautiful
+_Nicolas Jaar_: **"**This is probably my favorite songs right now. I've been trying to make music that has this type of warmth...**"**
+
+
+## Nas - Get Down
+_Nicolas Jaar_: **"**Nas's album "God's Son" doesn't get enough credit - here's to that.**"**
