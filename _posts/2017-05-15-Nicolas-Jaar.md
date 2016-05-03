@@ -7,7 +7,7 @@ category: "3"
 guest_name: Nicolas Jaar
 guest_color: dreamy
 bigTitle_font_ratio: "6"
-guestPic: ""
+guestPic: guestPic3.jpg
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track1.mp3"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track2.mp3"
 track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track3.mp3"
@@ -55,3 +55,4 @@ _Nicolas Jaar_: **"**This is probably my favorite songs right now. I've been try
 
 ## Nas - Get Down
 _Nicolas Jaar_: **"**Nas's album "God's Son" doesn't get enough credit - here's to that.**"**
+
