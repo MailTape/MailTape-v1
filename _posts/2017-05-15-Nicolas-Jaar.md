@@ -1,7 +1,7 @@
 ---
 layout: episode
 author: ImaCrea
-illustrator: Anais Caura
+illustrator: William Girault
 writer: ImaCrea
 category: "3"
 guest_name: Nicolas Jaar
