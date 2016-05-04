@@ -21,7 +21,7 @@ track2_title: "Al Green - Simply Beautiful"
 track2_color: bliss
 track3_title: "Nas - Get Down"
 track3_color: vibrant
-track4_title: "Laid Back - Bakerman"
+track4_title: "Laid Back - Bakerman (Soul Clap remix)"
 track4_color: vibrant
 track5_title: "Erykah Badu - Gone Baby, Don't Be Long"
 track5_color: dreamy
