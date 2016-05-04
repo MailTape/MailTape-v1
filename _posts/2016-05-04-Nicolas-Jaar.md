@@ -16,20 +16,20 @@ track5_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track5.mp3"
 track6_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track6.mp3"
 track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track7.mp3"
 track1_title: "The Electric Prunes - Holy Are You"
-track1_color: rough
+track1_color: trippy
 track2_title: "Al Green - Simply Beautiful"
-track2_color: rough
+track2_color: bliss
 track3_title: "Nas - Get Down"
-track3_color: rough
+track3_color: vibrant
 track4_title: "Laid Back - Bakerman"
-track4_color: rough
+track4_color: vibrant
 track5_title: "Erykah Badu - Gone Baby, Don't Be Long"
-track5_color: rough
+track5_color: dreamy
 track6_title: "Man Man - Life is Fantastic"
-track6_color: rough
+track6_color: dreamy
 track7_title: "Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)"
-track7_color: rough
-episode_URL: ""
+track7_color: bliss
+episode_URL: "http://mailta.pe/3/Nicolas-Jaar/"
 fbPic: ""
 musiColor: ""
 description: ""
