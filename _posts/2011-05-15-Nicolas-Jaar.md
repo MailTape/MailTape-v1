@@ -11,7 +11,7 @@ guestPic: guestPic3.jpg
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track1.mp3"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track2.mp3"
 track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track3.mp3"
-track4_link: "https://soundcloud.com/soulclap/baker-man-edit"
+track4_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track4.mp3"
 track5_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track5.mp3"
 track6_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track6.mp3"
 track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track7.mp3"
@@ -21,7 +21,7 @@ track2_title: "Al Green - Simply Beautiful"
 track2_color: bliss
 track3_title: "Nas - Get Down"
 track3_color: vibrant
-track4_title: "Laid Back - Bakerman (Soul Clap remix)"
+track4_title: "Laid Back - Bakerman"
 track4_color: vibrant
 track5_title: "Erykah Badu - Gone Baby, Don't Be Long"
 track5_color: dreamy
