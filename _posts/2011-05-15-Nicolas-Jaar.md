@@ -5,7 +5,7 @@ illustrator: William Girault
 writer: ImaCrea
 category: "3"
 guest_name: Nicolas Jaar
-guest_color: vibrant
+guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic3.jpg
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track1.mp3"
