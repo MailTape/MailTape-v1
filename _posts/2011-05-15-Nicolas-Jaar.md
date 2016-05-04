@@ -35,7 +35,7 @@ musiColor: musiColor3.png
 description: "This morning, Nicolas Jaar is inviting you to embark on a psychedelic journey with “The Electric Prunes”. In reality, we are still dreaming, and this is only the start of our journey..."
 published: true
 ---
-<p id="introduction">This morning, Nicolas Jaar is inviting you to embark on a psychedelic journey with “The Electric Prunes”.
+<p id="introduction">This morning, [Nicolas Jaar](https://www.facebook.com/Nicolas-Jaar-15727540611/) is inviting you to embark on a psychedelic journey with “The Electric Prunes”.
 In reality, we are still dreaming, and this is only the start of our journey. “Al Green” is now taking your hand, painting the most idyllic, eye-catching scenery. To the sound of “Nas” our eyes finally open, allowing us to slowly motion out of bed to some samples of “James Brown”.</p>
 
 # Jump and fly
