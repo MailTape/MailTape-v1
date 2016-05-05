@@ -17,7 +17,7 @@ track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
 track7_link: "https://soundcloud.com/octave-official/silver-rain"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy
-track2_title: "Wulfpeck - 1612"
+track2_title: "Vulfpeck - 1612"
 track2_color: vibrant
 track3_title: "A Tribe Called Quest - Electric Relaxation"
 track3_color: dreamy
