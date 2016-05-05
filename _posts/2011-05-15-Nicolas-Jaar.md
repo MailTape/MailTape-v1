@@ -14,7 +14,7 @@ track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track3.mp3"
 track4_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track4.mp3"
 track5_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track5.mp3"
 track6_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track6.mp3"
-track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/3/track7.mp3"
+track7_link: ""
 track1_title: "The Electric Prunes - Holy Are You"
 track1_color: trippy
 track2_title: "Al Green - Simply Beautiful"
