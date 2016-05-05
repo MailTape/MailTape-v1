@@ -161,6 +161,7 @@ $(document).ready(
 
 	// array contenant les fichiers audios qui ne viendraient pas de soundcloud
 		var audios=[];
+		var externalAudioCount=0;
 
 		function getTracksDuration () {
 			var count = tracksURL.length;
@@ -180,16 +181,22 @@ $(document).ready(
 					});
 				}
 				else { // dans le cas où le fichier ne provient pas de soundcloud
-					audios[i] = new Audio(trackURL);
-					audios[i].addEventListener('canplaythrough', function() {
-						// alert("trackURL: "+audios[i].src+" duration: "+audios[i].duration);
-						//console.log("AMZ shit: "+Math.round(audios[i].duration));
-					    tracksDuration[i]=Math.round(audios[i].duration);
-						count--;
-						if (count == 0) { //we got all answers (thx Bluxte!)
-							setTracksWidth(tracksDuration);
-						}
-					});
+					externalAudioCount++;
+					// console.log("nombre de sons hebergés à l'extérieur: "+externalAudioCount);
+					if (externalAudioCount < 6) {
+						audios[i] = new Audio(trackURL);
+						// console.log("socket "+i+" utilisé");
+						audios[i].addEventListener('canplaythrough', function() {
+							// alert("trackURL: "+audios[i].src+" duration: "+audios[i].duration);
+							//console.log("AMZ shit: "+Math.round(audios[i].duration));
+						    tracksDuration[i]=Math.round(audios[i].duration);
+							count--;
+							if (count == 0) { //we got all answers (thx Bluxte!)
+								setTracksWidth(tracksDuration);
+							}
+						});
+					}
+					else console.warn("Simulatenous socket limitation reached. Won't be able to display musiColor with proportion relative to audio duration.");
 				}
 			});
 		}

@@ -49,7 +49,7 @@ function PagePlayer() {
     playNext: true,         // stop after one sound, or play through list until end
     updatePageTitle: true,  // change the page title while playing sounds
     emptyTime: '-:--',      // null/undefined timer values (before data is available)
-    useFavIcon: false       // try to show peakData in address bar (Firefox + Opera) - may be too CPU heavy
+    useFavIcon: false,      // try to show peakData in address bar (Firefox + Opera) - may be too CPU heavy
   };
 
   // Use local storage or create dynamic object
@@ -356,6 +356,7 @@ function PagePlayer() {
       pl.handleClick({target:nextItem}); // fake a click event - aren't we sneaky. ;)
     } else {
       console.log("nonextitem");
+      
       if (self.autoLoop()) {
         pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]}); // autoloop
       }
