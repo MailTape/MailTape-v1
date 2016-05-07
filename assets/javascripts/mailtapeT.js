@@ -305,10 +305,27 @@ $(document).ready(
 		        });
 		        setTimeout(function() {
 	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow');
-				}, 5000);
+				}, 4000);
 		    }
 		}
 
+		//	plugin d'ajaxification du formulaire mailchimp dans la modale topbar sub (learnMore desktop)
+
+		$('#mc-form-learnMore').ajaxChimp({
+	    	callback: callbackFunctionLearnMore
+	    });
+
+	    function callbackFunctionLearnMore (resp) {
+		    if (resp.result == 'success') {
+		    	var prenom = $( "#mc-form-learnMore #mc-PRENOM" ).val();
+		        $('#mc-form-learnMore').fadeOut('fast', function() {
+		        	$('#mc-form-learnMore-textIntro').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
+		        });
+		       	setTimeout(function() {
+	    			$('#topLearnMoreModal').modal('hide');
+				}, 4000);
+		    }
+		}
 
 	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
 

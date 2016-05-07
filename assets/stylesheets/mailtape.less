@@ -126,9 +126,74 @@ body {
 		cursor: pointer;
 		}
 	}
+}
 
-	#topLearnMore {
-		margin: 0 0 0 1rem;
+#topLearnMore {
+	margin: 0 0 0 1rem;
+}
+
+#topLearnMoreModal {
+
+	text-align: right;
+	font-size: 0.618rem;
+	margin: 0.5em 0;
+	overflow: hidden;
+	p {
+		display: inline;
+	}
+	form {
+		display: inline;
+	}
+	label {
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
+			font-weight: 300;
+		}
+
+	input {
+			font-family: "freight-neo-pro","Helvetica Neue",Helvetica,Arial;
+			font-weight: 300;
+			.rounded-corners;
+			margin:0 0.1rem 0 0;
+			background: rgba(237, 237, 237, 1.0000);
+			border: none;
+			padding: 0.1rem 0.3rem;
+
+			&:first-of-type {
+				width: 30%;
+			}
+		}
+
+	label {
+		&.error {
+			color: red;
+			display: inline !important;
+		}
+		&.valid {display: none;}
+		display: inline;
+		margin-left: 0.5rem;
+		font-size: 0.8rem;
+	}
+
+	button {
+	background: rgba(237, 237, 237, 1.0000);
+	color: &lighterGrey;
+	padding: 0.1rem 0.5rem;
+	font-family: 'superspitze_groteskregular';
+	font-size: 1em;
+	text-align:center;
+	.rounded-corners;
+	.transition;
+	border:none;
+
+		@media only screen and (min-width: 0px) and (max-width: 767px) {
+		margin-top: 0.5rem;
+	}
+
+		&:hover {
+		color: rgba(237, 237, 237, 1.0000);
+		background: rgba(58, 64, 64, 1.0000);
+		cursor: pointer;
+		}
 	}
 }
 
