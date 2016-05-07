@@ -11,3 +11,7 @@ We're a not-for-profit art collective.
 Coded with love in Berlin, Toulouse and Paris.
 
 ImaCrea.
+
+You're coder?
+==========
+Feel free to make a pull request, we're very open to collaboration :)
