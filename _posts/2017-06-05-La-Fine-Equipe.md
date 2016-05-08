@@ -18,11 +18,16 @@ track5_title: "Thundercat - For Love I Come"
 track5_link: "https://soundcloud.com/flyinglotus/thundercat-for-love-i-come"
 track6_link: "https://soundcloud.com/theaspirinsformychildren/tafmc-cutter-2010"
 track6_title: "Aspirin's For My Children - Cutter"
-track7_link: "https://soundcloud.com/classixx/into-the-valley-julio-bashmore"
+track7_link: "https://soundcloud.com/greenlabelsound/classixx-feat-karl-dixon-into"
 track7_title: "Classixx - Into the Valley (Julio Bashmore remix)"
 episode_URL: "http://mailta.pe/6/La-Fine-Equipe/"
 fbPic: fbPic6.jpg
 musiColor: musiColor6.png
+track1_color: vibrant
+track2_color: rough
+track4_color: dreamy
+track5_color: trippy
+track6_color: trippy
 ---
 <p id="introduction">La Fine Equipe commence fort avec Stevie Wonder qui vient éclairer notre chambre de bon matin tels les premiers rayons de soleils. Nous allons prendre ensuite une douche en écoutant Amon Tobin, les gouttes d'eau s'échappent du pommeau au ralenti et chacun de leur éclat se fait sentir au contact de notre peau. Le temps passe, on ne sait même plus depuis combien de temps on se pavane sous le jet d'eau chaude parcourant nos cheveux tels des chevaux galopant vers la liberté. Retour à la réalité, Madvillain pose son rythme, son flow, il est temps de se faire un café.</p>
 
