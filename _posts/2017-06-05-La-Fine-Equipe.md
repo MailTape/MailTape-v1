@@ -12,6 +12,19 @@ track1_title: "Stevie Wonder - Living for the Ciry"
 track2_link: "https://soundcloud.com/skug-1/amon-tobin-slowly"
 track2_title: "Amon Tobin - Slowly"
 ---
-## A New Post
+La Fine Equipe commence fort avec Stevie Wonder qui vient éclairer notre chambre de bon matin tels les premiers rayons de soleils. Nous allons prendre ensuite une douche en écoutant Amon Tobin, les gouttes d'eau s'échappent du pommeau au ralenti et chacun de leur éclat se fait sentir au contact de notre peau. Le temps passe, on ne sait même plus depuis combien de temps on se pavane sous le jet d'eau chaude parcourant nos cheveux tels des chevaux galopant vers la liberté. Retour à la réalité, Madvillain pose son rythme, son flow, il est temps de se faire un café.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+John Williams s'installe à nos côtés et ouvre délicatement une porte dérobée du salon d'où une lumière intense provient. Thundercat est là, assis sur son nuage flottant dans les airs et nous tend la main en guise d'invitation. Un bruit sourd se fait entendre au loin tel un hélicoptère s'approchant : le nuage s'évapore, la chute est brutale. Le monde est en 2D, nous sommes transportés dans un Super Mario version Aspirins, de blocs en champignons nous plongeons droit dans le premier tuyau trouvé. Les pixels défilent sous nos pieds laissant place à la chaleur du sable, le soleil nous éblouit. Une sensation étrange dans nos cheveux, on découvre alors des lunettes de soleils sur notre tête. Les verres fumés dévoilent enfin une foule en délire autour de nous prête à faire la fête tout l'été sur le son des Classixx.
+
+STEVIE WONDER - Living for the City
+oOgo:"Si je ne dois citer qu'un seul son je dirais "Living for The City" de Stevie Wonder. On y retrouve pour moi l'équilibre parfait entre émotion et groove, les mélodies sont superbes, il y a refrain toutes les 2 mesures!
+Je trouve plus généralement la musique de Stevie tres forte, c'est une musique universelle très accessible et très pointue à la fois, ce qui est plutôt rare."
+
+
+AMON TOBIN - Slowly
+Blanka:"J'adore ce son et l'ambiance qu'il dégage en plus ça a été la musique d'une vidéo de skate que j'adorais à l'époque donc il me rappelle pleins de bon souvenirs."
+
+
+MADVILLAIN - Figaro
+Chomsk':"Une de mes plus grosses claques ces dernières années fut l'album de Madlib & Mf Doom "Madvillain".
+Ca m'a fait prendre un véritable virage dans mon parcoure musical, si je ne dois en choisir qu'un je dirais "Figaro". "
