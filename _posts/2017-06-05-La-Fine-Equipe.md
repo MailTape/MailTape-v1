@@ -41,7 +41,8 @@ John Williams takes place by our side and gently opens an hidden door from where
 # La Fine Équipe's dope selection : 
 
 ## STEVIE WONDER - Living for the City
-_oOgo_: **"**If I have to name only one track, I would say "Living for the City" by Stevie Wonder. For me, it's the perfect balance between emotions and groove, the melodies are splendid and every two bars, there's a chorus!**"**
+_oOgo_: **"**If I have to name only one track, I would say "Living for the City" by Stevie Wonder. For me, it's the perfect balance between emotions and groove, the melodies are splendid and every two bars, there's a chorus!
+Actually, I find Stevie's music really powerful, it's a universal music both really accessible and really refined, which is rather uncommun.**"**
 
 
 ## AMON TOBIN - Slowly
