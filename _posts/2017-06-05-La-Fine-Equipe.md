@@ -32,26 +32,24 @@ track7_color: bliss
 track3_color: rough
 guest_color: rough
 ---
-<p id="introduction">La Fine Equipe commence fort avec Stevie Wonder qui vient éclairer notre chambre de bon matin tels les premiers rayons de soleils. Nous allons prendre ensuite une douche en écoutant Amon Tobin, les gouttes d'eau s'échappent du pommeau au ralenti et chacun de leur éclat se fait sentir au contact de notre peau. Le temps passe, on ne sait même plus depuis combien de temps on se pavane sous le jet d'eau chaude parcourant nos cheveux tels des chevaux galopant vers la liberté. Retour à la réalité, Madvillain pose son rythme, son flow, il est temps de se faire un café.</p>
+<p id="introduction">This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain set his rythmn, his flow, it's time to brew some coffee.</p>
 
-# 
+# The Great Escape
 
-John Williams s'installe à nos côtés et ouvre délicatement une porte dérobée du salon d'où une lumière intense provient. Thundercat est là, assis sur son nuage flottant dans les airs et nous tend la main en guise d'invitation. Un bruit sourd se fait entendre au loin tel un hélicoptère s'approchant : le nuage s'évapore, la chute est brutale. Le monde est en 2D, nous sommes transportés dans un Super Mario version Aspirins, de blocs en champignons nous plongeons droit dans le premier tuyau trouvé. Les pixels défilent sous nos pieds laissant place à la chaleur du sable, le soleil nous éblouit. Une sensation étrange dans nos cheveux, on découvre alors des lunettes de soleils sur notre tête. Les verres fumés dévoilent enfin une foule en délire autour de nous prête à faire la fête tout l'été sur le son des Classixx.
+John Williams takes place by our side and gently opens an hidden door from where an intense light spring from. Thundercat is here, sitting on a a cloud floating in the air and hold out his hand as an invitation. We hear a dull sound in the distance like an approching helicopter : the cloud dissipate, the fall is abrupt. The world is now in 2D, we are carried to a Aspirin's Super Mario version, from blocks to mushrooms we dive into the first found pipe. Pixels pass before us giving way to hot sand, the sun dazzle us. A strange sensation in our hair, we find sunglasses on our head. The smoked glasses unveil a wild crowd around us ready to party all summer to Classixx's track.
 
 # La Fine Équipe's dope selection : 
 
 ## STEVIE WONDER - Living for the City
-_oOgo_:**"**Si je ne dois citer qu'un seul son je dirais "Living for The City" de Stevie Wonder. On y retrouve pour moi l'équilibre parfait entre émotion et groove, les mélodies sont superbes, il y a refrain toutes les 2 mesures!
-Je trouve plus généralement la musique de Stevie tres forte, c'est une musique universelle très accessible et très pointue à la fois, ce qui est plutôt rare.**"**
+_oOgo_:**"**If I have to name only one track, I would say "Living for the City" by Stevie Wonder. For me, it's the perfect balance between emotions and groove, the melodies are splendid and every two bars, there's a chorus!**"**
 
 
 ## AMON TOBIN - Slowly
-_Blanka_:**"**J'adore ce son et l'ambiance qu'il dégage en plus ça a été la musique d'une vidéo de skate que j'adorais à l'époque donc il me rappelle pleins de bon souvenirs.**"**
+_Blanka_:**"**I love this son and the atmosphere it brings out. Also, it's the music of a skate video I used to love at the time so it brings back lots of good memories.**"**
 
 
 ## MADVILLAIN - Figaro
-_Chomsky_:**"**Une de mes plus grosses claques ces dernières années fut l'album de Madlib & Mf Doom "Madvillain".
-Ca m'a fait prendre un véritable virage dans mon parcoure musical, si je ne dois en choisir qu'un je dirais "Figaro".**"**
+_Chomsky_:**"**One of the biggest slaps in my face those past years was Madlib @ MF Doom's album, "Madvillain". It made me take a whole new shift in my musical course, if I have to choose one, I would say "Figaro".**"**
 
 <p id="outroduction">
-That's all folks, thanks to [La Fine Équipe]() for their deep selection.</p>
+That's all folks, thanks to [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) for their terrific selection.</p>
