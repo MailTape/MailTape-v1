@@ -30,6 +30,7 @@ track5_color: trippy
 track6_color: trippy
 track7_color: bliss
 track3_color: rough
+guest_color: rough
 ---
 <p id="introduction">La Fine Equipe commence fort avec Stevie Wonder qui vient éclairer notre chambre de bon matin tels les premiers rayons de soleils. Nous allons prendre ensuite une douche en écoutant Amon Tobin, les gouttes d'eau s'échappent du pommeau au ralenti et chacun de leur éclat se fait sentir au contact de notre peau. Le temps passe, on ne sait même plus depuis combien de temps on se pavane sous le jet d'eau chaude parcourant nos cheveux tels des chevaux galopant vers la liberté. Retour à la réalité, Madvillain pose son rythme, son flow, il est temps de se faire un café.</p>
 
