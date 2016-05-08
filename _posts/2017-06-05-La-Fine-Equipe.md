@@ -41,15 +41,15 @@ John Williams takes place by our side and gently opens an hidden door from where
 # La Fine Équipe's dope selection : 
 
 ## STEVIE WONDER - Living for the City
-_oOgo_:**"**If I have to name only one track, I would say "Living for the City" by Stevie Wonder. For me, it's the perfect balance between emotions and groove, the melodies are splendid and every two bars, there's a chorus!**"**
+_oOgo_: **"**If I have to name only one track, I would say "Living for the City" by Stevie Wonder. For me, it's the perfect balance between emotions and groove, the melodies are splendid and every two bars, there's a chorus!**"**
 
 
 ## AMON TOBIN - Slowly
-_Blanka_:**"**I love this son and the atmosphere it brings out. Also, it's the music of a skate video I used to love at the time so it brings back lots of good memories.**"**
+_Blanka_: **"**I love this son and the atmosphere it brings out. Also, it's the music of a skate video I used to love at the time so it brings back lots of good memories.**"**
 
 
 ## MADVILLAIN - Figaro
-_Chomsky_:**"**One of the biggest slaps in my face those past years was Madlib @ MF Doom's album, "Madvillain". It made me take a whole new shift in my musical course, if I have to choose one, I would say "Figaro".**"**
+_Chomsky_: **"**One of the biggest slaps in my face those past years was Madlib @ MF Doom's album, "Madvillain". It made me take a whole new shift in my musical course, if I have to choose one, I would say "Figaro".**"**
 
 <p id="outroduction">
 That's all folks, thanks to [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) for their terrific selection.</p>
