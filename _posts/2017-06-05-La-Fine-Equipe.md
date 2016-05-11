@@ -6,7 +6,7 @@ author: ImaCrea
 writer: ImaCrea
 category: "6"
 guest_name: La Fine Équipe
-guestPic: guestPic6.jpg
+guestPic: guestPic6b.jpg
 track1_link: "https://soundcloud.com/yiddlegyrl/stevie-wonder-living-for-the-2"
 track1_title: "Stevie Wonder - Living for the Ciry"
 track2_link: "https://soundcloud.com/skug-1/amon-tobin-slowly"
