@@ -33,11 +33,11 @@ track3_color: rough
 guest_color: rough
 track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/6/track3.mp3"
 ---
-<p id="introduction">This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain set his rythmn, his flow, it's time to brew some coffee.</p>
+<p id="introduction">This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain sets his rythmn, his flow, it's time to brew some coffee.</p>
 
 # The Great Escape
 
-John Williams takes place by our side and gently opens an hidden door from where an intense light spring from. Thundercat is here, sitting on a a cloud floating in the air and hold out his hand as an invitation. We hear a dull sound in the distance like an approching helicopter : the cloud dissipate, the fall is abrupt. The world is now in 2D, we are carried to a Aspirin's Super Mario version, from blocks to mushrooms we dive into the first found pipe. Pixels pass before us giving way to hot sand, the sun dazzle us. A strange sensation in our hair, we find sunglasses on our head. The smoked glasses unveil a wild crowd around us ready to party all summer to Classixx's track.
+John Williams takes place by our side and gently opens a hidden door from where an intense light spring from. Thundercat is here, sitting on a a cloud floating in the air and hold out his hand as an invitation. We hear a dull sound in the distance like an approaching helicopter: the cloud dissipate, the fall is abrupt. The world is now in 2D, we are carried to an Aspirin's Super Mario version, from blocks to mushrooms we dive into the first found pipe. Pixels pass before us giving way to hot sand, the sun dazzle us. A strange sensation in our hair, we find sunglasses on our head. The smoked glasses unveil a wild crowd around us ready to party all summer to Classixx's track.
 
 # La Fine Équipe's dope selection : 
 
