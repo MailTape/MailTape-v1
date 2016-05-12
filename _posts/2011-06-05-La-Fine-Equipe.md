@@ -32,6 +32,7 @@ track7_color: bliss
 track3_color: rough
 guest_color: rough
 track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/6/track3.mp3"
+illustrator: William Girault
 ---
 <p id="introduction">This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain sets his rythmn, his flow, it's time to brew some coffee.</p>
 
