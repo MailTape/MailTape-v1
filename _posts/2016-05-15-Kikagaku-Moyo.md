@@ -33,9 +33,11 @@ track6_color: vibrant
 track7_link: "https://soundcloud.com/reptile-youth-cph/03-keep-on-moving?in=reptile-youth-cph/sets/away-ep"
 track7_title: "Reptile Youth - Keep On Moving"
 ---
-<p id="introduction">This sunday,</p>
+<p id="introduction">This sunday, </p>
 
 # Ageless sounds...
+![kika_00000.jpg]({{site.baseurl}}/img/kika_00000.jpg)
+![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
 
    
  
