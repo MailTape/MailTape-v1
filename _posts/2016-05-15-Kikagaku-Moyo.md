@@ -17,7 +17,7 @@ illustrator: Anais Caura
 writer: Louise
 category: "217"
 guest_name: Kikagaku Moyo
-guestPic: guestPic217.jpg
+guestPic: guestPic217_no.jpg
 track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss
@@ -34,6 +34,7 @@ track7_link: "https://soundcloud.com/reptile-youth-cph/03-keep-on-moving?in=rept
 track7_title: "Reptile Youth - Keep On Moving"
 description: "This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think."
 ---
+![guestPic217_no.jpg]({{site.baseurl}}/img/guestPic217_no.jpg)
 <p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). It's time to stop and think. </p>
 
 # 
