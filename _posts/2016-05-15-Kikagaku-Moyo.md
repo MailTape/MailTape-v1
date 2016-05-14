@@ -19,7 +19,7 @@ musiColor: musiColor217.png
 
 It’s almost impossible to resist the pull with which “Mortel” by Fishbach drags you to the era of the 80s or so it seems. The melancholy in it speaks for itself and is easily identifiable; the coldness, however, sets a specific tone that seems to stir a cluster of emotions… Overall, Fishbach flawlessly seems to uphold and deliver the promise of a young budding artist with ageless sounds.   
  
-# 's selection:
+# Kikagaku Moyo's selection:
 
 ## Matthewdavid's Mindflight - Orange Ganesh
 I often listen to this ambient/new age side album. It's good for meditation
