@@ -17,7 +17,7 @@ illustrator: Anais Caura
 writer: Louise
 category: "217"
 guest_name: Kikagaku Moyo
-guestPic: guestPic217_no.jpg
+guestPic: guestPic217.jpg
 track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss
