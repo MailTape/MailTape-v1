@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: "6"
-published: false
+published: true
 track1_link: "https://soundcloud.com/leavingrecords/matthewdavids-mindflight-orange-ganesh"
 track2_link: "https://soundcloud.com/gurugurubrain/ramayana-soul-jaya-raga-jiwa-mirangga-bhineka-tunggal-ika"
 track3_link: "https://soundcloud.com/noquarterrex/the-ballad-of-freer-hollow-by-chris-forsyth-the-solar-motel-band"
