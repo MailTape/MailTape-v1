@@ -34,8 +34,6 @@ track7_link: "https://soundcloud.com/reptile-youth-cph/03-keep-on-moving?in=rept
 track7_title: "Reptile Youth - Keep On Moving"
 description: "This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think."
 ---
-![fbPic217.jpg]({{site.baseurl}}/img/fbPic217.jpg)
-
 <p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). It's time to stop and think. </p>
 
 # 
