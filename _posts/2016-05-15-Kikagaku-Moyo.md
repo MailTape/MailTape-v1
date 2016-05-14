@@ -8,7 +8,7 @@ track3_link: "https://soundcloud.com/noquarterrex/the-ballad-of-freer-hollow-by-
 track1_title: "Matthewdavid's Mindflight - Orange Ganesh"
 track2_title: "Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika"
 track3_title: "Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow"
-track4_title: "Kikagaku Moyo - Silver Owl"
+track4_title: "Kikagaku Moyo - Kogarashi"
 episode_URL: "http://mailta.pe/217/Kikagaku-Moyo/"
 fbPic: fbPic217.jpg
 musiColor: musiColor217.png
@@ -22,7 +22,7 @@ track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss
 track4_color: dreamy
-track4_link: "https://soundcloud.com/gurugurubrain/kikagaku-moyo-silver-owl-1"
+track4_link: "https://soundcloud.com/gurugurubrain/kikagaku-moyo-kogarashi"
 track7_color: bliss
 track5_link: "https://soundcloud.com/fil-bo-riva/like-eye-did"
 track5_color: bliss
