@@ -34,6 +34,7 @@ track7_link: "https://soundcloud.com/reptile-youth-cph/03-keep-on-moving?in=rept
 track7_title: "Reptile Youth - Keep On Moving"
 description: "This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think."
 ---
+![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
 <p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts. </p>
 
 # Until the sun sets
