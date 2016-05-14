@@ -35,7 +35,8 @@ track7_title: "Reptile Youth - Keep On Moving"
 ---
 <p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). It's time to stop and think. </p>
 
-# Rising sun
+# Rising sun![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
+
 
    
  
