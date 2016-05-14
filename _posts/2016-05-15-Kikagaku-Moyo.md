@@ -23,12 +23,13 @@ track2_color: dreamy
 track3_color: bliss
 track4_color: dreamy
 track4_link: "https://soundcloud.com/gurugurubrain/kikagaku-moyo-silver-owl-1"
-track7_link: "https://soundcloud.com/fil-bo-riva/like-eye-did"
-track7_title: "Fil Bo Riva - Like Eye Did"
 track7_color: bliss
-track5_link: "https://soundcloud.com/heavenlyrecordings/move-with-the-season-1?in=heavenlyrecordings/sets/sun-structures-1"
-track5_title: "Temples - Move With The Seasons"
-track5_color: vibrant
+track5_link: "https://soundcloud.com/fil-bo-riva/like-eye-did"
+track5_color: bliss
+track6_link: "https://soundcloud.com/heavenlyrecordings/move-with-the-season-1?in=heavenlyrecordings/sets/sun-structures-1"
+track6_title: "Temples - Move With The Seasons"
+track5_title: "Fil Bo Riva - Like Eye Did"
+track6_color: vibrant
 ---
 <p id="introduction">This sunday, it’s time to relive some of our memories from the past as well as to create a handful for the future. Our pick of the week, [Fishbach](https://fishbach.bandcamp.com/releases), is all set to do so by engaging you in a playlist that will instantly liven you up.</p>
 
