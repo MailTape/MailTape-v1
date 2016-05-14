@@ -35,7 +35,8 @@ track7_title: "Reptile Youth - Keep On Moving"
 description: "This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think."
 guest_color: dreamy
 ---
-<p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts.</p>
+<p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts.</p>![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
+
 
 # Until the sun sets
 
