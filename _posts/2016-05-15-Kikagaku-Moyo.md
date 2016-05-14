@@ -12,6 +12,12 @@ track4_title: "Kikagaku Moyo - "
 episode_URL: "http://mailta.pe/217/Kikagaku-Moyo/"
 fbPic: fbPic217.jpg
 musiColor: musiColor217.png
+author: Louise
+illustrator: Anais Caura
+writer: Louise
+category: "217"
+guest_name: Kikagaku Moyo
+guestPic: guestPic217.jpg
 ---
 <p id="introduction">This sunday, it’s time to relive some of our memories from the past as well as to create a handful for the future. Our pick of the week, [Fishbach](https://fishbach.bandcamp.com/releases), is all set to do so by engaging you in a playlist that will instantly liven you up.</p>
 
