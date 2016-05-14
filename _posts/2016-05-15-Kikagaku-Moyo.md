@@ -37,7 +37,7 @@ track7_title: "Reptile Youth - Keep On Moving"
 
 # 
 
-![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
+![guestPic217.jpg](/img/guestPic217.jpg)
 
  
 # Kikagaku Moyo's selection:
