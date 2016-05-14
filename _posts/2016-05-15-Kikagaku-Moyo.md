@@ -36,8 +36,6 @@ track7_title: "Reptile Youth - Keep On Moving"
 <p id="introduction">This sunday, </p>
 
 # Ageless sounds...
-![kika_00000.jpg]({{site.baseurl}}/img/kika_00000.jpg)
-![guestPic217.jpg]({{site.baseurl}}/img/guestPic217.jpg)
 
    
  
