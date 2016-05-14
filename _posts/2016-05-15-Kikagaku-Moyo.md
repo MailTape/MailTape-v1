@@ -5,6 +5,13 @@ published: false
 track1_link: "https://soundcloud.com/leavingrecords/matthewdavids-mindflight-orange-ganesh"
 track2_link: "https://soundcloud.com/gurugurubrain/ramayana-soul-jaya-raga-jiwa-mirangga-bhineka-tunggal-ika"
 track3_link: "https://soundcloud.com/noquarterrex/the-ballad-of-freer-hollow-by-chris-forsyth-the-solar-motel-band"
+track1_title: "Matthewdavid's Mindflight - Orange Ganesh"
+track2_title: "Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika"
+track3_title: "Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow"
+track4_title: "Kikagaku Moyo - "
+episode_URL: "http://mailta.pe/217/Kikagaku-Moyo/"
+fbPic: fbPic217.jpg
+musiColor: musiColor217.png
 ---
 <p id="introduction">This sunday, it’s time to relive some of our memories from the past as well as to create a handful for the future. Our pick of the week, [Fishbach](https://fishbach.bandcamp.com/releases), is all set to do so by engaging you in a playlist that will instantly liven you up.</p>
 
