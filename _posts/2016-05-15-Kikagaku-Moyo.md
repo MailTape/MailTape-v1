@@ -53,4 +53,4 @@ _Kotsu Guy_: **"**I like tropical feeling in this song. They are good musicians 
 ## Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow
 _Kotsu Guy_: **"**Endless epic jam for Sunday morning. Recently I found this band. This is favourite track in their songs.**"**
 
-<p id="outroduction">That's all folks! Thanks for your support and shout out to [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts) for their selection! </p>
+<p id="outroduction">That's all folks! Thanks for your support and shout out to [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts) for their selection!</p>
