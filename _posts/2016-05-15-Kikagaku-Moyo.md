@@ -13,7 +13,7 @@ episode_URL: "http://mailta.pe/217/Kikagaku-Moyo/"
 fbPic: fbPic217.jpg
 musiColor: musiColor217.png
 author: Louise
-illustrator: Camille Célestin
+illustrator: Anais Caura
 writer: Louise
 category: "217"
 guest_name: Kikagaku Moyo
