@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: "6"
 published: false
+author: ImaCrea
+illustrator: Camille Célestin
+writer: ImaCrea
+category: "218"
+guest_name: Nicola Cruz
+guest_color: dreamy
 ---
 <p id="introduction">This morning, Nicolas Cruz</p>
 
