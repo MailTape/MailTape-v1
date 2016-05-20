@@ -8,6 +8,13 @@ writer: ImaCrea
 category: "218"
 guest_name: Nicola Cruz
 guest_color: dreamy
+track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track1.mp3"
+track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track2.mp3"
+track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track3.mp3"
+track4_link: "https://soundcloud.com/nicolacruz/05-prender-el-alma"
+track5_link: "https://soundcloud.com/tait_00/future-islands-seasons-waiting-on-you-badbadnotgood-reinterpretation"
+track6_link: "https://soundcloud.com/crackirecords/ma3-overseas-v2-1"
+track7_link: "https://soundcloud.com/grynpyret/sets/secret-songs"
 ---
 <p id="introduction">This morning, Nicolas Cruz</p>
 
