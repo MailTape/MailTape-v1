@@ -24,4 +24,4 @@ _Nicola Cruz_: **"**Beautiful harmonies to start the day: warm analogue sound in
 _Nicola Cruz_: **"**A little bit of romance and songwriting skills from this one. Soothing Brazilian influenced rhythms and colours to get into the shower.**"**
 
 
-<p id="outroduction">That's all folks! Thanks for your support and shout out to [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts) for their selection!</p>
+<p id="outroduction">That's all folks! Thanks for your support and shout out to [Nicola Cruz](https://www.facebook.com/nicolacruzz) for their selection!</p>
