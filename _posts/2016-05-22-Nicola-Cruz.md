@@ -28,7 +28,7 @@ track3_color: vibrant
 track4_color: dreamy
 track5_color: bliss
 track6_color: vibrant
-track7_color: vibrant
+track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 ---
 <p id="introduction">This morning, Nicolas Cruz</p>
