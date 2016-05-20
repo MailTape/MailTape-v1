@@ -3,22 +3,25 @@ layout: episode
 bigTitle_font_ratio: "6"
 published: false
 ---
-<p id="introduction">This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts). Let the songs overwhelm your soul, once more, you will be amazed by the power of music to stop time and submerge your thoughts.</p>
+<p id="introduction">This morning, Nicolas Cruz</p>
 
-# Until the sun sets
+# Cruzzzzzz
 
-Kikagaku Moyo's music has something hypnotic. With their brand new album _[House in the Tall Grass](https://geometricpatterns.bandcamp.com/album/house-in-the-tall-grass)_, the band offers yet another journey in a universe full of good vibes, sooting souls and calming wild spirits. Let them access your psyche for a while, lay down on your bed and push play.
+Nicolas Cruz
  
-# Kikagaku Moyo's selection:
+# Nicola Cruz's selection:
 
-## Matthewdavid's Mindflight - Orange Ganesh
-_Kotsu Guy_: **"**I often listen to this ambient/new age side album. It's good for meditation
-or astral projection. If I wake up too early on sunday morning, I'll go back to sleep and play this kind of music.**"**
+## Radiohead - Daydreaming
 
-## Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika
-_Kotsu Guy_: **"**I like tropical feeling in this song. They are good musicians from Indonesia. Their album was released from our label, Guruguru Brain.**"**
+_Nicola Cruz_: **"**This song from the new album of Radiohead is perfect the perfect transition for landing night dreams. Is one of those songs I listen to while still on bed, looking up the ceiling with my eyes open.**"**
 
-## Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow
-_Kotsu Guy_: **"**Endless epic jam for Sunday morning. Recently I found this band. This is favourite track in their songs.**"**
+## Kaitlyn Aurelia Smith - Labyrinth II
+
+_Nicola Cruz_: **"**Beautiful harmonies to start the day: warm analogue sound inspires to be creative in music and in life. It all seems like is going to be a sunny one.**"**
+
+## Devendra Banhart - Santa Maria da Feira
+
+_Nicola Cruz_: **"**A little bit of romance and songwriting skills from this one. Soothing Brazilian influenced rhythms and colours to get into the shower.**"**
+
 
 <p id="outroduction">That's all folks! Thanks for your support and shout out to [Kikagaku Moyo](https://www.facebook.com/kikagakumoyo/?fref=ts) for their selection!</p>
