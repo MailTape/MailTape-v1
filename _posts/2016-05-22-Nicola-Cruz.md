@@ -15,6 +15,21 @@ track4_link: "https://soundcloud.com/nicolacruz/05-prender-el-alma"
 track5_link: "https://soundcloud.com/tait_00/future-islands-seasons-waiting-on-you-badbadnotgood-reinterpretation"
 track6_link: "https://soundcloud.com/crackirecords/ma3-overseas-v2-1"
 track7_link: "https://soundcloud.com/grynpyret/sets/secret-songs"
+track1_title: "Radiohead - Daydreaming"
+track2_title: "Kaitlyn Aurelia Smith - Labyrinth II"
+track3_title: "Devendra Banhart - Santa Maria da Feira"
+track4_title: " Nicola Cruz - Prender El Alma "
+track5_title: "Future Islands - Seasons (BBNG Reinterpretation)"
+track6_title: " Ménage à Trois - Overseas "
+track7_title: "Grynpyret - A Song About Naps"
+track1_color: dreamy
+track2_color: dreamy
+track3_color: vibrant
+track4_color: dreamy
+track5_color: bliss
+track6_color: vibrant
+track7_color: trippy
+episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 ---
 <p id="introduction">This morning, Nicolas Cruz</p>
 
