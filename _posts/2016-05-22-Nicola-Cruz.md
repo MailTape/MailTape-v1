@@ -31,6 +31,9 @@ track6_color: vibrant
 track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 guestPic: guestPic218.jpg
+fbPic: fbPic218.jpg
+musiColor: musiColor218.png
+description: "This morning, we’re taking you on a walk in the forest. Our guest Nicola Cruz shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew world music? Well, think again."
 ---
 <p id="introduction">This morning, we’re taking you on a walk in the forest. Our guest [Nicola Cruz](https://www.facebook.com/nicolacruzz/) shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with [Nicolas Jaar](http://mailta.pe/3/Nicolas-Jaar/) and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.</p>
 
@@ -45,6 +48,7 @@ Clearly positive and inspired by the warm vibes of south America, he melts down 
 ## Radiohead - Daydreaming
 
 _Nicola Cruz_: **"**This song from the new album of Radiohead is perfect the perfect transition for landing night dreams. Is one of those songs I listen to while still on bed, looking up the ceiling with my eyes open.**"**
+
 
 ## Kaitlyn Aurelia Smith - Labyrinth II
 
