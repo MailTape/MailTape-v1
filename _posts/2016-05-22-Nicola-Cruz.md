@@ -32,7 +32,7 @@ track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 guestPic: guestPic218.jpg
 ---
-<p id="introduction">This morning, we’re taking you on a walk in the forest. Our guest Nicola Cruz shared with us his visionnaries tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.</p>
+<p id="introduction">This morning, we’re taking you on a walk in the forest. Our guest [Nicola Cruz](https://www.facebook.com/nicolacruzz/) shared with us his visionnaries tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.</p>
 
 # Complicity, not competition.
 
