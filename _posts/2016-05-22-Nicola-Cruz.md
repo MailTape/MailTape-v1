@@ -30,6 +30,7 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
+guestPic: guestPic218.jpg
 ---
 <p id="introduction">This morning, Nicolas Cruz</p>
 
