@@ -38,7 +38,7 @@ guestPic: guestPic218.jpg
 
 A I was listening to Nicola's album ["Prender el Alma"](https://zzkrecords.bandcamp.com/album/prender-el-alma) beaufiful ideas about tolerance, mixity, compassion and love came to my mind. In deed, his music is an hymn to Nature and where he lives: Ecuador. Filled with tropical drums, flutes and spiritual harmonies, this album turns to be a genuine _tour de force_. When many electronic music producers are getting stuck into minimal repetitive beats, Nicola opens here a new path.
 
-Clearly positive and inspired by the warms vibes of south America, he melts down the cold ice and manages to create a profund music which elevates the mind and warm up the soul. I can't wait to walk on the beach to the rhythm of Nicola's, summer's gonna be great.
+Clearly positive and inspired by the warms vibes of south America, he melts down the cold ice and manages to create a profund music which elevates the mind and warm up the soul. I can't wait to walk on the beach to the rhythm of Nicola's tracks, summer's gonna be great.
  
 # Nicola Cruz's selection:
 
