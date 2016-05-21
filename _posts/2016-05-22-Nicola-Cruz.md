@@ -1,12 +1,12 @@
 ---
 layout: episode
 bigTitle_font_ratio: "6"
-published: true
+published: false
 author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
 category: "218"
-guest_name: Nicolá Cruz
+guest_name: Nicola Cruz
 guest_color: dreamy
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track1.mp3"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track2.mp3"
@@ -32,12 +32,13 @@ track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 guestPic: guestPic218.jpg
 ---
-<p id="introduction">This morning, we’re taking you on walk in the forest. Our guest Nicolà Cruz shared with us his visionnaries tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.</p>
+<p id="introduction">This morning, we’re taking you on a walk in the forest. Our guest Nicola Cruz shared with us his visionnaries tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew “world music”? Well, think again.</p>
 
-# Cruzzzzzz
+# Complicity, not competition.
 
-Nicolas Cruz![guestPic218.jpg]({{site.baseurl}}/img/guestPic218.jpg)
+A I was listening to Nicola's album ["Prender el Alma"](https://zzkrecords.bandcamp.com/album/prender-el-alma) beaufiful ideas about tolerance, mixity, compassion and love came to my mind. In deed, his music is an hymn to Nature and where he lives: Ecuador. Filled with tropical drums, flutes and spiritual harmonies, this album turns to be a genuine _tour de force_. When many electronic music producers are getting stuck into minimal repetitive beats, Nicola opens here a new path.
 
+Clearly positive and inspired by the warms vibes of south America, he melts down the cold ice and manages to create a profund music which elevates the mind and warm up the soul. I can't wait to walk on the beach to the rhythm of Nicola's, summer's gonna be great.
  
 # Nicola Cruz's selection:
 
