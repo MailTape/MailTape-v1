@@ -6,7 +6,7 @@ author: ImaCrea
 illustrator: Camille Célestin
 writer: ImaCrea
 category: "218"
-guest_name: Nicola Cruz
+guest_name: Nicolá Cruz
 guest_color: dreamy
 track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track1.mp3"
 track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/218/track2.mp3"
@@ -36,7 +36,8 @@ guestPic: guestPic218.jpg
 
 # Cruzzzzzz
 
-Nicolas Cruz
+Nicolas Cruz![guestPic218.jpg]({{site.baseurl}}/img/guestPic218.jpg)
+
  
 # Nicola Cruz's selection:
 
