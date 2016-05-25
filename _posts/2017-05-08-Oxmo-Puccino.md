@@ -9,6 +9,7 @@ category: "2"
 guest_name: Oxmo Puccino
 guest_color: vibrant
 guestPic: guestPic2.jpg
+track1_link: "https://soundcloud.com/seu-jorge-official/z-do-caro-o"
 ---
 <p id="introduction">This morning, Oxmo nous offre un aller direct pour le Brézil assister à un concert du grandiose Seu Jorge. Ding! C'est le son de l'ascenseur qui nous attend et nous propulse au sommet d'un gratte ciel à New York écouter du jazz avec Billy Joel. Après ce magnifique concert, l'esprit léger et errant dans les rues, le son provenant d'un ghetto blaster au loin d'une rue sombre nous interpelle : welcome to Harlem avec G-Dep. </p>
 
