@@ -30,10 +30,15 @@ track4_color: trippy
 track5_color: vibrant
 track6_color: trippy
 track7_color: vibrant
+episode_URL: "http://mailta.pe/2/Oxmo-Puccino/"
+fbPic: fbPic2.png
+description: "This morning, Oxmo offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with..."
+musiColor: musiColor2.png
 ---
-<p id="introduction">This morning, Oxmo offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.</p>
+<p id="introduction">This morning, [Oxmo](https://www.facebook.com/OxmoPuccinoOfficiel/) offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.</p>
 
 # Clair obscur
+
 
 Thou it’s a bit hard to follow up on Oxmo’s incredible music selection, we won’t give up so fast.
 
