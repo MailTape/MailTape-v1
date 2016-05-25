@@ -24,13 +24,13 @@ track5_title: "Lover Lover - Freebirds"
 track6_title: "David Lynch - Good Day Today"
 track7_title: "Blacklips - Modern Art"
 ---
-<p id="introduction">This morning, Oxmo nous offre un aller direct pour le Brézil assister à un concert du grandiose Seu Jorge. Ding! C'est le son de l'ascenseur qui nous attend et nous propulse au sommet d'un gratte ciel à New York écouter du jazz avec Billy Joel. Après ce magnifique concert, l'esprit léger et errant dans les rues, le son provenant d'un ghetto blaster au loin d'une rue sombre nous interpelle : welcome to Harlem avec G-Dep. </p>
+<p id="introduction">This morning, Oxmo offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.</p>
 
-# title here
+# Oxmo's shadow
 
-Après ces 3 sons qu'a proposé Oxmo, il est bien difficile de maintenir le niveau mais on va pas se laisser faire !
+Thou it’s a bit hard to follow up on Oxmo’s incredible music selection, we won’t give up so fast.
 
-Retour à Harlem, les gangsters se transforment en anges et J Rocc nous offre ses volutes de fumée. Celles-ci se concentrent au milieu de la rue illuminée par un halo pour former un nuage. Nous flottons sur la mélodie des Lover Lover. Soudain le nuage s'évapore et nous atterrissons au beau milieu d'un décor de cinéma, David Lynch a décidé de se placer derrière un sampler cette fois-ci. Une guitare attire notre attention, 3 accords plus tard, les vibrations explosent un pan du décor et nous finissons notre voyage au beau milieu d'une ferme paumée à Atlanta avec les Black Lips. 
+Back to Harlem, where gangsters turn into angels and J Rocc brings us his smoke volutes, gathered in the middle of the street, illuminated by a halo, creating a cloud. We’re now floating on Lover Lover's melody. Suddenly, the cloud disappears and seems we’ve landed in the middle of a movie set, and this time, David Lynch is hiding behind a sample. A guitar is drawing our attention, three harmonies later, the vibrations explode part of the decor, ending this journey in the middle of a farm, lost in Atlanta with Black Lips.
  
 # Oxmo Puccino's selection:
 
