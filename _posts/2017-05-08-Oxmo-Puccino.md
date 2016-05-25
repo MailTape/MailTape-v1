@@ -9,7 +9,20 @@ category: "2"
 guest_name: Oxmo Puccino
 guest_color: vibrant
 guestPic: guestPic2.jpg
-track1_link: "https://soundcloud.com/seu-jorge-official/z-do-caro-o"
+track1_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track1.mp3"
+track2_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track2.mp3"
+track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track3.mp3"
+track4_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track4.mp3"
+track5_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track5.mp3"
+track6_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track6.mp3"
+track7_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/2/track7.mp3"
+track1_title: "Seu Jorge - Zé do Caroço (live)"
+track2_title: "Billy Joel - New York State of Mind"
+track3_title: "G. Dep - Everyday"
+track4_title: "J-Rocc - Chasing the Sun"
+track5_title: "Lover Lover - Freebirds"
+track6_title: "David Lynch - Good Day Today"
+track7_title: "Blacklips - Modern Art"
 ---
 <p id="introduction">This morning, Oxmo nous offre un aller direct pour le Brézil assister à un concert du grandiose Seu Jorge. Ding! C'est le son de l'ascenseur qui nous attend et nous propulse au sommet d'un gratte ciel à New York écouter du jazz avec Billy Joel. Après ce magnifique concert, l'esprit léger et errant dans les rues, le son provenant d'un ghetto blaster au loin d'une rue sombre nous interpelle : welcome to Harlem avec G-Dep. </p>
 
