@@ -23,6 +23,13 @@ track4_title: "J-Rocc - Chasing the Sun"
 track5_title: "Lover Lover - Freebirds"
 track6_title: "David Lynch - Good Day Today"
 track7_title: "Blacklips - Modern Art"
+track1_color: bliss
+track2_color: dreamy
+track3_color: vibrant
+track4_color: trippy
+track5_color: vibrant
+track6_color: trippy
+track7_color: vibrant
 ---
 <p id="introduction">This morning, Oxmo offers us a round-trip ticket to Brazil, where we’ll get to attend a concert of the magnificent Seu Jorge. Incredible! It’s the sound of an elevator awaiting to propel us to the top of a New York sky scrapper, listening to jazz with Billy Joel. After this beautiful concert, light headed, wandering in the streets, the sound emerging from the ghetto blaster of a dark street catches our attention: Welcome to Harlem with G-Dep.</p>
 
