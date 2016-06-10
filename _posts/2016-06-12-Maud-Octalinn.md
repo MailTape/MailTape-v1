@@ -10,7 +10,7 @@ XXX</p>
 
 XXX
 
-# Poom's selection:
+# Maud's selection:
 
 ## XXX
 Maud Octalinn : "XXX"
