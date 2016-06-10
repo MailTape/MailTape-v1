@@ -5,6 +5,7 @@ published: false
 ---
 <p id="introduction">
 XXX</p>
+![guestPic221.jpg]({{site.baseurl}}/img/guestPic221.jpg)
 
 # XXX
 
