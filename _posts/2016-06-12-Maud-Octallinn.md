@@ -16,7 +16,7 @@ track3_link: 'https://soundcloud.com/guido-goldrush/francois-de-roubaix-tempo'
 track4_link: 'https://soundcloud.com/maudoctallinn/lhiver-un-peu-pas-trop-ensemble'
 track5_link: 'https://soundcloud.com/antirecords/andy-shauf-the-magician'
 track6_link: 'https://soundcloud.com/crammed-discs/je-pleure-tout-le-temps'
-track7_link: 'https://soundcloud.com/m0stafa3isa/ziad-rahbani-abu-ali-1978'
+track7_link: 'https://soundcloud.com/cactus-club/poom-qui-es-tu-lewis-ofman-remix'
 track1_title: Midget ! - Les Remparts
 track1_color: dreamy
 track2_title: Hyperclean - Gainsbourg
@@ -31,6 +31,8 @@ track6_title: >-
   Véronique Vincent & Aksak Maboul - Je Pleure tout le Temps (Flavien Berger
   Cover)
 track6_color: dreamy
+track7_title: Poom - Qui es-tu? (Lewis OfMan Remix)
+track7_color: vibrant
 ---
 <p id="introduction">
 XXX</p>
