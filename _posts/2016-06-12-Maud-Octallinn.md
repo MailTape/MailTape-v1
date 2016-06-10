@@ -6,10 +6,10 @@ author: Maxime
 illustrator: Camille Célestin
 writer: Maxime
 category: '221'
-guest_name: Maud Octalinn
+guest_name: Maud Octallinn
 guest_color: dreamy
 guestPic: guestPic221.jpg
-episode_URL: 'http://mailta.pe/221/Maud-Octalinn/'
+episode_URL: 'http://mailta.pe/221/Maud-Octallinn/'
 ---
 <p id="introduction">
 XXX</p>
