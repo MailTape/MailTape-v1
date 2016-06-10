@@ -27,7 +27,9 @@ track4_title: Maud Octallinn - L'hiver Un Peu Pas Trop Ensemble
 track4_color: dreamy
 track5_title: Andy Shauf - The Magician
 track5_color: dreamy
-track6_title: Flavien Berger - Je pleure tout le temps
+track6_title: >-
+  Véronique Vincent & Aksak Maboul - Je Pleure tout le Temps (Flavien Berger
+  Cover)
 track6_color: dreamy
 ---
 <p id="introduction">
