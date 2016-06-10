@@ -20,7 +20,7 @@ track7_link: 'https://soundcloud.com/m0stafa3isa/ziad-rahbani-abu-ali-1978'
 track1_title: Midget ! - Les Remparts
 track1_color: dreamy
 track2_title: Hyperclean - Gainsbourg
-track2_color: dreamy
+track2_color: vibrant
 track3_title: François de Roubaix - Tempo
 track3_color: dreamy
 track4_title: Maud Octallinn - L'hiver Un Peu Pas Trop Ensemble
