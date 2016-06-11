@@ -35,7 +35,8 @@ musiColor: musiColor221.png
 fbPic: fbPic221.jpg
 description: 'This morning, I introduce you Maud Octallinn, a french psych-pop singer.'
 ---
-<p id="introduction"> This morning, I introduce you Maud Octallinn, a french psych-pop singer. The first album of Maud is compilation of failed love songs. But it’s easy to fall in love of each song. Maud Octallinn is a beautiful impish voice and her lyrics as well, full of surrealistic sentences and metaphors. </p>
+<p id="introduction"> ![fbPic221.jpg]({{site.baseurl}}/img/fbPic221.jpg)
+ The first album of Maud is compilation of failed love songs. But it’s easy to fall in love of each song. Maud Octallinn is a beautiful impish voice and her lyrics as well, full of surrealistic sentences and metaphors. </p>
 
 # Nursery rhymes for adults
 
