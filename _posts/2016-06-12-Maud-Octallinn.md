@@ -16,7 +16,7 @@ track3_link: 'https://soundcloud.com/guido-goldrush/francois-de-roubaix-tempo'
 track4_link: 'https://soundcloud.com/maudoctallinn/pauvre-gasc'
 track5_link: 'https://soundcloud.com/antirecords/andy-shauf-the-magician'
 track6_link: 'https://soundcloud.com/crammed-discs/je-pleure-tout-le-temps'
-track7_link: 'https://soundcloud.com/cactus-club/poom-qui-es-tu-lewis-ofman-remix'
+track7_link: 'https://soundcloud.com/flamingosis/believe-in-me-1'
 track1_title: Midget ! - Les Remparts
 track1_color: dreamy
 track2_title: Hyperclean - Gainsbourg
@@ -29,7 +29,7 @@ track5_title: Andy Shauf - The Magician
 track5_color: dreamy
 track6_title: V. Vincent & A. Maboul - Je Pleure tout le Temps (Flavien Berger Cover)
 track6_color: dreamy
-track7_title: Poom - Qui es-tu? (Lewis OfMan Remix)
+track7_title: Flamingosis - Believe in Me
 track7_color: vibrant
 ---
 <p id="introduction">
