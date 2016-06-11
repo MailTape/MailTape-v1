@@ -35,8 +35,7 @@ musiColor: musiColor221.png
 fbPic: fbPic221.jpg
 description: 'This morning, I introduce you Maud Octallinn, a french psych-pop singer.'
 ---
-<p id="introduction"> ![fbPic221.jpg]({{site.baseurl}}/img/fbPic221.jpg)
- The first album of Maud is compilation of failed love songs. But it’s easy to fall in love of each song. Maud Octallinn is a beautiful impish voice and her lyrics as well, full of surrealistic sentences and metaphors. </p>
+<p id="introduction"> The first album of Maud is compilation of failed love songs. But it’s easy to fall in love of each song. Maud Octallinn is a beautiful impish voice and her lyrics as well, full of surrealistic sentences and metaphors. </p>
 
 # Nursery rhymes for adults
 
@@ -63,5 +62,4 @@ For a bedtime Sunday :
 Maud Octalinn : "This track from Nino Ferrer who I wanted to put it in these selection wasn’t on Soundcloud, for I’ve picked up this one from François de Roubaix. Especially for this inimitable Wurlitzer’s sound and those cheesey percussions. I admire controversy jazzman who have always brushed against bad taste. The music of François, such as Nino’s music, can’t be resumed, it is reveal to you methodically, period by period, and reveals a strong character, complex and timeless."
 
 <p id="outroduction">
-That's all folks, see you next sunday !![musiColor221.png]({{site.baseurl}}/img/musiColor221.png)
-</p>
+That's all folks, see you next sunday ! </p>
