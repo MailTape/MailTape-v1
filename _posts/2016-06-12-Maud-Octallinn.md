@@ -41,16 +41,19 @@ She’s revealing a complete and complexe universe, and thanks to La Souterraine
 # Maud's selection:
 
 For a  mystic Sunday :
+
 ## Midget ! - Les Remparts
 
 Maud Octalinn : "A song from Midget ! extract from their second album « Bois et Charbon », a masterpiece introduced by Sing Sing (singer of Arlt). I’ll never forget our first met, it was at my first concert as Maud Octallinn at Olympic café. I was in the backstage, paralyzed, while all my friends were waiting for me in the concert hall with their kindly smiles. Mocke looked me in the eye and he made a speech that really motivated me-on. Now I often think about it before going on stage."
 
 For a Hangover Sunday :
+
 ## Hyperclean - Gainsbourg
 
 Maud Octalinn :  "A Hyperclean song from their album « Grand Tata ». Frédéric Jean is kind of a Godfather for the musical pool of Toulouse, even of the entire french crazy-pop. I dedicated him a secret cult. His not-always-sweet madness is very familiar for me, he’s kind of comforting brother. I’ve meet him once in Paris (at Olympic café again). He was on stage with Julien Gasc who I was up on stage time to a duo."
 
 For a bedtime Sunday :
+
 ## François de Roubaix - Tempo
 
 Maud Octalinn : "This track from Nino Ferrer who I wanted to put it in these selection wasn’t on Soundcloud, for I’ve picked up this one from François de Roubaix. Especially for this inimitable Wurlitzer’s sound and those cheesey percussions. I admire controversy jazzman who have always brushed against bad taste. The music of François, such as Nino’s music, can’t be resumed, it is reveal to you methodically, period by period, and reveals a strong character, complex and timeless."
