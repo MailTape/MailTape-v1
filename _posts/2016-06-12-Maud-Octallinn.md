@@ -59,4 +59,4 @@ For a bedtime Sunday :
 Maud Octalinn : "This track from Nino Ferrer who I wanted to put it in these selection wasn’t on Soundcloud, for I’ve picked up this one from François de Roubaix. Especially for this inimitable Wurlitzer’s sound and those cheesey percussions. I admire controversy jazzman who have always brushed against bad taste. The music of François, such as Nino’s music, can’t be resumed, it is reveal to you methodically, period by period, and reveals a strong character, complex and timeless."
 
 <p id="outroduction">
-XXX</p>
+That's all folks, see you next sunday !</p>
