@@ -39,7 +39,9 @@ description: 'This morning, I introduce you to Maud Octallinn, a french psych-po
 
 # Nursery rhymes for adults
 
-She’s revealing a complete and complexe universe, and thanks to La Souterraine to let impressives artists such Maud Octallinn records their album and spreaded it to the world. Her Mosltamouraté is an UFO. The intro song called « Chez le Boucher » is recorded as a medieval troubadour could doing it, then an organ played song heard in some vintage funfair in Paris. Recorded in 1 week at home, it’s a concept album very instinctive and successfull DIY project. 
+She’s revealing a complete and complexe universe. Thanks to [La Souterraine](http://souterraine.biz/) to help impressive artists such Maud Octallinn record their album and spread it to the world. Her [Mosltamouraté](https://maudoctallinn.bandcamp.com/album/mostlamourat-e) is an UFO.
+
+The intro song called « Chez le Boucher » is recorded as a medieval troubadour would do it, then an organ plays song heard in some vintage funfair in Paris. Recorded in 1 week at home, it’s a very instinctive concept album and successful DIY project. 
 
 # Maud's selection:
 
