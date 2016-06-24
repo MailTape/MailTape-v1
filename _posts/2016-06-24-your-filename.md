@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Ludovic
 illustrator: Camille Célestin
 writer: Maxime
@@ -49,5 +49,3 @@ _Fatima Yamaha_:**"**My name is cray, seymour cray. Mr.cray, computer main. My n
 _Fatima Yamaha_:**"**What is an "Ockels" and were do I get one?**"**
 
 <p id="outroduction">That's all folks! Thanks to [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) for his selection, we hope you enjoyed the journey!</p>
-
-
