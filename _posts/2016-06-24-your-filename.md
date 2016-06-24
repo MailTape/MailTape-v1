@@ -28,6 +28,26 @@ track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray
 track3_title: Donnie - Wubbo Ockels
 ---
-## A New Post
+<p id="introduction">This morning, ... Fatima Yamaha. ... ... ... ... .</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# Blood Type Decaf 
+
+If you’ve ever stopped drinking coffee for more than five days, you’ll notice that a certain part of you vanishes away. It makes you sleepy and angry, drowning in a phantom like universe. But if you’re patient enough, it ultimately amplifies your senses, awakening the truth. Your pace is slower, and your flesh as sensitive as the naked skin of a freshly groomed animal.  
+
+Only then can you be electrified by “Jumo”. His music will magnify your cells, where you’ll feel and see all that exist. You’ll want to dance, a trance like journey into the wilderness of movement. A selection of “Photay”, “Seekae”, “Unno’’, like the secret language of a chipping bird wishing himself away, but it’s only music, there to nest you in the subtlety of each sound . 
+
+The rest is as shifting as a solar august day, it will make you want to gravitate, rotate, unleash your limbs and tremble away. 
+
+
+## Belmer - Bioroid
+_Fatima Yamaha_:**"**Bioroids are genetically engineered humans that are superior in overall biology, but feature intentionally suppressed emotional capabilities. I think I run in to them on a daily basis.**"**
+
+## Seymour Bits - Seymour Cray
+_Fatima Yamaha_:**"**My name is cray, seymour cray. Mr.cray, computer main. My name is cray, now baby say, my name. Seymour cray super computer main. My puter name it's also cray it's great. Fastest ever made i'm really cray loosing my brain. Elves in the tunnel? i see them every day.**"**
+
+## Donnie - Wubbo Ockels
+_Fatima Yamaha_:**"**What is an "Ockels" and were do I get one?**"**
+
+<p id="outroduction">That's all folks! Thanks to [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) for his selection, we hope you enjoyed the journey!</p>
+
+
