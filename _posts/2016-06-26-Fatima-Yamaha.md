@@ -27,6 +27,13 @@ track3_link: 'https://soundcloud.com/magnetronmusic/5051083098182-01-04'
 track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray
 track3_title: Donnie - Wubbo Ockels
+track1_color: rough
+track2_color: trippy
+track3_color: trippy
+track4_color: bliss
+track5_color: dreamy
+track6_color: dreamy
+track7_color: rough
 ---
 <p id="introduction">This morning, ... Fatima Yamaha. ... ... ... ... .</p>
 
