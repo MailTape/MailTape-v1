@@ -37,14 +37,15 @@ track7_color: rough
 ---
 <p id="introduction">This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.</p>
 
-# Blood Type Decaf 
+# Music & Humanity
 
-If you’ve ever stopped drinking coffee for more than five days, you’ll notice that a certain part of you vanishes away. It makes you sleepy and angry, drowning in a phantom like universe. But if you’re patient enough, it ultimately amplifies your senses, awakening the truth. Your pace is slower, and your flesh as sensitive as the naked skin of a freshly groomed animal.  
+Repetition, repetition. Harmony, melody, feeling. Roar, shout, cry. Articulate, sing, rap. Isn't it amazing how a simple difference of pressure in the air which produces a wave of vibration ends in our ears, get interpreted by a neural network of infinite complexity and translates into emotions?
 
-Only then can you be electrified by “Jumo”. His music will magnify your cells, where you’ll feel and see all that exist. You’ll want to dance, a trance like journey into the wilderness of movement. A selection of “Photay”, “Seekae”, “Unno’’, like the secret language of a chipping bird wishing himself away, but it’s only music, there to nest you in the subtlety of each sound . 
+Emotion gives birth to inspiration which produces ultimately ideas. Projected on the screen of closed eyelids, light and images strobes. Billions of electric impulsions send information inside the brain, translating it into pulsation and ultimately into movement.
 
-The rest is as shifting as a solar august day, it will make you want to gravitate, rotate, unleash your limbs and tremble away. 
+Take the most intense city you know, multiply it by 1000 and we're still far from the boiling excitation of billions of cells forming the human body. Then comes the power of imagination when a shout becomes a word and a movement a dance.
 
+What if what we call today 'music', was at the origin of humanity? What if music was so deep and basic to our needs, our survive on this planet depended on it?
 
 ## Belmer - Bioroid
 _Fatima Yamaha_:**"**Bioroids are genetically engineered humans that are superior in overall biology, but feature intentionally suppressed emotional capabilities. I think I run in to them on a daily basis.**"**
