@@ -35,7 +35,7 @@ track5_color: dreamy
 track6_color: dreamy
 track7_color: rough
 ---
-<p id="introduction">This morning, let's celebrate the first days of summer. Nights are getting shorter and parties longer. As he did on the last WeLoveGreen edition, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) will bring rays of sun into your direction with his energetic and trippy selection. Our complementary chill selection will delicately invite you for a sunbath on the poolside.</p>
+<p id="introduction">This morning, is sunnier than ever. Nights are getting shorter and parties longer. As he did on the last WeLoveGreen edition, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) will bring rays of sun into your direction with his energetic and trippy selection. Our complementary chill selection will delicately invite you for a sunbath on the poolside. Yes darling, this time it is for real: Summer is here.</p>
 
 # Blood Type Decaf 
 
