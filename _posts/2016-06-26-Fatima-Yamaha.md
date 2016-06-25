@@ -39,7 +39,7 @@ track7_color: rough
 
 # Music & Humanity
 
-Repetition, repetition. Harmony, melody, feeling. Roar, shout, cry. Articulate, sing, rap. Isn't it amazing how a simple difference of pressure in the air which produces a wave of vibration ends in our ears, get interpreted by a neural network of infinite complexity and translates into emotions?
+Repetition, repetition. Harmony, melody, feeling. Roar, shout, cry. Articulate, sing, rap. Isn't it amazing how a simple difference of pressure in the air which produces a wave of vibration ends in our ear, get interpreted by a neural network of infinite complexity and translates into emotions?
 
 Emotion gives birth to inspiration which produces ultimately ideas. Projected on the screen of closed eyelids, light and images strobes. Billions of electric impulsions send information inside the brain, translating it into pulsation and ultimately into movement.
 
