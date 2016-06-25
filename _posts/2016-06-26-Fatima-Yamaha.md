@@ -35,6 +35,12 @@ track6_color: dreamy
 track7_color: rough
 guestPic: guestPic223.jpg
 guest_color: rough
+description: >-
+  This morning is sunnier than ever. Nights are getting shorter and parties
+  longer. As he did on the latest WeLoveGreen festival, Fatima Yamaha brings
+  rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on
+  the poolside with our complementary chill selection. Yes darling, it is for
+  real: Summer is here.
 ---
 <p id="introduction">This morning is sunnier than ever. Nights are getting shorter and parties longer. As he did on the latest WeLoveGreen festival, [Fatima Yamaha](https://www.facebook.com/FatimaYamaha/) brings rays of sun with his energetic and trippy selection. Enjoy a lazy sunbath on the poolside with our complementary chill selection. Yes darling, it is for real: Summer is here.</p>
 
