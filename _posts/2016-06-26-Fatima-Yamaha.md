@@ -35,7 +35,7 @@ track5_color: dreamy
 track6_color: dreamy
 track7_color: rough
 ---
-<p id="introduction">This morning, ... Fatima Yamaha. ... ... ... ... .</p>
+<p id="introduction">This morning, let's celebrate the first days of summer. Nights are getting shorter and parties longer. Discovered on the last WeLoveGreen edition, Fatima Yamaha will bring rays of sun into your direction with his energetic selection. Our complementary chill selection will delicately invite you for a sunbath on the poolside.</p>
 
 # Blood Type Decaf 
 
