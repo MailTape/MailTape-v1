@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 author: Ludovic
 illustrator: Camille Célestin
-writer: Maxime
+writer: ImaCrea
 track7_link: 'https://soundcloud.com/jacquestransversal/jacques-tout-est-magnifique'
 track6_link: 'https://soundcloud.com/lakeyinspired/forever'
 track5_link: >-
