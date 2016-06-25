@@ -45,7 +45,7 @@ Emotion gives birth to inspiration which produces ideas. Projected on the screen
 
 Take the most intense city you know, multiply it by 1000 and we're still far from the boiling excitation of billions of cells forming the human body. Then comes the power of imagination when a shout becomes a word and a movement a dance.
 
-What if what we call today 'music', was at the origin of humanity? What if music was so deep and basic to our needs, our survive on this planet depended on it?
+What if what we call today 'music' was at the origin of humanity? What if music was so deep and basic to our needs, our survival on this planet depended on it?
 
 ## Belmer - Bioroid
 _Fatima Yamaha_:**"**Bioroids are genetically engineered humans that are superior in overall biology, but feature intentionally suppressed emotional capabilities. I think I run in to them on a daily basis.**"**
