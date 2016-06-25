@@ -28,7 +28,7 @@ track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray
 track3_title: Donnie - Wubbo Ockels
 track1_color: rough
-track2_color: trippy
+track2_color: rough
 track3_color: trippy
 track4_color: bliss
 track5_color: dreamy
