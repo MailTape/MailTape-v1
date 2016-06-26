@@ -52,7 +52,7 @@ Emotion gives birth to inspiration which produces ideas. Projected on the screen
 
 Take the most intense city you know, multiply it by 1000 and we're still far from the boiling excitation of billions of cells forming the human body. Then comes the power of imagination when a shout becomes a word and a movement a dance.
 
-What if what we call today 'music' was at the origin of humanity? What if music was so much deeply linked to our basic needs that our survival on this planet depended on it?
+What if what we call today 'music' was at the origin of humanity? What if music was so much deeply linked to our basic needs that our survival on this planet depended on it? 
 
 # Fatima Yamaha's selection:
 
