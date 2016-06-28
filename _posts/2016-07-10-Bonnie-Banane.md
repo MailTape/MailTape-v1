@@ -20,6 +20,9 @@ episode_URL: 'http://mailta.pe/225/Bonnie-Banane/'
 track4_title: Bonnie Banane - Statue
 track4_color: vibrant
 track4_link: 'https://soundcloud.com/bonniebanane/statue'
+track2_link: 'https://soundcloud.com/louisepetrouchka/tzina'
+track2_title: George Duke - Tzina
+track2_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
