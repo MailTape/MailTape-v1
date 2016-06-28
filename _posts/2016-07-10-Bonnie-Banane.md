@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Louise
 illustrator: William Girault
 category: '225'
@@ -24,7 +24,3 @@ track4_link: 'https://soundcloud.com/bonniebanane/statue'
 ## 
 
 ## Bonnie Banane's selection
-
-
-
-
