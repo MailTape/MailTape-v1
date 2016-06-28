@@ -45,4 +45,3 @@ Come back and eat slowly.
 That's a good Sunday morning for me.**"**
 
 <p id="outroduction">That's all folks! Thanks to [Bonnie Banane](https://www.facebook.com/bonniebananemusique) for her selection, enjoy your Sunday!</p>
-
