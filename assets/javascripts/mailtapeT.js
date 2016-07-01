@@ -498,9 +498,9 @@ $(document).ready(
 		}
 
 		// extraction dans un array de 3 episodes relatifs parmi la preselection
-		var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 6);
+		var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 3);
 
-		for (var i = 0; i < 6; i++) {
+		for (var i = 0; i < 3; i++) {
 			$("#relatedEpisode_a_"+(i+1)).attr("data-stretch",relatedEpisodes_selection[i][3]);
 			$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
 			//$("#relatedEpisode_span_"+(i+1)).html(relatedEpisodes_selection[i][0]+"&nbsp;");
