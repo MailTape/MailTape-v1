@@ -147,9 +147,7 @@
     var relatedEpisodes_numbers = [
 {% for post in site.posts %}
     {% if site.time > post.date %}
-        {% if post.guest_color == page.guest_color and post.category != page.category %}
         "{{ post.category }}",
-        {% endif %}
     {% endif %}
 {% endfor %}
     ];
@@ -157,9 +155,7 @@
     var relatedEpisodes_guestNames = [
 {% for post in site.posts %}
     {% if site.time > post.date %}
-        {% if post.guest_color == page.guest_color and post.category != page.category %}
         "{{ post.guest_name }}",
-        {% endif %}
     {% endif %}
 {% endfor %}
     ];
@@ -167,9 +163,7 @@
     var relatedEpisodes_URLs = [
 {% for post in site.posts %}
     {% if site.time > post.date %}
-        {% if post.guest_color == page.guest_color and post.category != page.category %}
         "{{ post.url }}",
-        {% endif %}
     {% endif %}
 {% endfor %}
     ];
@@ -177,9 +171,7 @@
     var relatedEpisodes_guestPics = [
     {% for post in site.posts %}
     {% if site.time > post.date %}
-        {% if post.guest_color == page.guest_color and post.category != page.category %}
         "/img/{{ post.guestPic }}",
-        {% endif %}
     {% endif %}
 {% endfor %}
     ];
@@ -187,9 +179,7 @@
     var relatedEpisodes_MusiColors = [
 {% for post in site.posts %}
     {% if site.time > post.date %}
-        {% if post.guest_color == page.guest_color and post.category != page.category %}
         "/img/{{ post.musiColor }}",
-        {% endif %}
     {% endif %}
 {% endfor %}
     ];
