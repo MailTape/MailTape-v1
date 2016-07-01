@@ -14,4 +14,4 @@ source "https://rubygems.org"
 #gem "uglifier"      # And we want our javascripts to be minified with UglifyJS
 #gem "sass"
 # gem "yui-compressor"
-gem "github-pages"
+gem "github-pages", group: :jekyll_plugins
