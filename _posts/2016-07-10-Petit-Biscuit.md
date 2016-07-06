@@ -6,6 +6,11 @@ track1_link: 'https://soundcloud.com/day-wave/day-wave-drag'
 track2_link: 'https://soundcloud.com/muramasamusic/girl-1'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
 track4_link: 'https://soundcloud.com/petitbiscuit/sunset-lover'
+illustrator: Camille Célestin
+writer: PS KY
+author: Dimitri
+guest_name: Petit Biscuit
+guest_color: bliss
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
