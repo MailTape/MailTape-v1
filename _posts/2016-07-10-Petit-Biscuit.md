@@ -6,7 +6,7 @@ track1_link: 'https://soundcloud.com/day-wave/day-wave-drag'
 track2_link: 'https://soundcloud.com/muramasamusic/girl-1'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
 ---
-<p id="introduction"></p>
+<p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
 # Petit Biscuit's selection:
 
@@ -22,3 +22,5 @@ _Petit Biscuit_: This one makes me wanna chill with a big cup of coffee.
 ## Flume - Take A Chance (ft. Little Dragon) 
 
 _Petit Biscuit_: I just bought the limited vinyl edition. And all the tracks his album are absolutely incredible, this one puts me definitely in a good mood, to wake me up with a big smile.
+
+<p id="outroduction">That's all folks, thanks to [Petit Biscuit](https://petitbiscuit.lnk.to/listenYo) for hir magical selection. Thanks to [Camille Célestin](http://www.slipontherock.com/) for her wonderful illustration and PS KY for her magic writings.</p>
