@@ -15,7 +15,6 @@ category: '224'
 episode_URL: 'http://mailta.pe/224/Petit-Biscuit/'
 guestPic: guestPic224.jpg
 ---
-![guestPic224.jpg]({{site.baseurl}}/img/guestPic224.jpg)
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
 # Petit Biscuit's selection:
