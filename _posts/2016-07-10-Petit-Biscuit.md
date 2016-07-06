@@ -8,7 +8,7 @@ track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dra
 ---
 ## A New Post
 
--Day Wave - Drag : This track just makes me wanna go out of my bed and enjoy my life, but also makes me think of holidays, summer, friends, love, lot of the most beautiful things in this world.
+Day Wave - Drag : This track just makes me wanna go out of my bed and enjoy my life, but also makes me think of holidays, summer, friends, love, lot of the most beautiful things in this world.
 
 
 
