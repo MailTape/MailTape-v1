@@ -11,6 +11,8 @@ writer: PS KY
 author: Dimitri
 guest_name: Petit Biscuit
 guest_color: bliss
+category: '224'
+episode_URL: 'http://mailta.pe/224/Petit-Biscuit/'
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
