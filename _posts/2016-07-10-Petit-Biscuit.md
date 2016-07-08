@@ -5,7 +5,7 @@ published: true
 track1_link: 'https://soundcloud.com/day-wave/day-wave-drag'
 track2_link: 'https://soundcloud.com/muramasamusic/girl-1'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
-track4_link: 'https://soundcloud.com/petitbiscuit/sunset-lover'
+track4_link: 'https://soundcloud.com/petitbiscuit/once-again'
 illustrator: Camille Célestin
 writer: PS KY
 author: Dimitri
@@ -14,9 +14,17 @@ guest_color: bliss
 category: '224'
 episode_URL: 'http://mailta.pe/224/Petit-Biscuit/'
 guestPic: guestPic224.jpg
-track5_link: 'https://soundcloud.com/noonpacific/ghost-hours-for-you'
 track1_title: Day Wave - Drag
 track1_color: bliss
+track2_title: Mura Masa - ...Girls
+track3_title: Flume - Take A Chance (ft. Little Dragon)
+track5_link: 'https://soundcloud.com/swimmingtapes/set-the-fire'
+track6_link: 'https://soundcloud.com/volovibes/shine'
+track7_link: 'https://soundcloud.com/opald/france'
+track4_title: Petit Biscuit - Once Again
+track5_title: The Swimming Tapes - Set The Fire
+track6_title: VOLO - Shine
+track7_title: Opal - France
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
