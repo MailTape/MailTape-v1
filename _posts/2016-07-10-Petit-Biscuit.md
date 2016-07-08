@@ -14,6 +14,9 @@ guest_color: bliss
 category: '224'
 episode_URL: 'http://mailta.pe/224/Petit-Biscuit/'
 guestPic: guestPic224.jpg
+track5_link: 'https://soundcloud.com/noonpacific/ghost-hours-for-you'
+track1_title: Day Wave - Drag
+track1_color: bliss
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
