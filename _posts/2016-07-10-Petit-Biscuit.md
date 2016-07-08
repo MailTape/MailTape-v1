@@ -18,13 +18,13 @@ track1_title: Day Wave - Drag
 track1_color: bliss
 track2_title: Mura Masa - ...Girls
 track3_title: Flume - Take A Chance (ft. Little Dragon)
-track5_link: 'https://soundcloud.com/swimmingtapes/set-the-fire'
+track5_link: ' https://soundcloud.com/opald/france'
 track6_link: 'https://soundcloud.com/volovibes/shine'
-track7_link: 'https://soundcloud.com/opald/france'
 track4_title: Petit Biscuit - Once Again
-track5_title: The Swimming Tapes - Set The Fire
 track6_title: VOLO - Shine
-track7_title: Opal - France
+track5_title: Opal - France
+track7_link: 'https://soundcloud.com/polo-pan/nana'
+track7_title: Polo & Pan
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
