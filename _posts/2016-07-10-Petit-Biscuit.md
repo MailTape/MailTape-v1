@@ -33,6 +33,7 @@ track6_color: vibrant
 track5_color: trippy
 musiColor: musiColor224.png
 ---
+![musiColor224.png]({{site.baseurl}}/img/musiColor224.png)
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
 # Petit Biscuit's selection:
