@@ -39,7 +39,7 @@ description: >-
   powered by the genuine desire to create and share.
 fbPic: fbPic224.jpg
 ---
-<p id="introduction">This morning, we bring you the soundtrack to summer's daydreams. "Petit Biscuit" is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.</p>
+<p id="introduction">This morning, we bring you the soundtrack to summer's daydreams. [Petit Biscuit](https://www.facebook.com/petitbiscuitsound/ "Petit Biscuit's Facebook") is reminiscent of that glimpse of sunlight projected onto your favorite building at the end of the day. Something special, a contemplative melody powered by the genuine desire to create and share.</p>
 
 # Fondamental purity
 
