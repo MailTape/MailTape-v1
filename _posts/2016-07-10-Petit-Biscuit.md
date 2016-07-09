@@ -16,7 +16,7 @@ episode_URL: 'http://mailta.pe/224/Petit-Biscuit/'
 guestPic: guestPic224.jpg
 track1_title: Day Wave - Drag
 track1_color: bliss
-track2_title: Mura Masa - ...Girls
+track2_title: Mura Masa - ...Girl
 track3_title: Flume - Take A Chance (ft. Little Dragon)
 track5_link: ' https://soundcloud.com/opald/france'
 track6_link: 'https://soundcloud.com/volovibes/shine'
@@ -28,6 +28,7 @@ track7_title: Polo & Pan - Nanä
 track7_color: trippy
 track3_color: rough
 track4_color: dreamy
+track2_color: trippy
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
