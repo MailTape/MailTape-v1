@@ -5,7 +5,7 @@ published: true
 track1_link: 'https://soundcloud.com/day-wave/day-wave-drag'
 track2_link: 'https://soundcloud.com/muramasamusic/girl-1'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
-track4_link: 'https://soundcloud.com/petitbiscuit/once-again'
+track4_link: 'https://soundcloud.com/petitbiscuit/sunset-lover'
 illustrator: Camille Célestin
 writer: PS KY
 author: Dimitri
@@ -20,7 +20,7 @@ track2_title: Mura Masa - ...Girls
 track3_title: Flume - Take A Chance (ft. Little Dragon)
 track5_link: ' https://soundcloud.com/opald/france'
 track6_link: 'https://soundcloud.com/volovibes/shine'
-track4_title: Petit Biscuit - Once Again
+track4_title: Petit Biscuit - Sunset Lover
 track6_title: VOLO - Shine
 track5_title: Opal - France
 track7_link: 'https://soundcloud.com/polo-pan/nana'
