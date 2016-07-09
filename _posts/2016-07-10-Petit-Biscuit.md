@@ -39,7 +39,6 @@ description: >-
   melody powered by the genuine desire to create and share.
 fbPic: fbPic224.jpg
 ---
-![fbPic224.jpg]({{site.baseurl}}/img/fbPic224.jpg)
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
 # Petit Biscuit's selection:
