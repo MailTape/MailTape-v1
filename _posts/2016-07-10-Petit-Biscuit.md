@@ -19,7 +19,7 @@ track1_color: bliss
 track2_title: Mura Masa - ...Girl
 track3_title: Flume - Take A Chance (ft. Little Dragon)
 track5_link: ' https://soundcloud.com/opald/france'
-track6_link: 'https://soundcloud.com/volovibes/shine'
+track6_link: 'https://mailtapetracks.s3.amazonaws.com/224/track6.mp3'
 track4_title: Petit Biscuit - Sunset Lover
 track6_title: VOLO - Shine
 track5_title: Opal - France
