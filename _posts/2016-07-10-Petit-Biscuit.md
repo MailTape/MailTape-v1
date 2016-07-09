@@ -26,7 +26,7 @@ track5_title: Opal - France
 track7_link: 'https://soundcloud.com/polo-pan/nana'
 track7_title: Polo & Pan - Nanä
 track7_color: trippy
-track3_color: bliss
+track3_color: vibrant
 track4_color: dreamy
 track2_color: trippy
 track6_color: vibrant
