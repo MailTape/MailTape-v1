@@ -29,6 +29,7 @@ track7_color: trippy
 track3_color: rough
 track4_color: dreamy
 track2_color: trippy
+track6_color: bliss
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
