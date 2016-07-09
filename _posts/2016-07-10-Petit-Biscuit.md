@@ -31,6 +31,7 @@ track4_color: dreamy
 track2_color: trippy
 track6_color: vibrant
 track5_color: trippy
+musiColor: musiColor224.png
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
