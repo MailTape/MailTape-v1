@@ -63,4 +63,4 @@ _Petit Biscuit_: This one makes me wanna chill with a big cup of coffee.
 
 _Petit Biscuit_: I just bought the limited vinyl edition. And all the tracks his album are absolutely incredible, this one puts me definitely in a good mood, to wake me up with a big smile.
 
-<p id="outroduction">That's all folks, thanks to [Petit Biscuit](https://petitbiscuit.lnk.to/listenYo) for his magical selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
+<p id="outroduction">That's all folks, thanks to [Petit Biscuit](https://petitbiscuit.lnk.to/listenYo) for his brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
