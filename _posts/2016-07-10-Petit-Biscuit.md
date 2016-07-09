@@ -25,6 +25,7 @@ track6_title: VOLO - Shine
 track5_title: Opal - France
 track7_link: 'https://soundcloud.com/polo-pan/nana'
 track7_title: Polo & Pan - Nanä
+track7_color: trippy
 ---
 <p id="introduction">[Petit Biscuit](https://www.facebook.com/petitbiscuitsound/)</p>
 
