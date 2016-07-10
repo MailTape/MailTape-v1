@@ -44,7 +44,7 @@ fbPic: fbPic224.jpg
 # Fondamental purity
 
 Confession: my inspiration has been more than sparse lately, the longing for belonging, for feeling and sensing the every moments of living, for creating and sharing, the well was dry and I couldn’t find the source of wealth, like it was lost in the mist of over reflection and too much action. But then I heard "Sunset Lover" and it dawned on me, like a silk veil, protecting me from the wolf of depression.
-"Petit Biscuit", as his name holds it, brings us something so simple, so pure, so raw and yet so mature and grounded. It’s genuine intention of sharing the goodness of sound is piercing and moving. I was left floating like a pink balloon contemplated from afar by a child’s mesmerized gaze.
+**Petit Biscuit**, as his name holds it, brings us something so simple, so pure, so raw and yet so mature and grounded. It’s genuine intention of sharing the goodness of sound is piercing and moving. I was left floating like a pink balloon contemplated from afar by a child’s mesmerized gaze.
 
 The rest of this MailTape is packed with some serious surprises powered by taste and dare. We come from France, we dance, we’re talented and we’ll make your Sunday a field to play and jam the pain away.
 
