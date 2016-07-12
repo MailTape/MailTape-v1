@@ -6,7 +6,7 @@ author: Louise
 illustrator: William Girault
 category: '225'
 guest_name: Bonnie Banane
-guest_color: vibrant
+guest_color: bliss
 guestPic: guestPic225.jpg
 track1_link: 'https://soundcloud.com/louisepetrouchka/track-track'
 track1_title: Willow Smith - twentyfourtyeight 2.0
@@ -37,7 +37,7 @@ track5_title: ShyGirl - Want More
 
 # Title
 
-
+blabla
 
 # Bonnie Banane's selection:
 
