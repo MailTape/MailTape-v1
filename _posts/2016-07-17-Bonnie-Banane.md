@@ -8,7 +8,7 @@ category: '225'
 guest_name: Bonnie Banane
 guest_color: bliss
 guestPic: guestPic225.jpg
-track1_link: 'https://soundcloud.com/dhatu/twentyfortyeight20-prod-michael-cera'
+track1_link: 'https://soundcloud.com/louisepetrouchka/track-track'
 track1_title: Willow Smith - twentyfourtyeight 2.0
 track1_color: dreamy
 track3_link: 'https://soundcloud.com/lala-ace-667/jessica-jones'
@@ -23,6 +23,15 @@ track4_link: 'https://soundcloud.com/bonniebanane/statue'
 track2_link: 'https://soundcloud.com/louisepetrouchka/tzina'
 track2_title: George Duke - Tzina
 track2_color: dreamy
+track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
+track7_title: D.K. - Play On
+track7_color: dreamy
+track5_color: rough
+track5_link: 'https://soundcloud.com/shyyygirl/want-more'
+track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
+track6_title: LAFAWNDAH - All That She Wants (Ace of Base cover)
+track6_color: vibrant
+track5_title: ShyGirl - Want More
 ---
 <p id="introduction">This morning,</p>
 
