@@ -33,6 +33,24 @@ track5_link: 'https://soundcloud.com/shyyygirl/want-more'
 track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
 track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
 ---
-![musiColor225.png]({{site.baseurl}}/img/musiColor225.png)
-![fbPic225.jpg]({{site.baseurl}}/img/fbPic225.jpg)
-![guestPic225.jpg]({{site.baseurl}}/img/guestPic225.jpg)
+<p id="introduction">This morning,</p>
+
+# Title 
+
+
+
+# Bonnie Banane's selection:
+
+## Willow Smith - twentyfourtyeight 2.0
+_Talitres_: **"**I like this song from Willow while drinking cold water when I wake up.
+Tons of water.**"**
+
+## George Duke - Tzina
+_Talitres_: **"**Then I put on George Duke, right before I make my bed and open the windows
+letting fresh air come through. I stretch legs too.**"**
+
+## Lala &Ce 67 - Jessica Jones
+_Talitres_: **"**Lala &ce, right before I get out to get some fruits and hot bread with my lover
+come back and eat slowly. That's a good sunday morning for me.**"**
+
+<p id="outroduction">That's all folks! Thanks to [Bonnie Banane](https://www.facebook.com/bonniebananemusique/) for her selection. Enjoy your day everyone!</p>
