@@ -7,7 +7,7 @@ illustrator: William Girault
 category: '225'
 guest_name: Bonnie Banane
 guest_color: dreamy
-guestPic: guestpic225.jpg
+guestPic: guestPic225.jpg
 episode_URL: 'http://maita.pe/225/Bonnie-Banane/'
 fbPic: fbPic225.jpg
 musiColor: musiColor225.png
