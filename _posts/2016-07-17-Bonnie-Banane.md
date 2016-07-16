@@ -32,6 +32,7 @@ track4_link: 'https://soundcloud.com/bonniebanane/statue'
 track5_link: 'https://soundcloud.com/shyyygirl/want-more'
 track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
 track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
+description: a nostalgic jaunt through the 90’s with Bonnie Banane !
 ---
 <p id="introduction">This morning, we will have you experience the steadily progressive sound of a Parisian artist called [**Bonnie Banane**](https://www.facebook.com/bonniebananemusique/). Having launched, “Soeur Nature,” a few months ago, she’s left quite an indelible impression on the independent RnB scene. </p>
 
