@@ -33,11 +33,11 @@ track5_link: 'https://soundcloud.com/shyyygirl/want-more'
 track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
 track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
 ---
-<p id="introduction">This morning,</p>
+<p id="introduction">This morning, we will have you experience the steadily progressive sound of a Parisian artist called [**Bonnie Banane**](https://www.facebook.com/bonniebananemusique/). Having launched, “Soeur Nature,” a few months ago, she’s left quite an indelible impression on the independent RnB scene. </p>
 
-# Title 
+# The Chanteuse in the making 
 
-
+With a voice as distinctive as hers, she's all set to take you on a nostalgic jaunt through the 90’s American style Hip Hop and RnB, whereas rest of the selection is only a dose of the happiness pill she likes to consume daily.  
 
 # Bonnie Banane's selection:
 
