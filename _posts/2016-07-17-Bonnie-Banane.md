@@ -43,15 +43,15 @@ With a voice as distinctive as hers, she's all set to take you on a nostalgic ja
 # Bonnie Banane's selection:
 
 ## Willow Smith - twentyfourtyeight 2.0
-_Talitres_: **"**I like this song from Willow while drinking cold water when I wake up.
+_Bonnie Banane_: **"**I like this song from Willow while drinking cold water when I wake up.
 Tons of water.**"**
 
 ## George Duke - Tzina
-_Talitres_: **"**Then I put on George Duke, right before I make my bed and open the windows
+_Bonnie Banane_: **"**Then I put on George Duke, right before I make my bed and open the windows
 letting fresh air come through. I stretch legs too.**"**
 
 ## Lala &Ce 67 - Jessica Jones
-_Talitres_: **"**Lala &ce, right before I get out to get some fruits and hot bread with my lover
+_Bonnie Banane_: **"**Lala &ce, right before I get out to get some fruits and hot bread with my lover
 come back and eat slowly. That's a good sunday morning for me.**"**
 
 <p id="outroduction">That's all folks! Thanks to [Bonnie Banane](https://www.facebook.com/bonniebananemusique/) for her selection. Enjoy your day everyone!</p>
