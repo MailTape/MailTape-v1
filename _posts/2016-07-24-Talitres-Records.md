@@ -19,6 +19,8 @@ track2_color: dreamy
 episode_URL: 'http://mailta.pe/226/Talitres-Records/'
 fbPic: fbPic226.jpg
 musiColor: musiColor226.png
+track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
+track1_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
