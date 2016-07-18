@@ -21,6 +21,8 @@ fbPic: fbPic226.jpg
 musiColor: musiColor226.png
 track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
 track1_color: dreamy
+track3_color: vibrant
+illustrator: William Girault
 ---
 <p id="introduction">This morning,</p>
 
