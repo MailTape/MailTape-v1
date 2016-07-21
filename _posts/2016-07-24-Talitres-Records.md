@@ -23,6 +23,10 @@ track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
 track1_color: dreamy
 track3_color: vibrant
 illustrator: William Girault
+track7_title: Bear's Den - Pompeii
+track7_color: bliss
+track6_link: 'https://soundcloud.com/rachaeldadd-1/strike-our-scythes'
+track5_link: 'https://soundcloud.com/hedgardl/bears-den-pompeii'
 ---
 <p id="introduction">This morning,</p>
 
