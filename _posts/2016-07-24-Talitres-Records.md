@@ -34,11 +34,11 @@ track5_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
 track6_color: vibrant
 writer: Louise
 ---
-<p id="introduction">This morning, we introduce you a brand new type of episodes, that we hope you'll enjoy as much as all the others. Did you notice this "Records" thing? Yes, we've decided to start inviting record labels in Mailtape episode. As you know, we aspire to discover new inspiring music every Sunday, with labels, we will be able to introduce you to an entire catalogue each time. Isn't that wonderful? </p>
+<p id="introduction">This morning, Mailtape presents a brand new kind of episodes! Did you notice this "Records" thing in the title? We've decided to start inviting record labels in Mailtape episodes every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Isn't that wonderful?! </p>
 
 # Indie or die
 
-To introduce this new formula, welcome Talitres! It's been 15 years of amazingly creative and introspective music since their creation. Today, you'll discover the choices of the mastermind behind all this: Sean Bouchard. Humbly, he only selected one artist of his own catalog, North American band _Le Loup_. You'll also came across _Rachel Dadd_ and _Will Samson_ in our selection, who are just a glimpse of what you can hope to discover in Talitres' releases.
+To introduce this new formula, welcome [Talitres](www.talitres.com/)! It's been 15 years of amazingly creative and introspective music since their creation. Sean Bouchard is the mastermind behind all this indie madness! Humbly, he only selected one artist of his own catalog, North American band _Le Loup_. You will also came across _Rachel Dadd_ and _Will Samson_ in our selection... And theses artists are just a glimpse of what you can hope to discover in Talitres' releases.
 
 # Talitres's selection:
 
@@ -51,4 +51,4 @@ _Sean Bouchard_: **"**Steven Sufjan is a real treasure from all points of view: 
 ## Le Loup - Morning Song
 _Sean Bouchard_: **"**Le Loup was an American indie band founded in Washington, D.C. by Sam Simkoff and with their bandmates they did a harmonious family. Fleet Foxes-style, Appalachian sounds, hymnal harmonies, and avant garde leanings. We love that freedom, that freshness, their sweet experimentation.**"**
 
-<p id="outroduction">That's all folks! Thanks to [Sean Bouchard, CEO of Talitres Records](https://www.facebook.com/talitres/) for his selection. We hope you enjoyed this new kind of episodes, let us know your thoughts!</p>
+<p id="outroduction">That's all folks! Thanks to Sean Bouchard, CEO of Talitres Records for his selection. We hope you enjoyed this new kind of episodes, let us know your thoughts!</p>
