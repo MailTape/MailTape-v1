@@ -57,4 +57,4 @@ _Sean Bouchard_: **"**Steven Sufjan is a real treasure from all points of view: 
 ## Le Loup - Morning Song
 _Sean Bouchard_: **"**Le Loup was an American indie band founded in Washington, D.C. by Sam Simkoff and with their bandmates they did a harmonious family. Fleet Foxes-style, Appalachian sounds, hymnal harmonies, and avant garde leanings. We love that freedom, that freshness, their sweet experimentation.**"**
 
-<p id="outroduction">That's all folks! Thanks to [Sean Bouchard, CEO of Talitres Records](https://www.facebook.com/talitres/) for his selection. We hope you enjoyed this new kind of episodes, let us know your thoughts!</p>
+<p id="outroduction">That's all folks! Thanks to Édouard and to [Sean Bouchard, CEO of Talitres Records](https://www.facebook.com/talitres/) for his selection. We hope you enjoyed this new kind of episodes, let us know your thoughts!</p>
