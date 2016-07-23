@@ -9,12 +9,10 @@ guest_color: dreamy
 guestPic: guestPic226.jpg
 track1_link: 'https://soundcloud.com/irene-tessera/by-the-time-that-i-awoke'
 track2_link: 'https://soundcloud.com/asthmatickitty/sufjan-stevens-should-have-known-better'
-track4_link: 'https://soundcloud.com/talitres/will-samson-pyrton-bells'
 track1_title: Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
 track2_title: Sufjan Stevens - Should Have Known Better
 track3_title: Le Loup - Morning Song
-track4_title: Will Samson - Pyrton Bells
-track4_color: dreamy
+track4_color: vibrant
 track2_color: dreamy
 episode_URL: 'http://mailta.pe/226/Talitres-Records/'
 fbPic: fbPic226.jpg
@@ -23,11 +21,19 @@ track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
 track1_color: dreamy
 track3_color: vibrant
 illustrator: William Girault
-track7_title: Bear's Den - Pompeii
-track7_color: bliss
-track6_link: 'https://soundcloud.com/rachaeldadd-1/strike-our-scythes'
-track7_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
+track7_title: Will Samson - Pyrton Bells
+track7_color: dreamy
+track4_link: 'https://soundcloud.com/rachaeldadd-1/strike-our-scythes'
+track6_link: 'https://soundcloud.com/la_souterraine/pain-noir-larme'
+track7_link: 'https://soundcloud.com/talitres/will-samson-pyrton-bells'
+track4_title: Rachel Dadd - Strike Our Scythes
+track5_title: Julia Jacklin - Leadlight
+track5_color: vibrant
+track6_title: Pain-Noir - L'arme
+track5_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
+track6_color: vibrant
 ---
+![guestPic226.jpg]({{site.baseurl}}/img/guestPic226.jpg)
 <p id="introduction">This morning,</p>
 
 # Title 
