@@ -32,6 +32,7 @@ track5_color: vibrant
 track6_title: Pain-Noir - L'arme
 track5_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
 track6_color: vibrant
+writer: Louise
 ---
 <p id="introduction">This morning,</p>
 
