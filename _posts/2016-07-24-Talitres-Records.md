@@ -33,7 +33,6 @@ track6_title: Pain-Noir - L'arme
 track5_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
 track6_color: vibrant
 ---
-![guestPic226.jpg]({{site.baseurl}}/img/guestPic226.jpg)
 <p id="introduction">This morning,</p>
 
 # Title 
