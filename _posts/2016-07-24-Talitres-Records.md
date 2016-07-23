@@ -33,6 +33,12 @@ track6_title: Pain-Noir - L'arme
 track5_link: 'https://soundcloud.com/julia-jacklin/leadlightsong'
 track6_color: vibrant
 writer: Louise
+description: >-
+  This morning, Mailtape presents a brand new kind of episodes! Did you notice
+  this "Records" thing in the title? We've decided to start inviting record
+  labels in Mailtape episodes every now and then! As you know, we aspire to
+  discover new inspiring music every Sunday; with labels guests, we will be able
+  to introduce you to an entire catalog each time! Isn't that wonderful?!
 ---
 <p id="introduction">This morning, Mailtape presents a brand new kind of episodes! Did you notice this "Records" thing in the title? We've decided to start inviting record labels in Mailtape episodes every now and then! As you know, we aspire to discover new inspiring music every Sunday; with labels guests, we will be able to introduce you to an entire catalog each time! Isn't that wonderful?! </p>
 
