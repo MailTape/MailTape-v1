@@ -44,7 +44,7 @@ description: >-
 
 # Indie or die
 
-To introduce this new formula, welcome Talitres! It's been 15 years of amazingly creative and introspective music since their creation. Sean Bouchard is the mastermind behind all this indie madness! Humbly, he only selected one artist of his own catalog, North American band _Le Loup_. You will also came across _Rachel Dadd_ and _Will Samson_ in our selection... And theses artists are just a glimpse of what you can hope to discover in Talitres' releases.
+To introduce this new formula, welcome Talitres! It's been 15 years of amazingly creative and introspective music since their creation. Sean Bouchard is the mastermind behind all this indie madness! Humbly, he only selected one artist of his own catalog, North American band _Le Loup_. You will also come across _Rachel Dadd_ and _Will Samson_ in our selection... And theses artists are just a glimpse of what you can hope to discover in Talitres' releases.
 
 # Talitres's selection:
 
