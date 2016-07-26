@@ -32,13 +32,13 @@ bla bla
 
 # Psychic Ills' selection:
 
-## Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
-_Sean Bouchard_: **"**Early 90's I was fascinated by the slow core scene of the west coast: American Music Club, Idaho, Swell, Red House Painters, and many more... Mark Kozelek, founding members of Red House Painters remained very prolific, with a real artistic integrity. What a beauty, suspended, timeless, a real gem, it's remarkable. And a sweet thing to wake up to on a Sunday.**"**
+## Kris Kristofferson - Sunday Morning Coming Down
+_Psychic Ills_: **"**I love easing into Sundays with some old country favorites, so I figured I would get literal with this choice. I think everyone has spent more than a few Sunday mornings reflecting on the night before and where you are today. Johnny Cash and Willie Nelson also recorded great versions of this song.**"**
 
-## Sufjan Stevens - Should Have Known Better
-_Sean Bouchard_: **"**Steven Sufjan is a real treasure from all points of view: outstanding releases, relevant collaborations, new challenges...and above all his music. "_Carrie & Lowell_" is a tender, touching and poignant album and above all disarmingly appealing.**"**
+## Traveling Wilburys - Handle With Care
+_Psychic Ills_: **"**We listened to the Traveling Wilburys a lot on our last tour in June. I mean, has there ever existed a more legendary supergroup? George Harrison takes the lead vocal on this track and when Roy Orbison comes in with the chorus, man, the sound of his voice melts my heart every time. Perfect for Sunday morning or any day.**"**
 
-## Le Loup - Morning Song
-_Sean Bouchard_: **"**Le Loup was an American indie band founded in Washington, D.C. by Sam Simkoff and with their bandmates they did a harmonious family. Fleet Foxes-style, Appalachian sounds, hymnal harmonies, and avant garde leanings. We love that freedom, that freshness, their sweet experimentation.**"**
+## Bill Withers - Lovely Day
+_Psychic Ills_: **"**Any time you want to start the day out right, put this song on. The laid back groove and classic bass line that opens the song sets the mood, "... it's gonna be a lovely day”**"**
 
-<p id="outroduction">That's all folks! Thanks to Édouard and to [Sean Bouchard, CEO of Talitres Records](https://www.facebook.com/talitres/) for his selection. We hope you enjoyed this new kind of episodes, let us know your thoughts!</p>
+<p id="outroduction">That's all folks! Thanks to Psychic Ills for their selection. We hope you enjoyed this issue, let us know your thoughts!</p>
