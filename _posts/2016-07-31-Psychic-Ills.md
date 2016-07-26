@@ -41,4 +41,4 @@ _Psychic Ills_: **"**We listened to the Traveling Wilburys a lot on our last tou
 ## Bill Withers - Lovely Day
 _Psychic Ills_: **"**Any time you want to start the day out right, put this song on. The laid back groove and classic bass line that opens the song sets the mood, "... it's gonna be a lovely day”**"**
 
-<p id="outroduction">That's all folks! Thanks to Psychic Ills for their selection. We hope you enjoyed this issue, let us know your thoughts!</p>
+<p id="outroduction">That's all folks! Thanks to Psychic Ills for their selection. We hope you enjoyed this issue! Let us know your thoughts!</p>
