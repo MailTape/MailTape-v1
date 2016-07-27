@@ -31,7 +31,7 @@ track5_color: trippy
 track6_color: bliss
 track7_color: rough
 ---
-<p id="introduction">This morning, discover a warm and indie selection made by our guest Psychic Ills. Packed with love and caring lyrics, this issue is perfect to accompagny a little poem of yours for your secret lover or one of your special friends.</p>
+<p id="introduction">This morning, discover a warm and indie selection made by our guest [Psychic Ills](https://www.facebook.com/psychicills). Packed with love and caring lyrics, this issue is perfect to accompagny a little poem of yours for your secret lover or one of your special friends.</p>
 
 # Music, discovery and truth.
 
