@@ -41,7 +41,7 @@ Of course it’s over pretentious to pretend I’d have such answer. What I can 
 
 But there’s more to that. I feel there’s something related to truth. It feels like they’re sweating some answers, something that feels simply true.
 
-I guess there’s maybe some truth in these tracks. A kind of truth which can only come from a creation inspired by love.
+A kind of truth which can only come from a creation inspired by love.
 
 # Psychic Ills' selection:
 
