@@ -23,6 +23,13 @@ track4_title: Psychic Ills - All Alone
 track5_title: Gap Dream - Greater Find
 track6_title: Klangstof - We Are Your Receiver
 track7_title: Beaty Heart - Flora
+track1_color: dreamy
+track2_color: vibrant
+track3_color: bliss
+track4_color: dreamy
+track5_color: trippy
+track6_color: bliss
+track7_color: rough
 ---
 <p id="introduction">This morning, discover a warm and indie selection made by our guest Psychic Ills. Packed with love and caring lyrics, this issue is perfect to accompagny a little poem of yours for your secret lover or one of your special friends.</p>
 
