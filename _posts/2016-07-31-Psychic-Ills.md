@@ -30,6 +30,13 @@ track4_color: dreamy
 track5_color: trippy
 track6_color: bliss
 track7_color: rough
+fbPic: fbPic227.png
+musiColor: musiColor227.png
+episode_URL: 'http://mailta.pe/227/Psychic-Ills/'
+description: >-
+  This morning, discover a warm and indie selection made by our guest Psychic
+  Ills. Packed with love and caring lyrics, this issue is perfect to accompagny
+  a little poem of yours for your secret lover or one of your special friends.
 ---
 <p id="introduction">This morning, discover a warm and indie selection made by our guest [Psychic Ills](https://www.facebook.com/psychicills). Packed with love and caring lyrics, this issue is perfect to accompagny a little poem of yours for your secret lover or one of your special friends.</p>
 
