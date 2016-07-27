@@ -24,11 +24,17 @@ track5_title: Gap Dream - Greater Find
 track6_title: Klangstof - We Are Your Receiver
 track7_title: Beaty Heart - Flora
 ---
-<p id="introduction">This morning, .... </p>
+<p id="introduction">This morning, discover a warm and indie selection made by our guest Psychic Ills. Packed with love and caring lyrics, this issue is perfect to accompagny a little poem of yours for your secret lover or one of your special friends.</p>
 
-# title
+# Music, discovery and truth.
 
-lorem ipsum
+What is it that makes a track a “discovery”? By discovery, I’m talking about these special tracks which gets in our memory and therefore changes, slightly or deeply, who we are.
+
+Of course it’s over pretentious to pretend I’d have such answer. What I can humbly say is each track I curated for MailTape triggered in me a strong emotional response.
+
+But there’s more to that. I feel there’s something related to truth. It feels like they’re sweating some answers, something that feels simply true.
+
+I guess there’s maybe some truth in these tracks. A kind of truth which can only come from a creation inspired by love.
 
 # Psychic Ills' selection:
 
