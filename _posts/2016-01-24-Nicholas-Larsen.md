@@ -1,36 +1,40 @@
 ---
 layout: episode
 author: Ludovic
-category: "201"
+category: '201'
 guest_name: Nicholas Larsen
 guest_color: vibrant
-bigTitle_font_ratio: "7"
+bigTitle_font_ratio: '7'
 guestPic: guestPic201.jpg
-track1_link: "https://soundcloud.com/bleutoucan/lafree"
-track2_link: "https://soundcloud.com/jimmyedgar/feel-what-it-is"
-track3_link: "https://soundcloud.com/kaytranada/rejjie-snow-blakkst-skn-feat-rae-morris-kaytra-mix"
-track4_link: "https://soundcloud.com/nicholas-larsen/starlight"
-track5_link: "https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav"
-track6_link: "https://soundcloud.com/partyfinemusic/daniel-alexander-trains"
-track7_link: "https://soundcloud.com/frankey-official/frankey-sandrino-acamar"
-track1_title: "Bleu Toucan - LA feat. Vendredi sur Mer"
+track1_link: 'https://soundcloud.com/bleutoucan/lafree'
+track2_link: 'https://soundcloud.com/jimmyedgar/feel-what-it-is'
+track3_link: >-
+  https://soundcloud.com/kaytranada/rejjie-snow-blakkst-skn-feat-rae-morris-kaytra-mix
+track4_link: 'https://soundcloud.com/limonadierofficial/nicholas-larsen-the-strip'
+track5_link: 'https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav'
+track6_link: 'https://soundcloud.com/partyfinemusic/daniel-alexander-trains'
+track7_link: 'https://soundcloud.com/frankey-official/frankey-sandrino-acamar'
+track1_title: Bleu Toucan - LA feat. Vendredi sur Mer
 track1_color: vibrant
-track2_title: "Jimmy Edgar - Feel What It Is"
+track2_title: Jimmy Edgar - Feel What It Is
 track2_color: bliss
-track3_title: "Rejjie Snow - Blakkst Skn feat. Rae Morris"
+track3_title: Rejjie Snow - Blakkst Skn feat. Rae Morris
 track3_color: trippy
-track4_title: "Nicholas Larsen - Starlight"
+track4_title: Nicholas Larsen - The Strip
 track4_color: vibrant
-track5_title: "Silver Firs - Signals"
+track5_title: Silver Firs - Signals
 track5_color: dreamy
-track6_title: "Daniel Alexander - Trains"
+track6_title: Daniel Alexander - Trains
 track6_color: bliss
-track7_title: "Frankey & Sandrino - Acamar"
+track7_title: Frankey & Sandrino - Acamar
 track7_color: rough
-episode_URL: "http://mailta.pe/201/Nicholas-Larsen/"
+episode_URL: 'http://mailta.pe/201/Nicholas-Larsen/'
 fbPic: fbPic201.png
 musiColor: musiColor201.png
-description: "This morning, let’s play a bit with this untamed selection from our guest Nicholas Larsen. It won’t be without a few head nods that you will find his choices are sparked with the very same hints of his own sounds."
+description: >-
+  This morning, let’s play a bit with this untamed selection from our guest
+  Nicholas Larsen. It won’t be without a few head nods that you will find his
+  choices are sparked with the very same hints of his own sounds.
 published: true
 curator: Ludovic
 illustrator: Camille Célestin
