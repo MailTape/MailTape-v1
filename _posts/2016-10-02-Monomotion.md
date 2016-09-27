@@ -18,6 +18,21 @@ episode_URL: 'http://mailta.pe/228/Monomotion/'
 fbPic: fbPic228.jpg
 musiColor: musiColor228.png
 ---
-## A New Post
+<p id="introduction">This morning, </p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# 
+
+
+# Monomotion's selection:
+
+## Edyth - Agua Verde
+_Monomotion_: **"**I love the samples of this track, how it's used, and how the song evolves with different theme parts.**"**
+
+## FEYNMAN - Pray for Us
+_Monomotion_: **"**I really love the chords, and the progression. The évolution is perfectly created through the build-up and the organic mixdown is one of my fav.**"**
+
+## Stormzy - Shut Up
+_Monomotion_: **"**Stormzy is one of the uprising UK Mc i've been following since a while now, and I really love how the panflute sounds and the colours of the synths in it. He has his own rapping style that I like!**"**
+
+
+<p id="outroduction">That's all folks! Thanks to </p>
