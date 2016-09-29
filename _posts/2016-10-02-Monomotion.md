@@ -18,6 +18,7 @@ track3_link: 'https://soundcloud.com/xlr8r/download-edyth-agua-verde'
 track1_link: 'https://soundcloud.com/samdavison9/stormzy-shut-up'
 track1_title: Stormzy - Shut Up
 track3_title: Edyth - Agua Verde
+track1_color: bliss
 ---
 <p id="introduction">This morning, </p>
 
