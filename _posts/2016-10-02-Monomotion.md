@@ -26,7 +26,6 @@ track3_title: Edyth - Agua Verde
 
 # Monomotion's selection:
 
-
 ## Stormzy - Shut Up
 _Monomotion_: **"**Stormzy is one of the uprising UK Mc i've been following since a while now, and I really love how the panflute sounds and the colours of the synths in it. He has his own rapping style that I like!**"**
 
