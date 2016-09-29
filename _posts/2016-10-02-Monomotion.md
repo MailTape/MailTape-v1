@@ -21,9 +21,6 @@ track3_title: Edyth - Agua Verde
 ---
 <p id="introduction">This morning, </p>
 
-# 
-
-
 # Monomotion's selection:
 
 ## Stormzy - Shut Up
@@ -34,5 +31,19 @@ _Monomotion_: **"**I really love the chords, and the progression. The évolution
 
 ## Edyth - Agua Verde
 _Monomotion_: **"**I love the samples of this track, how it's used, and how the song evolves with different theme parts.**"**
+
+## Curator's selection
+
+## Monomotion - Blue Hell Island
+_Louise_: **"****"**
+
+##
+_Louise_: **"****"**
+
+##
+_Louise_: **"****"**
+
+##
+_Louise_: **"****"**
 
 <p id="outroduction">That's all folks! Thanks to </p>
