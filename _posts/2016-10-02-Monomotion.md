@@ -50,13 +50,13 @@ _Monomotion_: **"**I really love the chords, and the progression. The évolution
 ## Monomotion - Blue Hell Island
 _Louise_: **"****"**
 
-## 
+## aetherworld. - Aeon of Aether
 _Louise_: **"****"**
 
-##
+## Nym - Come Back
 _Louise_: **"****"**
 
-##
+## Roméo Elvis x Le Motel - La Voiture
 _Louise_: **"****"**
 
 <p id="outroduction">That's all folks! Thanks to </p>
