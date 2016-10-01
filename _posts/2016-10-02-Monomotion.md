@@ -33,6 +33,12 @@ track7_title: Roméo Elvix x Le Motel - La Voiture
 track7_color: bliss
 writer: Louise
 guest_color: bliss
+description: >-
+  This morning, we're back and on fire! Our guest is parisian producer,
+  Monomotion. His last EP Behind the moon is pure magic. One year after its
+  release, it's always a delight to dive into its organic songs. There's a force
+  in it that surround your heart and soul to give you power. We tried to live up
+  to this in today's episode.
 ---
 <p id="introduction">This morning, we're back and on fire! Our guest is parisian producer, **[Monomotion](https://www.facebook.com/monomotionmusic/?fref=ts "Monomotion's Facebook page")**. His last EP _Behind the moon_ is pure magic. One year after its release, it's always a delight to dive into its organic songs. There's a force in it that surround your heart and soul to give you power. We tried to live up to this in today's episode.</p>
 
