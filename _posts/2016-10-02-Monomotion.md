@@ -66,6 +66,6 @@ _Louise_: **"**« _When I was a kid, I used to stare out the car window and pret
 Well, I will... This producer come from San Fransisco and is signed on amazing Loci Records. This song comes from the album _Complex_. I really love the concept of the album : "_It's about how simple things are more complex upon closer inspection_" **"**
 
 ## Roméo Elvis x Le Motel - La Voiture
-_Louise_: **"**« Surprising choice » you may say. Actually, not that much. I really though Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, real talented. I love the way he tells stories.**"**
+_Louise_: **"**« Surprising choice » you may say. Actually, not that much. I really thought Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, really talented. I love the way he tells stories. His rhymes and the music match perfectly.**"**
 
 <p id="outroduction">That's all folks! Thanks to [Monomotion](https://soundcloud.com/monomotionmusic "Monomotion on Soundcloud") for his selection. We hope you enjoyed this episode. Tell us if you liked this experimentation we made on the text. Enjoy your Sunday!</p>
