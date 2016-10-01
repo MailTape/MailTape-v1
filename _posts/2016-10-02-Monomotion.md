@@ -53,7 +53,7 @@ _Monomotion_: **"**I love the samples of this track, how it's used, and how the 
 ## FEYNMAN - The Farewell Courtyard
 _Monomotion_: **"**I really love the chords, and the progression. The évolution is perfectly created through the build-up and the organic mixdown is one of my fav.**"**
 
-# Curator's selection
+# Mailtape's selection
 
 ## Monomotion - Blue Hell Island
 _Louise_: **"**It's one of my favorite track of the EP. It gives me so much energy everytime I listen to it. So much happens in this one track, it's a blast. Can't even tell what I love the most. Is it the bassline which make me wanna dance? Or this organic mess that is above? It makes my head spin. _Behind The Moon_ EP was definitely one of my favorite record in 2015, anyway!**"**
