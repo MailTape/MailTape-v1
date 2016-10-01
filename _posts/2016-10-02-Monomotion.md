@@ -56,7 +56,7 @@ _Monomotion_: **"**I really love the chords, and the progression. The évolution
 # Curator's selection
 
 ## Monomotion - Blue Hell Island
-_Louise_: **"**It's one of my favorite track of the EP. It gives me so much energy everytime I listen to it. So much happens in this one track, it's a blast. Can't even tell what I love the most. Is it the bassline which make me wanna dance? Or this organic mess that is above? It makes my head spin. _Behind The Moon_ EP was definitely one of my favorite record in 2015, anyway! **"**
+_Louise_: **"**It's one of my favorite track of the EP. It gives me so much energy everytime I listen to it. So much happens in this one track, it's a blast. Can't even tell what I love the most. Is it the bassline which make me wanna dance? Or this organic mess that is above? It makes my head spin. _Behind The Moon_ EP was definitely one of my favorite record in 2015, anyway!**"**
 
 ## aetherworld. - Aeon of Aether
 _Louise_: **"**Pure talent. That's what I thought when I discovered Teodor Vasilev's songs. To me, his universe is part cinematic and part syfy. The atmosphere of his songs makes me escape from space and time.**"**
