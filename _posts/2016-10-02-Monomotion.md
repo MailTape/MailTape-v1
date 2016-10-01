@@ -32,7 +32,7 @@ track7_link: 'https://soundcloud.com/le-motel/romeo-elvis-x-le-motel-la-voiture'
 track7_title: Roméo Elvix x Le Motel - La Voiture
 track7_color: bliss
 ---
-<p id="introduction">This morning, once again, we try something new! You'll notice that </p>
+<p id="introduction">This morning, we're back and on fire! Our guest is parisian producer, **[Monomotion](https://www.facebook.com/monomotionmusic/?fref=ts "Monomotion's Facebook page")**. His last EP _Behind the moon_ is pure magic. One year after its release, it's always a delight to dive into its organic songs. There's a force in it that surround your heart and soul to give you power. We tried to live up to this in today's episode.</p>
 
 # Monomotion's selection:
 
@@ -42,21 +42,22 @@ _Monomotion_: **"**Stormzy is one of the uprising UK Mc i've been following sinc
 ## Edyth - Agua Verde
 _Monomotion_: **"**I love the samples of this track, how it's used, and how the song evolves with different theme parts.**"**
 
-## FEYNMAN - Pray for Us
+## FEYNMAN - The Farewell Courtyard
 _Monomotion_: **"**I really love the chords, and the progression. The évolution is perfectly created through the build-up and the organic mixdown is one of my fav.**"**
 
 ## Curator's selection
 
 ## Monomotion - Blue Hell Island
-_Louise_: **"****"**
+_Louise_: **"**It's one of my favorite track of the EP. It gives me so much energy everytime I listen to it. So much happens in this one track, it's a blast. Can't even tell what I love the most. Is it the bassline which make me wanna dance? Or this organic mess that is above? It makes my head spin. _Behind The Moon_ EP was definitely one of my favorite record in 2015, anyway! **"**
 
 ## aetherworld. - Aeon of Aether
-_Louise_: **"****"**
+_Louise_: **"**Pure talent. That's what I thought when I discovered Teodor Vasilev's songs. To me, his universe is part cinematic and part syfy. The atmosphere of his songs makes me escape from space and time.**"**
 
 ## Nym - Come Back
-_Louise_: **"****"**
+_Louise_: **"**"_When I was a kid, I used to stare out the car window and pretend that I was flying_". Best intro ever, do I need to say more? 
+Well, I will... This producer come from San Fransisco and is signed on amazing Loci Records. This song comes from the album _Complex_. I really love the concept of the album : "_It's about how simple things are more complex upon closer inspection_" **"**
 
 ## Roméo Elvis x Le Motel - La Voiture
-_Louise_: **"****"**
+_Louise_: **"**"Surprising choice" you may say. Actually, not that much. I really though Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, real talented. I love the way he tells stories.**"**
 
-<p id="outroduction">That's all folks! Thanks to </p>
+<p id="outroduction">That's all folks! Thanks to [Monomotion](https://soundcloud.com/monomotionmusic "Monomotion on Soundcloud") for his selection. We hope you enjoyed this episode. Tell us if you liked this experimentation we made on the text. Enjoy your Sunday!</p>
