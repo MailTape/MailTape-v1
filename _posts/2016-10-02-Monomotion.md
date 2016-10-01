@@ -34,6 +34,8 @@ track7_color: bliss
 writer: Louise
 guest_color: bliss
 ---
+![guestPic228.jpg]({{site.baseurl}}/img/guestPic228.jpg)
+![musiColor228.png]({{site.baseurl}}/img/musiColor228.png)
 <p id="introduction">This morning, we're back and on fire! Our guest is parisian producer, **[Monomotion](https://www.facebook.com/monomotionmusic/?fref=ts "Monomotion's Facebook page")**. His last EP _Behind the moon_ is pure magic. One year after its release, it's always a delight to dive into its organic songs. There's a force in it that surround your heart and soul to give you power. We tried to live up to this in today's episode.</p>
 
 # Monomotion's selection:
