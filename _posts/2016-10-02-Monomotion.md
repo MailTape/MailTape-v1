@@ -62,10 +62,10 @@ _Louise_: **"**It's one of my favorite track of the EP. It gives me so much ener
 _Louise_: **"**Pure talent. That's what I thought when I discovered Teodor Vasilev's songs. To me, his universe is part cinematic and part syfy. The atmosphere of his songs makes me escape from space and time.**"**
 
 ## Nym - Come Back
-_Louise_: **"**"_When I was a kid, I used to stare out the car window and pretend that I was flying_". Best intro ever, do I need to say more? 
+_Louise_: **"**« _When I was a kid, I used to stare out the car window and pretend that I was flying_ ». Best intro ever, do I need to say more? 
 Well, I will... This producer come from San Fransisco and is signed on amazing Loci Records. This song comes from the album _Complex_. I really love the concept of the album : "_It's about how simple things are more complex upon closer inspection_" **"**
 
 ## Roméo Elvis x Le Motel - La Voiture
-_Louise_: **"**"Surprising choice" you may say. Actually, not that much. I really though Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, real talented. I love the way he tells stories.**"**
+_Louise_: **"**« Surprising choice » you may say. Actually, not that much. I really though Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, real talented. I love the way he tells stories.**"**
 
 <p id="outroduction">That's all folks! Thanks to [Monomotion](https://soundcloud.com/monomotionmusic "Monomotion on Soundcloud") for his selection. We hope you enjoyed this episode. Tell us if you liked this experimentation we made on the text. Enjoy your Sunday!</p>
