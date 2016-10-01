@@ -19,6 +19,18 @@ track3_title: FEYNMAN - The Farewell Courtyard
 track1_color: bliss
 track3_link: 'https://soundcloud.com/yoannfeynman/the-farewell-courtyard'
 track2_link: 'https://soundcloud.com/xlr8r/download-edyth-agua-verde'
+track2_color: bliss
+track3_color: rough
+track4_color: bliss
+track5_link: 'https://soundcloud.com/aetherworldgarage/2016a'
+track5_title: aetherworld. - Aeon of Aether
+track5_color: dreamy
+track6_link: 'https://soundcloud.com/locirecords/come-back'
+track6_title: Nym - Come Back
+track6_color: dreamy
+track7_link: 'https://soundcloud.com/le-motel/romeo-elvis-x-le-motel-la-voiture'
+track7_title: Roméo Elvix x Le Motel - La Voiture
+track7_color: bliss
 ---
 <p id="introduction">This morning, once again, we try something new! You'll notice that </p>
 
@@ -38,7 +50,7 @@ _Monomotion_: **"**I really love the chords, and the progression. The évolution
 ## Monomotion - Blue Hell Island
 _Louise_: **"****"**
 
-##
+## 
 _Louise_: **"****"**
 
 ##
