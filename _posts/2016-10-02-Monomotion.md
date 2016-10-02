@@ -63,7 +63,7 @@ _Louise_: **"**Pure talent. That's what I thought when I discovered Teodor Vasil
 
 ## Nym - Come Back
 _Louise_: **"**« _When I was a kid, I used to stare out the car window and pretend that I was flying_ ». Best intro ever, do I need to say more? 
-Well, I will... This producer come from San Fransisco and is signed on amazing Loci Records. This song comes from the album _Complex_. I really love the concept of the album : "_It's about how simple things are more complex upon closer inspection_" **"**
+Well, I will... This producer come from San Fransisco and is signed on amazing Loci Records. This song comes from the album _Convex_. I really love the concept of the album : "_It's about how simple things are more complex upon closer inspection_" **"**
 
 ## Roméo Elvis x Le Motel - La Voiture
 _Louise_: **"**« Surprising choice » you may say. Actually, not that much. I really thought Le Motel's production was working perfectly with the rest of the selection. Roméo Elvis is a Belgian rapper who is, I think, really talented. I love how he tells stories. His rhymes and the music match in the best way.**"**
