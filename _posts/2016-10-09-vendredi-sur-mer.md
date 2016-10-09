@@ -61,5 +61,4 @@ _Maxime_: **"**xxx **"**
 ## Pépite - Eviter les Naufrages
 _Maxime_: **"**« xxx**"**
 
-<p id="outroduction">That's all folks! Thanks to Vendredi Sur Mer for his selection. We hope you enjoyed this episode.![guestPic229.jpg]({{site.baseurl}}/img/guestPic229.jpg)
- Enjoy your Sunday!</p>
+<p id="outroduction">That's all folks! Thanks to Vendredi Sur Mer for his selection. We hope you enjoyed this episode. Enjoy your Sunday!</p>
