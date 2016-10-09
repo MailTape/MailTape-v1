@@ -39,13 +39,13 @@ musiColor: musiColor229.png
 # Monomotion's selection:
 
 ## Claude Violante - I Kill By Night
-_Vendredi sur Mer_: **"**xxx**"**
+_Vendredi sur Mer_: **"** This track gave the impression of being unbreakable. The kind of song that you listen loud in your headphones, with a feeling of being powerful, almost a super-hero ! It's a cool representation of ourself ! Sometimes we should glorify ourself ! We fuckin worth it. 
 
 ## Octav - Man from the Stars
-_VsM_: **"**xxx.**"**
+_VsM_: **"**To continue in psychedelic mood I'll listen this one to fly and chill away upon earth. But still in my super-hero suit.**"**
 
 ## Bengale - Je Danse le Mia (I Am Cover)
-_VsM_: **"**xxx.**"**
+_VsM_: **"**To conclude, down to earth, I propose a great cover of I Am "Je Danse le Mia" by Bengale. It'll give you the strengh to endure your sunday brunch in a wood with a book and ... a nice girl. Or a guy, as you want, but it'll be less romantic.**"**
 
 # Mailtape's selection
 
