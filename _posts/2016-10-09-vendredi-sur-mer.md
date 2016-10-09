@@ -34,9 +34,9 @@ episode_URL: 'http://mailta.pe/229/vendredi-sur-mer/'
 fbPic: fbPic229.jpg
 musiColor: musiColor229.png
 ---
-<p id="introduction">This morning, xxx.</p>
+<p id="introduction">This morning, we're not far away from week-end's shores. So it's the perfect time to chill and discover the musical universe of Vendredi Sur Mer. We're pop and psychedelism aren't far away. Sweet melt.  </p>
  
-# Monomotion's selection:
+# Vendredi Sur Mer's selection:
 
 ## Claude Violante - I Kill By Night
 _Vendredi sur Mer_: **"** This track gave the impression of being unbreakable. The kind of song that you listen loud in your headphones, with a feeling of being powerful, almost a super-hero ! It's a cool representation of ourself ! Sometimes we should glorify ourself ! We fuckin worth it. 
@@ -50,10 +50,10 @@ _VsM_: **"**To conclude, down to earth, I propose a great cover of I Am "Je Dans
 # Mailtape's selection
 
 ## Vendredi Sur Mer - La Femme à la Peau Bleue
-_Louise_: **"**xxx**"**
+_Maxime_: **"**It's a hit, that's all. The second shot of Vendredi Sur Mer is still in the middle of the target. **"**
 
 ## Puma Blue - Want Me
-_Maxime_: **"**xxx.**"**
+_Maxime_: **"**This track does not make you waking up. And I recommand you to close your eyes right now. Let's imagine what could do a army of talented King Krule's wannabe to help mankind. **"**
 
 ## Weaves - Help (Beatles cover)
 _Maxime_: **"**xxx **"**
