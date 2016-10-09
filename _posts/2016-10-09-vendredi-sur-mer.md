@@ -34,6 +34,7 @@ episode_URL: 'http://mailta.pe/229/vendredi-sur-mer/'
 fbPic: fbPic229.jpg
 musiColor: musiColor229.png
 ---
+![musiColor229.png]({{site.baseurl}}/img/musiColor229.png)
 <p id="introduction">This morning, we're not far away from next week's shores. So it's the perfect time to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  </p>
  
 # Vendredi Sur Mer's selection:
