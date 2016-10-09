@@ -56,9 +56,9 @@ _Maxime_: **"**It's a hit, that's all. The second shot of Vendredi Sur Mer is st
 _Maxime_: **"**This track does not make you waking up. And I recommand you to close your eyes right now. Let's imagine what could do a army of talented King Krule's wannabe to help mankind. **"**
 
 ## Drugdealer - Suddenly
-_Maxime_: **"**xxx **"**
+_Maxime_: **"** Drugdealer entire first album is in a personnal playlist that I called "Les Apôtre de Mac Demarco" with such artists like Mild High Club or Homeshake. Drugdealer bring another universal influence in this Demarco's testament: a huge influence from the genesis of Pop Music.**"**
 
 ## Pépite - Eviter les Naufrages
-_Maxime_: **"**« xxx**"**
+_Maxime_: **"**Well, Pépite, I invite you to listen the Mailtape we did with them. I've only got superlative to describe what their music make me feel.  **"**
 
 <p id="outroduction">That's all folks! Thanks to Vendredi Sur Mer for his selection. We hope you enjoyed this episode. Enjoy your Sunday!</p>
