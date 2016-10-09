@@ -59,6 +59,6 @@ _Maxime_: **"**This track does not make you waking up. And I recommand you to cl
 _M_: **"** Drugdealer entire first album is in a personnal playlist that I called "Les Apôtres de Mac Demarco" with such artists like Mild High Club or Homeshake. Drugdealer bring another universal influence in this Demarco's testament: a huge influence from the genesis of Pop Music.**"**
 
 ## Pépite - Eviter les Naufrages
-_M_: **"**Well, Pépite, I invite you to listen the Mailtape we did with them. I've only got superlative to describe what their music make me feel. In my mind they are already classics. They write well, compose well, sing well, play well. They got everything to be huge in the next few years.**"**
+_M_: **"**Well, Pépite, I invite you to listen the Mailtape we did with them [(here)](http://mailta.pe/204/Pepite/). I've only got superlative to describe what their music make me feel. In my mind they are already classics. They write well, compose well, sing well, play well. They got everything to be huge in the next few years.**"**
 
-<p id="outroduction">That's all folks! Thanks to Vendredi Sur Mer for his selection. We hope you enjoyed this episode. Enjoy your Sunday!</p>
+<p id="outroduction">That's all folks! Thanks to [Vendredi Sur Mer](https://soundcloud.com/vendredisurmer) for his selection. We hope you enjoyed this episode. Enjoy your Sunday!</p>
