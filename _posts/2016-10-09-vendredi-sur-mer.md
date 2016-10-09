@@ -34,15 +34,15 @@ episode_URL: 'http://mailta.pe/229/vendredi-sur-mer/'
 fbPic: fbPic229.jpg
 musiColor: musiColor229.png
 ---
-<p id="introduction">This morning, we're not far away from next week's shores. So it's the perfect time to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  </p>
+<p id="introduction">This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  </p>
  
 # Vendredi Sur Mer's selection:
 
 ## Claude Violante - I Kill By Night
-_Vendredi sur Mer_: **"** This track gave the impression of being unbreakable. The kind of song that you listen loud in your headphones, with a feeling of being powerful, almost a super-hero ! It's a cool representation of ourself ! Sometimes we should glorify ourself ! We fuckin worth it. 
+_Vendredi sur Mer_: **"** This track give me the impression of being unbreakable. The kind of song that you listen loud in your headphones, with a feeling of being powerful, almost a super-hero ! It's a cool representation of ourself ! Sometimes we should glorify ourself ! We fuckin worth it. 
 
 ## Octav - Man from the Stars
-_VsM_: **"**To continue in psychedelic mood I'll listen this one to fly and chill away upon earth. But still in my super-hero suit.**"**
+_VsM_: **"**To continue in psychedelic mood I'll listen this one to fly away upon earth. But still in my super-hero suit.**"**
 
 ## Bengale - Je Danse le Mia (I Am Cover)
 _VsM_: **"**To conclude, down to earth, I propose a great cover of I Am "Je Danse le Mia" by Bengale. It'll give you the strengh to endure your sunday brunch in a wood with a book and ... a nice girl. Or a guy, as you want, but it'll be less romantic.**"**
@@ -56,7 +56,7 @@ _Maxime_: **"**It's a hit, that's all. The second shot of Vendredi Sur Mer is st
 _Maxime_: **"**This track does not make you waking up. And I recommand you to close your eyes right now. Let's imagine what could do a army of talented King Krule's wannabe to help mankind. **"**
 
 ## Drugdealer - Suddenly
-_M_: **"** Drugdealer entire first album is in a personnal playlist that I called "Les Apôtre de Mac Demarco" with such artists like Mild High Club or Homeshake. Drugdealer bring another universal influence in this Demarco's testament: a huge influence from the genesis of Pop Music.**"**
+_M_: **"** Drugdealer entire first album is in a personnal playlist that I called "Les Apôtres de Mac Demarco" with such artists like Mild High Club or Homeshake. Drugdealer bring another universal influence in this Demarco's testament: a huge influence from the genesis of Pop Music.**"**
 
 ## Pépite - Eviter les Naufrages
 _M_: **"**Well, Pépite, I invite you to listen the Mailtape we did with them. I've only got superlative to describe what their music make me feel. In my mind they are already classics. They write well, compose well, sing well, play well. They got everything to be huge in the next few years.**"**
