@@ -55,7 +55,7 @@ _Maxime_: **"**It's a hit, that's all. The second shot of Vendredi Sur Mer is st
 ## Puma Blue - Want Me
 _Maxime_: **"**This track does not make you waking up. And I recommand you to close your eyes right now. Let's imagine what could do a army of talented King Krule's wannabe to help mankind. **"**
 
-## Weaves - Help (Beatles cover)
+## Drugdealer - Suddenly
 _Maxime_: **"**xxx **"**
 
 ## Pépite - Eviter les Naufrages
