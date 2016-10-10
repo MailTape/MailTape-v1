@@ -47,7 +47,7 @@ _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a f
 
 # Mailtape's selection
 
-## Nicolas Michaux - A la Vie, à la Mort
+# Nicolas Michaux - A la Vie, à la Mort
 _Maxime_: **"** xxx **"**
 
 ## Alex Cameron - Mongrel
