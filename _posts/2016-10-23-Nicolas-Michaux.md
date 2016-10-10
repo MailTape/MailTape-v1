@@ -36,29 +36,29 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
  
 ## Nicolas Michaux's selection:
 
-• **Andy Shauf - The Magician**
+1 • **Andy Shauf - The Magician**
 Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
 
-• **Soft Hair - Lying Has to Stop**
+2 • **Soft Hair - Lying Has to Stop**
 _N.M._: **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment.  **"**
 
-• **Robbing Millions - 8 is the Figure that I Like the Most**
+3 • **Robbing Millions - 8 is the Figure that I Like the Most**
 _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
 
-# Nicolas Michaux - A la Vie, à la Mort
+4 # • Nicolas Michaux - A la Vie, à la Mort
 _Maxime_: **"** xxx **"**
 
 
 ## Mailtape's selection
 
-• **Alex Cameron - Mongrel**
+5 • **Alex Cameron - Mongrel**
 _M._: **"**xxx **"**
 
-• **I Have a Tribe - After We Meet**
+6 • **I Have a Tribe - After We Meet**
 _M._: **"**xxx**"**
 
-• **Weekend Affair - Duel Part. 2**
+7 • **Weekend Affair - Duel Part. 2**
 _M._: **"**xxx**"**
 
 <p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks!</p>
