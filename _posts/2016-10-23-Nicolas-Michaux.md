@@ -46,19 +46,19 @@ _N.M._: **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute 
 _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
 
-
 # Nicolas Michaux - A la Vie, à la Mort
 _Maxime_: **"** xxx **"**
 
+
 ## Mailtape's selection
 
-## Alex Cameron - Mongrel
+• **Alex Cameron - Mongrel**
 _M._: **"**xxx **"**
 
-## I Have a Tribe - After We Meet
+• **I Have a Tribe - After We Meet**
 _M._: **"**xxx**"**
 
-## xxx - xxx
+• **Weekend Affair - Duel Part. 2**
 _M._: **"**xxx**"**
 
 <p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks!</p>
