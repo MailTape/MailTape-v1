@@ -37,13 +37,13 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 **Nicolas Michaux's selection:** 
  
 + ## • **Andy Shauf - The Magician**
-Nicolas Michaux: > "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
+Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
 
 + ## • **Soft Hair - Lying Has to Stop**
-N.M. : > "Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment."
+N.M. : "Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment."
 
 + ## • **Robbing Millions - 8 is the Figure that I Like the Most**
-N.M. : **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
+N.M. : "One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days..."
 
 
 + # • Nicolas Michaux - A la Vie, à la Mort
@@ -54,7 +54,7 @@ Maxime: " There is the instrumental, soft, naïve, crescendo, eclectic, directly
 **Mailtape's selection**
  
 + ## • **Alex Cameron - Mongrel**
-Maxime: _I suspect Alex Cameron to be nuts. Between two guy, equaly talented, there is a nut, and a regular one. Nut's music always surpass regular guy's music. It's just a theory. Just look about Mac Demarco. Right ?_
+Maxime: I suspect Alex Cameron to be nuts. Between two guy, equaly talented, there is a nut, and a regular one. Nut's music always surpass regular guy's music. It's just a theory. Just look about Mac Demarco. Right ?
 
 + ## • **I Have a Tribe - After We Meet**
 M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. I Have a Tribe always succed to compose them too. Look out his first album, it'll be you're best winter's companion.
