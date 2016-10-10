@@ -45,10 +45,12 @@ _N.M._: **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute 
 - **Robbing Millions - 8 is the Figure that I Like the Most**
 _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
-# Mailtape's selection
 
-## Nicolas Michaux - A la Vie, à la Mort
+
+# Nicolas Michaux - A la Vie, à la Mort
 _Maxime_: **"** xxx **"**
+
+## Mailtape's selection
 
 ## Alex Cameron - Mongrel
 _M._: **"**xxx **"**
