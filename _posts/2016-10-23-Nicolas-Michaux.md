@@ -59,7 +59,7 @@ Maxime: I suspect Alex Cameron to be nuts. Between two guy, equaly talented, the
 ## • **I Have a Tribe - After We Meet**
 M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. I Have a Tribe always succed to compose them too. Look out his first album, it'll be you're best winter's companion.
 
-##• **Weekend Affair - Duel Part. 2**
+## • **Weekend Affair - Duel Part. 2**
 M.: A Pop song to conclude. Out from Yuksek's label before summer 2016, i've just discover Weekend Affair. Or, RE-discover, becouse the band used to sing in English before there last EP, where Duel Part. 2 is come from, and it's a done deal ! I hope there'll we choose to continue to sing in French. 
 
 <p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks!</p>
