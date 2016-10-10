@@ -32,9 +32,9 @@ track6_title: I Have a Tribe - After We Meet
 track6_color: vibrant
 track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 ---
-<p id="introduction">This morning, xxx  </p>
- 
- 
+<p id="introduction">This morning, xxx  
+</p>
+
 ## Nicolas Michaux's selection:
 
 • **Andy Shauf - The Magician**
