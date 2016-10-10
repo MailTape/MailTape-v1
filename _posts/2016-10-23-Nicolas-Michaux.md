@@ -39,11 +39,11 @@ track6_link: 'https://soundcloud.com/embrassemoimusic/private-room'
 ## Andy Shauf - The Magician
 _Nicolas Michaux_: **"**Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.**"** 
 
-## Octav - Man from the Stars
-_N.M._: **"**To continue in psychedelic mood I'll listen this one to fly away upon earth. But still in my super-hero suit.**"**
+## Soft Hair - Lying Has to Stop
+_N.M._: **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment.  **"**
 
-## Bengale - Je Danse le Mia (I Am Cover)
-_N.M._: **"**To conclude, down to earth, I propose a great cover of I Am "Je Danse le Mia" by Bengale. It'll give you the strengh to endure your sunday brunch in a wood with a book and ... a nice girl. Or a guy, as you want, but it'll be less romantic.**"**
+## Robbing Millions - 8 is the Figure that I Like the Most
+_N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
 # Mailtape's selection
 
