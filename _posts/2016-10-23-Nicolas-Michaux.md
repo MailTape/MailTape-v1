@@ -46,11 +46,11 @@ N.M. : **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute f
 N.M. : **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
 
-# • Nicolas Michaux - A la Vie, à la Mort
++ # • Nicolas Michaux - A la Vie, à la Mort
 Maxime: **"** There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, and the voice of Nicolas Michaux. I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, whatever works ! **"**
 
 
-+ **Mailtape's selection**
+**Mailtape's selection**
  
 + ## • **Alex Cameron - Mongrel**
 Maxime: _I suspect Alex Cameron to be nuts. Between two guy, equaly talented, there is a nut, and a regular one. Nut's music always surpass regular guy's music. It's just a theory. Just look about Mac Demarco. Right ?_
