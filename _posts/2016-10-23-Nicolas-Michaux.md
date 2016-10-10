@@ -43,5 +43,4 @@ _M_: **"**xxx**"**
 ## xxx - xxx
 _M_: **"**xxx**"**
 
-<p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks![guestPic231.jpg]({{site.baseurl}}/img/guestPic231.jpg)
-!</p>
+<p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks!</p>
