@@ -30,6 +30,7 @@ track5_title: Alex Cameron - Mongrel
 track7_title: Weekend Affair - Duel Part. 2
 track6_title: Embrasse-Moi - La Marche des Morts
 track6_color: dreamy
+track6_link: 'https://soundcloud.com/embrassemoimusic/private-room'
 ---
 <p id="introduction">This morning, xxx  </p>
  
