@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/antirecords/andy-shauf-the-magician'
 guestPic: guestPic231.jpg
 track2_link: 'https://soundcloud.com/softhairofficial/lying-has-to-stop-single'
@@ -15,6 +15,7 @@ writer: Maxime
 category: '231'
 guest_name: Nicolas Michaux
 guest_color: vibrant
+episode_URL: 'http://mailta.pe/231/Nicolas-Michaux/'
 ---
 <p id="introduction">This morning, xxx  </p>
  
