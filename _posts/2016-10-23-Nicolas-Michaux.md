@@ -9,6 +9,12 @@ track3_link: 'https://soundcloud.com/robbing-millions/8-is-the-figure-that-i-lik
 track4_link: 'https://soundcloud.com/nicolasmichaux/02-a-la-vie-a-la-mort'
 track5_link: 'https://soundcloud.com/borden-management/alex-cameron-mongrel'
 track7_link: 'https://soundcloud.com/partyfinemusic/weekend-affair-duel-part-2'
+author: Maxime
+illustrator: William Girault
+writer: Maxime
+category: '231'
+guest_name: Nicolas Michaux
+guest_color: vibrant
 ---
 <p id="introduction">This morning, xxx  </p>
  
