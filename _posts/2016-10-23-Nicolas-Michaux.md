@@ -37,17 +37,17 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 **Nicolas Michaux's selection:** 
  
 + ## • **Andy Shauf - The Magician**
-Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
+Nicolas Michaux: > "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
 
 + ## • **Soft Hair - Lying Has to Stop**
-N.M. : **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment.  **"**
+N.M. : > "Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment."
 
 + ## • **Robbing Millions - 8 is the Figure that I Like the Most**
 N.M. : **"**One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days...**"**
 
 
 + # • Nicolas Michaux - A la Vie, à la Mort
-Maxime: **"** There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, and the voice of Nicolas Michaux. I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, whatever works ! **"**
+Maxime: " There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, and the voice of Nicolas Michaux. I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, whatever works !" 
  
  
 
