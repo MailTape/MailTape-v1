@@ -28,9 +28,9 @@ track3_title: Robbing Millions - 8 is the Figure that I Like the Most
 track4_title: 'Nicolas Michaux - A la Vie, à la Mort'
 track5_title: Alex Cameron - Mongrel
 track7_title: Weekend Affair - Duel Part. 2
-track6_title: Embrasse-Moi - La Marche des Morts
-track6_color: dreamy
-track6_link: 'https://soundcloud.com/embrassemoimusic/private-room'
+track6_title: I Have a Tribe - After We Meet
+track6_color: vibrant
+track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 ---
 <p id="introduction">This morning, xxx  </p>
  
