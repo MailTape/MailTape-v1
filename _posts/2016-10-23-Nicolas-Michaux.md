@@ -36,7 +36,7 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 </p>
 
 **Nicolas Michaux's selection:**
-## • **Andy Shauf - The Magician**
+### • **Andy Shauf - The Magician**
 Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
 
 ## • **Soft Hair - Lying Has to Stop**
