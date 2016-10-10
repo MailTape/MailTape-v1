@@ -37,7 +37,7 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 # Nicolas Michaux's selection:
 
 ## Andy Shauf - The Magician
-_Nicolas Michaux_: **"**Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.**"** 
+**Nicolas Michaux**: _"Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."_
 
 ## Soft Hair - Lying Has to Stop
 _N.M._: **"**Amazing track. Smooth and sexy. It's also my tour crew's absolute favorite video at the moment.  **"**
@@ -50,10 +50,10 @@ _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a f
 ## Nicolas Michaux - A la Vie, à la Mort
 _Maxime_: **"** xxx **"**
 
-## xxx - xxx
+## Alex Cameron - Mongrel
 _M._: **"**xxx **"**
 
-## xxx - xxx
+## I Have a Tribe - After We Meet
 _M._: **"**xxx**"**
 
 ## xxx - xxx
