@@ -51,12 +51,12 @@ _N.M._: **"**One of the coolest bands of the Brussels scene. I saw them live a f
 _Maxime_: **"** xxx **"**
 
 ## xxx - xxx
-_Maxime_: **"**xxx **"**
+_M._: **"**xxx **"**
 
 ## xxx - xxx
-_M_: **"**xxx**"**
+_M._: **"**xxx**"**
 
 ## xxx - xxx
-_M_: **"**xxx**"**
+_M._: **"**xxx**"**
 
 <p id="outroduction">That's all folks! Thanks to Nicolas Michaux for his selection. I invite you to buy his first album ! We hope you enjoyed this episode. Have a nice day Folks!</p>
