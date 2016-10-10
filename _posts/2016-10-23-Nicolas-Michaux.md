@@ -16,6 +16,20 @@ category: '231'
 guest_name: Nicolas Michaux
 guest_color: vibrant
 episode_URL: 'http://mailta.pe/231/Nicolas-Michaux/'
+track1_color: vibrant
+track2_color: dreamy
+track3_color: bliss
+track4_color: vibrant
+track5_color: vibrant
+track7_color: bliss
+track1_title: Andy Shauf - The Magician
+track2_title: Soft Hair - Lying Has to Stop
+track3_title: Robbing Millions - 8 is the Figure that I Like the Most
+track4_title: 'Nicolas Michaux - A la Vie, à la Mort'
+track5_title: Alex Cameron - Mongrel
+track7_title: Weekend Affair - Duel Part. 2
+track6_title: Embrasse-Moi - La Marche des Morts
+track6_color: dreamy
 ---
 <p id="introduction">This morning, xxx  </p>
  
