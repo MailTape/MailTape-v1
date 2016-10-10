@@ -57,8 +57,7 @@ Maxime: **"** There is the instrumental, soft, naïve, crescendo, eclectic, dire
 Maxime: I suspect Alex Cameron to be nuts. Between two guy, equaly talented, there is a nut, and a regular one. Nut's music always surpass regular guy's music. It's just a theory. Just look about Mac Demarco. Right ? 
 
 • **I Have a Tribe - After We Meet**
-###
-M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. I Have a Tribe always succed to compose them too. Look out his first album, it'll be you're best winter's companion.
+### M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. I Have a Tribe always succed to compose them too. Look out his first album, it'll be you're best winter's companion.
 
 • **Weekend Affair - Duel Part. 2**
 ###
