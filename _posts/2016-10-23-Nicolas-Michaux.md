@@ -29,7 +29,7 @@ track4_title: 'Nicolas Michaux - A la Vie, à la Mort'
 track5_title: Alex Cameron - Mongrel
 track7_title: Weekend Affair - Duel Part. 2
 track6_title: I Have a Tribe - After We Meet
-track6_color: vibrant
+track6_color: dreamy
 track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 ---
 <p id="introduction"> This morning, Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter. </p>
