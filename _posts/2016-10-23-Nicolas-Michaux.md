@@ -50,7 +50,6 @@ N.M. : "One of the coolest bands of the Brussels scene. I saw them live a few da
 # Nicolas Michaux - A la Vie, à la Mort
 Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, and the voice of Nicolas Michaux. I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, whatever works !"_
 
- 
 
 
 ## **Mailtape's selection**
