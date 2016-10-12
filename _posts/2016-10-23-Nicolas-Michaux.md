@@ -52,8 +52,8 @@ Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly
 
  
 
-## 
-**Mailtape's selection**
+
+## **Mailtape's selection**
  
 + ## Alex Cameron - Mongrel
 Maxime: I suspect Alex Cameron to be nuts. Between two guy, equaly talented, there is a nut, and a regular one. Nut's music always surpass regular guy's music. It's just a theory. Just look about Mac Demarco. Right ?
