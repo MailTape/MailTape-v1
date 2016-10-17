@@ -1,7 +1,8 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
+category: '1234'
 ---
 <p id="introduction">This morning, we meet with Polo & Pan! Yet another French duet that makes inspiring music to smooth our souls. When I discovered them, I instantly fell in love. A peaceful mood lives through their tracks and makes the world a better place each time I pump up the volume. Here is their fresh selection full of good vibes, just for you.</p>
  
