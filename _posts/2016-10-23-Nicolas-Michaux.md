@@ -34,8 +34,6 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 fbPic: fbPic231.jpg
 musiColor: musiColor231.png
 ---
-![fbPic231.jpg]({{site.baseurl}}/img/fbPic231.jpg)
-![musiColor231.png]({{site.baseurl}}/img/musiColor231.png)
 <p id="introduction"> This morning, xxx. </p>
 
 **Nicolas Michaux's selection:** 
