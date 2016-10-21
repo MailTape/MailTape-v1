@@ -34,7 +34,7 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 fbPic: fbPic231.jpg
 musiColor: musiColor231.png
 ---
-<p id="introduction"> This morning, Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter.Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter. </p>
+<p id="introduction"> This morning, xxx. </p>
 
 **Nicolas Michaux's selection:** 
  
