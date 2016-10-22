@@ -34,9 +34,9 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 fbPic: fbPic231.jpg
 musiColor: musiColor231.png
 ---
-<p id="introduction"> This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. Dominique A. et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. </p>
+<p id="introduction"> This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. Dominique A. et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. </p>
 
-**Nicolas Michaux's selection:** 
+**Nicolas Michaux's romantic selection:** 
  
 + ## Andy Shauf - The Magician
 Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
@@ -54,10 +54,10 @@ Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly
 
 
 
-## **Mailtape's selection**
+## **Mailtape's romantic selection**
  
 + ## Alex Cameron - She's Mine
-Maxime: Alex Cameron is a nut. He also go talent, and it took two years for the world to recognize it. Out in 2014, his first album is republished by a tasty label. All songs are weirds and beautiful at once. 
+Maxime: Alex Cameron is a nut. He also go talent, and it took two years for the world to recognize it. Out in 2014, his first album is republished this year by a tasty label. All songs are weirds and beautiful at once. 
 
 + ## I Have a Tribe - After We Meet
 M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. This year it'sI h Have a Tribes's turn. Look out his first album, it'll be you're best winter's companion.
