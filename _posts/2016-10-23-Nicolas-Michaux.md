@@ -47,17 +47,13 @@ N.M. : "Amazing track. Smooth and sexy. It's also my tour crew's absolute favor
 + ## Robbing Millions - 8 is the Figure that I Like the Most
 N.M. : "One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days..."
 
+## **Mailtape's romantic selection**
 
-
-## Nicolas Michaux - A la Vie, à la Mort
++ ## Nicolas Michaux - A la Vie, à la Mort
 Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, and the voice of Nicolas Michaux. I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, just live and "whatever works !"_
 
-
-
-## **Mailtape's romantic selection**
- 
 + ## Alex Cameron - She's Mine
-Maxime: Alex Cameron is a nut. He also go talent, and it took two years for the world to recognize it. Out in 2014, his first album is republished this year by a tasty label. All songs are weirds and beautiful at once. 
+M: Alex Cameron is a nut. He also go talent, and it took two years for the world to recognize it. Out in 2014, his first album is republished this year by a tasty label. All songs are weirds and beautiful at once. 
 
 + ## I Have a Tribe - After We Meet
 M.: A Piano / Voice balade like there is few of them now. Last year Tobias Jesso Jr. tried to resurrected this style of composing. This year it'sI h Have a Tribes's turn. Look out his first album, it'll be you're best winter's companion.
