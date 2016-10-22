@@ -50,7 +50,7 @@ N.M. : "One of the coolest bands of the Brussels scene. I saw them live a few da
 ## **Mailtape's romantic selection**
 
 + ## Nicolas Michaux - A la Vie, à la Mort
-Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, dreamy and elegant. Then, there is the candid and sincere voice of Nicolas Michaux. Those 3 elements create an exceptionally successful song.  I allways liked falsely naives lyrics. This one is a perfect melcolic love song. "Whatever Works !" seems to say Nicolas, If it goes wrong, or right, what's happen is printed into our personnal history. So, just live and "whatever works !"_
+Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, dreamy and elegant. Then, there is the candid and sincere voice of Nicolas Michaux. Those 3 elements create an exceptionally successful song. _
 
 + ## Alex Cameron - She's Mine
 M: Alex Cameron is a nut. He also go talent, and it took two years for the world to recognize it. Out in 2014, his first album is republished this year by a tasty label. All songs are weirds and beautiful at once. 
