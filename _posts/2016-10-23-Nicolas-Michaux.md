@@ -34,8 +34,7 @@ track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
 fbPic: fbPic231.jpg
 musiColor: musiColor231.png
 ---
-<p id="introduction"> ![fbPic231.jpg]({{site.baseurl}}/img/fbPic231.jpg)
-. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. [Dominique A.](https://www.youtube.com/watch?v=nNtSijP4yaQ) et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. </p>
+<p id="introduction"> This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. [Dominique A.](https://www.youtube.com/watch?v=nNtSijP4yaQ) et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. </p>
 
 **Nicolas Michaux's romantic selection:** 
  
