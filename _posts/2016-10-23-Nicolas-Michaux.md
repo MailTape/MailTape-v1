@@ -36,7 +36,7 @@ musiColor: musiColor231.png
 ---
 <p id="introduction"> This morning, we offer you a romantic Mailtape, and a romantic artist. Nicolas Michaux is a Belgian singer who remind us the glory days of cheezy french or Italian pop songs. In "A la Vie, à la Mort", the romantism of Nicolas Michaux is tinted of melancolic mood, with falsely naive lyrics. [Dominique A.](https://www.youtube.com/watch?v=nNtSijP4yaQ) et Etienne Daho resonate in Nicolas Michaux's music. (For all our non-french followers, I also recommand you to listen those two legendary french singer.) Poetry and lo-fi instrumental is the perfect blend in "A la Vie, à la mort", the blend that transform this song in a heady treasure that you'll cherish for a long time. </p>
 
-**Nicolas Michaux's romantic selection:** 
+# **Nicolas Michaux's romantic selection:** 
  
 + ## Andy Shauf - The Magician
 Nicolas Michaux: "Crafted, roots and elegant. There's a sheer love of sound in andy shauf's work - obviously a very talented songwriter."
@@ -48,7 +48,7 @@ N.M. : "Amazing track. Smooth and sexy. It's also my tour crew's absolute favor
 N.M. : "One of the coolest bands of the Brussels scene. I saw them live a few days ago - terrific show. This song will stay with you for days..."
 
 
-## **Mailtape's romantic selection**
+# **Mailtape's romantic selection**
 
 + ## Nicolas Michaux - A la Vie, à la Mort
 Maxime: _"There is the instrumental, soft, naïve, crescendo, eclectic, directly imported from the eigties, from France or Italy. And there are the lyrics, dreamy and elegant. Then, there is the candid and sincere voice of Nicolas Michaux. Those 3 elements create an exceptionally successful song. _
