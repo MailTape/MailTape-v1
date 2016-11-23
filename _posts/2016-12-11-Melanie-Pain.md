@@ -34,6 +34,31 @@ episode_URL: 'http://mailta.pe/238/Melanie-Pain/'
 fbPic: fbPic238.jpg
 musiColor: musiColor238.png
 ---
-## A New Post
+<p id="introduction"> This morning,</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# **Mélanie Pain's selection**
+
++ ## Tortoise & Bonnie 'Prince' Billy - Thunder road
+_Mélanie Pain_: **"**Amazing cover of  Bruce Springsteen with the noisy sound of Tortoise and the pristine voice of  Bonnie Prince Billy. A bizarre and powerfull mix that works really well. Springsteen lyrics are wonderfull. **"**
+
++ ## Iron & wine - A boy with a coin
+_Mélanie Pain_: **"**A classic Iron and Wine song that is soft and strong, a beautifil folk ritournelle that sticks in your head for days. Love the rythm of that song. 
+**"**
+
++ ## Team Ghost - The Riser
+_Mélanie Pain_: **"**it's dark, melancholic, electro, noisy, it's like a soundtrack for the end of the world or for it's beginning... I can't wait to hear the new album of Team Ghost**"**
+
+# **Mailtape's selection**
+
++ ## 
+_Louise_: **"****"**
+
++ ## 
+_Louise_: **"****"**
+
++ ## 
+_Louise_: **"****"**
+
++ ## 
+_Louise_: **"****"**
