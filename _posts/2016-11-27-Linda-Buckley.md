@@ -35,6 +35,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/236/Linda-Buckley'
 guestPic: guestPic236.jpg
 fbPic: fbPic236.jpg
+musiColor: musiColor236.png
 ---
 <p id="introduction">
 This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, [Linda Buckley](http://www.lindabuckley.org/). Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.</p>
@@ -44,7 +45,6 @@ This morning, let yourself be cocooned in the beautiful strands of sound woven t
 
 + ## Grouper - Heavy Water / I'd Rather Be Sleeping
 _Linda_: **"**My first choice is Grouper - I'm in New York at the moment and the last time I was here, I went to see Grouper play at Le Poisson Rouge in Greenwich Village. It had been humid for days and she took to the stage, all shy yet mesmerising - I get totally placed under a spell by the music and her ethereal voice. I walked outside and the sky opened into a massive thunderstorm, so I always think of that when I listen to Grouper now.**"**
-
 
 
 + ## MMOTHS - Deu
