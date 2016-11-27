@@ -2,9 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-author: MailTape Crew
-illustrator: Anais Caura
-writer: Louise
+author: Sanjay Mistry
+illustrator: Aoife Comey
+writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
 track1_link: >-
