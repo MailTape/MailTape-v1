@@ -32,7 +32,7 @@ track6_title: Rachel Grimes – The Air In Time
 track6_color: dreamy
 track7_title: 'Allison Cameron - 3rds, 4ths & 5ths'
 track7_color: bliss
-episode_URL: 'http://mailta.pe/236/Linda-Buckley'
+episode_URL: 'http://mailta.pe/236/Linda-Buckley/'
 guestPic: guestPic236.jpg
 fbPic: fbPic236.jpg
 musiColor: musiColor236.png
