@@ -54,6 +54,8 @@ prose:
               value: "Olivier"
             - name: "PS KY"
               value: "PS KY"
+            - name: "Sanjay"
+              value: "Sanjay Mistry"
             - name: "MailTape Crew"
               value: "MailTape Crew"
       - name: "illustrator"
@@ -62,6 +64,8 @@ prose:
           label: "Who did the illustration?"
           placeholder: "Choose illustrator"
           options:
+            - name: "Aoife"
+              value: "Aoife Comey"
             - name: "Anais"
               value: "Anais Caura"
             - name: "Celestin"
@@ -76,6 +80,8 @@ prose:
           label: "Who wrote the text?"
           placeholder: "Choose writer"
           options:
+            - name: "Daisy"
+              value: "Daisy"
             - name: "ImaCrea"
               value: "ImaCrea"
             - name: "Louise"
