@@ -43,7 +43,6 @@ This morning, let yourself be cocooned in the beautiful strands of sound woven t
 
 + ## Grouper - Heavy Water / I'd Rather Be Sleeping
 _Linda_: **"**My first choice is Grouper - I'm in New York at the moment and the last time I was here, I went to see Grouper play at Le Poisson Rouge in Greenwich Village. It had been humid for days and she took to the stage, all shy yet mesmerising - I get totally placed under a spell by the music and her ethereal voice. I walked outside and the sky opened into a massive thunderstorm, so I always think of that when I listen to Grouper now.**"**
-![guestPic236.jpg]({{site.baseurl}}/img/guestPic236.jpg)
 
 
 + ## MMOTHS - Deu
