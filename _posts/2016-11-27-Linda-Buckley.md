@@ -34,6 +34,33 @@ track7_title: 'Allison Cameron - 3rds, 4ths & 5ths'
 track7_color: bliss
 episode_URL: 'http://mailta.pe/236/Linda-Buckley'
 ---
-## A New Post
+<p id="introduction">
+This morning, let yourself be cocooned in the beautiful strands of sound woven together by our guest, [Linda Buckley](http://www.lindabuckley.org/). Resist the day for just a few minutes longer, as your consciousness oscillates with the ebb and flow of each track. Linda Buckley knows just how to tap into the dreamy ether, gently pulling opening doors to sonic worlds whose tendrils reach out, imploring you to join them. Close your eyes, slow your breathing, and let the sound vortex move you.</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# **Linda Buckley's selection**
+
++ ## Grouper - Heavy Water / I'd Rather Be Sleeping
+_Linda_: **"**My first choice is Grouper - I'm in New York at the moment and the last time I was here, I went to see Grouper play at Le Poisson Rouge in Greenwich Village. It had been humid for days and she took to the stage, all shy yet mesmerising - I get totally placed under a spell by the music and her ethereal voice. I walked outside and the sky opened into a massive thunderstorm, so I always think of that when I listen to Grouper now.**"**
+
++ ## MMOTHS - Deu
+_Linda_: **"**I heard the music of Mmoths for the first time earlier this year and I immediately connected with it. So much, that Jack and I will work on some new music together. We have very similar tastes in music, and I love how saturated and immersive and dense and gorgeous this is, full of heart.**"**
+
++ ## Tropic of Cancer - Stop Suffering 
+_Linda_: **"**I've heard the music of Tropic of Cancer be described as 'spooky synth' and this probably comes close to a lot of the music that I've loved growing up, from Cocteau Twins to Joy Division. This track has a dreamy gothic quality that I seem to be drawn towards in much of my listening.**"**
+
+# **Mailtape's selection**
+
++ ## Linda Buckley - Immersia - I
+_Sanjay_: **"**This was the first composition I heard of Linda's. Released in 2011, _Immersia_ is a slow-burning three-part suite of ambient electronica. This first movement in particular is majestic, played on what sounds like a flanged synthesiser or mellotron.**"**
+
++ ## Jason Sharp - A Boat Upon its Blood (Pt 1)
+_Sanjay_: **"**This is a piece with a brooding sense of instability – rattling percussive clicks emerge from the crevices with a warm glow of electronic drone filling a barren soundscape. **"**
+
++ ## Rachel Grimes - The Air in Time
+_Sanjay_: **"**This is a gorgeous, stately composition that feels both connected to and completely removed from the current musical landscape. It has a pop-like structure to it, with clear delineation between verse, bridge and choruses that could easily be adapted to pure song form by an able lyricist and singer.**"**
+
++ ## Allison Cameron - 3rds, 4ths & 5ths
+_Sanjay_: **"**This is a nice bit of chromatic fantasia with a wind-chime feel and some subtle harmonica that gives way to a rather elegant violin-and-piano episode and flute passages. Allison Cameron’s music is spacious, introspective and hypnotic.**"**
+
+<p id="outroduction">That's all folks! Thanks for listening, and thanks to **Linda Buckley** for being our guest. We hope you enjoyed this tape!</p>
