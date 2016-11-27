@@ -63,7 +63,7 @@ _Linda_: **"**I've heard the music of Tropic of Cancer be described as 'spooky s
 # **Mailtape's selection**
 
 + ## Linda Buckley - Immersia - I
-_Sanjay_: **"**This was the first composition I heard of Linda's. Released in 2011, _Immersia_ is a slow-burning three-part suite of ambient electronica. This first movement in particular is majestic, played on what sounds like a flanged synthesiser or mellotron.**"**
+_Sanjay_: **"**This was the first composition I heard of Linda's. Released in 2011, _Immersia_ is a three-part suite of ambient electronica. This first movement in particular is majestic, played on what sounds like a flanged synthesiser or mellotron.**"**
 
 + ## Jason Sharp - A Boat Upon its Blood (Pt 1)
 _Sanjay_: **"**This is a piece with a brooding sense of instability – rattling percussive clicks emerge from the crevices with a warm glow of electronic drone filling a barren soundscape. **"**
