@@ -63,4 +63,4 @@ _Sanjay_: **"**This is a gorgeous, stately composition that feels both connected
 + ## Allison Cameron - 3rds, 4ths & 5ths
 _Sanjay_: **"**This is a nice bit of chromatic fantasia with a wind-chime feel and some subtle harmonica that gives way to a rather elegant violin-and-piano episode and flute passages. Allison Cameron’s music is spacious, introspective and hypnotic.**"**
 
-<p id="outroduction">That's all folks! Thanks for listening, and thanks to **Linda Buckley** for being our guest. We hope you enjoyed this tape!</p>
+<p id="outroduction">That's all folks! Thanks for listening, and thanks to **[Linda Buckley](http://www.lindabuckley.org/)** for being our guest. We hope you enjoyed this tape!</p>
