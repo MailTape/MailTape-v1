@@ -10,6 +10,12 @@ category: '239'
 guest_color: dreamy
 track2_link: 'https://soundcloud.com/arcocorintio/coronada'
 track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
+track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
+track1_color: trippy
+track2_title: Arco Corintio - Coronada
+track2_color: dreamy
+track3_title: Valesuchi - Golosynth
+track3_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
