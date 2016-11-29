@@ -27,6 +27,7 @@ musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
 track2_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'
 track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
+track7_link: 'https://soundcloud.com/simonboore/fkj-tom-misch-losing-my-way'
 ---
 <p id="introduction">This morning,</p>
 
