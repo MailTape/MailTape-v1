@@ -13,8 +13,8 @@ track1_link: 'https://soundcloud.com/brianndeckaam/boy-with-a-coin-by-iron-and'
 track3_link: 'https://soundcloud.com/teamghost/team-ghost-the-riser'
 track4_link: 'https://soundcloud.com/melaniepain/2levres-rubis'
 track1_title: Iron & wine - A Boy With A Coin
-track1_color: bliss
-track2_color: rough
+track1_color: vibrant
+track2_color: bliss
 track3_title: Team Ghost - The Riser
 track3_color: trippy
 track4_color: rough
