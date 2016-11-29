@@ -9,16 +9,14 @@ category: '238'
 guest_name: Mélanie Pain
 guest_color: bliss
 guestPic: guestPic238.jpg
-track1_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'
-track2_link: 'https://soundcloud.com/brianndeckaam/boy-with-a-coin-by-iron-and'
+track1_link: 'https://soundcloud.com/brianndeckaam/boy-with-a-coin-by-iron-and'
 track3_link: 'https://soundcloud.com/teamghost/team-ghost-the-riser'
 track4_link: 'https://soundcloud.com/melaniepain/2levres-rubis'
-track1_title: 'Tortoise & Bonnie ''Prince'' Billy - Thunder Road '
-track1_color: vibrant
-track2_title: Iron & wine - A Boy With A Coin
+track1_title: Iron & wine - A Boy With A Coin
+track1_color: bliss
 track2_color: rough
 track3_title: Team Ghost - The Riser
-track3_color: rough
+track3_color: trippy
 track4_color: rough
 track5_color: rough
 track6_color: rough
@@ -27,6 +25,8 @@ episode_URL: 'http://mailta.pe/238/Melanie-Pain/'
 fbPic: fbPic238.jpg
 musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
+track2_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'
+track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
 ---
 <p id="introduction">This morning,</p>
 
