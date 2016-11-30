@@ -15,7 +15,7 @@ guestPic: guestPic237.jpg
 track2_title: iZem - Agua Viva
 track1_title: Velvet Slide - Stoop Kids
 track3_title: Peter Power - Sun Sun Damba
-track4_title: Los Silvertones - Tamborito Swing (Gramophiles Edit)
+track4_title: Gramophiles - Tamborito
 track4_color: vibrant
 track3_color: dreamy
 track2_color: vibrant
@@ -24,6 +24,15 @@ track5_link: >-
   https://soundcloud.com/nicolacruz/rodrigo-gallardo-maria-sabina-feat-huaira-nicola-cruz-remix
 track6_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track7_link: 'https://soundcloud.com/m-b-edit/two-man-sound-que-tal-america'
+track5_color: dreamy
+track6_color: dreamy
+track7_title: Two Man sound - Que Tal America (M.B. Edit)
+track6_title: Les Yeux Oranges - Coco
+track7_color: vibrant
+track5_title: Rodrigo Gallardo - Maria Sabina feat. Huaira (Nicola Cruz Remix)
+episode_URL: 'http://mailta.pe/237/Gramophiles/'
+fbPic: fbPic237.jpg
+musiColor: muciColor237.png
 ---
 <p id="introduction"> This morning, xxx </p>
 
