@@ -54,4 +54,5 @@ _Maxime_: **"**xxx **"**
 + ## Two Man sound - Que Tal America (M.B Edits)
 _Maxime_: **"**xxx **"**
 
-<p id="outroduction">That's all Folks! Thanks to xxx</p>
+<p id="outroduction">That's all Folks! Thanks to xxx![guestPic237.jpg]({{site.baseurl}}/img/guestPic237.jpg)
+</p>
