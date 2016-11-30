@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/stoopkidsofficial/velvet-slide-ft-jo'
 track2_link: 'https://soundcloud.com/soundway-records/izem-agua-viva'
 track3_link: 'https://soundcloud.com/multiculti/peter-power-sun-sun-damba-e'
