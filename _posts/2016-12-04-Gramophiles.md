@@ -34,7 +34,7 @@ episode_URL: 'http://mailta.pe/237/Gramophiles/'
 fbPic: fbPic237.jpg
 musiColor: muciColor237.png
 ---
-<p id="introduction"> This morning, xxx </p>
+<p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old and exotique tracks, and decide to make those live again. As magicians or gods, they</p>
 
 # **Dan Rico's selection**
 
