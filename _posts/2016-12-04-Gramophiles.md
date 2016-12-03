@@ -44,7 +44,7 @@ Gramophile is a Parisian duo. As productor as djs, they create an exotic univers
 _Gramophiles_: **"** We are always on the look that kind of groovy hip-hop !  New-Orleans based Stoop Kids are making it sounds raw with the perfect touch of romance ! **"**
 
 + ## iZem - Agua Viva
-_Gramophiles_: **"**The french « beat raconteur » based in Lisbon just delivered a very promessing LP called Hafa signed on Soudway Records…and we really love that multi-influenced new kind ! **"**
+_Gramophiles_: **"**The french « beat raconteur » based in Lisbon just delivered a very promessing LP called Hafa signed on Soudway Records… and we really love that multi-influenced new kind ! **"**
 
 + ## Peter Power - Sun Sun Damba
 _Gramophiles_: **"** The eccentric Peter Power is always up for a little boom!
