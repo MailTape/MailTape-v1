@@ -21,17 +21,17 @@ track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
 track5_link: 'https://soundcloud.com/kononondeg1/bom-dia'
-track6_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
-track7_link: 'https://soundcloud.com/m-b-edit/two-man-sound-que-tal-america'
+track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track5_color: dreamy
-track6_color: dreamy
-track7_title: Two Man sound - Que Tal America (M.B. Edit)
-track6_title: Les Yeux Oranges - Coco
-track7_color: vibrant
-track5_title: Rodrigo Gallardo - Maria Sabina feat. Huaira (Nicola Cruz Remix)
+track6_color: vibrant
+track7_title: Les Yeux Oranges - Coco
+track7_color: dreamy
+track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: 'http://mailta.pe/237/Gramophiles/'
 fbPic: fbPic237.jpg
 musiColor: muciColor237.png
+track6_link: 'https://soundcloud.com/edits-by-mr-m/turn-you-loose-mr-mendel-edit'
+track6_title: Mr Mendel - Turn you Loose (edit)
 ---
 <p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old and exotique tracks, and decide to make those live again. As magicians or gods, they</p>
 
