@@ -20,8 +20,7 @@ track4_color: vibrant
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track5_link: >-
-  https://soundcloud.com/nicolacruz/rodrigo-gallardo-maria-sabina-feat-huaira-nicola-cruz-remix
+track5_link: 'https://soundcloud.com/kononondeg1/bom-dia'
 track6_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track7_link: 'https://soundcloud.com/m-b-edit/two-man-sound-que-tal-america'
 track5_color: dreamy
