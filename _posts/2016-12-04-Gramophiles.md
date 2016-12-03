@@ -35,7 +35,7 @@ track6_title: Alma Negra - Burkina Berlin
 ---
 <p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
 
-Gramophile is a Parisian duo. As productor as djs, they create an exotic universe that warm up every parisian Dancefloor since three years now. Since they start to produce edits, they changed dimension. "Tamborito" is assurely their masterpiece.  </p>
++ Gramophile is a Parisian duo. As productor as djs, they create an exotic universe that warm up every parisian Dancefloor since three years now. Since they start to produce edits, they changed dimension. "Tamborito" is assurely their masterpiece.  </p>
 
 # **Gramophiles's selection**
 
