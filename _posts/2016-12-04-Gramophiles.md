@@ -22,7 +22,7 @@ track2_color: vibrant
 track1_color: bliss
 track5_link: 'https://soundcloud.com/kononondeg1/bom-dia'
 track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
-track5_color: dreamy
+track5_color: rough
 track6_color: vibrant
 track7_title: Les Yeux Oranges - Coco
 track7_color: dreamy
