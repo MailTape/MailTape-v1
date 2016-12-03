@@ -34,9 +34,7 @@ track6_link: 'https://soundcloud.com/almanegramusic/a1-alma-negra-burkina-berlin
 track6_title: Alma Negra - Burkina Berlin
 description: 'This morning, we welcome you in the vintage universe of music.'
 ---
-<p id="introduction"> ![fbPic237.jpg]({{site.baseurl}}/img/fbPic237.jpg)
-![musiColor237.png]({{site.baseurl}}/img/musiColor237.png)
- In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
+<p id="introduction"> In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
 
 Gramophile is a Parisian duo. As productor as djs, they create an exotic universe that warm up every parisian Dancefloor since three years now. Since they start to produce edits, they changed dimension. "Tamborito" is assurely their masterpiece.  </p>
 
