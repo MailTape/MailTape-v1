@@ -13,7 +13,7 @@ guest_name: Gramophiles
 guest_color: vibrant
 guestPic: guestPic237.jpg
 track2_title: iZem - Agua Viva
-track1_title: Velvet Slide - Stoop Kids
+track1_title: Stoop Kids - Velvet Slide
 track3_title: Peter Power - Sun Sun Damba
 track4_title: Gramophiles - Tamborito
 track4_color: vibrant
@@ -40,7 +40,7 @@ Gramophile is a Parisian duo. As productor as djs, they create an exotic univers
 
 # **Gramophiles's selection**
 
-+ ## Velvet Slide - Stoop Kids
++ ## Stoop Kids - Velvet Slide
 
 _Gramophiles_: **"** We are always on the look that kind of groovy hip-hop !  New-Orleans based Stoop Kids are making it sounds raw with the perfect touch of romance ! **"**
 
