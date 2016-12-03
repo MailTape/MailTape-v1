@@ -35,7 +35,7 @@ track6_title: Alma Negra - Burkina Berlin
 ---
 <p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old and exotique tracks, and decide to make those live again. As magicians or gods, they</p>
 
-# **Dan Rico's selection**
+# **Gramophiles's selection**
 
 + ## Velvet Slide - Stoop Kids
 
@@ -51,15 +51,15 @@ The captivating Sun Sun Damba puts us into orbit and we want more ... **"**
 # **Mailtape's selection**
 
 + ## Gramophiles - Tamborito
-_Maxime_: **"**xxx**"**
+_Maxime_: **"** Tamborito get the charm of goods edits. At the first listen, you can be sure that the original song was recordings longtime ago and far far away, but The Gramophiles give it the perfect arrangement and mix to transform this panamean classic to a secret weapon for Djs.  **"**
 
-+ ## Rodrigo Gallardo - Maria Sabina feat. Huaira (Nicola Cruz Remix)
-_Maxime_: **"**xxx**"**
++ ## Konono n°1 & Batida - Bom Dia
+_Maxime_: **"** This song is excrat from one of the best album of this year, directly extract from the heart of Angola. This masterpiece is the result of the meeting of an old angolan group from the 70s,Konono n°1, and one of the best productor of the crazy actual lisbote scene, Batida. From this meeting results in an extrodinary travel across all Angolan traditionnal rhythms transformed into crazy beats.**"**
+
++ ## Alma Negra - Burkina Berlin
+_Maxime_: **"** Alma Negra duet come from Switzerland, but nothing in their music remind us switzerland, even europe. Each of their tracks is a tribute to different music all around the world. Expecially tribal rhythms. For this one,everything is in the title !  **"**
 
 + ## Les Yeux Oranges - Coco
-_Maxime_: **"**xxx **"**
+_Maxime_: **"** "Coco" is an edit of an french pop song from the eighties. A tropcialo-kitsch song that couldn't be forgoten by the actual night scene of Paris. I think "Coco" represent in its kind the Paris musical scene of 2016.  **"**
 
-+ ## Two Man sound - Que Tal America (M.B Edits)
-_Maxime_: **"**xxx **"**
-
-<p id="outroduction">That's all Folks! Thanks to xxx </p>
+<p id="outroduction">That's all Folks! Thanks to Gramophiles for their participation, and Isabelle for the illustration. Have a nice Sunday guys ! </p>
