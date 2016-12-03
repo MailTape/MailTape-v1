@@ -23,15 +23,15 @@ track1_color: bliss
 track5_link: 'https://soundcloud.com/kononondeg1/bom-dia'
 track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track5_color: rough
-track6_color: vibrant
+track6_color: trippy
 track7_title: Les Yeux Oranges - Coco
 track7_color: dreamy
 track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: 'http://mailta.pe/237/Gramophiles/'
 fbPic: fbPic237.jpg
 musiColor: muciColor237.png
-track6_link: 'https://soundcloud.com/edits-by-mr-m/turn-you-loose-mr-mendel-edit'
-track6_title: Mr Mendel - Turn you Loose (edit)
+track6_link: 'https://soundcloud.com/almanegramusic/a1-alma-negra-burkina-berlin'
+track6_title: Alma Negra - Burkina Berlin
 ---
 <p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old and exotique tracks, and decide to make those live again. As magicians or gods, they</p>
 
