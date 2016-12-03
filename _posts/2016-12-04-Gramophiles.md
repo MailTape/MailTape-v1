@@ -32,6 +32,7 @@ fbPic: fbPic237.jpg
 musiColor: muciColor237.png
 track6_link: 'https://soundcloud.com/almanegramusic/a1-alma-negra-burkina-berlin'
 track6_title: Alma Negra - Burkina Berlin
+description: 'This morning, we welcome you in the vintage universe of music.'
 ---
 <p id="introduction"> This morning, we welcome you in the vintage universe of music. In this parralel world, productor fell in love of old musics heritages, and decide to bring them back to life. As magicians or gods, they bring back to us their deep inspiration. We can only admire them, because without those gold diggers, our local musical scenes would be much more ethnocentric. In a way they contribute to restore our world heritage.
 
