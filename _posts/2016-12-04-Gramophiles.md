@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/stoopkidsofficial/velvet-slide-ft-jo'
 track2_link: 'https://soundcloud.com/soundway-records/izem-agua-viva'
-track3_link: 'https://soundcloud.com/multiculti/nicola-cruz-pagano'
+track3_link: 'https://soundcloud.com/multiculti/peter-power-sun-sun-damba-e'
 track4_link: 'https://soundcloud.com/gramophiles/tamborito-gramophiles-edit-4'
 author: Maxime
 writer: Maxime
