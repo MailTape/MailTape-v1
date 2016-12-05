@@ -63,6 +63,6 @@ _Maxime_: **"** This song is excrat from one of the best album of this year, dir
 _Maxime_: **"** Alma Negra duet come from Switzerland, but nothing in their music remind us switzerland, even europe. Each of their tracks is a tribute to different music all around the world. Expecially tribal rhythms. For this one,everything is in the title !  **"**
 
 + ## Les Yeux Oranges - Coco
-_Maxime_: **"** "Coco" is an edit of an french pop song from the eighties. A tropcialo-kitsch song that couldn't be forgoten by the actual night scene of Paris. I think "Coco" represent in its kind the Paris musical scene of 2016.  **"**
+_Maxime_: **"** "Coco" is an edit of an french pop song from the eighties. A tropicalo-kitsch song that couldn't be forgoten by the actual night scene of Paris. I think "Coco" represent in its kind the Paris musical scene of 2016.  **"**
 
 <p id="outroduction">That's all Folks! Thanks to Gramophiles for their participation, and Isabelle for the illustration. Have a nice Sunday guys ! </p>
