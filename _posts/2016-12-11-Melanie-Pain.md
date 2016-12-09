@@ -17,17 +17,22 @@ track1_color: vibrant
 track2_color: bliss
 track3_title: Team Ghost - The Riser
 track3_color: trippy
-track4_color: rough
-track5_color: rough
-track6_color: rough
-track7_color: rough
+track4_color: bliss
+track5_color: dreamy
+track6_color: dreamy
+track7_color: vibrant
 episode_URL: 'http://mailta.pe/238/Melanie-Pain/'
 fbPic: fbPic238.jpg
 musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
 track2_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'
 track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
+track5_link: 'https://soundcloud.com/jagjaguwar/gordi-00000-million-bon-iver-cover-1'
 track7_link: 'https://soundcloud.com/simonboore/fkj-tom-misch-losing-my-way'
+track6_link: 'https://soundcloud.com/christianloeffler'
+track5_title: Gordi - 00000 Million
+track6_title: Christian Löffler - Nil
+track7_title: Tom Misch & FKJ - Losing My Way
 ---
 <p id="introduction">This morning,</p>
 
@@ -35,27 +40,26 @@ track7_link: 'https://soundcloud.com/simonboore/fkj-tom-misch-losing-my-way'
 # **Mélanie Pain's selection**
 
 + ## Tortoise & Bonnie 'Prince' Billy - Thunder road
-_Mélanie Pain_: **"**Amazing cover of  Bruce Springsteen with the noisy sound of Tortoise and the pristine voice of  Bonnie Prince Billy. A bizarre and powerfull mix that works really well. Springsteen lyrics are wonderfull. **"**
+_Mélanie Pain_: **"**Amazing cover of  Bruce Springsteen with the noisy sound of Tortoise and the pristine voice of  Bonnie Prince Billy. A bizarre and powerfull mix that works really well. Springsteen lyrics are wonderfull.**"**
 
 + ## Iron & wine - A boy with a coin
-_Mélanie Pain_: **"**A classic Iron and Wine song that is soft and strong, a beautifil folk ritournelle that sticks in your head for days. Love the rythm of that song. 
-**"**
+_Mélanie Pain_: **"**A classic Iron and Wine song that is soft and strong, a beautifil folk ritournelle that sticks in your head for days. Love the rythm of that song.**"**
 
 + ## Team Ghost - The Riser
 _Mélanie Pain_: **"**it's dark, melancholic, electro, noisy, it's like a soundtrack for the end of the world or for it's beginning... I can't wait to hear the new album of Team Ghost**"**
 
 # **Mailtape's selection**
 
-+ ## 
++ ## Mélanie Pain - Lèvres Rubis
 _Louise_: **"****"**
 
-+ ## 
++ ## Gordi - 00000 Million
 _Louise_: **"****"**
 
-+ ## 
++ ## Christian Löffler - Nil
 _Louise_: **"****"**
 
-+ ## 
++ ## Tom Misch & FKJ - Losing My Way
 _Louise_: **"****"**
 
 <p id="outroduction">That's all folks!</p>
