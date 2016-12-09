@@ -29,7 +29,7 @@ track2_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'
 track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
 track5_link: 'https://soundcloud.com/jagjaguwar/gordi-00000-million-bon-iver-cover-1'
 track7_link: 'https://soundcloud.com/simonboore/fkj-tom-misch-losing-my-way'
-track6_link: 'https://soundcloud.com/christianloeffler'
+track6_link: 'https://soundcloud.com/christianloeffler/nil'
 track5_title: Gordi - 00000 Million
 track6_title: Christian Löffler - Nil
 track7_title: Tom Misch & FKJ - Losing My Way
@@ -54,10 +54,10 @@ _Mélanie Pain_: **"**it's dark, melancholic, electro, noisy, it's like a soundt
 _Louise_: **"****"**
 
 + ## Gordi - 00000 Million
-_Louise_: **"****"**
+_Louise_: **"**Hell yeah! Yes, all the way. I'm a big big fan of Bon Iver, so I'm really picky about covers of their songs. Yet, this one by Gordi hit me. So powerful to do it a capella. It blown me away.**"**
 
 + ## Christian Löffler - Nil
-_Louise_: **"****"**
+_Louise_: **"**One of the best albums of this 2016's end. I listened to it a lot since it came out and I'm not bored yet. **"**
 
 + ## Tom Misch & FKJ - Losing My Way
 _Louise_: **"****"**
