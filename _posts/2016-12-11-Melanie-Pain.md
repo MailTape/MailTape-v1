@@ -51,15 +51,15 @@ _Mélanie Pain_: **"**it's dark, melancholic, electro, noisy, it's like a soundt
 # **Mailtape's selection**
 
 + ## Mélanie Pain - Lèvres Rubis
-_Louise_: **"****"**
+_Louise_: **"**This piano, this voice and this chorus. It stays in my mind for at least a day. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them. She really deserves your attention. Go listen to 'Parachutes'.**"**
 
 + ## Gordi - 00000 Million
 _Louise_: **"**Hell yeah! Yes, all the way. I'm a big big fan of Bon Iver, so I'm really picky about covers of their songs. Yet, this one by Gordi hit me. So powerful to do it a capella. It blown me away.**"**
 
 + ## Christian Löffler - Nil
-_Louise_: **"**One of the best albums of this 2016's end. I listened to it a lot since it came out and I'm not bored yet. **"**
+_Louise_: **"**One of the best albums of this 2016's end. I listened to 'Mare' a lot since it came out in November, at least 50 times, maybe more. Not bored of it, yet. Amazing to travel to, Christian Löffler's music is pure grace.**"**
 
 + ## Tom Misch & FKJ - Losing My Way
-_Louise_: **"****"**
+_Louise_: **"**Theses guys. You might know them already since we did MailTapes with both. When this track came out, I was on fire. So much great stuff in a four minutes song. They seem so chill at what they do. Talent, ladies & gentlemen, talent...**"**
 
-<p id="outroduction">That's all folks!!</p>
+<p id="outroduction">That's all folks! Thanks to Mélanie Pain for participating in the creation of this episode. Also, a big thanks to Célestin and her wonder drawings. Hope you like today's Mailtape!</p>
