@@ -34,10 +34,10 @@ track5_title: Gordi - 00000 Million
 track6_title: Christian Löffler - Nil
 track7_title: Tom Misch & FKJ - Losing My Way
 description: >-
-  This morning, we will enjoy a tasty breakfast prepare with love by our guest
+  This morning, we will enjoy a tasty breakfast prepared with love by our guest
   Mélanie Pain.
 ---
-<p id="introduction">This morning, we will enjoy a tasty breakfast prepare with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.
+<p id="introduction">This morning, we will enjoy a tasty breakfast prepared with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.
 Her new album, 'Parachute', came out in October. She unveils her fears and thoughts with such poetry, it made me shiver. Today's tape is full of surprises and risks.</p>
 
 # **Mélanie Pain's selection**
