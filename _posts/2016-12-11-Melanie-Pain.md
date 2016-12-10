@@ -34,23 +34,24 @@ track5_title: Gordi - 00000 Million
 track6_title: Christian Löffler - Nil
 track7_title: Tom Misch & FKJ - Losing My Way
 ---
-<p id="introduction">This morning,</p>
+<p id="introduction">This morning, we will enjoy a tasty breakfast prepare with love by our guest Mélanie Pain. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them.
+Her new album, 'Parachute', came out in October. She unveils her fears and thoughts with such poetry, it made me shiver. Today's tape is full of surprises and risks.</p>
 
 # **Mélanie Pain's selection**
 
-+ ## Tortoise & Bonnie 'Prince' Billy - Thunder road
-_Mélanie Pain_: **"**Amazing cover of  Bruce Springsteen with the noisy sound of Tortoise and the pristine voice of  Bonnie Prince Billy. A bizarre and powerfull mix that works really well. Springsteen lyrics are wonderfull.**"**
-
 + ## Iron & wine - A boy with a coin
-_Mélanie Pain_: **"**A classic Iron and Wine song that is soft and strong, a beautifil folk ritournelle that sticks in your head for days. Love the rythm of that song.**"**
+_Mélanie Pain_: **"**A classic Iron and Wine song that is soft and strong, a beautiful folk ritournelle that sticks in your head for days. Love the rhythm of that song.**"**
+
++ ## Tortoise & Bonnie 'Prince' Billy - Thunder road
+_Mélanie Pain_: **"**Amazing cover of Bruce Springsteen with the noisy sound of Tortoise and the pristine voice of Bonnie Prince Billy. A bizarre and powerful mix that works really well. Springsteen lyrics are wonderful.**"**
 
 + ## Team Ghost - The Riser
-_Mélanie Pain_: **"**it's dark, melancholic, electro, noisy, it's like a soundtrack for the end of the world or for it's beginning... I can't wait to hear the new album of Team Ghost**"**
+_Mélanie Pain_: **"**It's dark, melancholic, electro, noisy, it's like a soundtrack for the end of the world or its beginning... I can't wait to hear the new album of Team Ghost.**"**
 
 # **Mailtape's selection**
 
 + ## Mélanie Pain - Lèvres Rubis
-_Louise_: **"**This piano, this voice and this chorus. It stays in my mind for at least a day. The more I listen to French music that comes out theses days, the more I'm proud of the artists we have. Mélanie Pain is one of them. She really deserves your attention. Go listen to 'Parachutes'.**"**
+_Louise_: **"**This piano, this voice and this chorus. It stays with me for nights and days. Mélanie Pain really deserves your attention. Go listen to 'Parachute'.**"**
 
 + ## Gordi - 00000 Million
 _Louise_: **"**Hell yeah! Yes, all the way. I'm a big big fan of Bon Iver, so I'm really picky about covers of their songs. Yet, this one by Gordi hit me. So powerful to do it a capella. It blown me away.**"**
@@ -61,4 +62,4 @@ _Louise_: **"**One of the best albums of this 2016's end. I listened to 'Mare' a
 + ## Tom Misch & FKJ - Losing My Way
 _Louise_: **"**Theses guys. You might know them already since we did MailTapes with both. When this track came out, I was on fire. So much great stuff in a four minutes song. They seem so chill at what they do. Talent, ladies & gentlemen, talent...**"**
 
-<p id="outroduction">That's all folks! Thanks to Mélanie Pain for participating in the creation of this episode. Also, a big thanks to Célestin and her wonder drawings. Hope you like today's Mailtape!</p>
+<p id="outroduction">That's all folks! Thanks to [Mélanie Pain](http://melaniepain.com/ "Mélanie Pain's website") for participating in the creation of this episode. Also, a big thanks to [Célestin](http://www.slipontherock.com/ "Célestin's website") and her wonder drawings. Hope you like today's Mailtape!</p>
