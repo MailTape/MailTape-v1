@@ -13,6 +13,8 @@ track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
 track6_link: 'https://soundcloud.com/babeheaven/ode-to-dom'
 track7_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 track5_link: 'https://soundcloud.com/hoopsband/give-it-time-1'
+track3_title: Valesuchi - Golosynth
+track3_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
