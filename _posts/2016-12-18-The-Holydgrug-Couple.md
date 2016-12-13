@@ -2,6 +2,17 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
+author: Dimitri
+illustrator: William Girault
+guest_name: The Holydrug Couple
+guest_color: dreamy
+category: '239'
+track1_link: 'https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde'
+track2_link: 'https://soundcloud.com/arcocorintio/coronada'
+track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
+track6_link: 'https://soundcloud.com/babeheaven/ode-to-dom'
+track7_link: 'https://soundcloud.com/sinderlyn/call-me-up'
+track5_link: 'https://soundcloud.com/hoopsband/give-it-time-1'
 ---
 <p id="introduction">This morning,</p>
 
