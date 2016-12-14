@@ -30,11 +30,7 @@ track6_color: dreamy
 track7_title: Mick Jenkins - Drowing (feat. BadBadNotGood)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
-writer: ''
-track4_link: ''
-fbPic: ''
-musiColor: ''
-description: ''
+track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
 ---
 <p id="introduction">This morning,</p>
 
