@@ -27,7 +27,9 @@ track5_title: Hoops - Give It Time
 track5_color: bliss
 track6_title: Homeshake - Give It Time
 track6_color: dreamy
-track7_title: Mick Jenkins - Drowning (feat. BadBadNotGood)
+track7_title: >-
+  Giorgio Turma feat. Laetitia Sadier - Through Your Hands Love Can Shine
+  (Turbotito Remix)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
