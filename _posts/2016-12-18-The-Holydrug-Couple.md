@@ -27,7 +27,7 @@ track5_title: Hoops - Give It Time
 track5_color: bliss
 track6_title: Homeshake - Give It Time
 track6_color: dreamy
-track7_title: Mick Jenkins - Drowing (feat. BadBadNotGood)
+track7_title: Mick Jenkins - Drowning (feat. BadBadNotGood)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
@@ -37,15 +37,12 @@ track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
 
 # **The Holydrug Couple's selection**
 
-https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde
 + ## Nicolas Godin - Widerstehe Doch Der Sünde
 _The Holydrug Couple_: **"**This a song originally written by Bach, and re-made by Nicolas Godin by AIR. It's one of the songs that I most adore in the entire world and it's apt for every minute of every hour of the week. Simply majestic.**"**
 
-https://soundcloud.com/arcocorintio/coronada
 + ## Arco Corintio - Coronada
 _The Holydrug Couple_: **"**This is from a new project I'm working on called Arco Corintio. I think it's perfect for a sunday morning, the time runs slow and you feel a lit of bit melancholic about the such a good time you had last nite on that party. Kinda of a gospel, it's just very simple with a couple of beautiful chords and driven by a mellow groovy bass and ace tone drum machine.
 
-https://soundcloud.com/xlr8r/valesuchi-golosynth
 + ## Valesuchi - Golosynth
 _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosynth, in spanish something like ''sweet tooth for synths''. Perfect chill for a sunday morning without losing the necesary groovness to not to comeback to bed.
 
@@ -60,7 +57,7 @@ _Dimitri_: **"****"**
 + ## 
 _Dimitri_: **"****"**
 
-+ ## 
++ ## Mick Jenckins - Drowning (fea
 _Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring [BadBadNotGood](http://mailta.pe/110/BBNG/ "MailTape 110 - BadBadNotGood") his music is experimental almost psychedelic **"**
 
 <p id="outroduction">That's all folks!</p>
