@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: true
+published: false
 author: Dimitri
 illustrator: William Girault
 guest_name: The Holydrug Couple
@@ -61,6 +61,6 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## 
-_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. As this  **"**
+_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. As this   **"**
 
 <p id="outroduction">That's all folks!</p>
