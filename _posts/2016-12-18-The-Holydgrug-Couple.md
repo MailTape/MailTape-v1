@@ -61,6 +61,6 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## 
-_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component **"**
+_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. As this  **"**
 
 <p id="outroduction">That's all folks!</p>
