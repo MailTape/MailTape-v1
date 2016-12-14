@@ -58,6 +58,6 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## Mick Jenkins - Drowning (feat. BadBadNotGood)
-_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring [BadBadNotGood](http://mailta.pe/110/BBNG/ "MailTape 110 - BadBadNotGood") his music is a kind of psychedelic hip-hop result of lot of experimentations. Really inspiring**"**
+_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled _The Healing Component_. Like this Drowning featuring [BadBadNotGood](http://mailta.pe/110/BBNG/ "MailTape 110 - BadBadNotGood") his music is a kind of psychedelic hip-hop result of lot of experimentations. Really inspiring**"**
 
 <p id="outroduction">That's all folks!</p>
