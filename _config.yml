@@ -84,6 +84,8 @@ prose:
           options:
             - name: "Daisy"
               value: "Daisy"
+            - name: "Dimitri"
+              value: "Dimitri"
             - name: "ImaCrea"
               value: "ImaCrea"
             - name: "Louise"
