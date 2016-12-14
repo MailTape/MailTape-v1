@@ -30,6 +30,11 @@ track6_color: dreamy
 track7_title: Mick Jenkins - Drowing (feat. BadBadNotGood)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
+writer: ''
+track4_link: ''
+fbPic: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning,</p>
 
@@ -60,6 +65,6 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## 
-_Dimitri_: **"****"**
+_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component **"**
 
 <p id="outroduction">That's all folks!</p>
