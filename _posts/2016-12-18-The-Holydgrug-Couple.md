@@ -21,6 +21,15 @@ track7_link: >-
   https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
 track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 guestPic: guestPic239.jpg
+track4_title: The Holydrug Couple -
+track4_color: vibrant
+track5_title: Hoops - Give It Time
+track5_color: bliss
+track6_title: Homeshake - Give It Time
+track6_color: dreamy
+track7_title: Mick Jenkins - Drowing (feat. BadBadNotGood)
+track7_color: trippy
+episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 ---
 <p id="introduction">This morning,</p>
 
@@ -41,10 +50,10 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 
 # **Mailtape's selection**
 
-+ ## 
++ ## The Holydrug Couple - 
 _Dimitri_: **"****"**
 
-+ ## 
++ ## Hoops - Give It Time
 _Dimitri_: **"****"**
 
 + ## 
