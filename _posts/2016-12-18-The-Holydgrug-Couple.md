@@ -23,6 +23,7 @@ track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 ---
 <p id="introduction">This morning,</p>
 
+![guestPic239.jpg]({{site.baseurl}}/img/guestPic239.jpg)
 
 # **The Holydrug Couple's selection**
 
