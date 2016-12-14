@@ -10,8 +10,6 @@ category: '239'
 track1_link: 'https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde'
 track2_link: 'https://soundcloud.com/arcocorintio/coronada'
 track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
-track6_link: 'https://soundcloud.com/babeheaven/ode-to-dom'
-track7_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 track5_link: 'https://soundcloud.com/hoopsband/give-it-time-1'
 track3_title: Valesuchi - Golosynth
 track3_color: dreamy
@@ -19,6 +17,9 @@ track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
 track2_title: Arco Corintio - Coronada
 track2_color: dreamy
 track1_color: dreamy
+track7_link: >-
+  https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
+track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 ---
 <p id="introduction">This morning,</p>
 
