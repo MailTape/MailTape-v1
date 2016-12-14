@@ -20,6 +20,7 @@ track1_color: dreamy
 track7_link: >-
   https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
 track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
+guestPic: guestPic239.jpg
 ---
 <p id="introduction">This morning,</p>
 
