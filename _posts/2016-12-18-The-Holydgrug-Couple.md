@@ -15,6 +15,10 @@ track7_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 track5_link: 'https://soundcloud.com/hoopsband/give-it-time-1'
 track3_title: Valesuchi - Golosynth
 track3_color: dreamy
+track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
+track2_title: Arco Corintio - Coronada
+track2_color: dreamy
+track1_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
