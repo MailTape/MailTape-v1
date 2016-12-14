@@ -59,7 +59,7 @@ _Dimitri_: **"****"**
 + ## 
 _Dimitri_: **"****"**
 
-+ ## Laetitia Sadier
-_Dimitri_: **"****"**
++ ## 
+_Dimitri_: **"**Mick Jenckins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring BadBadNotGood his music is a kind of psychedelic hip-hop result of lot of experimentations. Really inspiring**"**
 
 <p id="outroduction">That's all folks!</p>
