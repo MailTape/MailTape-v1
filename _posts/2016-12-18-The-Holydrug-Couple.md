@@ -30,6 +30,7 @@ track6_color: dreamy
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
+track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 ---
 <p id="introduction">This morning,</p>
 
