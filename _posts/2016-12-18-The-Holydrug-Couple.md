@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
 track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 ---
-<p id="introduction">This morning,</p>we will explore a large variety of psychedelic territory with our guest The Holydgrug Couple. It is the psychedelic duo coming straight from Santiago whose primary vocation is to make you hover as high as the Andean peaks of their native Chile
+<p id="introduction">This morning,</p>we will explore a large variety of psychedelic territories with our guest The Holydgrug Couple. This Chilean duo straight from Santiago whose primary vocation is to make you hover as high as the Andean peaks of their native Chile
 
 osmique, onirique et savoureusement psychédélique
 
