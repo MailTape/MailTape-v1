@@ -23,7 +23,7 @@ track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
 guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple -
 track4_color: vibrant
-track5_title: Hoops - Give It Time
+track5_title: Krakatau - Tharsis Montes
 track5_color: bliss
 track6_title: Homeshake - Give It Time
 track6_color: dreamy
