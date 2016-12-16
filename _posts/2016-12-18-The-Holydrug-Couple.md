@@ -26,7 +26,7 @@ track4_color: vibrant
 track5_title: Krakatau - Tharsis Montes
 track5_color: bliss
 track6_title: Phil Stroud - Flow
-track6_color: dreamy
+track6_color: bliss
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
