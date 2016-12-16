@@ -55,7 +55,7 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## Phil Stroud - Flow
-_Dimitri_: **"**Phil Stroud is an aussie's producer from Perth. He saids about this tracks "_I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth._" I think indeed that this says it all.**"**
+_Dimitri_: **"**Phil Stroud is an aussie's producer from Perth. He said about Flow "_I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth._" I think indeed that this says it all.**"**
 
 + ## Mick Jenkins - Drowning feat. BadBadNotGood
 _Dimitri_: **"**Mick Jenkins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring BadBadNotGood his music is a kind of psychedelic hip-hop result of lot of experimentations which it reminds me on some points Outkast. Really inspiring.**"**
