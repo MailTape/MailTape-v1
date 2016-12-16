@@ -32,7 +32,9 @@ episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
 track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 ---
-<p id="introduction">This morning,</p>
+<p id="introduction">This morning,</p>we will explore a large variety of psychedelic territory with our guest The Holydgrug Couple. It is the psychedelic duo coming straight from Santiago whose primary vocation is to make you hover as high as the Andean peaks of their native Chile
+
+osmique, onirique et savoureusement psychédélique
 
 
 # **The Holydrug Couple's selection**
@@ -55,7 +57,7 @@ _Dimitri_: **"****"**
 _Dimitri_: **"****"**
 
 + ## Phil Stroud - Flow
-_Dimitri_: **"**Phil Stroud is an aussie's producer from Perth. He said about Flow "_I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth._" I think indeed that this says it all.**"**
+_Dimitri_: **"**Phil Stroud is an aussie's producer from Perth. He said about Flow "I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth." I think indeed that this says it all.**"**
 
 + ## Mick Jenkins - Drowning feat. BadBadNotGood
 _Dimitri_: **"**Mick Jenkins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring BadBadNotGood his music is a kind of psychedelic hip-hop result of lot of experimentations which it reminds me on some points Outkast. Really inspiring.**"**
