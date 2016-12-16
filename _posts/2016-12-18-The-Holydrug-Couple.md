@@ -19,17 +19,14 @@ track2_color: dreamy
 track1_color: dreamy
 track7_link: >-
   https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
-track6_link: 'https://soundcloud.com/sinderlyn/call-me-up'
+track6_link: 'https://soundcloud.com/stampthewax/phil-stroud-flow-stw-premiere'
 guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple -
 track4_color: vibrant
 track5_title: Krakatau - Tharsis Montes
 track5_color: bliss
-track6_title: Homeshake - Give It Time
+track6_title: Phil Stroud - Flow
 track6_color: dreamy
-track7_title: >-
-  Giorgio Turma feat. Laetitia Sadier - Through Your Hands Love Can Shine
-  (Turbotito Remix)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
@@ -56,7 +53,7 @@ _Dimitri_: **"****"**
 + ## Krakatau - Tharsis Montes
 _Dimitri_: **"****"**
 
-+ ## 
++ ## Phil Stroud - Flow
 _Dimitri_: **"****"**
 
 + ## 
