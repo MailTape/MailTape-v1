@@ -16,7 +16,7 @@ track3_color: dreamy
 track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
 track2_title: Arco Corintio - Coronada
 track2_color: dreamy
-track1_color: dreamy
+track1_color: trippy
 track7_link: >-
   https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
 track6_link: 'https://soundcloud.com/stampthewax/phil-stroud-flow-stw-premiere'
