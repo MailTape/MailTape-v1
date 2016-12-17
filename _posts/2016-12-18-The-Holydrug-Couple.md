@@ -35,7 +35,7 @@ fbPic: fbPic239.jpg
 musiColor: musiColor239.JPG
 description: >-
   This morning, we will explore a variety of psychedelic territories with our
-  guests The Holydrug Couple. Comsic, oneiric and tastily psychedelic their
+  guests The Holydrug Couple. Comsic, oneiric and tastily psychedelic, their
   music bring us in an parallel dimension where dreams and reality are one.
   Perfect destination for a sunday morning, isn’t it ?
 writer: Dimitri
