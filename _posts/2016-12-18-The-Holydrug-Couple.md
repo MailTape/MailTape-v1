@@ -24,7 +24,7 @@ guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple - Concorde
 track4_color: vibrant
 track5_title: Krakatau - Tharsis Montes
-track5_color: bliss
+track5_color: trippy
 track6_title: Phil Stroud - Flow
 track6_color: bliss
 track7_color: trippy
