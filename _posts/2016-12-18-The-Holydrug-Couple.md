@@ -37,7 +37,7 @@ description: >-
   This morning, we will explore a variety of psychedelic territories with our
   guests The Holydgrug Couple.
 ---
-<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests The Holydgrug Couple. Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a sunday morning, isn't it ? Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.</p>
+<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a sunday morning, isn't it ? Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.</p>
 
 
 # **The Holydrug Couple's selection**
@@ -57,12 +57,12 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 _Dimitri_: **"**My favorite one from them. Bucolic and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
 
 + ## Krakatau - Tharsis Montes
-_Dimitri_: **"**Krakatau is an experimental jazz band based on Melbourne. **"**
+_Dimitri_: **"**Krakatau is an experimental jazz band based on Melbourne. In this  **"**
 
 + ## Phil Stroud - Flow
 _Dimitri_: **"**Phil Stroud is an aussie producer from Perth. He said about Flow "I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth." I think indeed that this says it all.**"**
 
 + ## Mick Jenkins - Drowning feat. BadBadNotGood
-_Dimitri_: **"**Mick Jenkins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring BadBadNotGood his music is a kind of psychedelic hip-hop, result of lot of experimentations which it reminds me on some points Outkast. Really inspiring.**"**
+_Dimitri_: **"**Mick Jenkins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled The Healing Component. Like this Drowning featuring [BadBadNotGood](http://mailta.pe/110/BBNG/) his music is a kind of psychedelic hip-hop, result of lot of experimentations which it reminds me on some points Outkast. Really inspiring.**"**
 
 <p id="outroduction">That's all folks!</p>
