@@ -59,7 +59,7 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 _Dimitri_: **"**My favorite song from them. Bucolic and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
 
 + ## Krakatau - Tharsis Montes
-_Dimitri_: **"**Australia is one of the most exciting indie music scene to this day. Krakatau is a perfect exemple of this fertile clime. The trio based on Melbourne has created  sun-kissed funk and moonlit jazz is the **"**
+_Dimitri_: **"**Australia is one of the most exciting indie music scene to this day. Krakatau is a perfect exemple of this fertile clime. The band based in Melbourne has created its own style, highly cosmic, at the crossroads of sun-kissed funk and moonlit jazz. Tharsis Montes is the quintessence, Tharsis Montes is a masterpiece.**"**
 
 + ## Phil Stroud - Flow
 _Dimitri_: **"**Phil Stroud is an aussie producer from Perth. He said about Flow "I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth." I think indeed that this says it all.**"**
