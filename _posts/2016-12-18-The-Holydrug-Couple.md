@@ -57,7 +57,7 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 _Dimitri_: **"**My favorite one from them. Bucolic and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
 
 + ## Krakatau - Tharsis Montes
-_Dimitri_: **"****"**
+_Dimitri_: **"**Krakatau is an experimental jazz band based on Melbourne.**"**
 
 + ## Phil Stroud - Flow
 _Dimitri_: **"**Phil Stroud is an aussie producer from Perth. He said about Flow "I hope is that it provides you with the assistance you need to feel calm and energised, that it connects you with your spirit and grounds you to the earth." I think indeed that this says it all.**"**
