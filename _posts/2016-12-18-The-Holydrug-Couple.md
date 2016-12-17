@@ -40,7 +40,7 @@ description: >-
   Perfect destination for a sunday morning, isn’t it ?
 writer: Dimitri
 ---
-<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a sunday morning, isn't it ? Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.</p>
+<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Comsic, oneiric and tastily psychedelic, their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a sunday morning, isn't it ? Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.</p>
 
 
 # **The Holydrug Couple's selection**
