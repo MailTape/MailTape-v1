@@ -67,4 +67,4 @@ _Dimitri_: **"**Phil Stroud is an aussie producer from Perth. He said about Flow
 + ## Mick Jenkins - Drowning feat. BadBadNotGood
 _Dimitri_: **"**Mick Jenkins is a based Chicago rapper, few weeks ago he relased one of my best hip-hop album of the year entitled "The Healing Component". Like this Drowning featuring [BadBadNotGood](http://mailta.pe/110/BBNG/) his music is a kind of psychedelic hip-hop, result of lot of experimentations which it reminds me on some points Outkast. Really inspiring.**"**
 
-<p id="outroduction">That's all folks!</p>
+<p id="outroduction">That's all folks, thanks to [The Holydrug Couple](https://theholydrugcouple.bandcamp.com/) for their participation, and [William](http://williamgirault.com/) for the wonderful illustration. Enjoy your sunday !</p>
