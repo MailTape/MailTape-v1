@@ -50,8 +50,7 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 # **Mailtape's selection**
 
 + ## The Holydrug Couple - Concorde
-_Dimitri_: **"**My favorite one from them. Bucoli![fbPic239.jpg]({{site.baseurl}}/img/fbPic239.jpg)
-c and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
+_Dimitri_: **"**My favorite one from them. Bucolic and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
 
 + ## Krakatau - Tharsis Montes
 _Dimitri_: **"****"**
