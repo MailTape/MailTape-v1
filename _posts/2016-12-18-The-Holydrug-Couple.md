@@ -34,8 +34,7 @@ track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 fbPic: fbPic239.jpg
 musiColor: musiColor239.JPG
 ---
-<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests The Holydgrug Couple. This is a Chilean duo straight from Santiago that aims to make you float as high as the Andean peaks from their native Chile. Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension  ![musiColor239.JPG]({{site.baseurl}}/img/musiColor239.JPG)
-</p>
+<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests The Holydgrug Couple. This is a Chilean duo straight from Santiago that aims to make you float as high as the Andean peaks from their native Chile. Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension.</p>
 
 
 # **The Holydrug Couple's selection**
