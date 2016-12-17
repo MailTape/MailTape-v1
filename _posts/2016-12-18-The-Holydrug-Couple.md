@@ -57,7 +57,7 @@ _The Holydrug Couple_: **"**This one is from my friend Valesuchi, called Golosyn
 # **Mailtape's selection**
 
 + ## The Holydrug Couple - Concorde
-_Dimitri_: **"**My favorite song from them. Bucolic and aerial, Concorde sounds like an invitation to dream that we accept without one single rejection**"**
+_Dimitri_: **"**My favorite song from them. Bucolic and aerial, Concorde sounds like an invitation to dream that I accept without one single rejection**"**
 
 + ## Krakatau - Tharsis Montes
 _Dimitri_: **"**Australia is one of the most exciting indie music scene to this day. Krakatau is a perfect exemple of this fertile clime. The band based in Melbourne has created its own style, highly cosmic, at the crossroads of sun-kissed funk and moonlit jazz. Tharsis Montes is the quintessence, Tharsis Montes is a masterpiece.**"**
