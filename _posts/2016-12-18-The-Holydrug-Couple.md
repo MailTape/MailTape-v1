@@ -37,7 +37,7 @@ description: >-
   This morning, we will explore a variety of psychedelic territories with our
   guests The Holydgrug Couple.
 ---
-<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests The Holydgrug Couple. This Chilean duo straight from Santiago aims to make you float as high as the Andean mountains. Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension where dreams and reality are one.</p>
+<p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests The Holydgrug Couple. This Chilean duo straight from Santiago aims to make us float as high as the Andean mountains. Comsic, oneiric and tastily psychedelic their music bring us in an parallel dimension where dreams and reality are one.</p>
 
 
 # **The Holydrug Couple's selection**
