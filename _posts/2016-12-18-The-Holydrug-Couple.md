@@ -41,7 +41,7 @@ writer: Dimitri
 <p id="introduction">This morning, we will explore a variety of psychedelic territories with our guests [The Holydrug Couple](https://www.facebook.com/Holydrugcouple/). Comsic, oneiric and tastily psychedelic, their music bring us in an parallel dimension where dreams and reality are one. Perfect destination for a sunday morning, isn't it ? Hope this experimental trip will make you float as high as the Andean mountains from their native Chili.</p>
 
 
-# **The Holydrug Couple's selection**
+# The Holydrug Couple's selection
 
 + ## Nicolas Godin - Widerstehe Doch Der Sünde
 _The Holydrug Couple_: **"**This a song originally written by Bach, and re-made by Nicolas Godin by AIR. It's one of the songs that I most adore in the entire world and it's apt for every minute of every hour of the week. Simply majestic.**"**
