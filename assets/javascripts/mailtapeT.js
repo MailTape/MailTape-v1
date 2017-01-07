@@ -259,117 +259,69 @@ $(document).ready(
 			$("#playButton").fadeOut("slow");
 		});
 
-	    // subscribe button intro !
 
-	 //    	// [FROSMO] Detection si on a l'intro displayed ou pas
+// signup form validation for iris (byebye MailChimp!)
 
-		// var countInit = 0;
+$("#signup-form").submit(function(e){
+		e.preventDefault(); 
+		
+		var $form = $(this),
+		name = $form.find('input[name="name"]').val(),
+		email = $form.find('input[name="email"]').val(),
+		url = $form.attr('action');
+		
+		$.post(url, {name:name, email:email},
+		  function(data) {
+		      if(data)
+		      {
+		      	if(data=="Some fields are missing.")
+		      	{
+			      	$("#status").text("Please fill in your name and email.");
+			      	$("#status").css("color", "red");
+		      	}
+		      	else if(data=="Invalid email address.")
+		      	{
+			      	$("#status").text("Your email address is invalid.");
+			      	$("#status").css("color", "red");
+		      	}
+		      	else if(data=="Invalid list ID.")
+		      	{
+			      	$("#status").text("Your list ID is invalid.");
+			      	$("#status").css("color", "red");
+		      	}
+		      	else if(data=="Already subscribed.")
+		      	{
+			      	$("#status").text("You're already subscribed!");
+			      	$("#status").css("color", "red");
+		      	}
+		      	else
+		      	{
+			      	$("#status").text("You're subscribed "+name+"!");
+			      	$("#status").css("color", "green");
 
-		// function superInit() {
-		// 	if ($('#topbar-subscription-intro').length) {
-		// 	    $('#topbar-subscription-form').fadeOut("fast");
-		// 	    console.log("[FROSMO] topbar-subscription-intro est là je cache la form!");
-		// 	} else if (countInit < 100) {
-		// 		console.log("[FROSMO] topbar-subscription-intro pas là pour le moment");
-		// 	    countInit++;
-		// 		window.setTimeout(superInit, 100);
-		// 	}
-		// }
-
-		// // Premier lancement
-		// window.setTimeout(superInit, 100);
-	
-		// 	// Mini scriptounet pour la topbar subscription en 2 étapes
-		// $(document).on('click', '#subscribeButtonIntro',function(){
-		// 	console.log("tu clique sur le bouton intro");
-		// 	$('#topbar-subscription-intro').fadeOut("fast");
-		// 	$('#topbar-subscription-form').fadeIn("slow", function () {
-		// 		console.log("je charge ajaxchimp");
-		// 		$('#mc-form').ajaxChimp({
-		//     	callback: callbackFunction
-		//     	});
-		//     });
-		// });
-
-	//	plugin d'ajaxification du formulaire mailchimp footer
-
-		$('#mc-form').ajaxChimp({
-	    	callback: callbackFunction
-	    });
-
-	    function callbackFunction (resp) {
-		    if (resp.result == 'success') {
-		    	var prenom = $( "#mc-PRENOM" ).val();
-		        $('#mc-form').fadeOut('fast', function() {
-		        	$('#footerSubscription-form-text').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
-		        });
-		        setTimeout(function() {
-	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow');
-				}, 4000);
+			      	setTimeout(function() {
+	    				$('#topbar-subscription').fadeOut('slow');
+					}, 3000);
+		      	}
+		      }
+		      else
+		      {
+		      	alert("Sorry, unable to subscribe. Please try again later!");
+		      }
+		  }
+		);
+	});
+	$("#signup-form").keypress(function(e) {
+		    if(e.keyCode == 13) {
+		    	e.preventDefault(); 
+				$(this).submit();
 		    }
-		}
+		});
+	$("#subscribeButton").click(function(e){
+		e.preventDefault(); 
+		$("#signup-form").submit();
+	});
 
-		//	plugin d'ajaxification du formulaire mailchimp dans la modale topbar sub (learnMore desktop)
-
-		$('#mc-form-learnMore').ajaxChimp({
-	    	callback: callbackFunctionLearnMore
-	    });
-
-	    function callbackFunctionLearnMore (resp) {
-		    if (resp.result == 'success') {
-		    	var prenom = $( "#mc-form-learnMore #mc-PRENOM" ).val();
-		        $('#mc-form-learnMore').fadeOut('fast', function() {
-		        	$('#mc-form-learnMore-textIntro').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
-		        });
-		       	setTimeout(function() {
-	    			$('#topLearnMoreModal').modal('hide');
-				}, 4000);
-		    }
-		}
-
-	//	plugin d'ajaxification du formulaire mailchimp topbarsubscription
-
-		$('#mc-form-top').ajaxChimp({
-	    	callback: callbackFunctionTop
-	    });
-
-	    function callbackFunctionTop (resp) {
-		    if (resp.result == 'success') {
-		    	var prenom = $( "#mc-PRENOM" ).val();
-		        $('#mc-form-top').fadeOut('fast', function() {
-		        	$('#topbar-subscription-form-text').html("Thank's "+prenom+", you're gonna love it. Don't forget to check your confirmation mail!");
-		        });
-		        setTimeout(function() {
-	    			$('#topbar-subscription').removeClass("hidden-xs").fadeOut('slow');
-				}, 4000);
-		    }
-		}
-
-		//	plugin d'ajaxification du formulaire mailchimp de la sidebar
-
-		$('#mc-sidebar-form').ajaxChimp({
-	    	callback: callbackFunctionSidebar
-	    });
-
-	    function callbackFunctionSidebar (resp) {
-		    if (resp.result == 'success') {
-		    	var prenom = $( "#mc-sidebar-PRENOM" ).val();
-		        $('#mc-sidebar-form').fadeOut('fast', function() {
-		        	if (isFromEmail()) {
-		        		$('#mc-sidebar h1').html("You're beautiful !");
-		        		$('#mc-sidebar h2').html(prenom+" will receive a confirmation email, be sure to let your dear friend know it's coming from you !");
-		        	} else {
-			        	$('#mc-sidebar h1').html("Yo "+prenom+" !");
-			        	$('#mc-sidebar h2').html("Thanks, we've just sent you a confirmation email ;)");
-			        }
-		        });
-		         setTimeout(function() {
-	    			$('#mc-sidebar').fadeOut('slow');
-	    			$('.rightSide h1:nth-of-type(1)').css('margin-top','0');
-	    			$('#footerSubscription').removeClass("hidden-xs").fadeOut('slow'); // fais aussi disparaitre la topbar de subscription
-				}, 7000);
-		    }
-		}
 
 	// script de lecture des paramètre de l'url
 		function getParameterByName(name) {
@@ -407,18 +359,6 @@ $(document).ready(
 
 		}
 
-	// la topbar d'abonnement n'est plus affichée. à voir ce qu'on en fait pour plus tard.
-			// $('#topbar-subscription').removeClass("hidden-xs").hide();
-			// $("#player").click(function() {
-			// 	setTimeout(function(){
-			// 		$('#topbar-subscription').addClass("hidden-xs").show();
-			// 		page.animate({
-			// 			scrollTop: ($(window).scrollTop() + $('#topbar-subscription').outerHeight())
-			// 		}, 1);
-			// 	},2000);
-
-			// console.log("CUL3:"+$(window).scrollTop() + $('#topbar-subscription').outerHeight());
-			// });
 
 	// petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
     	var scrolledDown=false;
