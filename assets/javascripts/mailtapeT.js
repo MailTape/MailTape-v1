@@ -334,9 +334,9 @@ $("#signup-form").submit(function(e){
 	// detection si l'user provient d'un mail
 
 		function isFromEmail(){
-			var utm_source = getParameterByName('utm_source');
+			var utm_medium = getParameterByName('utm_medium');
 
-			if (utm_source=="MailTape") {
+			if (utm_medium=="email") {
 				return true;
 			}
 		}
@@ -346,16 +346,7 @@ $("#signup-form").submit(function(e){
 		if (isFromEmail()) {
 			console.log("You're coming from our mail ! Hello dear subscriber :)");
 			$('#topbar-subscription').removeClass("hidden-xs").hide();
-			$('#footerSubscription').removeClass("hidden-xs").hide();
 			var comingFromMail =true;
-
-			// adaptation sidebar pour inviter ami
-
-			$('#mc-sidebar h1').html("Love is to share");
-		    $('#mc-sidebar h2').html("Subscribe a close friend.");
-		    $('#mc-sidebar-EMAIL').attr("placeholder", "Your friend's email ?");
-		    $('#mc-sidebar-PRENOM').attr("placeholder", "Your friend's name ?");
-		    $('#sidebarSubscribeButton').html("Submit");
 
 		}
 
