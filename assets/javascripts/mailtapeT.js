@@ -262,13 +262,16 @@ $(document).ready(
 
 // signup form validation for iris (byebye MailChimp!)
 
-$("#signup-form").submit(function(e){
+$("#topbar-signup-form").submit(function(e){
 		e.preventDefault(); 
+
+		var name;
+		var email;
 		
-		var $form = $(this),
-		name = $form.find('input[name="name"]').val(),
-		email = $form.find('input[name="email"]').val(),
-		url = $form.attr('action');
+		var $Form = $(this),
+		name = $Form.find('input[name="topbar-name"]').val(),
+		email = $Form.find('input[name="topbar-email"]').val(),
+		url = $Form.attr('action');
 		
 		$.post(url, {name:name, email:email},
 		  function(data) {
@@ -276,28 +279,28 @@ $("#signup-form").submit(function(e){
 		      {
 		      	if(data=="Some fields are missing.")
 		      	{
-			      	$("#status").text("Please fill in your name and email.");
-			      	$("#status").css("color", "red");
+			      	$("#topbar-status").text("Please fill in your name and email.");
+			      	$("#topbar-status").css("color", "red");
 		      	}
 		      	else if(data=="Invalid email address.")
 		      	{
-			      	$("#status").text("Your email address is invalid.");
-			      	$("#status").css("color", "red");
+			      	$("#topbar-status").text("Your email address is invalid.");
+			      	$("#topbar-status").css("color", "red");
 		      	}
 		      	else if(data=="Invalid list ID.")
 		      	{
-			      	$("#status").text("Your list ID is invalid.");
-			      	$("#status").css("color", "red");
+			      	$("#topbar-status").text("Your list ID is invalid.");
+			      	$("#topbar-status").css("color", "red");
 		      	}
 		      	else if(data=="Already subscribed.")
 		      	{
-			      	$("#status").text("You're already subscribed!");
-			      	$("#status").css("color", "red");
+			      	$("#topbar-status").text("You're already subscribed!");
+			      	$("#topbar-status").css("color", "red");
 		      	}
 		      	else
 		      	{
-			      	$("#status").text("You're subscribed "+name+"!");
-			      	$("#status").css("color", "green");
+			      	$("#topbar-status").text("You're subscribed "+name+"!");
+			      	$("#topbar-status").css("color", "green");
 
 			      	setTimeout(function() {
 	    				$('#topbar-subscription').fadeOut('slow');
@@ -311,15 +314,81 @@ $("#signup-form").submit(function(e){
 		  }
 		);
 	});
-	$("#signup-form").keypress(function(e) {
+	$("#topbar-signup-form").keypress(function(e) {
 		    if(e.keyCode == 13) {
 		    	e.preventDefault(); 
 				$(this).submit();
 		    }
 		});
-	$("#subscribeButton").click(function(e){
+	$("#topbar-subscribeButton").click(function(e){
 		e.preventDefault(); 
-		$("#signup-form").submit();
+		$("#topbar-signup-form").submit();
+	});
+
+// same stuff for mobile form
+
+
+$("#mobile-signup-form").submit(function(e){
+		e.preventDefault(); 
+		
+		var name;
+		var email;
+
+		var $Form = $(this),
+		name = $Form.find('input[name="mobile-name"]').val(),
+		email = $Form.find('input[name="mobile-email"]').val(),
+		url = $Form.attr('action');
+		
+		$.post(url, {name:name, email:email},
+		  function(data) {
+		      if(data)
+		      {
+		      	if(data=="Some fields are missing.")
+		      	{
+			      	$("#mobile-status").text("Please fill in your name and email.");
+			      	$("#mobile-status").css("color", "red");
+		      	}
+		      	else if(data=="Invalid email address.")
+		      	{
+			      	$("#mobile-status").text("Your email address is invalid.");
+			      	$("#mobile-status").css("color", "red");
+		      	}
+		      	else if(data=="Invalid list ID.")
+		      	{
+			      	$("#mobile-status").text("Your list ID is invalid.");
+			      	$("#mobile-status").css("color", "red");
+		      	}
+		      	else if(data=="Already subscribed.")
+		      	{
+			      	$("#mobile-status").text("You're already subscribed!");
+			      	$("#mobile-status").css("color", "red");
+		      	}
+		      	else
+		      	{
+			      	$("#mobile-status").text("You're subscribed "+name+"!");
+			      	$("#mobile-status").css("color", "green");
+
+			      	setTimeout(function() {
+	    				$('#mobile-subscription').fadeOut('slow');
+					}, 3000);
+		      	}
+		      }
+		      else
+		      {
+		      	alert("Sorry, unable to subscribe. Please try again later!");
+		      }
+		  }
+		);
+	});
+	$("#mobile-signup-form").keypress(function(e) {
+		    if(e.keyCode == 13) {
+		    	e.preventDefault(); 
+				$(this).submit();
+		    }
+		});
+	$("#mobile-subscribeButton").click(function(e){
+		e.preventDefault(); 
+		$("#mobile-signup-form").submit();
 	});
 
 

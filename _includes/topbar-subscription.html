@@ -3,11 +3,11 @@
         <div class="col-md-12 hidden-xs" id="topbar-subscription">
             <div id="topbar-subscription-form">
                 <p id="topbar-subscription-form-text">Subscribe to MailTape, it's free: </p>
-                <form action="http://iris.mailta.pe/signup.php" method="post" accept-charset="utf-8" name="signup-form" id="signup-form" target="_blank">
-                    <input type="text" name="name" placeholder="Your name" required>
-                    <input type="email" name="email" placeholder="Your email" required>
-                    <button name="subscribe" id="subscribeButton">Subscribe now</button>
-                    <p id="status"></p>
+                <form action="http://iris.mailta.pe/signup.php" method="post" accept-charset="utf-8" name="topbar-signup-form" id="topbar-signup-form" target="_blank">
+                    <input type="text" name="topbar-name" placeholder="Your name" required>
+                    <input type="email" name="topbar-email" placeholder="Your email" required>
+                    <button name="topbar-subscribe" id="topbar-subscribeButton">Subscribe now</button>
+                    <p id="topbar-status"></p>
                 </form>
 <!-- 
 <form action="http://iris.mailta.pe/signup.php" method="POST" accept-charset="utf-8" name="signup-form" id="signup-form">
@@ -48,19 +48,14 @@
                                 We're a not-for-profit art collective.
                             </p>
                         </div>
-                        <div class="modal-body">
-                        <h3 id="mc-form-learnMore-textIntro">Receive our next issue:</h3>
-                            <div id="mc_embed_signup">
-                                <form action="http://MailTa.us2.list-manage.com/subscribe/post?u=315c4b8ac6f2abfa345529f46&amp;id=55aa8710ee" method="post" id="mc-form-learnMore" name="mc-form-learnMore" class="validate" target="_blank">
-                                <input type="text" name="PRENOM" class="required" id="mc-PRENOM" placeholder="Jim" required>
-                                <input type="email" name="EMAIL" class="required email" id="mc-EMAIL" placeholder="jim@morrison.com" required>
-                                <button name="subscribe" id="subscribeButton">Subscribe</button>
-                                <label id="mc-label" for="mc-EMAIL"></label>
-                            </form>
-                            </div>
-
-                            <!--End mc_embed_signup-->
-
+                        <div class="modal-body" id="mobile-subscription">
+                        <h3 id="mobile-subscription-form-textIntro">Receive our next issue:</h3>
+                        <form action="http://iris.mailta.pe/signup.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
+                            <input type="text" name="mobile-name" placeholder="Your name" required>
+                            <input type="email" name="mobile-email" placeholder="Your email" required>
+                            <button name="mobile-subscribe" id="mobile-subscribeButton">Subscribe now</button>
+                            <p id="mobile-status"></p>
+                        </form>
                         </div>
                     </div>
                     <!-- /.modal-content -->
