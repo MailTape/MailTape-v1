@@ -56,7 +56,8 @@ _Maarten of Detroit Swindle_: **"**I haven’t heard his debut album, but this o
 _Laura_: **"**Completely soulful with the right amount of deep house rhythm plus a splendid crescendo that will blow your mind. I would be surprised if you don’t listen to this song twice in a row. Push the volume up folks, it’s time to wake up and burst with energy!**"**
 
 + ## Session Victim – Hey Stranger
-_Laura_: **"**A softly joyful track with a shiny ritournelle and a frenetic riff that will get you hooked. Session Victim is a German duo of DJs that loves to overstep the boundaries of music genres, which they’re doing perfectly with this ideal blend of Soul, Funk and Electronic music.**"**
+_Laura_: **"**A softly joyful track with a shiny ritournelle and a frenetic riff that will get you hooked. Session Victim is a German duo of DJs that loves to overstep the boundaries of music genres, which they’re doing perfectly with this ideal blend of Soul, Funk and Electronic music.**"**![guestPic244.jpg]({{site.baseurl}}/img/guestPic244.jpg)
+
 
 + ## Mocky – Soulful Beat
 _Laura_: **"**Mocky comes from Canada and travelled to the electronic scenes of Berlin and L.A., working with famous international artists and later falling in love with jazz. Incredibly blissful, soulful, jazzy, this electro-pop song will make you want to lie down in the grass on a Spring afternoon.**"**
