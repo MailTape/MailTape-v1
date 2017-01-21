@@ -34,6 +34,7 @@ description: >-
   This morning, let yourself dive into complete blissfulness with the soulful
   beat of our guests Detroit Swindle.
 guestPic: guestPic244.jpg
+fbPic: fbPic244.jpg
 ---
 <p id="introduction">This morning, let yourself dive into complete blissfulness with the soulful beat of our guests [Detroit Swindle](https://soundcloud.com/detroitswindle "Soundcloud"). Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop symbolized by three great artists. Detroit Swindle is a Dutch duo of DJs, renown for connecting an incredibly wide variety of musical genres into their work, making their style one of a kind and quite unpredictable. One of their masterpieces "You, Me, Here, Now" will make you want to discover more so push the volume up folks and enjoy!
 </p>
@@ -66,4 +67,4 @@ _Laura_: **"**Mocky comes from Canada and travelled to the electronic scenes of 
 + ## The Bamboos – Get in the Scene
 _Laura_: **"**Considered by many as the Australian masters of Funk, the Bamboos are getting us on your feet for a morning swing with this splendid fusion of Jazz, Funk and Hip-Hop.**"**
 
-<p id="outroduction">That’s all folks! Thanks to [Detroit Swindle](https://www.facebook.com/detroitswindle/ "Facebook") for their participation and William for the illustration. Have an inspiring Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Detroit Swindle](https://www.facebook.com/detroitswindle/ "Facebook") for their participation and William for the illustration. Have an inspiring Sunday! </p>![fbPic244.jpg]({{site.baseurl}}/img/fbPic244.jpg)
