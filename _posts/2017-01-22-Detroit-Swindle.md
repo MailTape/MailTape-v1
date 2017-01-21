@@ -9,7 +9,7 @@ category: '244'
 guest_name: Detroit Swindle
 guest_color: bliss
 track1_link: 'https://mailtapetracks.s3.amazonaws.com/244/track1.mp3'
-track2_link: 'https://soundcloud.com/andersonpaak/the-bird'
+track2_link: 'https://mailtapetracks.s3.amazonaws.com/244/track2.mp3'
 track3_link: 'https://mailtapetracks.s3.amazonaws.com/244/track3.mp3'
 track4_link: 'https://mailtapetracks.s3.amazonaws.com/244/track4.mp3'
 track5_link: 'https://soundcloud.com/sessionvictim/a2-hey-stranger'
