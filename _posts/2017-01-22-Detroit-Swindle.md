@@ -71,6 +71,3 @@ _Laura_: **"**Considered by many as the Australian masters of Funk, the Bamboos 
 
 
 <p id="outroduction">That’s all folks! Thanks to [Detroit Swindle](https://www.facebook.com/detroitswindle/ "Facebook") for their participation and William for the illustration. Have an inspiring Sunday! </p>
-
-
-
