@@ -70,5 +70,5 @@ _Laura_: **"**Mocky comes from Canada and travelled to the electronic scenes of 
 _Laura_: **"**Considered by many as the Australian masters of Funk, the Bamboos are getting us on our feet for a morning swing with this splendid fusion of Jazz, Funk and Hip-Hop.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Detroit Swindle](https://www.facebook.com/detroitswindle/ "Facebook") for their participation and William for the illustration. Have an inspiring Sunday! </p>![musiColor244new.png]({{site.baseurl}}/img/musiColor244new.png)
+<p id="outroduction">That’s all folks! Thanks to [Detroit Swindle](https://www.facebook.com/detroitswindle/ "Facebook") for their participation and William for the illustration. Have an inspiring Sunday! </p>
 
