@@ -52,7 +52,7 @@ _infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of
 _Inès_: **"**???????**"**
 
 + ## These New Puritans - The Way I Do
-_Inès_: **"**These New Puritans have been a favorite band of mine for years now. This song starts very simply and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
+_Inès_: **"**These New Puritans has been a favorite band of mine for years now. This song starts very simply and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
 
 
 + ## Ménage à Trois - Conditional Love
