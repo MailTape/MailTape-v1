@@ -52,11 +52,11 @@ _infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of
 _Inès_: **"**???????**"**
 
 + ## These New Puritans - The Way I Do
-_Inès_: **"**These New Puritans has been a favorite band of mine for years now. This song starts very simply and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
+_Inès_: **"**These New Puritans has been a favorite band of mine for years now, and this song is one of my favorites. It starts very simply, and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
 
 
 + ## Ménage à Trois - Conditional Love
-_Inès_: **"**This song feels like being in a car, windows open, driving endlessly on a hot summer day, the wind blowing inside making the temperature perfect, wearing sunglasses, foolishly smiling.**"**
+_Inès_: **"**This song feels like being in a car, windows open, driving endlessly on a hot summer day, the wind blowing inside making the temperature perfect, wearing sunglasses, foolishly smiling. Perfection.**"**
 
 + ## Ben Ji - Anchors
 _Inès_: **"**I couldn’t stop listening to this song after hearing it for the first time and I still don’t really know why. It’s a bit all over the place. It’s like that tiny hyperactive moment after your first coffee, when you feel like you can do anything and nothing can stop you.**"**
