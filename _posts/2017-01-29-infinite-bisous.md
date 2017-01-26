@@ -8,7 +8,7 @@ track1_link: 'https://soundcloud.com/tasty-morsels/h-hunt-rice-wine'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/245/track2.mp3'
 track3_link: 'https://soundcloud.com/andrevitch/haroumi-hosono-1989'
 track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
-track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-2'
+track5_link: 'https://soundcloud.com/these-new-puritans/this-guys-in-love-with-you-3'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
 track1_title: h hunt - rice wine
@@ -24,6 +24,8 @@ track6_color: dreamy
 track7_title: Ben Ji - Anchors
 track7_color: vibrant
 author: MailTape Crew
+illustrator: Pierre-Julien Fieux
+guest_name: infinite bisous
 ---
 ## A New Post
 
