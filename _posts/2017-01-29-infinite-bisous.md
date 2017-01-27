@@ -30,7 +30,7 @@ episode_URL: 'http://mailta.pe/245/infinite-bisous/'
 track5_title: These New Puritans - The Way I Do
 track5_color: bliss
 ---
-<p id="introduction">This morning, -----
+<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous'](https://www.facebook.com/infinitebisous/ "Facebook") selection.   -----
 </p>
 
 
@@ -49,7 +49,7 @@ _infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of
 # Mailtape's selection
 
 + ## infinite bisous - life + you
-_Inès_: **"**???????**"**
+_Inès_: **"**As every good Sunday, this song takes its time to wake up It is very cathartic **"**
 
 + ## These New Puritans - The Way I Do
 _Inès_: **"**These New Puritans has been a favorite band of mine for years now, and this song is one of my favorites. It starts very simply, and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
