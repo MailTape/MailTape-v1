@@ -31,7 +31,6 @@ track5_title: These New Puritans - The Way I Do
 track5_color: bliss
 guestPic: guestPic245.jpg
 ---
-![guestPic245.jpg]({{site.baseurl}}/img/guestPic245.jpg)
 <p id="introduction">This morning, take the time to slowly wake up with [infinite bisous'](https://www.facebook.com/infinitebisous/ "Facebook") selection.   -----
 </p>
 
