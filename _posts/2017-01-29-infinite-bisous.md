@@ -23,7 +23,7 @@ track6_title: Ménage à Trois - Conditional Love
 track6_color: dreamy
 track7_title: Ben Ji - Anchors
 track7_color: vibrant
-author: MailTape Crew
+author: Inès
 illustrator: Pierre-Julien Fieux
 guest_name: infinite bisous
 episode_URL: 'http://mailta.pe/245/infinite-bisous/'
@@ -37,6 +37,7 @@ description: >-
   Stay a little bit longer in bed and enjoy a blissful journey through delicate,
   warm and dreamy sounds. There is no need to get out of bed when it's so cold
   outside.
+writer: Inès
 ---
 <p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist infinite bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
