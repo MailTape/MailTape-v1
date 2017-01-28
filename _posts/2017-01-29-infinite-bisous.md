@@ -30,8 +30,8 @@ episode_URL: 'http://mailta.pe/245/infinite-bisous/'
 track5_title: These New Puritans - The Way I Do
 track5_color: bliss
 guestPic: guestPic245.jpg
-musiColor: musiColor245.png
-fbPic: fbPic245.png
+musiColor: musiColor245new.png
+fbPic: fbPic245new.png
 description: 'This morning, wake up slowly with infinite bisous. '
 ---
 <p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
