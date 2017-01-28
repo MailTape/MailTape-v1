@@ -25,7 +25,7 @@ track7_title: Ben Ji - Anchors
 track7_color: vibrant
 author: Inès
 illustrator: Pierre-Julien Fieux
-guest_name: Infinite Bisous
+guest_name: infinite bisous
 episode_URL: 'http://mailta.pe/245/infinite-bisous/'
 track5_title: These New Puritans - The Way I Do
 track5_color: bliss
