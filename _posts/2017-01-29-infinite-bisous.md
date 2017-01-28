@@ -37,10 +37,6 @@ description: 'This morning, wake up slowly with infinite bisous. '
 <p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
 
-# Des bisous partout
-
-Smooth and dreamy sounds, smoothness An all-female band, led by Parisian Anna Jean and with their surf-pop deeply anchored in the sixties, Juniore's music is made of reverbed guitars coupled to vocal harmonies full of spleen and rhythms, inspired by a world of ghosts, towns, cars and girls tales...
-
 
 # **infinite bisous’ selection**
 
