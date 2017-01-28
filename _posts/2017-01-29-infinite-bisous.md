@@ -12,7 +12,7 @@ track5_link: 'https://mailtapetracks.s3.amazonaws.com/245/track5.mp3'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
 track1_title: h hunt - rice wine
-track1_color: dreamy
+track1_color: bliss
 track2_title: Cluster - Sowiesoso
 track2_color: trippy
 track3_title: Haruomi Hosono - Pleocene (プリオシーヌ)
@@ -32,8 +32,9 @@ track5_color: bliss
 guestPic: guestPic245.jpg
 musiColor: musiColor245.png
 fbPic: fbPic245.png
+description: 'This morning, wake up slowly with infinite bisous. '
 ---
-<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous'](https://www.facebook.com/infinitebisous/ "Facebook") selection.   -----
+<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection.   -----
 </p>
 
 
