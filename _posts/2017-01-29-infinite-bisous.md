@@ -30,7 +30,7 @@ episode_URL: 'http://mailta.pe/245/infinite-bisous/'
 track5_title: These New Puritans - The Way I Do
 track5_color: bliss
 guestPic: guestPic245.jpg
-musiColor: musiColor245new.png
+musiColor: musiColor245.png
 fbPic: fbPic245new.png
 description: >-
   This morning, take the time to slowly wake up with infinite bisous' selection.
