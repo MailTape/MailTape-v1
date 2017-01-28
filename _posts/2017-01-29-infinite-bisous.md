@@ -34,7 +34,7 @@ musiColor: musiColor245.png
 fbPic: fbPic245.png
 description: 'This morning, wake up slowly with infinite bisous. '
 ---
-<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Inhale, exhale, stay a little bit longer in bed and enjoy a blissful journey through delicate and dreamy sounds.</p>
+<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Winter is here, Inhale, exhale, stay a little bit longer in bed and enjoy a blissful journey through delicate, warm and dreamy sounds.</p>
 
 
 # Ghosts, towns, and girls tales...
