@@ -70,4 +70,4 @@ _Inès_: **"**This song feels like being in a car, windows open, driving endless
 _Inès_: **"**I couldn’t stop listening to this song after hearing it for the first time and I still don’t really know why. It’s a bit all over the place. It’s like that tiny hyperactive moment after your first coffee, when you feel like you can do anything and nothing can stop you. Time to wake up.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook") for his participation and Pierre-Julien for the illustration. Have a Sunday full of love! </p>
+<p id="outroduction">That’s all folks! Thanks to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook") for his participation and [Pierre-Julien](http://pierrejulienfieux.com/ "Site") for the illustration. Have a Sunday full of love! </p>
