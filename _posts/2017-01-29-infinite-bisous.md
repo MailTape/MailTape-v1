@@ -34,8 +34,12 @@ musiColor: musiColor245.png
 fbPic: fbPic245.png
 description: 'This morning, wake up slowly with infinite bisous. '
 ---
-<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection.   -----
-</p>
+<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Inhale, exhale, stay a little bit longer in bed and enjoy a blissful journey through delicate and dreamy sounds.</p>
+
+
+# Ghosts, towns, and girls tales...
+
+Dreamy guitars An all-female band, led by Parisian Anna Jean and with their surf-pop deeply anchored in the sixties, Juniore's music is made of reverbed guitars coupled to vocal harmonies full of spleen and rhythms, inspired by a world of ghosts, towns, cars and girls tales...
 
 
 # **infinite bisous’ selection**
@@ -53,17 +57,17 @@ _infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of
 # Mailtape's selection
 
 + ## infinite bisous - life + you
-_Inès_: **"**As every good Sunday, this song takes its time to wake up It is very cathartic **"**
+_Inès_: **"**Building A slow s every good Sunday, this song takes its time to wake up It is very cathartic **"**
 
 + ## These New Puritans - The Way I Do
-_Inès_: **"**These New Puritans has been a favorite band of mine for years now, and this song is one of my favorites. It starts very simply, and then layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
+_Inès_: **"**These New Puritans has been a favorite band of mine for years now, and this song is one of my favorites. It starts very simply, and layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
 
 
 + ## Ménage à Trois - Conditional Love
 _Inès_: **"**This song feels like being in a car, windows open, driving endlessly on a hot summer day, the wind blowing inside making the temperature perfect, wearing sunglasses, foolishly smiling. Perfect.**"**
 
 + ## Ben Ji - Anchors
-_Inès_: **"**I couldn’t stop listening to this song after hearing it for the first time and I still don’t really know why. It’s a bit all over the place. It’s like that tiny hyperactive moment after your first coffee, when you feel like you can do anything and nothing can stop you.**"**
+_Inès_: **"**I couldn’t stop listening to this song after hearing it for the first time and I still don’t really know why. It’s a bit all over the place. It’s like that tiny hyperactive moment after your first coffee, when you feel like you can do anything and nothing can stop you. Time to wake up!**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook") for his participation and Pierre-Julien for the illustration. Have a ??? Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook") for his participation and Pierre-Julien for the illustration. Have a lovely Sunday! </p>
