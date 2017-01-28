@@ -32,7 +32,12 @@ track5_color: bliss
 guestPic: guestPic245.jpg
 musiColor: musiColor245new.png
 fbPic: fbPic245new.png
-description: 'This morning, wake up slowly with infinite bisous. '
+description: >-
+  This morning, take the time to slowly wake up with infinite bisous' selection.
+  Stay a little bit longer in bed, allow yourself to feel this wintry melancholy
+  for a moment, inhale, exhale, and enjoy a blissful journey through delicate,
+  warm and dreamy sounds. There is no need to get out of bed when it's so cold
+  outside.
 ---
 <p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
