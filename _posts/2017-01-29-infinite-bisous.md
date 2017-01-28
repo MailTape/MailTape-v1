@@ -39,19 +39,19 @@ description: >-
   outside.
 writer: Inès
 ---
-<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist infinite bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
+<p id="introduction">This morning, take the time to slowly wake up to [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist infinite bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
 
 # **infinite bisous’ selection**
 
-+ ## h hunt - rice wine
-_infinite bisous_: **"**harry and i have been close friends since we were about 13, last year i recorded him playing piano in paris, as a present for his dad. it's a record i'm very proud to have taken part in, even if in a small way. i listen to it a lot when cooking, or falling asleep. 'rice wine' is a beautiful example of a piece of music which itself takes time to wake up, and so it is perfect to wake up with.**"**
++ ## H Hunt - Rice Wine
+_infinite bisous_: **"**Harry and i have been close friends since we were about 13, last year i recorded him playing piano in paris, as a present for his dad. it's a record i'm very proud to have taken part in, even if in a small way. i listen to it a lot when cooking, or falling asleep. 'rice wine' is a beautiful example of a piece of music which itself takes time to wake up, and so it is perfect to wake up with.**"**
 
 + ## Cluster - Sowiesoso
-_infinite bisous_: **"**so, you stayed at my place, we already listened to 'rice wine', i'm in the other room makin' breakfast and i've opened the blinds and left this on. that's a nice morning to me.**"**
+_infinite bisous_: **"**So, you stayed at my place, we already listened to 'rice wine', i'm in the other room makin' breakfast and i've opened the blinds and left this on. that's a nice morning to me.**"**
 
 + ## Haruomi Hosono - Pleocene
-_infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of moment, not yet got ya trousies on but you're feelin like "this is gonna be a good one".**"**
+_infinite bisous_: **"**A real sunday classic here; this is a 'socks on' kind of moment, not yet got ya trousies on but you're feelin like "this is gonna be a good one".**"**
 
 
 # Mailtape's selection
