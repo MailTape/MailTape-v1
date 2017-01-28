@@ -31,7 +31,7 @@ track5_title: These New Puritans - The Way I Do
 track5_color: bliss
 guestPic: guestPic245.jpg
 musiColor: musiColor245.png
-fbPic: fbPic245new.png
+fbPic: fbPic245.png
 description: >-
   This morning, take the time to slowly wake up with infinite bisous' selection.
   Stay a little bit longer in bed and enjoy a blissful journey through delicate,
