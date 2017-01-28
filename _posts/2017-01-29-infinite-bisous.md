@@ -57,7 +57,7 @@ _infinite bisous_: **"**a real sunday classic here; this is a 'socks on' kind of
 # Mailtape's selection
 
 + ## infinite bisous - life + you
-_Inès_: **"**So many adjectives could describe this song: a heartbreaking hurricane, a slow dance, a catharsis... It feels very raw, honest and personal, and is so beautiful.**"**
+_Inès_: **"**Many words could describe this song: a hurricane, a slow dance, a catharsis... It feels very raw, honest and personal, and is so beautiful.**"**
 
 + ## These New Puritans - The Way I Do
 _Inès_: **"**These New Puritans has been a favorite band of mine for years now, and this song is one of my favorites. It starts very simply, and layers up until reaching this kind of tragic yet very optimistic ending. It is a quiet moment suspended in time, calming and awakening.**"**
