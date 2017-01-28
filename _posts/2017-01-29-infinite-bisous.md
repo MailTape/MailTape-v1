@@ -39,7 +39,7 @@ description: >-
   outside.
 writer: Inès
 ---
-<p id="introduction">This morning, take the time to slowly wake up to [Infinite Bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist infinite bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
+<p id="introduction">This morning, take the time to slowly wake up to [Infinite Bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. British artist Infinite Bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
 
 # **Infinite Bisous’ selection**
