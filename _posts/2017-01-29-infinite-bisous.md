@@ -34,7 +34,7 @@ musiColor: musiColor245.png
 fbPic: fbPic245.png
 description: 'This morning, wake up slowly with infinite bisous. '
 ---
-<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, stay a little bit longer in bed and enjoy a blissful journey through delicate, warm and dreamy sounds.</p>
+<p id="introduction">This morning, take the time to slowly wake up with [infinite bisous](https://www.facebook.com/infinitebisous/ "Facebook")' selection. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds.</p>
 
 
 # Des bisous partout
