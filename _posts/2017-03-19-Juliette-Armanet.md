@@ -6,6 +6,7 @@ track1_link: 'https://soundcloud.com/ricky-hollywood/prie-pour-moi'
 track2_link: 'https://soundcloud.com/tasty-morsels/teen-sex'
 track3_link: 'https://soundcloud.com/ojard/les-machines-parlantes'
 track1_title: Ricky Hollywood - Prie pour Moi
+track2_title: Infinite Bisous - Teen Sex
 ---
 ## A New Post
 
