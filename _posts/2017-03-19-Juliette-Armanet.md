@@ -5,6 +5,7 @@ published: false
 track1_link: 'https://soundcloud.com/ricky-hollywood/prie-pour-moi'
 track2_link: 'https://soundcloud.com/tasty-morsels/teen-sex'
 track3_link: 'https://soundcloud.com/ojard/les-machines-parlantes'
+track1_title: Ricky Hollywood - Prie pour Moi
 ---
 ## A New Post
 
@@ -24,7 +25,6 @@ Teen Sex, Infinite Bisous.
 “One of the sexiest songs out these days, produced by a young and utterly charming Brit named Rory Mac Carthy, (he played alongside Connan Moccasin for a few years). His project “Infinite Bisous” is very dear to me. It’s very delicate and distinguished. It’s quite bare, the song is stripped back, throbbing, perfectly produced and sounds like an adorably erotic classic”.
 
 Orja, Les machines parlantes.
-
 
 This song feels like an old seventies cinema instrumental track, to which you see yourself wandering naked by a small stream with a flower between your teeth. This outer worldly flute is beautiful, sounding like a timeless nursery rhyme. I’m not very knowledgeable about this artist, but his tune crafting and his musical landscapes are very pleasing to me. On this note, I have to go, and dance, adorning a mouthful of daisies. Enjoy your Sunday, and take it easy. Give peace a chance.”
 
