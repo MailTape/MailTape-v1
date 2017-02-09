@@ -1,6 +1,6 @@
 {% include head.html %} {% include fb_sdk.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
-
+<img src="//images.weserv.nl/?url=mailta.pe/img/{{ page.guestPic }}&w=1400&t=fit&il" style="display:none;"/>
 
 <div id="bigHeader" class="stretchMe notPlaying" data-stretch="//images.weserv.nl/?url=mailta.pe/img/{{ page.guestPic }}&w=1400&t=fit&il">
 
@@ -13,9 +13,7 @@
             </div>
             <div class="col-md-10 col-sm-10 col-xs-12 center">
                     <h2>ISSUE #{{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
-                    <h1>{{ page.guest_name }}</h1>
-<!--                     <br/><a id="readMore" class="notPlaying">&#8595; Read story &#8595;</a>
- -->                
+                    <h1>{{ page.guest_name }}</h1>          
             </div>
 
             <div class="col-md-1 col-sm-1 hidden-xs nav right">
