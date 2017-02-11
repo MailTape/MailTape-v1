@@ -25,7 +25,7 @@ track4_title: Cara Stacey - Dark Matter
 track4_color: vibrant
 track5_title: Malombo Jazz Makers - Hleziphi
 track5_color: bliss
-track6_title: Sons Of Kemet - Adonia’s Lullaby
+track6_title: Sons of Kemet - Adonia’s Lullaby
 track6_color: dreamy
 track7_title: Nérija - The Fisherman
 track7_color: vibrant
