@@ -31,9 +31,8 @@ track7_title: Nérija - The Fisherman
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/247/Cara-Stacey'
 guestPic: guestPic247.jpg
-fbPic: ''
-musiColor: ''
-description: ''
+fbPic: fbPic247.jpg
+musiColor: musiColor247.png
 ---
 <p id="introduction">This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.</p>
 
