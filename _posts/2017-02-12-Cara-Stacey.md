@@ -13,6 +13,23 @@ category: '247'
 author: Sanjay Mistry
 illustrator: Isabelle Escande
 writer: Daisy
+guest_name: Cara Stacey
+guest_color: dreamy
+track1_title: Samthing Soweto - Jack Of All Trade
+track1_color: dreamy
+track2_title: Owiny Sigoma Band - Owegi Owandho (Hello Skinny Remix)
+track2_color: vibrant
+track3_title: Waver - Aphelion
+track3_color: bliss
+track4_title: Cara Stacey - Dark Matter
+track4_color: vibrant
+track5_title: Malombo Jazz Makers - Hleziphi
+track5_color: bliss
+track6_title: Sons Of Kemet - Adonia’s Lullaby
+track6_color: dreamy
+track7_title: Nérija - The Fisherman
+track7_color: vibrant
+episode_URL: 'http://mailta.pe/247/Cara-Stacey'
 ---
 ## A New Post
 
