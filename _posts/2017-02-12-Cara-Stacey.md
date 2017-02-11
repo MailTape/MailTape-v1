@@ -15,7 +15,7 @@ illustrator: Isabelle Escande
 writer: Daisy
 guest_name: Cara Stacey
 guest_color: dreamy
-track1_title: Samthing Soweto - Jack Of All Trade
+track1_title: Samthing Soweto - Jack Of All Trades
 track1_color: dreamy
 track2_title: Owiny Sigoma Band - Owegi Owandho (Hello Skinny Remix)
 track2_color: vibrant
