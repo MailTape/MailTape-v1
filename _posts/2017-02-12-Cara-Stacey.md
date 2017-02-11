@@ -1,6 +1,6 @@
 ---
 layout: episode
-bigTitle_font_ratio: '6'
+bigTitle_font_ratio: '5'
 published: true
 track1_link: 'https://soundcloud.com/samthingsoweto/01-jack-of-all-trades'
 track2_link: 'https://soundcloud.com/hello_skinny/owegi-owandho-hello-skinny'
