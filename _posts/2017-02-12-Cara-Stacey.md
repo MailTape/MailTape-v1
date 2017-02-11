@@ -31,6 +31,37 @@ track7_title: Nérija - The Fisherman
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/247/Cara-Stacey'
 ---
-## A New Post
+<p id="introduction">This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+<p>A hypnotic collision of sounds awaits, as Cara explores and pushes the sonic possibilities afforded by the musical bows of her native South Africa, their taut flection echoed in the resounding arcs of transformation within and between these tracks. Spacious, cinematic soundscapes result, played against pulsing tempos that pull us further in, the sporadically muffled heartbeat of a rippling aural caress.</p>
+
+
+# **Cara Stacey’s selection**
+
++ ## Samthing Soweto – Jack of all trades
+_Cara Stacey_: **"**A beautiful vocal arrangement from this Johannesburg-based artist. So much of South Africa is the voice: sung, shouted, whispered. We have countless iconic vocal traditions like that of the Malay Choirs, isicathamiya, opera, and various other choral traditions but I love this sombre and subtle contemporary piece.**"**
+
++ ## Owiny Sigoma Band – Owegi Owandho (Hello Skinny Remix)
+_Cara Stacey_: **"**An oldie but a goodie. Gorgeous remix by Hello Skinny of beautiful Owiny Sigoma sounds. I love the timbre of the nyatiti lyre that this project centres around but also the compositional stylings Tom Skinner brings to this reworking.**"**
+
++ ## Waver – Aphelion
+_Cara Stacey_: **"**A beautiful collaboration of piano and live sampling out of NYC.**"**
+
+
+# Mailtape's selection
+
++ ## Cara Stacey - Dark Matter
+_Sanjay_: **"**Taken from Cara’s new album _Things That Grow_, Dark Matter occupies the space with some lovely swinging bass lines and clarinet melodies creating a beautiful rhythmic pulse. It also features future MailTape guest, [Shabaka Hutchings](http://www.shabakahutchings.com/), on clarinet.**"** 
+
++ ## Malombo Jazz Makers - Hleziphi
+
+_Sanjay_: **"**Percussionist Julian Bahula’s first LP – with the Malombo Jazz Makers – was released in South Africa in 1964 and was significant for its development of the genre of Afrocentric jazz. Bahula was heavily involved with the struggle against apartheid, smuggling documents abroad for the African National Congress (ANC) using the body of a malombo (drum). He worked with Steve Biko and at times performed in disguise alongside a political theatre group called the Theatre Council of Natal (TECON) players. In 1973 he left South Africa for Britain, using a fake passport, like many other South African artists and dissidents.**"**
+
++ ## Sons of Kemet - Adonia's Lullaby
+_Sanjay_: **"**Adonia’s Lullaby is a more pensive side to Sons of Kemet’s debut album, Burn. The name of the band refers to an early name for ancient Egypt, and an extra connection is that the ancient land’s last Nubian king was called Shabaka, coincidentally the first name of clarinettist/saxophonist Hutchings, the band’s leader. On this track, The Invisible’s David Okumu guests on guitar with a beautiful echoey production from Seb Rochford.**"**
+
++ ## Nérija - The Fisherman
+_Sanjay_: **"**This London-based seven-piece have so much going for them. Fantastic compositions, arrangements, and, perhaps above all, a harmonious ethos. Their modulated, soulful sound is given full rein on this track, composed by Rosie Turton, the band’s trombonist. Nérija in their own words are “the search for individual strength in the face of external expectations, a strength that shows itself not in competitiveness, desire for approval, or to prove that women can play well, but in the ability to discover and remain who we are, being honest with ourselves and others when to do so is incredibly hard.”**"**
+
+
+<p id="outroduction">That’s all for this morning! Thanks to [Cara Stacey](http://www.carastacey.com/) for her participation, Isabelle Escande for the illustration and Daisy for the introduction. Have a beautiful Sunday!</p>
