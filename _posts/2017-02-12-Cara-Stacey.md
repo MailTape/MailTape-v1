@@ -29,7 +29,7 @@ track6_title: Sons of Kemet - Adonia’s Lullaby
 track6_color: dreamy
 track7_title: Nérija - The Fisherman
 track7_color: vibrant
-episode_URL: 'http://mailta.pe/247/Cara-Stacey'
+episode_URL: 'http://mailta.pe/247/Cara-Stacey/'
 guestPic: guestPic247.jpg
 fbPic: fbPic247.jpg
 musiColor: musiColor247.png
