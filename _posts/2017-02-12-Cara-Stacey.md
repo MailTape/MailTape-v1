@@ -45,7 +45,7 @@ musiColor: musiColor247.png
 _Cara Stacey_: **"**A beautiful vocal arrangement from this Johannesburg-based artist. So much of South Africa is the voice: sung, shouted, whispered. We have countless iconic vocal traditions like that of the Malay Choirs, isicathamiya, opera, and various other choral traditions but I love this sombre and subtle contemporary piece.**"**
 
 + ## Owiny Sigoma Band – Owegi Owandho (Hello Skinny Remix)
-_Cara Stacey_: **"**An oldie but a goodie. Gorgeous remix by Hello Skinny of beautiful Owiny Sigoma sounds. I love the timbre of the nyatiti lyre that this project centres around but also the compositional stylings Tom Skinner brings to this reworking.**"**
+_Cara Stacey_: **"**An oldie but a goodie. Gorgeous remix by [Hello Skinny](https://helloskinny.bandcamp.com/) of beautiful [Owiny Sigoma](https://owinysigomaband.bandcamp.com/) sounds. I love the timbre of the nyatiti lyre that this project centres around but also the compositional stylings Tom Skinner brings to this reworking.**"**
 
 + ## Waver – Aphelion
 _Cara Stacey_: **"**A beautiful collaboration of piano and live sampling out of NYC.**"**
