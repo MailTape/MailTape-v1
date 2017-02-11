@@ -9,6 +9,10 @@ track4_link: 'https://soundcloud.com/kitrecords/cara-stacey-dark-matter-kr13'
 track5_link: 'https://soundcloud.com/strut/malombo-jazz-makers-hleziphi'
 track6_link: 'https://soundcloud.com/sons-of-kemet/sons-of-kemet-adonias-lullaby'
 track7_link: 'https://soundcloud.com/nerijamusic/the-fisherman-1'
+category: '247'
+author: Sanjay Mistry
+illustrator: Isabelle Escande
+writer: Daisy
 ---
 ## A New Post
 
