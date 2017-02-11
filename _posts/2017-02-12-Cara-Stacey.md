@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/samthingsoweto/01-jack-of-all-trades'
 track2_link: 'https://soundcloud.com/hello_skinny/owegi-owandho-hello-skinny'
 track3_link: 'https://soundcloud.com/waver-music/aphelion'
@@ -31,6 +31,9 @@ track7_title: Nérija - The Fisherman
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/247/Cara-Stacey'
 guestPic: guestPic247.jpg
+fbPic: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, let your curiosity about the world and all its corners run wild, with an intriguing selection from our guest [Cara Stacey](http://www.carastacey.com/ "Cara Stacey") - composer, researcher, improviser and multi-instrumentalist.</p>
 
