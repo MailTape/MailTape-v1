@@ -52,11 +52,10 @@ _Marion from Requin Chagrin_: **"**I had the chance to see them play at Point É
 + ## Requin Chagrin - Le Chagrin
 _Inès_: **"**?????**"** 
 
-+ ## ??? - ???
++ ## Vundabar - Darla
 _Inès_: **"**????**"**
 
-
-+ ## ????? - ????
++ ## Melted Toys - Blush
 _Inès_: **"**????**"**
 
 + ## Vril - Torus XXXII
