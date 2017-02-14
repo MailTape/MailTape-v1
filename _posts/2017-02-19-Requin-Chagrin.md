@@ -23,11 +23,14 @@ track5_color: vibrant
 track7_color: trippy
 track7_title: Vril - Torus XXXII
 track4_color: vibrant
+episode_URL: 'http://www.mailta.pe/248/requin-chagrin/'
+track5_link: 'https://soundcloud.com/vundabar/darla'
+track6_link: 'https://soundcloud.com/underwaterpeoples/melted-toys-blush'
 ---
 <p id="introduction">This morning, take the time to slowly wake up to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' selection. British artist Infinite Bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
 
-# **Infinite Bisous’ selection**
+# **Requin Chagrin’s selection**
 
 + ## MJ Guider - Lit Negative
 _Yohann from Requin Chagrin_: **"**I recently discovered the label Kranky, whose experimental and airy editorial line I have found quite similar to Sacred Bones Records.
