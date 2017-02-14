@@ -16,7 +16,7 @@ track1_color: trippy
 track2_title: Kommode - Patient
 track2_color: dreamy
 track3_title: Barbagallo - Nouveau Sidobre
-track3_color: dreamy
+track3_color: bliss
 track4_title: Requin Chagrin - Le Chagrin
 track5_title: Vundabar - Darla
 track5_color: vibrant
@@ -28,6 +28,8 @@ track5_link: 'https://soundcloud.com/vundabar/darla'
 track6_link: 'https://soundcloud.com/underwaterpeoples/melted-toys-blush'
 track6_title: Melted Toys - Blush
 track6_color: dreamy
+illustrator: Camille Célestin
+writer: Daisy
 ---
 <p id="introduction">This morning, take the time to slowly wake up to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' selection. British artist Infinite Bisous uses dreamy synths fused with a lo-fi psychedelic sound to create bittersweet songs, perfect for a Sunday morning. Stay a little bit longer in bed, allow yourself to feel this wintry melancholy for a moment, inhale, exhale, and enjoy a blissful journey through delicate, warm and dreamy sounds. There is no need to get out of bed when it's so cold outside.</p>
 
