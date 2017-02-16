@@ -52,7 +52,7 @@ Released by them in 2016, this great album from MJ Guider possesses an interesti
 # Mailtape's selection
 
 + ## Requin Chagrin - Le Chagrin
-_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), « Le Chagrin », has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
+_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), "Le Chagrin", has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
 
 + ## Vril - Torus XXXII
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
