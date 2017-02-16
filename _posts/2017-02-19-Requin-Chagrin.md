@@ -55,7 +55,7 @@ Released by them in 2016, this great album from MJ Guider possesses an interesti
 _Inès_: **"**?????**"** 
 
 + ## Vril - Torus XXXII
-_Inès_: **"**??????**"**
+_Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful, but staying true to its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
 _Inès_: **"**One of my favorite discoveries in the last few years. Gorgeous Bully never seems **"**
