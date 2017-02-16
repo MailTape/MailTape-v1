@@ -26,7 +26,7 @@ track6_link: 'https://soundcloud.com/gorgeousbully/kidding-feat-whorish-boorish'
 track6_title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
 track6_color: dreamy
 illustrator: Camille Célestin
-writer: Daisy
+writer: Inès
 track5_link: 'https://soundcloud.com/lukasz-klosowski/vril-torus-xxxii'
 track3_title: MJ Guider - Lit Negative
 track7_title: Vundabar - Darla
