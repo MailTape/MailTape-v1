@@ -58,7 +58,7 @@ _Inès_: **"**Taken from their first release on [La Souterraine](http://souterra
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
-_Inès_: **"**Gorgeous Bully is of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. Simply beautiful.**"**
+_Inès_: **"**Gorgeous Bully is one of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. Simply beautiful.**"**
 
 + ## Vundabar - Darla
 _Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between tiny adrenaline shots and calmer moments. I guess now we're all hyped up and ready to go on with our day!**"**
