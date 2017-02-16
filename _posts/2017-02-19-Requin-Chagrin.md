@@ -58,10 +58,10 @@ _Inès_: **"**?????**"**
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
-_Inès_: **"**Gorgeous Bully is of my favorite discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. Nothing more to say except that this song is simply beautiful.**"**
+_Inès_: **"**Gorgeous Bully is of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. This song is simply beautiful.**"**
 
 + ## Vundabar - Darla
-_Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between small adrenaline shots and calmer moments.**"**
+_Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between small adrenaline shots and calmer moments. Now we're all hyped and ready to go on with our day!**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have a energetic Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have an energetic Sunday! </p>
