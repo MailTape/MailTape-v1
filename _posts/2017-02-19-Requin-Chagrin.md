@@ -61,7 +61,7 @@ _Inès_: **"**Time for some rest before attacking the rest of this selection. Pu
 _Inès_: **"**Gorgeous Bully is of my favorite discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. _Kidding_ magnifies this whole sound with the lovely intertwining of the voices. Nothing more to say except that this song is simply beautiful.**"**
 
 + ## Vundabar - Darla
-_Inès_: **"**????**"**
+_Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between small adrenaline shots and calmer moments.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation and [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration. Have a Sunday ! </p>
+<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have a energetic Sunday! </p>
