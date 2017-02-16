@@ -25,7 +25,7 @@ track7_title: Vril - Torus XXXII
 track4_color: vibrant
 episode_URL: 'http://www.mailta.pe/248/requin-chagrin/'
 track5_link: 'https://soundcloud.com/vundabar/darla'
-track6_link: 'https://soundcloud.com/underwaterpeoples/melted-toys-blush'
+track6_link: 'https://soundcloud.com/gorgeousbully/kidding-feat-whorish-boorish'
 track6_title: Melted Toys - Blush
 track6_color: dreamy
 illustrator: Camille Célestin
