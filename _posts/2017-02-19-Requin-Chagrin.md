@@ -7,8 +7,7 @@ category: '248'
 guest_name: Requin Chagrin
 guest_color: vibrant
 track2_link: 'https://soundcloud.com/kommode/patient'
-track1_link: 'https://soundcloud.com/kranky/mj-guider-lit-negative'
-track3_link: 'https://soundcloud.com/barbagalloofficial/nouveau-sidobre'
+track3_link: 'https://soundcloud.com/kranky/mj-guider-lit-negative'
 track4_link: 'https://soundcloud.com/requinchagrin/le-chagrin'
 track7_link: 'https://soundcloud.com/vundabar/darla'
 track1_title: Barbagallo - Nouveau Sidobre
@@ -30,6 +29,7 @@ writer: Inès
 track5_link: 'https://soundcloud.com/lukasz-klosowski/vril-torus-xxxii'
 track3_title: MJ Guider - Lit Negative
 track7_title: Vundabar - Darla
+track1_link: 'https://soundcloud.com/barbagalloofficial/nouveau-sidobre'
 ---
 <p id="introduction">This morning, XXXXX [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' selection. XXXXXXX.</p>
 
