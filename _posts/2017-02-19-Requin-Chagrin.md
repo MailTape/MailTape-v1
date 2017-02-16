@@ -32,7 +32,7 @@ track7_title: Vundabar - Darla
 track1_link: 'https://soundcloud.com/barbagalloofficial/nouveau-sidobre'
 ---
 <p id="introduction">This morning, juggle between calm and energetic moments thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")'s eclectic selection. Requin Chagrin, French band born from its singer Marion's mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.</p>
-<p>Through this precisely 30-minutes selection, travel through France, Norway, the US and the UK, feel warmth and coldness, take a breath before leaping far, or just dance alone in your room. Sunnier days don’t seem that far away now.</p>
+<p>Through this precisely 30-minutes selection, travel through France, Norway, the US and the UK, feel warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.</p>
 
 
 # **Requin Chagrin’s selection**
