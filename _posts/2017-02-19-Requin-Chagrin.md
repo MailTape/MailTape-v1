@@ -31,7 +31,7 @@ track3_title: MJ Guider - Lit Negative
 track7_title: Vundabar - Darla
 track1_link: 'https://soundcloud.com/barbagalloofficial/nouveau-sidobre'
 ---
-<p id="introduction">This morning, XXXXX [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' selection. XXXXXXX.</p>
+<p id="introduction">This morning, wake up in a great mood thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' eclectic selection. Sunnier days don’t seem that far away now.</p>
 
 
 # **Requin Chagrin’s selection**
@@ -52,13 +52,13 @@ Released by them in 2016, this great album from MJ Guider possesses an interesti
 # Mailtape's selection
 
 + ## Requin Chagrin - Le Chagrin
-_Inès_: **"**?????**"** 
+_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), « Le Chagrin », has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
 
 + ## Vril - Torus XXXII
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
-_Inès_: **"**Gorgeous Bully is of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. This song is simply beautiful.**"**
+_Inès_: **"**Gorgeous Bully is of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. Simply beautiful.**"**
 
 + ## Vundabar - Darla
 _Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between tiny adrenaline shots and calmer moments. I guess now we're all hyped up and ready to go on with our day!**"**
