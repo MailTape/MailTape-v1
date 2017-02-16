@@ -58,7 +58,7 @@ _Inès_: **"**?????**"**
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
-_Inès_: **"**One of my favorite discoveries in the last few years. Gorgeous Bully never seems **"**
+_Inès_: **"**Gorgeous Bully is of my favorite discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. _Kidding_ magnifies this whole sound with the lovely intertwining of the voices. Nothing more to say except that this song is simply beautiful.**"**
 
 + ## Vundabar - Darla
 _Inès_: **"**????**"**
