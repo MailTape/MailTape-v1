@@ -64,4 +64,4 @@ _Inès_: **"**Gorgeous Bully is of my favorite musical discoveries in the last f
 _Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, juggling between small adrenaline shots and calmer moments. Now we're all hyped and ready to go on with our day!**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have an energetic Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have an energetic, motivated and overall great Sunday! </p>
