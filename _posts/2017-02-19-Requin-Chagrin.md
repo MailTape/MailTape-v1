@@ -31,7 +31,8 @@ track3_title: MJ Guider - Lit Negative
 track7_title: Vundabar - Darla
 track1_link: 'https://soundcloud.com/barbagalloofficial/nouveau-sidobre'
 ---
-<p id="introduction">This morning, juggle between  [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")' eclectic selection. Sunnier days don’t seem that far away now.</p>
+<p id="introduction">This morning, juggle between calm and energetic moments thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")'s eclectic selection. Requin Chagrin, French band born from its singer Marion's mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound. 
+Through this precisely 30-minutes selection, travel through France, Norway, the US and the UK, feel warmth and coldness, take a breath before leaping far, dance alone in your room. Sunnier days don’t seem that far away now.</p>
 
 
 # **Requin Chagrin’s selection**
@@ -52,7 +53,7 @@ Released by them in 2016, this great album from MJ Guider possesses an interesti
 # Mailtape's selection
 
 + ## Requin Chagrin - Le Chagrin
-_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), "Le Chagrin", has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
+_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), "Le Chagrin" has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
 
 + ## Vril - Torus XXXII
 _Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
