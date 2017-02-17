@@ -37,8 +37,8 @@ description: >-
   travel through France, Norway, the US and the UK, feel warmth and coldness,
   and dance (alone) in your room. Sunnier days don’t seem so far away now.
 ---
-<p id="introduction">This morning, juggle between calm and energetic moments thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")'s eclectic selection. Requin Chagrin, French band born from its singer Marion's mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.</p>
-<p>Through this precisely 30-minutes selection, travel through France, Norway, the US and the UK, feel warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.</p>
+<p id="introduction">This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.</p>
+<p>During this precisely 30-minute selection, travel through France, Norway, the US and the UK, feel both warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.</p>
 
 
 # **Requin Chagrin’s selection**
@@ -59,16 +59,16 @@ Released by them in 2016, this great album from MJ Guider possesses an interesti
 # Mailtape's selection
 
 + ## Requin Chagrin - Le Chagrin
-_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), "Le Chagrin" has this summery vibe that can be met in Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
+_Inès_: **"**Taken from their first release on [La Souterraine](http://souterraine.biz/ "Site"), “Le Chagrin” has this summery vibe that can be found across Requin Chagrin’s other tracks. This song is ingeniously confusing: the melancholy felt on Marion’s voice (« le chagrin » means « the sorrow » after all) is met with joyful synths and a punchy guitar/bass duo. Should we be crying? Should we be dancing? Both?**"** 
 
 + ## Vril - Torus XXXII
-_Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing itself over its 6-minute’s course to become powerful in its minimalism.**"**
+_Inès_: **"**Time for some rest before attacking the rest of this selection. Put on your headphones, close your eyes, meditate or whatever. Follow this song’s progress, bringing elements from all sides to its core, developing over its 6-minutes course to become powerful in its minimalism.**"**
 
 + ## Gorgeous Bully - Kidding (ft. Whorish Boorish)
-_Inès_: **"**Gorgeous Bully is one of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. "Kidding" magnifies this whole sound with the lovely intertwining of the voices. Simply beautiful.**"**
+_Inès_: **"**Gorgeous Bully is one of my favorite musical discoveries in the last few years, always managing to get the perfect mix between dreamy, lo-fi sounds and a hint of melancholy. “Kidding” magnifies this whole sound with the lovely intertwining of the voices. Simply beautiful.**"**
 
 + ## Vundabar - Darla
-_Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to bore me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, switching between tiny adrenaline shots and calmer moments. I guess now we're all hyped up and ready to go on with our day!**"**
+_Inès_: **"**Mathrock guitars, jerky drums and an unexpected structure: a trio that never seems to get tired for me. Vundabar’s songs are always so full of good energy, and this one in particular feels like being in a small kind of roller coaster, switching between tiny adrenaline rushes and calmer moments. I guess now we’re all hyped up and ready to go on with our day!**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have an energetic, motivated and overall great Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook") for their participation, [Camille Célestin](http://www.slipontherock.com/ "Site") for the illustration and Daisy for the translation. Have an energetic and overall great Sunday! </p>
