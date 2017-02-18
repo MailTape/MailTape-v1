@@ -34,8 +34,8 @@ musiColor: musiColor248.png
 description: >-
   This morning, juggle the calm and energetic moments thrown your way by Requin
   Chagrin’s eclectic selection. During this 30-minutes selection, travel all
-  over the world, feel both warmth and coldness or dance (alone) in your room.
-  Sunnier days don’t seem so far away now!
+  over the world, feel both warmth and coldness or just dance (alone) in your
+  room. Sunnier days don’t seem so far away now!
 guestPic: guestPic248new2.jpg
 fbPic: fbPic248.jpg
 ---
