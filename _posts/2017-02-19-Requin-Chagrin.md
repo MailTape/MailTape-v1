@@ -36,7 +36,6 @@ description: >-
   Chagrin’s eclectic selection. During this precisely 30-minutes selection,
   travel all over the world, feel both warmth and coldness and dance (alone) in
   your room. Sunnier days don’t seem so far away now!
-guestPic: guestPic248.jpg
 ---
 
 <p id="introduction">This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.</p>
