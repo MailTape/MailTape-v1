@@ -46,7 +46,7 @@ fbPic: fbPic248.jpg
 # **Requin Chagrin’s selection**
 
 + ## Barbagallo - Nouveau Sidobre
-_Marion from Requin Chagrin_: **"**I had the chance to see them play at Point Éphémère in Paris and it was great. Since then I've had this song in my head, as was the case last December, so it's perfect!**"**
+_Marion from Requin Chagrin_: **"**I had the chance to see them play at Point Éphémère in Paris last December and it was great. Since then I've had this song in my head, as was the case last Sunday, so it's perfect!**"**
 
 + ## Kommode - Patient
 _Romain from Requin Chagrin_: **"**I hardly ever listen to music on Soundcloud, but I stumbled back across this (put into my favourites five years ago...). "Kommode" is the solo project of Eirik Glambek Bøe, a member of Kings Of Convenience (which I am a long-time fan of) but who unfortunately never released more than two songs.
