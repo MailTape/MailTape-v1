@@ -41,7 +41,7 @@ guestPic: guestPic249.jpg
 # **Sarathy Korwar’s selection**
 
 + ## Cara Stacey - Dark Matter
-_Sarathy Korwar_: **"**From my dear friend Cara Stacey's amazing album, _Things That Grow_. Beautiful compositions with Southern African bows at the centre of all the sonic exploration.**"**
+_Sarathy Korwar_: **"**From my dear friend [Cara Stacey](http://www.carastacey.com/)'s amazing album, _Things That Grow_. Beautiful compositions with Southern African bows at the centre of all the sonic exploration.**"**
 
 + ## Maalem Mahmoud Guinia & Floating Points - Mimoun Marhaba
 _Sarathy Korwar_: **"**Think this is a very sympathetic collboration between the musicians involved and I especially like how subtle the electronics are. And of course the hand clapping pattern!**"**
