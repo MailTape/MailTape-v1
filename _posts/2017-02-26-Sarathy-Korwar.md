@@ -34,7 +34,7 @@ episode_URL: 'http://mailta.pe/249/sarathy-korwar'
 ---
 <p id="introduction">This morning, transcend borders with mantras, untethered saxophones, keys, and an insistent groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).</p>
 
-<p>Signed to [Ninja Tune](https://ninjatune.net/release/sarathy-korwar/day-to-day) with his debut album, _Day to Day_, Sarathy has been trained as a classical tabla player under the guidance of Shri Rajeev Devasthali and [Pandit Sanju Sahai](http://www.sanjusahai.com/), and is equally at ease on the tabla and drum-kit. If you happen to be in that part of the world, [see him live at SXSW](http://schedule.sxsw.com/2017/artists/13219) in Austin, Texas, next month.</p>
+<p>Signed to [Ninja Tune](https://ninjatune.net/release/sarathy-korwar/day-to-day) with his debut album, _Day to Day_, Sarathy has been trained as a classical tabla player under the guidance of Shri Rajeev Devasthali and [Pandit Sanju Sahai](http://www.sanjusahai.com/), and is equally at ease on the tabla and drum-kit. If you happen to be in that part of the world, you can also [see him live at SXSW](http://schedule.sxsw.com/2017/artists/13219) in Austin, Texas, next month.</p>
 
 
 # **Sarathy Korwar’s selection**
