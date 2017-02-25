@@ -65,4 +65,4 @@ _Sanjay_: **"**I started delving more deeply into Shabaka’s projects after he 
 _Sanjay_: **"**Fresh from a two-day residency at The Jazz Gallery in New York last week alongside [Henry Threadgill](https://www.pirecordings.com/artist/Henry_Threadgill) and [Vijay Iyer](http://vijay-iyer.com/), [Dafnis Prieto](https://dafnisonmusic.com/) is an impressive US-based drummer. This title track – recorded live at The Jazz Standard – is all polyrhythmic clings, claps, and clatters, rims and heads and muted cymbals with bassist Charles Flores picking up the vamp before Peter Apfelbaum’s offhandedly charismatic tenor.**"**
 
 
-<p id="outroduction">That’s everything from us this morning! Thanks to [Sarathy Korwar](http://www.sarathykorwar.com/) for his collaboration and [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the illustration. Have a beautiful Sunday!</p>
+<p id="outroduction">That’s everything from us this morning! Thanks to [Sarathy Korwar](http://www.sarathykorwar.com/) for his collaboration and [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the illustration. Have a great Sunday!</p>
