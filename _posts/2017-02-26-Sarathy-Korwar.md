@@ -32,6 +32,8 @@ track7_title: Dafnis Prieto Si O Si Quaret - Si O Si
 track7_color: bliss
 episode_URL: 'http://mailta.pe/249/sarathy-korwar'
 guestPic: guestPic249.jpg
+fbPic: fbPic249.jpg
+musiColor: musiColor249.png
 ---
 <p id="introduction">This morning, transcend borders with mantras, untethered saxophones, keys, and an insistent groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).</p>
 
