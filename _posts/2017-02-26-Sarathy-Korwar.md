@@ -11,6 +11,7 @@ track5_link: 'https://soundcloud.com/brmuse/07-probe'
 track6_link: >-
   https://soundcloud.com/brownswood/natty-shabaka-and-the-ancestors-wisdom-of-elders
 track7_link: 'https://soundcloud.com/jazzstandardnyc/si-o-si'
+category: '249'
 ---
 ## A New Post
 
