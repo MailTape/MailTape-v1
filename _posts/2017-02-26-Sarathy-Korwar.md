@@ -61,7 +61,7 @@ _Sanjay_: **"**For this edition of Harriet Tubman – named after one of the mos
 + ## Shabaka and the Ancestors - Natty
 _Sanjay_: **"**I started delving more deeply into Shabaka’s projects after he shared Edward Said’s book, [Orientalism](https://en.wikipedia.org/wiki/Orientalism_(book)), on Facebook. Throughout this album, the band’s two percussionists – Gontse Machine and Tumi Mogorosi – exploit a sheer melodic beauty with different drum patterns and speeds, making each piece sound part of the same project. Its aim, explains Shabaka, is ‘to present the musical language that [he] normally associate[s] with [his] UK bands in the context of South African musicians and musical sensibilities’.**"**
 
-+ ## Dafnis Prieto Si O Si Quaret - Si O Si
++ ## Dafnis Prieto Si O Si Quartet - Si O Si
 _Sanjay_: **"**Fresh from a two-day residency at The Jazz Gallery in New York last week alongside [Henry Threadgill](https://www.pirecordings.com/artist/Henry_Threadgill) and [Vijay Iyer](http://vijay-iyer.com/), [Dafnis Prieto](https://dafnisonmusic.com/) is an impressive US-based drummer. This title track – recorded live at The Jazz Standard – is all polyrhythmic clings, claps, and clatters, rims and heads and muted cymbals with bassist Charles Flores picking up the vamp before Peter Apfelbaum’s offhandedly charismatic tenor.**"**
 
 
