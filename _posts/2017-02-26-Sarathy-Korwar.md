@@ -52,7 +52,7 @@ _Sarathy Korwar_: **"**Saw [Idris Ackamoor](https://en.wikipedia.org/wiki/Idris_
 # Mailtape's selection
 
 + ## Sarathy Korwar - Indefinite Leave to Remain
-_Sanjay_: **"**Taken from Sarathy’s debut album on Ninja Tune, _Day-to-Day_, Indefinite Leave to Remain feels like a complete surrender to the performance. Beginning with contrapuntal notes on the piano, which become percussive in their repetition before field recordings of chants from the Siddi community in India arrive midway through. Then it shifts to a series of dissonant chords on the piano and heads into a lovely passage of improvisation before returning to its origin. Beautiful!**"** 
+_Sanjay_: **"**Taken from Sarathy’s debut album on Ninja Tune, _Day-to-Day_, Indefinite Leave to Remain feels like a complete surrender to the performance. Beginning with contrapuntal notes on the piano, which become percussive in their repetition before field recordings of chants from the Sidi community in India arrive midway through. Then it shifts to a series of dissonant chords on the piano and heads into a lovely passage of improvisation before returning to its origin. Beautiful!**"** 
 
 + ## Harriet Tubman - Probe
 
