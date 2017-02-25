@@ -34,6 +34,10 @@ episode_URL: 'http://mailta.pe/249/sarathy-korwar'
 guestPic: guestPic249.jpg
 fbPic: fbPic249.jpg
 musiColor: musiColor249.png
+description: >-
+  This morning, transcend borders with mantras, untethered saxophones, keys, and
+  an insistent groove from our guest, percussionist and composer, Sarathy
+  Korwar.
 ---
 <p id="introduction">This morning, transcend borders with mantras, untethered saxophones, keys, and an insistent groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).</p>
 
