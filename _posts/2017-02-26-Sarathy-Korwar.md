@@ -40,6 +40,7 @@ musiColor: musiColor249.png
 <p>Signed to [Ninja Tune](https://ninjatune.net/release/sarathy-korwar/day-to-day) with his debut album, _Day to Day_, Sarathy has been trained as a classical tabla player under the guidance of Shri Rajeev Devasthali and [Pandit Sanju Sahai](http://www.sanjusahai.com/), and is equally at ease on the tabla and drum-kit. If you happen to be in that part of the world, you can also [see him live at SXSW](http://schedule.sxsw.com/2017/artists/13219) in Austin, Texas, next month.</p>
 
 
+
 # **Sarathy Korwar’s selection**
 
 + ## Cara Stacey - Dark Matter
