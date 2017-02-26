@@ -36,7 +36,7 @@ fbPic: fbPic249.jpg
 musiColor: musiColor249.png
 description: >-
   This morning, transcend borders with mantras, untethered saxophones, keys, and
-  an insistent groove from our guest, percussionist and composer, Sarathy
+  an unfettered groove from our guest, percussionist and composer, Sarathy
   Korwar.
 ---
 <p id="introduction">This morning, transcend borders with mantras, untethered saxophones, keys, and an unfettered groove from our guest, percussionist and composer, [Sarathy Korwar](http://www.sarathykorwar.com/).</p>
