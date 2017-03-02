@@ -42,17 +42,13 @@ category: '250'
 # **Max Future’s selection**
 
 + ## M.E.D. - Cant Hold On
-_Max_: **"**J’adore ce morceau, le rythme est tellement lourd et le sample de piano tellement léger. Quand la basse rentre, c’est carrément impossible de ne pas bouger la tête du sol au plafond!
-
-I love this track, the rythym is so loud and the piano's sample so soft. When the bassline is coming, it's totally impossible to not shaking your head to the roof from the ground! **"**
+_Max_: **"**I love this track, the rythym is so loud and the piano's sample so soft. When the bassline is coming, it's totally impossible to not shaking your head to the roof from the ground! **"**
 
 + ## Tame impala - Prototype (Outkast cover) 
-_Max_: **"**C’est pour moi un très belle exemple de reprise. D’habitude je préfère quand elle s’éloigne de l’original mais là je trouve que Tame Impala s’approprie le morceau de manière très sensible tout en gardant le mood initial. Bravo!!
-
-For me it's a perfect exemple of a good cover. I usually prefer when the cover get away from the original but here, I found that Tame Impala grab this Outkast's track in a very sensitive way, but keep the original mood of it.**"**
+_Max_: **"**For me it's a perfect exemple of a good cover. I usually prefer when the cover get away from the original but here, I found that Tame Impala grab this Outkast's track in a very sensitive way, but keep the original mood of it.**"**
 
 + ## Joakim - Nothing Gold
-_Max_: **"**Avec « Nothing Gold » Joakim fait vraiment plaisir à tout les digger de jazz funk des 70’s 80’s. C’est le genre de morceau que j’adore écouter 10 fois d’affiler en dégustant un par un les différents son de synthé et toute ces petites intentions de producteur amoureux d’analogique.**"**
+_Max_: **"**With "Nothing Gold" Joakim please all 70s or 80s funk's diggers. It's the kind of track wich I love listen in repeat, dissecting every synth sounds and all those small intents for analog producing lovers.  **"**
 
 
 # Mailtape's selection
