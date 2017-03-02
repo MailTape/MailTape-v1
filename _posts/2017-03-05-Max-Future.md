@@ -8,8 +8,14 @@ writer: Maxime
 guest_name: Max Future
 guest_color: bliss
 guestPic: guestPic250.jpg
+track1_link: 'https://soundcloud.com/b_u_b_u/m-e-d-cant-hold-on'
+track2_link: 'https://soundcloud.com/from-go-to-whoa-blog/tame-impala-prototype-outkast'
+track3_link: 'https://soundcloud.com/joakimbouaziz/nothing-gold'
+track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
+track5_link: >-
+  https://soundcloud.com/jakarta-records/juju-rogers-bluestaeb-get-lost-feat-regis-molina-pre-order-in-description
+track6_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
 ---
-![guestPic250.jpg]({{site.baseurl}}/img/guestPic250.jpg)
 <p id="introduction">This morning, xxx.</p>
 
 <p>xxx</p>
