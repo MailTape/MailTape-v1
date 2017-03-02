@@ -33,6 +33,7 @@ track7_title: Buttering Trio - From The Tree
 episode_URL: 'http://mailta.pe/250/Max-Future/'
 fbPic: fbPic250.jpg
 musiColor: musiColor250.png
+category: '250'
 ---
 <p id="introduction">This morning, xxx.</p>
 
