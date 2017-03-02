@@ -25,11 +25,11 @@ track4_color: dreamy
 track5_title: JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
 track5_color: vibrant
 track1_title: M.E.D. - Cant Hold On
-track6_title: Buttering Trio - From The Tree
-track6_color: dreamy
-track7_color: vibrant
+track6_title: Gabriel Garzón-Montano - Crawl
+track6_color: vibrant
+track7_color: dreamy
 track7_link: 'https://soundcloud.com/gabriel-garzonmontano/crawl'
-track7_title: Gabriel Garzón-Montano
+track7_title: Buttering Trio - From The Tree
 episode_URL: 'http://mailta.pe/250/Max-Future/'
 fbPic: fbPic250.jpg
 musiColor: musiColor250.png
