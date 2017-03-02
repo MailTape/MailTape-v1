@@ -36,4 +36,4 @@ _Maxime_: **"**xxx.**"**
 _Maxime_: **"**xxx.**"**
 
 
-<p id="outroduction">That’s everything from us this morning! Thanks to [Sarathy Korwar](http://www.sarathykorwar.com/) for his collaboration and [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the illustration. Have a great Sunday!</p>
+<p id="outroduction">That’s everything from us this morning! Thanks to Max Future for his collaboration and Anaïs for the illustration. Have a great Sunday!</p>
