@@ -10,7 +10,7 @@ guest_color: bliss
 guestPic: guestPic250.jpg
 track1_link: 'https://soundcloud.com/b_u_b_u/m-e-d-cant-hold-on'
 track2_link: 'https://soundcloud.com/from-go-to-whoa-blog/tame-impala-prototype-outkast'
-track3_link: 'https://soundcloud.com/joakimbouaziz/nothing-gold'
+track3_link: 'https://soundcloud.com/tigersushirecords/nothing-gold-12inch-mix'
 track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
 track5_link: >-
   https://soundcloud.com/jakarta-records/juju-rogers-bluestaeb-get-lost-feat-regis-molina-pre-order-in-description
