@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Maxime
+illustrator: Anais Caura
+writer: Maxime
+guest_name: Max Future
+guest_color: bliss
+guestPic: guestPic250.jpg
 ---
 ![MAX3.jpg]({{site.baseurl}}/img/MAX3.jpg)
 <p id="introduction">This morning, xxx.</p>
