@@ -3,6 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
+![MAX3.jpg]({{site.baseurl}}/img/MAX3.jpg)
 <p id="introduction">This morning, xxx.</p>
 
 <p>xxx</p>
