@@ -7,8 +7,6 @@ published: false
 
 <p>xxx</p>
 
-
-
 # **Max Future’s selection**
 
 + ## M.E.D. - Cant Hold On
