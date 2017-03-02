@@ -9,7 +9,7 @@ guest_name: Max Future
 guest_color: bliss
 guestPic: guestPic250.jpg
 ---
-![MAX3.jpg]({{site.baseurl}}/img/MAX3.jpg)
+![guestPic250.jpg]({{site.baseurl}}/img/guestPic250.jpg)
 <p id="introduction">This morning, xxx.</p>
 
 <p>xxx</p>
