@@ -56,13 +56,13 @@ _Max_: **"**With "Nothing Gold" Joakim please all 70s or 80s funk's diggers. It'
 + ## Max Future - Till you Let Go
 _Maxime_: **"**xxx**"** 
 
-+ ## xxx - xxx
++ ## JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
 _Maxime_: **"**xxx.**"**
 
-+ ## xxx - xxx
++ ## Buttering Trio - From The Tree
 _Maxime_: **"**xxx.**"**
 
-+ ## xxxx - xxx
++ ## Ryder The Eagle - It's All About The Music
 _Maxime_: **"**xxx.**"**
 
 
