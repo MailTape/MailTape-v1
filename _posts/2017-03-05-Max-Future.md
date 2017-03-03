@@ -14,7 +14,7 @@ track3_link: 'https://soundcloud.com/tigersushirecords/nothing-gold-12inch-mix'
 track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
 track5_link: >-
   https://soundcloud.com/jakarta-records/juju-rogers-bluestaeb-get-lost-feat-regis-molina-pre-order-in-description
-track6_link: 'https://soundcloud.com/gabriel-garzonmontano/crawl'
+track6_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
 track1_color: rough
 track2_title: Tame Impala - Prototype (Outkast Cover)
 track2_color: dreamy
@@ -25,11 +25,11 @@ track4_color: dreamy
 track5_title: JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
 track5_color: vibrant
 track1_title: M.E.D. - Cant Hold On
-track6_title: Gabriel Garzón-Montano - Crawl
-track6_color: vibrant
-track7_color: dreamy
-track7_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
-track7_title: Buttering Trio - From The Tree
+track6_title: Buttering Trio - From The Tree
+track6_color: dreamy
+track7_color: bliss
+track7_link: 'https://soundcloud.com/rydertheeagle/its-all-about-the-music'
+track7_title: Ryder the Eagle - It's All About The Music
 episode_URL: 'http://mailta.pe/250/Max-Future/'
 fbPic: fbPic250.jpg
 musiColor: musiColor250.png
