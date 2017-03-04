@@ -57,7 +57,7 @@ _Max_: **"**With "Nothing Gold" Joakim please all 70s or 80s funk's diggers. It'
 _Maxime_: **"** A low beat envelop a very high voice during synthes evaporate from Le Havre harbor. This track raise up like lovers who have just met.   **"** 
 
 + ## JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
-_Maxime_: **"** JuJu Rogers and Bluestaeb are bach in da house with there smooth and brisk hip-hop. From Germany with flow, they deliver perfect vide for this sunday. Let's Get Lost guys. **"**
+_Maxime_: **"** JuJu Rogers and Bluestaeb are back in da house with there smooth and brisk hip-hop. From Germany with flow, they deliver perfect vide for this sunday. Let's Get Lost guys. **"**
 
 + ## Buttering Trio - From The Tree
 _Maxime_: **"** I follow them since long time and didn't get the success they deserve, at all. It can"t be like this anymore. From Tel Aviv, Butturing Trio make the most classy and original dub I've heard since longtime. [Two crazy producers behind a saxophonist/singer frontgirl](https://youtu.be/HsfzMudFWHA) is the recipe. **"**
