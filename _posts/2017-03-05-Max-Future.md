@@ -34,8 +34,9 @@ episode_URL: 'http://mailta.pe/250/Max-Future/'
 fbPic: fbPic250.jpg
 musiColor: musiColor250.png
 category: '250'
+description: 'This morning, let''s have a glimpse of today''s music and Max Future.'
 ---
-<p id="introduction">This morning, let's have a glimpse of today's music and Max Future.</p> It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
+<p id="introduction">This morning, let's have a glimpse of today's music and Max Future. It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
 
 Behind Max Future this is Max Zikkel, and before Max Future, there were Concorde, one of those precursor french pop bands where Max gains the experience he needed to became a great singer/producer. I invite you to look at the clip made for "[Till You Let Go](https://youtu.be/honQKnJ_1Ao)", as inspiring as meditative, and with a stunning aesthetic. </p>
 
