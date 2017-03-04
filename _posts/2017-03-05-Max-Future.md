@@ -62,10 +62,10 @@ _Maxime_: **"** A low beat envelop a very high voice during synthes evaporate fr
 _Maxime_: **"** JuJu Rogers and Bluestaeb are bach in da house with there smooth and brisk hip-hop. From Germany with flow, they deliver perfect vide for this sunday. Let's Get Lost guys. **"**
 
 + ## Buttering Trio - From The Tree
-_Maxime_: **"** I follow them since long time and didn't get the success they deserve, at all. It can"t be like this anymore. From Tel Aviv, Butturing Trio make the most classy and original dub I've heard since longtime. Two crazy producers behind a saxophonist/singer frontgirl is the recipe. **"**
+_Maxime_: **"** I follow them since long time and didn't get the success they deserve, at all. It can"t be like this anymore. From Tel Aviv, Butturing Trio make the most classy and original dub I've heard since longtime. [Two crazy producers behind a saxophonist/singer frontgirl](https://youtu.be/HsfzMudFWHA) is the recipe. **"**
 
 + ## Ryder The Eagle - It's All About The Music
-_Maxime_: **"**This track is all about temporality. There is a concrete beggining, there is an end, but there isn't a middle. And you're constantly waiting for the drop who gonna get you to the heart of the song. But there isn't and at the end, you just realize that you've loved it !  **"**
+_Maxime_: **"**This track is all about [temporality](https://youtu.be/D9-R2RDXRWo). Its construction has pushed me. There is a concrete beggining, there is an end, OK. But there isn't a middle, and you're constantly waiting for the drop who gonna bring you to the heart of the song. But there isn't and at the end, you just realize that you've loved it !  **"**
 
 
 <p id="outroduction">That’s everything from us this morning! Thanks to Max Future for his collaboration and Anaïs for the illustration. Have a great Sunday!</p>
