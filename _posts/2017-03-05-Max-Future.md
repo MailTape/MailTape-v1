@@ -39,7 +39,7 @@ category: '250'
 
 <p>It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
 
-Behind Max Future this is Max Zikkel, and before Max Future, there were Concorde, one of those precursor french pop bands where Max gains the experience he needed to became a great singer/producer. I invite you to look at the clip made for "Till You Let Go", as inspiring as meditative, and with a stunning aesthetic. </p>
+Behind Max Future this is Max Zikkel, and before Max Future, there were Concorde, one of those precursor french pop bands where Max gains the experience he needed to became a great singer/producer. I invite you to look at the clip made for "[Till You Let Go](https://youtu.be/honQKnJ_1Ao)", as inspiring as meditative, and with a stunning aesthetic. </p>
 
 # **Max Future’s selection**
 
@@ -59,13 +59,13 @@ _Max_: **"**With "Nothing Gold" Joakim please all 70s or 80s funk's diggers. It'
 _Maxime_: **"** A low beat envelop a very high voice during synthes evaporate from Le Havre harbor. This track raise up like lovers who have just met.   **"** 
 
 + ## JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
-_Maxime_: **"**xxx.**"**
+_Maxime_: **"** JuJu Rogers and Bluestaeb are bach in da house with there smooth and brisk hip-hop. From Germany with flow, they deliver perfect vide for this sunday. Let's Get Lost guys. **"**
 
 + ## Buttering Trio - From The Tree
-_Maxime_: **"**xxx.**"**
+_Maxime_: **"** I follow them since long time and didn't get the success they deserve, at all. It can"t be like this anymore. From Tel Aviv, Butturing Trio make the most classy and original dub I've heard since longtime. Two crazy producers behind a saxophonist/singer frontgirl is the recipe. **"**
 
 + ## Ryder The Eagle - It's All About The Music
-_Maxime_: **"**xxx.**"**
+_Maxime_: **"**This track is all about temporality. There is a concrete beggining, there is an end, but there isn't a middle. And you're constantly waiting for the drop who gonna get you to the heart of the song. But there isn't and at the end, you just realize that you've loved it !  **"**
 
 
 <p id="outroduction">That’s everything from us this morning! Thanks to Max Future for his collaboration and Anaïs for the illustration. Have a great Sunday!</p>
