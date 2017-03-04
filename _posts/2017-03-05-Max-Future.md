@@ -35,9 +35,11 @@ fbPic: fbPic250.jpg
 musiColor: musiColor250.png
 category: '250'
 ---
-<p id="introduction">This morning, xxx.</p>
+<p id="introduction">This morning, let's have a glimpse of today's music and Max Future.</p>
 
-<p>xxx</p>
+<p>It's maybe with artists like Max future that french pop will jump over the next step. With producers like him that country borders in music will definetly disappear. Surfing around electronic french Touch, naive sun-pop, or even hip-hop (just listen his selection below), the quality of his EP is very rare for a first shot.
+
+Behind Max Future this is Max Zikkel, and before Max Future, there were Concorde, one of those precursor french pop bands where Max gains the experience he needed to became a great singer/producer. I invite you to look at the clip made for "Till You Let Go", as inspiring as meditative, and with a stunning aesthetic. </p>
 
 # **Max Future’s selection**
 
@@ -54,7 +56,7 @@ _Max_: **"**With "Nothing Gold" Joakim please all 70s or 80s funk's diggers. It'
 # Mailtape's selection
 
 + ## Max Future - Till you Let Go
-_Maxime_: **"**xxx**"** 
+_Maxime_: **"** A low beat envelop a very high voice during synthes evaporate from Le Havre harbor. This track raise up like lovers who have just met.   **"** 
 
 + ## JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
 _Maxime_: **"**xxx.**"**
