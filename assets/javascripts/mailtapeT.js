@@ -505,7 +505,7 @@ $("#mobile-signup-form").submit(function(e){
 			$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
 			//$("#relatedEpisode_span_"+(i+1)).html(relatedEpisodes_selection[i][0]+"&nbsp;");
 			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
-			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
+			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
 		}
 
 
