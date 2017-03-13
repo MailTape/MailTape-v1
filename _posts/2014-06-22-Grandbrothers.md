@@ -26,9 +26,9 @@ track4_link: "https://soundcloud.com/grandbrothers/notbrause"
 track4_title: "Grandbrothers - Notbrause"
 track5_link: "https://soundcloud.com/bureau-1/ulrich-schnauss-mark-peters-1"
 track5_title: "Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele"
-track6_link: "https://soundcloud.com/junip/walking-lightly"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/146/track6.mp3"
 track6_title: "Junip - Walking Lightly"
-track7_link: "https://soundcloud.com/alt-j/hunger-of-the-pine"
+track7_link: "https://mailtapetracks.s3.amazonaws.com/146/track7.mp3"
 track7_title: "alt-J - Hunger Of The Pine"
 musiColor: musiColor146.png
 fbPic: fbPic146.jpg
