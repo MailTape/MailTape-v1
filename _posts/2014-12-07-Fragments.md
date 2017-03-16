@@ -13,7 +13,7 @@ track5_color: vibrant
 track6_color: bliss
 track7_color: vibrant
 track1_link: "https://soundcloud.com/muterecords/maps-a-m-a"
-track2_link: "https://soundcloud.com/indoorsoutdoors/ariel-pinks-haunted-graffiti-round-and-round"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/163/track2.mp3"
 track3_link: "https://soundcloud.com/julienmarchal/insight"
 track4_link: "https://soundcloud.com/frgmnts/fragments-december-sun"
 track1_title: "Maps - A.M.A"
@@ -26,7 +26,7 @@ guest_name: Fragments
 track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
 track5_title: "Atlas Bound - Soul"
 track6_title: "Les Gordon - Isolé"
-track6_link: "https://soundcloud.com/les-gordon/isol"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/163/track6.mp3"
 track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
 track7_title: "The Pandamonium - Waiting for Summer"
 guestPic: guestPic163.jpg
