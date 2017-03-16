@@ -20,7 +20,7 @@ track5_title: Vril - Torus XXXII
 track5_color: trippy
 track7_color: vibrant
 track4_color: vibrant
-episode_URL: 'http://www.mailta.pe/248/requin-chagrin/'
+episode_URL: 'https://www.mailta.pe/248/requin-chagrin/'
 track6_link: 'https://soundcloud.com/gorgeousbully/kidding-feat-whorish-boorish'
 track6_title: Gorgeous Bully - Kidding (ft. Whorish Boorish)
 track6_color: dreamy

@@ -8,7 +8,7 @@ category: '225'
 guest_name: Bonnie Banane
 guest_color: dreamy
 guestPic: guestPic225.jpg
-episode_URL: 'http://maita.pe/225/Bonnie-Banane/'
+episode_URL: 'https://maita.pe/225/Bonnie-Banane/'
 fbPic: fbPic225.jpg
 musiColor: musiColor225.png
 track7_color: dreamy

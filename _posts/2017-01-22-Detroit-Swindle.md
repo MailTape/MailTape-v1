@@ -29,7 +29,7 @@ track6_title: Mocky – Soulful Beat
 track6_color: vibrant
 track7_title: The Bamboos – Get in the Scene
 track7_color: trippy
-episode_URL: 'http://mailta.pe/244/Detroit-Swindle/'
+episode_URL: 'https://mailta.pe/244/Detroit-Swindle/'
 description: >-
   This morning, let yourself dive into complete blissfulness with the soulful
   beat of our guests Detroit Swindle. Awake with their chilled out yet rhythmic

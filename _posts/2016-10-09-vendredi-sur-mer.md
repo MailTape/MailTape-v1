@@ -30,7 +30,7 @@ track6_title: Drugdealer - Suddenly
 track6_color: vibrant
 track7_color: vibrant
 track7_title: Pépite - Eviter les Naufrages
-episode_URL: 'http://mailta.pe/229/vendredi-sur-mer/'
+episode_URL: 'https://mailta.pe/229/vendredi-sur-mer/'
 fbPic: fbPic229.jpg
 musiColor: musiColor229.png
 ---

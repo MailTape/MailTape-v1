@@ -28,7 +28,7 @@ track5_color: trippy
 track6_title: Phil Stroud - Flow
 track6_color: bliss
 track7_color: trippy
-episode_URL: 'http://mailta.pe/239/The-Holydrug-Couple/'
+episode_URL: 'https://mailta.pe/239/The-Holydrug-Couple/'
 track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
 track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 fbPic: fbPic239.jpg
