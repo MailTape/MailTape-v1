@@ -14,14 +14,14 @@ track6_color: vibrant
 track7_color: bliss
 category: "156"
 guest_name: Arms and Sleepers
-track1_link: "https://soundcloud.com/andrewbird/07-near-death-experience"
-track2_link: "https://soundcloud.com/philip-selway/by-some-miracle"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/156/track1.mp3"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/156/track2.mp3"
 track3_link: "https://soundcloud.com/throttleclark/unfurla"
 track4_link: "https://soundcloud.com/arms-and-sleepers/tiger-tempo"
 track5_link: "https://soundcloud.com/paulwhitebeats/where-you-gonna-go-andres-remix"
 track7_link: "https://soundcloud.com/oldtoy/fountains"
 track6_link: "https://soundcloud.com/sam-kogon/wake-up-your-kids"
-track1_title: "Andrew Bird - Near Death Experience"
+track1_title: "Andrew Bird - Near Death Experience Experience"
 track2_title: "Philip Selway - By Some Miracle"
 track3_title: "Clark - Unfurla"
 track4_title: "Arms and Sleepers - Tiger Tempo"

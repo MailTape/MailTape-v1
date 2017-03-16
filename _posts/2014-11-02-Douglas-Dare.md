@@ -15,9 +15,9 @@ track7_color: rough
 category: "158"
 guest_name: Douglas Dare
 guestPic: guestPic158.jpg
-track1_link: "https://soundcloud.com/twimclabel/thin"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/158/track1.mp3"
 track2_link: "https://soundcloud.com/modernlove/violence"
-track3_link: "https://soundcloud.com/buke-and-gase/seam-esteem"
+track3_link: "https://mailtapetracks.s3.amazonaws.com/158/track3.mp3"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
 fbPic: fbPic158.jpg
 musiColor: musiColor158.png
@@ -28,8 +28,8 @@ track4_title: "Douglas Dare - Caroline"
 track4_link: "https://soundcloud.com/douglas-dare/caroline"
 track5_title: "Joy! - Utopia"
 track5_link: "https://soundcloud.com/joy-1/joy-utopia"
-track7_link: "https://soundcloud.com/audion/dem-howl-feat-troels-abrahamsen-kom314"
-track7_title: "Audion - Dem Howl"
+track7_link: "https://mailtapetracks.s3.amazonaws.com/158/track7.mp3"
+track7_title: "Audion Feat Troels Abrahamsen - Dem Howl"
 track6_title: "Hans Berg - Tucan Fever"
 track6_link: "https://soundcloud.com/trunkfunk/hans-berg-tucan-fever"
 description: "This morning, discover Douglas Dare. Douglas Dare grew up in the small coastal town of Bridport in South West England. Encouraged by his mother, a piano teacher, he began composing music at a very young age. He inspired us a dark and rough tape with with a few bright spots. Hope you'll like it."

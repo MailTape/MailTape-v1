@@ -15,8 +15,8 @@ track7_color: vibrant
 category: "134"
 guest_name: Catching Flies
 track1_title: "Fatima feat. Floating Points - Mind"
-track1_link: "https://soundcloud.com/dipped-in-dollars/fatima-featuring-floating"
-track2_link: "https://soundcloud.com/cheeba-cruz/dianaintheautumnwind"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/134/track1.mp3"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/134/track2.mp3"
 track2_title: "Gap Mangione - Diana In The Autumn Wind"
 track3_title: "Grandbrothers - Ezra was Right"
 track4_title: "Catching Flies - Stay Forever"
@@ -24,10 +24,10 @@ track3_link: "https://soundcloud.com/grandbrothers/ezra_was_right"
 track4_link: "https://soundcloud.com/catchingfliesmusic/stay-forever"
 track5_title: "Kenmochi Hidefumi - Ash Ra"
 track5_link: "https://soundcloud.com/yuu-yukihy-iwamoto/ash-ra-kenmochi-hidefumi"
-track6_link: "https://soundcloud.com/sohnmusic/t-h-e-w-h-e-e-l"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/134/track6.mp3"
 track6_title: "Sohn - The Wheel"
 track7_title: "Ages - mermeladas de barbacoa"
-track7_link: "https://soundcloud.com/ages/bbq-jamz"
+track7_link: "https://mailtapetracks.s3.amazonaws.com/134/track7.mp3"
 episode_URL: "http://mailta.pe/134/Catching-Flies/"
 guestPic: guestPic134.jpg
 fbPic: fbPic134.jpg
