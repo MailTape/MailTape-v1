@@ -14,7 +14,7 @@ track7_color: trippy
 category: "199"
 guest_name: Monsoonsiren
 track1_link: "https://soundcloud.com/munkherdene-munkhbat/nathan-johnson-emelys-theme"
-track2_link: "https://soundcloud.com/jonreece/kanye-west-monster-teachers"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/199/track2.mp3"
 track3_link: "https://soundcloud.com/constellation-records/among-the-sef"
 track2_title: "Kanye West - Monster (Teachers remix)"
 track3_title: "Colin Stetson - Among the sef"
@@ -23,10 +23,10 @@ episode_URL: "http://mailta.pe/199/Monsoonsiren/"
 track4_link: "https://soundcloud.com/monsoonsiren/monsoonsiren-untitled-snippet"
 track4_title: "Monsoonsiren - Untitled (snippet)"
 track5_link: "https://soundcloud.com/mosessumney/3-mumblin"
-track6_link: "https://soundcloud.com/badbadnotgood/boogie-no-69"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/199/track6.mp3"
 track7_link: "https://soundcloud.com/stampthewax/exclusive-melanie-de-biasio-im-gonna-leave-you-1"
 track5_title: "Moses Sumney - Mumblin'"
-track6_title: "BadBadNotGood - Boogie No. 69"
+track6_title: "BADBADNOTGOOD - Boogie No. 69"
 track7_title: "Melanie De Biasio - I'm Gonna Leave You"
 guestPic: guestPic199.jpg
 fbPic: fbPic199.png

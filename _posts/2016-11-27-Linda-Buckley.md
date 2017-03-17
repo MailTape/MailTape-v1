@@ -7,15 +7,12 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-track1_link: >-
-  https://soundcloud.com/_type/heavy-water-id-rather-be-sleeping?in=_type/sets/grouper-dragging-a-dead-deer-up-a-hill
+track1_link: 'https://soundcloud.com/_type/heavy-water-id-rather-be-sleeping?in=_type/sets/grouper-dragging-a-dead-deer-up-a-hill'
 track2_link: 'https://soundcloud.com/mmoths/deu'
 track3_link: 'https://soundcloud.com/blackest-ever-black/tropic-of-cancer-stop-suffering'
 track4_link: 'https://soundcloud.com/ergodos/immersia-i'
-track5_link: >-
-  https://soundcloud.com/constellation-records/jason-sharp-a-boat-upon-its-blood-pt-1
-track6_link: >-
-  https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1
+track5_link: 'https://soundcloud.com/constellation-records/jason-sharp-a-boat-upon-its-blood-pt-1'
+track6_link: 'https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1'
 track7_link: 'https://soundcloud.com/allisoncameronmusic/3rds-4ths-5ths'
 category: '236'
 track1_title: Grouper - Heavy Water / I'd Rather Be Sleeping

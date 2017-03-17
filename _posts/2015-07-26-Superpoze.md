@@ -13,14 +13,14 @@ track6_color: vibrant
 track7_color: trippy
 category: "196"
 guest_name: Superpoze
-track1_link: "https://soundcloud.com/hundredwaters/shigeto"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/196/track1.mp3"
 track2_link: "https://soundcloud.com/dreamkoala/saturn-boy"
-track3_link: "https://soundcloud.com/four-tet/unicorn"
+track3_link: "https://mailtapetracks.s3.amazonaws.com/196/track3.mp3"
 track4_link: "https://soundcloud.com/superpoze/overseas-sekuoia-rework-1"
 track5_link: "https://soundcloud.com/felix-laband/felix-laband-squeeze-the-trigger"
 track6_link: "https://soundcloud.com/wearehusbands/laurent-garnier-the-rise-the-fall-of-the-donkey-dog_husbands-remix"
 track7_link: "https://soundcloud.com/zeroflexx/arcade-funke"
-track1_title: "Hundred Waters - Cavity (Shigeto)"
+track1_title: "Hundred Waters - Cavity (Shigeto Remix)"
 track2_title: "Dream Koala - Saturn Boy"
 track3_title: "Four Tet - Unicorn"
 track4_title: "Superpoze - Overseas (Sekuoia rework)"

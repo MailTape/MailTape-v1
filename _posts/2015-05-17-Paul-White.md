@@ -13,8 +13,8 @@ track5_color: bliss
 track6_color: trippy
 track7_color: bliss
 track1_link: "https://soundcloud.com/themediawerm/georgia-anne-muldrow-run-away"
-track2_link: "https://soundcloud.com/tobymusic/bob-marley-three-little-birds-hd-original"
-track3_link: "https://soundcloud.com/other-voices-web/tame-impala-be-above-it"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/186/track2.mp3"
+track3_link: "https://mailtapetracks.s3.amazonaws.com/186/track3.mp3"
 category: "186"
 guest_name: Paul White
 track1_title: "Georgia Anne Muldrow - Run Away"
@@ -22,7 +22,7 @@ track2_title: "Bob Marley - Three Little Birds"
 track3_title: "Tame Impala - Be Above It"
 track4_link: "https://soundcloud.com/paulwhitebeats/running-on-a-rainy-day-paul"
 track5_link: "https://soundcloud.com/platform/eska-heroes-villains-boiler-room-debuts"
-track6_link: "https://soundcloud.com/funkyman62/james-clarke-mystery-movement"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/186/track6.mp3"
 track7_link: "https://soundcloud.com/orangepeel-ch/xt-1"
 track4_title: "Paul White - Running On A Rainy Day (Seagull Mansion live)"
 track5_title: "ESKA - Heroes & Villains"

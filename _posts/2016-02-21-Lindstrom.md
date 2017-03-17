@@ -10,7 +10,7 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic205.jpg
 track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amberflame-lazy-sun"
 track2_link: "https://soundcloud.com/distantworks/ohana"
-track3_link: "https://soundcloud.com/nicolas-kitic/crackazat-eye-light"
+track3_link: "https://mailtapetracks.s3.amazonaws.com/205/track3.mp3"
 track4_link: "https://soundcloud.com/feedelity/lindstrom-raakost"
 track5_link: "https://soundcloud.com/baarregaard/02-b-g-baarregaard-filtered"
 track6_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"

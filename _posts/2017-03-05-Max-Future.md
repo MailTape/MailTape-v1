@@ -12,8 +12,7 @@ track1_link: 'https://soundcloud.com/b_u_b_u/m-e-d-cant-hold-on'
 track2_link: 'https://soundcloud.com/from-go-to-whoa-blog/tame-impala-prototype-outkast'
 track3_link: 'https://soundcloud.com/tigersushirecords/nothing-gold-12inch-mix'
 track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
-track5_link: >-
-  https://soundcloud.com/jakarta-records/juju-rogers-bluestaeb-get-lost-feat-regis-molina-pre-order-in-description
+track5_link: 'https://mailtapetracks.s3.amazonaws.com/250/track5.mp3'
 track6_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
 track1_color: rough
 track2_title: Tame Impala - Prototype (Outkast Cover)
@@ -22,7 +21,7 @@ track3_title: Joakim - Nothing Gold
 track3_color: rough
 track4_title: Max Future - Till You Let Go
 track4_color: dreamy
-track5_title: JuJu Rogers & Bluestaeb - Get Lost Feat. Regis Molina
+track5_title: JuJu Rogers - Get Lost feat. Regis Molina (Produced by. Bluestaeb)
 track5_color: vibrant
 track1_title: M.E.D. - Cant Hold On
 track6_title: Buttering Trio - From The Tree

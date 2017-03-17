@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/day-wave/day-wave-drag'
+track1_link: 'https://mailtapetracks.s3.amazonaws.com/224/track1.mp3'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/224/track2.mp3'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
 track4_link: 'https://soundcloud.com/petitbiscuit/sunset-lover'

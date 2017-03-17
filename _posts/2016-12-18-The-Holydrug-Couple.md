@@ -17,8 +17,7 @@ track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
 track2_title: Arco Corintio - Coronada
 track2_color: dreamy
 track1_color: trippy
-track7_link: >-
-  https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood
+track7_link: 'https://soundcloud.com/redbullsoundselect/mick-jenkins-drowning-feat-badbadnotgood'
 track6_link: 'https://soundcloud.com/stampthewax/phil-stroud-flow-stw-premiere'
 guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple - Concorde

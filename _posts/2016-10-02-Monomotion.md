@@ -13,11 +13,11 @@ track4_title: Monomotion - Blue Hell Island
 episode_URL: 'https://mailta.pe/228/Monomotion/'
 fbPic: fbPic228.jpg
 musiColor: musiColor228.png
-track1_link: 'https://soundcloud.com/samdavison9/stormzy-shut-up'
+track1_link: 'https://mailtapetracks.s3.amazonaws.com/228/track1.mp3'
 track1_title: Stormzy - Shut Up
 track3_title: FEYNMAN - The Farewell Courtyard
 track1_color: bliss
-track3_link: 'https://soundcloud.com/yoannfeynman/the-farewell-courtyard'
+track3_link: 'https://mailtapetracks.s3.amazonaws.com/228/track3.mp3'
 track2_link: 'https://soundcloud.com/xlr8r/download-edyth-agua-verde'
 track2_color: bliss
 track3_color: rough

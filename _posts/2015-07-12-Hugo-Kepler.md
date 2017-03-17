@@ -11,11 +11,11 @@ track4_color: dreamy
 track5_color: bliss
 track6_color: vibrant
 track7_color: rough
-track1_link: "https://soundcloud.com/partisan-records/john-grant-you-dont-have-to"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/194/track1.mp3"
 track2_link: "https://soundcloud.com/kdhx/william-tyler-we-cant-go-home"
 track3_link: "https://s3-eu-west-1.amazonaws.com/mailtapetracks/194/Mon+Nom.mp3"
 track5_link: "https://soundcloud.com/mailtape/samay-in-and-out"
-track6_link: "https://soundcloud.com/redeye-distribution/08-maribou-state-midas-feat"
+track6_link: "https://mailtapetracks.s3.amazonaws.com/194/track6.mp3"
 track7_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
 track1_title: "John Grant - You don't have to"
 track4_link: "https://soundcloud.com/mailtape/hugo-kepler-senza-mon-amour"
