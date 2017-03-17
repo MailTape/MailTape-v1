@@ -6,7 +6,7 @@ track2_link: 'https://soundcloud.com/tasty-morsels/teen-sex'
 track3_link: 'https://soundcloud.com/ojard/les-machines-parlantes'
 track1_title: Ricky Hollywood - Prie Pour Moi
 track2_title: Infinite Bisous - Teen Sex
-track4_link: 'https://soundcloud.com/juliette-armanet/lamour-en-solitaire-3'
+track4_link: 'https://mailtapetracks.s3.amazonaws.com/252/track4.mp3'
 track4_title: Juliette Armanet - L'Amour En Solitaire
 track3_title: Ojard - Les Machines Parlantes
 category: '252'
