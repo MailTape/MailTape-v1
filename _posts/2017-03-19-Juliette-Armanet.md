@@ -19,7 +19,7 @@ writer: PS KY
 track1_color: dreamy
 track2_color: dreamy
 track3_color: dreamy
-track4_color: dreamy
+track4_color: bliss
 episode_URL: 'http://mailta.pe/252/Juliette-Armanet/'
 track1_link: 'https://mailtapetracks.s3.amazonaws.com/252/track1.mp3'
 track7_link: 'https://soundcloud.com/eskimorecordings/antenna-love66'
