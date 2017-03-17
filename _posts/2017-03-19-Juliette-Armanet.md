@@ -27,9 +27,9 @@ track7_title: Antenna - Love 66
 track6_link: 'https://soundcloud.com/ssurfing/hit-the-spot-original-mix'
 track6_color: dreamy
 track7_color: trippy
-track5_title: Exit Someone - Austrian Amnesia
+track5_title: Exit Someone - Fad To Black
 track5_color: bliss
-track5_link: 'https://soundcloud.com/thalab/good-swim-2'
+track5_link: 'https://soundcloud.com/atelierciseaux/exit-someone-fade-to-black-1'
 description: >-
   This morning, our guest Juliette Armanet accompanies us on a journey of heart
   felt tempos and spiced sentiments.
