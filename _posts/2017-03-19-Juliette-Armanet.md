@@ -22,6 +22,8 @@ track3_color: dreamy
 track4_color: dreamy
 episode_URL: 'http://mailta.pe/252/Juliette-Armanet/'
 track1_link: 'https://mailtapetracks.s3.amazonaws.com/252/track1.mp3'
+track7_link: 'https://soundcloud.com/eskimorecordings/antenna-love66'
+track7_title: Antenna - Love 66
 ---
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments."Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud. Juliette’s essence is that of a rose petal blowing through the wind, ever so slowly, landing on the wing of spring’s first butterfly. As each of her fingers taps the piano’s keys, your heart will beat, pulsing gently, pumping love blood through your entire body. “L’amour en solitaire” is a ballade through a forest of sentiments, but also an ode to the creative power of solitude, the intensity that can be felt when a single individual expresses nothing but the truth. A sincere and humble thank you to the universe for sending us such bliss, as spring awaits to open its gates, get ready to embark on a journey of love to the decadent soundtrack of Juliette Armanet’s music.</p>
 
