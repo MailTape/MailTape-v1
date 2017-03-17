@@ -56,3 +56,5 @@ _Juliette Armanet_: **"**One of the sexiest songs out these days, produced by a 
 ## Ojard -  Les Machines Parlantes
 
 _Juliette Armanet_: **"**This song feels like an old seventies cinema instrumental track, to which you see yourself wandering naked by a small stream with a flower between your teeth. This outer worldly flute is beautiful, sounding like a timeless nursery rhyme. I’m not very knowledgeable about this artist, but his tune crafting and his musical landscapes are very pleasing to me. On this note, I have to go, and dance, adorning a mouthful of daisies. Enjoy your Sunday, and take it easy. Give peace a chance.”
+
+# MailTape's selection
