@@ -31,6 +31,9 @@ track7_color: trippy
 track5_title: Thalab - Good Swim
 track5_color: bliss
 track5_link: 'https://soundcloud.com/thalab/good-swim-2'
+description: >-
+  This morning, our guest Juliette Armanet accompanies us on a journey of heart
+  felt tempos and spiced sentiments.
 ---
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments.
 
