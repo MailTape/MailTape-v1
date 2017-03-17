@@ -26,6 +26,7 @@ episode_URL: 'http://mailta.pe/252/Juliette-Armanet/'
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments."Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud. Juliette’s essence is that of a rose petal blowing through the wind, ever so slowly, landing on the wing of spring’s first butterfly. As each of her fingers taps the piano’s keys, your heart will beat, pulsing gently, pumping love blood through your entire body. “L’amour en solitaire” is a ballade through a forest of sentiments, but also an ode to the creative power of solitude, the intensity that can be felt when a single individual expresses nothing but the truth. A sincere and humble thank you to the universe for sending us such bliss, as spring awaits to open its gates, get ready to embark on a journey of love to the decadent soundtrack of Juliette Armanet’s music.</p>
 
 # Juliette’s selection
+![guestPic2522.jpg]({{site.baseurl}}/img/guestPic2522.jpg)
 
 “I was up for a casual sweatshirt Sunday or like a thick pullover made of Chihuahua fur, a hot hot cocoa chocolate, croissants in a flower arrangement and shaggy hair.
 Next time, I’ll go for the dynamic Sunday, fluo sneakers, vitamin-loaded smoothie and an ironed mini-short”
