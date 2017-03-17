@@ -16,7 +16,7 @@ guestPic: guestPic252.jpg
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
-track1_color: dreamy
+track1_color: trippy
 track2_color: dreamy
 track3_color: dreamy
 track4_color: bliss
