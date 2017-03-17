@@ -5,8 +5,11 @@ published: false
 track1_link: 'https://soundcloud.com/ricky-hollywood/prie-pour-moi'
 track2_link: 'https://soundcloud.com/tasty-morsels/teen-sex'
 track3_link: 'https://soundcloud.com/ojard/les-machines-parlantes'
-track1_title: Ricky Hollywood - Prie pour Moi
+track1_title: Ricky Hollywood - Prie Pour Moi
 track2_title: Infinite Bisous - Teen Sex
+track4_link: 'https://soundcloud.com/juliette-armanet/lamour-en-solitaire-3'
+track4_title: Juliette Armanet - L'Amour En Solitaire
+track3_title: Ojard - Les Machines Parlantes
 ---
 ## A New Post
 
@@ -26,4 +29,3 @@ Aside from his own project, he plays the drums with me and we have a lot of fun 
 ## Ojard -  Les Machines Parlantes
 
 This song feels like an old seventies cinema instrumental track, to which you see yourself wandering naked by a small stream with a flower between your teeth. This outer worldly flute is beautiful, sounding like a timeless nursery rhyme. I’m not very knowledgeable about this artist, but his tune crafting and his musical landscapes are very pleasing to me. On this note, I have to go, and dance, adorning a mouthful of daisies. Enjoy your Sunday, and take it easy. Give peace a chance.”
-
