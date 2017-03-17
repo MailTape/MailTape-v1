@@ -10,30 +10,13 @@ track2_title: Infinite Bisous - Teen Sex
 track4_link: 'https://soundcloud.com/juliette-armanet/lamour-en-solitaire-3'
 track4_title: Juliette Armanet - L'Amour En Solitaire
 track3_title: Ojard - Les Machines Parlantes
-author: ''
-illustrator: ''
-writer: ''
-category: ''
-guest_name: ''
-guest_color: ''
-guestPic: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track1_color: ''
-track2_color: ''
-track3_color: ''
-track4_color: ''
-track5_title: ''
-track5_color: ''
-track6_title: ''
-track6_color: ''
-track7_title: ''
-track7_color: ''
-episode_URL: ''
-fbPic: ''
-musiColor: ''
-description: ''
+category: '252'
+guest_name: Juliette Armanet
+guest_color: dreamy
+guestPic: guestPic252.jpg
+author: Dimitri
+illustrator: Camille Célestin
+writer: PS KY
 ---
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments."Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud. Juliette’s essence is that of a rose petal blowing through the wind, ever so slowly, landing on the wing of spring’s first butterfly. As each of her fingers taps the piano’s keys, your heart will beat, pulsing gently, pumping love blood through your entire body. “L’amour en solitaire” is a ballade through a forest of sentiments, but also an ode to the creative power of solitude, the intensity that can be felt when a single individual expresses nothing but the truth. A sincere and humble thank you to the universe for sending us such bliss, as spring awaits to open its gates, get ready to embark on a journey of love to the decadent soundtrack of Juliette Armanet’s music.</p>
 
