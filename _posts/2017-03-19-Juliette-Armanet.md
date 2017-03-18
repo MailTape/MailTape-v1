@@ -37,9 +37,7 @@ track6_title: Surfing - Hit The Spot
 fbPic: fbPic252.JPG
 musiColor: musicColor252.jpg
 ---
-<p id="introduction">This morning, our guest [Juliette Armanet](https://www.facebook.com/JulietteArmanet/) accompanies us on a journey of heart felt tempos and spiced sentiments.
-
-"Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud. Juliette’s essence is that of a rose petal blowing through the wind, ever so slowly, landing on the wing of spring’s first butterfly. As each of her fingers taps the piano’s keys, your heart will beat, pulsing gently, pumping love blood through your entire body. “L’amour en solitaire” is a ballade through a forest of sentiments, but also an ode to the creative power of solitude, the intensity that can be felt when a single individual expresses nothing but the truth. A sincere and humble thank you to the universe for sending us such bliss, as spring awaits to open its gates, get ready to embark on a journey of love to the decadent soundtrack of Juliette Armanet’s music.</p>
+<p id="introduction">This morning, our guest [Juliette Armanet](https://www.facebook.com/JulietteArmanet/) accompanies us on a journey of heart felt tempos and spiced sentiments. "Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud. Juliette’s essence is that of a rose petal blowing through the wind, ever so slowly, landing on the wing of spring’s first butterfly. As each of her fingers taps the piano’s keys, your heart will beat, pulsing gently, pumping love blood through your entire body. “L’amour en solitaire” is a ballade through a forest of sentiments, but also an ode to the creative power of solitude, the intensity that can be felt when a single individual expresses nothing but the truth. A sincere and humble thank you to the universe for sending us such bliss, as spring awaits to open its gates, get ready to embark on a journey of love to the decadent soundtrack of Juliette Armanet’s music.</p>
 
 # Juliette’s selection
 
@@ -68,7 +66,7 @@ _Dimitri_: **"**PS KY has already said it all about this song in her introductio
 _Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillies, is a kind of Bonny & Clide duo of the indie pop music. Their Fade To Black is big wave of sensuality in which we want to get carried away.**"**
 
 ## Surfing - Hit The Spot
-_Dimitri_: **"**Hit The Spot is a perfect bedroom song which it comes right in time. **"**
+_Dimitri_: **"**Perfect bedroom song. In **"**
 
 ## Antenna - Love 66
 _Dimitri_: **"**Love 66 is a slo-mo-disco track by Antenna, a young producer from Kazan in Russia. It's also a tobacco for hookah with a kind of tropical flavour. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.**"**
