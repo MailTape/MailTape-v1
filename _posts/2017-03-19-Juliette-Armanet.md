@@ -65,7 +65,7 @@ _Juliette Armanet_: **"**This song feels like an old seventies cinema instrument
 _Dimitri_: **"**PS KY has already said it all about this song in her introduction. I love the contrast between the fragility in her voice and the feeling of sureness that emerges from the song, the ability to get stronger as the song progresses. 
 
 ## Exit Someone - Fade To Black
-_Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillies, is a kind of Bonny & Clide duo of the soft dream pop music. Their Fade To Black is big wave of sensuality in which we want to get carried away.
+_Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillies, is a kind of Bonny & Clide duo of the indie pop music. Their Fade To Black is big wave of sensuality in which we want to get carried away.
 
 ## Surfing - Hit The Spot
 _Dimitri_: **"**
