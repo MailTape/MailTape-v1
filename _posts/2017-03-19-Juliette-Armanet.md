@@ -34,6 +34,7 @@ description: >-
   This morning, our guest Juliette Armanet accompanies us on a journey of heart
   felt tempos and spiced sentiments.
 track6_title: Surfing - Hit The Spot
+fbPic: fbPic252.JPG
 ---
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments.
 
