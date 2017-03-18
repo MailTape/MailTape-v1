@@ -64,7 +64,7 @@ _Juliette Armanet_: **"**This song feels like an old seventies cinema instrument
 _Dimitri_: **"**PS KY has already said it all about this song in her introduction. I love the contrast between the fragility in her voice and the feeling of sureness that emerges from the song, the ability to get stronger as the song progresses. 
 
 ## Exit Someone - Fade To Black
-_Dimitri_: **"**
+_Dimitri_: **"**Fade To Black is a wave of sensuality 
 
 ## Surfing - Hit The Spot
 _Dimitri_: **"**
