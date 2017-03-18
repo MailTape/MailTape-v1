@@ -58,3 +58,15 @@ _Juliette Armanet_: **"**One of the sexiest songs out these days, produced by a 
 _Juliette Armanet_: **"**This song feels like an old seventies cinema instrumental track, to which you see yourself wandering naked by a small stream with a flower between your teeth. This outer worldly flute is beautiful, sounding like a timeless nursery rhyme. I’m not very knowledgeable about this artist, but his tune crafting and his musical landscapes are very pleasing to me. On this note, I have to go, and dance, adorning a mouthful of daisies. Enjoy your Sunday, and take it easy. Give peace a chance.”
 
 # MailTape's selection
+
+## Juliette Armanet - L'Amour En Solitaire
+_Dimitri_: **"**PSY
+
+## Exit Someone - Fad To Black
+_Dimitri_: **"**
+
+## Surfing - Hit The Spot
+_Dimitri_: **"**
+
+## Antenna - Love 66
+_Dimitri_: **"**Love 66 is a slo-mo-disco track from Antenna, a young producer from Kazan in Russia. It's also a tropical passion fruit tobacco flavour for hookah. I don't know if there is a link, but I like this fact. Of course, I love this song too.
