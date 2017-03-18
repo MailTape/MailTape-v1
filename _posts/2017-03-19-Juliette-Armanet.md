@@ -60,7 +60,7 @@ _Juliette Armanet_: **"**This song feels like an old seventies cinema instrument
 # MailTape's selection
 
 ## Juliette Armanet - L'Amour En Solitaire
-_Dimitri_: **"**PSY
+_Dimitri_: **"**PS KY has already said it all about this song. I love the contrast between the fragility in her voice and the feeling of sureness that emerges from the song, the ability to get stronger as the song progresses. 
 
 ## Exit Someone - Fad To Black
 _Dimitri_: **"**
