@@ -35,6 +35,7 @@ description: >-
   felt tempos and spiced sentiments.
 track6_title: Surfing - Hit The Spot
 fbPic: fbPic252.JPG
+musiColor: ''
 ---
 <p id="introduction">This morning, our guest Juliette Armanet accompanies us on a journey of heart felt tempos and spiced sentiments.
 
@@ -70,4 +71,4 @@ _Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillie
 _Dimitri_: **"**
 
 ## Antenna - Love 66
-_Dimitri_: **"**Love 66 is a slo-mo-disco track from Antenna, a young producer from Kazan in Russia. It's also a tropical passion fruit tobacco flavour for hookah. I don't know if there is a link, but I like this fact. Of course, I love this song too.
+_Dimitri_: **"**Love 66 is a slo-mo-disco track from Antenna, a young producer from Kazan in Russia. It's also a tropical passion fruit tobacco flavour for hookah. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.
