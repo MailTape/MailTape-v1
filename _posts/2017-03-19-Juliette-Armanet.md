@@ -12,7 +12,7 @@ track3_title: Ojard - Les Machines Parlantes
 category: '252'
 guest_name: Juliette Armanet
 guest_color: dreamy
-guestPic: guestPic252.jpg
+guestPic: guestPic2524.jpg
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
