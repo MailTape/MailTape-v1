@@ -66,7 +66,7 @@ _Dimitri_: **"**PS KY has already said it all about this song in her introductio
 _Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillies, is a kind Bonny & Clide duo of the indie pop music. They rob my heart. Their _Fade To Black_ is big wave of sensuality in which we want to get carried away.**"**
 
 ## Surfing - Hit The Spot
-_Dimitri_: **"**Perfect bedroom song. What more could we want ?**"**
+_Dimitri_: **"**Perfect bedroom song for a perfect sunday morning. What more could we want ?**"**
 
 ## Antenna - Love 66
 _Dimitri_: **"**_Love 66_ is a slo-mo-disco track by Antenna, a young producer from Kazan in Russia. It's also a tobacco for hookah with a kind of tropical flavour. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.**"**
