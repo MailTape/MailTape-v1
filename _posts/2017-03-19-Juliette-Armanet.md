@@ -27,7 +27,7 @@ track7_title: Antenna - Love 66
 track6_link: 'https://soundcloud.com/ssurfing/hit-the-spot-original-mix'
 track6_color: dreamy
 track7_color: trippy
-track5_title: Exit Someone - Fad To Black
+track5_title: Exit Someone - Fade To Black
 track5_color: bliss
 track5_link: 'https://soundcloud.com/atelierciseaux/exit-someone-fade-to-black-1'
 description: >-
@@ -63,7 +63,7 @@ _Juliette Armanet_: **"**This song feels like an old seventies cinema instrument
 ## Juliette Armanet - L'Amour En Solitaire
 _Dimitri_: **"**PS KY has already said it all about this song in her introduction. I love the contrast between the fragility in her voice and the feeling of sureness that emerges from the song, the ability to get stronger as the song progresses. 
 
-## Exit Someone - Fad To Black
+## Exit Someone - Fade To Black
 _Dimitri_: **"**
 
 ## Surfing - Hit The Spot
