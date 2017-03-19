@@ -21,6 +21,7 @@ track4_title: Cut Off Your Hands - Hate Somebody
 track4_color: vibrant
 guestPic: guestPic253.jpg
 ---
+![guestPic253.jpg]({{site.baseurl}}/img/guestPic253.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
