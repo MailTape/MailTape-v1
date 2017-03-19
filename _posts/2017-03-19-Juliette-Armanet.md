@@ -75,4 +75,4 @@ _Dimitri_: **"**Perfect bedroom song for a sensual sunday morning. What more cou
 ## Antenna - Love 66
 _Dimitri_: **"**_Love 66_ is a slo-mo-disco track by Antenna, a young producer from Kazan in Russia. It's also a tobacco brand for hookah with a tropical flavour. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.**"**
 
-<p id="outroduction">That's all folks, thanks to Juliette Armanet for his brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
+<p id="outroduction">That's all folks, thanks to Juliette Armanet for her brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
