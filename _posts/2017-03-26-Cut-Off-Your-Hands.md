@@ -19,8 +19,9 @@ track3_title: LA Priest - Lorry Park
 track3_color: trippy
 track4_title: Cut Off Your Hands - Hate Somebody
 track4_color: vibrant
-guestPic: guestPic253.jpg
+guestPic: guestPic253new.jpg
 ---
+![guestPic253new.jpg]({{site.baseurl}}/img/guestPic253new.jpg)
 ## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
