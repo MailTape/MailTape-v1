@@ -69,6 +69,6 @@ _Dimitri_: **"**Exit Someone, a canadian band formed by June Moon and Tom Gillie
 _Dimitri_: **"**Perfect bedroom song for a sensual sunday morning. What more could we want ?**"**
 
 ## Antenna - Love 66
-_Dimitri_: **"**_Love 66_ is a slo-mo-disco track by Antenna, a young producer from Kazan in Russia. It's also a tobacco for hookah with a kind of tropical flavour. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.**"**
+_Dimitri_: **"**_Love 66_ is a slo-mo-disco track by Antenna, a young producer from Kazan in Russia. It's also a tobacco brand for hookah with a kind of tropical flavour. I don't know if there is a link between the both, but I like this fact. Of course, I love this song too.**"**
 
 <p id="outroduction">That's all folks, thanks to Juliette Armanet for his brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
