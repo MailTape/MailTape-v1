@@ -19,7 +19,7 @@ track3_title: LA Priest - Lorry Park
 track3_color: trippy
 track4_title: Cut Off Your Hands - Hate Somebody
 track4_color: vibrant
-guestPic: guestPic253new2.jpg
+guestPic: guestPic253new.jpg
 ---
 <p id="introduction">This morning,  [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s !
 </p>
