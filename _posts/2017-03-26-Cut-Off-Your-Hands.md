@@ -21,7 +21,8 @@ track4_title: Cut Off Your Hands - Hate Somebody
 track4_color: vibrant
 guestPic: guestPic253.jpg
 ---
-<p id="introduction">This morning,  [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s </p>
+<p id="introduction">This morning,  [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s !
+</p>
 
 
 # **Cut Off Your Hands’ selection**
