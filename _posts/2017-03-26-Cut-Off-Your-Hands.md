@@ -19,7 +19,7 @@ track3_title: LA Priest - Lorry Park
 track3_color: trippy
 track4_title: Cut Off Your Hands - Hate Somebody
 track4_color: vibrant
-guestPic: guestPic253new.jpg
+guestPic: guestPic253new2.jpg
 ---
 <p id="introduction">This morning,  [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s !
 </p>
@@ -34,7 +34,7 @@ _Cut Off Your Hands_: **"**I've been following Flamingosis for a few years now a
 _Cut Off Your Hands_: **"**How good is jazz? That's rhetorical, everyone knows. Beautiful interplay between each instrument and excellent arrangement, with plenty of space throughout. Especially good on a Sunday as it's the day when I reflect on the week that's been and begin to ponder the one to come. Oh so saxy!**"**
 
 + ## LA Priest - Lorry Park
-_Yohann from Requin Chagrin_: **"**This magical nature of the sounds and the progression through the song inspires action... this song commands something to happen. I usually like to do have an active Sunday and get stuff done like housework, errands, shopping, etc - so this track is the perfect call to action. I'm a fan of Sam's collaborations, the latest with Connan Mockasin called Soft Hair.**"**
+_Cut Off Your Hands_: **"**This magical nature of the sounds and the progression through the song inspires action... this song commands something to happen. I usually like to do have an active Sunday and get stuff done like housework, errands, shopping, etc - so this track is the perfect call to action. I'm a fan of Sam's collaborations, the latest with Connan Mockasin called Soft Hair.**"**
 
 
 # Mailtape's selection
