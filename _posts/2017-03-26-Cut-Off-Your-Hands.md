@@ -54,7 +54,7 @@ _Cut Off Your Hands_: **"**I've been following Flamingosis for a few years now a
 # Mailtape's selection
 
 + ## Cut Off Your Hands - Higher Lows and Lower Highs
-_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, and has this funky sound that is hard to resist to, for a sunny Sunday morning full of promises.**"** 
+_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, and has this funky sound that is difficult to resist, for a sunny Sunday morning full of promises.**"** 
 
 + ## BABE - Scooping Pints
 _Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us travel to a tropical island, under a blazing sun, chilling and/or dancing, simply enjoying life.**"**
@@ -63,7 +63,7 @@ _Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us tra
 _Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between its instruments. Who’s going to have the final say in this?**"**
 
 + ## Caandides - Rio
-_Inès_: **"**« Rio » is my go-to song every time a ray of sunshine appears for more than two seconds. I love its structure, alternating turbulent moments and calmer ones, letting you breathe in between. It just overall feels carefree and optimistic, perfect for busy sunny days!**"**
+_Inès_: **"**« Rio » is my go-to song every time a ray of sunshine appears for more than two seconds. I love its structure, alternating turbulent moments with calmer ones, letting you breathe in between. It just overall feels carefree and optimistic, perfect for busy sunny days!**"**
 
 
 <p id="outroduction">That’s all folks! Thanks to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook") for their participation, and Anais for the illustration. Have a delightful Sunday! </p>
