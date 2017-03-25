@@ -33,8 +33,12 @@ episode_URL: 'https://www.mailta.pe/253/cut-off-your-hands/'
 writer: Inès
 musiColor: musiColor253.png
 fbPic: fbPic253.png
+description: >-
+  This morning, let's enjoy the comeback of sunnier days while listening to Cut
+  Off Your Hands' kaleidoscopic selection. Put on your sunglasses, make yourself
+  a nice coffee and get ready with their selection!
 ---
-<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very geniune. So put on your sunglasses, your best dancing socks or shoes, make yourself a nice coffee and get ready with their selection! </p>
+<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. So open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to lazy.</p>
 
 
 
