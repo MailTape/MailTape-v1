@@ -60,7 +60,7 @@ _Cut Off Your Hands_: **"**I've been following Flamingosis for a few years now a
 # Mailtape's selection
 
 + ## Cut Off Your Hands - Higher Lows and Lower Highs
-_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, speaking about mental health issues and their impact on life yet managing to have this funky, upbeat sound that is so difficult to resist.**"** 
+_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, referring to mental health issues and their impact on life yet having this funky, upbeat sound that is so difficult to resist.**"** 
 
 + ## BABE - Scooping Pints
 _Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us travel to a tropical island, under a blazing sun, chilling and/or dancing, simply enjoying life.**"**
