@@ -58,7 +58,7 @@ _Inès_: **"**After a few years without any releases, Cut Off Your Hands decided
 _Inès_: **"**/////////**"**
 
 + ## Aquaserge - Tour du Monde
-_Inès_: **"**///////**"**
+_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re actually playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between its instruments. Who’s going to have the final say in this?**"**
 
 + ## Caandides - Rio
 _Inès_: **"**//////**"**
