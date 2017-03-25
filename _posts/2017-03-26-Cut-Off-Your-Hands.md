@@ -34,10 +34,8 @@ writer: Inès
 musiColor: musiColor253.png
 fbPic: fbPic253.png
 ---
-<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s kaleidoscopic selection. Cut Off Your Hands, from New Zealand, recently released . Put on your sunglasses, your best dancing shoes !
-</p>
-![musiColor253.png]({{site.baseurl}}/img/musiColor253.png)
-![fbPic253.png]({{site.baseurl}}/img/fbPic253.png)
+<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very geniune. So put on your sunglasses, your best dancing socks or shoes, make yourself a nice coffee and get ready with their selection. </p>
+
 
 
 # **Cut Off Your Hands’ selection**
