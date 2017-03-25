@@ -35,8 +35,9 @@ musiColor: musiColor253.png
 fbPic: fbPic253.png
 description: >-
   This morning, let's enjoy the comeback of sunnier days while listening to Cut
-  Off Your Hands' kaleidoscopic selection. Put on your sunglasses, make yourself
-  a nice coffee and get ready with their selection!
+  Off Your Hands' kaleidoscopic selection. So open your windows, put on your
+  sunglasses, make yourself a nice coffee, and get ready for a fulfilling day
+  with their selection! All Sundays do not have to lazy.
 ---
 <p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. So open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to lazy.</p>
 
@@ -58,7 +59,7 @@ _Cut Off Your Hands_: **"**I've been following Flamingosis for a few years now a
 # Mailtape's selection
 
 + ## Cut Off Your Hands - Higher Lows and Lower Highs
-_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, and has this funky sound that is difficult to resist, for a sunny Sunday morning full of promises.**"** 
+_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, speaking about mental health issues and their impact on life yet managing to have this funky, upbeat sound that is so difficult to resist.**"** 
 
 + ## BABE - Scooping Pints
 _Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us travel to a tropical island, under a blazing sun, chilling and/or dancing, simply enjoying life.**"**
