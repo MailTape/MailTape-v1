@@ -39,8 +39,8 @@ description: >-
   sunglasses, make yourself a nice coffee, and get ready for a fulfilling day
   with their selection! All Sundays do not have to be lazy.
 ---
-<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. 
-Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.</p>
+<p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’ kaleidoscopic selection. Cut Off Your Hands' dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. </p>
+<p>Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.</p>
 
 
 
