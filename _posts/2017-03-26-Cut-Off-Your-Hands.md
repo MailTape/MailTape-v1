@@ -7,19 +7,30 @@ illustrator: Anais Caura
 category: '253'
 guest_name: Cut Off Your Hands
 guest_color: vibrant
-track1_link: 'https://soundcloud.com/flamingosis/bright-moments-feat-the-kount'
 track2_link: 'https://soundcloud.com/world-music-network/john-coltrane-blue-train-from'
-track3_link: 'https://soundcloud.com/dominorecordco/la-priest-lorry-park'
-track4_link: 'https://soundcloud.com/cutoffyourhandsnz/hate-somebody'
-track1_title: Flamingosis - Bright Moments (ft. The Kount)
-track1_color: vibrant
+track3_link: 'https://soundcloud.com/flamingosis/bright-moments-feat-the-kount'
+track4_link: 'https://soundcloud.com/cutoffyourhandsnz/higher-lows-and-lower-highs'
+track1_color: trippy
 track2_title: John Coltrane - Blue Train
-track2_color: dreamy
-track3_title: LA Priest - Lorry Park
-track3_color: trippy
-track4_title: Cut Off Your Hands - Hate Somebody
+track2_color: bliss
+track3_title: Flamingosis - Bright Moments (ft. The Kount)
+track3_color: vibrant
+track4_title: Cut Off Your Hands - Higher Lows and Lower Highs
 track4_color: vibrant
 guestPic: guestPic253new2.jpg
+track1_link: 'https://soundcloud.com/dominorecordco/la-priest-lorry-park'
+track5_link: 'https://soundcloud.com/babeband/scooping-pints'
+track6_link: 'https://soundcloud.com/crammed-discs/aquaserge-tour-du-monde'
+track7_link: 'https://soundcloud.com/caandides/rio'
+track1_title: 'LA Priest - Lorry Park '
+track5_title: BABE - Scooping Pints
+track5_color: bliss
+track6_title: Aquaserge - Tour du monde
+track6_color: trippy
+track7_title: Caandides - Rio
+track7_color: vibrant
+episode_URL: 'https://www.mailta.pe/253/cut-off-your-hands/'
+writer: Inès
 ---
 <p id="introduction">This morning,  [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s !
 </p>
