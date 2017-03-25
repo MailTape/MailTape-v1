@@ -66,7 +66,7 @@ _Inès_: **"**After a few years without any releases, Cut Off Your Hands decided
 _Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us travel to a tropical island, under a blazing sun, chilling and/or dancing, simply enjoying life.**"**
 
 + ## Aquaserge - Tour du Monde
-_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between its instruments. Who’s going to have the final say in this?**"**
+_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between all its instruments. Who’s going to have the final say in this?**"**
 
 + ## Caandides - Rio
 _Inès_: **"**« Rio » is my go-to song every time a ray of sunshine appears for more than two seconds. I love its structure, alternating turbulent moments with calmer ones, letting you breathe in between. It just overall feels carefree and optimistic, perfect for busy sunny days!**"**
