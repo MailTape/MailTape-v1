@@ -31,9 +31,13 @@ track7_title: Caandides - Rio
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/253/cut-off-your-hands/'
 writer: Inès
+musiColor: musiColor253.png
+fbPic: fbPic253.png
 ---
 <p id="introduction">This morning, let's enjoy the comeback of sunnier days while listening to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook")’s kaleidoscopic selection. Cut Off Your Hands, from New Zealand, recently released . Put on your sunglasses, your best dancing shoes !
 </p>
+![musiColor253.png]({{site.baseurl}}/img/musiColor253.png)
+![fbPic253.png]({{site.baseurl}}/img/fbPic253.png)
 
 
 # **Cut Off Your Hands’ selection**
