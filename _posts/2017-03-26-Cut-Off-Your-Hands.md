@@ -52,7 +52,7 @@ _Cut Off Your Hands_: **"**This magical nature of the sounds and the progression
 + ## John Coltrane - Blue Train
 _Cut Off Your Hands_: **"**How good is jazz? That's rhetorical, everyone knows. Beautiful interplay between each instrument and excellent arrangement, with plenty of space throughout. Especially good on a Sunday as it's the day when I reflect on the week that's been and begin to ponder the one to come. Oh so saxy!**"**
 
-+ ## Flamingosis - Bright Moments (fr. The Kount)
++ ## Flamingosis - Bright Moments (ft. The Kount)
 _Cut Off Your Hands_: **"**I've been following Flamingosis for a few years now and has continued to produce tasty tunes, this one being the title track off an album release in July of this year. I often listen to old soul/funk (Al Green, Rick Holmes etc) and Flamingosis adds a fresh flavour with mixes between Hip Hop & Funk, sampling some of my favourite artists. If you dig this tune, next take a listen to 'what went wrong?'.**"**
 
 
