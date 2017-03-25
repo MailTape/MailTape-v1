@@ -58,10 +58,10 @@ _Inès_: **"**After a few years without any releases, Cut Off Your Hands decided
 _Inès_: **"**/////////**"**
 
 + ## Aquaserge - Tour du Monde
-_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re actually playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between its instruments. Who’s going to have the final say in this?**"**
+_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re playing, but managing to create amazing tracks. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between its instruments. Who’s going to have the final say in this?**"**
 
 + ## Caandides - Rio
-_Inès_: **"**//////**"**
+_Inès_: **"**« Rio » is my go-to song every time a ray of sunshine appears for more than two seconds. I love its structure, alternating turbulent moments and calmer ones, letting you breathe in between. It just overall feels carefree and optimistic.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook") for their participation, and Anais for the illustration. Have a XXX Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook") for their participation, and Anais for the illustration. Have a delightful Sunday! </p>
