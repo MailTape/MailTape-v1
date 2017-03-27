@@ -14,7 +14,7 @@ track6_color: vibrant
 track7_color: dreamy
 category: "169"
 guest_name: Elliot Moss
-track1_link: "https://soundcloud.com/apparat/out-of-sight?in=elliotmoss"
+track1_link: "https://mailtapetracks.s3.amazonaws.com/169/track1.mp3"
 track2_link: "https://mailtapetracks.s3.amazonaws.com/169/track2.mp3"
 track3_link: "https://mailtapetracks.s3.amazonaws.com/169/track3.mp3"
 track4_link: "https://mailtapetracks.s3.amazonaws.com/169/track4.mp3"
