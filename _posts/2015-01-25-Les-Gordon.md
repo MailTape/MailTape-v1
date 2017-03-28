@@ -15,7 +15,7 @@ track7_color: dreamy
 category: "170"
 guest_name: Les Gordon
 track1_link: "https://soundcloud.com/ddmrecordings/imagined-herbal-flows-01-clouds-ddm-recordings"
-track2_link: "https://soundcloud.com/123mrk/123mrk-pleasure-forthcoming"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/170/track2.mp3"
 track3_link: "https://mailtapetracks.s3.amazonaws.com/170/track3.mp3"
 track4_link: "https://mailtapetracks.s3.amazonaws.com/170/track4.mp3"
 track5_link: "https://soundcloud.com/innovativeleisure/tropics-blame"
