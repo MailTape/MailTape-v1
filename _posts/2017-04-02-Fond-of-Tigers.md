@@ -9,7 +9,7 @@ track2_link: 'https://soundcloud.com/zammuto/11-las-twelve-fold-chain'
 track3_link: 'https://soundcloud.com/efterklang/efterklang-hollow-mountain'
 track4_link: 'https://soundcloud.com/offseason-records/vitamin-meathawk-feat-sandro-perri'
 track5_link: 'https://soundcloud.com/tanya-tagaq/hunger'
-track7_link: 'https://soundcloud.com/tanya-tagaq/hunger'
+track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'
 category: '254'
 track6_link: 'https://soundcloud.com/constellation-records/saltland-magnolia'
 ---
