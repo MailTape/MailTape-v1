@@ -33,7 +33,7 @@ guestPic: guestPic254.jpg
 fbPic: fbPic254.jpg
 musiColor: musiColor254.png
 description: >-
-  This morning, Stephen Lyons of Vancouver-based septet, Fond of Tigers, lifts
+  This morning Stephen Lyons of Vancouver-based septet, Fond of Tigers, lifts
   the fog and treats us to three unhurried and dreamy selections.
 ---
 <p id="introduction">This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...</p>
