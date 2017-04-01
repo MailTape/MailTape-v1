@@ -65,7 +65,7 @@ _Sanjay_: **"**I first saw Fond of Tigers at 1067 in Vancouver back in 2008. Thr
 _Sanjay_: **"**I'm a newcomer to composer Martin Arnold and much of [Arraymusic](http://www.arraymusic.com/)'s output. I love the strange friction between the open, plangent quality of the singing here, and the weblike instrumental work from Callum McSherry, the Quatuor Bozzini quartet and University of Bristol New Music Ensemble.**"**
 
 + ## Saltland - Magnolia
-_Sanjay_: **"**The music of Saltland/Rebecca Foon/Esmerine is to me what Efterklang is to Stephen: music capabale of articulating a forlorn yet rousing sense of hope. Magnolia is from Saltland's latest release (just last week), _A Common Truth_, on Montréal's delightfully irrepresible Constellation Records.**"**
+_Sanjay_: **"**The music of [Saltland](http://www.saltland.ca/)/Rebecca Foon/Esmerine is to me what Efterklang is to Stephen: music capabale of articulating a forlorn yet rousing sense of hope. Magnolia is from Saltland's latest release (just last week), _A Common Truth_, on Montréal's delightfully irrepresible Constellation Records.**"**
 
 + ## Esmerine - The Neighbourhoods Rise
 _Sanjay_: **"**Ending with yet more hope. Most fans of [Esmerine](http://www.esmerine.com/) will be acquainted with the characteristically morose, sparse and tranquil violin sounds that give way to the rumble and swell of drums and bass and explosive guitar peaks. But it doesn’t make it any less enjoyable here.**"**
