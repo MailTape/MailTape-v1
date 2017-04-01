@@ -62,7 +62,7 @@ _Stephen Lyons_: **"**With [Efterklang](http://efterklang.net/home/), I start to
 # Mailtape's selection
 
 + ## Fond of Tigers - Vitamin Meathawk (feat. Sandro Perri)
-_Sanjay_: **"**I first saw Fond of Tigers at 1067 in Vancouver back in 2008. Three albums later and eight years later, they returned in late 2016 with [Uninhabit](https://fondoftigers.bandcamp.com/album/uninhabit). Lots more syncopated drums, contrapuntal melodies and carefree abandon...while keeping the groove firmly in the pocket. Vitamin Meathawk explored new territory for the group, on which Toronto's [Sandro Perri](http://www.sandroperri.com/) adds his brand of gentle, husky vocals.**"** 
+_Sanjay_: **"**I first saw Fond of Tigers at 1067 in Vancouver back in 2008. Three albums and eight years later, they returned in late 2016 with [Uninhabit](https://fondoftigers.bandcamp.com/album/uninhabit). Lots more syncopated drums, contrapuntal melodies and carefree abandon...while keeping the groove firmly in the pocket. Vitamin Meathawk explored new territory for the group, on which Toronto's [Sandro Perri](http://www.sandroperri.com/) adds his brand of gentle, husky vocals.**"** 
 
 + ## Martin Arnold - The Coo-Coo Bird
 _Sanjay_: **"**I'm a newcomer to composer Martin Arnold and much of [Arraymusic](http://www.arraymusic.com/)'s output. I love the strange friction between the open, plangent quality of the singing here, and the weblike instrumental work from Callum McSherry, the Quatuor Bozzini quartet and University of Bristol New Music Ensemble.**"**
