@@ -20,10 +20,10 @@ track2_title: Zammuto - Twelve Fold Chain
 track2_color: dreamy
 track3_title: Efterklang - Hollow Mountain
 track3_color: trippy
-track4_title: Martin Arnold - The Coo-Coo Bird
-track4_color: dreamy
-track5_title: Kaja Draksler - Army of Drops
-track5_color: vibrant
+track4_title: Fond of Tigers - Vitamin Meathawk
+track4_color: vibrant
+track5_title: Martin Arnold - The Coo-Coo Bird
+track5_color: dreamy
 track6_title: Saltland - Magnolia
 track6_color: bliss
 track7_title: Esmerine - The Neighbourhoods Rise
