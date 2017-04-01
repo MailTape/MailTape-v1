@@ -37,7 +37,7 @@ description: >-
   the fog and treats us to three unhurried and dreamy selections.
 ---
 <p id="introduction">This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...</p>
-<p>I generally start my days pretty slowly. The longer I can put of speaking, the better. No sudden movements.</p>
+<p>I generally start my days pretty slowly. The longer I can put off speaking, the better. No sudden movements.</p>
 <p>A lot of the music I tend to listen to in the morning blends nuanced melody with a mysterious, porous, and textured sense of space. Either that, or it’s 1970’s Country from Ray Price, Mel Tillis, or—especially—Kenny Rogers’ second solo album (1976), which is understated country gold!</p>
 
 <p>Here are a few examples of a kind of slow morning transition out of sleep:</p>
