@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 track1_link: 'https://soundcloud.com/earhornmusic/califone-sunday-noises'
