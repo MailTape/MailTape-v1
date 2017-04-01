@@ -29,7 +29,6 @@ track6_color: bliss
 track7_title: Esmerine - The Neighbourhoods Rise
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/254/Fond-of-Tigers'
-guestPic: guestPic254.jpg
 ---
 <p id="introduction">This morning, Stephen Lyons of Vancouver-based septet, [Fond of Tigers](http://www.fondoftigers.com/), lifts the fog and treats us to three unhurried and dreamy selections. In his own words...</p>
 <p>I generally start my days pretty slowly. The longer I can put of speaking, the better. No sudden movements.</p>
