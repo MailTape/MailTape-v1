@@ -12,6 +12,23 @@ track5_link: 'https://soundcloud.com/kajadraksler/army-of-drops-kaja-draksler'
 track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'
 category: '254'
 track6_link: 'https://soundcloud.com/constellation-records/saltland-magnolia'
+guest_name: Fond of Tigers
+guest_color: dreamy
+track1_title: Califone - Sunday Noises
+track1_color: bliss
+track2_title: Zammuto - Twelve Fold Chain
+track2_color: dreamy
+track3_title: Efterklang - Hollow Mountain
+track3_color: trippy
+track4_title: Fond of Tigers - Vitamin Meathawk
+track4_color: rough
+track5_title: Kaja Draksler - Army of Drops
+track5_color: vibrant
+track6_title: Saltland - Magnolia
+track6_color: bliss
+track7_title: Esmerine - The Neighbourhoods Rise
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/254/Fond-of-Tigers'
 ---
 ## A New Post
 
