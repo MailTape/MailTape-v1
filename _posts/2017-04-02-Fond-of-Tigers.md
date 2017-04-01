@@ -28,7 +28,7 @@ track6_title: Saltland - Magnolia
 track6_color: bliss
 track7_title: Esmerine - The Neighbourhoods Rise
 track7_color: dreamy
-episode_URL: 'http://mailta.pe/254/Fond-of-Tigers'
+episode_URL: 'http://mailta.pe/254/Fond-of-Tigers/'
 guestPic: guestPic254.jpg
 fbPic: fbPic254.jpg
 musiColor: musiColor254.png
