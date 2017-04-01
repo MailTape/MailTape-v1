@@ -8,7 +8,7 @@ track1_link: 'https://soundcloud.com/earhornmusic/califone-sunday-noises'
 track2_link: 'https://soundcloud.com/zammuto/11-las-twelve-fold-chain'
 track3_link: 'https://soundcloud.com/efterklang/efterklang-hollow-mountain'
 track4_link: 'https://soundcloud.com/offseason-records/vitamin-meathawk-feat-sandro-perri'
-track5_link: 'https://soundcloud.com/kajadraksler/army-of-drops-kaja-draksler'
+track5_link: 'https://soundcloud.com/martinarnold/the-coo-coo-bird'
 track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'
 category: '254'
 track6_link: 'https://soundcloud.com/constellation-records/saltland-magnolia'
@@ -20,8 +20,8 @@ track2_title: Zammuto - Twelve Fold Chain
 track2_color: dreamy
 track3_title: Efterklang - Hollow Mountain
 track3_color: trippy
-track4_title: Fond of Tigers - Vitamin Meathawk
-track4_color: rough
+track4_title: Martin Arnold - The Coo-Coo Bird
+track4_color: dreamy
 track5_title: Kaja Draksler - Army of Drops
 track5_color: vibrant
 track6_title: Saltland - Magnolia
