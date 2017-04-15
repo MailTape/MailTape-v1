@@ -49,7 +49,7 @@ _Johnny Hawaii_: **"**Beach Boys feeling, Papapahooo's, crunchy indie rock guita
 # Mailtape's selection
 
 + ## Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on Acid)
-_Inès_: **"**2015. The South of France. Early afternoon. 25°C. Palm trees and flamingos in the background of Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/evenement/johnny-hawaii/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing in bed, or taking a nap on an warm afternoon just because we have the luxury to do so.**"** 
+_Inès_: **"**2015. The South of France. Early afternoon. 25°C. Palm trees and flamingos in the background of Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/evenement/johnny-hawaii/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing in bed, or taking a nap on a warm afternoon just because we have the luxury to do so.**"** 
 
 + ## XX - XX
 _Inès_: **"**XXXXX**"**
