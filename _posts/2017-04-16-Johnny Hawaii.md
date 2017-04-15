@@ -55,16 +55,16 @@ _Johnny Hawaii_: **"**Beach Boys feeling, Papapahooo's, crunchy indie rock guita
 # Mailtape's selection
 
 + ## Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on Acid)
-_Inès_: **"**2015. The South of France. Early afternoon. 25°C. Palm trees and flamingos in the background. Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing in bed, or taking a nap on a warm afternoon just because we have the luxury to do so.**"** 
+_Inès_: **"**2015. The South of France. Early afternoon. 25°C. Olive trees and flamingos in the background, and Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing in bed or taking a nap on a warm afternoon, pure tranquility.**"** 
 
-+ ## XX - XX
-_Inès_: **"**XXXXX**"**
++ ## Beach House - Sparks
+_Inès_: **"**I think the rest of this selection can show how much I'm in need of holidays and sunshine. **"**
 
 + ## xX - xxx
 _Inès_: **"**XXXXX**"**
 
 + ## The Brian Jonestown Massacre - Viholliseni Maalla
-_Inès_: **"**xxxx**"**
+_Inès_: **"**Cute and dreamy, **"**
 
 
 <p id="outroduction">That’s all folks! Thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook") for his participation, and Anais for the illustration. Have a chill Sunday! </p>
