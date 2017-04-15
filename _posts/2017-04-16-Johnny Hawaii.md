@@ -21,6 +21,7 @@ track3_color: vibrant
 track4_title: >-
   Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on
   Acid)
+episode_URL: 'https://mailta.pe/256/Johnny-Hawaii/'
 ---
 ## A New Post
 
