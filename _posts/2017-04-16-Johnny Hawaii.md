@@ -39,10 +39,11 @@ description: >-
   Sundays: long, slow, and dreamy, just what is needed to wrap up the week
   beautifully. So stay still, close your eyes, don't turn on the lights. Take
   this episode as being an excuse to do nothing for some time.
+fbPic: fbPic256.png
+musiColor: musiColor256.png
 ---
 <p id="introduction">This morning, let's all stay in a hazy state thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully.</p>
-<p>So just stay still, close your eyes, don't turn on the lights. Take this episode as being an excuse to do nothing for some time.</p>
-
+<p>So just stay still, close your eyes, don't turn on the lights. Take this episode as an excuse to do nothing for some time.</p>
 
 
 # **Johnny Hawaii’s selection**
