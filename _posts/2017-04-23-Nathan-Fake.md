@@ -21,7 +21,7 @@ _Nathan Fake_: **"**This track is like audio valium, especially when heard on a 
 _Nathan Fake_: **"**My favourite track off kaitlyn's "ears" lp. beautiful bubbly synths and voices.**"**
 
 ## Aphex Twin - xtal
-_MNDSGN_: **"**A bit obvious but a total fave of mine, one of the warmest and most gorgeous pieces of music ever made, I love listening to this kind of stuff all day on Sundays.**"**
+_Nathan Fake_: **"**A bit obvious but a total fave of mine, one of the warmest and most gorgeous pieces of music ever made, I love listening to this kind of stuff all day on Sundays.**"**
 
 
 # MailTape's Selection
