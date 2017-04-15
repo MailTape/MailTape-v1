@@ -2,6 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
+author: ImaCrea
+illustrator: Anais Caura
+category: '257'
+guest_name: Nathan Fake
 ---
 <p id="introduction">introduction...</p>
 
