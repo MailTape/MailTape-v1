@@ -24,6 +24,9 @@ track4_title: >-
 episode_URL: 'https://mailta.pe/256/Johnny-Hawaii/'
 guestPic: guestPic256.jpg
 track4_color: bliss
+track5_link: 'https://soundcloud.com/sunbeam-sound-machine/wandering-i'
+track5_title: 'Sunbeam Sound Machine - Wandering, I'
+track5_color: vibrant
 ---
 <p id="introduction">This morning, [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. </p>
 <p>Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.</p>
