@@ -58,7 +58,7 @@ _Johnny Hawaii_: **"**Beach Boys feeling, Papapahooo's, crunchy indie rock guita
 _Inès_: **"**2015. The South of France. Early afternoon. 25°C. Olive trees and flamingos in the background, and Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing or taking a nap on a warm afternoon, just because we have the luxury to do so. Pure, unaltered tranquility.**"** 
 
 + ## The Radio Dept. - It's Personal
-_Inès_: **"**Okay so now we're going to a colder country thanks to Swedish The Radio Dept.'s "It's Personal". I have always enjoyed this cold yet dreamy vibe that can be found across their tracks, and this one is one my favorites. Mixing sadness and optimism, it builds up with such intensity, feeling overall kind of cathartic. The perfect song to clear your head out to.**"**
+_Inès_: **"**Okay so now we're going to a colder country thanks to Swedish The Radio Dept.'s "It's Personal". I have always enjoyed this cold yet dreamy vibe that can be found across their tracks, and this one is one my favorites. Mixing sadness and optimism, it builds up with intensity, feeling overall kind of cathartic. The perfect song to clear your head out to.**"**
 
 + ## Beach House - Sparks
 _Inès_: **"**I have been listening for this song on repeat for the last few weeks. This song has this quiet optimism, making you feel like your in a movie's happy ending (which, to be fair, has its perks in everyday life). So nice.**"**
