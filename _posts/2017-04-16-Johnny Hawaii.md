@@ -33,6 +33,12 @@ track7_title: The Brian Jonestown Massacre - Viholliseni Maalla
 track7_color: bliss
 track7_link: 'https://soundcloud.com/ori-dvir/brian-jonestown-massacre'
 track5_title: The Radio Dept. - It's Personal
+description: >-
+  This morning, let's all stay in a hazy state thanks to Johnny Hawaii’s trippy
+  selection. Johnny Hawaii's psychedelic surf tracks are amazing soundtracks for
+  Sundays: long, slow, and dreamy, just what is needed to wrap up the week
+  beautifully. So stay still, close your eyes, don't turn on the lights. Take
+  this episode as being an excuse to do nothing for some time.
 ---
 <p id="introduction">This morning, let's all stay in a hazy state thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic surf tracks are amazing soundtracks for Sundays: long, slow, and dreamy, just what is needed to wrap up the week beautifully.</p>
 <p>So just stay still, close your eyes, don't turn on the lights. Take this episode as being an excuse to do nothing for some time.</p>
