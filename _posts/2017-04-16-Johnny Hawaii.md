@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: true
+published: false
 author: Inès
 illustrator: Anais Caura
 writer: Inès
@@ -67,4 +67,4 @@ _Inès_: **"**I have been listening for this song on repeat for the last few wee
 _Inès_: **"**No need to say anything about the Brian Jonestown Massacre, amazing psych band (with the coolest tambourine player). Taken from their album "Aufheben", _Viholliseni Maalla_ feels like a warm blanket, or walking through ethereal clouds, or seeing life through a sepia filter. Very comforting.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook") for his participation, and Anais for the illustration. Have a lazy Eastern Sunday, and enjoy the fact that your weekend won't be over so soon. </p>
+<p id="outroduction">That’s all folks! Thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook") for his participation, and Anais for the illustration. Have a lazy Sunday, and enjoy the fact that your weekend won't be over so soon for some of you. </p>
