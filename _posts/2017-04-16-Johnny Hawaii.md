@@ -58,13 +58,13 @@ _Johnny Hawaii_: **"**Beach Boys feeling, Papapahooo's, crunchy indie rock guita
 _Inès_: **"**2015. The South of France. Early afternoon. 25°C. Olive trees and flamingos in the background, and Johnny Hawaii playing his set at [This Is Not A Love Song](https://thisisnotalovesong.fr/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this peaceful aura, like a hazy Sunday morning spent doing nothing or taking a nap on a warm afternoon, just because we have the luxury to do so. Pure, unaltered tranquility.**"** 
 
 + ## The Radio Dept. - It's Personal
-_Inès_: **"**Okay so now we're traveling to a colder country thanks to The Radio Dept.'s, a Swedish band, "It's Personal". I have always enjoyed this cold and dreamy vibe that can be found across their tracks, and this one is one my favorites. The way it builds up, mixing some kind of sadness with optimism, every detail of the song becoming more and more intese... Kind of feels cathartic, an amazing song for long walks when you need to figure out things i guess.  **"**
+_Inès_: **"**Okay so now we're going to a colder country thanks to Swedish The Radio Dept.'s "It's Personal". I have always enjoyed this cold yet dreamy vibe that can be found across their tracks, and this one is one my favorites. Mixing sadness and optimism, it builds up with such intensity, feeling overall kind of cathartic. The perfect song to clear your head out to.**"**
 
 + ## Beach House - Sparks
-_Inès_: **"**I have been listening for this song on repeat for the last few days/weeks. It has this quiet optimism, feels like  **"**
+_Inès_: **"**I have been listening for this song on repeat for the last few weeks. This song has this quiet optimism, making you feel like your in a movie's happy ending (which, to be fair, has its perks in everyday life). So nice.**"**
 
 + ## The Brian Jonestown Massacre - Viholliseni Maalla
-_Inès_: **"**I know there is no need to present the BJM, and this song taken from "Aufheben" is really nice. Sung in Finnish, it just feels like a warm blanket **"**
+_Inès_: **"**No need to say anything about the Brian Jonestown Massacre, amazing psych band (with the coolest tambourine player). Taken from their album "Aufheben", _Viholliseni Maalla_ feels like a warm blanket, or walking through ethereal clouds, or seeing life through a sepia filter. Very comforting.**"**
 
 
 <p id="outroduction">That’s all folks! Thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook") for his participation, and Anais for the illustration. Have a lazy Eastern Sunday, and enjoy the fact that your weekend won't be over so soon. </p>
