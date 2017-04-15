@@ -24,7 +24,7 @@ track4_title: >-
 episode_URL: 'https://mailta.pe/256/Johnny-Hawaii/'
 guestPic: guestPic256.jpg
 ---
-<p id="introduction">This morning, [Johnny Hawaii](https://www.facebook.com/cutoffyourhands/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. </p>
+<p id="introduction">This morning, [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook")’s trippy selection. Johnny Hawaii's psychedelic dreamy yet energetic tracks combine cheerful indie rock with post punk influences, always feeling very sincere. </p>
 <p>Open your windows, put on your sunglasses, make yourself a nice coffee, and get ready for a fulfilling day with their selection! All Sundays do not have to be lazy.</p>
 
 
@@ -44,17 +44,17 @@ _Johnny Hawaii_: **"**Beach Boys feeling, Papapahooo's, crunchy indie rock guita
 
 # Mailtape's selection
 
-+ ## Cut Off Your Hands - Higher Lows and Lower Highs
-_Inès_: **"**After a few years without any releases, Cut Off Your Hands decided to gift us with two new songs, and I couldn’t be happier about it since it is a band I have been listening to for years. « Higher Lows and Lower Highs » is one of them, referring to mental health issues and their impact on life yet having this funky, upbeat sound that is so difficult to resist.**"** 
++ ## Johnny Hawaii - The Parrots Are Not What They Seem (They're Just Pigeons on Acid)
+_Inès_: **"**2015. The South of France. Early afternoon. 25°C. Palm trees and flamingos in the background of Johnny Hawaii playing at [This Is Not A Love Song](https://thisisnotalovesong.fr/evenement/johnny-hawaii/ "Website") festival. Much like this memory, Johnny Hawaii's songs have this  **"** 
 
-+ ## BABE - Scooping Pints
-_Inès_: **"**Let's continue in this groovy vibe with BABE's song, making us travel to a tropical island, under a blazing sun, chilling and/or dancing, simply enjoying life.**"**
++ ## XX - XX
+_Inès_: **"**XXXXX**"**
 
-+ ## Aquaserge - Tour du Monde
-_Inès_: **"**Aquaserge is a French band mixing so many influences it’s hard to explain the kind of music they’re playing. « Tour du monde », taken from their latest release « Laisse ça être », feels like listening to a conversation between all its instruments. Who’s going to have the final say in this?**"**
++ ## xX - xxx
+_Inès_: **"**XXXXX**"**
 
-+ ## Caandides - Rio
-_Inès_: **"**« Rio » is my go-to song every time a ray of sunshine appears for more than two seconds. I love its structure, alternating turbulent moments with calmer ones, letting you breathe in between. It just overall feels carefree and optimistic, perfect for busy sunny days!**"**
++ ## xxx - xxx
+_Inès_: **"**xxxx**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Cut Off Your Hands](https://www.facebook.com/cutoffyourhands/ "Facebook") for their participation, and Anais for the illustration. Have a delightful Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Johnny Hawaii](https://www.facebook.com/johnnyhawaiiband/ "Facebook") for their participation, and Anais for the illustration. Have a delightful Sunday! </p>
