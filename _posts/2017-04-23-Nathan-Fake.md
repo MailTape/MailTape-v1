@@ -6,6 +6,12 @@ author: ImaCrea
 illustrator: Anais Caura
 category: '257'
 guest_name: Nathan Fake
+track1_link: 'https://soundcloud.com/home-2001/resonance'
+track2_link: 'https://soundcloud.com/kaitlynaureliasmith/when-i-try-im-full'
+track3_link: 'https://soundcloud.com/adrian-dulu/01-aphex-twin-xtal'
+track1_title: Home - Resonance
+track2_title: Kaitlyn Aurelia Smith - When I Try I'm Full
+track3_title: Aphex Twin - xtal
 ---
 <p id="introduction">introduction...</p>
 
