@@ -61,7 +61,7 @@ _ImaCrea_: **"**I wanted to find a track in his new album which sounded radical 
 _ImaCrea_: **"**Surprise of the week, instant crush. Supported by the dear Dewaele brothers, also known as 2ManyDjs/Soulwax, prepare to hear a lot about Charlotte. I recommend her debut EP.**"**
 
 ## Clark - Aftermath
-_ImaCrea_: **"**Definition of "aftermath": _A consequence, especially of a disaster or misfortune: famine as an aftermath of drought._**"**
+_ImaCrea_: **"**Definition of "aftermath": "A consequence, especially of a disaster or misfortune: famine as an aftermath of drought."**"**
 
 ## William Basinski - For David Robert Jones
 _ImaCrea_: **"**20 minutes. Yes it wasn't an easy choice but radicality is in the DNA of this issue. So let's not think too straight and open to a new _soundsation_.**"**
