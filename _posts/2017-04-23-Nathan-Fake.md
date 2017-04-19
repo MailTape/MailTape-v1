@@ -30,7 +30,7 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 ---
-<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/)! He just released a new album with our dear folks from Borders Community. Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
+<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/)! He just released a new album with our dear folks from Borders Community. Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
 # Designed for relaxation and inspiration
 Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dancing under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
