@@ -29,6 +29,7 @@ track5_color: trippy
 guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
+writer: ImaCrea
 ---
 <p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
