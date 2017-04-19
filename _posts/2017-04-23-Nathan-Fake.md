@@ -7,7 +7,7 @@ illustrator: Anais Caura
 category: '257'
 guest_name: Nathan Fake
 track1_link: 'https://soundcloud.com/home-2001/resonance'
-track2_link: 'https://soundcloud.com/kaitlynaureliasmith/when-i-try-im-full'
+track2_link: 'https://mailtapetracks.s3.amazonaws.com/257/track2.mp3'
 track3_link: 'https://soundcloud.com/adrian-dulu/01-aphex-twin-xtal'
 track1_title: Home - Resonance
 track2_title: Kaitlyn Aurelia Smith - When I Try I'm Full
@@ -15,8 +15,7 @@ track3_title: Aphex Twin - xtal
 track4_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track4.mp3'
 track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track5.mp3'
 track6_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track6.mp3'
-track7_link: >-
-  https://soundcloud.com/redbullmusicacademy/william-basinski-for-david-robert-jones
+track7_link: 'https://soundcloud.com/redbullmusicacademy/william-basinski-for-david-robert-jones'
 ---
 <p id="introduction">introduction...</p>
 
