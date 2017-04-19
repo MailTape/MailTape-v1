@@ -30,7 +30,7 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 ---
-<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Border Community](http://www.bordercommunity.com/). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
+<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
 # Designed for relaxation and inspiration
 Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dance under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
@@ -53,6 +53,17 @@ _Nathan Fake_: **"**A bit obvious but a total fave of mine, one of the warmest a
 
 # MailTape's Selection
 
-....
+## Nathan Fake - unen
+_ImaCrea_: **"**I wanted to find a track in his new album which sounded radical to me. A sound which doesn't represent what Nathan has already done. Also I was looking for one which could hold to the same standards as the legendary xtal by Aphex Twin. Here it is.**"**
 
-<p id="outroduction">That’s it for today! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution. Have a good trip, and don't forget to vote if you're French!</p>
+## Charlotte Adigéry - Le Froid
+_ImaCrea_: **"**Surprise of the week, instant crush. Supported by the dear Dewaele brothers, also known as 2ManyDjs/Soulwax, prepare to hear a lot about Charlotte. I recommend her EP released last week.**"**
+
+## Clark - Aftermath
+_ImaCrea_: **"**Definition of "aftermath": _A consequence, especially of a disaster or misfortune: famine as an aftermath of drought._**"**
+
+## William Basinski - For David Robert Jones
+_ImaCrea_: **"**20 minutes. Yes it wasn't an easy choice but radicality is in the DNA of this issue. So let's not think too straight and open to a new _soundsation_.**"**
+
+
+<p id="outroduction">That’s it for today, love you folks! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution and our great patrons for their support. Have a good trip, and don't forget to vote if you're French!</p>
