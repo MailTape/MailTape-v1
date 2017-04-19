@@ -21,6 +21,14 @@ track4_title: Nathan Fake - unen
 track5_title: Charlotte Adigéry - Le Froid
 track6_title: Clark - Aftermath
 track7_title: William Basinski - For David Robert Jones
+track1_color: dreamy
+track2_color: trippy
+track3_color: trippy
+track4_color: trippy
+track5_color: vibrant
+guest_color: trippy
+track6_color: trippy
+track7_color: dreamy
 ---
 <p id="introduction">introduction...</p>
 
