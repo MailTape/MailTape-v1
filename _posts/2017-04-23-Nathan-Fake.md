@@ -43,7 +43,7 @@ We're here to push boundaries, to break walls and find the very rare music gems 
 # **Nathan Fake's Selection**
 
 ## HOME - Resonance
-_Nathan Fake_: **"**This track is like audio valium, especially when heard on a sunday morning.**"**
+_Nathan Fake_: **"**This track is like audio valium, especially when heard on a Sunday morning.**"**
 
 ## Kaitlyn Aurelia Smith - When I Try I'm Full
 _Nathan Fake_: **"**My favourite track off kaitlyn's "ears" lp. beautiful bubbly synths and voices.**"**
