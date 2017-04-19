@@ -13,9 +13,9 @@ track1_title: Home - Resonance
 track2_title: Kaitlyn Aurelia Smith - When I Try I'm Full
 track3_title: Aphex Twin - xtal
 track4_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track4.mp3'
-track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track5.mp3'
-track6_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track6.mp3'
-track7_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track7.mp3'
+track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track6.mp3'
+track6_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track7.mp3'
+track7_link: 'https://soundcloud.com/mons-vi/want-me-too'
 ---
 <p id="introduction">introduction...</p>
 
