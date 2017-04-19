@@ -33,7 +33,11 @@ track7_color: dreamy
 <p id="introduction">This morning, Nathan Fakes, who's known for his innovative and smoothly provocative work in electronic music, is our guide. Embark on a trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
 # Designed for relaxation and inspiration
-Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dancing under the sun of Spring. 
+Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dancing under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
+
+Enters Kendrick Lamar and his "Damn" album just released a few days ago, unavoidable and extremely great... it was hard to resist the temptation! But it is not our mission here, Kendrick doesn't need MailTape be known anyway.
+
+We're here to push boundaries, to break walls and find the very rare music gem which we humbly believe constitute something totally new. A music discovery which has this particular capacity of being truly inspiring, and that demand in the first place to be unknown. Of course music is very personal and sometimes we hit, sometimes we're out, but isn't it what Life is about? In the end, it's about doing our very own best and be 100% sincere and the rest will take care of itself. Peace.
 
 # **Nathan Fakes' Selection**
 
