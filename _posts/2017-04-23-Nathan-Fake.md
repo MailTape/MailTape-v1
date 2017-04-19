@@ -15,7 +15,12 @@ track3_title: Aphex Twin - xtal
 track4_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track4.mp3'
 track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track5.mp3'
 track6_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/257/track6.mp3'
-track7_link: 'https://soundcloud.com/redbullmusicacademy/william-basinski-for-david-robert-jones'
+track7_link: >-
+  https://soundcloud.com/redbullmusicacademy/william-basinski-for-david-robert-jones
+track4_title: Nathan Fake - unen
+track5_title: Charlotte Adigéry - Le Froid
+track6_title: Clark - Aftermath
+track7_title: William Basinski - For David Robert Jones
 ---
 <p id="introduction">introduction...</p>
 
