@@ -25,7 +25,7 @@ track1_color: dreamy
 track2_color: trippy
 track3_color: trippy
 track4_color: trippy
-track5_color: vibrant
+track5_color: trippy
 guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
