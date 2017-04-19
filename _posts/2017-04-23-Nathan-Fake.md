@@ -64,7 +64,7 @@ _ImaCrea_: **"**Surprise of the week, instant crush. Supported by the dear Dewae
 _ImaCrea_: **"**Definition of "aftermath": "A consequence, especially of a disaster or misfortune: famine as an aftermath of drought."**"**
 
 ## William Basinski - For David Robert Jones
-_ImaCrea_: **"**20 minutes. Yes it wasn't an easy choice but radicality is in the DNA of this issue. So let's not think too straight and open yourself to a new soundsation.**"**
+_ImaCrea_: **"**20 minutes. Yes it wasn't an easy choice but radicality is in the DNA of this issue. So let's not think too straight and feel a new soundsation.**"**
 
 
 <p id="outroduction">That’s it for today, love you folks! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution and a big kiss to our great patrons for their support. Have a good trip, and don't forget to vote if you're French!</p>
