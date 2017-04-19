@@ -30,16 +30,12 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 ---
-<p id="introduction">introduction...</p>
+<p id="introduction">This morning, Nathan Fakes, who's known for his innovative and smoothly provocative work in electronic music, is our guide. Embark on a trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
-# title paragraph
+# Designed for relaxation and inspiration
+Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dancing under the sun of Spring. 
 
-eoeozokez
-zeze
-ze
-
-
-# **Nathan Fakes's Selection**
+# **Nathan Fakes' Selection**
 
 ## HOME - Resonance
 _Nathan Fake_: **"**This track is like audio valium, especially when heard on a sunday morning.**"**
