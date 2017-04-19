@@ -66,4 +66,4 @@ _ImaCrea_: **"**Definition of "aftermath": _A consequence, especially of a disas
 _ImaCrea_: **"**20 minutes. Yes it wasn't an easy choice but radicality is in the DNA of this issue. So let's not think too straight and open to a new _soundsation_.**"**
 
 
-<p id="outroduction">That’s it for today, love you folks! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution and our great patrons for their support. Have a good trip, and don't forget to vote if you're French!</p>
+<p id="outroduction">That’s it for today, love you folks! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution and a big kiss to our great patrons for their support. Have a good trip, and don't forget to vote if you're French!</p>
