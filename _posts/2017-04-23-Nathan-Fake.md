@@ -38,7 +38,7 @@ Nathan's selection is subtle and smooth like the carress of the wind which comes
 
 Enters Kendrick Lamar and his "Damn" album just released a few days ago, unavoidable and extremely great... it was hard to resist the temptation! But it is not our mission here, Kendrick doesn't need MailTape to be known anyway.
 
-We're here to push boundaries, to break walls and find the very rare music gems which we humbly believe constitute something totally new. A music discovery which has this particular capacity of being truly inspiring, and that demandung in the first place to be unknown. Of course music is very personal. Sometimes we hit, and sometimes we're out, but isn't it what Life is about? In the end, it's about doing our very own best, being 100% sincere and the rest will take care of itself. Peace.
+We're here to push boundaries, to break walls and find the very rare music gems which we humbly believe constitute something totally new. A music discovery which has this particular capacity of being truly inspiring, and that demanding in the first place to be unknown. Of course music is very personal. Sometimes we hit, and sometimes we're out, but isn't it what Life is about? In the end, it's about doing our very own best, being 100% sincere and the rest will take care of itself. Peace.
 
 # **Nathan Fake's Selection**
 
