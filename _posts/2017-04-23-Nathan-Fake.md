@@ -58,7 +58,7 @@ _Nathan Fake_: **"**A bit obvious but a total fave of mine, one of the warmest a
 _ImaCrea_: **"**I wanted to find a track in his new album which sounded radical to me. A sound which doesn't represent what Nathan has already done. Also I was looking for one which could hold to the same standards as the legendary xtal by Aphex Twin. Here it is.**"**
 
 ## Charlotte Adigéry - Le Froid
-_ImaCrea_: **"**Surprise of the week, instant crush. Supported by the dear Dewaele brothers, also known as 2ManyDjs/Soulwax, prepare to hear a lot about Charlotte. I recommend her EP released last week.**"**
+_ImaCrea_: **"**Surprise of the week, instant crush. Supported by the dear Dewaele brothers, also known as 2ManyDjs/Soulwax, prepare to hear a lot about Charlotte. I recommend her debut EP.**"**
 
 ## Clark - Aftermath
 _ImaCrea_: **"**Definition of "aftermath": _A consequence, especially of a disaster or misfortune: famine as an aftermath of drought._**"**
