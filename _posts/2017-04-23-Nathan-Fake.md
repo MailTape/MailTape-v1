@@ -30,7 +30,7 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 ---
-<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/)! He just released a new album with our dear folks from Borders Community. Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
+<p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Border Community](http://www.bordercommunity.com/). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
 # Designed for relaxation and inspiration
 Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dancing under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
@@ -39,7 +39,7 @@ Enters Kendrick Lamar and his "Damn" album just released a few days ago, unavoid
 
 We're here to push boundaries, to break walls and find the very rare music gem which we humbly believe constitute something totally new. A music discovery which has this particular capacity of being truly inspiring, and that demand in the first place to be unknown. Of course music is very personal and sometimes we hit, sometimes we're out, but isn't it what Life is about? In the end, it's about doing our very own best and be 100% sincere and the rest will take care of itself. Peace.
 
-# **Nathan Fakes' Selection**
+# **Nathan Fake's Selection**
 
 ## HOME - Resonance
 _Nathan Fake_: **"**This track is like audio valium, especially when heard on a sunday morning.**"**
@@ -55,4 +55,4 @@ _Nathan Fake_: **"**A bit obvious but a total fave of mine, one of the warmest a
 
 ....
 
-<p id="outroduction">That’s it for today! Thanks to [Nathan Fake](https://www.facebook.com/nthnfk/) for his participation, it's been a great honor to collaborate with him. Have an inspiring Sunday!</p>
+<p id="outroduction">That’s it for today! Thanks to [Nathan Fake](http://www.nathanfake.com/) for his beautiful contribution. Have a good trip, and don't forget to vote if you're French!</p>
