@@ -30,7 +30,7 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 writer: ImaCrea
-guestPic: guestPic257.jpg
+guestPic: guestPic257.png
 episode_URL: 'https://mailta.pe/257/nathan-fake/'
 fbPic: fbPic257.png
 musiColor: musiColor257.png
@@ -44,7 +44,8 @@ description: >-
 <p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
 # Designed for relaxation and inspiration
-Nathan's selection is subtle and smooth like the carress of the wind which comes and make the leaves in the forest gently dance under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
+Nathan's selection is subtle and smooth like the carress of the wind which com![guestPic257.png]({{site.baseurl}}/img/guestPic257.png)
+es and make the leaves in the forest gently dance under the sun of Spring. It demanded a few hours digging among hundreds of tracks to decide which ones could complete such humble beginnings.
 
 Enters Kendrick Lamar and his "Damn" album just released a few days ago, unavoidable and extremely great... it was hard to resist the temptation! But it is not our mission here, Kendrick doesn't need MailTape to be known anyway.
 
