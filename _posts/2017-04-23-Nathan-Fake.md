@@ -30,6 +30,16 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 writer: ImaCrea
+guestPic: guestPic257.jpg
+episode_URL: 'https://mailta.pe/257/nathan-fake/'
+fbPic: fbPic257.png
+musiColor: musiColor257.png
+description: >-
+  This morning let's welcome Nathan Fake. He just released a new album with our
+  dear folks from Ninja Tune. Known for his innovative and smoothly provocative
+  work in electronic music, be prepared to embark on a mesmerizing trip towards
+  clarity and peace of mind, two things well needed... especially today in
+  France.
 ---
 <p id="introduction">This morning let's welcome [Nathan Fake](http://www.nathanfake.com/). He just released a new album with our dear folks from [Ninja Tune](https://ninjatune.net). Known for his innovative and smoothly provocative work in electronic music, be prepared to embark on a mesmerizing trip towards clarity and peace of mind, two things well needed... especially today in France.</p>
 
