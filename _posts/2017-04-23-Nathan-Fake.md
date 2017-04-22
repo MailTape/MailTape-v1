@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: ImaCrea
-illustrator: Anais Caura
+illustrator: Pierre-Julien Fieux
 category: '257'
 guest_name: Nathan Fake
 track1_link: 'https://soundcloud.com/home-2001/resonance'
