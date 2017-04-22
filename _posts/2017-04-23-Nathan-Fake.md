@@ -30,7 +30,7 @@ guest_color: trippy
 track6_color: trippy
 track7_color: dreamy
 writer: ImaCrea
-guestPic: guestPic257.png
+guestPic: guestPic257.jpg
 episode_URL: 'https://mailta.pe/257/nathan-fake/'
 fbPic: fbPic257.png
 musiColor: musiColor257.png
