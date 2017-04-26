@@ -501,11 +501,10 @@ $("#mobile-signup-form").submit(function(e){
 		var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 6);
 
 		for (var i = 0; i < 6; i++) {
-			$("#relatedEpisode_a_"+(i+1)).attr("data-stretch","//images.weserv.nl/?url=mailta.pe"+relatedEpisodes_selection[i][3]+"&w=400&t=fit&il");
+			$("#relatedEpisode_a_"+(i+1)).attr("data-stretch","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][3]+"&w=400&t=fit&il");
 			$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
-			//$("#relatedEpisode_span_"+(i+1)).html(relatedEpisodes_selection[i][0]+"&nbsp;");
 			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
-			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
+			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
 		}
 
 
