@@ -9,6 +9,8 @@ track4_link: 'https://soundcloud.com/alexander-hawkins-music/know'
 track5_link: 'https://soundcloud.com/abxyz/expression-1-by-muhal-richard-abrams'
 track6_link: 'https://soundcloud.com/alarm-will-sound/particularly-competitive'
 track7_link: 'https://soundcloud.com/howlarts/wire-tones-beyond-injustice'
+author: Sanjay Mistry
+category: '258'
 ---
 ## A New Post
 
