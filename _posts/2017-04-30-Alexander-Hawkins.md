@@ -11,6 +11,23 @@ track6_link: 'https://soundcloud.com/alarm-will-sound/particularly-competitive'
 track7_link: 'https://soundcloud.com/howlarts/wire-tones-beyond-injustice'
 author: Sanjay Mistry
 category: '258'
+guest_name: Alexander Hawkins
+guest_color: dreamy
+track1_title: Harriet Tubman - Ritual Rubbin
+track1_color: vibrant
+track2_title: Elaine Mitchener - Love song ('how many ways to say')
+track2_color: trippy
+track3_title: 'Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23'
+track3_color: dreamy
+track4_title: 'Alexander Hawkins - [K]now'
+track4_color: trippy
+track5_title: Muhal Richard Abrams - Expression 1
+track5_color: dreamy
+track6_title: Alarm Will Sound - Particularly Competitive
+track6_color: vibrant
+track7_title: Stefan Christoff & David Parker - Beyond Injustice
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 ---
 ## A New Post
 
