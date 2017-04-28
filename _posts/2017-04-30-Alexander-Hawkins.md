@@ -3,8 +3,8 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/brmuse/02-ritual-rubbin'
-track2_link: 'https://soundcloud.com/elaine_mitchener/2-03-love-song-how-many-ways'
-track3_link: 'https://soundcloud.com/mauriziopollini/maurizio-pollini-ballade-no-1'
+track2_link: 'https://soundcloud.com/elaine_mitchener/06-watching-the-rituals'
+track3_link: 'https://soundcloud.com/mauriziopollini/maurizio-pollini-nocturne-in-d'
 track4_link: 'https://soundcloud.com/alexander-hawkins-music/know'
 track5_link: 'https://soundcloud.com/abxyz/expression-1-by-muhal-richard-abrams'
 track6_link: 'https://soundcloud.com/alarm-will-sound/particularly-competitive'
