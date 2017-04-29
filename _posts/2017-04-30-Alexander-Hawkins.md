@@ -31,7 +31,7 @@ episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 guestPic: guestPic258.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
-<p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
+<p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the A[lexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
 <p>Sit back, enjoy and hope the weather warms along with these selections.</p>
 
 
@@ -52,7 +52,7 @@ _Alexander Hawkins_: **"**[Pollini](https://en.wikipedia.org/wiki/Maurizio_Polli
 # Mailtape's selection
 
 + ## Alexander Hawkins - [K]now
-_Sanjay_: **"**I first saw Fond of Tigers at 1067 in Vancouver back in 2008. Three albums and eight years later, they returned in late 2016 with [Uninhabit](https://fondoftigers.bandcamp.com/album/uninhabit). Lots more syncopated drums, contrapuntal melodies and carefree abandon...while keeping the groove firmly in the pocket. Vitamin Meathawk explored new territory for the group, on which Toronto's [Sandro Perri](http://www.sandroperri.com/) adds his brand of gentle, husky vocals.**"** 
+_Sanjay_: **"**Alexander is becoming pretty prolific at the moment. As well as a recent release with [Chicago/London Underground](http://cuneiformrecords.com/bandshtml/chicagolondonunderground.html) on Cuneiform Records, this track is from his forthcoming ensemble album to be released in June. Joyously invoking some great improvisors of the past in Thelonious Monk, Elmo Hope and Steve Lacy, this is a beautiful meandering piece with delicate cymbal-edge sounds, glistening piano chords and bass clarinet sighs whirling around some spoken word.**"** 
 
 + ## Muhal Richard Abrams - Expression 1
 _Sanjay_: **"**I'm a newcomer to composer Martin Arnold and much of [Arraymusic](http://www.arraymusic.com/)'s output. I love the strange friction between the open, plangent quality of the singing here, and the weblike instrumental work from Callum McSherry, the Quatuor Bozzini quartet and University of Bristol New Music Ensemble.**"**
