@@ -15,7 +15,7 @@ guest_name: Alexander Hawkins
 guest_color: dreamy
 track1_title: Harriet Tubman - Ritual Rubbin
 track1_color: vibrant
-track2_title: Elaine Mitchener - Love song ('how many ways to say')
+track2_title: Elaine Mitchener - Watching the Rituals
 track2_color: trippy
 track3_title: 'Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23'
 track3_color: dreamy
@@ -48,7 +48,7 @@ description: >-
 + ## Harriet Tubman - Ritual Rubbin
 _Alexander Hawkins_: **"**I'm a big fan of [Harriet Tubman](http://www.sunnysiderecords.com/artist.php?id=418). Brandon Ross's rhythmic concept is amazing to me. Like Bill Frisell or Otto Fischer, his lines have an incredible elasticity, whilst at the same time remaining completely in the pocket; similarly, they can have a meandering quality, at the same time as seeming completely inevitable. JT Lewis' drumming is also fantastic: pared down to the essentials of the groove, and somehow simultaneously heavy and dancing. I also love how the two DJs add to the texture here, and the great sample which drops at the end of this track.**"**
 
-+ ## Elaine Mitchener - Love song ('how many way to say')
++ ## Elaine Mitchener - Watching the Rituals
 _Alexander Hawkins_: **"**I'm very proud to be a collaborator of [Elaine Mitchener](http://www.elainemitchener.com/). Yes, she has an astonishing technical command in a wide variety of idioms (here, there are very clear elements of both opera and R&B, for example); but what I think is most amazing about her artistry is her ability to synthesise her influences and facility at all times into something thoroughly compelling for the listener. She has particular gift in her ability to take an audience with her in even the most extreme and avant-garde settings. This short track is a nice introduction in many ways, showing both her awareness of the communicative power of a conventional melody, as well the expressive potential of the outer limits of the voice.**"**
 
 + ## Maurizio Pollini - Chopin: Ballade No. 1 in G Minor, Op. 23
