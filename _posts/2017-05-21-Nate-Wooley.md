@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '261'
 author: Sanjay Mistry
 guest_color: trippy
