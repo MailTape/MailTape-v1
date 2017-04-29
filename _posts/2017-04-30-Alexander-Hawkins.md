@@ -61,7 +61,7 @@ _Sanjay_: **"**Sometimes sedate and grand, intermittently explosive, and unargua
 _Sanjay_: **"**I was hooked on [Alarm Will Sound](http://www.alarmwillsound.com/) after hearing their acoustic arrangements of Aphex Twin's music on their bleeding-edge 2005 album, [Acoustica](https://alarmwillsound.bandcamp.com/album/acoustica). They are a 20-member chamber orchestra whose name has become synonymous with new and emerging contemporary classical work. Whether the music is playful or spiteful, dramatic or lighthearted, Alarm Will Sound always seem to nail the performance.**"**
 
 + ## Stefan Christoff & David Parker - Beyond Injustice
-_Sanjay_: **"**I follow a lot of stuff from this corner of the world. Montréal collectives Howl Arts, Free City Radio, Casa Del Popolo, La Salla Rossa, La Vitrola (and doubtless many more writers, musicians and artists) combine to facilitate a politically engaged DIY arts scene. Contrary to the swooning international media, Canada is not immune to, but complicit in, the ravages of neoliberalism.**"**
+_Sanjay_: **"**I follow a lot of stuff from this corner of the world. Montréal collectives Howl Arts, Free City Radio, Casa Del Popolo, La Sala Rossa, La Vitrola (and doubtless many more writers, musicians and artists) combine to facilitate a politically engaged DIY arts scene. Contrary to the swooning international media, Canada is not immune to, but complicit in, the ravages of neoliberalism.**"**
 
 
 <p id="outroduction">That’s it for today! Thanks to [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) for his participation and [Camille Célestin](http://www.slipontherock.com/) for the illustration. Have a wonderful Sunday!</p>
