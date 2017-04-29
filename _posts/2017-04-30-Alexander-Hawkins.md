@@ -30,7 +30,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 guestPic: guestPic258.jpg
 ---
-<p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
+<p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
 <p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the A[lexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
 <p>Sit back, enjoy and bask in the apricity of these selections.</p>
 
@@ -61,7 +61,7 @@ _Sanjay_: **"**Sometimes sedate and grand, intermittently explosive, and unargua
 _Sanjay_: **"**I was hooked on [Alarm Will Sound](http://www.alarmwillsound.com/) after hearing their acoustic arrangements of Aphex Twin's music on their bleeding-edge 2005 album, [Acoustica](https://alarmwillsound.bandcamp.com/album/acoustica). They are a 20-member chamber orchestra whose name has become synonymous with new and emerging contemporary classical work. Whether the music is playful or spiteful, dramatic or lighthearted, Alarm Will Sound always seem to nail the performance.**"**
 
 + ## Stefan Christoff & David Parker - Beyond Injustice
-_Sanjay_: **"**Ending with yet more hope. Most fans of [Esmerine](http://www.esmerine.com/) will be acquainted with the characteristically morose, sparse and tranquil violin sounds that give way to the rumble and swell of drums and bass and explosive guitar peaks. But it doesn’t make it any less enjoyable here.**"**
+_Sanjay_: **"**I find so much inspiration from this corner of the world. Montréal collectives Howl Arts, Free City Radio, Casa Del Popolo, La Salla Rossa, La Vitrola (and doubtless many more) combine to facilitate a wonderful DIY arts scene. **"**
 
 
 <p id="outroduction">That’s it for today! Thanks to [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) for his participation and [Camille Célestin](http://www.slipontherock.com/) for the illustration. Have a wonderful Sunday!</p>
