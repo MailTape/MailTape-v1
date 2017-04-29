@@ -27,6 +27,7 @@ track6_title: Tom Arthurs - Chats with the Real McCoy
 track6_color: rough
 track7_title: Eve Risser's White Desert Orchestra - Fumeroles
 track7_color: bliss
+episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
 ---
 ## A New Post
 
