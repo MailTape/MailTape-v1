@@ -31,6 +31,7 @@ episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 guestPic: guestPic258.jpg
 fbPic: fbPic258.jpg
 musiColor: musiColor258.png
+illustrator: Camille Célestin
 ---
 <p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
 <p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and his profound fascination with composition and structure.</p>
