@@ -31,7 +31,7 @@ episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 guestPic: guestPic258.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html), who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
-<p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
+<p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the [Alexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and his profound fascination with composition and structure.</p>
 <p>Sit back, enjoy and bask in the apricity of these selections.</p>
 
 
@@ -52,7 +52,7 @@ _Alexander Hawkins_: **"**[Pollini](https://en.wikipedia.org/wiki/Maurizio_Polli
 # Mailtape's selection
 
 + ## Alexander Hawkins - [K]now
-_Sanjay_: **"**Alexander is becoming pretty prolific at the moment. As well as a recent release with [Chicago/London Underground](http://cuneiformrecords.com/bandshtml/chicagolondonunderground.html) on Cuneiform Records, this track is from his forthcoming ensemble album to be released in June. Joyously invoking some great improvisors of the past in Thelonious Monk, Elmo Hope and Steve Lacy, this is a beautiful meandering piece with delicate cymbal-edge sounds, glistening piano chords and bass clarinet sighs whirling around some spoken word.**"** 
+_Sanjay_: **"**Alexander is pretty prolific at the moment. As well as a recent release with [Chicago/London Underground](http://cuneiformrecords.com/bandshtml/chicagolondonunderground.html) on Cuneiform Records, this track is from his forthcoming ensemble album to be released in June. Joyously reminiscent of some of the great improvisors of the past – Thelonious Monk, Elmo Hope and Steve Lacy – this is a beautiful meandering piece with delicate cymbal-edge sounds, glistening piano chords and bass clarinet sighs whirling around some spoken word.**"** 
 
 + ## Muhal Richard Abrams - Expression 1
 _Sanjay_: **"**Sometimes sedate and grand, intermittently explosive, and unarguably brilliant. Muhal's arrangements created a new kind of music that pushed free jazz to the borders of classical music and laid the foundations for the [Association for the Advancement of Creative Musicians (AACM)](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Creative_Musicians), which he co-founded with Jodie Christian, Steve McCall and Phil Cohran. I could listen to him all day.**"**
@@ -61,7 +61,7 @@ _Sanjay_: **"**Sometimes sedate and grand, intermittently explosive, and unargua
 _Sanjay_: **"**I was hooked on [Alarm Will Sound](http://www.alarmwillsound.com/) after hearing their acoustic arrangements of Aphex Twin's music on their bleeding-edge 2005 album, [Acoustica](https://alarmwillsound.bandcamp.com/album/acoustica). They are a 20-member chamber orchestra whose name has become synonymous with new and emerging contemporary classical work. Whether the music is playful or spiteful, dramatic or lighthearted, Alarm Will Sound always seem to nail the performance.**"**
 
 + ## Stefan Christoff & David Parker - Beyond Injustice
-_Sanjay_: **"**I find so much inspiration from this corner of the world. Montréal collectives Howl Arts, Free City Radio, Casa Del Popolo, La Salla Rossa, La Vitrola (and doubtless many more) combine to facilitate a wonderful DIY arts scene. **"**
+_Sanjay_: **"**I follow of lot of stuff from this corner of the world. Montréal collectives Howl Arts, Free City Radio, Casa Del Popolo, La Salla Rossa, La Vitrola (and doubtless many more writers, musicians and artists) combine to facilitate a politically engaged DIY arts scene. Contrary to the swooning international media, Canada is not immune to, but complicit in, the ravages of neoliberalism.**"**
 
 
 <p id="outroduction">That’s it for today! Thanks to [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) for his participation and [Camille Célestin](http://www.slipontherock.com/) for the illustration. Have a wonderful Sunday!</p>
