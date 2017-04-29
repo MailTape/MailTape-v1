@@ -30,10 +30,8 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 ---
 <p id="introduction">This morning, we are thrilled to welcome pianist, organist, composer and bandleader, [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) who is ‘unlike anything else in modern creative music’ (Ni Kantu).</p>
-<p>Operating in myriad creative contexts (including Convergence Quartet, Decoy and 5 Blokes), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
-<p>A lot of the music I tend to listen to in the morning blends nuanced melody with a mysterious, porous, and textured sense of space. Either that, or it’s 1970’s Country from Ray Price, Mel Tillis, or—especially—Kenny Rogers’ second solo album (1976), which is understated country gold!</p>
-
-<p>Here are a few examples of a kind of slow morning transition out of sleep:</p>
+<p>Operating in myriad creative contexts (including [Convergence Quartet](http://www.alexanderhawkinsmusic.com/the-convergence-quartet.html), [Decoy](http://www.alexanderhawkinsmusic.com/decoy.html) and the A[lexander Hawkins Ensemble](http://www.alexanderhawkinsmusic.com/alexander-hawkins-ensemble.html)), his own highly distinctive soundworld is forged through the search to reconcile both his love of free improvisation and profound fascination with composition and structure.</p>
+<p>Sit back, enjoy and hope the weather warms along with these selections.</p>
 
 
 
@@ -66,4 +64,3 @@ _Sanjay_: **"**Ending with yet more hope. Most fans of [Esmerine](http://www.esm
 
 
 <p id="outroduction">That’s it for today! Thanks to [Alexander Hawkins](http://www.alexanderhawkinsmusic.com/index.html) for his participation and [Camille Célestin](http://www.slipontherock.com/) for the illustration. Have a wonderful Sunday!</p>
-
