@@ -32,3 +32,4 @@ then this for memories of the weekend, but presented in a more palatable manner 
 ## Dream Lovers - For Belgian Friends
 and finally for memories of summers past at MIDI festival in Hyeres, a cover of the classic Durutti Column track. A release by a boutique label from Manchester who also released "Conditional Love" a few years ago on one of the compilation E.Ps.
 
+<p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
