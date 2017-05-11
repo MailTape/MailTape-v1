@@ -2,6 +2,15 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Dimitri
+illustrator: Camille Célestin
+writer: PS KY
+category: '260'
+guest_name: Ménage à Trois
+track1_link: >-
+  https://soundcloud.com/ocean-recordings/ocean-edits-this-old-heart-of-mine-rod-stewart
+track2_link: 'https://soundcloud.com/june/lost-area-dj-sprinkles-empty'
+track3_link: 'https://soundcloud.com/aficionado-recordings/dream-lovers-for-belgian-friends'
 ---
 On a Sunday morning I would like to wake up with this track first;
 https://soundcloud.com/ocean-recordings/ocean-edits-this-old-heart-of-mine-rod-stewart
