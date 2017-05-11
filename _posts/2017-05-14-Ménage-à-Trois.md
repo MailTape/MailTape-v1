@@ -12,7 +12,8 @@ track1_link: >-
 track2_link: 'https://soundcloud.com/june/lost-area-dj-sprinkles-empty'
 track3_link: 'https://soundcloud.com/aficionado-recordings/dream-lovers-for-belgian-friends'
 track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
-track2_title: Dream Lovers - For Belgian Friends
+track3_title: Dream Lovers - For Belgian Friends
+track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
 ---
 On a Sunday morning I would like to wake up with this track first;
 ocean-edits-this-old-heart-of-mine-rod-stewart
