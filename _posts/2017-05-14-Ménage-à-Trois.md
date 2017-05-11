@@ -15,6 +15,7 @@ track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
 track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
+track4_title: Ménage à Trois - All Night Long
 ---
 On a Sunday morning I would like to wake up with this track first;
 ocean-edits-this-old-heart-of-mine-rod-stewart
