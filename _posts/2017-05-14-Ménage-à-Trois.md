@@ -23,13 +23,12 @@ On a Sunday morning I would like to wake up with this track first;
 
 ## Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 
-for a mellow start to wake up slowly to and to soothe any hangover from the night before, let the soothing tines wash over your tired brain
+For a mellow start to wake up slowly to and to soothe any hangover from the night before, let the soothing tines wash over your tired brain
 
 ## June - Lost Area (Dj Sprinkles' Empty Dancefoor)
-
 then this for memories of the weekend, but presented in a more palatable manner for a sunday morning
 "you made it" positive rammifications of the empty dancefloor
 
+## Dream Lovers - For Belgian Friends
 and finally for memories of summers past at MIDI festival in Hyeres, a cover of the classic Durutti Column track. A release by a boutique label from Manchester who also released "Conditional Love" a few years ago on one of the compilation E.Ps.
 
-## Dream Lovers - For Belgian Friends
