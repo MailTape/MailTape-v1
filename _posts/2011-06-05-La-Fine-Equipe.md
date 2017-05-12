@@ -9,7 +9,7 @@ guest_name: La Fine Équipe
 guestPic: guestPic6.jpg
 track1_link: "https://mailtapetracks.s3.amazonaws.com/6/track1.mp3"
 track1_title: "Stevie Wonder - Living for the Ciry"
-track2_link: "https://soundcloud.com/skug-1/amon-tobin-slowly"
+track2_link: "https://mailtapetracks.s3.amazonaws.com/6/track2.mp3"
 track2_title: "Amon Tobin - Slowly"
 track4_link: "https://soundcloud.com/philip-lawson-1/cavatina-stanley-myers-arr"
 track3_title: "Madvillain - Figaro"
