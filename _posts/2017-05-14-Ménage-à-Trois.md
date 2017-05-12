@@ -18,6 +18,7 @@ track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
 track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic260.jpg
 ---
+![guestPic260.jpg]({{site.baseurl}}/img/guestPic260.jpg)
 <p id="introduction"></p>
 
 # Ménage à Trois's selection
