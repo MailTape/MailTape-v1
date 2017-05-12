@@ -45,10 +45,10 @@ and finally for memories of summers past at MIDI festival in Hyeres, a cover of 
 ## Ménage à Trois - All Night Long
 _Dimitri_: **"** **"**
 
-## Track 5
+## Alex Kasvikis — Meet Me in the City
 _Dimitri_: **"** **"**
 
-## Track 6
+## Dave Depper - Do You Want Love?
 _Dimitri_: **"** **"**
 
 ## Track 7
