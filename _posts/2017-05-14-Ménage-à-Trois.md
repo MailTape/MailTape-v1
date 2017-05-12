@@ -18,6 +18,10 @@ track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
 track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic260.jpg
 episode_URL: 'https://mailta.pe/260/Ménage-à-Trois/'
+track5_title: Alex Kasvikis — Meet Me in the City
+track5_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
+track6_title: Dave Depper - Do You Want Love?
+track6_link: 'https://soundcloud.com/tenderlovingempire/dave-depper-do-you-want-love'
 ---
 <p id="introduction"></p>
 
