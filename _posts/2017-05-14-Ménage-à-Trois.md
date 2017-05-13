@@ -27,7 +27,7 @@ track7_link: 'https://soundcloud.com/tenderlovingempire/dave-depper-do-you-want-
 ---
 <p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, “Ménage à trois” will tickle you with their harmonious selection and singular sound.</p>
 
-# Ménage à Trois's selection
+# Ménage à Trois'selection
 
 On a Sunday morning I would like to wake up with this track first;
 
