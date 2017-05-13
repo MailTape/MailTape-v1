@@ -23,8 +23,7 @@ track5_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
 track6_title: Dave Depper - Do You Want Love?
 track6_link: 'https://soundcloud.com/tenderlovingempire/dave-depper-do-you-want-love'
 ---
-<p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, “![guestPic2601.jpg]({{site.baseurl}}/img/guestPic2601.jpg)
-Ménage à trois” will tickle you with their harmonious selection and singular sound.</p>
+<p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, “Ménage à trois” will tickle you with their harmonious selection and singular sound.</p>
 
 # Ménage à Trois's selection
 
