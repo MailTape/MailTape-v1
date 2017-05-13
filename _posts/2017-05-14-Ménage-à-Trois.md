@@ -57,4 +57,4 @@ _Dimitri_: **"****"**
 _Dimitri_: **"**Yes, I do. And you ?**"**
 
 
-<p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
+<p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
