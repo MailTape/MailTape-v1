@@ -21,9 +21,14 @@ episode_URL: 'https://mailta.pe/260/Ménage-à-Trois/'
 track5_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
 track6_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
 track7_title: Dave Depper - Do You Want Love?
-track6_title: Alex Kasvikis — Meet Me in the City
+track6_title: Blue Of Noon — Guidance
 track5_title: Babeheaven - Heaven
 track7_link: 'https://soundcloud.com/tenderlovingempire/dave-depper-do-you-want-love'
+track1_color: dreamy
+track2_color: dreamy
+track3_color: dreamy
+track4_color: dreamy
+track5_color: bliss
 ---
 <p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, “Ménage à trois” will tickle you with their harmonious selection and singular sound.</p>
 
