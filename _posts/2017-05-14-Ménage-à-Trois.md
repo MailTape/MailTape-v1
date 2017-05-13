@@ -54,7 +54,7 @@ _Dimitri_: **"**They make you a promise and they've fulfill it. Very chill and r
 _Dimitri_: **"****"**
 
 ## Dave Depper - Do You Want Love?
-_Dimitri_: **"**Yes, I do.**"**
+_Dimitri_: **"**Yes, I do. And you ?**"**
 
 
 <p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
