@@ -32,6 +32,7 @@ track6_color: bliss
 track7_color: trippy
 guest_color: dreamy
 track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
+fbPic: fbPic260.JPG
 ---
 <p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, [Ménage à trois](https://www.facebook.com/threesistersinlove/) will tickle you with their harmonious selection and singular sound.</p>
 
@@ -62,6 +63,5 @@ _Dimitri_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed 
 
 ## Dave Depper - Do You Want Love?
 _Dimitri_: **"**Yes, I do. And you ?**"**
-
 
 <p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
