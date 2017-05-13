@@ -47,14 +47,14 @@ and finally for memories of summers past at MIDI festival in Hyeres, a cover of 
 ## Ménage à Trois - All Night Long
 _Dimitri_: **"** **"**
 
-## Alex Kasvikis — Meet Me in the City
+## Babeheaven — Heaven
 _Dimitri_: **"** **"**
+
+## Blue Of Noon — Guidance
+_Dimitri_: **"****"**
 
 ## Dave Depper - Do You Want Love?
-_Dimitri_: **"** **"**
-
-## Track 7
-_Dimitri_: **"** **"**
+_Dimitri_: **"**Yes, I do.**"**
 
 
 <p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her magic writings.</p>
