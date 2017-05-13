@@ -51,7 +51,7 @@ _Dimitri_: **"** **"**
 _Dimitri_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
 
 ## Blue Of Noon — Guidance
-_Dimitri_: **"****"**
+_Dimitri_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets glimpse of beautiful summer prospects.**"**
 
 ## Dave Depper - Do You Want Love?
 _Dimitri_: **"**Yes, I do. And you ?**"**
