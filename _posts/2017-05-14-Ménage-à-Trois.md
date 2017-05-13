@@ -67,6 +67,6 @@ _Dimitri_: **"**They make you a promise and they've fulfill it. Very chill and r
 _Dimitri_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets you catch a glimpse of beautiful summer prospects.**"**
 
 ## Dave Depper - Do You Want Love?
-_Dimitri_: **"**Yes, I do. And you ?**"**
+_Dimitri_: **"**Yes, I do.**"**
 
 <p id="outroduction">That's all folks, thanks to [Ménage à Trois](https://mnagetrois.bandcamp.com/) for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
