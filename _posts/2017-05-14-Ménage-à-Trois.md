@@ -69,4 +69,4 @@ _Dimitri_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed 
 ## Dave Depper - Do You Want Love?
 _Dimitri_: **"**Yes, I do. And you ?**"**
 
-<p id="outroduction">That's all folks, thanks to Ménage à Trois for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
+<p id="outroduction">That's all folks, thanks to [Ménage à Trois](https://mnagetrois.bandcamp.com/) for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
