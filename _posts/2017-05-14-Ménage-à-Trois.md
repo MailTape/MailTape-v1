@@ -14,12 +14,11 @@ track3_link: 'https://soundcloud.com/aficionado-recordings/dream-lovers-for-belg
 track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
-track4_link: 'https://soundcloud.com/babeheaven/heaven'
 track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic2601.jpg
 episode_URL: 'https://mailta.pe/260/Ménage-à-Trois/'
-track5_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
-track6_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
+track5_link: 'https://soundcloud.com/babeheaven/heaven'
+track6_link: 'https://soundcloud.com/blueofnoon/guidance'
 track7_title: Dave Depper - Do You Want Love?
 track6_title: Blue Of Noon — Guidance
 track5_title: Babeheaven - Heaven
