@@ -39,7 +39,7 @@ description: >-
   Trois  will tickle you with their harmonious selection and singular sound.
 musiColor: musiColor260.jpg
 ---
-<p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, Ménage à trois will tickle you with their harmonious selection and singular sound.</p>
+<p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, [Ménage à Trois](https://www.facebook.com/threesistersinlove/) will tickle you with their harmonious selection and singular sound.</p>
 
 # Ménage à Trois' selection
 
