@@ -31,6 +31,7 @@ track5_color: bliss
 track6_color: bliss
 track7_color: trippy
 guest_color: dreamy
+track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
 ---
 <p id="introduction">Bright and delightful morning to the masses and the listeners, to the frequency lovers and addicted souls of the music empire. Today, “Ménage à trois” will tickle you with their harmonious selection and singular sound.</p>
 
