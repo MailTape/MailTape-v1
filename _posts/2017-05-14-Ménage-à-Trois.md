@@ -52,8 +52,7 @@ _Ménage à Trois_: **"**and finally for memories of summers past at MIDI festiv
 # MailTape's selection
 
 ## Ménage à Trois - All Night Long
-_Dimitri_: **"** This song will make you feel nostalgic like if it was your![fbPic260.JPG]({{site.baseurl}}/img/fbPic260.JPG)
- last night of your first holiday romance.**"**
+_Dimitri_: **"** This song will make you feel nostalgic like if it was your last night of your first holiday romance.**"**
 
 ## Babeheaven — Heaven
 _Dimitri_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
