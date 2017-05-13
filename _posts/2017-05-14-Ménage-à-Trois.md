@@ -5,7 +5,7 @@ published: true
 author: Dimitri
 illustrator: Camille Célestin
 writer: PS KY
-category: '2601'
+category: '260'
 guest_name: Ménage à Trois
 track1_link: >-
   https://soundcloud.com/ocean-recordings/ocean-edits-this-old-heart-of-mine-rod-stewart
@@ -16,7 +16,7 @@ track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
 track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
 track4_title: Ménage à Trois - All Night Long
-guestPic: guestPic260.jpg
+guestPic: guestPic2601.jpg
 episode_URL: 'https://mailta.pe/260/Ménage-à-Trois/'
 track5_title: Alex Kasvikis — Meet Me in the City
 track5_link: 'https://soundcloud.com/alexkasvikis/meet-me-in-the-city'
