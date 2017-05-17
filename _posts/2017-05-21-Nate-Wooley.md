@@ -29,16 +29,15 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
 guest_name: Nate Wooley
 ---
-<p id="introduction">This morning, we are really happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/). His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed against distorted extended techniques.</p>
-<p>However, this morning, Nate selects </p>
+<p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/) in this week's episode. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
+<p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.</p>
 
 # Nate Wooley's selection
 
 **"**I’m going with an all Gaburo Sunday. Maybe we could term it a Gabunday? I have been utterly fascinated to the point of devotion with [Kenneth Gaburo](https://en.wikipedia.org/wiki/Kenneth_Gaburo)’s compositions and writings for the past fifteen years and [Philip Blackburn](http://philipblackburn.com/), head of [Innova Recordings](https://www.innova.mu/) and a former student of Gaburo’s, recently made me aware of this large archive of under documented performances and interviews/lectures which has been my almost daily listening.**"**
 
 ## Kenneth Gaburo - TWO
-
-_Nate Wooley_: **"**I think of Sunday’s as generally being rainy days, most likely owing to my upbringing in the Pacific Northwest where heavy rain is the norm. It is a very comforting feeling for me to imagine grey skies and rain and this piece for soprano voice, flute, and bass moves slowly and in a monochromatic way that causes the same feeling.**"**
+_Nate Wooley_: **"**I think of Sundays as generally being rainy days, most likely owing to my upbringing in the Pacific Northwest where heavy rain is the norm. It is a very comforting feeling for me to imagine grey skies and rain and this piece for soprano voice, flute, and bass moves slowly and in a monochromatic way that causes the same feeling.**"**
 
 ## Kenneth Gaburo - Noyse
 _Nate Wooley_: **"**My very favorite piece of Gaburo's is his Maledetto – a 50 some odd minute meditation on the word screw. It is both inappropriate for the "lord's day" plus too long for this format, but I think "Noyse" is a nice substitute. It breaks apart the phonemes of speech in a way that is both mentally engaging and somehow soothing.**"**
