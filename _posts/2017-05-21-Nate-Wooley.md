@@ -29,35 +29,35 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
 guest_name: Nate Wooley
 ---
-<p id="introduction">This morning, we are really happy to welcome experimental trumpeter, Nate Wooley. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed against distorted extended techniques.</p>
+<p id="introduction">This morning, we are really happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/). His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed against distorted extended techniques.</p>
+<p>However, this morning, Nate selects </p>
 
 # Nate Wooley's selection
 
 **"**I’m going with an all Gaburo Sunday. Maybe we could term it a Gabunday? I have been utterly fascinated to the point of devotion with [Kenneth Gaburo](https://en.wikipedia.org/wiki/Kenneth_Gaburo)’s compositions and writings for the past fifteen years and [Philip Blackburn](http://philipblackburn.com/), head of [Innova Recordings](https://www.innova.mu/) and a former student of Gaburo’s, recently made me aware of this large archive of under documented performances and interviews/lectures which has been my almost daily listening.**"**
 
-## Rod Stewart - This Old Heart Of Mine (Ocean Edits)
+## Kenneth Gaburo - TWO
 
-_Ménage à Trois_: **"**For a mellow start to wake up slowly to and to soothe any hangover from the night before, let the soothing tines wash over your tired brain**"**
+_Nate Wooley_: **"**I think of Sunday’s as generally being rainy days, most likely owing to my upbringing in the Pacific Northwest where heavy rain is the norm. It is a very comforting feeling for me to imagine grey skies and rain and this piece for soprano voice, flute, and bass moves slowly and in a monochromatic way that causes the same feeling.**"**
 
-## June - Lost Area (Dj Sprinkles' Empty Dancefoor)
-_Ménage à Trois_: **"**then this for memories of the weekend, but presented in a more palatable manner for a sunday morning "you made it" positive rammifications of the empty dancefloor**"**
+## Kenneth Gaburo - Noyse
+_Nate Wooley_: **"**My very favorite piece of Gaburo's is his Maledetto – a 50 some odd minute meditation on the word screw. It is both inappropriate for the "lord's day" plus too long for this format, but I think "Noyse" is a nice substitute. It breaks apart the phonemes of speech in a way that is both mentally engaging and somehow soothing.**"**
 
-## Dream Lovers - For Belgian Friends
-_Ménage à Trois_: **"**and finally for memories of summers past at MIDI festival in Hyeres, a cover of the classic Durutti Column track. A release by a boutique label from Manchester who also released "Conditional Love" a few years ago on one of the compilation E.Ps.**"**
+## Kenneth Gaburo - Mouth-Piece
+_Nate Wooley_: **"**I don’t really take Sundays off which means it’s time to go to work. This recording of Mouth-Piece changed the way I look at everything on the trumpet, and so I’ll end with it as it may inspire me to wash out my coffee cup and begin practicing.**"**
 
 # MailTape's selection
 
-## Ménage à Trois - All Night Long
-_Dimitri_: **"** This song will make you feel nostalgic like if it was your last night of your first holiday romance.**"**
+## Nate Wooley 5tet - For Wee Folks
+_Sanjay_: **"** This song will make you feel nostalgic like if it was your last night of your first holiday romance.**"**
 
-## Babeheaven — Heaven
-_Dimitri_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
+## Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
+_Sanjay_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
 
-## Blue Of Noon — Guidance
-_Dimitri_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets you catch a glimpse of beautiful summer prospects.**"**
+## Tom Arthurs - Chats With The Real McCoy*
+_Sanjay_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets you catch a glimpse of beautiful summer prospects.**"**
 
-## Dave Depper - Do You Want Love?
-_Dimitri_: **"**Yes, I do.**"**
+## Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
+_Sanjay_: **"**Yes, I do.**"**
 
-<p id="outroduction">That's all folks, thanks to [Ménage à Trois](https://mnagetrois.bandcamp.com/) for their brillant selection. Thanks to [Célestin](http://www.slipontherock.com/) for the wonderful illustration and PS KY for her introduction.</p>
-
+<p id="outroduction">That's all folks! Thanks to [Nate Wooley](http://natewooley.com/) for his exciting selections, and to [William Girault](http://williamgirault.com/) for the beautiful illustration.</p>
