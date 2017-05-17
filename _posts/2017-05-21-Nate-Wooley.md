@@ -31,7 +31,7 @@ guest_name: Nate Wooley
 guestPic: guestPic261.jpg
 illustrator: William Girault
 ---
-<p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's episode. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
+<p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's issue. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
 <p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.</p>
 
 # Nate Wooley's selection
@@ -55,7 +55,7 @@ _Sanjay_: **"** This song will make you feel nostalgic like if it was your last 
 ## Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
 _Sanjay_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
 
-## Tom Arthurs - Chats With The Real McCoy*
+## Tom Arthurs - Chats With The Real McCoy
 _Sanjay_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets you catch a glimpse of beautiful summer prospects.**"**
 
 ## Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
