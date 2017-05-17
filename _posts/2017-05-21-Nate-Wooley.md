@@ -29,8 +29,9 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
 guest_name: Nate Wooley
 guestPic: guestPic261.jpg
+illustrator: William Girault
 ---
-<p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley],(http://natewooley.com/) in this week's episode. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
+<p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's episode. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
 <p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.</p>
 
 # Nate Wooley's selection
