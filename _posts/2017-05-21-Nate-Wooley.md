@@ -27,6 +27,7 @@ track6_color: rough
 track7_title: Kaja Draksler & Susana Santos Silva - Hymn to the Unknown
 track7_color: bliss
 episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
+guest_name: Nate Wooley
 ---
 ## A New Post
 
