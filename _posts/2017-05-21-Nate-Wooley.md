@@ -50,15 +50,15 @@ _Nate Wooley_: **"**I don’t really take Sundays off which means it’s time to
 # MailTape's selection
 
 ## Nate Wooley 5tet - For Wee Folks
-_Sanjay_: **"** This song will make you feel nostalgic like if it was your last night of your first holiday romance.**"**
+_Sanjay_: **"**Succinct and short, Nate's version is almost unrecognisable from Wynton Marsalis's original. He slows the melody down to bring it out of focus and lets the soloists emerge in more mysterious ways. [Harris Eisenstadt](http://www.harriseisenstadt.com/)'s drumming and [Elvin Opsvik](http://eivindopsvik.com/)'s strong pulse add an intensity, especially to [Matt Moran](http://mattmoran.com/bio.html)'s vibe work.**"**
 
 ## Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
-_Sanjay_: **"**They make you a promise and they've fulfill it. Very chill and relax, let this london based band guide you to the seven heaven. Do we want more in a sunday ? **"**
+_Sanjay_: **"**A jaunty break in the road with the arrival of this strong and swinging melody. Of course, a tune with either of these two players would not be complete if this sense was not dissipated for a brief turn in the road and free meander.**"**
 
-## Tom Arthurs - Chats With The Real McCoy
-_Sanjay_: **"**Guidance is a pleasant piece of dreamy surf-pop with an assumed melancholy that lets you catch a glimpse of beautiful summer prospects.**"**
+## Glue - Chats With The Real McCoy
+_Sanjay_: **"**Less is more here, but with substance and depth from this cool trio, Glue, with [Tom Arthurs](http://www.tomarthurs.co.uk/) on trumpet, [Miles Perkin](http://www.milesperkin.com/) on bass and [Yorgos Dimitriadis](https://yorgosdimitriadis.com/) on percussion. Even if there is no rhythm or harmonic development, the sounds move forward with little notes getting stretched and going beyond any pattern, but beautifully, full of surprises and relatively accessible.**"**
 
-## Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
-_Sanjay_: **"**Yes, I do.**"**
+## Susana Santos Silva & Kaja Draksler - Hymn To The Unknown
+_Sanjay_: **"**A dark and brooding piece to complete the issue. the eery trumpet tones are supported by deep rumbling in the piano’s interior, a piece that keeps evolving in tone and nature, with open spaces, small percussion by Draksler on the strings, evolving into lightness and quiet beauty.**"**
 
 <p id="outroduction">That's all folks! Thanks to [Nate Wooley](http://natewooley.com/) for his exciting selections, and to [William Girault](http://williamgirault.com/) for the beautiful illustration.</p>
