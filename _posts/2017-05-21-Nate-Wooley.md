@@ -22,7 +22,7 @@ track4_title: Nate Wooley 5tet - For Wee Folks
 track4_color: dreamy
 track5_title: Anthony Braxton & Taylor Ho Bynum - All Roads Lead To Middletown
 track5_color: bliss
-track6_title: Tom Arthurs - Chats with the Real McCoy
+track6_title: Glue - Chats with the Real McCoy
 track6_color: rough
 track7_title: Susana Santos Silva & Kaja Draksler - Hymn to the Unknown
 track7_color: bliss
