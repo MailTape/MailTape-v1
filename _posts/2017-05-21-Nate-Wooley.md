@@ -38,13 +38,13 @@ illustrator: William Girault
 
 **"**I’m going with an all Gaburo Sunday. Maybe we could term it a Gabunday? I have been utterly fascinated to the point of devotion with [Kenneth Gaburo](https://en.wikipedia.org/wiki/Kenneth_Gaburo)’s compositions and writings for the past fifteen years and [Philip Blackburn](http://philipblackburn.com/), head of [Innova Recordings](https://www.innova.mu/) and a former student of Gaburo’s, recently made me aware of this large archive of under documented performances and interviews/lectures which has been my almost daily listening.**"**
 
-## Kenneth Gaburo - TWO
+## Kenneth Gaburo - TWO (1962)
 _Nate Wooley_: **"**I think of Sundays as generally being rainy days, most likely owing to my upbringing in the Pacific Northwest where heavy rain is the norm. It is a very comforting feeling for me to imagine grey skies and rain and this piece for soprano voice, flute, and bass moves slowly and in a monochromatic way that causes the same feeling.**"**
 
-## Kenneth Gaburo - Noyse
+## Kenneth Gaburo - Noyse (1975)
 _Nate Wooley_: **"**My very favorite piece of Gaburo's is his Maledetto – a 50 some odd minute meditation on the word screw. It is both inappropriate for the "lord's day" plus too long for this format, but I think "Noyse" is a nice substitute. It breaks apart the phonemes of speech in a way that is both mentally engaging and somehow soothing.**"**
 
-## Kenneth Gaburo - Mouth-Piece
+## Kenneth Gaburo - Mouth-Piece (1970)
 _Nate Wooley_: **"**I don’t really take Sundays off which means it’s time to go to work. This recording of Mouth-Piece changed the way I look at everything on the trumpet, and so I’ll end with it as it may inspire me to wash out my coffee cup and begin practicing.**"**
 
 # MailTape's selection
