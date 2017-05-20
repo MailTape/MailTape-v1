@@ -32,6 +32,10 @@ guestPic: guestPic261.jpg
 illustrator: William Girault
 fbPic: fbPic261.jpg
 musiColor: musiColor261.png
+description: >-
+  We are super happy to welcome experimental trumpeter, Nate Wooley, in this
+  week's issue. Nate recalls the rain-soaked Pacific Northwest he once called
+  home and provides a glimpse into his gentler Sunday morning listening.
 ---
 <p id="introduction">We are super happy to welcome experimental trumpeter, [Nate Wooley](http://natewooley.com/), in this week's issue. His previous albums range from abstract renditions of Wynton Marsalis tunes to particularly harsh versions of free jazz with obscure multi-phonic trumpet chops juxtaposed with distorted extended techniques.</p>
 <p>This morning, Nate recalls the rain-soaked Pacific Northwest he once called home and provides a glimpse into his gentler Sunday morning listening.</p>
