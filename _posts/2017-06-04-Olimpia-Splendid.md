@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 category: '263'
@@ -29,6 +29,7 @@ track6_color: vibrant
 track7_title: Carla dal Forno - You Know What It's Like
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/263/Olimpia-Splendid/'
+guest_color: trippy
 ---
 ## A New Post
 
