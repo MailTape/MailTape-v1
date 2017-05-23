@@ -15,9 +15,9 @@ track6_link: 'https://soundcloud.com/rubenjd425/poison-girls-jenny'
 track7_link: >-
   https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like
 track1_title: Tsembla — Alejandro
-track1_color: dreamy
+track1_color: trippy
 track2_title: MIAUX — Above The High Rays
-track2_color: vibrant
+track2_color: dreamy
 track3_title: TV Dinner Education — WHO R D Rules
 track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
