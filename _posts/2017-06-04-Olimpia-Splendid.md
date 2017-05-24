@@ -6,18 +6,18 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 category: '263'
 guest_name: Olimpia Splendid
-track1_link: 'https://soundcloud.com/tsembla/alejandro'
-track2_link: 'https://soundcloud.com/miaux/above-the-high-rays'
+track1_link: 'https://soundcloud.com/miaux/above-the-high-rays'
+track2_link: 'https://soundcloud.com/tsembla/alejandro'
 track3_link: 'https://soundcloud.com/tv-dinner-education/who-r-the-rules'
 track4_link: 'https://soundcloud.com/olimpia-splendid/jukka-pekka'
 track5_link: 'https://soundcloud.com/constellation-records/carla-bozulich-lazy-crossbones'
 track6_link: 'https://soundcloud.com/rubenjd425/poison-girls-jenny'
 track7_link: >-
   https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like
-track1_title: Tsembla — Alejandro
-track1_color: trippy
-track2_title: MIAUX — Above The High Rays
-track2_color: dreamy
+track1_title: MIAUX — Above The High Rays
+track1_color: dreamy
+track2_title: Tsembla — Alejandro
+track2_color: trippy
 track3_title: TV Dinner Education — WHO R D Rules
 track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
