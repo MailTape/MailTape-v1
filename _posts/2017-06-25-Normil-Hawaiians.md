@@ -22,7 +22,7 @@ track3_title: NEU! - Hallo Gallo
 track3_color: trippy
 track4_title: Normil Hawaiians - Yellow Rain
 track4_color: bliss
-track5_title: Lee Scratch Perry & Bill Laswell - Rise Again
+track5_title: Lee 'Scratch' Perry & Bill Laswell - Rise Again
 track5_color: trippy
 track6_title: Annette Peacock - Survival
 track6_color: bliss
