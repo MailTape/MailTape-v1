@@ -22,7 +22,7 @@ track3_title: TV Dinner Education — WHO R D Rules
 track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
 track4_color: rough
-track5_title: Carla Boxulich - Lazy Crossbones
+track5_title: Carla Bozulich - Lazy Crossbones
 track5_color: dreamy
 track6_title: Poison Girls - Jenny
 track6_color: vibrant
