@@ -7,9 +7,9 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
 guest_color: trippy
-track1_link: 'https://soundcloud.com/fela-kuti-official/power-show-edit'
+track1_link: 'https://soundcloud.com/zannam/fela-kuti-power-show-zannas-secret-arp-edit'
 track2_link: 'https://soundcloud.com/the-flying-camel/iaso-tomita-debussy-arabesque'
-track3_link: 'https://soundcloud.com/neu-official/hallo-gallo'
+track3_link: 'https://soundcloud.com/chancloud/neu-hallo-gallo'
 track4_link: 'https://soundcloud.com/musicadelfauno/normil-hawaiians-yellow-rain'
 track5_link: 'https://soundcloud.com/republicofmusic/lee-scratch-perry-bill-laswell'
 track6_link: 'https://soundcloud.com/kodatski/annette-peacock-survival'
