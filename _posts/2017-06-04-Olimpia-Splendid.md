@@ -11,7 +11,7 @@ track2_link: 'https://soundcloud.com/tsembla/alejandro'
 track3_link: 'https://soundcloud.com/tv-dinner-education/who-r-the-rules'
 track4_link: 'https://soundcloud.com/olimpia-splendid/jukka-pekka'
 track5_link: 'https://soundcloud.com/tomutonttu/tomutonttu-katukissan-puhe'
-track6_link: 'https://soundcloud.com/constellation-records/carla-bozulich-lazy-crossbones'
+track6_link: 'https://soundcloud.com/karengwyer/judd-drums'
 track7_link: >-
   https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like
 track1_title: MIAUX — Above The High Rays
@@ -24,7 +24,7 @@ track4_title: Olimpia Splendid — Jukka-Pekka
 track4_color: rough
 track5_title: Tomutonttu – Katukissan puhe
 track5_color: trippy
-track6_title: Carla Bozulich - Lazy Crossbones
+track6_title: Karen Gwyer - Judd Drums
 track6_color: dreamy
 track7_title: Carla dal Forno - You Know What It's Like
 track7_color: dreamy
