@@ -23,7 +23,7 @@ track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
 track4_color: rough
 track5_title: Lau Nau - Metsä Ja Meri
-track5_color: trippy
+track5_color: bliss
 track6_title: Karen Gwyer - Judd Drums
 track6_color: dreamy
 track7_title: Carla dal Forno - You Know What It's Like
