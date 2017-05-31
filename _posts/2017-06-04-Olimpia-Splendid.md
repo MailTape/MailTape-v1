@@ -10,7 +10,7 @@ track1_link: 'https://soundcloud.com/miaux/above-the-high-rays'
 track2_link: 'https://soundcloud.com/tsembla/alejandro'
 track3_link: 'https://soundcloud.com/tv-dinner-education/who-r-the-rules'
 track4_link: 'https://soundcloud.com/olimpia-splendid/jukka-pekka'
-track5_link: 'https://soundcloud.com/tomutonttu/tomutonttu-katukissan-puhe'
+track5_link: 'https://soundcloud.com/fonal/lau-nau-mets-ja-meri'
 track6_link: 'https://soundcloud.com/karengwyer/judd-drums'
 track7_link: >-
   https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like
@@ -22,7 +22,7 @@ track3_title: TV Dinner Education — WHO R D Rules
 track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
 track4_color: rough
-track5_title: Tomutonttu – Katukissan puhe
+track5_title: Lau Nau - Metsä Ja Meri
 track5_color: trippy
 track6_title: Karen Gwyer - Judd Drums
 track6_color: dreamy
