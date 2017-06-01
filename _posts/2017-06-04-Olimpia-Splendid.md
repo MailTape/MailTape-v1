@@ -52,10 +52,10 @@ _Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER
 _Sanjay_: **"**Succinct and short, Nate's version is almost unrecognisable from Wynton Marsalis's original. He slows the melody down to bring it out of focus and lets the soloists emerge in more mysterious ways. [Harris Eisenstadt](http://www.harriseisenstadt.com/)'s drumming and [Elvin Opsvik](http://eivindopsvik.com/)'s strong pulse add an intensity, especially to [Matt Moran](http://mattmoran.com/bio.html)'s vibe work.**"**
 
 ## Marisa Anderson - In the Valley of the Sun
-_Sanjay_: **"**A jaunty break in the road with the arrival of this strong and swinging melody. Of course, a tune with either of these two players would not be complete if this sense was not dissipated for a brief turn in the road and free meander.**"**
+_Sanjay_: **"**The last time I saw Marisa Anderson live was in a small loft in Glasgow**"**
 
 ## Karen Gwyer - Judd Drums
-_Sanjay_: **"**Less is more here, but with substance and depth from this cool trio, Glue, with [Tom Arthurs](http://www.tomarthurs.co.uk/) on trumpet, [Miles Perkin](http://www.milesperkin.com/) on bass and [Yorgos Dimitriadis](https://yorgosdimitriadis.com/) on percussion. Even if there is no rhythm or harmonic development, the sounds move forward with little notes getting stretched and going beyond any pattern, but beautifully, full of surprises and relatively accessible.**"**
+_Sanjay_: **"**An oldie but a goodie....**"**
 
 ## Carla dal Forno - You Know What It's Like
 _Sanjay_: **"**A dark and brooding piece, which evolves into a lightness and quiet beauty to complete this rain-inspired issue. A Satie-esque air emerges from the small percussion by [Kaja Draksler](https://www.youtube.com/playlist?list=PL6Gpvgcu3X_MyVWaSeJLwMeFAV_ALhQj-) on the strings, which [Susana Santos Silva](https://susanasantossilva.com/) picks up on for a lovely ending.**"**
