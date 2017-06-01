@@ -43,7 +43,7 @@ _Jonna_: **"**Just enough melancholy and tender slowness for Sunday morning from
 ## Tsembla - Alejandro
 _Katerina_: **"**This is a track by Marja Johansson aka [Tsembla](http://tsembla.com/). I think it is a nice relaxing track for Sunday. The title as I know refers to [Jodorowski](https://en.wikipedia.org/wiki/Alejandro_Jodorowsky). I feel the same space as in his films in this song. You might want to check out also [this funny cool music video](https://www.youtube.com/watch?v=z4gFjvCMIbM) - it was made by friends one summer hanging in the countryside of Finland.**"**
 
-## Kenneth Gaburo - Mouth-Piece (1970)
+## TV Dinner Education - Who R D Rules
 _Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER EDUCATION. It's a bit rusty and clumsy but uplifting, goes well together with coffee.**"**
 
 # MailTape's selection
