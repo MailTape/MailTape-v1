@@ -22,11 +22,11 @@ track3_title: TV Dinner Education — WHO R D Rules
 track3_color: trippy
 track4_title: Olimpia Splendid — Jukka-Pekka
 track4_color: rough
-track5_title: Marisa Anderson - In the Valley of the Sun
+track5_title: Marisa Anderson — In the Valley of the Sun
 track5_color: bliss
-track6_title: Karen Gwyer - Judd Drums
+track6_title: Karen Gwyer — Judd Drums
 track6_color: dreamy
-track7_title: Carla dal Forno - You Know What It's Like
+track7_title: Carla dal Forno — You Know What It's Like
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/263/olimpia-splendid/'
 guest_color: trippy
