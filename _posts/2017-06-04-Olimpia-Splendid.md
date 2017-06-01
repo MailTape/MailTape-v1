@@ -60,4 +60,4 @@ _Sanjay_: **"**Less is more here, but with substance and depth from this cool tr
 ## Carla dal Forno - You Know What It's Like
 _Sanjay_: **"**A dark and brooding piece, which evolves into a lightness and quiet beauty to complete this rain-inspired issue. A Satie-esque air emerges from the small percussion by [Kaja Draksler](https://www.youtube.com/playlist?list=PL6Gpvgcu3X_MyVWaSeJLwMeFAV_ALhQj-) on the strings, which [Susana Santos Silva](https://susanasantossilva.com/) picks up on for a lovely ending.**"**
 
-<p id="outroduction">That's all for today! Thanks to Heta, Jonna and Katri for their brilliant selections, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the great illustration! And if you're eligible to vote in the UK on Thursday, remember to [unite against barbarism](https://www.tactical2017.com/).</p>
+<p id="outroduction">That's all for today! Thanks to Heta, Jonna and Katri for their brilliant selections, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the great illustration! And if you're eligible to vote in the UK on 8th June, remember to [unite against barbarism](https://www.tactical2017.com/).</p>
