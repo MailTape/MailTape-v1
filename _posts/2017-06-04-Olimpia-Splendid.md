@@ -31,7 +31,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/263/olimpia-splendid/'
 guest_color: trippy
 ---
-<p id="introduction">This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).</p>
+<p id="introduction">This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).</p>
 <p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; 'full of dirty, psych rock topped with high-pitched, breathy vocals and whispery growls' (The Wire).</p>
 
 # Olimpia Splendid's selection
@@ -49,7 +49,7 @@ _Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER
 # MailTape's selection
 
 ## Olimpia Splendid - Jukka-Pekka
-_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately, though. **"**
+_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London last year. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately, though. **"**
 
 ## Marisa Anderson - In the Valley of the Sun
 _Sanjay_: **"**The last time I saw Marisa Anderson live was in a small loft in Glasgow**"**
