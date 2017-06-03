@@ -49,7 +49,7 @@ _Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER
 # MailTape's selection
 
 ## Olimpia Splendid - Jukka-Pekka
-_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London last year. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately, though. **"**
+_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London last year. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately for a Sunday morning, though. **"**
 
 ## Marisa Anderson - In the Valley of the Sun
 _Sanjay_: **"**The last time I saw Marisa Anderson live was in a small loft in Glasgow**"**
