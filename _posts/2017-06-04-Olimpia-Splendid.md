@@ -55,7 +55,7 @@ _Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I 
 _Sanjay_: **"**The last time I saw Marisa Anderson live was in a small loft in Glasgow**"**
 
 ## Karen Gwyer - Judd Drums
-_Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](http://karengwyer.com/). This track was produced after London's Public Information label invited some contemporary artists to reinterpret the work of electronics pioneer [F.C. Judd](https://en.wikipedia.org/wiki/Fred_Judd).  Judd Drums fills the space around the source material with percussion and lolling melodic lines, using the "fiddly complexity" of Judd's rhythms from 'Drum Song' as a springboard to have some real fun.**"**
+_Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](http://karengwyer.com/). This track was produced after London's Public Information label invited some contemporary artists to reinterpret the work of electronics pioneer [F.C. Judd](https://en.wikipedia.org/wiki/Fred_Judd). This track fills the space around the source material with percussion and lolling melodic lines, using the "fiddly complexity" of Judd's rhythms from 'Drum Song' as a springboard to have some real fun.**"**
 
 ## Carla dal Forno - You Know What It's Like
 _Sanjay_: **"**A dark and brooding piece, which evolves into a lightness and quiet beauty to complete this rain-inspired issue. A Satie-esque air emerges from the small percussion by [Kaja Draksler](https://www.youtube.com/playlist?list=PL6Gpvgcu3X_MyVWaSeJLwMeFAV_ALhQj-) on the strings, which [Susana Santos Silva](https://susanasantossilva.com/) picks up on for a lovely ending.**"**
