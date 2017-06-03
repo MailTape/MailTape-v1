@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/263/olimpia-splendid/'
 guest_color: trippy
 ---
 <p id="introduction">This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).</p>
-<p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; 'full of dirty, sexy psych rock topped with high-pitched, breathy female vocals and whispery growls' (The Wire).</p>
+<p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; 'full of dirty, psych rock topped with high-pitched, breathy vocals and whispery growls' (The Wire).</p>
 
 # Olimpia Splendid's selection
 
@@ -49,13 +49,13 @@ _Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER
 # MailTape's selection
 
 ## Olimpia Splendid - Jukka-Pekka
-_Sanjay_: **"**Succinct and short, Nate's version is almost unrecognisable from Wynton Marsalis's original. He slows the melody down to bring it out of focus and lets the soloists emerge in more mysterious ways. [Harris Eisenstadt](http://www.harriseisenstadt.com/)'s drumming and [Elvin Opsvik](http://eivindopsvik.com/)'s strong pulse add an intensity, especially to [Matt Moran](http://mattmoran.com/bio.html)'s vibe work.**"**
+_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately, though. **"**
 
 ## Marisa Anderson - In the Valley of the Sun
 _Sanjay_: **"**The last time I saw Marisa Anderson live was in a small loft in Glasgow**"**
 
 ## Karen Gwyer - Judd Drums
-_Sanjay_: **"**An oldie but a goodie....**"**
+_Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](http://karengwyer.com/). This track was produced after London's Public Information label invited some contemporary artists to reinterpret the work of electronics pioneer [F.C. Judd](https://en.wikipedia.org/wiki/Fred_Judd).  Judd Drums fills the space around the source material with percussion and lolling melodic lines, using the "fiddly complexity" of Judd's rhythms from 'Drum Song' as a springboard to have some real fun.**"**
 
 ## Carla dal Forno - You Know What It's Like
 _Sanjay_: **"**A dark and brooding piece, which evolves into a lightness and quiet beauty to complete this rain-inspired issue. A Satie-esque air emerges from the small percussion by [Kaja Draksler](https://www.youtube.com/playlist?list=PL6Gpvgcu3X_MyVWaSeJLwMeFAV_ALhQj-) on the strings, which [Susana Santos Silva](https://susanasantossilva.com/) picks up on for a lovely ending.**"**
