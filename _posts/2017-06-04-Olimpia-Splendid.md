@@ -35,6 +35,7 @@ musiColor: musiColor263.png
 description: >-
   This morning, we enter a hypnotic and dreamy world with Heta Bilaletdin, Jonna
   Karanka and Katri Sipiläinen of Finland-based trio, Olimpia Splendid.
+guestPic: guestPic263.jpg
 ---
 <p id="introduction">This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).</p>
 <p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; an 'uptempo rattle of no-note guitar licks and no-brain bass riffs that kicks and jerks like a barracuda on a bait line' (The Wire).</p>
@@ -49,7 +50,7 @@ _Jonna_: **"**Just enough melancholy and tender slowness for Sunday morning from
 _Katerina_: **"**This is a track by Marja Johansson aka [Tsembla](http://tsembla.com/). I think it is a nice relaxing track for Sunday. The title as I know refers to [Jodorowski](https://en.wikipedia.org/wiki/Alejandro_Jodorowsky). I feel the same space as in his films in this song. You might want to check out also [this funny cool music video](https://www.youtube.com/watch?v=z4gFjvCMIbM) - it was made by friends one summer hanging in the countryside of Finland.**"**
 
 ## TV Dinner Education - Who R D Rules
-_Heta_: **"**The song I chose for Sunday morning is _Who R D Rules_ by TV DINNER EDUCATION. It's a bit rusty and clumsy but uplifting, goes well together with coffee.**"**
+_Heta_: **"**The song I chose for Sunday morning is 'Who R D Rules' by TV DINNER EDUCATION. It's a bit rusty and clumsy but uplifting, goes well together with coffee.**"**
 
 # MailTape's selection
 
