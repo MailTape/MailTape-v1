@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/263/olimpia-splendid/'
 guest_color: trippy
 ---
 <p id="introduction">This morning, we enter a hypnotic world with Heta Bilaletdin, Jonna Karanka and Katri Sipiläinen of Finland-based trio, [Olimpia Splendid](https://www.facebook.com/Olimpia-Splendid-197293963659766/).</p>
-<p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; 'full of dirty, psych rock topped with high-pitched, breathy vocals and whispery growls' (The Wire).</p>
+<p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; an 'uptempo rattle of no-note guitar licks and no-brain bass riffs that kicks and jerks like a barracuda on a bait line' (The Wire).</p>
 
 # Olimpia Splendid's selection
 
