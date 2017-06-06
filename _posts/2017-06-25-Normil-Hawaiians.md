@@ -14,7 +14,7 @@ track4_link: 'https://soundcloud.com/musicadelfauno/normil-hawaiians-yellow-rain
 track5_link: >-
   https://soundcloud.com/wahwah45s/dele-sosimi-dance-together-feat-prince-fatty-nostalgia-77
 track6_link: 'https://soundcloud.com/kodatski/annette-peacock-survival'
-track7_link: 'https://soundcloud.com/constellation-records/the-triumph-of-our-tired-eyes'
+track7_link: 'https://soundcloud.com/constellation-records/built-then-burnt-hurrah-hurrah'
 track1_title: Fela Kuti - Power Show (Edit)
 track1_color: vibrant
 track2_title: Isao Tomita - Arabesque No. 1 (Debussy)
@@ -27,10 +27,8 @@ track5_title: Dele Sosimi feat. Prince Fatty & Nostalgia 77 - Dance Together
 track5_color: dreamy
 track6_title: Annette Peacock - Survival
 track6_color: bliss
-track7_title: >-
-  Thee Silver Mt. Zion Memorial Orchestra & Tra-La-La Band - The Triumph Of Our
-  Tired Eyes
-track7_color: trippy
+track7_title: Thee Silver Mt. Zion - Built Then Burnt (Hurrah! Hurrah!)
+track7_color: dreamy
 episode_URL: 'http://mailta.pe/266/normil-hawaiians/'
 ---
 ## A New Post
