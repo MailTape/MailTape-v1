@@ -24,7 +24,7 @@ track3_color: trippy
 track4_title: Normil Hawaiians - Yellow Rain
 track4_color: bliss
 track5_title: Dele Sosimi feat. Prince Fatty & Nostalgia 77 - Dance Together
-track5_color: vibrant
+track5_color: dreamy
 track6_title: Annette Peacock - Survival
 track6_color: bliss
 track7_title: >-
