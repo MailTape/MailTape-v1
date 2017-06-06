@@ -12,7 +12,7 @@ track2_link: 'https://soundcloud.com/the-flying-camel/iaso-tomita-debussy-arabes
 track3_link: 'https://soundcloud.com/chancloud/neu-hallo-gallo'
 track4_link: 'https://soundcloud.com/musicadelfauno/normil-hawaiians-yellow-rain'
 track5_link: >-
-  https://soundcloud.com/wahwah45s/05-dance-together-dub-feat-prince-fatty-nostalgia-77
+  https://soundcloud.com/wahwah45s/dele-sosimi-dance-together-feat-prince-fatty-nostalgia-77
 track6_link: 'https://soundcloud.com/kodatski/annette-peacock-survival'
 track7_link: 'https://soundcloud.com/constellation-records/the-triumph-of-our-tired-eyes'
 track1_title: Fela Kuti - Power Show (Edit)
@@ -23,7 +23,7 @@ track3_title: NEU! - Hallo Gallo
 track3_color: trippy
 track4_title: Normil Hawaiians - Yellow Rain
 track4_color: bliss
-track5_title: Dele Sosimi meets Prince Fatty & Nostalgia 77 - Dance Together (Dub)
+track5_title: Dele Sosimi feat. Prince Fatty & Nostalgia 77 - Dance Together
 track5_color: vibrant
 track6_title: Annette Peacock - Survival
 track6_color: bliss
