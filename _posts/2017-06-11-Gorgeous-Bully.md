@@ -31,8 +31,8 @@ track5_link: 'https://soundcloud.com/user4119358/suburban-restaurant'
 track6_title: Jimmy Whispers - (Summer in Pain)
 episode_URL: 'https://www.mailta.pe/264/gorgeous-bully'
 ---
-<p id="introduction">This morning, let's enjoy a Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s selection.
-Manchester based Gorgeous Bully makes a sincere, lo-fi, DIY bedroom grunge-pop music. </p>
+<p id="introduction">This morning, let's have a sweet Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s heartwarming selection.
+Manchester based Gorgeous Bully makes lo-fi, DIY bedroom grunge-pop tracks. Catchy and sincere, Gorgeous Bully's music is striking, and welcomed in current times. </p>
 
 
 # **Gorgeous Bully's selection**
