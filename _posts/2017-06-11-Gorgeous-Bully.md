@@ -54,16 +54,16 @@ _SUUNS_: **"**I know almost nothing of this band except that they are another Ma
 # Mailtape's selection
 
 + ## Gorgeous Bully - Never Cry
-_Inès_: **"**My ultimate favorite song from Gorgeous Bully, even though it was very hard for me to pick one song for this episode. Do you thing I'll ever know? **"** 
+_Inès_: **"**It was hard for me to pick Gorgeous Bully song, as I could easily just have given a link to their whole discography. "Never cry" is one of my favorite songs, **"** 
 
 + ## THESE GUY - Suburban Restaurant
-_Inès_: **"****"**
+_Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, wrapped in layers of instrumental cuteness.**"**
 
 + ## Jimmy Whispers - (Summer in Pain)
-_Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes on the organ, the slow singing, the melancholic voice... all of this feels like the optimistic representation of shitty summers.**"**
+_Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes on the organ, the slow singing, the melancholic voice... all of this feels like an optimistic representation of shitty summers.**"**
 
 + ## Aldous RH - Feelin Blue
-_Inès_: **"**Manchester is filled with amazing artists, and Aldous RH is no exception, always creating groovy tunes. "Feelin Blue" is his latest release: a catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
+_Inès_: **"**Manchester is filled with amazing artists, and Aldous RH is no exception. Always creating groovy tunes, "Feelin Blue" is his latest release: a catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
 
 
 <p id="outroduction">That’s all folks! Thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") for their participation, and [Camille Célestin](http://www.slipontherock.com/ "Website") for the illustration. Have a dreamy Sunday! </p>
