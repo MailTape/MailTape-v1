@@ -31,8 +31,8 @@ track5_link: 'https://soundcloud.com/user4119358/suburban-restaurant'
 track6_title: Jimmy Whispers - (Summer in Pain)
 episode_URL: 'https://www.mailta.pe/264/gorgeous-bully'
 ---
-<p id="introduction">This morning, let's enjoy a soft and sweet Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s selection.
-Manchester based Gorgeous Bully creates a sincere, lo-fi, bedroom-pop.</p>
+<p id="introduction">This morning, let's enjoy a Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s selection.
+Manchester based Gorgeous Bully makes a sincere, lo-fi, DIY bedroom grunge-pop music. </p>
 
 
 # **Gorgeous Bully's selection**
@@ -51,13 +51,13 @@ _SUUNS_: **"**I know almost nothing of this band except that they are another Ma
 # Mailtape's selection
 
 + ## Gorgeous Bully - Never Cry
-_Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. "Never Cry" is one of my favorite songs, with upbeat and energetic instruments (and badadums) and self-interrogating lyrics. Sounding like some kind of anthem, this song is .**"** 
+_Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. "Never Cry" is one of my favorite Gorgeous Bully songs, with cheerful instruments and self-interrogating lyrics. Ambivalent and honest, it sounds like some kind of anthem for when you feel hurt, lost or mad at yourself. Just sing along to the "ba da dums".**"** 
 
 + ## THESE GUY - Suburban Restaurant
 _Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, a feeling shared by many I guess, wrapped in layers of instrumental cuteness.**"**
 
 + ## Jimmy Whispers - (Summer in Pain)
-_Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes on the organ, the slow singing, the melancholic voice... all of this feels like an optimistic representation of shitty summers.**"**
+_Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes of the organ, the slow singing, the melancholic voice... all of this feels like an optimistic representation of shitty summers.**"**
 
 + ## Aldous RH - Feelin Blue
 _Inès_: **"**Another great Mancunian artist here. Aldous RH always creates groovy tunes, and "Feelin Blue", his latest release, is no exception. A catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
