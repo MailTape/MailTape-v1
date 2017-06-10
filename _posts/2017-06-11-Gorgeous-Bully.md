@@ -49,10 +49,10 @@ Manchester based Gorgeous Bully makes lo-fi, DIY bedroom grunge-pop tracks. Catc
 _Gorgeous Bully_: **"**Featuring members of The Yawns and other Scottish indie heroes, the sound of a lazy Sunday morning captured perfectly for sure.**"**
 
 + ## songsforwalter - Useless
-_SUUNS_: **"**One of Manchester's heroes I've had the pleasure of knowing for a few years, crafting songs under this moniker about his grandfather's life and times. Perfect for when you're feeling 'useless' dreading the week ahead realising nothing has changed.**"**
+_Gorgeous Bully_: **"**One of Manchester's heroes I've had the pleasure of knowing for a few years, crafting songs under this moniker about his grandfather's life and times. Perfect for when you're feeling 'useless' dreading the week ahead realising nothing has changed.**"**
 
 + ## WAITERS - Mirror Threat
-_SUUNS_: **"**I know almost nothing of this band except that they are another Manchester band. Elusive and releasing music sporadically but everything is a step above the rest. Not just for Sunday mornings though, perfect for any time and any day.**"**
+_Gorgeous Bully_: **"**I know almost nothing of this band except that they are another Manchester band. Elusive and releasing music sporadically but everything is a step above the rest. Not just for Sunday mornings though, perfect for any time and any day.**"**
 
 
 
