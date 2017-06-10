@@ -20,7 +20,7 @@ track1_color: bliss
 track3_title: WAITERS - Mirror Threat
 track4_title: Gorgeous Bully - Never Cry
 track4_color: vibrant
-track5_title: THESE GUY - Suburban Restaurant
+track5_title: These Guy - Suburban Restaurant
 track5_color: dreamy
 track6_color: vibrant
 track7_title: Aldous RH - Feelin Blue
@@ -61,7 +61,7 @@ _Gorgeous Bully_: **"**I know almost nothing of this band except that they are a
 + ## Gorgeous Bully - Never Cry
 _Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. "Never Cry" is one of my favorite Gorgeous Bully songs, with cheerful instruments and self-interrogating lyrics. Ambivalent and honest, it sounds like some kind of anthem for when you feel hurt, lost or mad at yourself. Just sing along to the "ba da dums".**"** 
 
-+ ## THESE GUY - Suburban Restaurant
++ ## These Guy - Suburban Restaurant
 _Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, a feeling shared by many I guess, wrapped in layers of instrumental cuteness.**"**
 
 + ## Jimmy Whispers - (Summer in Pain)
