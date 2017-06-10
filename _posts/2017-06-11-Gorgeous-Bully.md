@@ -57,7 +57,7 @@ _SUUNS_: **"**I know almost nothing of this band except that they are another Ma
 _Inès_: **"**It was hard for me to pick Gorgeous Bully song, as I could easily just have given a link to their whole discography. "Never cry" is one of my favorite songs, **"** 
 
 + ## THESE GUY - Suburban Restaurant
-_Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, wrapped in layers of instrumental cuteness.**"**
+_Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, a feeling shared by many I guess, wrapped in layers of instrumental cuteness.**"**
 
 + ## Jimmy Whispers - (Summer in Pain)
 _Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes on the organ, the slow singing, the melancholic voice... all of this feels like an optimistic representation of shitty summers.**"**
