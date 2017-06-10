@@ -31,7 +31,8 @@ track5_link: 'https://soundcloud.com/user4119358/suburban-restaurant'
 track6_title: Jimmy Whispers - (Summer in Pain)
 episode_URL: 'https://www.mailta.pe/264/gorgeous-bully'
 ---
-<p id="introduction">This morning, [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") bedroom-pop.</p>
+<p id="introduction">This morning, let's enjoy a soft and sweet Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s selection.
+Manchester based Gorgeous Bully creates a sincere, lo-fi, bedroom-pop.</p>
 
 
 # **Gorgeous Bully's selection**
@@ -50,7 +51,7 @@ _SUUNS_: **"**I know almost nothing of this band except that they are another Ma
 # Mailtape's selection
 
 + ## Gorgeous Bully - Never Cry
-_Inès_: **"**It was hard for me to pick Gorgeous Bully song, as I could easily just have given a link to their whole discography. "Never cry" is one of my favorite songs, **"** 
+_Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. It was hard for me to pick Gorgeous Bully song, as I could easily just have given a link to their whole discography. "Never cry" is one of my favorite songs, mixing upbeat and energetic part (and dabadees) dabadee **"** 
 
 + ## THESE GUY - Suburban Restaurant
 _Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, a feeling shared by many I guess, wrapped in layers of instrumental cuteness.**"**
@@ -59,7 +60,8 @@ _Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck
 _Inès_: **"**I have a love/hate relationship with summer, so I was drawn to this song's title. But it's not only liking a title here. The DIY side, the sweet notes on the organ, the slow singing, the melancholic voice... all of this feels like an optimistic representation of shitty summers.**"**
 
 + ## Aldous RH - Feelin Blue
-_Inès_: **"**Manchester is filled with amazing artists, and Aldous RH is no exception. Always creating groovy tunes, "Feelin Blue" is his latest release: a catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
+_Inès_: **"**Another great Mancunian artist here. Aldous RH always creates groovy tunes, and "Feelin Blue", his latest release, is no exception. A catchy, dreamy and summery track. Heartache has never sounded so sweet. 
+Manchester is filled with amazing artists, and Aldous RH is no exception. Always creating groovy tunes, "Feelin Blue" is his latest release: a catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
 
 
 <p id="outroduction">That’s all folks! Thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") for their participation, and [Camille Célestin](http://www.slipontherock.com/ "Website") for the illustration. Have a dreamy Sunday! </p>
