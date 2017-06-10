@@ -51,7 +51,7 @@ _SUUNS_: **"**I know almost nothing of this band except that they are another Ma
 # Mailtape's selection
 
 + ## Gorgeous Bully - Never Cry
-_Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. "Never Cry" is one of my favorite songs, mixing upbeat and energetic instruments (and badadums!) with self-interrogating lyrics. Sincerity through   **"** 
+_Inès_: **"**Manchester has an amazing musical scene, and to me, Gorgeous Bully is one of the best bands there. "Never Cry" is one of my favorite songs, with upbeat and energetic instruments (and badadums) and self-interrogating lyrics. Sounding like some kind of anthem, this song is .**"** 
 
 + ## THESE GUY - Suburban Restaurant
 _Inès_: **"**"Suburban Restaurant" is a song about growing up and feeling stuck in a place that doesn't seem to have changed that much over time, a feeling shared by many I guess, wrapped in layers of instrumental cuteness.**"**
