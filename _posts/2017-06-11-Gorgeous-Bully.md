@@ -29,11 +29,7 @@ track2_color: vibrant
 track3_color: dreamy
 track5_link: 'https://soundcloud.com/user4119358/suburban-restaurant'
 track6_title: Jimmy Whispers - (Summer in Pain)
-episode_URL: 'https://www.mailta.pe/265/gorgeous-bully'
-guestPic: ''
-fbPic: ''
-musiColor: ''
-description: ''
+episode_URL: 'https://www.mailta.pe/264/gorgeous-bully'
 ---
 <p id="introduction">This morning, [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") bedroom-pop.</p>
 
