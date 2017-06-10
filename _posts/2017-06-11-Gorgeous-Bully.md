@@ -36,6 +36,7 @@ description: >-
   bedroom grunge-pop tracks. Catchy, minimal and sincere, their music is
   striking, and welcomed in current times.
 musiColor: musiColor264.png
+guestPic: guestPic264.jpg
 ---
 <p id="introduction">This morning, let's have a mellow Sunday morning thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook")'s heartwarming selection.
 Manchester based Gorgeous Bully makes lo-fi, DIY bedroom grunge-pop tracks. Catchy, minimal and sincere, Gorgeous Bully's music is striking, and welcomed in current times.</p>
