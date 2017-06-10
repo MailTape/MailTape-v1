@@ -71,4 +71,4 @@ _Inès_: **"**I have a love/hate relationship with summer, so I was drawn to thi
 _Inès_: **"**Another great Mancunian artist here. Aldous RH always creates groovy tunes, and "Feelin Blue", his latest release, is no exception. A catchy, dreamy and summery track. Heartache has never sounded so sweet.**"**
 
 
-<p id="outroduction">That’s all folks! Thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") for their participation, and [Camille Célestin](http://www.slipontherock.com/ "Website") for the illustration. Have the sweetest Sunday! </p>
+<p id="outroduction">That’s all folks! Thanks to [Gorgeous Bully](https://www.facebook.com/gorgeousbullyband/ "Facebook") for their participation, and [Camille Célestin](http://www.slipontherock.com/ "Website") for the illustration. Have a great Sunday! </p>
