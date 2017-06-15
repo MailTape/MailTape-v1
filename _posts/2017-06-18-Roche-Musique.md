@@ -33,6 +33,35 @@ track7_title: Aaron Taylor – Easy
 track7_color: trippy
 episode_URL: 'https://www.mailta.pe/265/roche-musique/'
 ---
-## A New Post
+<p id="introduction">This morning, let’s wake up with our very special guests, the pioneers of French Touch 2.0. [Roche Musique](https://www.facebook.com/rochemusique/) label was created exactly 5 years ago by Jean Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs such as [FKJ](https://soundcloud.com/fkj-2), [Dabeull](http://soundcloud.com/dabeull), [Kartell](https://soundcloud.com/kartell), [Zimmer](https://soundcloud.com/zimmermusic), [Darius](https://soundcloud.com/dariusofficial), [Crayon](https://soundcloud.com/crayonoff) and many more amazing discoveries. Together they set in motion the renewal of electronic music with a musical genre that takes on rave with a touch of disco and black music. Enjoy the trip folks !</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# **Roche Musique’s selection**
+
++ ## Tennyson x Mr. Carmack - Tuesday
+_Cézaire of Roche Musique_: **"**This track from Tennyson and Mr Carmack is in all my sets. The crescendo makes you believe that you will get to listen to an incredible sound burst and in the end you find yourself in a super Soul like sound that litterally strikes everyone. The element of surprise is really cool. But it’s a sound I also like to listen to have some peace and quiet because it makes me smile.**"**
+
++ ## DJ Windows XP – I Cried Last Night
+_Cézaire of Roche Musique_: **"**I love the rough side of this old school track, the acapella of Deborah Cox that you can hear from afar and these exhilarating and mysterious piano notes, all of this made me want to listen more than twice to this sound on Spotify in a frenzied way. I listen to it on a loop in my underwear in my room as lood as possible.**"**
+
++ ## Sasac – Return to Earth
+_Cézaire of Roche Musique_: **"**One of my favorite sound, when I listen to it I feel like the little sticker on Soundclood, floating in space admiring planet Earth. Besides I guess Sasac produces with old synthesizers and creates this 80’s vibe that I love and that makes me feel nostalgic. But a beautiful nostalgia, not the kind that gets you down.**"**
+
+
+
+# Mailtape's selection
+
++ ## Crayon x Gracy Hopkins – Ocean 7 Pt. 2
+_Laura_: **"**I instantly fell in love with this song. So tempting, rousing, with the deep attractive voice of Gracy Hopkins, it flies between soul and hip-hop, roughness and softness in perfect harmony. Crayon is a Parisian artist from the Roche Musique label who takes his name from his past of designer, which enabled him to create his very own esthetics and dreamy sound.**"** 
+
++ ## Kraak & Smaak – Way Back Home
+_Laura_: **"**"I can’t get enough of Kraak & Smaak, a Dutch trio that plays an energetic and catchy sound. This track is a perfect blend of electronic and funk music yet soulful that takes your mind far away.**"**
+
++ ## Les Loups – Elephant & Ivory
+_Laura_: **"**Les Loups is a producer trio from Germany with a very strong visual identity and a characteristic ethereal sound. This joyful track mixing House, Disco and Electro music is perfect to chill.**"**
+
++ ## Aaron Taylor – Easy
+_Laura_: **"**Deliberately slow yet still catchy, with a hint of Jazz, I find this song very attractive. It goes crescendo and ends on a more frenetic note. Aaron Taylor is a young singer and musician from London that navigates through Soul, R&B and Jazz.**"**
+
+
+<p id="outroduction">That’s all folks ! Thanks to [Roche Musique](https://soundcloud.com/rochemusique) for their participation and Pierre-Julien for the illustration. Have a groovy Sunday ! </p>
