@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: >-
   https://soundcloud.com/redbullsoundselect/tennyson-x-mr-carmack-tuesday?in=tennysonmusic/sets/tennyson-carmack
 track2_link: 'https://soundcloud.com/djwindowsxp/dj-windows-xp-i-cried-last-night-1'
