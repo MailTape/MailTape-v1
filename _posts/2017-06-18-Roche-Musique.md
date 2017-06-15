@@ -13,7 +13,7 @@ writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
 track4_link: 'https://soundcloud.com/crayonoff/crayon-x-gracy-hopkins-ocean-7-pt-2'
-track5_link: 'https://soundcloud.com/kraaksmaak/way-back-home-ft-ivar'
+track5_link: 'https://soundcloud.com/musicis4lovers/kraak-smaak-way-back-home'
 track6_link: >-
   https://soundcloud.com/les-loups/elephant-and-ivory?in=les-loups/sets/club-coeur-remastered
 track7_link: 'https://soundcloud.com/iaarontaylor/easy?in=iaarontaylor/sets/still-life'
