@@ -40,7 +40,8 @@ musiColor: musiColor265.png
 # **Roche Musique’s selection**
 
 + ## Tennyson x Mr. Carmack - Tuesday
-_Cézaire of Roche Musique_: **"**This track from Tennyson and Mr Carmack is in all my sets. The crescendo makes you believe that you will get to listen to an incredible sound burst and in the end you find yourself in a super Soul like sound that litterally strikes everyone. The element of surprise is really cool. But I also like to listen to this sound to have some peace and quiet because it makes me smile.**"**
+_Cézaire of Roche Musique_: **"**This track from Tennyson and Mr Carmack is in all my sets. The crescendo makes you believe that you will get to listen to an incredible sound burst and in the end you find yourself in a super Soul like sound that litterally strikes everyone. The element of surprise is really cool. But I also like to listen to this sound![musiColor265.png]({{site.baseurl}}/img/musiColor265.png)
+ to have some peace and quiet because it makes me smile.**"**
 
 + ## DJ Windows XP – I Cried Last Night
 _Cézaire of Roche Musique_: **"**I love the rough side of this old school track, the acapella of Deborah Cox that you can hear from afar and these exhilarating and mysterious piano notes, all of this made me want to listen more than twice to this sound on Spotify in a frenzied way. I listen to it on a loop in my underwear in my room as lood as possible.**"**
