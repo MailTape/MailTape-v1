@@ -61,7 +61,7 @@ _Cézaire of Roche Musique_: **"**One of my favorite sound, when I listen to it 
 # Mailtape's selection
 
 + ## Crayon x Gracy Hopkins – Ocean 7 Pt. 2
-_Laura_: **"**I instantly fell in love with this song. So tempting, rousing, with the deep attractive voice of Gracy Hopkins, it flies between soul and hip-hop, roughness and softness in perfect harmony. Crayon is a Parisian artist from the Roche Musique label who takes his name from his past of designer, which enabled him to create his very own esthetics and dreamy sound.**"** 
+_Laura_: **"**I instantly fell in love with this song. So tempting, rousing, with the deep magnetic voice of Gracy Hopkins, it flies between soul and hip-hop, roughness and softness in perfect harmony. Crayon is a Parisian artist from the Roche Musique label who takes his name from his past of designer, which enabled him to create his very own esthetics and dreamy sound.**"** 
 
 + ## Kraak & Smaak – Way Back Home
 _Laura_: **"**"I can’t get enough of Kraak & Smaak, a Dutch trio that plays an energetic and catchy sound. This track is a perfect blend of electronic and funk music yet soulful that takes your mind far away.**"**
