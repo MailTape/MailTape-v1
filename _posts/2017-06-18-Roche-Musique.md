@@ -51,7 +51,7 @@ description: >-
 _Cézaire of Roche Musique_: **"**This track from Tennyson and Mr Carmack is in all my sets. The crescendo makes you believe that you will get to listen to an incredible sound burst and in the end you find yourself in a super Soul like sound that litterally strikes everyone. The element of surprise is really cool. But I also like to listen to this sound to have some peace and quiet because it makes me smile.**"**
 
 + ## DJ Windows XP – I Cried Last Night
-_Cézaire of Roche Musique_: **"**I love the rough side of this old school track, the acapella of Deborah Cox that you can hear from afar and these exhilarating and mysterious piano notes, all of this made me want to listen more than twice to this sound on Spotify in a frenzied way. I listen to it on a loop in my underwear in my room as lood as possible.**"**
+_Cézaire of Roche Musique_: **"**I love the rough side of this old school track, the acapella of Deborah Cox that you can hear from afar and these exhilarating and mysterious piano notes, all of this made me want to listen more than twice to this sound on Spotify in such a frenetic way. I listen to it on a loop in my underwear in my room as lood as possible.**"**
 
 + ## Sasac – Return to Earth
 _Cézaire of Roche Musique_: **"**One of my favorite sound, when I listen to it I feel like the little sticker on Soundclood, floating in space admiring planet Earth. Besides I guess Sasac produces with old synthesizers and creates this 80’s vibe that I love and that makes me feel nostalgic. But a beautiful nostalgia, not the kind that gets you down.**"**
