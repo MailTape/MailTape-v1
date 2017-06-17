@@ -34,10 +34,10 @@ track7_color: trippy
 episode_URL: 'https://www.mailta.pe/265/roche-musique/'
 musiColor: musiColor265.png
 description: >-
-  This morning, let’s wake up with our very special guests, the pioneers of
-  French Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean
-  Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs
-  such as FKJ, Dabeull, Kartell, Zimmer, Darius, Crayon and many more amazing
+  This morning, wake up with our very special guests, the pioneers of French
+  Touch 2.0. Roche Musique label was created exactly 5 years ago by Jean Janin
+  a.k.a Cézaire who surrounded himself with the cream of the French DJs such as
+  FKJ, Dabeull, Kartell, Zimmer, Darius, Crayon and many more amazing
   discoveries. Together they set in motion the renewal of electronic music with
   their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
   folks !
