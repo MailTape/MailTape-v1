@@ -43,7 +43,6 @@ description: >-
   folks !
 guestPic: guestPic265.jpg
 ---
-![fbPic265.png]({{site.baseurl}}/img/fbPic265.png)
 <p id="introduction">This morning, let’s wake up with our very special guests, the pioneers of French Touch 2.0. [Roche Musique](https://www.facebook.com/rochemusique/) label was created exactly 5 years ago by Jean Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs such as [FKJ](https://soundcloud.com/fkj-2), [Dabeull](http://soundcloud.com/dabeull), [Kartell](https://soundcloud.com/kartell), [Zimmer](https://soundcloud.com/zimmermusic), [Darius](https://soundcloud.com/dariusofficial), [Crayon](https://soundcloud.com/crayonoff) and many more amazing discoveries. Together they set in motion the renewal of electronic music with their very own sound, multiple, indefinable yet always groovy. Enjoy the trip folks !</p>
 
 
@@ -75,5 +74,4 @@ _Laura_: **"**Les Loups is a producer trio from Germany with a very strong visua
 _Laura_: **"**Deliberately slow yet still catchy, with a hint of Jazz, I find this song very attractive. It goes crescendo and ends on a more frenetic note. Aaron Taylor is a young singer and musician from London that navigates through Soul, R&B and Jazz.**"**
 
 
-<p id="outroduction">That’s all folks ! Thanks to [Roche Musique](https://soundcloud.com/rochemusique) for their participation and [Pierre-Julien](http://www.pierrejulienfieux.com)![guestPic265.jpg]({{site.baseurl}}/img/guestPic265.jpg)
- for the illustration. Have a groovy Sunday ! </p>
+<p id="outroduction">That’s all folks ! Thanks to [Roche Musique](https://soundcloud.com/rochemusique) for their participation and [Pierre-Julien](http://www.pierrejulienfieux.com) for the illustration. Have a groovy Sunday ! </p>
