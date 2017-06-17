@@ -73,4 +73,4 @@ _Laura_: **"**Les Loups is a producer trio from Germany with a very strong visua
 _Laura_: **"**Deliberately slow yet still catchy, with a hint of Jazz, I find this song very attractive. It goes crescendo and ends on a more frenetic note. Aaron Taylor is a young singer and musician from London that navigates through Soul, R&B and Jazz.**"**
 
 
-<p id="outroduction">That’s all folks ! Thanks to [Roche Musique](https://soundcloud.com/rochemusique) for their participation and Pierre-Julien for the illustration. Have a groovy Sunday ! </p>
+<p id="outroduction">That’s all folks ! Thanks to [Roche Musique](https://soundcloud.com/rochemusique) for their participation and [Pierre-Julien](http://www.pierrejulienfieux.com) for the illustration. Have a groovy Sunday ! </p>
