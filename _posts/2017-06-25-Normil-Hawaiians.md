@@ -62,4 +62,4 @@ _Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](h
 ## A Silver Mt. Zion - The Triumph of our Tired Eyes
 _Sanjay_: **"**The title track from [Carla dal Forno](https://www.facebook.com/carladalfornoyes/)'s debut album, 'You Know What It’s Like', feels like it lurks somewhere in the familiar shadowy greys and stark minimalism of much of her previous output. It opens with a distorted, wind-chime sort of jingling before the drums kick in with a relentlessly steady beat. A perfect end to this hypnotic and dreamy issue.**"**
 
-<p id="outroduction">That's it for today! Thanks to all in Normil Hawaiians for their eclectic selections and to Pierre-Julien Fieux for the illustration!</p>
+<p id="outroduction">That's it for today! Thanks to all in [Normil Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
