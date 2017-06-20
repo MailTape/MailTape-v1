@@ -23,7 +23,7 @@ track3_title: NEU! - Hallo Gallo
 track3_color: trippy
 track4_title: Normil Hawaiians - Yellow Rain
 track4_color: bliss
-track5_title: Malombo with Philip Tabane & Gabriel 'Mabi' Tobejane
+track5_title: Malombo with Philip Tabane & Gabriel 'Mabi' Tobejane - Pampa Madiba
 track5_color: vibrant
 track6_title: Annette Peacock - Survival
 track6_color: bliss
