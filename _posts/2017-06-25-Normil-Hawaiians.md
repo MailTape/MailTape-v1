@@ -31,7 +31,7 @@ track7_title: Thee Silver Mt. Zion - Built Then Burnt (Hurrah! Hurrah!)
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/266/normil-hawaiians/'
 ---
-<p id="introduction">This morning, we are delighted to welcome Normil Hawaiians. Operating more like a collective than a band per se, The Normil Hawaiians formed in the austere post-punk early years of 80s UK. </p>
+<p id="introduction">This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band per se, the Normil Hawaiians formed in the austere post-punk early years of 1980s UK.</p>
 <p>Named after a brand of air conditioners, they make wiry, hypnotic and out-of-tune DIY punk with guitars, bass and a drum machine; an 'uptempo rattle of no-note guitar licks and no-brain bass riffs that kicks and jerks like a barracuda on a bait line' ([The Wire](https://www.thewire.co.uk/)).</p>
 
 # Normil Hawaiians's selection
@@ -56,10 +56,10 @@ _Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I 
 ## Marisa Anderson - In the Valley of the Sun
 _Sanjay_: **"**The most recent time I saw [Marisa Anderson](https://marisaandersonmusic.com/) perform was in a small loft at [The Old Hairdresser's](http://theoldhairdressers.com/) in Glasgow. And I could listen to her music all day on repeat. Bass notes often drone with presence and open strings are laden with sparks that are usually hidden. It makes gestures toward loud, but it's more about solitude for me. This is one of many selections I could have gone with.**"**
 
-## Karen Gwyer - Judd Drums
+## Annette Peacock - Survival
 _Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](http://karengwyer.com/). This track was produced after London's Public Information label invited some contemporary musicians to reinterpret the work of electronics pioneer [F.C. Judd](https://en.wikipedia.org/wiki/Fred_Judd). This track fills the space around the source material with percussion and lolling melodic lines, using the "fiddly complexity" of Judd's rhythms from 'Drum Song' as a springboard to have some real fun.**"**
 
-## Carla dal Forno - You Know What It's Like
+## A Silver Mt. Zion - The Triumph Of Our Tired Eyes
 _Sanjay_: **"**The title track from [Carla dal Forno](https://www.facebook.com/carladalfornoyes/)'s debut album, 'You Know What It’s Like', feels like it lurks somewhere in the familiar shadowy greys and stark minimalism of much of her previous output. It opens with a distorted, wind-chime sort of jingling before the drums kick in with a relentlessly steady beat. A perfect end to this hypnotic and dreamy issue.**"**
 
 <p id="outroduction">That's all for today! Thanks to Heta, Jonna and Katri for their brilliant selections, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for the great illustration! And if you're eligible to vote in the UK on 8th June, remember to [unite against barbarism](https://www.tactical2017.com/).</p>
