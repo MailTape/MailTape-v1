@@ -14,7 +14,7 @@ track4_link: 'https://soundcloud.com/musicadelfauno/normil-hawaiians-yellow-rain
 track5_link: >-
   https://soundcloud.com/3rd-ear-music/pampa-madiba-malombo-jazz-men-may-1976-wits
 track6_link: 'https://soundcloud.com/kodatski/annette-peacock-survival'
-track7_link: 'https://soundcloud.com/constellation-records/built-then-burnt-hurrah-hurrah'
+track7_link: 'https://soundcloud.com/constellation-records/the-triumph-of-our-tired-eyes'
 track1_title: Fela Kuti - Power Show (Edit)
 track1_color: vibrant
 track2_title: Isao Tomita - Arabesque No. 1 (Debussy)
@@ -27,7 +27,7 @@ track5_title: Malombo with Philip Tabane & Gabriel 'Mabi' Tobejane - Pampa Madib
 track5_color: vibrant
 track6_title: Annette Peacock - Survival
 track6_color: bliss
-track7_title: Thee Silver Mt. Zion - Built Then Burnt (Hurrah! Hurrah!)
+track7_title: A Silver Mt. Zion - The Triumph of our Tired Eyes
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/266/normil-hawaiians/'
 ---
