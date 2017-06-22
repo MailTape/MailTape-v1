@@ -34,6 +34,7 @@ description: >-
   This morning, we are delighted to welcome Normil Hawaiians. Operating more
   like a collective than a band, the Normil Hawaiians formed in the austere
   post-punk permafrost of 1980s UK.
+fbPic: fbPic266.jpg
 ---
 <p id="introduction">This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.</p>
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.</p>
