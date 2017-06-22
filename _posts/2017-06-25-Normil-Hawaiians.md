@@ -58,7 +58,7 @@ _Mark_: **"**Neu was interesting to me when I first heard it as a teenager as it
 # MailTape's selection
 
 ## Normil Hawaiians - Yellow Rain
-_Sanjay_: **"**Olimpia Splendid made me want to explore the Finnish DIY scene I was completely ignorant of before seeing them at Cafe OTO in London last year. Their music traipses along on hot ash, occasionally striking something sharp or sinking in a few inches, but mostly just indiscernibly searing the skin. I think Jukka-Pekka ([and its video](https://www.youtube.com/watch?v=ULuR2quJ6U0)) capture the band pretty accurately for a Sunday morning, though. **"**
+_Sanjay_: **"**After a hiatus just about as long as my entire lifetime, I was thrilled to hear that the ranters were back to perform their previously-shelved third album at London's Cafe OTO.**"**
 
 ## Les Filles De Illighadad - Fatou
 _Sanjay_: **"**The most recent time I saw [Marisa Anderson](https://marisaandersonmusic.com/) perform was in a small loft at [The Old Hairdresser's](http://theoldhairdressers.com/) in Glasgow. And I could listen to her music all day on repeat. Bass notes often drone with presence and open strings are laden with sparks that are usually hidden. It makes gestures toward loud, but it's more about solitude for me. This is one of many selections I could have gone with.**"**
