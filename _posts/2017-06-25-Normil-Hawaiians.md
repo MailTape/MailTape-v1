@@ -44,7 +44,7 @@ musiColor: musiColor266.png
 # Normil Hawaiians's selection
 
 
-## Fela Kuti - Power Show
+## Fela Kuti - Power Show (Edit)
 _Guy_: **"**...I woke up one Sunday morning in (photographer) Fin Costello's house in Islington with my girlfriend Irena in a double poster bed... one of those wonderful 4 storey London town houses, to the smell of fresh coffee and the sound of Fela Kuti's Power Show wafting up the stairs. My friend Tony Harrison who was Fin's assistant had been doing a photo shoot with us whilst Fin was away. The studio was in the basement - it was the same one that the cover of Japan's Tin Drum was shot... What a beautiful morning that was and Power Show just encapsulates freedom, defiance, rebellion... but most of all joy and harmony, it's just beautiful... 10 minutes or so of pure life! It also was a reminder that you can take people on a proper musical journey in 10 minutes..."**"**
 
 ## Isao Tomita - Arabesque No. 1 (Claude Debussy)
