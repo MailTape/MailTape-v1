@@ -67,6 +67,6 @@ _Sanjay_: **"**[Les Filles de Illighadad](https://www.facebook.com/Illighadad/) 
 _Sanjay_: **"**Another musician who stil sounds incredibly fresh all these many decades later. Produced in 1979, 'Survival' sounds like a beat poetry dissertation on the state of the world. A rap from the here and now about the here and now.**"**
 
 ## A Silver Mt. Zion - The Triumph of our Tired Eyes
-_Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant Constellation Records in Montréal. And this is unliklely to be the last. **"**
+_Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant [Constellation Records](http://cstrecords.com/) in Montréal. And this is unliklely to be the last – despite me wearing down the wax on this particular album since its release in 2001. It's a bittersweet clamour for humanity..."good words! strong words! words that could move mountains!"**"**
 
 <p id="outroduction">That's it for today! Thanks to all in [Normil Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
