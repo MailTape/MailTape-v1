@@ -41,7 +41,7 @@ musiColor: musiColor266.png
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.</p>
 <p>In their own words, 'come rejoice with us; all that falls, now falls into place... and all that was air now becomes solid'.</p>
 
-# Normil Hawaiians's selection
+# Normil Hawaiians' selection
 
 
 ## Fela Kuti - Power Show (Edit)
@@ -67,6 +67,6 @@ _Sanjay_: **"**[Les Filles de Illighadad](https://www.facebook.com/Illighadad/) 
 _Sanjay_: **"**Another musician who stil sounds incredibly fresh all these many decades later. Produced in 1979, 'Survival' sounds like a beat poetry dissertation on the state of the world. A rap from the here and now about the here and now.**"**
 
 ## A Silver Mt. Zion - The Triumph of our Tired Eyes
-_Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant [Constellation Records](http://cstrecords.com/) in Montréal. And this is unliklely to be the last – despite me wearing down the wax on this particular album since its release in 2001. It's a bittersweet clamour for humanity..."good words! strong words! words that could move mountains!"**"**
+_Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant [Constellation Records](http://cstrecords.com/) in Montréal. And this is unliklely to be the last – despite me wearing down the wax on this particular album since its release in 2001. It's a bittersweet clamour for humanity...'good words! strong words! words that could move mountains!'**"**
 
-<p id="outroduction">That's it for today! Thanks to all in [Normil Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
+<p id="outroduction">That's it for today! Thanks to all the [Family Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
