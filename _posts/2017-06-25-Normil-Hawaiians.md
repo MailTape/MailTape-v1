@@ -64,9 +64,9 @@ _Sanjay_: **"**After a hiatus just about as long as my entire lifetime, I was th
 _Sanjay_: **"**[Les Filles de Illighadad](https://www.facebook.com/Illighadad/) are a group from the village of Illighadad in the region of Abalak; a world far away from WiFi where the suns’ passage, the movement of the animals and the sound of the crickets measures the length of the day. They present a curious and original approach to two very different sides of Tuareg music – dreamy ishumar acoustic guitar sessions, and the hypnotic polyphonic tende drum (submerged in water for much of their performances!) that inspires it. This is subtle yet deeply personal music.**"**
 
 ## Annette Peacock - Survival
-_Sanjay_: **"**An oldie but a goodie from London-based musician, [Karen Gwyer](http://karengwyer.com/). This track was produced after London's Public Information label invited some contemporary musicians to reinterpret the work of electronics pioneer [F.C. Judd](https://en.wikipedia.org/wiki/Fred_Judd). This track fills the space around the source material with percussion and lolling melodic lines, using the "fiddly complexity" of Judd's rhythms from 'Drum Song' as a springboard to have some real fun.**"**
+_Sanjay_: **"**Another musician who stil sounds incredibly fresh many decades later. Produced in 1979, **"**
 
 ## A Silver Mt. Zion - The Triumph of our Tired Eyes
-_Sanjay_: **"**The title track from [Carla dal Forno](https://www.facebook.com/carladalfornoyes/)'s debut album, 'You Know What It’s Like', feels like it lurks somewhere in the familiar shadowy greys and stark minimalism of much of her previous output. It opens with a distorted, wind-chime sort of jingling before the drums kick in with a relentlessly steady beat. A perfect end to this hypnotic and dreamy issue.**"**
+_Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant Constellation Records in Montréal. And this is unliklely to be the last. **"**
 
 <p id="outroduction">That's it for today! Thanks to all in [Normil Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
