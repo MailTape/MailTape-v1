@@ -64,7 +64,7 @@ _Sanjay_: **"**After a hiatus just about as long as my entire lifetime, I was th
 _Sanjay_: **"**[Les Filles de Illighadad](https://www.facebook.com/Illighadad/) are a group from the village of Illighadad in the region of Abalak; a world far away from WiFi where the suns’ passage, the movement of the animals and the sound of the crickets measures the length of the day. They present a curious and original approach to two very different sides of Tuareg music – dreamy ishumar acoustic guitar sessions, and the hypnotic polyphonic tende drum (submerged in water for much of their performances!) that inspires it. This is subtle yet deeply personal music.**"**
 
 ## Annette Peacock - Survival
-_Sanjay_: **"**Another musician who stil sounds incredibly fresh all these many decades later. Produced in 1979, **"**
+_Sanjay_: **"**Another musician who stil sounds incredibly fresh all these many decades later. Produced in 1979, 'Survival' sounds like a beat poetry dissertation on the state of the world. A rap from the here and now about the here and now.**"**
 
 ## A Silver Mt. Zion - The Triumph of our Tired Eyes
 _Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant Constellation Records in Montréal. And this is unliklely to be the last. **"**
