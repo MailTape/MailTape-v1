@@ -23,7 +23,7 @@ track4_color: rough
 track5_link: 'https://soundcloud.com/deepblak/aybee-what-is'
 track5_title: Aybee - What Is
 track5_color: dreamy
-track6_link: 'https://soundcloud.com/muslimahg/shades-of-anger-rafeef-ziadah'
+track6_link: 'https://soundcloud.com/loca-suelta/shades-of-anger'
 track6_title: Rafeef Ziadah - Shades of Anger
 track6_color: trippy
 track7_link: >-
