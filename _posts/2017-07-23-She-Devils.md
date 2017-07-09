@@ -12,6 +12,9 @@ track3_link: 'https://soundcloud.com/guysnumber/when-you-call-me'
 track1_title: Ramzi - Majestic Zouk
 track2_title: Seth Bogart - Club With Me
 track3_title: 'Guy''s# - When You Call Me'
+track1_color: trippy
+track2_color: trippy
+track3_color: trippy
 ---
 <p id="introduction">WORK IN PROGRESS </p>
 
