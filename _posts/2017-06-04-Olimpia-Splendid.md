@@ -12,8 +12,7 @@ track3_link: 'https://soundcloud.com/tv-dinner-education/who-r-the-rules'
 track4_link: 'https://soundcloud.com/olimpia-splendid/jukka-pekka'
 track5_link: 'https://soundcloud.com/kirashokhova/a4-in-the-valley-of-the-sun'
 track6_link: 'https://soundcloud.com/karengwyer/judd-drums'
-track7_link: >-
-  https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like
+track7_link: 'https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like'
 track1_title: MIAUX — Above The High Rays
 track1_color: dreamy
 track2_title: Tsembla — Alejandro

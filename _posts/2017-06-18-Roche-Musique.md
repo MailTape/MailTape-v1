@@ -2,8 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: >-
-  https://soundcloud.com/redbullsoundselect/tennyson-x-mr-carmack-tuesday?in=tennysonmusic/sets/tennyson-carmack
+track1_link: 'https://soundcloud.com/redbullsoundselect/tennyson-x-mr-carmack-tuesday?in=tennysonmusic/sets/tennyson-carmack'
 track2_link: 'https://soundcloud.com/djwindowsxp/dj-windows-xp-i-cried-last-night-1'
 track3_link: 'https://soundcloud.com/ultraultra/return-to-earth'
 category: '265'
@@ -14,8 +13,7 @@ guest_name: Roche Musique
 guest_color: vibrant
 track4_link: 'https://soundcloud.com/crayonoff/crayon-x-gracy-hopkins-ocean-7-pt-2'
 track5_link: 'https://soundcloud.com/musicis4lovers/kraak-smaak-way-back-home'
-track6_link: >-
-  https://soundcloud.com/les-loups/elephant-and-ivory?in=les-loups/sets/club-coeur-remastered
+track6_link: 'https://soundcloud.com/les-loups/elephant-and-ivory?in=les-loups/sets/club-coeur-remastered'
 track7_link: 'https://soundcloud.com/iaarontaylor/easy?in=iaarontaylor/sets/still-life'
 track1_title: Tennyson x Mr. Carmack - Tuesday
 track1_color: vibrant
