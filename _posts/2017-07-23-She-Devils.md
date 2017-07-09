@@ -13,7 +13,7 @@ track1_title: Ramzi - Majestic Zouk
 track2_title: Seth Bogart - Club With Me
 track3_title: 'Guy''s# - When You Call Me'
 track1_color: trippy
-track2_color: trippy
+track2_color: vibrant
 track3_color: trippy
 track4_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/270/track4.mp3'
 track4_title: She-Devils - Darling
@@ -25,7 +25,7 @@ track6_title: Mons Vi - Want Me Too
 track6_link: 'https://soundcloud.com/mons-vi/want-me-too'
 track7_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/270/track7.mp3'
 track7_title: ' Tabu Ley Rochereau - Hafi Deo '
-track7_color: dreamy
+track7_color: vibrant
 track6_color: bliss
 ---
 <p id="introduction">WORK IN PROGRESS </p>
