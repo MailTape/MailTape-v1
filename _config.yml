@@ -104,6 +104,8 @@ prose:
               value: "Maxime"
             - name: "PS KY"
               value: "PS KY"
+            - name: "Sanjay"
+              value: "Sanjay Mistry"
             - name: "Siddhartha"
               value: "Siddhartha"
       - name: "category"
