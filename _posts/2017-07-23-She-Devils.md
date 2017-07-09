@@ -23,8 +23,8 @@ track5_title: Yellow Days - That Easy
 track5_color: bliss
 track6_title: Mons Vi - Want Me Too
 track6_link: 'https://soundcloud.com/mons-vi/want-me-too'
-track7_link: 'https://soundcloud.com/eklektik-records/yosi-horikawa-granda-moody-men'
-track7_title: 'Yosi Horikawa & Granda - Moody Men '
+track7_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/270/track7.mp3'
+track7_title: ' Tabu Ley Rochereau - Hafi Deo '
 track7_color: dreamy
 track6_color: bliss
 ---
