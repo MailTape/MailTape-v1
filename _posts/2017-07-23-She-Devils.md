@@ -18,6 +18,15 @@ track3_color: trippy
 track4_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/270/track4.mp3'
 track4_title: She-Devils - Darling
 track4_color: bliss
+track5_link: 'https://soundcloud.com/yellow-days/that-easy-1'
+track5_title: Yellow Days - That Easy
+track5_color: bliss
+track6_title: Mons Vi - Want Me Too
+track6_link: 'https://soundcloud.com/mons-vi/want-me-too'
+track7_link: 'https://soundcloud.com/eklektik-records/yosi-horikawa-granda-moody-men'
+track7_title: 'Yosi Horikawa & Granda - Moody Men '
+track7_color: dreamy
+track6_color: bliss
 ---
 <p id="introduction">WORK IN PROGRESS </p>
 
