@@ -13,7 +13,7 @@ track1_title: Ramzi - Majestic Zouk
 track2_title: Seth Bogart - Club With Me
 track3_title: 'Guy''s# - When You Call Me'
 ---
-<p id="introduction">intro text </p>
+<p id="introduction">WORK IN PROGRESS </p>
 
 
 # **She-Devils' selection**
