@@ -11,7 +11,7 @@ track1_link: 'https://soundcloud.com/madamdata/miniature-neurocosmos-28'
 track1_title: Madam Data - Miniature Neurocosmos 28
 track1_color: bliss
 track2_link: 'https://soundcloud.com/hprizm/sonsdhiver2014'
-track2_title: HPRIZM - Live @ Sons D'Hiver (Paris) 2014
+track2_title: Hprizm - Live @ Sons D'Hiver (Paris) 2014
 track2_color: trippy
 track3_link: >-
   https://soundcloud.com/kilamanzego/what-happens-when-eastern-europe-and-west-africa-collide-stbb-494
@@ -31,6 +31,7 @@ track7_link: >-
 track7_title: 'Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy'
 track7_color: trippy
 episode_URL: 'http://mailta.pe/269/moor-mother/'
+guestPic: guestPic269.jpg
 ---
 <p id="introduction">This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.</p>
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.</p>
