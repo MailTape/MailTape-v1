@@ -37,11 +37,11 @@ guestPic: guestPic269.jpg
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.</p>
 <p>In their own words, 'come rejoice with us; all that falls, now falls into place... and all that was air now becomes solid'.</p>
 
-# Normil Hawaiians' selection
+# Moor Mother's selection
 
 
-## Fela Kuti - Power Show (Edit)
-_Guy_: **"**...I woke up one Sunday morning in (photographer) Fin Costello's house in Islington with my girlfriend Irena in a double poster bed... one of those wonderful 4 storey London town houses, to the smell of fresh coffee and the sound of Fela Kuti's Power Show wafting up the stairs. My friend Tony Harrison who was Fin's assistant had been doing a photo shoot with us whilst Fin was away. The studio was in the basement - it was the same one that the cover of Japan's Tin Drum was shot... What a beautiful morning that was and Power Show just encapsulates freedom, defiance, rebellion... but most of all joy and harmony, it's just beautiful... 10 minutes or so of pure life! It also was a reminder that you can take people on a proper musical journey in 10 minutes..."**"**
+## Madam Data - Miniature Neurocosmos 28
+_Moor Mother_: **"**madam data music is gentle and chaotic and I love this track it really get my mind moving.**"**
 
 ## Isao Tomita - Arabesque No. 1 (Claude Debussy)
 _Simon_: **"**This was a formative recording for me as it introduced me to two musical influences that have remained with me ever since; I was not at all familiar with the music of Claude Debussy prior to my 17th birthday when this record was given to me by my friend John and I had had only minimal exposure to electronic pieces at this stage in my life. However, [the picture on the back of this album](http://assets.coolhunting.com/coolhunting/chad-assets/cover_photos/2016/5/572ffff26232620012010000/large.jpg?1462763505) always fascinated me, as did the mystery imbued in Debussy's beautiful works...**"**
