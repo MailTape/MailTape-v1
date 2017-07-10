@@ -47,21 +47,21 @@ _Moor Mother_: **"**Madam Data music is gentle and chaotic and I love this track
 _Moor Mother_: **"**Hprizm is one of my favorite producers and this track is just beautiful and creates a good morning vibe.**"**
 
 ## Kilamanzego - What happens when Eastern Europe and West Africa collide
-_Noel_: **"**Kilamanzego makes a lot of different vibes. This has great drums and fun vibe, this track gets me going in the morning.**"**
+_Moor Mother_: **"**Kilamanzego makes a lot of different vibes. This has great drums and fun vibe, this track gets me going in the morning.**"**
 
 
 # MailTape's selection
 
-## Normil Hawaiians - Yellow Rain
+## ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
 _Sanjay_: **"**After a hiatus just about as long as my entire lifetime, I was thrilled to hear that the ranters were back to perform their previously-shelved third album at London's Cafe OTO in 2016. Despite being recorded in 1985, [Return of the Ranters](http://music.normilhawaiians.com/) is a wonderful mixture of the eclectic, experimental and eccentric. This one, however, is a relative oldie but a goodie from 1982's [More Wealth than Money](https://www.discogs.com/Normil-Hawaiians-More-Wealth-Than-Money/release/685372)LP. Wistful, healing and just enough melancholy for a Sunday morning...**"**
 
-## Les Filles De Illighadad - Fatou
+## Aybee - What is
 _Sanjay_: **"**[Les Filles de Illighadad](https://www.facebook.com/Illighadad/) are a group from the village of Illighadad in the region of Abalak; a world far away from WiFi where the suns’ passage, the movement of the animals and the sound of the crickets measures the length of the day. They present a curious and original approach to two very different sides of Tuareg music – dreamy ishumar acoustic guitar sessions, and the hypnotic polyphonic tende drum (submerged in water for much of their performances!) that inspires it. This is subtle yet deeply personal music.**"**
 
-## Annette Peacock - Survival
+## Rafeef Ziadah - Shades of Anger
 _Sanjay_: **"**Another musician who still sounds incredibly fresh all these many decades later. Produced in 1979, 'Survival' sounds like a beat poetry dissertation on the state of the world. A rap from the here and now about the here and now.**"**
 
-## A Silver Mt. Zion - The Triumph of our Tired Eyes
+## Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy
 _Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant [Constellation Records](http://cstrecords.com/) in Montréal. And this is unliklely to be the last – despite me wearing down the wax on this particular album since its release in 2001. 'Good words! strong words! words that could move mountains!'**"**
 
 <p id="outroduction">That's it for today! Thanks to all the [Family Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
