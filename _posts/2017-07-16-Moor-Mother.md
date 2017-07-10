@@ -33,7 +33,7 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/269/moor-mother/'
 guestPic: guestPic269.jpg
 ---
-<p id="introduction">This morning, we welcome a musician who has been on my wishlist for quite a while, Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
+<p id="introduction">This morning, we welcome a musician who has been on my wishlist for quite a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
 <p>Under the continuities of racial and economic imperialism and in the grip of another ruthless despot, freedom was in part personified by the widely vilified and brutally attacked people's Peace Convoy – a manifestation of idealism that was grotesquely smashed near Stonehenge on 1 June 1985; 537 arrested, children terrorised, idealism and hope stamped on with fear and violence.</p>
 <p>In their own words, 'come rejoice with us; all that falls, now falls into place... and all that was air now becomes solid'.</p>
 
