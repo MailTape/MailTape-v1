@@ -64,4 +64,4 @@ _Sanjay_: **"**Another musician who still sounds incredibly fresh all these many
 ## Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy
 _Sanjay_: **"**There aren't many MailTape issues I've been involved in that don't feature a release from the brilliant [Constellation Records](http://cstrecords.com/) in Montréal. And this is unliklely to be the last – despite me wearing down the wax on this particular album since its release in 2001. 'Good words! strong words! words that could move mountains!'**"**
 
-<p id="outroduction">That's it for today! Thanks to all the [Family Hawaiians](http://normilhawaiians.com/) for their eclectic selections and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration.</p>
+<p id="outroduction">That's all for today! Thanks to Camae Ayewa for her selections and to [Anaïs Caura](http://cargocollective.com/anaiscaura) for this episode's superb illustration.</p>
