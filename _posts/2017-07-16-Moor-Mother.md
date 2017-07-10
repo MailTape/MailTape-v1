@@ -41,15 +41,14 @@ guestPic: guestPic269.jpg
 
 
 ## Madam Data - Miniature Neurocosmos 28
-_Moor Mother_: **"**madam data music is gentle and chaotic and I love this track it really get my mind moving.**"**
+_Moor Mother_: **"**Madam Data music is gentle and chaotic and I love this track, it really gets my mind moving.**"**
 
-## Isao Tomita - Arabesque No. 1 (Claude Debussy)
-_Simon_: **"**This was a formative recording for me as it introduced me to two musical influences that have remained with me ever since; I was not at all familiar with the music of Claude Debussy prior to my 17th birthday when this record was given to me by my friend John and I had had only minimal exposure to electronic pieces at this stage in my life. However, [the picture on the back of this album](http://assets.coolhunting.com/coolhunting/chad-assets/cover_photos/2016/5/572ffff26232620012010000/large.jpg?1462763505) always fascinated me, as did the mystery imbued in Debussy's beautiful works...**"**
+## Hprizm - Live @ Sons D'Hiver (Paris) 2014
+_Moor Mother_: **"**Hprizm is one of my favorite producers and this track is just beautiful and creates a good morning vibe.**"**
 
-## Neu! - Hallo Gallo
-_Noel_: **"**I like Hallo Gallo as it goes, was playing it yesterday in fact. Sunday no less, while cooking dinner!**"**
+## Kilamanzego - What happens when Eastern Europe and West Africa collide
+_Noel_: **"**Kilamanzego makes a lot of different vibes. This has great drums and fun vibe, this track gets me going in the morning.**"**
 
-_Mark_: **"**Neu was interesting to me when I first heard it as a teenager as it challenged my preconceptions of what was passing as music... it also set on edge the American ideals of rock n roll... it was coming from a very modern European aspect and one that was tackling an immediate difficult past... trying to build a clearer tomorrow... it seemed free and I wanted to be freed.**"**
 
 # MailTape's selection
 
