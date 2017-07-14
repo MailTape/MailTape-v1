@@ -67,6 +67,6 @@ _Sanjay_: **"**An oldie but a goodie from Berlin-based producer, [Aybee](http://
 _Sanjay_: **"**As well as a spoken word artist, [Rafeef Ziadah](http://www.rafeefziadah.net/) is a Palestinian human rights activist with the Palestinian Boycott Divestment and Sanctions National Committee and Senior Campaigns Officer at the British charity War on Want. Her debut album, [Hadeel](http://www.rafeefziadah.net/hadeel/), is a rejection of the idea that art and culture can be separate from, or ‘above’, the political. I haven't stopped listening to it for ages. If you're in London, you can see her perform with Lowkey on [28th September](http://www.seetickets.com/event/lowkey-london-show-september-2017/the-coronet-theatre/1114864).**"**
 
 ## Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy
-_Sanjay_: **"**Yet another Constellation-associated artist to feature on MailTape, [Matana](http://www.matanaroberts.com/) works in myriad contexts and mediums, including improvisation, dance, poetry, and theater.**"**
+_Sanjay_: **"**Yet another Constellation-associated artist to feature on MailTape, [Matana](http://www.matanaroberts.com/) works in myriad contexts and mediums, including improvisation, dance, poetry and theater.**"**
 
 <p id="outroduction">That's all for today! Thanks to [Camae Ayewa](http://moormother.com/) for her cracking selections and to [Anaïs Caura](http://cargocollective.com/anaiscaura) for this episode's superb illustration.</p>
