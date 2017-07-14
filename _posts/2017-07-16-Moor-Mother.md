@@ -36,6 +36,7 @@ musiColor: musiColor269.png
 description: >-
   This morning we welcome Philadelphia-based interdisciplinary artist, Camae
   Ayewa (Moor Mother).
+fbPic: fbPic269.jpg
 ---
 <p id="introduction">This morning we welcome someone who has been on my wishlist for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
 <p>Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year long running event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks and opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
