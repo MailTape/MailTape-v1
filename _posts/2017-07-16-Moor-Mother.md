@@ -58,7 +58,7 @@ _Moor Mother_: **"**Kilamanzego makes a lot of different vibes. This has great d
 # MailTape's selection
 
 ## ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
-_Sanjay_: **"**Definitely not the first and certainly not the last, Camae is a refreshing voice in contemporary music against continuing injustices that we, who don't live it, pretend doesn't exist: the fetishisation, appropriation, distortion and profiteering of black lives and art forms.**"**
+_Sanjay_: **"**Definitely not the first and certainly not the last, Camae is a refreshing voice in contemporary music against continuing injustices that we, who don't live it, pretend doesn't exist: the fetishisation, appropriation, distortion and profiteering of black and marginalised lives and art forms.**"**
 
 ## Aybee - What is
 _Sanjay_: **"**An oldie but a goodie from Berlin-based producer, [Aybee](http://deepblakmusic.com/db2/). Nicely paced for a Sunday morning – all spacious, fluid and warm synth pads.**"**
