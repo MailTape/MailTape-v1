@@ -58,7 +58,7 @@ _Moor Mother_: **"**Kilamanzego makes a lot of different vibes. This has great d
 # MailTape's selection
 
 ## ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
-_Sanjay_: **"**After a hiatus just about as long as my entire lifetime, I was thrilled to hear that the ranters were back to perform their previously-shelved third album at London's Cafe OTO in 2016. Despite being recorded in 1985, [Return of the Ranters](http://music.normilhawaiians.com/) is a wonderful mixture of the eclectic, experimental and eccentric. This one, however, is a relative oldie but a goodie from 1982's [More Wealth than Money](https://www.discogs.com/Normil-Hawaiians-More-Wealth-Than-Money/release/685372)LP. Wistful, healing and just enough melancholy for a Sunday morning...**"**
+_Sanjay_: **"**Definitely not the first, and certainly not the last, Camae is a refreshing voice in this space against the fetishisation, appropriation, distortion and profiteering of black lives and art forms.**"**
 
 ## Aybee - What is
 _Sanjay_: **"**An oldie but a goodie from Berlin-based producer, [Aybee](http://deepblakmusic.com/db2/). Nicely paced for a Sunday morning – all spacious, fluid and warm synth pads.**"**
