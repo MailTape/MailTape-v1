@@ -39,7 +39,7 @@ description: >-
 fbPic: fbPic269.jpg
 ---
 <p id="introduction">This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
-<p>Among many other things, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year long running event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks and opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
+<p>As well as many other things, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year long running event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks and opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
 <p>An important artist, among many, [exposing the self-serving amnesia](https://www.youtube.com/watch?v=OgyhcFdmwK0) among a reigning elite about the historical crimes, revisionism and blustery denial that secure them their hegemony.</p>
 
 # Moor Mother's selection
