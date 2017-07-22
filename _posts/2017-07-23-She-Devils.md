@@ -57,17 +57,17 @@ _She-Devils_: **"** Guy's # is one of our favourite new Montreal bands. **"**
 
 # Mailtape's selection
 
-+ ## Llorca – Lights Behind Windows
-_ImaCrea_: **"** lorem **"** 
++ ## She-devils - Darling
+_ImaCrea_: **"** Groove, joy and lyrics that talks to my heart. Let's go surfing baby. **"** 
 
-+ ## Seb Wildblood – Jazz Vol. 1
-_ImaCrea_: **"** lorem **"**
++ ## Yellow Days - That Easy
+_ImaCrea_: **"** Deep and real. By now I guess you're starting to get it... it's been months I didn't have a chance to release a tape and for this one I'm putting my all in on the table. **"**
 
 + ## Quantic & His Combo Babaro – Undelivered Letter
-_ImaCrea_: **"** lorem **"**
+_ImaCrea_: **"** Gosh, this episode is like a beautiful pizza I'd never want to end. You know that feeling when you want to keep the taste in your mouth as long as possible...  **"**
 
 + ## Urbs & Cutex – Up & Down
-_ImaCrea_: **"** lorem **"**
+_ImaCrea_: **"** What?! Get that judgement far from there, forget your worries, get off these clothes also, it's hot and it's time to dance! Come on! **"**
 
 
-<p id="outroduction">That’s all folks ! Thanks to [Llorca](https://soundcloud.com/llorcaofficial) for his participation and [Pierre-Julien](http://www.pierrejulienfieux.com/) for the illustration. Have a jazzy Sunday ! </p>
+<p id="outroduction">That’s all folks ! Thanks to [She-Devils](https://she-devilsinc.bandcamp.com) for inspiring us such great vibes. Support them and see you next week love.</p>
