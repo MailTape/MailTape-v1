@@ -30,6 +30,15 @@ track6_color: bliss
 writer: ImaCrea
 guest_color: trippy
 guestPic: guestPic270.jpg
+description: >-
+  This morning, whether you’re on holidays enjoying the sun or trekking on a
+  mountain or still recovering from a hangover or on a regular Sunday at home,
+  we got you covered. This kaleidoscopic selection inspired by She-Devils our
+  punk friends from Argentina, will shake you up, surprise you and make you
+  dance. As they say: “put your trust on me, I won’t let you fall”.
+fbPic: fbPic270.png
+episode_URL: 'https://www.mailta.pe/270/she-devils/'
+musiColor: musiColor270.png
 ---
 
 <p id="introduction">This morning, whether you’re on holidays enjoying the sun or trekking on a mountain or still recovering from a hangover or on a regular Sunday at home, we got you covered. This kaleidoscopic selection inspired by [She-Devils](https://she-devilsinc.bandcamp.com), our punk friends from Argentina, will shake you up, surprise you and make you dance. As they say: “put your trust on me, I won’t let you fall”.
