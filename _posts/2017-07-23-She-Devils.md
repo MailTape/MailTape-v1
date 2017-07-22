@@ -27,7 +27,11 @@ track7_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/270/track7.mp3'
 track7_title: ' Tabu Ley Rochereau - Hafi Deo '
 track7_color: vibrant
 track6_color: bliss
+writer: ImaCrea
+guest_color: trippy
+guestPic: guestPic270.jpg
 ---
+
 <p id="introduction">WORK IN PROGRESS </p>
 
 
