@@ -37,9 +37,9 @@ guestPic: guestPic270.jpg
 
 # Vibrations
 
-The essence of Nature come from the Sun, being its first source of energy. Mummy told me not to watch the sun but we all need that warmth to explode in joy and happiness so we invented something else. 
+The essence of Nature come from the Sun, being its first source of energy. Mummy told us not to watch the sun but we all need that warmth to explode in joy and happiness so Humanity invented something else. 
 
-Something that nurrish our inspiration, fill us with joy and connect us in the most pure and deep sense, we called it music. 
+Something that nurrish our inspiration, fill us with joy and connect us in the most pure and deep sense, we call it Music. 
 
 Love you folks, thanks for being with us, this the 270th episode ! We’re doing it for something bigger than us, we do it for the love of music.a
 
