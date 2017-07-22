@@ -37,7 +37,7 @@ guestPic: guestPic270.jpg
 
 # Vibrations
 
-The essence of nature come from the sun, being its first source of energy. Mummy told me not to watch the sun but we all need that warmth to explode in joy and happiness so we invented something else. 
+The essence of Nature come from the Sun, being its first source of energy. Mummy told me not to watch the sun but we all need that warmth to explode in joy and happiness so we invented something else. 
 
 Something that nurrish our inspiration, fill us with joy and connect us in the most pure and deep sense, we called it music. 
 
