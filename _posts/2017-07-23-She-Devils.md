@@ -35,7 +35,7 @@ guestPic: guestPic270.jpg
 <p id="introduction">This morning, whether you’re on holidays enjoying the sun or trekking a mountain or still recovering from a hangover or on a regular Sunday at home, we got you covered. This kaleidoscopic selection inspired by She-Devils, our punk friends from Argentina will shake you up, surprise you and make you dance. As they say, “put your trust on me, I won’t let you fall”.
 </p>
 
-#Vibrations
+# Vibrations
 
 The essence of nature come from the sun, being its first source of energy. Mummy told me not to watch the sun but we all need that warmth to explode in joy and happiness so we invented something else. 
 
