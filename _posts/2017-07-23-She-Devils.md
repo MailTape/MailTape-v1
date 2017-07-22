@@ -61,7 +61,7 @@ _She-Devils_: **"** Guy's # is one of our favourite new Montreal bands. **"**
 _ImaCrea_: **"** Groove, joy and lyrics that talks to my heart. Let's go surfing baby. **"** 
 
 + ## Yellow Days - That Easy
-_ImaCrea_: **"** Deep and real. By now I guess you're starting to get it... it's been months I didn't have a chance to release a tape and for this one I'm putting my all in on the table. **"**
+_ImaCrea_: **"** Deep and real. By now I guess you're starting to get it... it's been months I didn't have a chance to release a tape and for this one I'm "all-in". **"**
 
 + ## Quantic & His Combo Babaro – Undelivered Letter
 _ImaCrea_: **"** Gosh, this episode is like a beautiful pizza I'd never want to end. You know that feeling when you want to keep the taste in your mouth as long as possible...  **"**
