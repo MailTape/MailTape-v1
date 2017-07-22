@@ -41,7 +41,7 @@ The essence of Nature come from the Sun, being its first source of energy. Mummy
 
 Something that nurrish our inspiration, fill us with joy and connect us in the most pure and deep sense, we call it Music. 
 
-Love you folks, thanks for being with us, this the 270th episode ! We’re doing it for something bigger than us, we do it for the love of music.a
+Love you folks, thanks for being with us, this the 270th episode ! We’re doing it for something bigger than us, we do it for the love of Music.
 
 # **She-Devils' selection**
 
