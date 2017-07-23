@@ -72,10 +72,10 @@ _ImaCrea_: **"** Groove, joy and lyrics that talks to my heart. Let's go surfing
 + ## Yellow Days - That Easy
 _ImaCrea_: **"** Deep and real. By now I guess you're starting to get it... it's been months I didn't have a chance to release a tape and for this one I'm "all-in". **"**
 
-+ ## Quantic & His Combo Babaro – Undelivered Letter
++ ## Mons Vi - Want Me Too
 _ImaCrea_: **"** Gosh, this episode is like a beautiful pizza I'd never want to end. You know that feeling when you want to keep the taste in your mouth as long as possible...  **"**
 
-+ ## Urbs & Cutex – Up & Down
++ ## Tabu Ley Rochereau - Hafi Deo
 _ImaCrea_: **"** What?! Get that judgement far from there, forget your worries, get off these clothes also, it's hot and it's time to dance! Come on! **"**
 
 
