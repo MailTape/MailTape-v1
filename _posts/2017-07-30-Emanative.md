@@ -61,7 +61,7 @@ _Sanjay_: **"**Not the first and certainly not the last, Camae is a refreshing v
 ## Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 _Sanjay_: **"**An oldie but a goodie from Berlin-based producer, [Aybee](http://deepblakmusic.com/db2/). Nicely paced for a Sunday morning – all spacious, fluid and warm synth pads.**"**
 
-## Stella Chiweshe - Ndondopetera
+## Yazz Ahmed - Jamil Jamal
 _Sanjay_: **"**As well as a spoken word artist, [Rafeef Ziadah](http://www.rafeefziadah.net/) is a Palestinian human rights activist with the Palestinian Boycott Divestment and Sanctions National Committee and Senior Campaigns Officer at the British charity War on Want. Her debut album, [Hadeel](http://www.rafeefziadah.net/hadeel/), is a rejection of the idea that art and culture can be separate from, or ‘above’, the political. I haven't stopped listening to it for ages. If you're in London, you can see her perform with Lowkey on [28th September](http://www.seetickets.com/event/lowkey-london-show-september-2017/the-coronet-theatre/1114864).**"**
 
 ## Nahawa Doumbia - Nianimanjougou
