@@ -34,6 +34,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/271/emanative/'
 guestPic: guestPic271.jpg
 fbPic: fbPic271.jpg
+musiColor: musiColor271.png
 ---
 <p id="introduction">This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
 <p>As well as having many other talents, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year-long event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks, and has opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
