@@ -37,17 +37,17 @@ episode_URL: 'http://mailta.pe/271/emanative/'
 <p>As well as having many other talents, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year-long event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks, and has opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
 <p>She is an important artist, alongside many, in [exposing the self-serving amnesia](https://www.youtube.com/watch?v=OgyhcFdmwK0) among a reigning elite about the historical crimes, revisionism and blustery denial that secure them their hegemony.</p>
 
-# Moor Mother's selection
+# Emanative's selection
 
 
-## Madam Data - Miniature Neurocosmos 28
-_Moor Mother_: **"**Madam Data music is gentle and chaotic and I love this track, it really gets my mind moving.**"**
+## Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
+_Emanative_: **"**Peaceful and healing trance-like music with Guembri (a Morrocan stringed and skinned bass-like instrument) percussion, chanting and Pharoah Sanders, what more do you need?**"**
 
-## Hprizm - Live @ Sons D'Hiver (Paris) 2014
-_Moor Mother_: **"**Hprizm is one of my favorite producers and this track is just beautiful and creates a good morning vibe.**"**
+## Sun Ra - Sleeping Beauty
+_Emanative_: **"**I find would find it impossible to pick a favourite from sun ra, but if I had to this might well be one of them – equally perfect for both a late night lullaby as it is for Sunday morning chilled out vibes.**"**
 
-## Kilamanzego - What happens when Eastern Europe and West Africa collide
-_Moor Mother_: **"**Kilamanzego makes a lot of different vibes. This has great drums and fun vibe, this track gets me going in the morning.**"**
+## Johnny Dyani Witchdoctor's Son - Magwaza
+_Emanative_: **"**I'm loving any records I hear featuring South African double bassist Johnny Dyani. This Witchdoctor's Son record is an Emanative favourite. Again it is the hypnotic bass, chanting and percussion. Check also his work with Abdullah Ibrahim, Don Cherry and Turkish drummer/percussionist Okay Temiz.**"**
 
 
 # MailTape's selection
