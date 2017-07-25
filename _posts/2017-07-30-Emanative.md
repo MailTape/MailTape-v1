@@ -53,16 +53,16 @@ _Emanative_: **"**I'm loving any records I hear featuring South African double b
 
 # MailTape's selection
 
-## ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
+## Emanative - Ominous Shanti
 _Sanjay_: **"**Not the first and certainly not the last, Camae is a refreshing voice in contemporary music opposing the perpetuation of injustices – the fetishisation, appropriation, distortion and profiteering of black and marginalised lives and art forms – which we who don't live them ignore.**"**
 
-## Aybee - What is
+## Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 _Sanjay_: **"**An oldie but a goodie from Berlin-based producer, [Aybee](http://deepblakmusic.com/db2/). Nicely paced for a Sunday morning – all spacious, fluid and warm synth pads.**"**
 
-## Rafeef Ziadah - Shades of Anger
+## Stella Chiweshe - Ndondopetera
 _Sanjay_: **"**As well as a spoken word artist, [Rafeef Ziadah](http://www.rafeefziadah.net/) is a Palestinian human rights activist with the Palestinian Boycott Divestment and Sanctions National Committee and Senior Campaigns Officer at the British charity War on Want. Her debut album, [Hadeel](http://www.rafeefziadah.net/hadeel/), is a rejection of the idea that art and culture can be separate from, or ‘above’, the political. I haven't stopped listening to it for ages. If you're in London, you can see her perform with Lowkey on [28th September](http://www.seetickets.com/event/lowkey-london-show-september-2017/the-coronet-theatre/1114864).**"**
 
-## Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy
+## Talvin Singh - Wait for Keys DUB 10#10
 _Sanjay_: **"**Yet another of my favourite [Constellation](http://cstrecords.com/)-associated artists to feature on MailTape, [Matana](http://www.matanaroberts.com/) works in myriad contexts and mediums, including improvisation, dance, poetry and theatre. This was an idea from [Meshell Ndegeocello](http://www.meshell.com/) and Matana is joined by Jahi Lake on the drums alongside spoken word artist, Staceyann Chin, who provides the brilliant words.**"**
 
 <p id="outroduction">That's all for today! Thanks to [Camae Ayewa](http://moormother.com/) for her cracking selections and to [Anaïs Caura](http://cargocollective.com/anaiscaura) for this episode's superb illustration.</p>
