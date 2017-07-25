@@ -36,7 +36,7 @@ fbPic: fbPic271.jpg
 musiColor: musiColor271.png
 track7_link: 'https://soundcloud.com/mama-godillot/nianimanjougou_nahawa-doumbia'
 ---
-<p id="introduction">This morning we welcome someone who has been on my wish list for a while: Philadelphia-based interdisciplinary artist, Camae Ayewa ([Moor Mother](http://moormother.com/)).</p>
+<p id="introduction">This morning we welcome Nick Woodmansey's [Emanative](https://emanative.bandcamp.com/) project.</p>
 <p>As well as having many other talents, Camae is also co-founder and organiser of [Rockers! Philly](https://www.facebook.com/thegoodfolksatrockers), a 10-year-long event series and festival focused on marginalised musicians and artists spanning multiple genres of music. She has shared the stage with King Britt, Islam Chipsy, Claudia Rankine (whose latest book, [Citizen: An American Lyric](https://en.wikipedia.org/wiki/Citizen:_An_American_Lyric), you should definitely read) and bell hooks, and has opened on tour for [Screaming Females](http://www.screamingfemales.com/).</p>
 <p>She is an important artist, alongside many, in [exposing the self-serving amnesia](https://www.youtube.com/watch?v=OgyhcFdmwK0) among a reigning elite about the historical crimes, revisionism and blustery denial that secure them their hegemony.</p>
 
