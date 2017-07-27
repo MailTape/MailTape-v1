@@ -28,13 +28,13 @@ track5_color: bliss
 track6_link: 'https://soundcloud.com/naimrecs/yazz-ahmed-jamil-jamal'
 track6_title: Yazz Ahmed - Jamil Jamal
 track6_color: vibrant
-track7_title: Alice Coltrane - I Want To See You
-track7_color: dreamy
+track7_title: Burnt Sugar Arkestra - If There's A Hell Below
+track7_color: trippy
 episode_URL: 'http://mailta.pe/271/emanative/'
 guestPic: guestPic271.jpg
 fbPic: fbPic271.jpg
 musiColor: musiColor271.png
-track7_link: 'https://soundcloud.com/superiorviaduct/alice-coltrane-i-want-to-see/s-dHgEK'
+track7_link: 'https://soundcloud.com/burnt-sugar-arkestra/if-theres-a-hell-below'
 description: >-
   This morning long-time jazz wayfarer Nick Woodmansey’s Emanative picks his
   three Sunday morning tunes for MailTape.
