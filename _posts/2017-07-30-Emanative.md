@@ -69,4 +69,4 @@ _Sanjay_: **"**If you're of the means to buy physical products, the beautiful il
 ## Burnt Sugar Arkestra - If There's A Hell Below
 _Sanjay_: **"**Yet another of my favourite [Constellation](http://cstrecords.com/)-associated artists to feature on MailTape, [Matana](http://www.matanaroberts.com/) works in myriad contexts and mediums, including improvisation, dance, poetry and theatre. This was an idea from [Meshell Ndegeocello](http://www.meshell.com/) and Matana is joined by Jahi Lake on the drums alongside spoken word artist, Staceyann Chin, who provides the brilliant words.**"**
 
-<p id="outroduction">That's all for today! Thanks to [Camae Ayewa](http://moormother.com/) for her cracking selections and to [Anaïs Caura](http://cargocollective.com/anaiscaura) for this episode's superb illustration.</p>
+<p id="outroduction">That's it for this morning! Thanks to Emanative for his grooving selections and to William Girault for this episode's illustration. Pray for sun/rain (whichever you need most)!</p>
