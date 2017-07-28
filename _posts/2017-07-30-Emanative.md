@@ -40,7 +40,7 @@ description: >-
   three Sunday morning tunes for MailTape.
 ---
 <p id="introduction">This morning long-time jazz wayfarer Nick Woodmansey's [Emanative](https://emanative.bandcamp.com/) picks his three Sunday morning tunes for MailTape.</p>
-<p>Three years after the brilliant [Light Years of Darkness](https://stevereidfoundation.bandcamp.com/album/the-light-years-of-the-darkness) LP, Emanative makes a welcome return on the self-released limited 7″, Ominous Shanti/Black Enchantment. As usual, Nick performs with some of the finest musicians on the scene at the moment – this time with another MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), as well as Tamar Osborn, Suman Joshi, Ben Hadwen, Simon Finch and Jessica Lauren.</p>
+<p>Three years after the brilliant [Light Years of Darkness](https://stevereidfoundation.bandcamp.com/album/the-light-years-of-the-darkness) LP on Brownswood Recordings, Emanative makes a welcome return on the self-released limited 7″, [Ominous Shanti/Black Enchantment](https://emanative.bandcamp.com/album/ominous-shanti). As usual, Nick performs with some of the finest musicians on the London scene at the moment – this time with another MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), as well as Tamar Osborn, Suman Joshi, Ben Hadwen, Simon Finch and Jessica Lauren.</p>
 
 # Emanative's selection
 
