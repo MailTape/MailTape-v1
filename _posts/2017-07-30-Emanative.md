@@ -58,7 +58,7 @@ _Emanative_: **"**I'm loving any records I hear featuring South African double b
 # MailTape's selection
 
 ## Emanative - Ominous Shanti
-_Sanjay_: **"**After three years Emanative returns with its signature haze. "Ominous Shanti" has the horns gradually melting in the heat while the lilting percussion keeps the groove in the pocket.**"**
+_Sanjay_: **"**Emanative returns with its signature haze. Here, "Ominous Shanti" has the horns gradually melting in the heat while the lilting percussion keeps the groove in the pocket.**"**
 
 ## Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 _Sanjay_: **"**After studying with free-jazz pianist Cecil Taylor, the Pyramids left for a journey through Africa in 1972 where they developed their own musical vision.**"**
