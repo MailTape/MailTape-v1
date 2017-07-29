@@ -50,17 +50,15 @@ _Kelly Lee Owens_: **"**I love pretty much every track he's ever made - his prod
 # MailTape's selection
 
 ## Kelly Lee Owens — Anxi. ft. Jenny Hval
-_Louise_: **"****"**
+_Louise_: **"**I saw Kelly Lee Owens live at a festival where she played really early in the day and her set was so awesome. Her music resonated in me during the show and I was so glad to get to see her. Kelly Lee Owens' album is so good, I had to feature her in a MailTape episode!**"**
 
-## 
-_Louise_: **"****"**
+## Peggy Gou - Gou Talk
+_Louise_: **"**I'm still discovering a lot of women creating electronic music.It makes me so glad. Peggy Gou is a Berlin based Korean artist and this song of hers is so damn cool. There's a funky vibes in the melody and the bass are so present. Makes me wanna dance!**"**
 
-## 
-_Louise_: **"****"**
+## Supernaive - Open Waltz
+_Louise_: **"**Supernaive is a band I discovered thanks to [Shaelone](https://www.mailta.pe/232/shaelone/ "Shaelone's MailTape episode") — who was our guest a few months back! It's two brothers from Paris but really driven by the Japanese culture. I really love their first EP _Dazed & Confused_ and I knew they would be perfect for this MailTape episode.**"**
 
-## 
-_Louise_: **"****"**
-
-
+## Sophia Kennedy - Build Me A House
+_Louise_: **"**Meet Sophia Kennedy's voice. How good is that?! I loved this song, the minute I heard it. The piano is so damn good too. I loved everything in this one.**"**
 
 <p id="outroduction">That's all folks. A big thanks to Kelly Lee Owens for being our guest this morning and thanks to Pierre-Julien for his amazing artwork of today's episode!</p>
