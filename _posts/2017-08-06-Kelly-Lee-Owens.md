@@ -61,4 +61,4 @@ _Louise_: **"**Supernaive is a band I discovered thanks to [Shaelone](https://ww
 ## Sophia Kennedy - Build Me A House
 _Louise_: **"**Meet Sophia Kennedy's voice. How good is that?! I loved this song, the minute I heard it. The piano is so damn good too. I loved everything in this one.**"**
 
-<p id="outroduction">That's all folks. A big thanks to Kelly Lee Owens for being our guest this morning and thanks to Pierre-Julien for his amazing artwork of today's episode!</p>
+<p id="outroduction">That's all folks. A big thanks to [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/) for being our guest this morning and thanks to [Pierre-Julien](http://www.pierrejulienfieux.com/) for his amazing artwork of today's episode!</p>
