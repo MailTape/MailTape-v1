@@ -23,6 +23,15 @@ track1_color: dreamy
 track3_color: bliss
 track4_color: bliss
 track2_color: rough
+track5_link: 'https://soundcloud.com/technicolour-music/peggy-gou-gou-talk'
+track6_link: 'https://soundcloud.com/supernaivemusic/opal-waltz'
+track7_link: 'https://soundcloud.com/pamparecords/01-build-me-a-house'
+track5_title: Peggy Gou - Gou Talk
+track5_color: vibrant
+track6_title: Supernaive - Opal Waltz
+track6_color: bliss
+track7_title: Sophia Kennedy - Build Me A House
+track7_color: rough
 ---
 <p id="introduction">This morning </p>
 
