@@ -57,7 +57,7 @@ _Emanative_: **"**Peaceful and healing trance-like music with Guembri (a Morroca
 _Emanative_: **"**I would find it impossible to pick a favourite from Sun Ra, but if I had to this might well be one of them – equally perfect for both a late night lullaby as it is for Sunday morning chilled out vibes.**"**
 
 ## Johnny Dyani Witchdoctor's Son - Magwaza
-_Emanative_: **"**I'm loving any records I hear featuring South African double bassist Johnny Dyani. This Witchdoctor's Son record is an Emanative favourite. Again it is the hypnotic bass, chanting and percussion. Check also his work with Abdullah Ibrahim, Don Cherry and Turkish drummer/percussionist Okay Temiz.**"**
+_Emanative_: **"**I'm loving any records I hear featuring South African double bassist Johnny Dyani. This Witchdoctor's Son record is an Emanative favourite. Again it is the hypnotic bass, chanting and percussion. Check also his work with Abdullah Ibrahim, Don Cherry and Turkish drummer/percussionist, Okay Temiz.**"**
 
 
 # MailTape's selection
