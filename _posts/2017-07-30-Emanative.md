@@ -74,4 +74,4 @@ _Sanjay_: **"**If you're of the means to buy physical products, the beautiful il
 ## Burnt Sugar Arkestra - If There's A Hell Below
 _Sanjay_: **"**There's so much to love about the [Burnt Sugar Arkestra](http://burntsugarindex.com/), but I may be here a while if I was to list all of them! Evolving over time into a sprawling ensemble that takes its cues from Sun Ra, the Art Ensemble of Chicago and Parliament-Funkadelic, as well as Jimi Hendrix and electric Miles, this is their brilliant head-bopping version of the Curtis Mayfield classic, Voices.**"**
 
-<p id="outroduction">That's it for this morning. Thanks to [Emanative](https://twitter.com/emanative) for his grooving selections and to [William Girault](http://williamgirault.com/) for this episode's illustration. Pray for sun/rain (whichever you need most)!</p>
+<p id="outroduction">That's it for this morning. Thanks to [Emanative](https://twitter.com/emanative) for his grooving selections, Daisy for the introduction and  [William Girault](http://williamgirault.com/) for this episode's illustration. Pray for sun/rain (whichever you need most)!</p>
