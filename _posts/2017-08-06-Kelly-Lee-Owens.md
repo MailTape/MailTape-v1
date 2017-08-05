@@ -33,7 +33,7 @@ track6_color: bliss
 track7_title: Sophia Kennedy - Build Me A House
 track7_color: rough
 ---
-<p id="introduction">This morning </p>
+<p id="introduction">This morning, slip into cruise control. [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/ "Kelly Lee Owens' FB page") is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.</p>
 
 # Kelly Lee Owens's selection
 
@@ -50,7 +50,7 @@ _Kelly Lee Owens_: **"**I love pretty much every track he's ever made - his prod
 # MailTape's selection
 
 ## Kelly Lee Owens — Anxi. ft. Jenny Hval
-_Louise_: **"**I saw Kelly Lee Owens live at a festival where she played really early in the day and her set was so awesome. Her music resonated in me during the show and I was so glad to get to see her. Kelly Lee Owens' album is so good, I had to feature her in a MailTape episode!**"**
+_Louise_: **"**I saw Kelly Lee Owens live at a festival where she played really early in the day : her set was so awesome. Her music resonated in me during the show and I was so glad to get to see her. Kelly Lee Owens' album is so good, I had to feature her in a MailTape episode!**"**
 
 ## Peggy Gou - Gou Talk
 _Louise_: **"**I'm still discovering a lot of women creating electronic music.It makes me so glad. Peggy Gou is a Berlin based Korean artist and this song of hers is so damn cool. There's a funky vibes in the melody and the bass are so present. Makes me wanna dance!**"**
