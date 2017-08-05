@@ -56,7 +56,8 @@ _Kelly Lee Owens_: **"**I love pretty much every track he's ever made - his prod
 
 # MailTape's selection
 
-## Kelly Lee Owens — Anxi. ft. Jenny Hval
+## Kelly ![fbPic272.png]({{site.baseurl}}/img/fbPic272.png)
+Lee Owens — Anxi. ft. Jenny Hval
 _Louise_: **"**I saw Kelly Lee Owens live at a festival where she played really early in the day : her set was so awesome. Her music resonated in me during the show and I was so glad to get to see her. Kelly Lee Owens' album is so good, I had to feature her in a MailTape episode!**"**
 
 ## Peggy Gou - Gou Talk
