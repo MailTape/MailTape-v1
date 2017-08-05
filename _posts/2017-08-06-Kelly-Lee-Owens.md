@@ -32,6 +32,13 @@ track6_title: Supernaive - Opal Waltz
 track6_color: bliss
 track7_title: Sophia Kennedy - Build Me A House
 track7_color: rough
+writer: Daisy
+description: >-
+  This morning, slip into cruise control. Kelly Lee Owens is here, and the
+  listening is easy. Travel a new map along roads that you thought you knew,
+  experiencing everything and nothing as each moment glides by. Explore their
+  interstitial spaces, escaping invisible limits and paths too well travelled.
+  Feel the colours, the beauty, the motion.
 ---
 <p id="introduction">This morning, slip into cruise control. [Kelly Lee Owens](https://www.facebook.com/kellyleeowens/ "Kelly Lee Owens' FB page") is here, and the listening is easy. Travel a new map along roads that you thought you knew, experiencing everything and nothing as each moment glides by. Explore their interstitial spaces, escaping invisible limits and paths too well travelled. Feel the colours, the beauty, the motion.</p>
 
