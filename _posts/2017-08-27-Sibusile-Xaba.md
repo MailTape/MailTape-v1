@@ -46,7 +46,7 @@ _Sibusile Xaba_: **"**[Nono Nkoane](https://www.facebook.com/nononkoane) is a re
 _Sibusile Xaba_: **"**[Nkonduzo Makhathini](https://www.facebook.com/nduduzo.makhathini) is the most important figure in South African/African music history. What he is doing now is beyond words, both as a spiritual being and a musician he is simply incredible, there is no one like him. What I love the most is  what he has done here at home (SA), King Nduduzo has managed to close the gap (he's the bridge) between the perception of "jazz" in comparison to other music forms, he has a thing of just seeing what he does as only music, music for healing more than any genre. He has diminished the stigma of music genre more than ever, it's all just sound anyway, its only compiled differently... Also his commitment and determination makes his work ethic something to be greatly admired. I wish him all the best, I support his vision of healing through music and love him dearly.**"**
 
 ## Itai Hakim - Ni Songo Xela
-_Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the next big thing to come out from the South of Africa, his simply simple and I love that, this says a lot about his soul. I wish him all the best and have lots of love for this King right here.**"**
+_Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the next big thing to come out from the South of Africa, he's simply simple and I love that, this says a lot about his soul. I wish him all the best and have lots of love for this King right here.**"**
 
 
 # MailTape's selection
