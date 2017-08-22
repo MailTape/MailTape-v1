@@ -36,17 +36,17 @@ episode_URL: 'http://mailta.pe/275/sibusile-xaba/'
 <p>Crewdson's second album on Slowfoot Records, [Toys](http://slowfootrecords.blogspot.co.uk/2017/07/crewdson-out-now-toys-lp.html), was built using these instruments and ends a five-year gap between his full-length releases. If you're in Brighton, he'll be playing with Bambooman and Ilk at the [Green Door Store](http://thegreendoorstore.co.uk/events/bambooman-27-09-17/) on 27th September.</p> 
 
 
-# Crewdson's selection
+# Sibusile Xaba's selection
 
 
-## Steve Reich - Music For 18 Musicians (Section 1)
-_Crewdson_: **"**Music for 18 musicians is in my mind an almost perfect piece of music. It both shifts, grows and evolves over the full 60 mins whilst also feeling like a single moment in time put under the microscope an magnified over and over getting ever closer and closer towards a point with no end. I think I could listen to it forever.**"**
+## Nono Nkoane - Nomad
+_Sibusile Xaba_: **"**[Nono Nkoane](https://www.facebook.com/nononkoane) is a remarkable artist, human/spiritual being and a cure Afrikan woman, I'm simply in love with her artistry and the way she carries herself and her message of "As One"...We go way back and are still moving forward in the same vision...When I thing of her or try to explain her, I find no words that I feel can do justice to her sound, she is beyond...I can only say, she is the most unique vocalist of our time/this era. She has perfectly/effortlessly fused traditional xhosa music and the art form of jazz producing something quite unique, something quite fresh, like a gulps of fresh air, she is amazing. I love her, she's a queen.**"**
 
-## Lau - Far From Portland
-_Crewdson_: **"**Lau are my absolute favourite band in the world right now. They are three of the most incredibly gifted musicians on a technical level but when they get together something pretty magic happens, their music sounds both totally new and ancient at the same time. I love the bits of electronics blended in with the traditional folk. If you ever get a chance to see them live it is an incredible experience, you would not be disappointed.**"**
+## Nduduzo Makhathini - King Fela
+_Sibusile Xaba_: **"**[Nkonduzo Makhathini](https://www.facebook.com/nduduzo.makhathini) is the most important figure in South African / African music history. What his doing now is beyond words, both as a spiritual being and a musician he is simply incredible, there is no one like him. What I love the most is  what he has done here at home (SA), King Nduduzo has managed to close the gap (his the bridge) between the perception of "jazz" in comparison to other music forms, he has a thing of just seeing what he does as only music, music for healing more than any genre. He has diminished the stigma of music genre more than ever, its all just sound anyway, its only compiled differently... Also his commitment and determination makes his work ethic something to be greatly admired. I wish all the best, I support his vision of healing through music and love him dearly.**"**
 
-## Bambooman - Sun (Eckoclick Remix)
-_Crewdson_: **"**This is a bit cheeky of me to choose as I did the production on it but its definitely one of those Sunday morning electronic tunes. It is also a collaboration with two of my favourite musicians that I work closely with being Bambooman and Femme, the mixture of the former's production style coupled with the latter's vocals is a real treat.**"**
+## Itai Hakim - Ni Songo Xela
+_Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the next big thing to come out from the South of Africa, his simply simple and I love that, this says a lot about his soul. I wish him all the best and have lots of love for this King right here.**"**
 
 
 # MailTape's selection
