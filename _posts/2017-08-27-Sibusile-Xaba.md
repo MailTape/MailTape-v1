@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/275/sibusile-xaba/'
 ---
 <p id="introduction">This morning I am super-excited to present Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), to MailTape.</p>
-<p>He creates sound from machinery, found items, manipulated vocals, saxophone, traditional concertina and his self-designed ‘concertronica’, which he samples and manipulates through his idiosyncratic electronic set up, controlling sounds with game controllers and MIDI motorcycle handlebars.</p>
+<p>Mentored by Madala Kunene and Dr. Philip Tabane, Sibusile Xaba mixes fragmented lines with repeated phrases. Played acoustically to bass and drums (from percussionists Thabang Tabane and Moahanganai Magagula), Sibusile's music soars with expressing guitar-picking and a vocal style that is part dreamscape and part ancestral invocation.</p>
 <p>Crewdson's second album on Slowfoot Records, [Toys](http://slowfootrecords.blogspot.co.uk/2017/07/crewdson-out-now-toys-lp.html), was built using these instruments and ends a five-year gap between his full-length releases. If you're in Brighton, he'll be playing with Bambooman and Ilk at the [Green Door Store](http://thegreendoorstore.co.uk/events/bambooman-27-09-17/) on 27th September.</p> 
 
 
