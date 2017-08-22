@@ -23,7 +23,7 @@ track3_title: Itai Hakim — Ni Songo Xela
 track3_color: dreamy
 track4_title: Sibusile Xaba — Ukukhanya kwa Dr Philip Tabane
 track4_color: bliss
-track5_title: Dr Phillip Tabane & Malombo - Kea Bereka
+track5_title: Dr Phillip Tabane & Malombo — Kea Bereka
 track5_color: trippy
 track6_title: Bokani Dyer — Recess
 track6_color: dreamy
