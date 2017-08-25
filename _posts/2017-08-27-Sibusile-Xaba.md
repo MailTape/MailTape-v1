@@ -61,6 +61,6 @@ _Sanjay_: **"**A brilliant example of Philip Tabane letting loose with intricate
 _Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London and his latest album, [World Music](http://www.bokanidyer.com/listen/), reflects his inclusive musical philosophy. On this track he switches to keyboards, and with the drum always behind the beat, he combines a pop-fusion aesthetic with a cool 'neo-soul' sound.**"**
 
 ## Miryam Solomon — Magnolia
-_Sanjay_: **"**'Magnolia' is an ethereal polyrhythmic EP from vocalist Miryam Solomon. With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
+_Sanjay_: **"**'Magnolia' is an ethereal polyrhythmic EP from vocalist [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/). With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [Sibusile Xaba](http://sibusilexaba.com/newsite/) for being our obliging guest this morning, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's brilliant illustration!</p>
