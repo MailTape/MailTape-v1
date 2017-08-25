@@ -31,7 +31,7 @@ track7_title: Miryam Solomon — Magnolia
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/275/sibusile-xaba/'
 ---
-<p id="introduction">This morning I'm very excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), chosen especially for MailTape.</p>
+<p id="introduction">This morning I'm super-excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), chosen especially for MailTape.</p>
 <p>Mentored by Madala Kunene and Dr. Philip Tabane, Sibusile Xaba mixes fragmented lines with repeated phrases. Played acoustically to bass and drums – provided by percussionists Thabang Tabane and Moahanganai Magagula – Sibusile's music soars with expressive guitar-picking and a vocal style that is part dreamscape and part ancestral invocation.</p>
 <p>Seeing Sibusile live was a pretty rewarding experience for me. If you're in London, Glasgow, Hull, Kent, Paris or Berlin in the next couple of months, you should definitely [pay him and his trio a visit](http://sibusilexaba.com/newsite/gigguide/)!</p> 
 
