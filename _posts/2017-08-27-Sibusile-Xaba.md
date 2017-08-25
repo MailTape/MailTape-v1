@@ -58,7 +58,7 @@ _Sanjay_: **"**You won't find this on either of Crewdson's albums, but if you're
 _Sanjay_: **"**As well as performing in and leading numerous jazz ensembles, [Cassie Kinoshi](https://www.cassiekinoshi.com) has also written for short films and videogames. Primarily known for her work with jazz septet [NÉRIJA](http://www.nerijamusic.com/), Afrobeat band [KOKOROKO](https://www.facebook.com/kokorokomusic/) and her own large ensemble [SEED](https://www.facebook.com/seedensemble/), this is a great piece for mallet trio and piano inspired by the beloved 8-bit game, Tetris.**"**
 
 ## Bokani Dyer — Recess
-_Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London and his latest album, [World Music](http://www.bokanidyer.com/listen/), sums up his inclusive musical philosophy. On this track he switches to keyboards, and with the drum always behind the beat, he combines a pop-fusion aesthetic with a beautiful 'neo-soul' sound.**"**
+_Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London and his latest album, [World Music](http://www.bokanidyer.com/listen/), reflects his inclusive musical philosophy. On this track he switches to keyboards, and with the drum always behind the beat, he combines a pop-fusion aesthetic with a beautiful 'neo-soul' sound.**"**
 
 ## Miryam Solomon — Magnolia
 _Sanjay_: **"**Magnolia is a dreamy polyrhythmic EP from vocalist Miryam Solomon. With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
