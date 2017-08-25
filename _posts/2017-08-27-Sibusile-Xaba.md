@@ -61,6 +61,6 @@ _Sanjay_: **"**As well as performing in and leading numerous jazz ensembles, [Ca
 _Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London and his latest album, [World Music](http://www.bokanidyer.com/listen/), sums up his inclusive musical philosophy. On this track he switches to keyboards, and with the drum always behind the beat, he combines a pop-fusion aesthetic with a beautiful 'neo-soul' sound.**"**
 
 ## Miryam Solomon — Magnolia
-_Sanjay_: **"**'Cobalt' is taken from E.M.M.A.'s most recent EP, [LA Mermaid](https://astralplanerecordings.bandcamp.com/album/la-mermaid). The entire EP shimmers with textural montages of etheral synth sounds and iridescent chiming bells. If you're interested and in a position to learn more about melodies, drum patterns, arrangements and EQing, [keep an eye out](https://twitter.com/oiiiemma) for her Producer Girls workshops in the UK.**"**
+_Sanjay_: **"**Magnolia is a dreamy polyrhythmic EP from vocalist Miryam Solomon. With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [Sibusile Xaba](http://sibusilexaba.com/newsite/) for being our guest this morning, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's brilliant illustration!</p>
