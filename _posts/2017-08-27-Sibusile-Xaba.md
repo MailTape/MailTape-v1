@@ -52,7 +52,7 @@ _Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the nex
 # MailTape's selection
 
 ## Sibusile Xaba — Ukukhanya kwa Dr. Philip Tabane
-_Sanjay_: **"**Steeped in the history of Zulu guitar giant Madala Kunene, Shaluza Max and Dr. Philip Tabane, this feels like an appropriate dedication for the occasion. Seeing Sibusile perform live a couple of months ago was a really special experience for me. Amid the playfully syncopated rhythms, Sibusile's voice captured and held my attention for the entire performance. Warm and direct, it was equally captivating as timbral whisper as when it stood tall. I can't wait to experience it again on Tuesday!**"**
+_Sanjay_: **"**Steeped in the influences of Zulu guitar giant Madala Kunene, Shaluza Max and Dr. Philip Tabane, this feels like an appropriate dedication for the occasion. Seeing Sibusile perform live a couple of months ago was a really special experience for me. Amid the playfully syncopated rhythms, Sibusile's voice captured and held my attention for the entire performance. Warm and direct, it was equally captivating as timbral whisper as when it stood tall. I can't wait to experience it again on Tuesday!**"**
 
 ## Dr. Philip Tabane & Malombo - Kea Bereka
 _Sanjay_: **"**A brilliant example of Philip Tabane letting loose with intricate improvisation and free-form soloing that traces the history of gospel, blues and funk. Eschewing traditional chord structures, he coaxes free-form sounds by hitting the strings or sparking otherworldly melodies – all the while insisting you get up and dance!**"**
