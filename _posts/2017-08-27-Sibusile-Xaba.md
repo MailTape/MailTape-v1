@@ -52,7 +52,7 @@ _Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the nex
 # MailTape's selection
 
 ## Sibusile Xaba — Ukukhanya kwa Dr. Philip Tabane
-_Sanjay_: **"**You won't find this on either of Crewdson's albums, but if you're familiar with his work you'll definitely recognise the choppy drums, tight basslines, mellow synths, incidental noises and layers of plinky, metallic, high-frequency content – as if he’s sampled absolutely everything. Far from feeling unsettled, Crewdson straddles the borders of rhythm, melody and noise nicely on this track.**"**
+_Sanjay_: **"**Steeped in the lineage of Zulu guitar giant Madala Kunene, Shaluza Max and Dr. Philip Tabane, this feels like an appropriate ancestral dedication for the occasion. Seeing Sibusile perform live a couple of months ago was a really special experience for me. Amid the playfully syncopated rhythms, Sibusile's voice captured and held my attention for the entire performance. Warm and potent, it was equally captivating as timbral whisper as when it stood tall. I can't wait to experience it again on Tuesday!**"**
 
 ## Dr. Philip Tabane & Malombo - Kea Bereka
 _Sanjay_: **"**As well as performing in and leading numerous jazz ensembles, [Cassie Kinoshi](https://www.cassiekinoshi.com) has also written for short films and videogames. Primarily known for her work with jazz septet [NÉRIJA](http://www.nerijamusic.com/), Afrobeat band [KOKOROKO](https://www.facebook.com/kokorokomusic/) and her own large ensemble [SEED](https://www.facebook.com/seedensemble/), this is a great piece for mallet trio and piano inspired by the beloved 8-bit game, Tetris.**"**
