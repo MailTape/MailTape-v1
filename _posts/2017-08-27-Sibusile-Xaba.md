@@ -70,4 +70,4 @@ _Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London
 ## Miryam Solomon — Magnolia
 _Sanjay_: **"**'Magnolia' is an ethereal polyrhythmic EP from vocalist [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/). With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [Sibusile Xaba](http://sibusilexaba.com/newsite/) for being our obliging guest this morning, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's brilliant illustration!</p>
+<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [Sibusile Xaba](http://sibusilexaba.com/newsite/) for being our obliging guest this morning, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
