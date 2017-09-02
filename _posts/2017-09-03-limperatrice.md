@@ -31,6 +31,11 @@ track7_color: vibrant
 episode_URL: 'http://mailta.pe/276/limperatrice/'
 fbPic: fbPic276.jpg
 musiColor: musiColor276.png
+description: >-
+  This morning, the glitter balls are spinning a little slower and our limbs
+  swaying more gently in the dark. L'Impératrice is here to help us close out
+  the summer, in the soft shadows of a long expected sunrise.
+track2_color: vibrant
 ---
 <p id="introduction">This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise. As a glowing haze settles and the lights come up, this disco is slipping into slow motion, a living nostalgia for the endless poolside midnights.</p>
 <p>Allowing us to dance and feel, L'Impératrice make our transition through this gauzy existence as effortless as floating across water, with their elegant brand of hypnotic, cinematic funk. Thanks to this gently pulsing energy, we can keep moving until we are the last of the dispersing crowd, neon-lit reflections forever dancing in our eyes.</p> 
