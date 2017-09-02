@@ -58,16 +58,16 @@ _L'Impératrice_: **"** xxx **"**
 
 # MailTape's selection
 
-## L'Impératrice — xxx
-_M_: **"** xxx **"**
+## L'Impératrice — Agitations Tropicales
+_M_: **"** LE morceau tubesque de l'Impératrice. Il assoit leur revendications funk dans un pays qui ne l'est pas vraiment. Un pavé multicolor dans une mare assoupie. _"Agitations Tropicales, symphonie spatiale"_, ce morceau est l'hymne d'une planete imaginaire couverte de jungle tropicale sur laquelle les daft punk ont dû régner des années auparavant. C'est maintenant un empire sans frontière qui a trouvé son impératrice. **"**
 
-## Cornelius- if you're here
-_Sanjay_: **"** xxx **"**
+## Cornelius- If you're here
+_M_: **"** Producteur Japonais de renom, Cornelius livre ici un morceau suave, d'une lenteur hypnotique. Un morceau de musique exploratrice, qui berce notre imaginaire paresseux. **"**
 
 ## Haruomi Hosono & Friends - The Last Paradise
-_Sanjay_: **"** xxx **"**
+_M_: **"** Haruami Hosono est un des magiciens du cultissime Yellow Magic Orchestra, groupe de funk foutraque japonais. Sa carrière solo est toute aussi bordélique, mais accouche toujours de petites merveille. The Last Paradise est un condensé de polynésie enregistré dans un sous-sol tokyoïte. Parfait pour accompagné la fin de l'été. **"**
 
-## Steve Monite-Only You (Frankie Francis Disco Jam edit)
-_Sanjay_: **"** xxx **"**
+## Steve Monite - Only You (Frankie Francis Disco Jam edit)
+_M_: **"** Il y a 30 ans, le funk nigérian aurait du dominer les dancefloors du monde. Steve Monite et Bibi Mascel auraientt dû cotoyer le king of Pop dans les charts. Sorti en 1984, Only you est un diamant intemporel que Frankie Francis (Sofrito) a poli sans perdre de son groove ravageur. Le tube de l'été, sans conteste.**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much love and thanks to </p>
