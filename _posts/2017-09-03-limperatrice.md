@@ -62,8 +62,7 @@ _M_: **"** _"Agitations tropicales"_ is the hit from L'Impératrice. It poses th
 _M_: **"** Iconic Japanese producer, Cornelius give us a sweet and bitter melody with an hypnotic slowness. _"If You're Here"_ is a piece of exploring music, which cradles our lazy imagination. **"**
 
 ## Haruomi Hosono & Friends - The Last Paradise
-_M_: **"** Haruami Hosono est un des magiciens du cultissime Yellow Magic Orchestra, groupe de funk foutraque japonais. Sa carrière solo est toute aussi bordélique, mais accouche toujours de petites merveille. The Last Paradise est un condensé de polynésie enregistré dans un sous-sol tokyoïte. Parfait pour accompagné la fin de l'été. 
-Haruomi Hosono is one of the magicians from The Yellow Magic Ochestra, cultissim and luxurious japanese funk band. His solo career is as messy as his past band, but it allway gives birth to little wonders. "The Last Paradise" is a condensed of Polynesia recorded in a tokyoite basement. Perfect for the end of summer.**"**
+_M_: **"** Haruomi Hosono is one of the magicians from The Yellow Magic Ochestra, cultissim and luxurious japanese funk band. His solo career is as messy as his past band, but it allway gives birth to little wonders. "The Last Paradise" is a condensed of Polynesia recorded in a tokyoite basement. Perfect for the end of summer.**"**
 
 ## Steve Monite - Only You (Frankie Francis Disco Jam edit)
 _M_: **"** 30 years ago, Nigerian funk should have rules dancefloors all around the world. Steve Monite and Bibi Mascel should have be next to the king of pop. Out in 1984, _"Only you"_ is an timeless diamond that Frankie Francis (sofrito) has polished without loosing it devastating groove.**"**
