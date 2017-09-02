@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/abdoulaye-sarr-2/113-les-princes-de-la-ville'
 track3_link: 'https://soundcloud.com/pepite/pepite-sensations'
 track5_link: 'https://soundcloud.com/cornelius/poda4loodxd4'
