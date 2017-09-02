@@ -67,4 +67,4 @@ _M_: **"** Haruomi Hosono is one of the magicians from The Yellow Magic Ochestra
 ## Steve Monite - Only You (Frankie Francis Disco Jam edit)
 _M_: **"** 30 years ago, Nigerian funk should have rules dancefloors all around the world. Steve Monite and Bibi Mascel should have be next to the king of pop. Out in 1984, _"Only you"_ is an timeless diamond that Frankie Francis (sofrito) has polished without loosing it devastating groove.**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to L'impératrice and microqlima records  </p>
+<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to L'Impératrice for her selection and microqlima records for our historic partnership ! Thanks to Celestin for the illustration and Daisy for her prose ! See you next week folks. </p>
