@@ -57,8 +57,7 @@ _L'Impératrice_: **"** xxx **"**
 
 # MailTape's selection
 
-## L'I![guestPic276.jpg]({{site.baseurl}}/img/guestPic276.jpg)
-mpératrice — xxx
+## L'Impératrice — xxx
 _M_: **"** xxx **"**
 
 ## Cornelius- if you're here
