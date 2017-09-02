@@ -47,13 +47,10 @@ track4_link: 'https://soundcloud.com/l-imperatrice/l-imperatrice_agitations-trop
 
 
 ## 113 - Les Princes de la ville
-_L'Impératrice_: **"** xxx. **"**
 
 ## Françoise Hardy- Juke-box
-_L'Impératrice_: **"** xxx. **"**
 
 ## Pépite - Sensation
-_L'Impératrice_: **"** xxx **"**
 
 
 # MailTape's selection
