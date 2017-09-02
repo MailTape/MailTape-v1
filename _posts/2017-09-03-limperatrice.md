@@ -1,0 +1,37 @@
+---
+layout: episode
+bigTitle_font_ratio: '6'
+published: false
+---
+<p id="introduction">This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise. As a glowing haze settles and the lights come up, this disco is slipping into slow motion, a living nostalgia for the endless poolside midnights.</p>
+<p>Allowing us to dance and feel, L'Impératrice make our transition through this gauzy existence as effortless as floating across water, with their elegant brand of hypnotic, cinematic funk. Thanks to this gently pulsing energy, we can keep moving until we are the last of the dispersing crowd, neon-lit reflections forever dancing in our eyes.</p> 
+
+
+# L'impératrice's selection
+
+
+## 113 - Les Princes de la ville
+_Sibusile Xaba_: **"**[Nono Nkoane](https://www.facebook.com/nononkoane) is a remarkable artist, human/spiritual being and a cure Afrikan woman, I'm simply in love with her artistry and the way she carries herself and her message of "As One"...We go way back and are still moving forward in the same vision...When I think of her or try to explain her, I find no words that I feel can do justice to her sound, she is beyond...I can only say, she is the most unique vocalist of our time/this era. She has perfectly/effortlessly fused traditional xhosa music and the art form of jazz producing something quite unique, something quite fresh, like a gulps of fresh air, she is amazing. I love her, she's a queen.**"**
+
+## Françoise Hardy- Juke-box
+_Sibusile Xaba_: **"**[Nkonduzo Makhathini](https://www.facebook.com/nduduzo.makhathini) is the most important figure in South African/African music history. What he is doing now is beyond words, both as a spiritual being and a musician he is simply incredible, there is no one like him. What I love the most is  what he has done here at home (SA), King Nduduzo has managed to close the gap (he's the bridge) between the perception of "jazz" in comparison to other music forms, he has a thing of just seeing what he does as only music, music for healing more than any genre. He has diminished the stigma of music genre more than ever, it's all just sound anyway, its only compiled differently... Also his commitment and determination makes his work ethic something to be greatly admired. I wish him all the best, I support his vision of healing through music and love him dearly.**"**
+
+## Pépite - Sensation
+_Sibusile Xaba_: **"**[Itai Hakim](https://soundcloud.com/itai-hakim) is the next big thing to come out from the South of Africa, he's simply simple and I love that, this says a lot about his soul. I wish him all the best and have lots of love for this King right here.**"**
+
+
+# MailTape's selection
+
+## Sibusile Xaba — Ukukhanya kwa Dr. Philip Tabane
+_Sanjay_: **"**Steeped in the influences of Zulu guitar giant Madala Kunene, Shaluza Max and Dr. Philip Tabane, this feels like an appropriate dedication for the occasion. Seeing Sibusile perform live a couple of months ago was a really special experience for me. Amid the playfully syncopated rhythms, Sibusile's voice captured and held my attention for the entire performance. Warm and direct, it was equally captivating as timbral whisper as when it stood tall. I can't wait to experience it again on Tuesday!**"**
+
+## Dr. Philip Tabane & Malombo - Kea Bereka
+_Sanjay_: **"**A brilliant example of Philip Tabane letting loose with intricate improvisation and free-form soloing that traces the history of gospel, blues and funk. Eschewing traditional chord structures, he coaxes free-form sounds by hitting the strings or sparking otherworldly melodies – all the while insisting you get up and dance!**"**
+
+## Bokani Dyer — Recess
+_Sanjay_: **"**I've seen Bokani Dyer perform a few times at the Vortex in London and his latest album, [World Music](http://www.bokanidyer.com/listen/), reflects his inclusive musical philosophy. On this track he switches to keyboards, and with the drum always behind the beat, he combines a pop-fusion aesthetic with a cool 'neo-soul' sound.**"**
+
+## Miryam Solomon — Magnolia
+_Sanjay_: **"**'Magnolia' is an ethereal polyrhythmic EP from vocalist [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/). With guests including Seb Rochford, Shabaka Hutchings and Tansay Omar, her interplay with jazz harmonies entwined with electronic experimentation combine the continuities between jazz and folk beautifully.**"**
+
+<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [Sibusile Xaba](http://sibusilexaba.com/newsite/) for being our obliging guest this morning, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
