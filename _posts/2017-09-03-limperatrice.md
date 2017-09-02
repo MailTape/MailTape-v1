@@ -22,16 +22,16 @@ _L'Impératrice_: **"** xxx **"**
 
 # MailTape's selection
 
-## Sibusile Xaba — Ukukhanya kwa Dr. Philip Tabane
+## L'impératrice — xxx
 _M_: **"** xxx **"**
 
-## Dr. Philip Tabane & Malombo - Kea Bereka
+## Cornelius- if you're here
 _Sanjay_: **"** xxx **"**
 
-## Bokani Dyer — Recess
+## Haruomi Hosono & Friends - The Last Paradise
 _Sanjay_: **"** xxx **"**
 
-## Miryam Solomon — Magnolia
+## Steve Monite-Only You (Frankie Francis Disco Jam edit)
 _Sanjay_: **"** xxx **"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much love and thanks to </p>
