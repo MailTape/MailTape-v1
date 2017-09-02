@@ -62,9 +62,9 @@ _M_: **"** _"Agitations tropicales"_ is the hit from L'Impératrice. It poses th
 _M_: **"** Iconic Japanese producer, Cornelius give us a sweet and bitter melody with an hypnotic slowness. _"If You're Here"_ is a piece of exploring music, which cradles our lazy imagination. **"**
 
 ## Haruomi Hosono & Friends - The Last Paradise
-_M_: **"** Haruomi Hosono is one of the magicians from The Yellow Magic Ochestra, cultissim and luxurious japanese funk band. His solo career is as messy as his past band, but it allway gives birth to little wonders. "The Last Paradise" is a condensed of Polynesia recorded in a tokyoite basement. Perfect for the end of summer.**"**
+_M_: **"** Haruomi Hosono is one of the magicians from The Yellow Magic Ochestra, cultissim and luxurious japanese funk band. His solo career is as messy as his past band, but it allway gives birth to little wonders. _"The Last Paradise"_ is a condensed of Polynesia recorded in a tokyoite basement. Perfect for the end of summer.**"**
 
 ## Steve Monite - Only You (Frankie Francis Disco Jam edit)
-_M_: **"** 30 years ago, Nigerian funk should have rules dancefloors all around the world. Steve Monite and Bibi Mascel should have be next to the king of pop. Out in 1984, _"Only you"_ is an timeless diamond that Frankie Francis (sofrito) has polished without loosing it devastating groove.**"**
+_M_: **"** 30 years ago, Nigerian funk should have rules dancefloors all around the world. Steve Monite and Bibi Mascel should have be next to the king of pop. Out in 1984, _"Only you"_ is an timeless diamond that Frankie Francis [(Sofrito)](http://www.sofrito.co.uk/) has polished without loosing it devastating groove.**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to L'Impératrice for her selection and microqlima records for our historic partnership ! Thanks to Celestin for the illustration and Daisy for her prose ! See you next week folks. </p>
+<p id="outroduction">That's all for today. Thanks for listening and much love and thanks to [L'Impératrice](https://www.facebook.com/Je.Suis.Imperatrice/) for her selection and [microqlima records](https://www.facebook.com/microqlima/?fref=ts) for our historic partnership ! Thanks to [Camille Celestin](https://www.facebook.com/bravocamo) for the illustration and Daisy for her wonderful prose ! See you next week folks. </p>
