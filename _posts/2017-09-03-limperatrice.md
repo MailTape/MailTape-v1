@@ -6,8 +6,7 @@ track1_link: 'https://soundcloud.com/abdoulaye-sarr-2/113-les-princes-de-la-vill
 track3_link: 'https://soundcloud.com/pepite/pepite-sensations'
 track5_link: 'https://soundcloud.com/cornelius/poda4loodxd4'
 track6_link: 'https://soundcloud.com/paxtonfell/haruomi-hosono-friends-the-last-paradise'
-track7_link: >-
-  https://soundcloud.com/soundway-records/steve-monite-only-you-frankie-francis-disco-jam-edit-1
+track7_link: 'https://soundcloud.com/soundway-records/steve-monite-only-you-frankie-francis-disco-jam-edit-1'
 author: Maxime
 illustrator: Camille Célestin
 writer: Daisy
