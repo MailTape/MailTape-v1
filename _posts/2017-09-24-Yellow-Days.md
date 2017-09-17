@@ -14,6 +14,20 @@ track4_link: 'https://soundcloud.com/yellow-days/hurt-in-love'
 track5_link: 'https://soundcloud.com/oliverpalfreyman/females'
 track6_link: 'https://soundcloud.com/burgerrecords/mattiel-count-your-blessings-1'
 track7_link: 'https://soundcloud.com/germanygermany/lux'
+track1_title: RUN DMT - ROMANTIC
+track1_color: trippy
+track2_title: Aldous RH - U and ME
+track3_title: Made in M - Goodday
+track4_title: Yellow Days - Hurt In Love
+track5_title: Oliverpalfreyman - Females
+track6_title: Mattiel - Count Your Blessings
+track7_title: Germany Garmany - Lux
+track7_color: rough
+track6_color: vibrant
+track5_color: trippy
+track4_color: bliss
+track3_color: dreamy
+track2_color: dreamy
 ---
 <p id="introduction">This morning, dsdssds.</p>
 
