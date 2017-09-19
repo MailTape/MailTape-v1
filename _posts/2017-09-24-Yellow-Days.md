@@ -13,7 +13,7 @@ track3_link: 'https://soundcloud.com/madeinm/goodday'
 track4_link: 'https://soundcloud.com/yellow-days/hurt-in-love'
 track5_link: 'https://soundcloud.com/oliverpalfreyman/females'
 track6_link: 'https://soundcloud.com/burgerrecords/mattiel-count-your-blessings-1'
-track7_link: 'https://soundcloud.com/germanygermany/lux'
+track7_link: 'https://soundcloud.com/ambar-cruz/psychedelic-candy'
 track1_title: Run DMT - Romantic
 track1_color: trippy
 track2_title: Aldous RH - U and ME
@@ -21,8 +21,8 @@ track3_title: Made in M - Goodday
 track4_title: Yellow Days - Hurt In Love
 track5_title: Oliverpalfreyman - Females
 track6_title: Mattiel - Count Your Blessings
-track7_title: Germany Garmany - Lux
-track7_color: rough
+track7_title: Ambar Cruz - Psychedelic Candy
+track7_color: dreamy
 track6_color: vibrant
 track5_color: trippy
 track4_color: bliss
@@ -55,7 +55,7 @@ _ImaCrea_: **"**dsddd.**"**
 + ## Mattiel - Count Your Blessings
 _ImaCrea_: **"**dsdds.**"**
 
-+ ## Germany Garmany - Lux
++ ## Amber Cruz - Psychedelic Candy
 _ImaCrea_: **"**dsdds.**"**
 
 
