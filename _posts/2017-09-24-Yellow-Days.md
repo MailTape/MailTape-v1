@@ -28,6 +28,9 @@ track5_color: trippy
 track4_color: bliss
 track3_color: dreamy
 track2_color: dreamy
+guestPic: guestPic279.jpg
+writer: Daisy
+episode_URL: 'https://www.mailta.pe/279/yellow-days/'
 ---
 <p id="introduction">This morning, dsdssds.</p>
 
