@@ -29,7 +29,7 @@ track4_color: bliss
 track3_color: dreamy
 track2_color: dreamy
 guestPic: guestPic279.jpg
-writer: Daisy
+writer: ImaCrea
 episode_URL: 'https://www.mailta.pe/279/yellow-days/'
 ---
 <p id="introduction">This morning, we keep it smooth and easy with this delicate indie selection made with the young and talended Yellow Days. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... </p>
