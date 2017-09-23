@@ -37,7 +37,7 @@ episode_URL: 'https://www.mailta.pe/279/yellow-days/'
 # Electro I love you but sometimes...
 ... you’re dragging me down. Your synth and loops are great to make me fly high and dance till the next day but as winter approaches I need some warmth. The gentle riffs of a guitar and uniqueness of a human voice call my soul much easier in this atmosphere. 
 
-Yellow Days’ music has been my obsession for a few months now when I need that kind of comfortable space in my head. I’ve been waiting for weeks to share this episode with you, looking for a perfectly balanced selection. Here’s to you, hopefully you’ll find in it as much, if not more, inspiration than myself.
+Yellow Days’ music has been my obsession for a few months now when I need that kind of comfortable space in my head. I’ve been waiting for weeks to share this episode with you, looking for a perfectly balanced selection. Here’s to you, hopefully you’ll find in it as much, if not more, inspiration than I.
 
 # **Yellow Days' selection**
 
