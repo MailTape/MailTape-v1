@@ -50,16 +50,16 @@ _Yellow Days_: **"**Lil' lo-fi cube sample, real tight beat. an easy listen for 
 # Mailtape's selection
 
 + ## Yellow Days - Hurt In Love
-_ImaCrea_: **"**dsdsd.**"**  
+_ImaCrea_: **"**Right to the heart. Track after each track, Yellow Days keeps exploring a rich soundscape driven by pure emotion.**"**  
 
 + ## Oliverpalfreyman - Females
-_ImaCrea_: **"**dsddd.**"**
+_ImaCrea_: **"**Slow down, keep it cool this morning. This one is for you to stay one more track in your comfy bed in these early days of Autumn.**"**
 
 + ## Mattiel - Count Your Blessings
-_ImaCrea_: **"**dsdds.**"**
+_ImaCrea_: **"**Instantly memorable, reminiscence of Nancy Sinatra. Gosh I love so much Burger Records...**"**
 
 + ## Amber Cruz - Psychedelic Candy
-_ImaCrea_: **"**dsdds.**"**
+_ImaCrea_: **"**Rare late night discovery, smooth and delicate voice. Direct connection to my inner voice, food for the soul.**"**
 
 
 <p id="outroduction">That’s all folks! bla bla Have a superb Sunday!</p>
