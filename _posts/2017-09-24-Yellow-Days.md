@@ -32,7 +32,7 @@ guestPic: guestPic279.jpg
 writer: ImaCrea
 episode_URL: 'https://www.mailta.pe/279/yellow-days/'
 ---
-<p id="introduction">This morning, we keep it smooth and easy with this delicate indie selection made with the young and talended Yellow Days. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... </p>
+<p id="introduction">This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old Yellow Days, aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... </p>
 
 # Electro I love you but sometimes...
 ... you’re dragging me down. Your synth and loops are great to make me fly high and dance till the next day but as winter approaches I need some warmth. The gentle riffs of a guitar and uniqueness of a human voice call my soul much easier in this atmosphere. 
