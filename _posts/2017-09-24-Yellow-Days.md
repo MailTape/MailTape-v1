@@ -59,7 +59,7 @@ _ImaCrea_: **"**Slow down, keep it cool this morning. This one is for you to sta
 _ImaCrea_: **"**Instantly memorable, reminiscence of Nancy Sinatra. Gosh I love so much Burger Records...**"**
 
 + ## Amber Cruz - Psychedelic Candy
-_ImaCrea_: **"**Rare late night discovery, smooth and delicate voice. Direct connection to my inner voice, food for the soul.**"**
+_ImaCrea_: **"**Rare gem I discovered by chance on a late night. Couldn't discern if I was dreaming or if this angel voice was really coming from my speakers. Smooth and delicate voice. Direct connection to my inner voice, food for the soul.**"**
 
 
 <p id="outroduction">That’s all folks! bla bla Have a superb Sunday!</p>
