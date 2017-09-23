@@ -62,4 +62,4 @@ _ImaCrea_: **"**Instantly memorable, reminiscence of Nancy Sinatra. Gosh I love 
 _ImaCrea_: **"**Rare gem I discovered by chance on a late night. Couldn't discern if I was dreaming or if this angel voice was really coming from my speakers. Smooth and delicate voice. Direct connection to my inner voice, food for the soul.**"**
 
 
-<p id="outroduction">That’s all folks! bla bla Have a superb Sunday!</p>
+<p id="outroduction">That’s all folks! Many thanks to Yellow Days for his collaboration. Have an inspiring Sunday, make your dreams come true!</p>
