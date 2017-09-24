@@ -31,6 +31,13 @@ track2_color: dreamy
 guestPic: guestPic279.jpg
 writer: ImaCrea
 episode_URL: 'https://www.mailta.pe/279/yellow-days/'
+description: >-
+  This morning, we keep it smooth and easy with this delicate indie selection
+  made with the talented 17 years old Yellow Days, aka George Van Den Broek.
+  Autumn just started 3 days ago, let’s stay in bed a little longer and plan our
+  next vacation... 
+fbPic: fbPic179.png
+musiColor: musiColor179.png
 ---
 <p id="introduction">This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old [Yellow Days](https://soundcloud.com/yellow-days), aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... </p>
 
