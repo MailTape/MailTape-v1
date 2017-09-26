@@ -60,7 +60,7 @@ _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing along
 _Sanjay_: **"**In collaboration with the BBC Concert Orchestra, Trish Clowes weaves smoothly around the strings with some intuitive interplay with fellow collaborator, Gwilym Simcock. A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
 
 ## Hear in Now — Last Night's Vacation
-_Sanjay_: **"**[Linda Buckley](http://www.lindabuckley.org/) was one of my first guests on MailTape and this episode is as good an excuse as any for a reintroduction. Perhaps a little early in the year for a carol for some but this feels like a glacially majestic addition to this morning's mirage.**"**
+_Sanjay_: **"**Moving eloquently between composition and improvisation, Hear in Now are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and the abstracted counterpoint of the cello.**"**
 
 ## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
 _Sanjay_: **"**I don't know a lot about [Anna Clock](https://www.annaclock.com/)'s work, but I've recently been enjoying some of her many varied compositions and collaborations. In her own words, this is 'a kind of cover of an auld Irish tune that I love. Listen with headphones if you want to hear binaural bits'.**"**
