@@ -63,6 +63,6 @@ _Sanjay_: **"**In collaboration with the BBC Concert Orchestra, Trish Clowes wea
 _Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and the abstracted counterpoint of the cello.**"**
 
 ## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
-_Sanjay_: **"**I don't know a lot about [Anna Clock](https://www.annaclock.com/)'s work, but I've recently been enjoying some of her many varied compositions and collaborations. In her own words, this is 'a kind of cover of an auld Irish tune that I love. Listen with headphones if you want to hear binaural bits'.**"**
+_Sanjay_: **"**Recorded in Montréal by two people I admire for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/).**"**
 
-<p id="outroduction">That's it for today. Thanks for listening and much love and thanks to [Loscil](http://loscil.ca/) for being our obliging guest this morning, and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's illustration!</p>
+<p id="outroduction">That's all for today. Thanks for listening and much gratitude and thanks to Julie Kjær for being our guest this morning, and to Camille Célestin for this episode's illustration!</p>
