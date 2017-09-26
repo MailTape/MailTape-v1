@@ -54,7 +54,7 @@ _Julie Kjær_: **"**And then for something completely different to sooth the mel
 # MailTape's selection
 
 ## Julie Kjær — 3/1
-_Sanjay_: **"**An oldie but a good from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Quartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) release last year, this ranges from loosely expressive to the melodically safe. Perfect for a Sunday morning.**"**
+_Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Quartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) release last year, this ranges from loosely expressive to the melodically safe. Perfect for a Sunday morning.**"**
 
 ## Trish Clowes - Chorale
 _Sanjay_: **"**I saw [Isnaj Dui (Katie English)](http://www.katie-english.net/) perform at Servant Jazz Quarters in London a few years ago and immediately reconciled this track with an episode like this. She delivered a brilliant performance of overlapping electronic loops from her flute, bass flute and a small homemade stringed instrument as she fired pulses of breath through the microphone to support her atmospheric vibrations.**"**
