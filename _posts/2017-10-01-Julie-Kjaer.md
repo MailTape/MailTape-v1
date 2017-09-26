@@ -57,7 +57,7 @@ _Julie Kjær_: **"**And then for something completely different to sooth the mel
 _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Quartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) release last year, this ranges from loosely expressive to the melodically safe. Perfect for a Sunday morning.**"**
 
 ## Trish Clowes - Chorale
-_Sanjay_: **"**I saw [Isnaj Dui (Katie English)](http://www.katie-english.net/) perform at Servant Jazz Quarters in London a few years ago and immediately reconciled this track with an episode like this. She delivered a brilliant performance of overlapping electronic loops from her flute, bass flute and a small homemade stringed instrument as she fired pulses of breath through the microphone to support her atmospheric vibrations.**"**
+_Sanjay_: **"**In collaboration with the BBC Concert Orchestra, Trish Clowes weaves smoothly around the strings with some intuitive interplay with fellow collaborator, Gwilym Simcock. A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
 
 ## Hear in Now — Last Night's Vacation
 _Sanjay_: **"**[Linda Buckley](http://www.lindabuckley.org/) was one of my first guests on MailTape and this episode is as good an excuse as any for a reintroduction. Perhaps a little early in the year for a carol for some but this feels like a glacially majestic addition to this morning's mirage.**"**
