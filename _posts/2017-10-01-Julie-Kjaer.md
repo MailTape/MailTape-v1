@@ -53,16 +53,16 @@ _Julie Kjær_: **"**And then for something completely different to sooth the mel
 
 # MailTape's selection
 
-## Loscil — Monument Builders
+## Julie Kjær — 3/1
 _Sanjay_: **"**Like flowers sprouting through the cracks of an abandoned locomotive, 'Monument Builders' is a tender record with fleeting and stark melodies throughout. Lose yourself this morning in a cavernous melancholy atmosphere.**"**
 
-## Isnaj Dui - East
+## Trish Clowes - Chorale
 _Sanjay_: **"**I saw [Isnaj Dui (Katie English)](http://www.katie-english.net/) perform at Servant Jazz Quarters in London a few years ago and immediately reconciled this track with an episode like this. She delivered a brilliant performance of overlapping electronic loops from her flute, bass flute and a small homemade stringed instrument as she fired pulses of breath through the microphone to support her atmospheric vibrations.**"**
 
-## Linda and Irene Buckley — Corpus Christi
+## Hear in Now — Last Night's Vacation
 _Sanjay_: **"**[Linda Buckley](http://www.lindabuckley.org/) was one of my first guests on MailTape and this episode is as good an excuse as any for a reintroduction. Perhaps a little early in the year for a carol for some but this feels like a glacially majestic addition to this morning's mirage.**"**
 
-## Anna Clock — Has Sorrow Thy Young Days Shaded
+## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
 _Sanjay_: **"**I don't know a lot about [Anna Clock](https://www.annaclock.com/)'s work, but I've recently been enjoying some of her many varied compositions and collaborations. In her own words, this is 'a kind of cover of an auld Irish tune that I love. Listen with headphones if you want to hear binaural bits'.**"**
 
 <p id="outroduction">That's it for today. Thanks for listening and much love and thanks to [Loscil](http://loscil.ca/) for being our obliging guest this morning, and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's illustration!</p>
