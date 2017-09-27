@@ -40,15 +40,15 @@ episode_URL: 'http://mailta.pe/280/julie-kjaer/'
 
 
 ## Corey Mwamba - Futurism #2
-_Julie Kjær_: **"**Futuristic sounds from lovely Derby, UK, based vibraphone player Corey Mwamba. 
+_Julie Kjær_: **"**Futuristic sounds from lovely Derby, UK, based vibraphone player [Corey Mwamba](http://www.coreymwamba.co.uk/). 
 I love the metallic and mellow sound of the vibes and the changing sections with repetitive rhythms and patterns. Corey is an energetic and forward thinking musician, who works hard promoting music and involving the community around him.**"**
 
 ## Goat - New Games
-_Julie Kjær_: **"**I’m staying for a bit in the same minimalist atmosphere with the Japanese band Goat from Osaka. Again it’s the defined sections with repetitive patterns and the fact it’s all played on real musical instruments that I really like. Although it’s repetitive the music evolves.
+_Julie Kjær_: **"**I’m staying for a bit in the same minimalist atmosphere with the Japanese band [Goat](http://goatjp.com/) from Osaka. Again it’s the defined sections with repetitive patterns and the fact it’s all played on real musical instruments that I really like. Although it’s repetitive the music evolves.
 I was lucky recently to hear the band live and it was a big experience seeing how they interacted on stage - deeply concentrated and focussed in the music in a very Japanese strict way.**"**
 
 ## Trio Brasileiro & Anat Cohen - Anat's Lament
-_Julie Kjær_: **"**And then for something completely different to sooth the melancholy part of me. My love for Brazilian music, including the Choro music, is big. The harmonies, melodies and rhythms and the whole energy of the music touches me deeply. Here a beautiful lament played by clarinettist Anat Cohen in a duo with guitar player Douglas Lora from the Trio Brasileiro & Anat Cohen album “Alegria Da Casa”.**"**
+_Julie Kjær_: **"**And then for something completely different to sooth the melancholy part of me. My love for Brazilian music, including the Choro music, is big. The harmonies, melodies and rhythms and the whole energy of the music touches me deeply. Here a beautiful lament played by clarinettist [Anat Cohen](https://www.anatcohen.com/) in a duo with guitar player [Douglas Lora](https://myspace.com/douglaslora) from the [Trio Brasileiro](https://triobrasileiro.com/) & Anat Cohen album “Alegria Da Casa”.**"**
 
 
 # MailTape's selection
@@ -57,7 +57,7 @@ _Julie Kjær_: **"**And then for something completely different to sooth the mel
 _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) release last year, this ranges from loosely expressive to the melodically safe. Perfect for a Sunday morning.**"**
 
 ## Trish Clowes - Chorale
-_Sanjay_: **"**In collaboration with the BBC Concert Orchestra, Trish Clowes weaves smoothly around the strings with some intuitive interplay with fellow collaborator, Gwilym Simcock. A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
+_Sanjay_: **"**In collaboration with the [BBC Concert Orchestra](https://www.bbc.co.uk/concertorchestra), [Trish Clowes](http://trishclowes.com/) weaves smoothly around the strings with some intuitive interplay with fellow collaborator, [Gwilym Simcock](http://gwilymsimcock.com/). A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
 
 ## Hear in Now — Last Night's Vacation
 _Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and the abstracted counterpoint of the cello.**"**
