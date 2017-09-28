@@ -31,9 +31,8 @@ track7_title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/280/julie-kjaer/'
 ---
-<p id="introduction">Stay in bed a little longer this morning as Vancouver-based ambient musician, [Loscil](http://loscil.ca/), surrounds us with a breathless and dense mirage.</p>
-<p>Creating his name from the compound of "loop" and "oscillate", Loscil primarily deals in icy textural atmospheres with eventual compositions opening up to include collaboration, improvisation, voices and acoustic instrumentation.</p>
-<p>For our friends in Europe, Loscil will be performing in London, Nantes, Milan, Bergen and Wrocław this October and November.</p> 
+<p id="introduction">This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, [Julie Kjær](https://juliekjaer.com/).</p>
+<p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side woman of several other English and Danish ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March 2016 on Clean Feed Records.</p>
 
 
 # Julie Kjær's selection
