@@ -65,4 +65,4 @@ _Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in
 ## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
 _Sanjay_: **"**Recorded in Montréal and taken from the Duets for Abdelrazik album.**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much gratitude and thanks to Julie Kjær for being our guest this morning, and to Camille Célestin for this episode's illustration!</p>
+<p id="outroduction">That's all for today. Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration!</p>
