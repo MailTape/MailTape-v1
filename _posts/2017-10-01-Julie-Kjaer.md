@@ -65,7 +65,7 @@ _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing along
 _Sanjay_: **"**In collaboration with the [BBC Concert Orchestra](https://www.bbc.co.uk/concertorchestra), [Trish Clowes](http://trishclowes.com/) weaves smoothly around the strings with some intuitive interplay with fellow collaborator, [Gwilym Simcock](http://gwilymsimcock.com/). A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
 
 ## Hear in Now — Last Night's Vacation
-_Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and the abstracted counterpoint of the cello.**"**
+_Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and an abstracted counterpoint of the cello.**"**
 
 ## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
 _Sanjay_: **"**And we close this morning's tape with a beautiful piece taken from the piano duets album to support the solidarity campaign for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/) in Montréal.**"**
