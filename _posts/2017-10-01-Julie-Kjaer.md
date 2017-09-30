@@ -53,7 +53,7 @@ _Julie Kjær_: **"**I’m staying for a bit in the same minimalist atmosphere wi
 I was lucky recently to hear the band live and it was a big experience seeing how they interacted on stage - deeply concentrated and focussed in the music in a very Japanese strict way.**"**
 
 ## Trio Brasileiro & Anat Cohen - Anat's Lament
-_Julie Kjær_: **"**And then for something completely different to sooth the melancholy part of me. My love for Brazilian music, including the Choro music, is big. The harmonies, melodies and rhythms and the whole energy of the music touches me deeply. Here a beautiful lament played by clarinettist [Anat Cohen](https://www.anatcohen.com/) in a duo with guitar player [Douglas Lora](https://myspace.com/douglaslora) from the [Trio Brasileiro](https://triobrasileiro.com/) & Anat Cohen album “Alegria Da Casa”.**"**
+_Julie Kjær_: **"**And then for something completely different to soothe the melancholy part of me. My love for Brazilian music, including the Choro music, is big. The harmonies, melodies and rhythms and the whole energy of the music touches me deeply. Here a beautiful lament played by clarinettist [Anat Cohen](https://www.anatcohen.com/) in a duo with guitar player [Douglas Lora](https://myspace.com/douglaslora) from the [Trio Brasileiro](https://triobrasileiro.com/) & [Anat Cohen](https://www.anatcohen.com/) album “Alegria Da Casa”.**"**
 
 
 # MailTape's selection
