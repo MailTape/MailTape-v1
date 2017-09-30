@@ -30,6 +30,7 @@ track7_link: 'https://soundcloud.com/spirodon/duet-for-abdelrazik-matana'
 track7_title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/280/julie-kjaer/'
+guestPic: guestPic280.jpg
 ---
 <p id="introduction">This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, [Julie Kjær](https://juliekjaer.com/).</p>
 <p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.</p>
