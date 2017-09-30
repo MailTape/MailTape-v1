@@ -59,7 +59,7 @@ _Julie Kjær_: **"**And then for something completely different to soothe the me
 # MailTape's selection
 
 ## Julie Kjær — 3/1
-_Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely-expressive to melodically safe. Perfect for a Sunday morning.**"**
+_Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely-expressive to melodically-safe. Perfect for a Sunday morning.**"**
 
 ## Trish Clowes - Chorale
 _Sanjay_: **"**In collaboration with the [BBC Concert Orchestra](https://www.bbc.co.uk/concertorchestra), [Trish Clowes](http://trishclowes.com/) weaves smoothly around the strings with some intuitive interplay with fellow collaborator, [Gwilym Simcock](http://gwilymsimcock.com/). A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
