@@ -47,20 +47,21 @@ _Maud Geffray_ : **"**Tragic romance, some of my friends wouldn’t share my ple
 
 ## Casual Gabberz — Inutile de fuir (la compilation)
 _Maud Geffray_ : **"**Crescendo. Casual Gabberz's compilation is perfect to give me power for the rest of the day.**"**
+
 _Louise_ :  **"**The compilation is made of 51 bombers tracks, I couldn't fit them all in this tape, so I chose the first track : Evil Grace — Bim Bim. If you liked this track, please go check out [the whole tape](https://soundcloud.com/casualgabberz/sets/inutile-de-fuir-casual-gabberz-va)!**"**
 
 # MailTape's selection
 
 ## Maud Geffray — Polaar
-_Louise_ : **"****"**
+_Louise_ : **"**This is the opening track of the eponym album of Maud Geffray. With this song, I feel like I can acheive anything. There's is something very cinematographic in it — as the rest of the LP. It blows me away... to another world.**"**
 
-## 
-_Louise_ : **"****"**
+## Helena Hauff — Gift
+_Louise_ : **"**This Helena Hauff track is perfect to start up the day! Some good synths and rythmn to kick your butt and boost your energy. It builds up in an amazing way!**"**
 
-## 
-_Louise_ : **"****"**
+## Gang Sign — Prequel
+_Louise_ : **"**As always when working on MailTape, I've been lost on Soundcloud. This track appears like it's gonna be a pop song at the beginning... but there's this fast synth that comes in and turn it into something more electronic. I love how this track evolves in something I didn't see coming.**"**
 
-## 
-_Louise_ : **"****"**
+## Hiroshi Yoshimura (吉村弘) — Dance PM
+_Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this japanese 80's song from Hiroshi Yoshimura. Couldn't find a better track to end this tape. After gabber... welcome ambient. **"**
 
 <p id="outroduction">That's all folks! Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
