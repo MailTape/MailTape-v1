@@ -20,6 +20,15 @@ track2_color: dreamy
 track3_title: EVIL GRIMACE — Bim Bim
 track3_color: trippy
 track3_link: 'https://soundcloud.com/casualgabberz/evil-grimace-bim-bim'
+track4_link: 'https://soundcloud.com/pan-european-recording/maud-geffray-ice-teens'
+track5_link: 'https://soundcloud.com/ninja-tune/helena-hauff-gift'
+track7_link: 'https://soundcloud.com/empireofsigns/04-dance-pm'
+track7_title: Hiroshi Yoshimura (吉村弘) — Dance PM
+track7_color: dreamy
+track4_title: Maud Geffray — Ice Teens
+track4_color: dreamy
+track5_title: Helena Hauff — Gift
+track5_color: rough
 ---
 <p id="introduction">This morning,</p>
 
@@ -38,7 +47,7 @@ _Louise_ :  **"**The compilation is made of 51 bombers tracks, I couldn't fit th
 
 # MailTape's selection
 
-## Maud Geffray —
+## Maud Geffray — Ice Teens
 _Louise_ : **"****"**
 
 ## 
