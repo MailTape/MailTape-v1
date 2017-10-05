@@ -64,4 +64,4 @@ _Louise_ : **"**As always when working on MailTape, I've been lost on Soundcloud
 ## Hiroshi Yoshimura (吉村弘) — Dance PM
 _Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this japanese 80's song from Hiroshi Yoshimura. Couldn't find a better track to end this tape. After gabber... welcome ambient. **"**
 
-<p id="outroduction">That's all folks! Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's all folks! Thanks for listening and thank a lot to Maud Geffray for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
