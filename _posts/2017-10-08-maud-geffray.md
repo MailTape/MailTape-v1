@@ -27,27 +27,27 @@ track3_link: 'https://soundcloud.com/casualgabberz/evil-grimace-bim-bim'
 # Maud Geffray's selection
 
 ## Alessandro Cortini — Scappa
-_Maud Geffray_: **"**I love that guy, Alessandro was the keyboard of NIN during a few years, what he does under his own name is incredible. He’s based in LA and is one of the best musician from this modular synth scene. Just perfect for a sunday morning.**"**
+_Maud Geffray_ : **"**I love that guy, Alessandro was the keyboard of NIN during a few years, what he does under his own name is incredible. He’s based in L.A. and is one of the best musician from this modular synth scene. Just perfect for a sunday morning.**"**
 
 ## Lana Del Rey - Love
-_Maud Geffray_: **"**Tragic romance, some of my friends wouldn’t share my pleasure, but that’s a real personal one.**"**
+_Maud Geffray_ : **"**Tragic romance, some of my friends wouldn’t share my pleasure, but that’s a real personal one.**"**
 
-## Casual Gabberz — Inutile de fuir - la compilation
-_Maud Geffray_: **"**Crescendo. The Casual Gabberz compilation is perfect to give me power for the rest of the day.**"**
-
+## Casual Gabberz — Inutile de fuir (la compilation)
+_Maud Geffray_ : **"**Crescendo. Casual Gabberz's compilation is perfect to give me power for the rest of the day.**"**
+_Louise_ :  **"**The compilation is made of 51 bombers tracks, I couldn't fit them all in this tape, so I chose the first track : Evil Grace — Bim Bim. If you liked this track, please go check out [the whole tape](https://soundcloud.com/casualgabberz/sets/inutile-de-fuir-casual-gabberz-va)!**"**
 
 # MailTape's selection
 
 ## Maud Geffray —
-_Louise_: **"****"**
+_Louise_ : **"****"**
 
 ## 
-_Louise_: **"****"**
+_Louise_ : **"****"**
 
 ## 
-_Louise_: **"****"**
+_Louise_ : **"****"**
 
 ## 
-_Louise_: **"****"**
+_Louise_ : **"****"**
 
 <p id="outroduction">That's all folks! Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
