@@ -17,9 +17,9 @@ track1_title: Alessandro Cortini — Scappa
 track1_color: bliss
 track2_title: Lana Del Rey — Love
 track2_color: dreamy
-track3_title: EVIL GRIMACE — Bim Bim
+track3_title: Paul Seul — Lycamobile
 track3_color: trippy
-track3_link: 'https://soundcloud.com/casualgabberz/evil-grimace-bim-bim'
+track3_link: 'https://soundcloud.com/casualgabberz/paul-seul-lycamobile'
 track4_link: 'https://soundcloud.com/pan-european-recording/polaar'
 track5_link: 'https://soundcloud.com/ninja-tune/helena-hauff-gift'
 track7_link: 'https://soundcloud.com/empireofsigns/04-dance-pm'
