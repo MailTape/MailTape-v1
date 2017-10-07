@@ -34,7 +34,7 @@ track6_title: Gang Sign — Prequel
 track6_color: bliss
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/281/track2.mp3'
 ---
-<p id="introduction">This morning, the amazing producer Maud Geffray has join us. Her solo album Polaar is a gem of cold electronic music with many layers to dig into.<br>Today's MailTape is a rollercoaster of emotions and feelings. I hope you are ready for the ride !</p>
+<p id="introduction">This morning, the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) has join us. Her solo album Polaar is a gem of cold electronic music with many layers to dig into.<br>Today's MailTape is a rollercoaster of emotions and feelings melted in eletronic sounds. I hope you are ready for the ride! I'm really proud of this episode, so let me know your thoughts on this.</p>
 
 # Maud Geffray's selection
 
@@ -61,6 +61,6 @@ _Louise_ : **"**This Helena Hauff track is perfect to start up the day! Some goo
 _Louise_ : **"**As always when working on MailTape, I've been lost on Soundcloud. This track appears like it's gonna be a pop song at the beginning... but there's this fast synth that comes in and turn it into something more electronic. I love how this track evolves in something I didn't see coming.**"**
 
 ## Hiroshi Yoshimura (吉村弘) — Dance PM
-_Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this japanese 80's song from Hiroshi Yoshimura. Couldn't find a better track to end this tape. After gabber... welcome ambient. **"**
+_Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this japanese 80's song from Hiroshi Yoshimura. Couldn't find a better track to end this tape. Ambient at its best!**"**
 
-<p id="outroduction">That's all folks! Thanks for listening and thank a lot to Maud Geffray for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's all folks! Hope you enjoyed listening to this episode and a huge thanks to [Maud Geffray](https://www.facebook.com/maudgeffray75/) for being our guest! Also, amazing artwork is from [Camille Célestin](http://bravocamo.studio/), thank you for this wonderful illustration!</p>
