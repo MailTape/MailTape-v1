@@ -38,7 +38,7 @@ description: >-
   Today's MailTape is a rollercoaster of emotions and feelings melted in
   electronic sounds. I hope you are ready for the ride!
 ---
-<p id="introduction">This morning, the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) has join us. Her [solo album POLAAR](https://paneuropeanrecording.bandcamp.com/album/polaar) is a gem of cold electronic music with many layers to dig into. Today's MailTape is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you are ready for the ride! I'm really proud of this episode, so let me know your thoughts on this.</p>
+<p id="introduction">This morning we welcome the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) on MailTape. Her [solo album 'POLAAR'](https://paneuropeanrecording.bandcamp.com/album/polaar) is a multi-layered gem of cold electronic music. Today’s episode is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you're ready for the ride! I’m really proud of this episode, and I'd love to hear your thoughts on this.</p>
 
 # Maud Geffray's selection
 
@@ -56,15 +56,15 @@ _Louise_ :  **"**The compilation is made of 51 banger tracks, I couldn't fit the
 # MailTape's selection
 
 ## Maud Geffray — Polaar
-_Louise_ : **"**This is the opening track of the eponym album of Maud Geffray. With this song, I feel like I can acheive anything. There's is something very cinematographic in it — as the rest of the LP. It blows me away... to another world.**"**
+_Louise_ : **"**This is the opening track from Maud Geffray's debut album. With this song I feel like I can achieve anything. There’s something very cinematic in it, just as the rest of the LP. It blows me away to another world.**"**
 
 ## Helena Hauff — Gift
-_Louise_ : **"**This Helena Hauff track is perfect to start up the day! Some good synths and rythmn to kick your butt and boost your energy. It builds up in an amazing way!**"**
+_Louise_ : **"**This Helena Hauff track is perfect to start the day! Some good synths and rhythm to kick your butt and boost your energy. It builds up in an amazing way!**"**
 
 ## Gang Sign — Prequel
-_Louise_ : **"**As always when working on MailTape, I've been lost on Soundcloud. This track appears like it's gonna be a pop song at the beginning... but there's this fast synth that comes in and turn it into something more electronic. I love how this track evolves in something I didn't see coming.**"**
+_Louise_ : **"**As always when working on MailTape, I’ve been lost in Soundcloud. This track appears as if it’s gonna be a pop song at the beginning… but there’s this fast synth that comes in and turns it into something more electronic. I love how this track evolves in a way I didn’t see coming.**"**
 
 ## Hiroshi Yoshimura (吉村弘) — Dance PM
-_Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this japanese 80's song from Hiroshi Yoshimura. Couldn't find a better track to end this tape. Ambient at its best!**"**
+_Louise_ : **"**I felt like I had to have something really smooth to close this tape. I was amazed when I found this Japanese 80’s song from Hiroshi Yoshimura. I couldn’t find a better track to end this tape. Ambient at its best!**"**
 
 <p id="outroduction">That's all folks! Hope you enjoyed listening to this episode and a huge thanks to [Maud Geffray](https://www.facebook.com/maudgeffray75/) for being our guest! Also, amazing artwork is from [Camille Célestin](http://bravocamo.studio/), thank you for this wonderful illustration!</p>
