@@ -48,7 +48,7 @@ _Maud Geffray_ : **"**Tragic romance, some of my friends wouldn’t share my ple
 ## Casual Gabberz — Inutile de fuir (la compilation)
 _Maud Geffray_ : **"**Crescendo. [Casual Gabberz's compilation](https://soundcloud.com/casualgabberz/sets/inutile-de-fuir-casual-gabberz-va) is perfect to give me power for the rest of the day.**"**
 
-_Louise_ :  **"**The compilation is made of 51 banger tracks, I couldn't fit them all in this tape, so I chose the first track : Evil Grace — Bim Bim. If you liked this track, please go check out [the whole tape](https://soundcloud.com/casualgabberz/sets/inutile-de-fuir-casual-gabberz-va)!**"**
+_Louise_ :  **"**The compilation is made of 51 banger tracks, I couldn't fit them all in this tape, so Maud chose the track **Lycamobile by Paul Seul**. If you liked this track, please go check out [the whole tape](https://soundcloud.com/casualgabberz/sets/inutile-de-fuir-casual-gabberz-va)!**"**
 
 # MailTape's selection
 
