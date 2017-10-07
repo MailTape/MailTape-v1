@@ -38,7 +38,7 @@ description: >-
   Today's MailTape is a rollercoaster of emotions and feelings melted in
   electronic sounds. I hope you are ready for the ride!
 ---
-<p id="introduction">This morning, the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) has join us. Her [solo album POLAAR](https://paneuropeanrecording.bandcamp.com/album/polaar) is a gem of cold electronic music with many layers to dig into. Today's MailTape is a rollercoaster of emotions and feelings melted in eletronic sounds. I hope you are ready for the ride! I'm really proud of this episode, so let me know your thoughts on this.</p>
+<p id="introduction">This morning, the amazing producer [Maud Geffray](https://www.facebook.com/maudgeffray75/) has join us. Her [solo album POLAAR](https://paneuropeanrecording.bandcamp.com/album/polaar) is a gem of cold electronic music with many layers to dig into. Today's MailTape is a rollercoaster of emotions and feelings melted in electronic sounds. I hope you are ready for the ride! I'm really proud of this episode, so let me know your thoughts on this.</p>
 
 # Maud Geffray's selection
 
