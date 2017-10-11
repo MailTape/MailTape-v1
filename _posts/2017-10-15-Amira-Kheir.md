@@ -12,9 +12,9 @@ track1_link: 'https://mailtapetracks.s3.amazonaws.com/282/track1.mp3'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/282/track2.mp3'
 track3_link: 'https://mailtapetracks.s3.amazonaws.com/282/track3.mp3'
 track4_link: 'https://soundcloud.com/michele-montolli/03-habibi-taal-1'
-track5_link: 'https://soundcloud.com/nettwerkmusicgroup/love-came-here'
+track5_link: 'https://soundcloud.com/aroojaftab/mohabbat-live-in-berlin-wassermusikfestival'
 track6_link: 'https://soundcloud.com/susheela-raman-1/vinayaka'
-track7_link: 'https://soundcloud.com/aroojaftab/05-na-ja-balam-pardes'
+track7_link: 'https://soundcloud.com/savannah-pryor/rising-lhasa-de-sela'
 track1_title: Sarah Vaughan – All of Me
 track1_color: vibrant
 track2_title: Ali Farka Touré & Ry Cooder – Gomni
@@ -23,11 +23,11 @@ track3_title: A Tribe Called Quest – We Can Get Down
 track3_color: rough
 track4_title: Amira Kheir – Habibi Ta'al
 track4_color: trippy
-track5_title: Lhasa de Sela – Love Came Here
+track5_title: Arooj Aftab – Mohabbat (Live in Berlin)
 track5_color: dreamy
 track6_title: Susheela Raman – Vinayaka
 track6_color: bliss
-track7_title: Arooj Aftab – Na Ja Balam Pardes
+track7_title: Lhasa De Sela – Rising
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/282/amira-kheir/'
 guestPic: guestPic282.jpg
