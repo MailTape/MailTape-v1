@@ -36,19 +36,17 @@ guestPic: guestPic282.jpg
 <p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.</p>
 
 
-# Julie Kjær's selection
+# Amira Kheir's selection
 
 
-## Corey Mwamba - Futurism #2
-_Julie Kjær_: **"**Futuristic sounds from lovely Derby, UK, based vibraphone player [Corey Mwamba](http://www.coreymwamba.co.uk/). 
-I love the metallic and mellow sound of the vibes and the changing sections with repetitive rhythms and patterns. Corey is an energetic and forward thinking musician, who works hard promoting music and involving the community around him.**"**
+## Sarah Vaughan - All of Me
+_Amira Kheir_: **"**Needless to say, she's at the very top of my pyramid of wonderful vocalists of our time. I can listen to her any time, any day of the week. In this song especially, I love her playfulness and the feel she creates with her trio is just perfect. This totally sets the mood for my Sunday morning.**"**
 
-## Goat - New Games
-_Julie Kjær_: **"**I’m staying for a bit in the same minimalist atmosphere with the Japanese band [Goat](http://goatjp.com/) from Osaka. Again it’s the defined sections with repetitive patterns and the fact it’s all played on real musical instruments that I really like. Although it’s repetitive the music evolves.
-I was lucky recently to hear the band live and it was a big experience seeing how they interacted on stage - deeply concentrated and focussed in the music in a very Japanese strict way.**"**
+## Ali Farka Touré & Ry Cooder - Gomni
+_Amira Kheir_: **"**Collaborations of this kind are really hard to get right, but this one has created one of my favourite albums. What I love about this song, is the effortlessness. Both musicians leave so much space for one another and there is just no rush to get going. The communication is so natural and that's what allows the spirit of the song to be conjured. It's timeless - and I love getting in the zone with this on lazy Sunday mornings.**"**
 
-## Trio Brasileiro & Anat Cohen - Anat's Lament
-_Julie Kjær_: **"**And then for something completely different to soothe the melancholy part of me. My love for Brazilian music, including the Choro music, is big. The harmonies, melodies and rhythms and the whole energy of the music touches me deeply. Here a beautiful lament played by clarinettist [Anat Cohen](https://www.anatcohen.com/) in a duo with guitar player [Douglas Lora](https://myspace.com/douglaslora) from the [Trio Brasileiro](https://triobrasileiro.com/) & [Anat Cohen](https://www.anatcohen.com/) album “Alegria Da Casa”.**"**
+## A Tribe Called Quest - We Can Get Down
+_Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without A Tribe Called Quest! I'm a child of the 80s, so 90s hiphop is part of the soundtrack to my childhood. In fact this is most of what I listen to on those Sundays when I'm able to start the day nice and slow, and it accompanies me throughout the day if I'm doing chores or lazing around with friends. **"**
 
 
 # MailTape's selection
