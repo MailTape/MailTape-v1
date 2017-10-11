@@ -17,7 +17,7 @@ track6_link: 'https://soundcloud.com/susheela-raman-1/vinayaka'
 track7_link: 'https://soundcloud.com/aroojaftab/05-na-ja-balam-pardes'
 track1_title: Sarah Vaughan – All of Me
 track1_color: vibrant
-track2_title: Ali Farka Toure & Ry Cooder – Gomni
+track2_title: Ali Farka Touré & Ry Cooder – Gomni
 track2_color: bliss
 track3_title: A Tribe Called Quest – We Can Get Down
 track3_color: rough
