@@ -30,6 +30,7 @@ track6_color: bliss
 track7_title: Arooj Aftab – Na Ja Balam Pardes
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/282/amira-kheir/'
+guestPic: guestPic282.jpg
 ---
 <p id="introduction">This morning we welcome the infectious enthusiasm and unbridled energy of London-based multi-reed player, [Julie Kjær](https://juliekjaer.com/).</p>
 <p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.</p>
