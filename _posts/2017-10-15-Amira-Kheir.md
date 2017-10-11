@@ -51,16 +51,16 @@ _Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without
 
 # MailTape's selection
 
-## Julie Kjær — 3/1
+## Amira Kheir — Habibi Ta'al
 _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely expressive to melodically safe. Perfect for a Sunday morning.**"**
 
-## Trish Clowes - Chorale
+## Arooj Aftab - Mohabbat (Live in Berlin)
 _Sanjay_: **"**In collaboration with the [BBC Concert Orchestra](https://www.bbc.co.uk/concertorchestra), [Trish Clowes](http://trishclowes.com/) weaves smoothly around the strings with some intuitive interplay with fellow collaborator, [Gwilym Simcock](http://gwilymsimcock.com/). A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
 
-## Hear in Now — Last Night's Vacation
+## Susheela Raman — Vinayaka
 _Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and an abstracted counterpoint of the cello.**"**
 
-## Matana Roberts & Stefan Christoff — Duet for Abdelrazik
+## Lhasa De Sela — Rising
 _Sanjay_: **"**And we close this morning's tape with a beautiful piece taken from a piano duets album to support the solidarity campaign for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/) in Montréal.**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
