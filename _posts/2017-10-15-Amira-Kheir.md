@@ -8,7 +8,7 @@ writer: Sanjay Mistry
 category: '282'
 guest_name: Amira Kheir
 guest_color: vibrant
-track1_link: 'https://soundcloud.com/sarahvaughanofficial/all-of-me-5'
+track1_link: 'https://mailtapetracks.s3.amazonaws.com/282/track1.mp3'
 track2_link: 'https://mailtapetracks.s3.amazonaws.com/282/track2.mp3'
 track3_link: 'https://mailtapetracks.s3.amazonaws.com/282/track3.mp3'
 track4_link: 'https://soundcloud.com/michele-montolli/03-habibi-taal-1'
