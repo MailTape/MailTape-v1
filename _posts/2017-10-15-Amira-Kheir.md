@@ -62,7 +62,7 @@ _Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without
 _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely expressive to melodically safe. Perfect for a Sunday morning.**"**
 
 ## Arooj Aftab - Mohabbat (Live in Berlin)
-_Sanjay_: **"**In collaboration with the [BBC Concert Orchestra](https://www.bbc.co.uk/concertorchestra), [Trish Clowes](http://trishclowes.com/) weaves smoothly around the strings with some intuitive interplay with fellow collaborator, [Gwilym Simcock](http://gwilymsimcock.com/). A sensitively-balanced and dreamy tune for a Sunday morning with some nice orchestral arrangements reminiscent of Claus Ogerman.**"**
+_Sanjay_: **"**I've worn Arooj's EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it seems perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London!**"**
 
 ## Susheela Raman — Vinayaka
 _Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and an abstracted counterpoint of the cello.**"**
