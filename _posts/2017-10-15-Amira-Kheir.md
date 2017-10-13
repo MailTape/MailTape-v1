@@ -33,7 +33,8 @@ episode_URL: 'http://mailta.pe/282/amira-kheir/'
 guestPic: guestPic282.jpg
 ---
 <p id="introduction">Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.</p>
-<p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.</p>
+<p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Her music is a spiritual journey, evocative of Northern Sudan’s desert landscape and celebrative of its ancient culture, but recognising of the world’s multitude realities and rooted in a desire to bring people together.</p>
+<p>Within this soudscape, East African rhythms blend with North African ambience, through hints of Afro-Latin grooves and Neo-Soul, expressing themselves through a soulful explosion of jazz improvisation. Amira’s music possesses within it ancient musical traditions, yet is delivered with a contemporary vibrancy reflective of London’s multicultural music scene.</p>
 
 
 # Amira Kheir's selection
