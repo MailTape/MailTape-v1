@@ -70,4 +70,4 @@ _Sanjay_: **"**Susheela Raman sings her own individual take on Indian classical,
 ## Lhasa De Sela — Rising
 _Sanjay_: **"**And we close this morning's tape with a beautiful piece taken from a piano duets album to support the solidarity campaign for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/) in Montréal.**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much gratitude and thanks to [Julie Kjær](https://juliekjaer.com/) for being our guest this morning, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's all for today. Thanks so much for listening and love to [Amira Kheir](http://amirakheir.com/) for being our guest this morning, and to [William Girault](http://williamgirault.com/) for this episode's beautiful illustration!</p>
