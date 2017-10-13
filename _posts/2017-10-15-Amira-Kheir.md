@@ -65,7 +65,7 @@ _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing along
 _Sanjay_: **"**I've worn Arooj's EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
 
 ## Susheela Raman — Vinayaka
-_Sanjay_: **"**Susheela Raman sings her own individual take on Indian classical, traditional Tamil music and an array of other music.**"**
+_Sanjay_: **"**Susheela Raman sings her own individual take on Indian classical, traditional Tamil music and an array of so much more.**"**
 
 ## Lhasa De Sela — Rising
 _Sanjay_: **"**And we close this morning's tape with a beautiful piece taken from a piano duets album to support the solidarity campaign for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/) in Montréal.**"**
