@@ -62,10 +62,10 @@ _Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without
 _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely expressive to melodically safe. Perfect for a Sunday morning.**"**
 
 ## Arooj Aftab - Mohabbat (Live in Berlin)
-_Sanjay_: **"**I've worn Arooj's EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it seems perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London!**"**
+_Sanjay_: **"**I've worn Arooj's EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
 
 ## Susheela Raman — Vinayaka
-_Sanjay_: **"**Moving eloquently between composition and improvisation, [Hear in Now](http://www.hearinnow.com/) are violinst Mazz Swift, cellist Tomeka Reid and bassist Silvia Bolognesi. A short and sharp burst of lyrical and soaring violin, amid a searching bass and an abstracted counterpoint of the cello.**"**
+_Sanjay_: **"**Susheela Raman sings her own individual take on Indian classical, traditional Tamil music and an array of other music.**"**
 
 ## Lhasa De Sela — Rising
 _Sanjay_: **"**And we close this morning's tape with a beautiful piece taken from a piano duets album to support the solidarity campaign for [Abousfian Abdelrazik](http://www.peoplescommission.org/en/abdelrazik/) in Montréal.**"**
