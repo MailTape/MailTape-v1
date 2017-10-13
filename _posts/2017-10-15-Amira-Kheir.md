@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/282/amira-kheir/'
 guestPic: guestPic282.jpg
 ---
-<p id="introduction">Described by Songlines magazine as ‘bold and poetic… beautiful and fearless”, we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.</p>
+<p id="introduction">Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.</p>
 <p>She has toured internationally and recorded with Django Bates and StoRMChaser. She also plays with [London Improvisers Orchestra](http://www.londonimprovisersorchestra.co.uk/) and is a leader and side-woman of several other ensembles – including her latest trio, Julie Kjær 3, with bass player John Edwards and drummer Steve Noble. Their debut album ‘[Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/)’ was released in March last year on Lisbon's Clean Feed Records.</p>
 
 
