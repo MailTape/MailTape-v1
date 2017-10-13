@@ -32,6 +32,10 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/282/amira-kheir/'
 guestPic: guestPic282.jpg
 fbPic: fbPic282.jpg
+description: >-
+  Described by Songlines magazine as ‘bold and poetic… beautiful and fearless’,
+  we are delighted to share vocalist Amira Kheir’s Sunday morning listening for
+  MailTape.
 ---
 <p id="introduction">Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.</p>
 <p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Her music is a spiritual journey, evocative of Northern Sudan’s desert landscape and celebrative of its ancient culture, but recognising of the world’s multitude realities and rooted in a desire to bring people together.</p>
