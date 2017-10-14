@@ -16,6 +16,10 @@ track2_color: dreamy
 track3_title: Sundae - Verano-Invierno
 track3_color: dreamy
 category: '283'
+track4_link: 'https://soundcloud.com/jardn/mon-amour-na-pas-de-sexe'
+track4_title: Jardin - Mon amour n'a pas de sexe
+track4_color: trippy
+episode_URL: 'https://www.mailta.pe/283/le-turc-mecanique/'
 ---
 ## A New Post
 
