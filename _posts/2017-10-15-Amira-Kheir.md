@@ -68,6 +68,6 @@ _Sanjay_: **"**I've worn [Arooj](https://aroojaftab.bandcamp.com/)'s EP down qui
 _Sanjay_: **"**[Susheela Raman](https://www.susheelaraman.com) sings her own individual take on Indian classical, traditional Tamil music and an array of so much more. This one was recorded in 2009 before her brilliant debut album, 'Salt Rain'. For our friends in France, Susheela will be revisiting Salt Rain on tour at Saint-Raphaël, Saint-Jean-De-Védas and Sérignan in November.**"**
 
 ## Lhasa de Sela — Rising
-_Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album produced and released during her 21-month battle with breast cancer, which she lost on January 1st of 2010.**"**
+_Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album produced and released during her 21-month battle with breast cancer, which she lost on January 1st 2010.**"**
 
 <p id="outroduction">That's all for today. Thanks so much for listening and love to [Amira Kheir](http://amirakheir.com/) for being our guest this morning, and to [William Girault](http://williamgirault.com/) for this episode's beautiful illustration!</p>
