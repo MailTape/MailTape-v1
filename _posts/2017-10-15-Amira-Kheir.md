@@ -49,7 +49,7 @@ musiColor: musiColor282.png
 _Amira Kheir_: **"**Needless to say, she's at the very top of my pyramid of wonderful vocalists of our time. I can listen to her any time, any day of the week. In this song especially, I love her playfulness and the feel she creates with her trio is just perfect. This totally sets the mood for my Sunday morning.**"**
 
 ## Ali Farka Touré & Ry Cooder – Gomni
-_Amira Kheir_: **"**Collaborations of this kind are really hard to get right, but this one has created one of my favourite albums. What I love about this song, is the effortlessness. Both musicians leave so much space for one another and there is just no rush to get going. The communication is so natural and that's what allows the spirit of the song to be conjured. It's timeless - and I love getting in the zone with this on lazy Sunday mornings.**"**
+_Amira Kheir_: **"**Collaborations of this kind are really hard to get right, but this one has created one of my favourite albums. What I love about this song, is the effortlessness. Both musicians leave so much space for one another and there is just no rush to get going. The communication is so natural and that's what allows the spirit of the song to be conjured. It's timeless — and I love getting in the zone with this on lazy Sunday mornings.**"**
 
 ## A Tribe Called Quest – We Can Get Down
 _Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without A Tribe Called Quest! I'm a child of the 80s, so 90s hiphop is part of the soundtrack to my childhood. In fact this is most of what I listen to on those Sundays when I'm able to start the day nice and slow, and it accompanies me throughout the day if I'm doing chores or lazing around with friends. **"**
