@@ -65,7 +65,7 @@ _Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing along
 _Sanjay_: **"**I've worn [Arooj](https://aroojaftab.bandcamp.com/)'s EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
 
 ## Susheela Raman — Vinayaka
-_Sanjay_: **"**[Susheela Raman](https://www.susheelaraman.com) sings her own individual take on Indian classical, traditional Tamil music and an array of so much more. This one was recorded in 2009 before the brilliant debut album, 'Salt Rain'. For our friends in France, Susheela will be revisiting Salt Rain on tour at Saint-Raphaël, Saint-Jean-De-Védas and Sérignan in November.**"**
+_Sanjay_: **"**[Susheela Raman](https://www.susheelaraman.com) sings her own individual take on Indian classical, traditional Tamil music and an array of so much more. This one was recorded in 2009 before her brilliant debut album, 'Salt Rain'. For our friends in France, Susheela will be revisiting Salt Rain on tour at Saint-Raphaël, Saint-Jean-De-Védas and Sérignan in November.**"**
 
 ## Lhasa de Sela — Rising
 _Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album produced and released during her 21-month battle with breast cancer, which she lost on January 1st of 2010.**"**
