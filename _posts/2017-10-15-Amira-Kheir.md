@@ -59,7 +59,7 @@ _Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without
 # MailTape's selection
 
 ## Amira Kheir — Habibi Ta'al
-_Sanjay_: **"**An oldie but a goodie from 2009 with Julie Kjær performing alongside Kasper Bjerg, Thomas Sejthen and Søren Mehlsen as the Julie Kjær Kvartet. Less bold and provocative than the brilliant [Dobbeltgænger](https://cleanfeed-records.com/product/dobbeltgaeenger/) released last year, this ranges from loosely expressive to melodically safe. Perfect for a Sunday morning.**"**
+_Sanjay_: **"**There's so much to love about Amira's music — not least the well-rounded arrangements and imaginative melodies that combine to create inspired and suggestive atmospheres. Although a more impersonal space, her performance yesterday afternoon in Trafalgar Square, London, for Black History Month 2017 was a brief amble through her burgeoning discography.**"**
 
 ## Arooj Aftab - Mohabbat (Live in Berlin)
 _Sanjay_: **"**I've worn [Arooj](https://aroojaftab.bandcamp.com/)'s EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
