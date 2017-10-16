@@ -20,6 +20,9 @@ track4_link: 'https://soundcloud.com/jardn/mon-amour-na-pas-de-sexe'
 track4_title: Jardin - Mon amour n'a pas de sexe
 track4_color: trippy
 episode_URL: 'https://www.mailta.pe/283/le-turc-mecanique/'
+track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
+track6_title: Police des Moeurs - Heure Bleue
+track6_color: vibrant
 ---
 ## A New Post
 
