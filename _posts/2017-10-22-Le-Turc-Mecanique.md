@@ -23,6 +23,7 @@ episode_URL: 'https://www.mailta.pe/283/le-turc-mecanique/'
 track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 track6_title: Police des Moeurs - Heure Bleue
 track6_color: vibrant
+track7_link: 'https://soundcloud.com/heartheouts/09-lovers-spit-cover-march-5'
 ---
 <p id="introduction"> [Le Turc Mécanique](http://amirakheir.com/)'s selection</p>
 
