@@ -24,6 +24,34 @@ track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-b
 track6_title: Police des Moeurs - Heure Bleue
 track6_color: vibrant
 ---
-## A New Post
+<p id="introduction"> [Le Turc Mécanique](http://amirakheir.com/)'s selection</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# Le Turc Mécanique's selection
+
+
+## Colombey - La dernière 8.6 de la ville
+_Le Turc Mécanique_: **"--**"**
+
+## Nina Harker - Crepuscùlo
+_Le Turc Mécanique_: **"**--**"**
+
+## Sundae - Verano-Invierno
+_Le Turc Mécanique_: **"**--**"**
+
+
+# MailTape's selection
+
+## Jardin - Mon amour n'a pas de sexe
+_Inès_: **"**--**"**
+
+## 
+_Inès_: **"**--**"**
+
+## Police des Moeurs - Heure Bleue
+_Inès_: **"**--**"**
+
+## 
+_Inès_: **"**--**"**
+
+<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us, have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/), and thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration. Have a Sunday!</p>
