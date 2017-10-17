@@ -58,6 +58,6 @@ _Inès_: **"**--**"**
 _Inès_: **"**--**"**
 
 ## Chris Rubeo - Lover's Spit
-_Inès_: **"**--**"**
+_Inès_: **"**Part of [The Outs](http://www.theouts.com/)' soundtrack**"**
 
-<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us, have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/), and thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration. Have a Sunday!</p>
+<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), and thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration. Have a Sunday!</p>
