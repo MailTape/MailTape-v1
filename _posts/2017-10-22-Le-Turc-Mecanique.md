@@ -49,7 +49,7 @@ _Le Turc Mécanique_: **"**--**"**
 # MailTape's selection
 
 ## Jardin - Mon amour n'a pas de sexe
-_Inès_: **"**--**"**
+_Inès_: **"**It was hard for me to pick one song from all**"**
 
 ## Koudlam - Negative Creep
 _Inès_: **"**--**"**
@@ -58,6 +58,6 @@ _Inès_: **"**--**"**
 _Inès_: **"**--**"**
 
 ## Chris Rubeo - Lover's Spit
-_Inès_: **"**Part of [The Outs](http://www.theouts.com/)' soundtrack**"**
+_Inès_: **"**Time for some sweetness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song, 'Lover's Spit' **"**
 
 <p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), and thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration. Have a Sunday!</p>
