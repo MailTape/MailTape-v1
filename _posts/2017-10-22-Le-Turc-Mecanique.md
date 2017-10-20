@@ -35,7 +35,7 @@ track7_color: dreamy
 
 
 ## Colombey - La dernière 8.6 de la ville
-_Le Turc Mécanique_: **"Colombey’s latest LP has been released very recently, but it’s been many years that it's been listened to on loop on Sunday mornings. Mornings after you have not slept, when you are safely cloistered in your flat that has become gloomy, now silent and rigid, facing the music of this guy who tells you word-for-word what we are thinking. Of course, it won’t be easily understandable for English speakers, but I think that his way of singing can be quite self-explanatory.**"**
+_Le Turc Mécanique_: **"**Colombey’s latest LP has been released very recently, but it’s been many years that it's been listened to on loop on Sunday mornings. Mornings after you have not slept, when you are safely cloistered in your flat that has become gloomy, now silent and rigid, facing the music of this guy who tells you word-for-word what we are thinking. Of course, it won’t be easily understandable for English speakers, but I think that his way of singing can be quite self-explanatory.**"**
 
 ## Nina Harker - Crepuscùlo
 _Le Turc Mécanique_: **"**Indispensable, invincible and tireless: 'Crepuscùlo' is certainly the best pop song written in France since I've been there. An amazing reinterpretation of the feeling of Spanish pop (no clichés here) with bird noises, 80's shrieking guitar, slippery synth, a [Solid Space](https://www.youtube.com/watch?v=5Amcuyzd54s)-inspired sound — paralyzing. Moreover, it was the first release of an awesome label — le Syndicat des Scorpions — who have not been disappointing so far.**"**
