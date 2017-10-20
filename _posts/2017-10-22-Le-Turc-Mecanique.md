@@ -35,13 +35,13 @@ track7_color: dreamy
 
 
 ## Colombey - La dernière 8.6 de la ville
-_Le Turc Mécanique_: **"--**"**
+_Le Turc Mécanique_: **"Colombey’s latest LP has been released very recently, but it’s been many years that it's been listened to on loop on Sunday mornings. Mornings after you have not slept, when you are safely cloistered in your flat that has become gloomy, now silent and rigid, facing the music of this guy who tells you word-for-word what we are thinking. Of course, it won’t be easily understandable for English speakers, but I think that his way of singing can be quite self-explanatory.**"**
 
 ## Nina Harker - Crepuscùlo
-_Le Turc Mécanique_: **"**--**"**
+_Le Turc Mécanique_: **"**Indispensable, invincible and tireless: 'Crepusculo' is certainly the best pop song written in France since I've been there. An amazing reinterpretation of the feeling of Spanish pop (no clichés here) with bird noises, 80's shrieking guitar, slippery synth, a [Solid Space](https://www.youtube.com/watch?v=5Amcuyzd54s)-inspired sound — paralyzing. Moreover, it was the first release of an awesome label — le Syndicat des Scorpions — who have not been disappointing so far.**"**
 
 ## Sundae - Verano-Invierno
-_Le Turc Mécanique_: **"**--**"**
+_Le Turc Mécanique_: **"**This Spanish pop is a guilty pleasure. They have a very different interpretation of this musical corpus compared to France, and a language that inevitably colours the tracks. Sundae was a band from Seville, brought to France mainly by Beko in the early 2010s. These guys are masters of post-hangover comfort music. I had the chance to meet Davis, their singer, who gave me a tour of Seville, and who I missed recently in Paris, like a big idiot. An adorable guy, much like his music.**"**
 
 
 # MailTape's selection
@@ -58,4 +58,4 @@ _Inès_: **"**--**"**
 ## Chris Rubeo - Lover's Spit
 _Inès_: **"**Time for some sweetness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song, 'Lover's Spit' **"**
 
-<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), and thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration. Have a Sunday!</p>
+<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration and [Sanjay](http://sanjaymistry.com/) for helping with the translation. Have a terrific Sunday!</p>
