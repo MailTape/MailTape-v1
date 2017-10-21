@@ -20,13 +20,17 @@ track4_link: 'https://soundcloud.com/jardn/mon-amour-na-pas-de-sexe'
 track4_title: Jardin - Mon amour n'a pas de sexe
 track4_color: trippy
 episode_URL: 'https://www.mailta.pe/283/le-turc-mecanique/'
-track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
-track6_title: Police des Moeurs - Heure Bleue
-track6_color: vibrant
+track6_link: >-
+  https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni
+track6_title: Утро - Как Же Я Был Слаб В Те Дни
+track6_color: trippy
 track7_link: 'https://soundcloud.com/heartheouts/09-lovers-spit-cover-march-5'
-track5_color: trippy
+track5_color: vibrant
 track7_title: Chris Rubeo - Lover's Spit
 track7_color: dreamy
+guestPic: guestPic283.jpg
+track5_title: Police des Moeurs - Heure Bleue
+track5_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 ---
 <p id="introduction"> [Le Turc Mécanique](http://amirakheir.com/)'s selection</p>
 
@@ -47,7 +51,7 @@ _Le Turc Mécanique_: **"**This Spanish pop is a guilty pleasure. They have a ve
 # MailTape's selection
 
 ## Jardin - Mon amour n'a pas de sexe
-_Inès_: **"**It was hard for me to pick one song from all**"**
+_Inès_: **"**It was hard for me to pick one song from Le Turc Mécanique's great artists, but I **"**
 
 ## 
 _Inès_: **"**--**"**
@@ -56,6 +60,6 @@ _Inès_: **"**--**"**
 _Inès_: **"**--**"**
 
 ## Chris Rubeo - Lover's Spit
-_Inès_: **"**Time for some sweetness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song, 'Lover's Spit' **"**
+_Inès_: **"**Time for some softness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song '[Lover's Spit](https://www.youtube.com/watch?v=RK-91jT1f2E)', this song is just so comforting: slow, sweet synths mixed with a syrupy voice. Perfect to go back to sleep.**"**
 
 <p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration and [Sanjay](http://sanjaymistry.com/) for helping with the translation. Have a terrific Sunday!</p>
