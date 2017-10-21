@@ -33,9 +33,9 @@ track5_link: >-
 writer: Inès
 track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 ---
-<p id="introduction">This morning, take some time to enjoy [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s selection, for a morning that gets sweeter by every minute.<br>
-Post-punk label Le Turc Mécanique, created by Charles Crost in 2012, is one of France's best labels, with artists' music ranging from post-punk or pop to noise and techno, there is a band for every taste.
-<br>Autumn and its grey skies have definitely arrived, but that doesn't mean we have to wallow in self pity.</p>
+<p id="introduction">This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
+Post-punk label Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best labels, with artists ranging from pop to post-punk to noise to techno and more.
+<br>So even though autumn and its grey skies have arrived, it doesn't mean we have to wallow in self pity. It takes a little less than 30 minutes to go from bleakness to comfort.</p>
 
 
 # Le Turc Mécanique's selection
@@ -65,4 +65,4 @@ _Inès_: **"**Just because I am in love with the « sense of impending doom »
 ## Chris Rubeo - Lover's Spit
 _Inès_: **"**Time for some softness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song '[Lover's Spit](https://www.youtube.com/watch?v=RK-91jT1f2E)', this song is just so comforting: slow, sweet synths mixed with a syrupy voice. Perfect to go back to sleep.**"**
 
-<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration and [Sanjay](http://sanjaymistry.com/) for helping with the translation. Have a terrific Sunday.</p>
+<p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration and [Sanjay](http://sanjaymistry.com/) for helping with the translation. Have a terrific Sunday!</p>
