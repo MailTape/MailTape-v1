@@ -34,7 +34,7 @@ writer: Inès
 track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 ---
 <p id="introduction">This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
-Post-punk label Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best labels, with artists ranging from pop to post-punk to noise to techno and more.
+Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best labels, with artists ranging from pop to post-punk to noise to techno and more.
 <br>So even though autumn and its grey skies have arrived, it doesn't mean we have to wallow in self pity. It takes a little less than 30 minutes to go from bleakness to comfort.</p>
 
 
