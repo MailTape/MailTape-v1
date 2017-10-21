@@ -36,12 +36,12 @@ musiColor: musiColor283.png
 fbPic: fbPic283.png
 description: >-
   This morning, take some time to listen to French post-punk label Le Turc
-  Mécanique's delightful selection. Even though autumn and its grey skies have
-  arrived, it doesn't mean we have to wallow in self pity. It takes a little
-  less than 30 minutes to go from bleakness to comfort.
+  Mécanique's delightful selection. Post-punk label Le Turc Mécanique, created
+  by Charles Crost in 2012, is one of France’s best indie labels, with artists
+  ranging from pop to post-punk to noise to techno and more.
 ---
 <p id="introduction">This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
-Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best labels, with artists ranging from pop to post-punk to noise to techno and more.
+Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best independent labels, with artists ranging from pop to post-punk to noise to techno and more.
 <br>So even though autumn and its grey skies have arrived, it doesn't mean we have to wallow in self pity. It takes a little less than 30 minutes to go from bleakness to comfort.</p>
 
 
