@@ -27,7 +27,7 @@ track5_color: trippy
 track7_title: Chris Rubeo - Lover's Spit
 track7_color: dreamy
 guestPic: guestPic283.jpg
-track5_title: Утро - Как Же Я Был Слаб В Те Дни
+track5_title: Utro - Kak zhe ya byl slab v te dni
 track5_link: >-
   https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni
 writer: Inès
