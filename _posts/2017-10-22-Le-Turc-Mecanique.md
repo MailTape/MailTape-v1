@@ -33,7 +33,9 @@ track5_title: Police des Moeurs - Heure Bleue
 track5_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 writer: Inès
 ---
-<p id="introduction"> [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s selection</p>
+<p id="introduction">This morning, take some time to enjoy [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s selection, for a morning that gets sweeter by every minute. <br>
+Post-punk label Le Turc Mécanique, created by Charles Crost in 2012, is one of France's best labels, with artists 
+<br>Autumn and its grey skies have definitely arrived, but that doesn't mean we have to wallow in self pity.</p>
 
 
 # Le Turc Mécanique's selection
@@ -54,8 +56,8 @@ _Le Turc Mécanique_: **"**This Spanish pop is a guilty pleasure. They have a ve
 ## Jardin - Mon amour n'a pas de sexe
 _Inès_: **"**It was hard for me to pick one song from Le Turc Mécanique’s artists because they are all so different yet so good. My choice went for Jardin’s intense ‘Mon amour n’a pas de sexe’: that gloomy atmosphere just feels right at the moment.**"**
 
-## 
-_Inès_: **"**--**"**
+## Утро - Как Же Я Был Слаб В Те Дни
+_Inès_: **"**I discovered this song maybe 6 or 7 years ago, and it’s been a staple in my life ever since. Catchy cold-wave that never gets old. Fun fact: Утро is Motorama’s group members’ side project (but maybe you already knew).**"**
 
 ## Police des Moeurs - Heure Bleue
 _Inès_: **"**Just because I am in love with the « sense of impending doom » vibe that can be felt throughout the song. Beautiful.**"**
