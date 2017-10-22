@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: ImaCrea
+category: '285'
+guest_name: Federico Durand
 ---
 <p id="introduction">This morning, ... </p>
 
