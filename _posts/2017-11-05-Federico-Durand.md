@@ -5,6 +5,9 @@ published: false
 author: ImaCrea
 category: '285'
 guest_name: Federico Durand
+track1_link: 'https://soundcloud.com/naturebliss/meil-aiaaarne-tanavas'
+track2_link: 'https://soundcloud.com/room40/chihei-hatakeyama-starlight'
+track3_link: 'https://soundcloud.com/12k/06-1a'
 ---
 <p id="introduction">This morning, ... </p>
 
