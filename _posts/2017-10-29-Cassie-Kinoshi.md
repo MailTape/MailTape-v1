@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
@@ -63,4 +63,3 @@ _Sanjay_: **"**[Susheela Raman](https://www.susheelaraman.com) sings her own ind
 _Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album, produced and released during her 21-month battle with breast cancer, which she lost on January 1st 2010.**"**
 
 <p id="outroduction">That's all for today. Thanks so much for listening and love to [Amira Kheir](http://amirakheir.com/) for being our guest this morning, and to [William Girault](http://williamgirault.com/) for this episode's beautiful illustration!</p>
-
