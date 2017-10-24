@@ -13,8 +13,8 @@ track2_link: 'https://soundcloud.com/andrewpoppy/last-light'
 track3_link: 'https://soundcloud.com/oscarjerome/oscar-jerome-you-take-me'
 track4_link: 'https://soundcloud.com/cassie-kinoshi/the-dream-keeper'
 track5_link: 'https://soundcloud.com/convivomusic/invisible-dedicated-to-trayvon'
-track6_link: 'https://soundcloud.com/onthecornerrecords/07-arrival/s-h6jyX'
-track7_link: 'https://soundcloud.com/moses-boyd/nocturne/s-h6jyX'
+track6_link: 'https://soundcloud.com/onthecornerrecords/07-arrival'
+track7_link: 'https://soundcloud.com/moses-boyd/nocturne'
 track1_title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF
 track1_color: trippy
 track2_title: Andrew Poppy – Last Light
