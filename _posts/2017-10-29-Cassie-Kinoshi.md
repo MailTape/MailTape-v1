@@ -55,7 +55,7 @@ _Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to wor
 _Sanjay_: **"**There's so much to love about Amira's music. Her arrangements and imaginative melodies are atmospheric, evoking open spaces. Although quite an impersonal space, her performance yesterday afternoon in Trafalgar Square, London, for Black History Month 2017 was a brief journey through her burgeoning discography.**"**
 
 ## Mazz Swift – Invisible (Dedicated to Trayvon Martin and his Family)
-_Sanjay_: **"**I saw Mazz perform in London last week with Hear in Now at The Vortex and imediately associated **"**
+_Sanjay_: **"**I saw Mazz perform last Sunday with [Hear in Now](http://www.hearinnow.com/) at The Vortex in London and imediately associated **"**
 
 ## Collocutor — Arrival
 _Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/).**"**
