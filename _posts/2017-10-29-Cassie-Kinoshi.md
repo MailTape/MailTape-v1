@@ -43,10 +43,10 @@ episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 _Cassie Kinoshi_: **"**As a freelancer, I often forget to take care of my mental well-being by dedicating time to myself. I’ve been trying to prioritise self-care in my schedule and slowly started to introduce what I call “Self-care Sundays” where I relax and take it easy for the whole day. This is the perfect tune to accompany easing into a reflective Sunday morning with a cup of tea.**"**
 
 ## Andrew Poppy – Last Light
-_Cassie Kinoshi_: **"**[Andrew Poppy](http://www.andrewpoppy.co.uk/Welcome.html) has always been a composer I’ve admired since having him as a teacher at university. I feel that he’s is one of the reasons I survived at conservatoire! This piece has been on repeat for a while - I really enjoy listening to compositions that are full of texture, colour and so abstractly beautiful that you lose yourself within and becoming enveloped in the sound.**"**
+_Cassie Kinoshi_: **"**[Andrew Poppy](http://www.andrewpoppy.co.uk/Welcome.html) has always been a composer I’ve admired since having him as a teacher at university. I feel that he’s is one of the reasons I survived at conservatoire! This piece has been on repeat for a while—I really enjoy listening to compositions that are full of texture, colour and so abstractly beautiful that you lose yourself within and becoming enveloped in the sound.**"**
 
 ## Oscar Jerome – You Take Me
-_Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to work with; I was super excited when I heard that [Oscar Jerome](https://twitter.com/oscjerome) would finally be releasing his music last year. The writing, production and arrangements on this EP are so thorough - you can tell Oscar put his heart and soul into making this and his music never fails to transport me every time I listen.**"**
+_Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to work with; I was super excited when I heard that [Oscar Jerome](https://twitter.com/oscjerome) would finally be releasing his music last year. The writing, production and arrangements on this EP are so thorough—you can tell Oscar put his heart and soul into making this and his music never fails to transport me every time I listen.**"**
 
 
 # MailTape's selection
@@ -54,7 +54,7 @@ _Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to wor
 ## Cassie Kinoshi ft. Heidi Heidelberg — The Dream Keeper
 _Sanjay_: **"**There's so much to love about Amira's music. Her arrangements and imaginative melodies are atmospheric, evoking open spaces. Although quite an impersonal space, her performance yesterday afternoon in Trafalgar Square, London, for Black History Month 2017 was a brief journey through her burgeoning discography.**"**
 
-## Mazz Swift – Invisible (Dedicated To Trayvon Martin And His Family)
+## Mazz Swift – Invisible (Dedicated to Trayvon Martin and his Family)
 _Sanjay_: **"**I've worn [Arooj](https://aroojaftab.bandcamp.com/)'s EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
 
 ## Collocutor — Arrival
