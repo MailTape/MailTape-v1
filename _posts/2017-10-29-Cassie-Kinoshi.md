@@ -31,7 +31,7 @@ track7_title: Moses Boyd Exodus – Nocturne
 track7_color: trippy
 episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 ---
-<p id="introduction">Described by Songlines magazine as ‘bold and poetic… beautiful and fearless', we are delighted to share vocalist [Amira Kheir's](http://amirakheir.com/) Sunday morning listening for MailTape.</p>
+<p id="introduction">Known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [Seed](https://www.facebook.com/seedensemble/?fref=ts), we are thrilled to present London-based composer, arranger and alto saxophonist [Cassie Kinoshi](https://www.cassiekinoshi.com)'s Sunday morning delectations for MailTape.</p>
 <p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Within this soudscape, East African rhythms blend with North African ambience, through hints of Afro-Latin grooves and Neo-Soul, expressing themselves through a soulful explosion of jazz improvisation. Amira’s music possesses within it ancient musical traditions, yet is delivered with a contemporary vibrancy reflective of London’s multicultural music scene.</p>
 
 
