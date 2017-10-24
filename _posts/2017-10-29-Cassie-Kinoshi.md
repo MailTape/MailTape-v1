@@ -55,10 +55,10 @@ _Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to wor
 _Sanjay_: **"**There's so much to love about Amira's music. Her arrangements and imaginative melodies are atmospheric, evoking open spaces. Although quite an impersonal space, her performance yesterday afternoon in Trafalgar Square, London, for Black History Month 2017 was a brief journey through her burgeoning discography.**"**
 
 ## Mazz Swift – Invisible (Dedicated to Trayvon Martin and his Family)
-_Sanjay_: **"**I've worn [Arooj](https://aroojaftab.bandcamp.com/)'s EP down quite a bit since its release in 2015. Singing in a cool, hushed and nuanced mezzo-soprano, it feels perfect for a Sunday morning jam. I'm looking forward to an overdue performance in London...one day!**"**
+_Sanjay_: **"**I saw Mazz perform in London last week with Hear in Now at The Vortex and imediately associated **"**
 
 ## Collocutor — Arrival
-_Sanjay_: **"**[Susheela Raman](https://www.susheelaraman.com) sings her own individual take on Indian classical, traditional Tamil music and an array of so much more. This one was recorded in 2009 before her brilliant debut album, 'Salt Rain'. For our friends in France, Susheela will be revisiting Salt Rain on tour at Saint-Raphaël, Saint-Jean-De-Védas and Sérignan in November.**"**
+_Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/).**"**
 
 ## Moses Boyd Exodus — Nocturne
 _Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album, produced and released during her 21-month battle with breast cancer, which she lost on January 1st 2010.**"**
