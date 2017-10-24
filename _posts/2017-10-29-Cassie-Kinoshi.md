@@ -38,6 +38,7 @@ episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 # Cassie Kinoshi's selection
 
 
+
 ## Kiran Kai ft. Jordan Rakei & Bdrsk – FF
 _Cassie Kinoshi_: **"**As a freelancer, I often forget to take care of my mental well-being by dedicating time to myself. I’ve been trying to prioritise self-care in my schedule and slowly started to introduce what I call “Self-care Sundays” where I relax and take it easy for the whole day. This is the perfect tune to accompany easing into a reflective Sunday morning with a cup of tea.**"**
 
