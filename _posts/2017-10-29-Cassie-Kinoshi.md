@@ -35,17 +35,17 @@ episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 <p>As a young singer, musician and composer, Amira draws from her own multicultural background to create music that explores themes of home, belonging, love, and unity. Within this soudscape, East African rhythms blend with North African ambience, through hints of Afro-Latin grooves and Neo-Soul, expressing themselves through a soulful explosion of jazz improvisation. Amira’s music possesses within it ancient musical traditions, yet is delivered with a contemporary vibrancy reflective of London’s multicultural music scene.</p>
 
 
-# Amira Kheir's selection
+# Cassie Kinoshi's selection
 
 
-## Sarah Vaughan – All of Me
-_Amira Kheir_: **"**Needless to say, she's at the very top of my pyramid of wonderful vocalists of our time. I can listen to her any time, any day of the week. In this song especially, I love her playfulness and the feel she creates with her trio is just perfect. This totally sets the mood for my Sunday morning.**"**
+## Kiran Kai ft. Jordan Rakei & Bdrsk – FF
+_Cassie Kinoshi_: **"**As a freelancer, I often forget to take care of my mental well-being by dedicating time to myself. I’ve been trying to prioritise self-care in my schedule and slowly started to introduce what I call “Self-care Sundays” where I relax and take it easy for the whole day. This is the perfect tune to accompany easing into a reflective Sunday morning with a cup of tea.**"**
 
-## Ali Farka Touré & Ry Cooder – Gomni
-_Amira Kheir_: **"**Collaborations of this kind are really hard to get right, but this one has created one of my favourite albums. What I love about this song, is the effortlessness. Both musicians leave so much space for one another and there is just no rush to get going. The communication is so natural and that's what allows the spirit of the song to be conjured. It's timeless — and I love getting in the zone with this on lazy Sunday mornings.**"**
+## Andrew Poppy – Last Light
+_Cassie Kinoshi_: **"**[Andrew Poppy](http://www.andrewpoppy.co.uk/Welcome.html) has always been a composer I’ve admired since having him as a teacher at university. I feel that he’s is one of the reasons I survived at conservatoire! This piece has been on repeat for a while - I really enjoy listening to compositions that are full of texture, colour and so abstractly beautiful that you lose yourself within and becoming enveloped in the sound.**"**
 
-## A Tribe Called Quest – We Can Get Down
-_Amira Kheir_: **"**No Sunday morning playlist of mine would be complete without A Tribe Called Quest! I'm a child of the 80s, so 90s hiphop is part of the soundtrack to my childhood. In fact this is most of what I listen to on those Sundays when I'm able to start the day nice and slow, and it accompanies me throughout the day if I'm doing chores or lazing around with friends. **"**
+## Oscar Jerome – You Take Me
+_Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to work with; I was super excited when I heard that [Oscar Jerome](https://twitter.com/oscjerome) would finally be releasing his music last year. The writing, production and arrangements on this EP are so thorough - you can tell Oscar put his heart and soul into making this and his music never fails to transport me every time I listen.**"**
 
 
 # MailTape's selection
