@@ -20,15 +20,15 @@ track1_color: trippy
 track2_title: Andrew Poppy – Last Light
 track2_color: dreamy
 track3_title: Oscar Jerome – You Take Me
-track3_color: bliss
+track3_color: vibrant
 track4_title: Cassie Kinoshi ft. Heidi Heidelberg – The Dream Keeper
 track4_color: bliss
 track5_title: Mazz Swift – Invisible (Dedicated To Trayvon Martin And His Family)
 track5_color: dreamy
 track6_title: Collocutor – Arrival
-track6_color: dreamy
+track6_color: trippy
 track7_title: Moses Boyd Exodus – Nocturne
-track7_color: trippy
+track7_color: dreamy
 episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 ---
 <p id="introduction">Known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts), we are thrilled to present London-based composer, arranger and alto saxophonist [Cassie Kinoshi](https://www.cassiekinoshi.com)'s Sunday morning jams for MailTape.</p>
