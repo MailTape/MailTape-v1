@@ -62,6 +62,6 @@ _Sanjay_: **"**I saw Mazz perform last Sunday with [Hear in Now](http://www.hear
 _Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/).**"**
 
 ## Moses Boyd Exodus — Nocturne
-_Sanjay_: **"**This was the first song I heard from [Lhasa de Sela](http://lhasadesela.com/) and her voice seems so intense throughout this album. To me, it's a hopeful song on an otherwise sombre and reflective album, produced and released during her 21-month battle with breast cancer, which she lost on January 1st 2010.**"**
+_Sanjay_: **"**I feel there's a lot more music to come from Moses Boyd & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early) Sunday morning!**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love to [Cassie Kinoshi](http://www.cassiekinoshi.com/) for being our guest, and to [Anaïs Caura](https://vimeo.com/anaismarthecaura) for this episode's beautiful illustration!</p>
