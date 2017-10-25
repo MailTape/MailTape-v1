@@ -62,6 +62,6 @@ _Sanjay_: **"**I saw Mazz perform last Sunday with [Hear in Now](http://www.hear
 _Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/).**"**
 
 ## Moses Boyd Exodus — Nocturne
-_Sanjay_: **"**I feel there's a lot more music to come from Moses Boyd & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early) Sunday morning!**"**
+_Sanjay_: **"**I feel there's a lot more music to come from Moses Boyd & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early?) Sunday morning!**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love to [Cassie Kinoshi](http://www.cassiekinoshi.com/) for being our guest, and to [Anaïs Caura](https://vimeo.com/anaismarthecaura) for this episode's beautiful illustration!</p>
