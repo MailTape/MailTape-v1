@@ -33,7 +33,7 @@ episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 ---
 <p id="introduction">Known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts), we are thrilled to present London-based composer, arranger and alto saxophonist [Cassie Kinoshi](https://www.cassiekinoshi.com)'s Sunday morning jams for MailTape.</p>
 <p>Her most recent ventures include a Sound and Music funded series of events with her ensemble SEED (Driftglass) and working as the sole composer for The Old Vic Theatre's professional development programme 2016–17.</p>
-<p>And if you're in London, Cassie will be performing with SEED during the London Jazz Festival at Ray's Jazz (in Foyles bookstore) on 17th November!</p>
+<p>And if you're in London or Dublin, Cassie will be performing with SEED during the London Jazz Festival at Ray's Jazz (in Foyles bookstore) on 17th November, and with KOKOROKO at [The Complex in Dublin](https://www.eventbrite.ie/e/ban-bam-tickets-38809154225?aff=efbeventtix&utm_source=IMC+VIP%27s&utm_campaign=fb69110b9b-Nov+2017&utm_medium=email&utm_term=0_1914933321-fb69110b9b-347904745) on 25th November.</p>
 
 
 # Cassie Kinoshi's selection
