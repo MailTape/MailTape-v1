@@ -28,14 +28,14 @@ track7_color: dreamy
 
 # **Federico Durand' selection**
 
-+ ## Run DMT - Romantic
-_Yellow Days_: **"**Beautiful guitar tones, enough soul for a sunday morning cry.**"**
++ ## Reet Hendrikson - Meil aiaaarne tanavas
+_Federico Durand_: **"**Reet Hendrikson. In the year 2014 I went on tour to Japan for the first time. It was a beautiful meeting with friends in an enchanted land. I had the opportunity to introduce to Nao Sugimoto, owner of the label SPEKK, with whom I work, the music of Reet Hendrikson. Reet recorded a single disc in 1969 with raw, precious renditions of traditional Estonian songs. The artist was in exile in Canada, where she recorded and edited this forest-flavored music, imbued with the color and hardness of the rural works. I am lucky to have one of the few existing copies of the vinyl record and to have collaborated in the CD edition, in a sort of personal homage to this artist that I admire a lot.**"**
 
-+ ## Aldous RH - U and ME
-_Yellow Days_: **"**For me the sound is so smooth it makes my knees weak and that's a nice way to start a sunday.**"**
++ ## Chihei Hatakeyama - starlight and black echo
+_Federico Durand_: **"**Chihei Hatakeyama. He is a very good friend and excellent japanese musician. His sound is full of mist and you can be lost into forgotten memories while listening.**"**
 
-+ ## Made in M - Goodday
-_Yellow Days_: **"**Lil' lo-fi cube sample, real tight beat. an easy listen for an easy sunday.**"**
++ ## Steinbrüchel - 06
+_Federico Durand_: **"**I remember very well when I listened this music for the first time. I was travelling in a train going to the suburbs of Buenos Aires. I saw old houses, gardens, abandoned lots, and clouds. Steinbrüchel made a really magic album full of detail and delight.**"**
 
 
 # MailTape's selection
