@@ -13,13 +13,13 @@ track5_link: 'https://mailtapetracks.s3.amazonaws.com/285/track5.mp3'
 track6_link: 'https://soundcloud.com/ghostly/geotic-sunspell-1'
 track7_link: 'https://soundcloud.com/chapelierfou/muance-oracle'
 guestPic: guestPic285.jpg
-track1_color: dreamy
+track1_color: bliss
 track2_color: dreamy
 track3_color: dreamy
 track4_color: dreamy
-track5_color: dreamy
-track6_color: dreamy
-track7_color: dreamy
+track5_color: rough
+track6_color: vibrant
+track7_color: bliss
 ---
 <p id="introduction">This morning, ... </p>
 
