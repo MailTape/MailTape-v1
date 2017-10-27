@@ -7,7 +7,7 @@ category: '285'
 guest_name: Federico Durand
 track1_link: 'https://soundcloud.com/naturebliss/meil-aiaaarne-tanavas'
 track2_link: 'https://soundcloud.com/room40/chihei-hatakeyama-starlight'
-track3_link: 'https://soundcloud.com/12k/06-1a'
+track3_link: 'https://mailtapetracks.s3.amazonaws.com/285/track3.mp3'
 track4_link: 'https://soundcloud.com/federicodurand/sin-titulo'
 track5_link: 'https://mailtapetracks.s3.amazonaws.com/285/track5.mp3'
 track6_link: 'https://soundcloud.com/ghostly/geotic-sunspell-1'
