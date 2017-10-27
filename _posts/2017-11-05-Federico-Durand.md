@@ -17,9 +17,9 @@ track1_color: bliss
 track2_color: dreamy
 track3_color: dreamy
 track4_color: dreamy
-track5_color: rough
-track6_color: vibrant
-track7_color: bliss
+track5_color: dreamy
+track6_color: bliss
+track7_color: vibrant
 ---
 <p id="introduction">This morning, ... </p>
 
