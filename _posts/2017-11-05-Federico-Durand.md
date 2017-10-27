@@ -12,6 +12,7 @@ track4_link: 'https://soundcloud.com/federicodurand/sin-titulo'
 track5_link: 'https://mailtapetracks.s3.amazonaws.com/285/track5.mp3'
 track6_link: 'https://soundcloud.com/ghostly/geotic-sunspell-1'
 track7_link: 'https://soundcloud.com/no-vacation/beach-bummer-1'
+guestPic: guestPic285.jpg
 ---
 <p id="introduction">This morning, ... </p>
 
