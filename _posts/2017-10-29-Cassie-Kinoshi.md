@@ -31,6 +31,7 @@ track7_title: Moses Boyd Exodus – Nocturne
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 guestPic: guestPic284.jpg
+fbPic: fbPic284.gif
 ---
 <p id="introduction">This morning's guest, [Cassie Kinoshi](http://www.cassiekinoshi.com/), is known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts). We are thrilled to present her Sunday morning jams in collaboration with MailTape!</p>
 <p>Her most recent ventures include a Sound and Music funded series of events with her ensemble SEED (Driftglass), as well as the position of sole composer for The Old Vic Theatre's professional development programme 2016–17.</p>
