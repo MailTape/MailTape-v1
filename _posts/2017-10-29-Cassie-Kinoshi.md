@@ -59,7 +59,7 @@ _Sanjay_: **"**It's not often we get to present the work of poets on MailTape, b
 _Sanjay_: **"**Dedicated to Trayvon Martin and his family, this is Mazz Swift's contribution to the first CD release from Con Vivo Music, '[Modern Dances](https://soundcloud.com/convivomusic/sets/modern-dances)', featuring music by their members. I saw Mazz perform last Sunday with [Hear in Now](http://www.hearinnow.com/) at The Vortex in London alongside Tomeka Reid, Silvia Bolognesi and Alexander Hawkins. So good!**"**
 
 ## Collocutor — Arrival
-_Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/). This beautiful modal music ranges from afrobeat to polyphonic choral music. The entire EP resonates with some really nice brass arrangements combined with ethereal solos. Perfect for the onset of autumn.**"**
+_Sanjay_: **"**This track is taken from the second album by [Collocutor](https://collocutor.uk/), a London-based ensemble led by saxophonist [Tamar Osborn](https://tamarosborn.com/). This is beautiful modal music ranges from afrobeat to polyphonic choral music. The entire EP resonates with some really nice brass arrangements combined with ethereal solos. Perfect for the onset of autumn.**"**
 
 ## Moses Boyd Exodus — Nocturne
 _Sanjay_: **"**I feel there's a lot more music to come from [Moses Boyd](http://www.mosesboyd.co.uk/) & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early?) Sunday morning!**"**
