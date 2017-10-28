@@ -53,7 +53,7 @@ _Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to wor
 # MailTape's selection
 
 ## Cassie Kinoshi ft. Heidi Heidelberg — The Dream Keeper
-_Sanjay_: **"**It's not often we get to present the work of poets on MailTape, but I'm glad we are! Conveying mixed emotions of hope and fear, this joyous composition from Cassie Kinoshi makes me want to curl up in an armchair and read more [Langston Hughes](https://en.wikipedia.org/wiki/Langston_Hughes)...'away from the too-rough fingers of the world'.**"**
+_Sanjay_: **"**It's not often we get to present the work of poets on MailTape, but I'm glad we are! Conveying mixed emotions of hope and fear, this composition from Cassie Kinoshi makes me want to curl up in an armchair and read more [Langston Hughes](https://en.wikipedia.org/wiki/Langston_Hughes)...'away from the too-rough fingers of the world'.**"**
 
 ## Mazz Swift – Invisible (Dedicated to Trayvon Martin and his Family)
 _Sanjay_: **"**Dedicated to Trayvon Martin and his family, this is Mazz Swift's contribution to the first CD release from Con Vivo Music, '[Modern Dances](https://soundcloud.com/convivomusic/sets/modern-dances)', featuring music by their members. I saw Mazz perform last Sunday with [Hear in Now](http://www.hearinnow.com/) at The Vortex in London alongside Tomeka Reid, Silvia Bolognesi and Alexander Hawkins. So good!**"**
