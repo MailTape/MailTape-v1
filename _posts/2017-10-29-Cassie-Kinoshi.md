@@ -64,4 +64,4 @@ _Sanjay_: **"**This track is taken from the second album by [Collocutor](https:/
 ## Moses Boyd Exodus — Nocturne
 _Sanjay_: **"**I feel there's a lot more music to come from [Moses Boyd](http://www.mosesboyd.co.uk/) & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early?) Sunday morning!**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much love to [Cassie Kinoshi](http://www.cassiekinoshi.com/) for being our guest, and to [Anaïs Caura](https://vimeo.com/anaismarthecaura) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's all for today. Thanks for listening and much love to [Cassie Kinoshi](http://www.cassiekinoshi.com/) for being our guest, and to [Anaïs Caura](https://vimeo.com/anaismarthecaura) for this episode's beautiful illustration! And check out her groovy animations on our [Facebook](https://www.facebook.com/MailTape/) and [Twitter](https://twitter.com/MailTape) feeds!</p>
