@@ -20,6 +20,14 @@ track4_color: dreamy
 track5_color: dreamy
 track6_color: bliss
 track7_color: vibrant
+track1_title: Reet Hendrikson - Meil aiaaarne tanavas
+track2_title: Chihei Hatakeyama - starlight and black echo
+track3_title: Steinbrüchel - 06
+track4_title: Federico Durand - La historia de la niña junco
+track5_title: Chapelier Fou - Oracle
+track6_title: Susumu Yokota - Zenmai
+track7_title: Geotic - Sunspell
+episode_URL: 'https://www.mailta.pe/285/federico-durand/'
 ---
 <p id="introduction">This morning, ... </p>
 
