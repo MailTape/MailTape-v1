@@ -48,17 +48,17 @@ _Federico Durand_: **"**I remember very well when I listened this music for the 
 
 # MailTape's selection
 
-+ ## Yellow Days - Hurt In Love
-_ImaCrea_: **"**Right to the heart. Track after each track, Yellow Days keeps exploring a rich soundscape driven by pure emotion.**"**  
++ ## Federico Durand - La historia de la niña junco
+_ImaCrea_: **"**dsd**"**  
 
-+ ## Oliverpalfreyman - Females
-_ImaCrea_: **"**Slow down, keep it cool this morning. This one is for you to stay one more track in your comfy bed in these early days of Autumn.**"**
++ ## Chapelier Fou - Oracle
+_ImaCrea_: **"**dsd**"**
 
-+ ## Mattiel - Count Your Blessings
-_ImaCrea_: **"**Instantly memorable, reminiscence of Nancy Sinatra. Gosh I love so much Burger Records...**"**
++ ## Susumu Yokota - Zenmai
+_ImaCrea_: **"**dsddd**"**
 
-+ ## Amber Cruz - Psychedelic Candy
-_ImaCrea_: **"**Rare gem I discovered by chance on a late night. Couldn't discern if I was dreaming or if this angel voice was really coming from my speakers. Smooth and delicate voice. Direct connection to the soul.**"**
++ ## Geotic - Sunspell
+_ImaCrea_: **"**dsdd**"**
 
 
 <p id="outroduction">That’s all folks! Many thanks to [Yellow Days](https://soundcloud.com/yellow-days) for his collaboration. Have an inspiring Sunday, make your dreams come true! Oh and btw, Yellow Days is giving [his latest album to download for free](http://www.yellowdayss.com) ;)</p>
