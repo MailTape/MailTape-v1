@@ -28,6 +28,9 @@ track5_title: Chapelier Fou - Oracle
 track6_title: Susumu Yokota - Zenmai
 track7_title: Geotic - Sunspell
 episode_URL: 'https://www.mailta.pe/285/federico-durand/'
+illustrator: Camille Célestin
+writer: PS KY
+guest_color: dreamy
 ---
 <p id="introduction">This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.</p>
 
