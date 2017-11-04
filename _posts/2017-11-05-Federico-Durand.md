@@ -58,7 +58,7 @@ _Federico Durand_: **"**I remember very well when I listened this music for the 
 # MailTape's selection
 
 + ## Federico Durand - La historia de la niña junco
-_ImaCrea_: **"**Discovered thanks to the [eponymous album](https://12kmusic.bandcamp.com/album/la-ni-a-junco), the subtlety of this track ignited a peaceful state in my mind. The kind of rare silent atmosphere one may feel in the morning when snow smoothen outside noise and everything is white. A blank layer all yours to explore.**"**
+_ImaCrea_: **"**Discovered thanks to his [eponymous album](https://12kmusic.bandcamp.com/album/la-ni-a-junco), the subtlety of this track ignited a peaceful state in my mind. The kind of rare silent atmosphere one may feel in the morning when snow smoothen outside noise and everything is white. A blank layer all yours to explore.**"**
 
 + ## Chapelier Fou - Oracle
 _ImaCrea_: **"**Off the snow, let's embark on a magic cloud towards a hidden Super Mario level...**"**
