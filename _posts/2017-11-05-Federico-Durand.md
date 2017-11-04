@@ -31,6 +31,13 @@ episode_URL: 'https://www.mailta.pe/285/federico-durand/'
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
+fbPic: fbPic285.png
+musiColor: musiColor285.png
+description: >-
+  This morning, our guest Federico Durand, from the New York-based music label
+  12k is inviting you to just “listen”, turn off the thinking box, let go of all
+  interpretations. Do not attempt to analyze each sound. Just receive, simply.
+  Let your eardrums engulf each note. Let go.
 ---
 <p id="introduction">This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New York-based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.</p>
 
