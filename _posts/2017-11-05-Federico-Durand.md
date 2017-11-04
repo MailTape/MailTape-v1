@@ -67,7 +67,7 @@ _ImaCrea_: **"**Off the snow, let's embark on a magic cloud towards a hidden Sup
 _ImaCrea_: **"**So much to discover from Japan. Here's a legendary piece I found particularly well adapted for a smooth transition back to reality and invigorated.**"**
 
 + ## Geotic - Sunspell
-_ImaCrea_: **"**Smooth and light, electro with a positive feeling full of hope. Surfin on a snowflake...**"**
+_ImaCrea_: **"**Bright and crystal light, electro with a positive feeling full of hope. Surfin on a snowflake...**"**
 
 
 <p id="outroduction">Many thanks to [Federico Duran](https://federicodurand.bandcamp.com/) for his great selection. Meditate, adapt, create, dance.</p>
