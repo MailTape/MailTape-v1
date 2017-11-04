@@ -61,13 +61,13 @@ _Federico Durand_: **"**I remember very well when I listened this music for the 
 _ImaCrea_: **"**Discovered thanks to his [eponymous album](https://12kmusic.bandcamp.com/album/la-ni-a-junco), the subtlety of this track ignited a peaceful state in my mind. The kind of rare silent atmosphere one may feel in the morning when snow smoothen outside noise and everything is white. A blank layer all yours to explore.**"**
 
 + ## Chapelier Fou - Oracle
-_ImaCrea_: **"**Off the snow, let's embark on a magic cloud towards a hidden Super Mario level...**"**
+_ImaCrea_: **"**Off the snow, let's embark on a magic cloud towards a hidden Super Mario level.**"**
 
 + ## Susumu Yokota - Zenmai
 _ImaCrea_: **"**So much to discover from Japan. Here's a legendary piece I found particularly well adapted for a smooth transition back to reality and invigorated.**"**
 
 + ## Geotic - Sunspell
-_ImaCrea_: **"**Bright and crystal light, electro with a positive feeling full of hope. Surfin on a snowflake...**"**
+_ImaCrea_: **"**Bright and crystal light, electro with a positive feeling full of hope. Surfin on a snowflake.**"**
 
 
 <p id="outroduction">Many thanks to [Federico Duran](https://federicodurand.bandcamp.com/) for his great selection. Meditate, adapt, create, dance.</p>
