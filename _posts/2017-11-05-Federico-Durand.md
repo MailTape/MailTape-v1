@@ -58,16 +58,16 @@ _Federico Durand_: **"**I remember very well when I listened this music for the 
 # MailTape's selection
 
 + ## Federico Durand - La historia de la niña junco
-_ImaCrea_: **"**dsd**"**  
+_ImaCrea_: **"**Discovered thanks to the [eponymous album](https://12kmusic.bandcamp.com/album/la-ni-a-junco), the subtlety of this track ignited a peaceful state in my mind. The kind of rare silent atmosphere one may feel in the morning when snow smoothen outside noise and everything is white. A blank layer all yours to explore.**"**
 
 + ## Chapelier Fou - Oracle
-_ImaCrea_: **"**dsd**"**
+_ImaCrea_: **"**Off the snow, let's embark on a magic cloud towards a hidden Super Mario level...**"**
 
 + ## Susumu Yokota - Zenmai
-_ImaCrea_: **"**dsddd**"**
+_ImaCrea_: **"**So much to discover from Japan. Here's a legendary piece I found particularly well adapted for a smooth transition back to reality and invigorated.**"**
 
 + ## Geotic - Sunspell
-_ImaCrea_: **"**dsdd**"**
+_ImaCrea_: **"**Smooth and light, electro with a positive feeling full of hope. Surfin on a snowflake...**"**
 
 
-<p id="outroduction">That’s all folks! Many thanks to [Yellow Days](https://soundcloud.com/yellow-days) for his collaboration. Have an inspiring Sunday, make your dreams come true! Oh and btw, Yellow Days is giving [his latest album to download for free](http://www.yellowdayss.com) ;)</p>
+<p id="outroduction">Many thanks to [Federico Duran](https://federicodurand.bandcamp.com/) for his great selection. Meditate, adapt, create, dance.</p>
