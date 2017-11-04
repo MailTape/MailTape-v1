@@ -32,7 +32,7 @@ illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
 ---
-<p id="introduction">This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New-York based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.</p>
+<p id="introduction">This morning, our guest [Federico Durand](https://federicodurand.bandcamp.com/), from the New York-based music label [12k](http://www.12k.com/about/) is inviting you to just “listen”, turn off the thinking box, let go of all interpretations. Do not attempt to analyze each sound. Just receive, simply. Let your eardrums engulf each note. Let go.</p>
 
 # An invitation to meditate on your ability to remain fully neutral
 As the constant rummaging of the brain obstructs the sensitivity of our senses, listening can be an art, wisdom to acquire. And what if you just surrendered? Let your ego fade away and allow your pores to just feel, again and again.
