@@ -12,7 +12,7 @@ track4_link: 'https://soundcloud.com/federicodurand/sin-titulo'
 track5_link: 'https://soundcloud.com/chapelierfou/muance-oracle'
 track6_link: 'https://mailtapetracks.s3.amazonaws.com/285/track5.mp3'
 track7_link: 'https://soundcloud.com/ghostly/geotic-sunspell-1'
-guestPic: guestPic285.jpg
+guestPic: guestPic285b.jpg
 track1_color: bliss
 track2_color: dreamy
 track3_color: dreamy
