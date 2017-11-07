@@ -7,7 +7,7 @@ illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 category: '286'
 guest_name: Yazz Ahmed
-guest_color: bliss
+guest_color: trippy
 track1_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
 track2_link: >-
   https://soundcloud.com/samuel-h-llkvist/variety-of-rhythm-part-4-the-necker-cube
