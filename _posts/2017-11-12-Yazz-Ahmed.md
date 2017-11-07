@@ -37,7 +37,7 @@ episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
 <p>If you're in London or Dublin, Cassie will be performing with SEED during the London Jazz Festival at Ray's Jazz (in Foyles bookstore) on 17th November, and with Kokoroko at [The Complex in Dublin](https://www.eventbrite.ie/e/ban-bam-tickets-38809154225?aff=efbeventtix&utm_source=IMC+VIP%27s&utm_campaign=fb69110b9b-Nov+2017&utm_medium=email&utm_term=0_1914933321-fb69110b9b-347904745) on 25th November.</p>
 
 
-# Cassie Kinoshi's selection
+# Yazz Ahmed's selection
 
 
 
