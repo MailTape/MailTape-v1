@@ -24,7 +24,7 @@ track3_title: Ruth Wall – Snow Clamp
 track3_color: rough
 track4_title: Yazz Ahmed – La Saboteuse
 track4_color: dreamy
-track5_title: Fran & Flora – The Hollow Tree
+track5_title: Fran and Flora – The Hollow Tree
 track5_color: bliss
 track6_title: Zoe Rahman – Shiraz
 track6_color: bliss
