@@ -42,15 +42,13 @@ episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
 
 
 ## Sarathy Korwar – Bismillah
-_Yazz Ahmed_: **"**I love Sarathy’s playing and compositions and his choice of musicians. This track, to me, feels like an invitation to enter a beautiful spiritual place.
-The opening is like a simple morning prayer which develops and intensifies into a celebration. We are waking, moving and dancing into the new day.**"**
+_Yazz Ahmed_: **"**I love [Sarathy](http://www.sarathykorwar.com/)’s playing and compositions and his choice of musicians. This track, to me, feels like an invitation to enter a beautiful spiritual place. The opening is like a simple morning prayer which develops and intensifies into a celebration. We are waking, moving and dancing into the new day.**"**
 
 ## Samuel Hällkvist – Variety Of Rhythm Part 4: "The Necker Cube”
-_Yazz Ahmed_: **"**I’ve been a fan of Samuel and his music ever since we met, back in 2012.
-This angular, precisely metric and intriguing piece is very typical of Samuel’s compositions: mysterious, menacing and fun. I like the contasting elements, the broken drum beats, floating on a bed of sonorous guitar, decorated with vibraphone and violin interjections. It reminds me of an impressionist painting. Then, in the middle of the piece, the sun rises and the pace starts to quicken. The rhythmic constraints are broken with an overwhelming surge of expressive freedom.**"**
+_Yazz Ahmed_: **"**I’ve been a fan of [Samuel](http://samuelhallkvist.com/) and his music ever since we met, back in 2012. This angular, precisely metric and intriguing piece is very typical of Samuel’s compositions: mysterious, menacing and fun. I like the contasting elements, the broken drum beats, floating on a bed of sonorous guitar, decorated with vibraphone and violin interjections. It reminds me of an impressionist painting. Then, in the middle of the piece, the sun rises and the pace starts to quicken. The rhythmic constraints are broken with an overwhelming surge of expressive freedom.**"**
 
 ## Ruth Wall – Snow Clamp
-_Yazz Ahmed_: **"**A collaboration between harpist, Ruth Wall, and composer Graham Fitkin—both musicians and composers I greatly admire. This piece beautifully integrates electronic effects with the elegant sounds of the harp. It starts very gently, with a thoughtful mediation, then progresses with increasing momentum by the addition of reversed loops and clouds of processed drums. It makes me feel that I’m falling, tumbling, running, in a dream, then with a sudden stop… awake!**"**
+_Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-scotland.co.uk/profile/wall-ruth), and composer [Graham Fitkin](http://fitkin.com/)—both musicians and composers I greatly admire. This piece beautifully integrates electronic effects with the elegant sounds of the harp. It starts very gently, with a thoughtful mediation, then progresses with increasing momentum by the addition of reversed loops and clouds of processed drums. It makes me feel that I’m falling, tumbling, running, in a dream, then with a sudden stop… awake!**"**
 
 
 # MailTape's selection
