@@ -18,7 +18,7 @@ track6_link: 'https://soundcloud.com/zoerahman/03-shiraz'
 track7_link: 'https://soundcloud.com/invivo_agency/vijay-iyer-break-stuff-break'
 track1_title: Sarathy Korwar – Bismillah
 track1_color: trippy
-track2_title: 'Samuel Hällkvist – Variety Of Rhythm Part 4: "The Necker Cube"'
+track2_title: 'Samuel Hällkvist – Variety Of Rhythm Part 4, "The Necker Cube"'
 track2_color: bliss
 track3_title: Ruth Wall – Snow Clamp
 track3_color: rough
