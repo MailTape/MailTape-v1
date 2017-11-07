@@ -27,7 +27,7 @@ track4_color: dreamy
 track5_title: Fran and Flora – The Hollow Tree
 track5_color: bliss
 track6_title: Zoe Rahman – Shiraz
-track6_color: bliss
+track6_color: dreamy
 track7_title: Vijay Iyer – Break Stuff
 track7_color: trippy
 episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
