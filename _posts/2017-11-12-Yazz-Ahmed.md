@@ -41,19 +41,23 @@ episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
 
 
 
-## Kiran Kai ft. Jordan Rakei & Bdrsk – FF
-_Cassie Kinoshi_: **"**As a freelancer, I often forget to take care of my mental well-being by dedicating time to myself. I’ve been trying to prioritise self-care in my schedule and slowly started to introduce what I call “Self-care Sundays” where I relax and take it easy for the whole day. This is the perfect tune to accompany easing into a reflective Sunday morning with a cup of tea.**"**
+## Sarathy Korwar – Bismillah
+_Yazz Ahmed_: **"**I love Sarathy’s playing and compositions and his choice of musicians. This track, to me, feels like an invitation to enter a beautiful spiritual place.
+The opening is like a simple morning prayer which develops and intensifies into a celebration. We are waking, moving and dancing into the new day.**"**
 
-## Andrew Poppy – Last Light
-_Cassie Kinoshi_: **"**[Andrew Poppy](http://www.andrewpoppy.co.uk/Welcome.html) has always been a composer I’ve admired since having him as a teacher at university. I feel that he’s is one of the reasons I survived at conservatoire! This piece has been on repeat for a while—I really enjoy listening to compositions that are full of texture, colour and so abstractly beautiful that you lose yourself within and becoming enveloped in the sound.**"**
+## Samuel Hällkvist – Variety Of Rhythm Part 4: "The Necker Cube”
+_Yazz Ahmed_: **"**I’ve been a fan of Samuel and his music ever since we met, back in 2012.
+This angular, precisely metric and intriguing piece is very typical of Samuel’s compositions: mysterious, menacing and fun.
+I like the contasting elements, the broken drum beats, floating on a bed of sonorous guitar, decorated with vibraphone and violin interjections. It reminds me of an impressionist painting.
+Then, in the middle of the piece, the sun rises and the pace starts to quicken. The rhythmic constraints are broken with an overwhelming surge of expressive freedom.**"**
 
-## Oscar Jerome – You Take Me
-_Cassie Kinoshi_: **"**One of my favourite guitarists on the London scene to work with; I was super excited when I heard that [Oscar Jerome](https://twitter.com/oscjerome) would finally be releasing his music last year. The writing, production and arrangements on this EP are so thorough—you can tell Oscar put his heart and soul into making this and his music never fails to transport me every time I listen.**"**
+## Ruth Wall – Snow Clamp
+_Yazz Ahmed_: **"**A collaboration between harpist, Ruth Wall, and composer Graham Fitkin - both musicians and composers I greatly admire. This piece beautifully integrates electronic effects with the elegant sounds of the harp. It starts very gently, with a thoughtful mediation, then progresses with increasing momentum by the addition of reversed loops and clouds of processed drums. It makes me feel that I’m falling, tumbling, running, in a dream, then with a sudden stop… awake!**"**
 
 
 # MailTape's selection
 
-## Cassie Kinoshi ft. Heidi Heidelberg — The Dream Keeper
+## Yazz Ahmed — La Saboteuse
 _Sanjay_: **"**It's not often we get to present the work of poets on MailTape, but I'm glad we are! Conveying mixed emotions of hope and fear, this composition from Cassie Kinoshi makes me want to curl up in an armchair and read more [Langston Hughes](https://en.wikipedia.org/wiki/Langston_Hughes)...'away from the too-rough fingers of the world'.**"**
 
 ## Mazz Swift – Invisible (Dedicated to Trayvon Martin and his Family)
