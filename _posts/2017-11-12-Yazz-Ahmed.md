@@ -36,7 +36,7 @@ musiColor: musiColor286.png
 ---
 <p id="introduction">This morning we are delighted to collaborate with trumpeter and composer [Yazz Ahmed](http://yazzahmed.com/) and get a glimpse into her Sunday morning jukebox.</p>
 <p>Her most recent ventures include a Sound and Music funded series of events with her ensemble SEED (Driftglass), as well as the position of sole composer for The Old Vic Theatre's professional development programme 2016–17.</p>
-<p>For our friends in Paris and London, Yazz will be performing with the Hafla Band at the [Blue Note Festival](http://www.bluenotefestival.fr/) on 16th November, and at King's Place in London on the 17th.</p>
+<p>For our friends in Paris and London, Yazz will be performing with the Hafla Band at the [Blue Note Festival](http://www.bluenotefestival.fr/) on 16th November and at King's Place in London on the 17th.</p>
 
 
 # Yazz Ahmed's selection
