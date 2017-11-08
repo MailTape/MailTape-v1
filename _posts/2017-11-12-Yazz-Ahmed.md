@@ -31,6 +31,7 @@ track6_color: dreamy
 track7_title: Vijay Iyer – Break Stuff
 track7_color: trippy
 episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
+musiColor: musiColor286.png
 guestPic: guestPic286.jpg
 ---
 <p id="introduction">This morning's guest, [Cassie Kinoshi](http://www.cassiekinoshi.com/), is known primarily for her work with jazz septet [Nérija](http://www.nerijamusic.com/), Afrobeat band [Kokoroko](https://www.facebook.com/kokorokomusic/?fref=ts) and her own large ensemble, [SEED](https://www.facebook.com/seedensemble/?fref=ts). We are thrilled to present her Sunday morning jams in collaboration with MailTape!</p>
