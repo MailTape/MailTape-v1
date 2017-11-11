@@ -63,7 +63,7 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 _Sanjay_: **"**It's pretty difficult for me to pick just one track from Yazz's latest album, 'La Saboteuse', as the whole piece feels cinematic in its storytelling. Nonetheless, this crepuscular title track feels like my thoughts are given the time and space to float freely amid the quiet bass clarinet and gentle percussion—perfect for a dewy Sunday morning.**"**
 
 ## Fran & Flora – The Hollow Tree
-_Sanjay_: **"**Such a cool duo! Aside from their soulful laments and meticulous songs, the first time I saw Fran & Flora in London we were treated to a Romani song sung in harmony follwing tales of their musical adventures in Eastern Europe. I'm looking forward to their debut album soon.**"**
+_Sanjay_: **"**Such a cool duo! As well as their soulful laments and meticulous songs, the first time I saw Fran & Flora in London we were treated to a Romani song sung in harmony follwing tales of their musical adventures in Eastern Europe. I'm looking forward to their debut album soon.**"**
 
 ## Zoe Rahman — Shiraz
 _Sanjay_: **"**An oldie but a goodie from pianist Zoe Rahman.**"**
