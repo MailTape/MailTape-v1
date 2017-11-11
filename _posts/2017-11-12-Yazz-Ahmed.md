@@ -60,7 +60,7 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 # MailTape's selection
 
 ## Yazz Ahmed — La Saboteuse
-_Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. In this atmospheric title track the contrasting bass clarinet and gentle percussion create a foreboding effect. It makes me feel like walking through open spaces on an autumnal morning.**"**
+_Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. In this atmospheric title track the contrasting bass clarinet and gentle percussion create a foreboding effect, like a craggy autumnal landscape.**"**
 
 ## Fran & Flora – The Hollow Tree
 _Sanjay_: **"**The first time I saw [Fran & Flora](https://www.franandflora.com/) in London we were treated to a Romani a capella sung in harmony, along with anecdotes about their musical adventures in Eastern Europe. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
