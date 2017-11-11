@@ -66,7 +66,7 @@ _Sanjay_: **"**It's pretty challenging for me to pick just one track from Yazz's
 _Sanjay_: **"**As well as their soulful laments and meticulous songs, the first time I saw [Fran & Flora](https://www.franandflora.com/) in London we were treated to a Romani acapella sung in harmony following tales of their musical adventures in Eastern Europe. I'm looking forward to their debut album soon, such a cool duo!**"**
 
 ## Zoe Rahman — Shiraz
-_Sanjay_: **"**An oldie but a goodie from pianist Zoe Rahman. I've seen her perform a few times in London and Leicester and I love the soft ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's London Jazz Festival.**"**
+_Sanjay_: **"**An oldie but a goodie from pianist Zoe Rahman. I've seen her perform a few times in London and Leicester and I love the soft ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's Jazz Festival.**"**
 
 ## Vijay Iyer — Break Stuff
 _Sanjay_: **"**I feel there's a lot more music to come from [Moses Boyd](http://www.mosesboyd.co.uk/) & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early?) Sunday morning!**"**
