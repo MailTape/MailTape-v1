@@ -63,7 +63,7 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 _Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. This piece begins with Shabaka Hutchings's solo bass clarinet which evokes a beautiful sadness, like a craggy autumnal landscape. Yazz’s trumpet melody is magisterial, composed of Arabic scales, which are counterpointed with a quiet and foreboding percussion.**"**
 
 ## Fran & Flora – The Hollow Tree
-_Sanjay_: **"**Stark and eerie...like a hollow tree, this track consists of cello and violin beautifully played by Fran and Flora, respectively, and fuses traditional motifs of Eastern European music with their own experimental compositions and improvisation. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
+_Sanjay_: **"**Stark and eerie...like a hollow tree, this track consists of cello and violin beautifully played by Fran and Flora, respectively. They fuse traditional motifs of Eastern European music with their own experimental compositions and improvisation. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
 
 ## Zoe Rahman — Shiraz
 _Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a couple of times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, Zoe will be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
