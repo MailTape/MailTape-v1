@@ -60,7 +60,7 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 # MailTape's selection
 
 ## Yazz Ahmed — La Saboteuse
-_Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. This piece begins with Shabaka Hutching’s solo bass clarinet, which evokes a beautiful sadness like a craggy autumnal landscape. Yazz’s trumpet melody is magisterial, composed of Arabic scales, which are counterpointed with a quiet foreboding percussion.**"**
+_Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. This piece begins with Shabaka Hutching’s solo bass clarinet, which evokes a beautiful sadness like a craggy autumnal landscape. Yazz’s trumpet melody is magisterial, composed of Arabic scales, which are counterpointed with a quiet and foreboding percussion.**"**
 
 ## Fran & Flora – The Hollow Tree
 _Sanjay_: **"**The first time I saw [Fran & Flora](https://www.franandflora.com/) in London we were treated to a Romani a capella sung in harmony, along with anecdotes about their musical adventures in Eastern Europe. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
