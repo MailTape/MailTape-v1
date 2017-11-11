@@ -60,13 +60,13 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 # MailTape's selection
 
 ## Yazz Ahmed — La Saboteuse
-_Sanjay_: **"**It's pretty challenging for me to pick just one track from Yazz's latest album, 'La Saboteuse', as the whole piece feels cinematic in its storytelling. Nonetheless, this crepuscular title track gives my thoughts the time and space to float freely among the quiet bass clarinet and gentle percussion—perfect for a dewy Sunday morning.**"**
+_Sanjay_: **"**It's pretty challenging for me to pick just one track from Yazz's latest album, 'La Saboteuse'. In this atmospheric title track the tension between the quiet bass clarinet and gentle percussion create a foreboding effect. Perfect for a dewy Sunday morning.**"**
 
 ## Fran & Flora – The Hollow Tree
 _Sanjay_: **"**The first time I saw [Fran & Flora](https://www.franandflora.com/) in London we were treated to a Romani a capella sung in harmony, along with anecdotes about their musical adventures in Eastern Europe. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
 
 ## Zoe Rahman — Shiraz
-_Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a few times in London and Leicester and I love the soft rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
+_Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a few times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
 
 ## Vijay Iyer — Break Stuff
 _Sanjay_: **"**With all this talk of gaps, between revision and the break, we try to remain in passage and resist drawing conlcusions with this title track from an album by the [Vijay Iyer Trio](http://vijay-iyer.com/) explicitly delighting in the breaks. If you haven't done so already, I'd recommend hearing Vijay—alongside his many ensembles—live!**"**
