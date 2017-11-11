@@ -40,7 +40,7 @@ description: >-
 ---
 <p id="introduction">This morning we are delighted to collaborate with trumpeter and composer [Yazz Ahmed](http://yazzahmed.com/) and get a glimpse into her Sunday morning jukebox with MailTape.</p>
 <p>As well as leading her own quartet and septet, Yazz has also recorded and performed with Radiohead, Max Romeo, Lee ‘Scratch’ Perry, ABC, Swing Out Sister, Joan as Police Woman and Amel Zen.</p>
-<p>For our friends in Paris and London, Yazz will be performing with the Hafla Band at the [Blue Note Festival](http://www.bluenotefestival.fr/) on 16th November and at King's Place in London on the 17th.</p>
+<p>For our friends in Paris and London, Yazz will be performing with the Hafla Band at the [Blue Note Festival](http://www.bluenotefestival.fr/) on 16th November and at [King's Place](http://www.kingsplace.co.uk/whats-on/music/yazz-ahmed-la-saboteuse#.WgbNH7CFjfY) in London on the 17th.</p>
 
 
 # Yazz Ahmed's selection
