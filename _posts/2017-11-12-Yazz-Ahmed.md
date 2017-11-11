@@ -28,7 +28,7 @@ track5_title: Fran and Flora – The Hollow Tree
 track5_color: bliss
 track6_title: Zoe Rahman – Shiraz
 track6_color: dreamy
-track7_title: Vijay Iyer – Break Stuff
+track7_title: Vijay Iyer Trio – Break Stuff
 track7_color: trippy
 episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
 guestPic: guestPic286.jpg
@@ -68,7 +68,7 @@ _Sanjay_: **"**The first time I saw [Fran & Flora](https://www.franandflora.com/
 ## Zoe Rahman — Shiraz
 _Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a few times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
 
-## Vijay Iyer — Break Stuff
+## Vijay Iyer Trio — Break Stuff
 _Sanjay_: **"**With all this talk of gaps, between revision and the break, we try to remain in passage and resist drawing conclusions with this title track from an album by the [Vijay Iyer Trio](http://vijay-iyer.com/) explicitly delighting in the breaks. If you haven't done so already, I'd recommend hearing Vijay—alongside his many ensembles—live!**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much gratitude to [Yazz Ahmed](http://yazzahmed.com/) for being our guest, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
