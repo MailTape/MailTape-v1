@@ -66,7 +66,7 @@ _Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album,
 _Sanjay_: **"**The first time I saw [Fran & Flora](https://www.franandflora.com/) in London we were treated to a Romani a capella sung in harmony, along with anecdotes about their musical adventures in Eastern Europe. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
 
 ## Zoe Rahman — Shiraz
-_Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a few times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
+_Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a few times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, Zoe will be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
 
 ## Vijay Iyer Trio — Break Stuff
 _Sanjay_: **"**With all this talk of gaps, between revision and the break, we try to remain in passage and resist drawing conclusions with this title track from an album by the [Vijay Iyer Trio](http://vijay-iyer.com/) explicitly delighting in the breaks. If you haven't done so already, I'd recommend hearing Vijay—alongside his many ensembles—live!**"**
