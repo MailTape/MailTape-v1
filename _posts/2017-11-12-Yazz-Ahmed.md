@@ -69,6 +69,6 @@ _Sanjay_: **"**As well as their soulful laments and meticulous songs, the first 
 _Sanjay_: **"**An oldie but a goodie from pianist Zoe Rahman. I've seen her perform a few times in London and Leicester and I love the soft ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, she'll be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's Jazz Festival.**"**
 
 ## Vijay Iyer — Break Stuff
-_Sanjay_: **"**I feel there's a lot more music to come from [Moses Boyd](http://www.mosesboyd.co.uk/) & Co. and it's been a pretty exciting experience hearing them live every time I've had the opportunity. While evocative of the night, I think this works just as well for a (very early?) Sunday morning!**"**
+_Sanjay_: **"**With all this talk of gaps, between revision and the break, it seems **"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much gratitude to [Yazz Ahmed](http://yazzahmed.com/) for being our guest, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
