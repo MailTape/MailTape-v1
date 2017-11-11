@@ -60,7 +60,7 @@ _Yazz Ahmed_: **"**A collaboration between harpist, [Ruth Wall](http://sound-sco
 # MailTape's selection
 
 ## Yazz Ahmed — La Saboteuse
-_Sanjay_: **"**It's pretty difficult to pick just one track from Yazz's latest album, 'La Saboteuse', as the whole piece feels cinematic in its storytelling. Nonetheless, this title track feels like my thoughts are given the time and space to float freely before unfolding gently like the morning's dew.**"**
+_Sanjay_: **"**It's pretty difficult to pick just one track from Yazz's latest album, 'La Saboteuse', as the whole piece feels cinematic in its storytelling. Nonetheless, this title track feels like my thoughts are given the time and space to float freely amid the horns and gentle percussion—before unfolding gently like the morning's dew.**"**
 
 ## Fran & Flora – The Hollow Tree
 _Sanjay_: **"**Dedicated to Trayvon Martin and his family, this is Mazz Swift's contribution to the first CD release from Con Vivo Music, '[Modern Dances](https://soundcloud.com/convivomusic/sets/modern-dances)', featuring music by their members. I saw Mazz perform last Sunday with [Hear in Now](http://www.hearinnow.com/) at The Vortex in London alongside Tomeka Reid, Silvia Bolognesi and Alexander Hawkins. So good!**"**
