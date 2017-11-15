@@ -30,7 +30,7 @@ _Julien Marchal_: **"**First listen of this track, the only thing I was thinking
 ##  Christian Loeffler - Mare (Robot Koch Remix) 
 _Julien Marchal_: **"**Because I love the warmth and the deep of his basses, the minimal electronic composition with sound design addition on his tracks. And even more since we’re collaborate. **"**
 
-## Jon Wayne - These Words Are Everything
+## Jonwayne - These Words Are Everything
 _Julien Marchal_: **"**I love Jonwayne’s music to give more energy without being excited. I love so much different kind of music that I would like to make 100 different mailtapes. ;) **"**
 
 
