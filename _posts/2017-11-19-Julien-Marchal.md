@@ -1,7 +1,17 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
+author: ImaCrea
+illustrator: Anais Caura
+writer: Siddhartha
+category: '287'
+guest_name: Julien Marchal
+guest_color: dreamy
+track1_link: 'https://soundcloud.com/dumontdumont/ed-tullett-novo-amor-faux'
+track1_title: Novo Amor & Ed Tullett - Faux
+track2_link: ' Christian Loeffler - Mare (Robot Koch Remix) '
+track3_link: 'https://soundcloud.com/authorsrecording/these-words-are-everything'
 ---
 <p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 </p>
@@ -14,13 +24,13 @@ Having drawn inspiration from the likes of Eric Satie and Philip Glass, his pian
 
 # Julien Marchal's selection
 
-## Sarathy Korwar – Bismillah
+## Novo Amor & Ed Tullett - Faux
 _Julien Marchal_: **"**First listen of this track, the only thing I was thinking was : « who’s that voice? I want to work with him! ». I really like the work of Novo Amor (Ali Lacey) and Ed Tullett. I think they’ve created a beautiful duo of composer and I hope they will continue to create some other beautiful songs like this one.**"**
 
-## Samuel Hällkvist – Variety Of Rhythm Part 4: "The Necker Cube”
+##  Christian Loeffler - Mare (Robot Koch Remix) 
 _Julien Marchal_: **"**Because I love the warmth and the deep of his basses, the minimal electronic composition with sound design addition on his tracks. And even more since we’re collaborate. **"**
 
-## Ruth Wall – Snow Clamp
+## Jon Wayne - These Words Are Everything
 _Julien Marchal_: **"**I love Jonwayne’s music to give more energy without being excited. I love so much different kind of music that I would like to make 100 different mailtapes. ;) **"**
 
 
