@@ -13,8 +13,8 @@ track1_title: Novo Amor & Ed Tullett - Faux
 track2_link: 'https://soundcloud.com/robot-koch/christian-loeffler-mare-robot-koch-remix-1'
 track3_link: 'https://soundcloud.com/authorsrecording/these-words-are-everything'
 track4_link: 'https://soundcloud.com/julienmarchal/xxi-final-master-4424'
-track6_link: 'https://soundcloud.com/synkro/synkro-hand-in-hand'
-track7_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
+track6_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
+track7_link: 'https://mailtapetracks.s3.amazonaws.com/287/track7.mp3'
 track5_link: 'https://soundcloud.com/kiefdaddy/wdup-v5'
 ---
 <p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
