@@ -16,6 +16,19 @@ track4_link: 'https://soundcloud.com/julienmarchal/xxi-final-master-4424'
 track6_link: 'https://mailtapetracks.s3.amazonaws.com/287/track7.mp3'
 track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/287/track5.mp3'
 track7_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
+track2_title: ' Christian Loeffler - Mare (Robot Koch Remix) '
+track3_title: Jonwayne - These Words Are Everything
+track4_title: 'Julien Marchal - INSIGHT XXI '
+track5_title: Kiefer - Wdup v5
+track6_title: Synkro - Hand in Hand
+track7_title: ' Porya Hatami - Land Remixed - Snow (Pleq Remix) '
+track1_color: dreamy
+track2_color: dreamy
+track3_color: trippy
+track4_color: bliss
+track6_color: trippy
+track7_color: dreamy
+track5_color: trippy
 ---
 <p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 </p>
