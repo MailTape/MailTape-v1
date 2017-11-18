@@ -38,7 +38,7 @@ description: >-
   and yet uplifting, here’s an artist whose harmony will lend you the peace of
   mind you so deserve as you touch upon on the world of modern classical.
 ---
-<p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
+<p id="introduction">Our artist of the week, [Julien Marchal](https://julienmarchal.bandcamp.com/), has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 </p>
 
 # Here and now
@@ -61,16 +61,16 @@ _Julien Marchal_: **"**I love Jonwayne’s music to give more energy without bei
 
 # MailTape's selection
 
-## Yazz Ahmed — La Saboteuse
-_Sanjay_: **"**It's hard for me to pick just one track from Yazz's latest album, 'La Saboteuse'. This piece begins with Shabaka Hutchings's solo bass clarinet which evokes a beautiful sadness, like a craggy autumnal landscape. Yazz’s trumpet melody is magisterial, composed of Arabic scales, which are counterpointed with a quiet and foreboding percussion.**"**
+## Julien Marchal - INSIGHT XXI 
+_ImaCrea_: **"**fsd**"**
 
-## Fran & Flora – The Hollow Tree
-_Sanjay_: **"**Stark and eerie...like a hollow tree, this track consists of cello and violin beautifully played by [Fran and Flora](https://www.franandflora.com/), respectively. They fuse traditional motifs of Eastern European music with their own experimental compositions and improvisation. I'm looking forward to their upcoming debut album. Such a cool duo!**"**
+## Kiefer - Wdup v5
+_ImaCrea_: **"**fdf**"**
 
-## Zoe Rahman — Shiraz
-_Sanjay_: **"**An oldie but a goodie from pianist [Zoe Rahman](http://www.zoerahman.com/). I've seen her perform a couple of times in London and Leicester and I love the rhythmic ruminations with repeating low themes emerging in the gaps between treble trills in this track. If you're in London, Zoe will be performing [solo at lunchtime on 13th November](https://www.pizzaexpresslive.com/whats-on/zoe-rahman) as part of this year's jazz festival.**"**
+## Synkro - Hand in Hand
+_ImaCrea_: **"**dfdf**"**
 
-## Vijay Iyer Trio — Break Stuff
-_Sanjay_: **"**In this title track from the [Vijay Iyer Trio](http://vijay-iyer.com/), the unbridled energy of Vijay Iyer’s piano is grounded by Marcus Gilmore’s drums and Stephan Crump’s bass. They create a mesmeric tension, as the track builds towards and dissolves into a contrastingly meditative break in which earlier motifs are deconstructed. Here, also, the drums quietly emerge for the first time before ceding the melody to the piano, which gradually regains its earlier intensity. If you haven't done so already, I'd recommend hearing Vijay—alongside his many ensembles—live!**"**
+##  Porya Hatami - Land Remixed - Snow (Pleq Remix) 
+_ImaCrea_: **"**dfdf**"**
 
 <p id="outroduction">That's all for today. Thanks for listening and much gratitude to [Yazz Ahmed](http://yazzahmed.com/) for being our guest, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
