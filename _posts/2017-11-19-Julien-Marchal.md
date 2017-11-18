@@ -14,7 +14,7 @@ track2_link: 'https://soundcloud.com/robot-koch/christian-loeffler-mare-robot-ko
 track3_link: 'https://soundcloud.com/authorsrecording/these-words-are-everything'
 track4_link: 'https://soundcloud.com/julienmarchal/xxi-final-master-4424'
 track6_link: 'https://mailtapetracks.s3.amazonaws.com/287/track7.mp3'
-track5_link: 'https://soundcloud.com/kiefdaddy/wdup-v5'
+track5_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/287/track5.mp3'
 track7_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
 ---
 <p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
