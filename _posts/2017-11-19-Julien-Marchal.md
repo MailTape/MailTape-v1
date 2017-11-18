@@ -36,7 +36,9 @@ description: >-
   contemporary pianist and composer from Bordeaux, France. His contemplative and
   minimalist pieces seem to be an invocation of the classical art. Melancholic
   and yet uplifting, here’s an artist whose harmony will lend you the peace of
-  mind you so deserve as you touch upon on the world of modern classical.
+  mind you so deserve as you touch upon on the world of modern classical. 
+fbPic: fbPic287.png
+musiColor: musiColor287.png
 ---
 <p id="introduction">Our artist of the week, [Julien Marchal](https://julienmarchal.bandcamp.com/), has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 </p>
@@ -44,7 +46,6 @@ description: >-
 # Here and now
 
 Having drawn inspiration from the likes of Eric Satie and Philip Glass, his piano pieces go on to orchestrate the symphony of life. With each passing note, the listener is brought close to the realization that life is here and now. There’s a calmness that solemnly settles in you; causing you to slowly and mindfully accepting life as it is. That said, one is often left to wonder, that if there were to be a musical expression of life, it couldn’t have been more precise than this. 
-
 
 
 # Julien Marchal's selection
@@ -62,15 +63,15 @@ _Julien Marchal_: **"**I love Jonwayne’s music to give more energy without bei
 # MailTape's selection
 
 ## Julien Marchal - INSIGHT XXI 
-_ImaCrea_: **"**fsd**"**
+_ImaCrea_: **"**Music for the XXIth century. I guess it's the colors of autumn which have inspired me to cross the path of Julien's music. Introspective and touching, as if I woke up in the forest with morning ray of sunlight caressing my skin.**"**
 
 ## Kiefer - Wdup v5
-_ImaCrea_: **"**fdf**"**
+_ImaCrea_: **"**Ping-pong with Jonwayne.**"**
 
 ## Synkro - Hand in Hand
-_ImaCrea_: **"**dfdf**"**
+_ImaCrea_: **"**Morning levitation.**"**
 
 ##  Porya Hatami - Land Remixed - Snow (Pleq Remix) 
-_ImaCrea_: **"**dfdf**"**
+_ImaCrea_: **"**Now, fly...**"**
 
-<p id="outroduction">That's all for today. Thanks for listening and much gratitude to [Yazz Ahmed](http://yazzahmed.com/) for being our guest, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
+<p id="outroduction">That's all for today. Thanks for listening love to [Julien Marchal](https://julienmarchal.bandcamp.com/) for being our guest.</p>
