@@ -22,7 +22,7 @@ track4_title: 'Julien Marchal - INSIGHT XXI '
 track5_title: Kiefer - Wdup v5
 track6_title: Synkro - Hand in Hand
 track7_title: ' Porya Hatami - Land Remixed - Snow (Pleq Remix) '
-track1_color: dreamy
+track1_color: vibrant
 track2_color: dreamy
 track3_color: trippy
 track4_color: bliss
