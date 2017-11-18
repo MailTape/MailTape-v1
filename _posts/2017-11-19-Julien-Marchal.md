@@ -30,6 +30,13 @@ track6_color: trippy
 track7_color: dreamy
 track5_color: trippy
 episode_URL: 'https://www.mailta.pe/287/julien-marchal/'
+guestPic: guestPic287.jpg
+description: >-
+  Our artist of the week, Julien Marchal, has something unique to share. A
+  contemporary pianist and composer from Bordeaux, France. His contemplative and
+  minimalist pieces seem to be an invocation of the classical art. Melancholic
+  and yet uplifting, here’s an artist whose harmony will lend you the peace of
+  mind you so deserve as you touch upon on the world of modern classical.
 ---
 <p id="introduction">Our artist of the week, Julien Marchal, has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 
 </p>
