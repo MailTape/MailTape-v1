@@ -22,6 +22,13 @@ track4_title: Hector Gachan - Untitled '91
 track4_color: dreamy
 track5_title: Superorganism - Something for Your M.I.N.D.
 track5_color: vibrant
+track7_link: 'https://soundcloud.com/mezonderetrete/today-i-am-a-piece-of-shit'
+track6_link: 'https://soundcloud.com/arbutus-records/a4-opposing-truths'
+track6_title: Sean Nicholas Savage - Opposing Truths
+track6_color: bliss
+track7_title: Maison de Retraite - today i am a piece of shit
+track7_color: trippy
+category: '289'
 ---
 <p id="introduction">This morning</p>
 <p></p>
@@ -46,13 +53,13 @@ _Hector Gachan_: **"**As soon as this randomly popped up on my lappy.. I knew th
 ## Hector Gachan - Untitled '91
 _Inès_: **"**."**"**
 
-## 
+## Superorganism - Something for Your M.I.N.D.
 _Inès_: **"**.**"**
 
-## 
+## Sean Nicholas Savage - Opposing Truths
 _Inès_: **"**.**"**
 
-## 
+## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**.**"**
 
 <p id="outroduction">That's all folks. Thank you for listening and thanks to Hector Gachan for being our guest, and to [Isabelle Escande]() for this episode's illustration!</p>
