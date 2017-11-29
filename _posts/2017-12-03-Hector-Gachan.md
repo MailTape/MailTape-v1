@@ -36,8 +36,6 @@ category: '289'
 
 # Hector Gachan's selection
 
-
-
 ## Yuko Yuko – Two Boys
 _Hector Gachan_: **"**This a track and a half right here folks. Pure psychedelic pop with a cheeky 80's feel to it. Catchy as hell. Wonderful female lead vocals with some call and response like chorus backed up by Yuko Yuko's Elias. So Mashallah!**"**
 
@@ -62,4 +60,4 @@ _Inès_: **"**.**"**
 ## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**.**"**
 
-<p id="outroduction">That's all folks. Thank you for listening and thanks to Hector Gachan for being our guest, and to [Isabelle Escande]() for this episode's illustration!</p>
+<p id="outroduction">That's all folks. Thank you for listening and thanks to [Hector Gachan](https://www.facebook.com/hectorgachanmusic/) for being our guest, and to [Isabelle Escande]() for this episode's illustration!</p>
