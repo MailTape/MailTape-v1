@@ -29,6 +29,7 @@ track6_color: bliss
 track7_title: Maison de Retraite - today i am a piece of shit
 track7_color: trippy
 category: '289'
+episode_URL: 'https://www.mailta.pe/289/hector-gachan'
 ---
 <p id="introduction">This morning, </p>
 <p></p>
