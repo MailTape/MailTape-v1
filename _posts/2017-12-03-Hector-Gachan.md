@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Inès
 illustrator: Isabelle Escande
 writer: Inès
@@ -30,7 +30,7 @@ track7_title: Maison de Retraite - today i am a piece of shit
 track7_color: trippy
 category: '289'
 ---
-<p id="introduction">This morning</p>
+<p id="introduction">This morning, </p>
 <p></p>
 
 
