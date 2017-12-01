@@ -11,7 +11,7 @@ track1_link: 'https://soundcloud.com/yukoyuko/05-two-boys'
 track2_link: 'https://soundcloud.com/yeah-nah-yeah/jermango-dreaming-i-want-you'
 track3_link: 'https://soundcloud.com/okaysamurai/everything-is-shitty-x-jerry-paper'
 track4_link: 'https://soundcloud.com/hectorgachan/untitled-91'
-track5_link: 'https://soundcloud.com/superorganism/something-for-your-m-i-n-d'
+track5_link: 'https://soundcloud.com/jack-brennan-28/something-for-your-mind'
 track1_title: Yuko Yuko - Two Boys
 track1_color: vibrant
 track2_title: Jermango Dreaming - I Want You
