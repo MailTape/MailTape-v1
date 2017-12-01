@@ -51,7 +51,7 @@ _Hector Gachan_: **"**As soon as this randomly popped up on my lappy.. I knew th
 # MailTape's selection
 
 ## Hector Gachan - Untitled '91
-_Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly lo-fi track with a great guitar line. I've been listening to his music a lot since then. Hector Gachan makes super catchy lo-fi dream pop tunes, and Untitled ’91 is an amazing song to chill out on Sunday mornings.**"**
+_Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly track with a great guitar line. I've been listening to his music a lot since then. Hector Gachan makes super catchy lo-fi dream pop tunes, and Untitled ’91 is an amazing song to chill out on Sunday mornings.**"**
 
 ## Superorganism - Something for Your M.I.N.D.
 _Inès_: **"** **"**
