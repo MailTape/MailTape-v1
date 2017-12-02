@@ -34,8 +34,9 @@ guestPic: guestPic289-2.jpg
 fbPic: fbPic289.png
 musiColor: musiColor289.png
 ---
-<p id="introduction">This morning, </p>
-<p>Influenced b He released his first album two days ago, [check it out](https://lnk.to/hectorgachan_untitled91)!</p>
+<p id="introduction">This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan is an Australian and Bosnian musician making catchy, lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago, check it out.</p>
+<p>So let this selection take you out of your lethargy, help you fight the coldness of winter, be the soundtrack of what you want your morning to be. Get cosy or get busy, your call.</p> 
+
 
 
 # Hector Gachan's selection
@@ -53,7 +54,7 @@ _Hector Gachan_: **"**As soon as this randomly popped up on my lappy.. I knew th
 # MailTape's selection
 
 ## Hector Gachan - Untitled '91
-_Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly track with a great guitar line. I've been listening to his music a lot since then. Hector Gachan makes super catchy lo-fi dream pop tunes, and Untitled ’91 is perfect to chill out on Sunday mornings.**"**
+_Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly track with a great guitar line. I've been meaning to feature him on a MailTape episode for a while now, and I'm happy to have him as a guest today. Untitled ’91 is a super catchy tune, and perfect to chill out on Sunday mornings.**"**
 
 ## Superorganism - Something for Your M.I.N.D.
 _Inès_: **"**The musical equivalent of 100 litres of multi-vitamin juice.**"**
@@ -64,4 +65,4 @@ _Inès_: **"**I won’t lie, one of the reasons I picked this song is because of
 ## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**Hector Gachan picked a song about everything being shitty, so I picked a song about being a piece of shit. To be fair, this track is just noisy nonsense, which for some reason makes a lot of sense to me. Happy Sunday guys, let’s all bask in the satisfying feeling of knowing that we can be useless human beings today.**"**
 
-<p id="outroduction">That's all folks. Thank you for listening and thanks to [Hector Gachan](https://www.facebook.com/hectorgachanmusic/) for being our guest, and to [Isabelle Escande](http://cargocollective.com/isabelleescande) for this episode's illustration!</p>
+<p id="outroduction">That's all folks! Thank you for listening and thanks to [Hector Gachan](https://www.facebook.com/hectorgachanmusic/) for being our guest this morning, and to [Isabelle Escande](http://cargocollective.com/isabelleescande) for this episode's illustration! Have a wonderful Sunday.</p>
