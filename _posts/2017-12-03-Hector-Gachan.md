@@ -54,10 +54,10 @@ _Hector Gachan_: **"**As soon as this randomly popped up on my lappy.. I knew th
 _Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly track with a great guitar line. I've been listening to his music a lot since then. Hector Gachan makes super catchy lo-fi dream pop tunes, and Untitled ’91 is an amazing song to chill out on Sunday mornings.**"**
 
 ## Superorganism - Something for Your M.I.N.D.
-_Inès_: **"** **"**
+_Inès_: **"**The musical equivalent of 10 litres of multi-vitamin juice. A song to kickstart your day!**"**
 
 ## Sean Nicholas Savage - Opposing Truths
-_Inès_: **"**.**"**
+_Inès_: **"**I won’t lie, one of the reasons I picked this song is because of the shared lyrics with Hector Gachan’s second choice. Other than that, it’s also because it’s a nice, kinda cheesy, delicate ballad with an amazing chorus.**"**
 
 ## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**Hector Gachan picked a song about everything being shitty, so I picked a song about being a piece of shit. To be fair, this track is just noisy nonsense, which for some reason makes a lot of sense to me. Happy Sunday guys, let’s all bask in the satisfying feeling of knowing that we can be useless human beings today.**"**
