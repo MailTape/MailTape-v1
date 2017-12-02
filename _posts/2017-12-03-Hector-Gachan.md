@@ -62,4 +62,4 @@ _Inès_: **"**I won’t lie, one of the reasons I picked this song is because of
 ## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**Hector Gachan picked a song about everything being shitty, so I picked a song about being a piece of shit. To be fair, this track is just noisy nonsense, which for some reason makes a lot of sense to me. Happy Sunday guys, let’s all bask in the satisfying feeling of knowing that we can be useless human beings today.**"**
 
-<p id="outroduction">That's all folks. Thank you for listening and thanks to [Hector Gachan](https://www.facebook.com/hectorgachanmusic/) for being our guest, and to [Isabelle Escande]() for this episode's illustration!</p>
+<p id="outroduction">That's all folks. Thank you for listening and thanks to [Hector Gachan](https://www.facebook.com/hectorgachanmusic/) for being our guest, and to [Isabelle Escande](http://cargocollective.com/isabelleescande) for this episode's illustration!</p>
