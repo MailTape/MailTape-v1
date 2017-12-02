@@ -23,7 +23,7 @@ track4_color: dreamy
 track5_title: Superorganism - Something for Your M.I.N.D.
 track5_color: vibrant
 track7_link: 'https://soundcloud.com/mezonderetrete/today-i-am-a-piece-of-shit'
-track6_link: 'https://soundcloud.com/arbutus-records/a4-opposing-truths'
+track6_link: 'https://mailtapetracks.s3.amazonaws.com/289/track6.mp3'
 track6_title: Sean Nicholas Savage - Opposing Truths
 track6_color: bliss
 track7_title: Maison de Retraite - today i am a piece of shit
