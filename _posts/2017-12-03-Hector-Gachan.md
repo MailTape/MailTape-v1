@@ -39,7 +39,7 @@ description: >-
   soundtrack of what you want your morning to be. Get cosy or get busy, your
   call.
 ---
-<p id="introduction">This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan is an Australian and Bosnian musician making catchy, lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago.</p>
+<p id="introduction">This morning, kickstart your day with Hector Gachan’s warm and lively selection. Hector Gachan, who grew up between Australia and Bosnia, makes catchy lo-fi dream pop songs, influenced by his upbringing in between these two countries. He released his [debut album](https://lnk.to/hectorgachan_untitled91) two days ago.</p>
 <p>Let this selection take you out of your lethargy, help you fight the coldness of winter, be the soundtrack of what you want your morning to be. Get cosy or get busy, your call.</p> 
 
 
