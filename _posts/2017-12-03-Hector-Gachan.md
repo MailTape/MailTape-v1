@@ -31,6 +31,8 @@ track7_color: trippy
 category: '289'
 episode_URL: 'https://www.mailta.pe/289/hector-gachan'
 guestPic: guestPic289-2.jpg
+fbPic: fbPic289.png
+musiColor: musiColor289.png
 ---
 <p id="introduction">This morning, </p>
 <p>Influenced b He released his first album two days ago, [check it out](https://lnk.to/hectorgachan_untitled91)!</p>
