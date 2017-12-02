@@ -66,7 +66,7 @@ _Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's wi
 _Inès_: **"**The musical equivalent of 100 litres of multi-vitamin juice.**"**
 
 ## Sean Nicholas Savage - Opposing Truths
-_Inès_: **"**I won’t lie, one of the reasons I picked this song is because of the shared lyrics with Hector Gachan’s second choice. Other than that, it’s also because it’s a nice, kinda cheesy, delicate ballad with an amazing chorus.**"**
+_Inès_: **"**I won’t lie, one of the reasons I chose this song is because of the shared lyrics with Hector Gachan’s second choice. Other than that, it’s also because it’s a nice, kinda cheesy, delicate ballad with an amazing chorus.**"**
 
 ## Maison de Retraite - today i am a piece of shit 
 _Inès_: **"**Hector Gachan picked a song about everything being shitty, so I picked a song about being a piece of shit. To be fair, this track is just noisy nonsense, which for some reason makes a lot of sense to me. Happy Sunday guys, let’s all bask in the satisfying feeling of knowing that we can be useless human beings today.**"**
