@@ -17,7 +17,7 @@ track1_color: vibrant
 track2_title: Jermango Dreaming - I Want You
 track2_color: bliss
 track3_title: Jerry Paper - Everything Is Shitty
-track3_color: vibrant
+track3_color: trippy
 track4_title: Hector Gachan - Untitled '91
 track4_color: dreamy
 track5_title: Superorganism - Something for Your M.I.N.D.
@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/289/hector-gachan'
 guestPic: guestPic289-2.jpg
 ---
 <p id="introduction">This morning, </p>
-<p>Oh and he released his first album two days ago, [check it out](https://lnk.to/hectorgachan_untitled91)!</p>
+<p>Influenced b He released his first album two days ago, [check it out](https://lnk.to/hectorgachan_untitled91)!</p>
 
 
 # Hector Gachan's selection
@@ -54,7 +54,7 @@ _Hector Gachan_: **"**As soon as this randomly popped up on my lappy.. I knew th
 _Inès_: **"**I can't remember how I discovered Hector Gachan but I know it's with [Normal](https://soundcloud.com/hectorgachan/hector-gachan-normal), a ghostly track with a great guitar line. I've been listening to his music a lot since then. Hector Gachan makes super catchy lo-fi dream pop tunes, and Untitled ’91 is perfect to chill out on Sunday mornings.**"**
 
 ## Superorganism - Something for Your M.I.N.D.
-_Inès_: **"**The musical equivalent of 10 litres of multi-vitamin juice. A song to kickstart your day!**"**
+_Inès_: **"**The musical equivalent of 100 litres of multi-vitamin juice.**"**
 
 ## Sean Nicholas Savage - Opposing Truths
 _Inès_: **"**I won’t lie, one of the reasons I picked this song is because of the shared lyrics with Hector Gachan’s second choice. Other than that, it’s also because it’s a nice, kinda cheesy, delicate ballad with an amazing chorus.**"**
