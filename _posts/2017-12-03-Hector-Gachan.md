@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/289/hector-gachan'
 guestPic: guestPic289-2.jpg
 ---
 <p id="introduction">This morning, </p>
-<p></p>
+<p>Oh and he released his first album two days ago, [check it out](https://lnk.to/hectorgachan_untitled91)!</p>
 
 
 # Hector Gachan's selection
