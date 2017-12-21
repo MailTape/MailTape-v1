@@ -9,7 +9,7 @@ category: '292'
 guest_name: Oiseaux-Tempête
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/raal/heilagur-draugur'
-track2_link: 'https://soundcloud.com/nineinchnails/28-ghosts-iv'
+track2_link: 'https://soundcloud.com/betaskroz/nine-inch-nails-28-ghosts-iv'
 track3_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
 track4_link: 'https://soundcloud.com/oiseaux-tempete/alaan-i-dont-know-what-or-why'
 track5_link: 'https://soundcloud.com/christinavantzou/laurie-fullmix-v1-200315-01'
