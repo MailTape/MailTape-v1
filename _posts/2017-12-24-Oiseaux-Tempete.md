@@ -36,36 +36,32 @@ episode_URL: 'http://mailta.pe/292/oiseaux-tempete/'
 <p>Weaving a tapestry of speaking and singing voices from past and present into funk, jazz, soul and psyche, Fold remind us of the forces within that matter most.</p>
 
 
-# Fold's selection
+# Oiseaux-Tempête's selection
 
 
 
-## Os Novos Baianos – Acabou Chorare
-_Seth of Fold_: **"**Sunday mornings are to me, as I'm sure they are to many, somewhat sacred. I typically require a gentle introduction, something that goes well with that first bleary cup of coffee; neither too energetic nor too emotionally challenging. This particular song first appeared in my life circa 1992 on a mix tape called 'Brasil' made by a friend who had access to his older flatmate's extraordinary record collection. One of my favourite pieces written for guitar, it possesses a singular quality that makes me feel at once warm, joyful and sort of tickled — whatever the weather.
+## Lichens – Heilagur Draugur
+_Frédéric Oberland_: **"**OK, it's Sunday morning, you can live it slowly. Keep shutting your eyes and start to enjoy one of the most beautiful tracks ever by the always-amazing Robert Lowe. Layers and layers of vocal tracks like little rays from the sun penetrating your mind. Eventually you will find yourself in the middle of the song making a coffee, then make your body warmer with the first light from outside. I got so huge memories related to this track, like a Sunday morning on a terrace in Beirut with Stéphane and the two Grégoire from As Human Pattern, listening to this one all together, half-sleepy/half-awake. **"**
 
-The tune seems determined to celebrate life but in the most laid back way imaginable. Having actually spent a few months in Brasil (that's how they spell it) during the summer of 1994, listening to Acabou Chorare conjures deeply satisfying memories of lounging in the Brazilian sunshine after an enormous breakfast, drinking coffee and passion fruit juice, smoking innumerable cigarettes. Those were the days. Sigh.
+## Nine Inch Nails – 28 Ghosts IV
+_Frédéric Oberland_: **"**Every Sunday morning brings its share of memories and a bit of nostalgia. Seems like this kind of unknown track from Trent Reznor fulfills this purpose!**"**
 
-A few years ago I finally learned to play and sing it all the way through, though the lyrics remain enigmatically untranslatable.**"**
-
-## The Meters – Hand Clapping Song
-_Seth of Fold_: **"**Once the coffee has kicked in it is time to think about moving around a little. The Meters happen to be my very favourite band of all time for the simple reason that they are the funkiest band of all time. Hand Clapping Song sits high among my 20–30 favourite Meters tracks and with its infectious Bayou shuffle it seems a logical follow up to that initial Brazilian groove. Again, this is music that brings me immense joy. The New Orleans sound, the inimitable swagger, the sense that they never took themselves too seriously, the fun they are clearly having while playing together all adds up to something I simply cannot find anywhere else.**"**
-
-## Barbatuques – Baiana
-_Seth of Fold_: **"**By this point I need to consider making the transition from pyjamas to actually doing something with my day. I need a banger to really get me going. This track is a fairly recent discovery and it hits me like an absolute ton of bricks. The sounds that make up the composition are raw and literally human—the Jew's harp is the only instrument—the rest is vocals, clapping and stomping. The sophistication and richness of Brazilian rhythm, song and arrangment—indeed of their musical heritage in general—is here evidenced to perfection. I find myself dancing around the room, still in my pyjamas, pumping my fists and embarrassing my kids thoroughly. That's me sorted for the day.**"**
+## Sarathy Korwar – Bismillah
+_Frédéric Oberland_: **"**An exquisite blend of textures and rhythms mixing Indian and African spirit with electric free-jazz and gentle electronics. Take the soul of Don Cherry, the vibrations of the spiritual songs, the groove from the desert blues, the cyclical trance of Indian classical music, the craziness from the soft side of Electric Masada and shake everything together. This is some perfect crossing cultures smoothie to celebrate your day of the sun.**"**
 
 
 # MailTape's selection
 
-## Fold — Written in the Sky
+## Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish) (ft. Tamer Abu Ghazaleh)
 _Sanjay_: **"**Seth, Kane, Ben and Sam of [Fold](http://fold.fm/) pack a lot into their sound. If the driving basslines and spirited drumming don't encourage you to at least shuffle your feet, the spoken word samples may impel you to reflect on the socio-political commentary—recurrent in most of Fold's music. On this track, the spoken word samples are from [Walter “Tangle Eye” Jackson](https://www.discogs.com/artist/2678688-Walter-Tangle-Eye-Jackson), an African American prisoner in Mississippi recorded in 1947, [Fred Hampton](https://en.wikipedia.org/wiki/Fred_Hampton), [Lorraine Hansberry](https://en.wikipedia.org/wiki/Lorraine_Hansberry) and a section of a poem by [Margaret Walker](https://en.wikipedia.org/wiki/Margaret_Walker).**"**
 
-## Vels Trio – Yellow Ochre (Part 1)
+## Christina Vantzou – Laurie Spiegel
 _Sanjay_: **"**[This Brighton-based trio](https://soundcloud.com/velstrio) are making some really nice groove-laden music right now. In this title track, the off-kilter breakbeat-style groove is counterposed with mercurial keys and a floating bassline with just enough groove to get a boogie on...if Seth's choices haven't already got you doing just that.**"**
 
-## Stella Chiweshe — Uchiseka
+## Nadah El Shazly – Barzakh
 _Sanjay_: **"**It was pretty hard standing still when I first saw [Stella Chiweshe](http://www.stellachiweshe.com/) playing her mbira at Cafe OTO in London this year. The mbira is a percussion instrument capable of playing two melodic lines at the same time. This track (translated: laugh about it) from the brilliant 'Talking Mbira' album continues the jive this morning with its give-and-go vocal lines and high-life upbeatness.**"**
 
-## Víctor Jara – Caminando, Caminando
+## Jerusalem In My Heart – 7ebr El 3oyoun
 _Sanjay_: **"**Backed by the United States, which opposed Allende's socialist policies—land redistribution, nationalisation of major corporations (especially the US-owned copper holdings that accounted for 80% of the country's foreign earnings), and a radical re-orientation of health, education and housing services—the Chilean right wing staged a coup d'état on September 11, 1973, resulting in the death of Allende and the installation of the CIA/corporate America-backed Augusto Pinochet dictatorship. On the morning of 12 September 1973, Víctor Jara was taken prisoner, along with thousands of others, and detained in Chile Stadium. After torturing him, the guards mockingly asked him to play guitar and sing for his fellow prisoners. Soon after, he was killed by a gunshot wound to the head, and his body was covered with more than 40 bullets. Electoral registers had been pulped, the Chilean TUC banned and collective bargaining made illegal. Almost alone among European nations, Britain refused shelter in its Santiago embassy to all but UK nationals.**"**
 
 <p id="outroduction">That's all folks! Thanks so much for listening and much gratitude to Seth (as well as Kane, Ben and Sam of [Fold](http://fold.fm/)) for being our guest(s), and to [William Girault](http://williamgirault.com/) for this episode's colourful illustration!</p>
