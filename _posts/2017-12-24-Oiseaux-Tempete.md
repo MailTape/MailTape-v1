@@ -62,6 +62,6 @@ _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http
 _Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah El Shazly](https://nadahelshazly.bandcamp.com/). Joining her are guitarist Sam Shalabi and Maurice Louca (both members of The Dwarfs Of East Agouza with Alan Bishop). On this mostly acoustic track, Nadah mutters broodingly over chugging acoustic guitar chords as flutes, fiddles and muted percussion create a stark, unhurried and morose atmosphere.**"**
 
 ## Jerusalem In My Heart – 7ebr El 3oyoun
-_Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal artist, Charles-André Coderre. The slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never hopeless.**"**
+_Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. The slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never hopeless.**"**
 
 <p id="outroduction">That's it! Thanks for listening and much gratitude to Frédéric and Oiseaux-Tempête for being our guest(s), and to Camille Célestin for this episode's colourful illustration. Have a joyous Christmas/holiday/break!</p>
