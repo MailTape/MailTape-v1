@@ -59,7 +59,7 @@ _Sanjay_: **"**Seth, Kane, Ben and Sam of [Fold](http://fold.fm/) pack a lot int
 _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http://www.christinavantzou.com/) with otherworldly drones surrounded by soft, subtle and sometimes intense veils or points in an eerie chorale intimacy. Inspired by Laurie Spiegel's 'The Expanding Universe' (1980).**"**
 
 ## Nadah El Shazly – Barzakh (Limen)
-_Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah El Shazly](https://nadahelshazly.bandcamp.com/). Joining her are guitarist Sam Shalabi and Maurice Louca (both members of The Dwarfs Of East Agouza with Alan Bishop). On this mostly acoustic track, Nadah mutters broodingly over chugging acoustic guitar chords as flutes, fiddles and muted percussion create a stark, unhurried and morose atmosphere.**"**
+_Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah El Shazly](https://nadahelshazly.bandcamp.com/). Joining her are guitarist Sam Shalabi and Maurice Louca (both members of The Dwarfs Of East Agouza with Alan Bishop). On this mostly acoustic track, Nadah mutters broodingly over chugging acoustic guitar chords as flutes, violins and muted percussion create a stark, unhurried and morose atmosphere.**"**
 
 ## Jerusalem In My Heart – 7ebr El 3oyoun
 _Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. The slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never hopeless.**"**
