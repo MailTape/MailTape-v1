@@ -32,8 +32,8 @@ track7_title: Jerusalem In My Heart – 7ebr El 3oyoun
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/292/oiseaux-tempete/'
 ---
-<p id="introduction">This morning we are delighted to welcome Yorkshire-based band, [Fold](http://fold.fm/), as they invite you to travel, reflect and jive in collaboration with MailTape.</p>
-<p>Weaving a tapestry of speaking and singing voices from past and present into funk, jazz, soul and psyche, Fold remind us of the forces within that matter most.</p>
+<p id="introduction">This morning we provide a soundtrack to the water crystalising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.</p>
+<p>After the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February!</p>
 
 
 # Oiseaux-Tempête's selection
