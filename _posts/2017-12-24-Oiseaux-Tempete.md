@@ -53,7 +53,7 @@ _Frédéric D. Oberland_: **"**An exquisite blend of textures and rhythms mixing
 # MailTape's selection
 
 ## Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish) (ft. Tamer Abu Ghazaleh)
-_Sanjay_: **"**Seth, Kane, Ben and Sam of [Fold](http://fold.fm/) pack a lot into their sound. If the driving basslines and spirited drumming don't encourage you to at least shuffle your feet, the spoken word samples may impel you to reflect on the socio-political commentary—recurrent in most of Fold's music. On this track, the spoken word samples are from [Walter “Tangle Eye” Jackson](https://www.discogs.com/artist/2678688-Walter-Tangle-Eye-Jackson), an African American prisoner in Mississippi recorded in 1947, [Fred Hampton](https://en.wikipedia.org/wiki/Fred_Hampton), [Lorraine Hansberry](https://en.wikipedia.org/wiki/Lorraine_Hansberry) and a section of a poem by [Margaret Walker](https://en.wikipedia.org/wiki/Margaret_Walker).**"**
+_Sanjay_: **"**Lull yourself into a dream with this dense mix of sounds: hypnotic distorted oud, flute, synths, muted percussion, recorded street bustle and a languid vocal contribution from Tamer Abu Ghazaleh.**"**
 
 ## Christina Vantzou – Laurie Spiegel
 _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http://www.christinavantzou.com/) with otherworldly drones surrounded by soft, subtle and sometimes intense veils or points in an eerie chorale intimacy. Inspired by Laurie Spiegel's 'The Expanding Universe' (1980).**"**
