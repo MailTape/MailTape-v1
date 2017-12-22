@@ -53,7 +53,7 @@ _Frédéric D. Oberland_: **"**An exquisite blend of textures and rhythms mixing
 # MailTape's selection
 
 ## Oiseaux-Tempête – I Don't Know, What Or Why (Mish Aaref Eish W Leish) (ft. Tamer Abu Ghazaleh)
-_Sanjay_: **"**Lull yourself into a dream with this dense mix of sounds: hypnotic distorted oud, flute, synths, muted percussion, recorded street bustle and a languid vocal contribution from Tamer Abu Ghazaleh.**"**
+_Sanjay_: **"**Lull yourself into a dream with this dense mix of sounds: hypnotic distorted oud, flute, synths, muted percussion, recorded street bustle and a languid vocal contribution from [Tamer Abu Ghazaleh](http://www.tamer.ag/).**"**
 
 ## Christina Vantzou – Laurie Spiegel
 _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http://www.christinavantzou.com/) with otherworldly drones surrounded by soft, subtle and sometimes intense veils or points in an eerie chorale intimacy. Inspired by Laurie Spiegel's 'The Expanding Universe' (1980).**"**
