@@ -26,7 +26,7 @@ track4_title: 'Oiseaux-Tempête – I Don''t Know, What Or Why (Mish Aaref Eish 
 track4_color: trippy
 track5_title: Christina Vantzou – Laurie Spiegel
 track5_color: dreamy
-track6_title: Nadah El Shazly – Barzakh
+track6_title: Nadah El Shazly – Barzakh (Limen)
 track6_color: bliss
 track7_title: Jerusalem In My Heart – 7ebr El 3oyoun
 track7_color: dreamy
@@ -58,10 +58,10 @@ _Sanjay_: **"**Seth, Kane, Ben and Sam of [Fold](http://fold.fm/) pack a lot int
 ## Christina Vantzou – Laurie Spiegel
 _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http://www.christinavantzou.com/) with otherworldly drones surrounded by soft, subtle and sometimes intense veils or points in an eerie chorale intimacy. Inspired by Laurie Spiegel's 'The Expanding Universe' (1980).**"**
 
-## Nadah El Shazly – Barzakh
-_Sanjay_: **"**It was pretty hard standing still when I first saw [Stella Chiweshe](http://www.stellachiweshe.com/) playing her mbira at Cafe OTO in London this year. The mbira is a percussion instrument capable of playing two melodic lines at the same time. This track (translated: laugh about it) from the brilliant 'Talking Mbira' album continues the jive this morning with its give-and-go vocal lines and high-life upbeatness.**"**
+## Nadah El Shazly – Barzakh (Limen)
+_Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah El Shazly](https://nadahelshazly.bandcamp.com/). Joining her are guitarist Sam Shalabi and Maurice Louca (both members of The Dwarfs Of East Agouza with Alan Bishop). On this mostly acoustic track, Nadah mutters broodingly over chugging acoustic guitar chords as flutes, fiddles and muted percussion create a stark, unhurried and morose atmosphere.**"**
 
 ## Jerusalem In My Heart – 7ebr El 3oyoun
-_Sanjay_: **"**Backed by the United States, which opposed Allende's socialist policies—land redistribution, nationalisation of major corporations (especially the US-owned copper holdings that accounted for 80% of the country's foreign earnings), and a radical re-orientation of health, education and housing services—the Chilean right wing staged a coup d'état on September 11, 1973, resulting in the death of Allende and the installation of the CIA/corporate America-backed Augusto Pinochet dictatorship. On the morning of 12 September 1973, Víctor Jara was taken prisoner, along with thousands of others, and detained in Chile Stadium. After torturing him, the guards mockingly asked him to play guitar and sing for his fellow prisoners. Soon after, he was killed by a gunshot wound to the head, and his body was covered with more than 40 bullets. Electoral registers had been pulped, the Chilean TUC banned and collective bargaining made illegal. Almost alone among European nations, Britain refused shelter in its Santiago embassy to all but UK nationals.**"**
+_Sanjay_: **"**This one is taken from Radwan Ghazi Moumneh and fellow Montréal artist, Charles-André Coderre's second LP, 'If He Dies, If If If If If If'.**"**
 
 <p id="outroduction">That's all folks! Thanks so much for listening and much gratitude to Seth (as well as Kane, Ben and Sam of [Fold](http://fold.fm/)) for being our guest(s), and to [William Girault](http://williamgirault.com/) for this episode's colourful illustration!</p>
