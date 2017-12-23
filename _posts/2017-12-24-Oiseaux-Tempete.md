@@ -33,6 +33,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/292/oiseaux-tempete/'
 guestPic: guestPic292.jpg
 fbPic: fbPic292.jpg
+musiColor: musiColor292.png
 ---
 <p id="introduction">This morning we attempt to provide you with a soundtrack to the water crystalising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.</p>
 <p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.</p>
