@@ -71,4 +71,4 @@ _Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah 
 ## Jerusalem In My Heart – 7ebr El 3oyoun
 _Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. Here, the slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never completely hopeless.**"**
 
-<p id="outroduction">That's it! Thanks for listening and much gratitude to Frédéric and [Oiseaux-Tempête](http://www.oiseaux-tempete.com/) for being our guest(s) today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have a joyous Christmas/holiday/break!</p>
+<p id="outroduction">That's it! Thanks for listening and much gratitude to Frédéric, Stéphane and [Oiseaux-Tempête](http://www.oiseaux-tempete.com/) for being our guest(s) today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have a joyous Christmas/holiday/break!</p>
