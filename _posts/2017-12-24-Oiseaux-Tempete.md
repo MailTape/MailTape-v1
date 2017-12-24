@@ -51,7 +51,7 @@ description: >-
 _Frédéric D. Oberland_: **"**OK, it's Sunday morning, you can live it slowly. Keep shutting your eyes and start to enjoy one of the most beautiful tracks ever by the always-amazing Robert Lowe. Layers and layers of vocal tracks like little rays from the sun penetrating your mind. Eventually you will find yourself in the middle of the song making a coffee, then make your body warmer with the first light from outside. I got so huge memories related to this track, like a Sunday morning on a terrace in Beirut with Stéphane and the two Grégoire from As Human Pattern, listening to this one all together, half-sleepy/half-awake. **"**
 
 ## Nine Inch Nails – 28 Ghosts IV
-_Frédéric D. Oberland_: **"**Every Sunday morning brings its share of memories and a bit of nostalgia. Seems like this kind of unknown track from Trent Reznor fulfills this purpose!**"**
+_Stéphane Pigneul_: **"**Every Sunday morning brings its share of memories and a bit of nostalgia. Seems like this kind of unknown track from Trent Reznor fulfills this purpose!**"**
 
 ## Sarathy Korwar – Bismillah
 _Frédéric D. Oberland_: **"**An exquisite blend of textures and rhythms mixing Indian and African spirit with electric free-jazz and gentle electronics. Take the soul of Don Cherry, the vibrations of the spiritual songs, the groove from the desert blues, the cyclical trance of Indian classical music, the craziness from the soft side of Electric Masada and shake everything together. This is some perfect crossing cultures smoothie to celebrate your day of the sun.**"**
