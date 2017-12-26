@@ -272,7 +272,8 @@ $("#topbar-signup-form").submit(function(e){
 		name = $Form.find('input[name="topbar-name"]').val(),
 		email = $Form.find('input[name="topbar-email"]').val(),
 		url = $Form.attr('action');
-		
+
+		console.log("data before post: "+name+" - "+email+" - "+url)
 
 		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
 		  function(data) {
@@ -340,6 +341,8 @@ $("#mobile-signup-form").submit(function(e){
 		name = $Form.find('input[name="mobile-name"]').val(),
 		email = $Form.find('input[name="mobile-email"]').val(),
 		url = $Form.attr('action');
+
+		console.log("data before post: "+name+" - "+email+" - "+url)
 		
 		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
 		  function(data) {
