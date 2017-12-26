@@ -273,8 +273,10 @@ $("#topbar-signup-form").submit(function(e){
 		email = $Form.find('input[name="topbar-email"]').val(),
 		url = $Form.attr('action');
 		
+
 		$.post(url, {name:name, email:email},
 		  function(data) {
+		  		console.log("data: "+data);
 		      if(data)
 		      {
 		      	if(data=="Some fields are missing.")
@@ -309,7 +311,7 @@ $("#topbar-signup-form").submit(function(e){
 		      }
 		      else
 		      {
-		      	alert("Sorry, unable to subscribe. Please try again later!");
+		      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
 		      }
 		  }
 		);
@@ -375,7 +377,7 @@ $("#mobile-signup-form").submit(function(e){
 		      }
 		      else
 		      {
-		      	alert("Sorry, unable to subscribe. Please try again later!");
+		      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
 		      }
 		  }
 		);
