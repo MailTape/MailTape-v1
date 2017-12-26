@@ -274,7 +274,7 @@ $("#topbar-signup-form").submit(function(e){
 		url = $Form.attr('action');
 		
 
-		$.post(url, {name:name, email:email},
+		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
 		  function(data) {
 		  		console.log("data: "+data);
 		      if(data)
@@ -341,8 +341,9 @@ $("#mobile-signup-form").submit(function(e){
 		email = $Form.find('input[name="mobile-email"]').val(),
 		url = $Form.attr('action');
 		
-		$.post(url, {name:name, email:email},
+		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
 		  function(data) {
+		  	console.log("data: "+data);
 		      if(data)
 		      {
 		      	if(data=="Some fields are missing.")
