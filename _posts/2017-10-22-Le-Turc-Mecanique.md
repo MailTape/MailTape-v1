@@ -28,17 +28,15 @@ track7_title: Chris Rubeo - Lover's Spit
 track7_color: dreamy
 guestPic: guestPic283.jpg
 track5_title: Utro - Kak zhe ya byl slab v te dni
-track5_link: >-
-  https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni
+track5_link: 'https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni'
 writer: Inès
 track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 musiColor: musiColor283.png
 fbPic: fbPic283.png
-description: >-
-  This morning, take some time to listen to French post-punk label Le Turc
+description: 'This morning, take some time to listen to French post-punk label Le Turc
   Mécanique's delightful selection. Post-punk label Le Turc Mécanique, created
   by Charles Crost in 2012, is one of France’s best indie labels, with artists
-  ranging from pop to post-punk to noise to techno and more.
+  ranging from pop to post-punk to noise to techno and more.'
 ---
 <p id="introduction">This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
 Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best independent labels, with artists ranging from pop to post-punk to noise to techno and more.

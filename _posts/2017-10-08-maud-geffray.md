@@ -11,8 +11,7 @@ guestPic: guestPic281.jpg
 episode_URL: 'http://mailta.pe/281/maud-geffray/'
 fbPic: fbPic281.png
 musiColor: musiColor281.png
-track1_link: >-
-  https://soundcloud.com/importantrecords/alessandro-cortini-scappa-from-forse-3-2xlp-pre-orders-available-now
+track1_link: 'https://soundcloud.com/importantrecords/alessandro-cortini-scappa-from-forse-3-2xlp-pre-orders-available-now'
 track1_title: Alessandro Cortini — Scappa
 track1_color: bliss
 track2_title: Lana Del Rey — Love

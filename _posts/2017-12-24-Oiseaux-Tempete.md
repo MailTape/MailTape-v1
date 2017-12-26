@@ -14,8 +14,7 @@ track3_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
 track4_link: 'https://soundcloud.com/oiseaux-tempete/alaan-i-dont-know-what-or-why'
 track5_link: 'https://soundcloud.com/christinavantzou/laurie-fullmix-v1-200315-01'
 track6_link: 'https://soundcloud.com/nadahelshazly/barzakh'
-track7_link: >-
-  https://soundcloud.com/constellation-records/jerusalem-in-my-heart-7ebr-el-3oyoun
+track7_link: 'https://soundcloud.com/constellation-records/jerusalem-in-my-heart-7ebr-el-3oyoun'
 track1_title: Lichens – Heilagur Draugur
 track1_color: bliss
 track2_title: Nine Inch Nails – 28 Ghosts IV
