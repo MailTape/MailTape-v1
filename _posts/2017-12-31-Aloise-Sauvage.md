@@ -10,21 +10,33 @@ guest_name: Aloïse Sauvage
 guest_color: dreamy
 guestPic: guestPic293.jpg
 episode_URL: 'http://mailta.pe/293/Aloise-Sauvage/'
+track1_title: Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
+track1_color: dreamy
+track2_title: Jaden Smith — E
+track2_color: vibrant
+track3_title: Feu! Chatterton — L'Ivresse
+track3_color: rough
+track4_title: Aloïse Sauvage — Ailleurs Higher
+track4_color: dreamy
+track1_link: 'https://mailtapetracks.s3.amazonaws.com/293/track1.mp3'
+track2_link: 'https://mailtapetracks.s3.amazonaws.com/293/track2.mp3'
+track3_link: 'https://mailtapetracks.s3.amazonaws.com/293/track3.mp3'
+track4_link: 'https://mailtapetracks.s3.amazonaws.com/293/track4.mp3'
+fbPic: fbPic293.png
+musiColor: musiColor293.png
 ---
-<p id="introduction">This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.</p>
-<p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.</p>
+<p id="introduction"></p>
+<p></p>
 
 # Aloïse Sauvage's selection
 
-
-
-## Lichens – Heilagur Draugur
+## Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
 _Aloïse Sauvage_: **"****"**
 
-## Nine Inch Nails – 28 Ghosts IV
+## Jaden Smith - E
 _Aloïse Sauvage_: **"****"**
 
-## Sarathy Korwar – Bismillah
+## Feu! Chatterton - L'Ivresse
 _Aloïse Sauvage_: **"****"**
 
 
@@ -33,13 +45,13 @@ _Aloïse Sauvage_: **"****"**
 ## Aloïse Sauvage — Ailleurs Higher
 _Louise_: **"****"**
 
-## Christina Vantzou – Laurie Spiegel
+## 
 _Louise_: **"****"**
 
-## Nadah El Shazly – Barzakh (Limen)
+## 
 _Louise_: **"****"**
 
-## Jerusalem In My Heart – 7ebr El 3oyoun
+## 
 _Louise_: **"****"**
 
-<p id="outroduction">That's it! Thanks for listening and much gratitude to Frédéric, Stéphane and [Oiseaux-Tempête](http://www.oiseaux-tempete.com/) for being our guest(s) today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have a joyous Christmas/holiday/break!</p>
+<p id="outroduction">That's all folks! </p>
