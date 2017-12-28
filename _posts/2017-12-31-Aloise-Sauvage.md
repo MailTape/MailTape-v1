@@ -34,14 +34,16 @@ musiColor: musiColor293.png
 ## Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
 _Aloïse Sauvage_: **"** This track comes from the movie Moonlight's score. I saw the movie and I was really touched by it, and I looked up the soundtrack to listen to it all over again. I really like film scores. I feel like the choise of it is of prime importance to sublime the movie where it interfere.
 <p>Also, I chose this track because I listen to it when I need to write. It takes me to a melancolic (but combative!) state of mind and helps me bring my thoughts to paper in a spontaneous and honest way.</p>
-<p>And I love these parts where chords and brass instruments meets. To me, it feels like this track has something... divine (?)</p>**"**
+<p>And I love these parts where chords and brass instruments meets. To me, it feels like this track has something... divine (?)**"**</p>
 
 ## Jaden Smith - E
-_Aloïse Sauvage_: **"**"E" est un morceau du dernier album de Jaden Smith, "SYRE". Il compose le dernier tronçon d'une même chanson elle même découpée en 4 morceaux ("B", "L", "U", "E").
-Cet album m'a vraiment plu; je trouve que Jaden Smith a une maturité artistique affolante pour son jeune âge. J'aime son flow, le découpage musical et rythmique dans ses chansons; il s'autorise vraiment tout et ne se soucie pas des structures habituelles comme "couplet/refain/couplet". J'aime qu'il me perde et qu'en écoutant l'album, je ne sache pas si on a changé de chanson ou pas. Il crée un tout fluide et cohérent dans lequel il nous invite à plonger. Et dans lequel je plonge donc volontiers. Tout de bleu vêtue. Perdue dans mes songes comme courant sur des nuages.**"**
+_Aloïse Sauvage_: **"**"E" is a track from Jaden Smith's last album "SYRE". It's the last part of a song split in four tracks ("B", "L", "U" and "E").
+<p>I really enjoyed this album. I think that Jaden Smith has reached an impressive artistic maturity for his age. I like his flow and the musical and rhythmic division in the songs. He allows himself to play outside of usual structures of songs like "verse/chorus/verse". I like to be lost listening to the album and not knowing if the track changed or not. He creates a coherent and smooth whole in which we can dive in. So I dive in willingly. All in blue. Lost in my dreams, running on clouds.**"**</p>
 
 ## Feu! Chatterton - L'Ivresse
-_Aloïse Sauvage_: **"** J'adore ce morceau, je l'écoute en ce moment comme une drogue.. C'est donc ça l'ivresse ? Son pouvoir sur moi est double; je peux l'écouter calmement les yeux fermés et divaguer dans mes pensées ou danser très sauvagement dessus avec le corps totalement fou. Il me procure l'envie de foncer, toujours plus fort, dans la vie, les projets, mes envies. Je dois dire que j'aime énormément les mots et la liberté de ton et de phrasé qu'emploie le chanteur Arthur, couplée à une musique vraiment très singulière et prenante du groupe tout entier. Il me fait l'effet d'une cuillère de miel qui coule dans la bouche et moi qui ne bois pas, cette chanson me donne envie d'être ivre.. de bonheur : parfait donc pour finir l'année 2017 et commencer l'année 2018 ! Merci Feu! Chatterton !**"**
+_Aloïse Sauvage_: **"** I love this song, I listen to it like a drug these days. Is that L'Ivresse? Its power on me is double : I can listen to it, eyes closed, and ramble in my thoughts... Or I can dance to it wildly and my body goes nuts. This track makes me want to rush, strongly, into life, in my projects and my wishes.
+<p>I love the words, the freedom of tone and how the singer, Arthur, is singing ("phrasing" ?), paired with the singular and captiving music of the whole band.</p>
+<p>It feels like a spoonful of honey in the mouth. And, I don't drink, but this song kind of makes me want to be drunk... with happiness! Perfect to finish off 2017 and start 2018 right! Thanks Feu! Chatterton!**"**</p>
 
 
 # MailTape's selection
