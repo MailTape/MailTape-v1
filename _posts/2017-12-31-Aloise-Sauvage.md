@@ -33,8 +33,8 @@ musiColor: musiColor293.png
 
 ## Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
 _Aloïse Sauvage_: **"** This track comes from the movie Moonlight's score. I saw the movie and I was really touched by it, and I looked up the soundtrack to listen to it all over again. I really like film scores. I feel like the choise of it is of prime importance to sublime the movie where it interfere.
-Also, I chose this track because I listen to it when I need to write. It takes me to a melancolic (but combative!) state of mind and helps me bring my thoughts to paper in a spontaneous and honest way.
-And I love these parts where chords and brass instruments meets. To me, it feels like this track has something... divine (?)**"**
+<p>Also, I chose this track because I listen to it when I need to write. It takes me to a melancolic (but combative!) state of mind and helps me bring my thoughts to paper in a spontaneous and honest way.</p>
+<p>And I love these parts where chords and brass instruments meets. To me, it feels like this track has something... divine (?)</p>**"**
 
 ## Jaden Smith - E
 _Aloïse Sauvage_: **"**"E" est un morceau du dernier album de Jaden Smith, "SYRE". Il compose le dernier tronçon d'une même chanson elle même découpée en 4 morceaux ("B", "L", "U", "E").
