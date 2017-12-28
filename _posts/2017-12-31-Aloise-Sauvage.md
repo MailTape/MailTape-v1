@@ -28,7 +28,7 @@ musiColor: musiColor293.png
 <p id="introduction"></p>
 <p></p>
 
-# Aloïse Sauvage's selection![guestPic293.jpg]({{site.baseurl}}/img/guestPic293.jpg)
+# Aloïse Sauvage's selection!
 
 
 ## Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
