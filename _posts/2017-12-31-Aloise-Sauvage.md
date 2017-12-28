@@ -8,7 +8,7 @@ writer: Louise
 category: '293'
 guest_name: Aloïse Sauvage
 guest_color: dreamy
-guestPic: guestPic293.jpg
+guestPic: guestPic293-1.jpg
 episode_URL: 'http://mailta.pe/293/Aloise-Sauvage/'
 track1_title: Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
 track1_color: dreamy
