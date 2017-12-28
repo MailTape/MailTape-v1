@@ -43,7 +43,7 @@ _Aloïse Sauvage_: **"**"E" is a track from Jaden Smith's last album "SYRE". It'
 
 ## Feu! Chatterton - L'Ivresse
 _Aloïse Sauvage_: **"** I love this song, I listen to it like a drug these days. Is that L'Ivresse? Its power on me is double : I can listen to it, eyes closed, and ramble in my thoughts... Or I can dance to it wildly and my body goes nuts. This track makes me want to rush, strongly, into life, in my projects and my wishes.
-<p>I love the words, the freedom of tone and how the singer, Arthur, is singing ("phrasing" ?), paired with the singular and captiving music of the whole band. It feels like a spoonful of honey in the mouth. And, I don't drink, but this song kind of makes me want to be drunk... with happiness! Perfect to finish off 2017 and start 2018 right! Thanks Feu! Chatterton!**"**</p>
+<p>I love the words, the freedom of tone and how the singer, Arthur, is singing ("phrasing" ?), paired with the singular and captiving music of the whole band. It feels like a spoonful of honey in the mouth. Also, I don't drink, but this song kind of makes me want to be drunk... with happiness! Perfect to finish off 2017 and start 2018 right! Thanks Feu! Chatterton!**"**</p>
 
 
 # MailTape's selection
