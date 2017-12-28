@@ -38,12 +38,12 @@ _Aloïse Sauvage_: **"** This track comes from the movie Moonlight's score. I sa
 
 ## Jaden Smith - E
 _Aloïse Sauvage_: **"**"E" is a track from Jaden Smith's last album "SYRE". It's the last part of a song split in four tracks ("B", "L", "U" and "E").
-<p>I really enjoyed this album. I think that Jaden Smith has reached an impressive artistic maturity for his age. I like his flow and the musical and rhythmic division in the songs. He allows himself to play outside of usual structures of songs like "verse/chorus/verse". I like to be lost listening to the album and not knowing if the track changed or not. He creates a coherent and smooth whole in which we can dive in. So I dive in willingly. All in blue. Lost in my dreams, running on clouds.**"**</p>
+<p>I really enjoyed this album. I think that Jaden Smith has reached an impressive artistic maturity for his age. I like his flow and the musical and rhythmic division in the songs. He allows himself to play outside of usual structures of songs like "verse/chorus/verse".</p>
+<p>I like to be lost listening to the album and not knowing if the track changed or not. He creates a coherent and smooth whole in which we can dive in. So I dive in willingly. All in blue. Lost in my dreams, running on clouds.**"**</p>
 
 ## Feu! Chatterton - L'Ivresse
 _Aloïse Sauvage_: **"** I love this song, I listen to it like a drug these days. Is that L'Ivresse? Its power on me is double : I can listen to it, eyes closed, and ramble in my thoughts... Or I can dance to it wildly and my body goes nuts. This track makes me want to rush, strongly, into life, in my projects and my wishes.
-<p>I love the words, the freedom of tone and how the singer, Arthur, is singing ("phrasing" ?), paired with the singular and captiving music of the whole band.</p>
-<p>It feels like a spoonful of honey in the mouth. And, I don't drink, but this song kind of makes me want to be drunk... with happiness! Perfect to finish off 2017 and start 2018 right! Thanks Feu! Chatterton!**"**</p>
+<p>I love the words, the freedom of tone and how the singer, Arthur, is singing ("phrasing" ?), paired with the singular and captiving music of the whole band. It feels like a spoonful of honey in the mouth. And, I don't drink, but this song kind of makes me want to be drunk... with happiness! Perfect to finish off 2017 and start 2018 right! Thanks Feu! Chatterton!**"**</p>
 
 
 # MailTape's selection
