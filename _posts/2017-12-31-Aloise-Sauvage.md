@@ -24,6 +24,15 @@ track3_link: 'https://mailtapetracks.s3.amazonaws.com/293/track3.mp3'
 track4_link: 'https://mailtapetracks.s3.amazonaws.com/293/track4.mp3'
 fbPic: fbPic293.png
 musiColor: musiColor293.png
+track5_link: 'https://soundcloud.com/louidjie/salome-latenight-freestyle'
+track6_link: 'https://soundcloud.com/babaali/01-cog-in-the-wheel'
+track7_link: 'https://soundcloud.com/gobstopper-records/ends-2'
+track7_title: rAHHH — Ends
+track7_color: dreamy
+track6_title: Blu Samu — Latenight Freestyle
+track6_color: dreamy
+track5_title: Baba Ali — Cog In The Wheel
+track5_color: vibrant
 ---
 <p id="introduction"></p>
 <p></p>
@@ -34,7 +43,7 @@ musiColor: musiColor293.png
 ## Nicholas Britell - End Credits Suite (Moonlight Soundtrack)
 _Aloïse Sauvage_: **"**This track comes from the movie Moonlight's score. I saw the movie and I was really touched by it, and I looked up the soundtrack to listen to it all over again. I really like film scores. I feel like the choise of it is of prime importance to sublime the movie where it interfere.
 <p>Also, I chose this track because I listen to it when I need to write. It takes me to a melancolic (but combative!) state of mind and helps me bring my thoughts to paper in a spontaneous and honest way.</p>
-<p>And I love these parts where chords and brass instruments meets. To me, it feels like this track has something... divine (?)**"**</p>
+<p>And I love these parts where string and brass instruments meet. To me, it feels like this track has something... divine (?)**"**</p>
 
 ## Jaden Smith - E
 _Aloïse Sauvage_: **"**"E" is a track from Jaden Smith's last album "SYRE". It's the last part of a song split in four tracks ("B", "L", "U" and "E").
@@ -49,7 +58,7 @@ _Aloïse Sauvage_: **"**I love this song, I listen to it like a drug these days.
 # MailTape's selection
 
 ## Aloïse Sauvage — Ailleurs Higher
-_Louise_: **"****"**
+_Louise_: **"**When I first discovered Aloïse Sauvage, it was with Ailleurs Higher's video clip. I was blown away by her phrasing and the way she moved amazed me — learning later that she's a professional dancer, that made sense. Ailleurs Higher has something peculiar that I can't really describe, but to me, it's a hit.**"**
 
 ## 
 _Louise_: **"****"**
