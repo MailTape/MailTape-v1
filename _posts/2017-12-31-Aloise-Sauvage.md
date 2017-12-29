@@ -33,6 +33,10 @@ track6_title: Baba Ali — Cog In The Wheel
 track6_color: vibrant
 track5_color: dreamy
 track5_title: Blu Samu — Latenight Freestyle
+description: >-
+  This morning, it's time to reflect on the past year. It's a new milestone for
+  MailTape: one more year of introducing you to the music we love, the music
+  that inspires us — and hopefully, that inspires you.
 ---
 <p id="introduction">This morning, it's time to reflect on the past year. It's a new milestone for MailTape: one more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.</p>
 <p>I'm delighted to offer you the last tape of 2017, especially with [Aloïse Sauvage](https://www.facebook.com/aloisesauvage/ "Aloïse Sauvage's Facebook page") as our guest. Aloïse Sauvage is my own revelation of the year. She released her first track in September, and her music has cast a spell on my brain. I'm glad to introduce you to this amazing artist.</p>
