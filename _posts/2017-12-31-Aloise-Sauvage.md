@@ -37,6 +37,8 @@ track5_title: Blu Samu — Latenight Freestyle
 <p id="introduction">This morning, it's time to reflect on the past year. It's a new milestone for MailTape: one more year of introducing you to the music we love, the music that inspires us — and hopefully, that inspires you.</p>
 <p>I'm delighted to offer you the last tape of 2017, especially with [Aloïse Sauvage](https://www.facebook.com/aloisesauvage/ "Aloïse Sauvage's Facebook page") as our guest. Aloïse Sauvage is my own revelation of the year. She released her first track in September, and her music has cast a spell on my brain. I'm glad to introduce you to this amazing artist.</p>
 <p>She's a singer, dancer, actress... You might have seen her in _120 BPM_, Romain Campillo's movie (Palme d'Or at Cannes Film Festival) and now you will discover that everything she touches is pure magic.</p>
+![musiColor293.png]({{site.baseurl}}/img/musiColor293.png)
+![fbPic293.png]({{site.baseurl}}/img/fbPic293.png)
 
 # Aloïse Sauvage's selection
 
