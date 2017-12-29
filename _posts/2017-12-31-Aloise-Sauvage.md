@@ -62,12 +62,12 @@ _Aloïse Sauvage_: **"**I love this song, I listen to it like a drug these days.
 _Louise_: **"**When I first discovered Aloïse Sauvage, it was with Ailleurs Higher's video clip. I was blown away by her phrasing and the way she moved amazed me — learning later that she's a professional dancer, that made sense. Ailleurs Higher has something peculiar that I can't really describe, but to me, it's a hit.**"**
 
 ## Blu Samu — Latenight freestyle
-_Louise_: **"**Smooth, bass, Belgium**"**
+_Louise_: **"**Belgium has something going on! This past year have been all about Brussels in the rap industry (Roméo Elvis, JeanJass & Caballero, Damso, etc.). Here comes Antwerp and Blu Samu. She'll probably be an up and coming star of 2018. Her smooth R'n'B will surely make you fall head over heals for her.**"**
 
 ## Baba Ali — Cog in the wheel
-_Louise_: **"****"**
+_Louise_: **"**Cheers to a soulful morning with this [Baba Ali](https://www.facebook.com/iambabaali/ "Baba Ali's Facebook page")'s track! It sounded familiar to my ear, most likely because I thought of D'Angelo listening to _Cog in the wheel_. The rhytmn of this song makes me want to dance all day long.**"**
 
 ## rAHHH — Ends
-_Louise_: **"****"**
+_Louise_: **"**Discovered on Bancamp Weekly, rAHHH is an artist from London... and damn, it feels like London has some talent to share. Really liked the smooth vibe of it, with birds singing in the background and raw samples.**"**
 
 <p id="outroduction">That's all folks! Huge thank you to [Aloïse Sauvage](https://www.facebook.com/aloisesauvage/ "Aloïse Sauvage's Facebook page") for her choices and thanks to [Anaïs](http://anaiscaura.fr/ "Anaïs Caura's website") for the wonderful illustration. And thank you for listening to our Sunday tapes! If you liked this tape, share it with your friends.</p>
