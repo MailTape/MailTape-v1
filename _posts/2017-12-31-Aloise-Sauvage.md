@@ -29,10 +29,10 @@ track6_link: 'https://soundcloud.com/babaali/01-cog-in-the-wheel'
 track7_link: 'https://soundcloud.com/gobstopper-records/ends-2'
 track7_title: rAHHH — Ends
 track7_color: dreamy
-track6_title: Blu Samu — Latenight Freestyle
-track6_color: dreamy
-track5_title: Baba Ali — Cog In The Wheel
-track5_color: vibrant
+track6_title: Baba Ali — Cog In The Wheel
+track6_color: vibrant
+track5_color: dreamy
+track5_title: Blu Samu — Latenight Freestyle
 ---
 <p id="introduction"></p>
 <p></p>
