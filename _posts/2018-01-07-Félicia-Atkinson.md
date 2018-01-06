@@ -35,7 +35,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/294/felicia-atkinson/'
 ---
 <p id="introduction">This morning we welcome preeminent avant-garde composer Félicia Atkinson to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.</p>
-<p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.</p>
+<p>Félicia Atkinson is a multidisciplinary artist with many more strings to her bow. On her latest album 'Hand in Hand', however, the atmosphere of reflective anticipation is the main sonic theme where a sense of otherworldly is paired with the familiar and the macabre with the sensual.</p>
 
 
 # Félicia Atkinson's selection
