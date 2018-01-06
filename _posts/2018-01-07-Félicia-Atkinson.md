@@ -66,4 +66,4 @@ _Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah 
 ## Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
 _Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. Here, the slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never completely hopeless.**"**
 
-<p id="outroduction">That's it! Thanks for listening and much gratitude to Félicia Atkinson for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's sweet illustration!</p>
+<p id="outroduction">That's it! Thanks for listening and much gratitude to [Félicia Atkinson](http://feliciaatkinson.com/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's sweet illustration!</p>
