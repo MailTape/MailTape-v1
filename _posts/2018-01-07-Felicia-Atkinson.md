@@ -54,7 +54,7 @@ _Félicia Atkinson_: **"**Jump and raise your arms to the sun. It’s gonna be a
 # MailTape's selection
 
 ## Félicia Atkinson – I'm Following You
-_Sanjay_: **"**Lull yourself into a mini snooze with this dense mixture of sounds: distorted oud, flute, synths, muted percussion, recorded street bustle and a languid vocal contribution from [Tamer Abu Ghazaleh](http://www.tamer.ag/) combine to create a track rich in texture, depth and colour.**"**
+_Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album 'Hand in Hand' fuses field recordings, modular and MIDI electronics with an almost hypnotising line in whispered vocal narration to subliminally affective degrees. In this opening track, dreams and reality go fluidly and fittingly together with a warbling ambient-pop/neo-classical introduction to the reflective anticipation of the album.**"**
 
 ## Mondkopf – The Call
 _Sanjay_: **"**A meticulously arranged composition from [Christina Vantzou](http://www.christinavantzou.com/) with otherworldly drones surrounded by soft, subtle and sometimes intense veils or points in an eerie chorale intimacy. Inspired by Laurie Spiegel's 'The Expanding Universe' (1980).**"**
