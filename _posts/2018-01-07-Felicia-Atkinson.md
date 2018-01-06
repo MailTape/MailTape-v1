@@ -45,7 +45,7 @@ episode_URL: 'http://mailta.pe/294/felicia-atkinson/'
 _Félicia Atkinson_: **"**Wake up early enough to see the sun rise and breathe its energy.**"**
 
 ## Luc Ferrari – Presque rien n°1, le lever du jour au bord de la mer
-_Félicia Atkinson_: **"**Let the silence becomes music and contemplate the light changing.**"**
+_Félicia Atkinson_: **"**Let the silence become music and contemplate the light changing.**"**
 
 ## Cinema – Sem Toto
 _Félicia Atkinson_: **"**Jump and raise your arms to the sun. It’s gonna be a good day enough.**"**
