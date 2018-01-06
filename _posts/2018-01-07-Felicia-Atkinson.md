@@ -36,6 +36,10 @@ episode_URL: 'http://mailta.pe/294/felicia-atkinson/'
 guestPic: guestPic294.jpg
 musiColor: musiColor294.png
 fbPic: fbPic294.jpg
+description: >-
+  This morning we welcome preeminent Rennes-based avant-garde composer Félicia
+  Atkinson to collaborate with us on MailTape. She weaves myriad, filigree
+  electro-acoustic and non-musical metanarratives into a sonic lucid dream.
 ---
 <p id="introduction">This morning we welcome preeminent Rennes-based avant-garde composer [Félicia Atkinson](http://feliciaatkinson.com/) to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.</p>
 <p>Félicia Atkinson is a musician with many more strings to her bow. On her latest album 'Hand in Hand', however, the atmosphere of reflective anticipation is the main sonic theme—where a sense of the otherworldly is paired with the familiar and the macabre with the sensual.</p>
