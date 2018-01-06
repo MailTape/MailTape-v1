@@ -57,7 +57,7 @@ _Félicia Atkinson_: **"**Jump and raise your arms to the sun. It’s gonna be a
 _Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album 'Hand in Hand' fuses field recordings, modular and MIDI electronics with an almost hypnotising line in whispered vocal narration. A warbling ambient-pop introduction is the opening track to the reflective anticipation of the album.**"**
 
 ## Mondkopf – The Call
-_Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serenely seductive suite of ambient or beatless works using old and new analog machines.**"**
+_Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serene and seductive suite of ambient or beatless works using old and new analog machines.**"**
 
 ## Christine Ott – Tropismes
 _Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
