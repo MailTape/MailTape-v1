@@ -63,6 +63,6 @@ _Sanjay_: **"**The moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr
 _Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
 
 ## Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
-_Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. Here, the slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never completely hopeless.**"**
+_Sanjay_: **"**A beautiful collaboration in which Fernando Corona (Murcof) and Vanessa Wagner sensitively condense and escalate elements of Arvo Pärt’s 'Variations for the Healing of Arinushka' from lonely piano and spectral electronics to a grandiose swell of strings, keys and marching drums, before returning to quietude.**"**
 
 <p id="outroduction">That's it! Thanks for listening and much gratitude to [Félicia Atkinson](http://feliciaatkinson.com/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's sweet illustration!</p>
