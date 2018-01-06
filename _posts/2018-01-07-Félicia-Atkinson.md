@@ -13,7 +13,7 @@ track1_link: >-
 track2_link: >-
   https://soundcloud.com/editionsmego/luc-ferrari-presque-rien-no-2-ainsi-continue-la-nuit-dans-ma-tete-multiple-excerpt-regrm-005
 track3_link: 'https://soundcloud.com/music-from-memory/cinema-sem-teto'
-track4_link: 'https://soundcloud.com/shelter-press/felicia-atkinson-visnaga-sp081'
+track4_link: 'https://mailtapetracks.s3.amazonaws.com/294/track4.mp3'
 track5_link: 'https://soundcloud.com/mondkopf/the-call'
 track6_link: 'https://soundcloud.com/christine-ott/tropismes'
 track7_link: >-
@@ -24,7 +24,7 @@ track2_title: 'Luc Ferrari – Presque rien n°1, le lever du jour au bord de la
 track2_color: trippy
 track3_title: Cinema – Sem Teto
 track3_color: dreamy
-track4_title: Félicia Atkinson – Visnaga
+track4_title: Félicia Atkinson – I'm Following You
 track4_color: trippy
 track5_title: Mondkopf – The Call
 track5_color: dreamy
@@ -34,7 +34,7 @@ track7_title: Murcof & Vanessa Wagner – Variations For The Healing Of Arinushk
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/294/felicia-atkinson/'
 ---
-<p id="introduction">This morning we attempt to provide you with a soundtrack to the water crystallising under freezing temperatures by welcoming the Paris-based collective, [Oiseaux-Tempête](http://www.oiseaux-tempete.com/), to MailTape.</p>
+<p id="introduction">This morning we welcome preeminent avant-garde composer Félicia Atkinson to collaborate with us on MailTape. She weaves myriad, filigree electro-acoustic and non-musical metanarratives into a sonic lucid dream.</p>
 <p>Following the release of AL-‘AN ! الآن (And your night is your shadow — a fairy-tale piece of land to make our dreams) this year, Oiseaux-Tempête will be releasing a new live album in 2018 entitled TARAB طَرَبٌ. And if that doesn't satisfy you, they'll also be [on tour](http://www.oiseaux-tempete.com/tour.html) for most of January and February.</p>
 
 
