@@ -57,7 +57,7 @@ _Félicia Atkinson_: **"**Jump and raise your arms to the sun. It’s gonna be a
 _Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album 'Hand in Hand' fuses field recordings, modular and MIDI electronics with an almost hypnotising line in whispered vocal narration to subliminally affective degrees. In this opening track, dreams and reality go fluidly and fittingly together with a warbling ambient-pop/neo-classical introduction to the reflective anticipation of the album.**"**
 
 ## Mondkopf – The Call
-_Sanjay_: **"**The moniker of Paul Régimbeau, Mondkopf's electronic music often feels extremely literal. This track is taken from the Musique Ambiante Française Vol. 1 compilation on Tigersushi. It's a serenely seductive suite of ambient or beatless works using old and new analog machines.**"**
+_Sanjay_: **"**The moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serenely seductive suite of ambient or beatless works using old and new analog machines.**"**
 
 ## Christine Ott – Tropismes
 _Sanjay_: **"**'Ahwar' is a brilliant debut LP from Cairo-based musician [Nadah El Shazly](https://nadahelshazly.bandcamp.com/). Joining her are guitarist Sam Shalabi and Maurice Louca (both members of The Dwarfs Of East Agouza with Alan Bishop). On this mostly acoustic track, Nadah sings broodingly over chugging acoustic guitar chords as flutes, violins and muted percussion create a stark, unhurried and morose atmosphere.**"**
