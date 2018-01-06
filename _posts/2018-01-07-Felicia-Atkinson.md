@@ -60,7 +60,7 @@ _Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album '
 _Sanjay_: **"**The moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serenely seductive suite of ambient or beatless works using old and new analog machines.**"**
 
 ## Christine Ott – Tropismes
-_Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from Christine Ott's solo album, Only Silence Remains. Shadowy and minimal, the melody is subtly sketched, and the arrangement given ample space and light.**"**
+_Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
 
 ## Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
 _Sanjay_: **"**This is the second album from [Jerusalem In My Heart](https://www.jerusaleminmyheart.com/), a collaborative project helmed by Radwan Ghazi Moumneh and fellow Montréal-based artist, Charles-André Coderre. Here, the slow application of delicate processing, Radwan's voice and the ringing percussion somehow feel desperately sad but never completely hopeless.**"**
