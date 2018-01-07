@@ -33,7 +33,7 @@ _Inès_: **"**I discovered this song maybe 6 or 7 years ago, and it’s been a s
 _Inès_: **"**Just because I am in love with the « sense of impending doom » vibe that can be felt throughout the song. Beautiful.**"**
 
 ## Chris Rubeo - Lover's Spit
-_Inès_: **"**Time for some softness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song '[Lover's Spit](https://www.youtube.com/watch?v=RK-91jT1f2E)', this song is just so comforting: slow, sweet synths mixed with a syrupy voice. Perfect to go back to sleep.**"**
+_Inès_: **"**Time for some softness to finish this episode. Part of [The Outs](http://www.theouts.com/)' soundtrack and a cover of the Broken Social Scene song '[Lover's Spit](https://www.youtube.com/watch?v=RK-91jT1f2E)', this song is just so comforting: slow, sweet synths mixed with a syrupy voice. Perfect to go back to sleep**"**
 
 
 <p id="outroduction">That's all folks! Thank you for listening and thanks to Charles from [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/) for collaborating with us (have a look at the label's incredible [catalogue](https://leturcmecanique.bandcamp.com/)!), thanks to [Camille Célestin](http://bravocamo.studio/) for the illustration and [Sanjay](http://sanjaymistry.com/) for helping with the translation. Have a terrific Sunday!</p>
