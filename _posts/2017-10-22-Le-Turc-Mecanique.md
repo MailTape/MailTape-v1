@@ -2,6 +2,46 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
+author: Inès
+illustrator: Camille Célestin
+writer: Inès
+category: '283'
+guest_name: Le Turc Mécanique
+guest_color: rough
+guestPic: guestPic283.jpg
+track1_link: 'https://soundcloud.com/colombey/la-derniere-86-de-la-ville'
+track2_link: 'https://soundcloud.com/lesyndicatdesscorpions/a2-crepusculo'
+track3_link: 'https://soundcloud.com/sundaeordie/verano-invierno-1'
+track4_link: 'https://soundcloud.com/jardn/mon-amour-na-pas-de-sexe'
+track5_link: >-
+  https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni
+track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
+track7_link: 'https://soundcloud.com/heartheouts/09-lovers-spit-cover-march-5'
+track1_title: Colombey - La dernière 8.6 de la ville
+track1_color: trippy
+track2_title: Nina Harker - Crepuscùlo
+track2_color: dreamy
+track3_title: Sundae - Verano-Invierno
+track3_color: dreamy
+track4_title: Jardin - Mon amour n’a pas de sexe
+track4_color: trippy
+track5_title: Utro - Kak Zhe Ya Byl Slab V Te Dni
+track5_color: trippy
+track6_title: Police des Moeurs - Heure Bleue
+track6_color: vibrant
+track7_color: dreamy
+track7_title: Chris Rubeo - Lover’s Spit
+episode_URL: mailta.pe/283/le-turc-mecanique
+fbPic: fbPic283.png
+musiColor: musiColor283.png
+description: >-
+  This morning, take some time to listen to Le Turc Mécanique’s delightful
+  selection, for a morning that gets sweeter by every minute. Post-punk label Le
+  Turc Mécanique is one of France’s best independent labels, with artists
+  ranging from pop to post-punk to noise to techno and more. So even though
+  autumn and its grey skies have arrived, it doesn’t mean we have to wallow in
+  self pity. It takes a little less than 30 minutes to go from bleakness to
+  comfort.
 ---
 <p id="introduction">This morning, take some time to listen to [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/)'s delightful selection, for a morning that gets sweeter by every minute.<br>
 Post-punk label [Le Turc Mécanique](https://www.facebook.com/leturcmecanique/), created by Charles Crost in 2012, is one of France's best independent labels, with artists ranging from pop to post-punk to noise to techno and more.
