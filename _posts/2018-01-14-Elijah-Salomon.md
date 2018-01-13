@@ -38,7 +38,7 @@ episode_URL: 'http://mailta.pe/295/elijah-salomon/'
 # Elijah Salomon's selection
 
 
-## Dennis Brown – Have You Ever Been In Love
+## Dennis Brown – Have You Ever
 _Elijah Salomon_: **"**Dennis Brown is one of my favourite artists of all time and just yesterday I woke up with this song. Perfect music to set the vibe for a chilled Sunday.**"**
 
 ## Burning Spear – Mi Gi Dem
@@ -50,16 +50,16 @@ _Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Dam
 
 # MailTape's selection
 
-## Félicia Atkinson – I'm Following You
+## Elijah Salomon – Power to the Dub
 _Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album 'Hand in Hand' fuses field recordings, modular and MIDI electronics with an almost hypnotising line in whispered vocal narration. A warbling ambient-pop introduction is the opening track to the reflective anticipation of the album.**"**
 
-## Mondkopf – The Call
+## Aba-Shanti-I – Tower of Bable
 _Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serene and seductive suite of ambient or beatless works using old and new analog machines.**"**
 
-## Christine Ott – Tropismes
+## Mo' Kalamity – Darling
 _Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
 
-## Murcof & Vanessa Wagner – Variations For The Healing Of Arinushka
+## Kabaka Pyramid – No Capitalist
 _Sanjay_: **"**A beautiful collaboration in which Fernando Corona (Murcof) and Vanessa Wagner sensitively condense and escalate elements of Arvo Pärt’s 'Variations for the Healing of Arinushka' from lonely piano and spectral electronics to a grandiose swell of strings, keys and marching drums, before returning to quietude.**"**
 
-<p id="outroduction">That's it! Thanks for listening and much gratitude to [Félicia Atkinson](http://feliciaatkinson.com/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's sweet illustration!</p>
+<p id="outroduction">That's it! Thanks for listening and much gratitude to [Elijah Salomon](https://www.elijah.ch/) for being our guest today, and to [William Girault](http://williamgirault.com/) for this episode's illustration!</p>
