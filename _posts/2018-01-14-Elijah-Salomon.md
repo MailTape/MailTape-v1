@@ -35,7 +35,7 @@ episode_URL: 'http://mailta.pe/295/elijah-salomon/'
 <p>Félicia Atkinson is a musician with many more strings to her bow. On her latest album 'Hand in Hand', however, the atmosphere of reflective anticipation is the main sonic theme—where a sense of the otherworldly is paired with the familiar and the macabre with the sensual.</p>
 
 
-# Félicia Atkinson's selection
+# Elijah Salomon's selection
 
 
 ## Tomoko Sauvage – Musique Hydromantique
