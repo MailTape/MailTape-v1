@@ -55,12 +55,12 @@ _Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Dam
 _Sanjay_: **"**Not only impressive in its musical diversity, [Elijah Salomon](https://www.elijah.ch)'s album is more than just a series of Roots songs—it's a call to slow down, to exhale and let things run their course and mature into their natural destiny!**"**
 
 ## Aba-Shanti-I – Tower of Babel
-_Sanjay_: **"**Aba-Shanti-I, former MC for Jah Tubby's Sound System, is part of the Aba-Shanti Sound System, one of London's leading roots and dub systems. Wonderfully meditative and weighty bass throughout.**"**
+_Sanjay_: **"**Aba-Shanti-I, former MC for Jah Tubby's Sound System, is part of the Aba-Shanti Sound System, one of London's leading roots and dub systems. This is wonderfully meditative with a  weighty bass throughout.**"**
 
 ## Mo' Kalamity – Darling
-_Sanjay_: **"**Based in Paris, Mónica Tavares's (Mo' Kalamity) voice is cool and laid-back.**"**
+_Sanjay_: **"**Based in Paris, Mónica Tavares's (Mo' Kalamity) voice is cool and laid-back, riding atop glossy, elegant yet fiery rhythms by her band, The Wizards.**"**
 
 ## Kabaka Pyramid – No Capitalist
-_Sanjay_: **"**A beautiful collaboration in which Fernando Corona (Murcof) and Vanessa Wagner sensitively condense and escalate elements of Arvo Pärt’s 'Variations for the Healing of Arinushka' from lonely piano and spectral electronics to a grandiose swell of strings, keys and marching drums, before returning to quietude.**"**
+_Sanjay_: **"**Keron's reputation of blending the lyricism of hip-hop with the energy and melody of reggae and dancehall is on full display here: a scathing commentary on the decisions made by Jamaican politicians and neoliberal corporations at the expense of the island’s residents.**"**
 
 <p id="outroduction">That's it! Thanks for listening and much gratitude to [Elijah Salomon](https://www.elijah.ch/) for being our guest today, and to [William Girault](http://williamgirault.com/) for this episode's illustration!</p>
