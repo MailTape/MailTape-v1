@@ -9,7 +9,7 @@ category: '295'
 guest_name: Elijah Salomon
 guest_color: trippy
 track1_link: 'https://soundcloud.com/dennis-brown-official/have-you-ever-been-in-love-2'
-track2_link: 'https://soundcloud.com/burningspearmusic/mi-gi-dem'
+track2_link: 'https://soundcloud.com/norbert-domokos/burning-spear-mi-gi-dem-i'
 track3_link: 'https://soundcloud.com/yvonne-kay/damian-marley-ft-stephen'
 track4_link: 'https://soundcloud.com/ariwasounds/05-power-to-the-dub'
 track5_link: 'https://soundcloud.com/positivemusicpromotion/aba-shanti-i-tower-of-bable'
