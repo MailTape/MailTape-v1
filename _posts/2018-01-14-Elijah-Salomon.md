@@ -52,7 +52,7 @@ _Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Dam
 # MailTape's selection
 
 ## Elijah Salomon – Power to the Dub
-_Sanjay_: **"**[Félicia Atkinson](http://feliciaatkinson.com/)'s latest album 'Hand in Hand' fuses field recordings, modular and MIDI electronics with an almost hypnotising line in whispered vocal narration. A warbling ambient-pop introduction is the opening track to the reflective anticipation of the album.**"**
+_Sanjay_: **"**Not only impressive in its musical diversity, Elijah Salomon's album is more than just a series of Roots songs—it's a call to slow down, to exhale and let things run their course and mature into their natural destiny!**"**
 
 ## Aba-Shanti-I – Tower of Bable
 _Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serene and seductive suite of ambient or beatless works using old and new analog machines.**"**
