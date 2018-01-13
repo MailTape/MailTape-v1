@@ -8,7 +8,7 @@ writer: Sanjay Mistry
 category: '295'
 guest_name: Elijah Salomon
 guest_color: trippy
-track1_link: 'https://soundcloud.com/dennis-brown-official/have-you-ever-been-in-love-2'
+track1_link: 'https://mailtapetracks.s3.amazonaws.com/295/track1.mp3'
 track2_link: 'https://soundcloud.com/norbert-domokos/burning-spear-mi-gi-dem-i'
 track3_link: 'https://soundcloud.com/yvonne-kay/damian-marley-ft-stephen'
 track4_link: 'https://soundcloud.com/ariwasounds/05-power-to-the-dub'
