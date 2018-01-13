@@ -55,7 +55,7 @@ _Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Dam
 _Sanjay_: **"**Not only impressive in its musical diversity, [Elijah Salomon](https://www.elijah.ch)'s album is more than just a series of Roots songs—it's a call to slow down, to exhale and let things run their course and mature into their natural destiny!**"**
 
 ## Aba-Shanti-I – Tower of Babel
-_Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serene and seductive suite of ambient or beatless works using old and new analog machines.**"**
+_Sanjay_: **"**Aba-Shanti-I, former MC for Jah Tubby's Sound System, is part of the Aba-Shanti Sound System, one of London's leading roots and dub systems. Wonderfully meditative and weighty bass throughout.**"**
 
 ## Mo' Kalamity – Darling
 _Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
