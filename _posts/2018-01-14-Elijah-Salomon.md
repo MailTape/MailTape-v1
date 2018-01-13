@@ -38,14 +38,14 @@ episode_URL: 'http://mailta.pe/295/elijah-salomon/'
 # Elijah Salomon's selection
 
 
-## Tomoko Sauvage – Musique Hydromantique
-_Félicia Atkinson_: **"**Wake up early enough to see the sun rise and breathe its energy.**"**
+## Dennis Brown – Have You Ever Been In Love
+_Elijah Salomon_: **"**Dennis Brown is one of my favourite artists of all time and just yesterday I woke up with this song. Perfect music to set the vibe for a chilled Sunday.**"**
 
-## Luc Ferrari – Presque rien n°1, le lever du jour au bord de la mer
-_Félicia Atkinson_: **"**Let the silence become music and contemplate the light changing.**"**
+## Burning Spear – Mi Gi Dem
+_Elijah Salomon_: **"**Burning Spear always gives you an upfull energy—this is one of his many anthems to get up and live!**"**
 
-## Cinema – Sem Toto
-_Félicia Atkinson_: **"**Jump and raise your arms to the sun. It’s gonna be a good day enough.**"**
+## Damian Marley ft. Stephen Marley – Medication
+_Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Damian Marley's new album 'Stony Hill'. Takes you high.**"**
 
 
 # MailTape's selection
