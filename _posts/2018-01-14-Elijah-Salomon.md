@@ -30,6 +30,7 @@ track6_color: trippy
 track7_title: Kabaka Pyramid – No Capitalist
 track7_color: bliss
 episode_URL: 'http://mailta.pe/295/elijah-salomon/'
+guestPic: guestPic295.jpg
 ---
 <p id="introduction">This morning we welcome multilingual singer, songwriter and musician, [Elijah Salomon](https://www.elijah.ch). With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.</p>
 <p>While his music has its origins in roots reggae, he has recently complemented it with dub, bossa nova, rap and blues elements. His latest remix album, [Dub Ripe Fruit](https://soundcloud.com/ariwasounds/sets/dub-ripe-fruits-elijah-rajing-fyah-joe-ariwa), is a collaboration with the Jamaican band [Raging Fyah](http://ragingfyah.com/) and [Joe Ariwa](http://ariwa.com/), the son of dub and reggae legend Mad Professor.</p>
