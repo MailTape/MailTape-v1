@@ -58,7 +58,7 @@ _Sanjay_: **"**Not only impressive in its musical diversity, [Elijah Salomon](ht
 _Sanjay_: **"**Aba-Shanti-I, former MC for Jah Tubby's Sound System, is part of the Aba-Shanti Sound System, one of London's leading roots and dub systems. Wonderfully meditative and weighty bass throughout.**"**
 
 ## Mo' Kalamity – Darling
-_Sanjay_: **"**A studied enactment of both vision and virtuosity, Tropismes is taken from [Christine Ott](http://www.christineott.fr/)'s solo album, 'Only Silence Remains'. Shadowy and minimal, the melody is subtly sketched and the arrangement given ample space and light.**"**
+_Sanjay_: **"**Based in Paris, Mónica Tavares's (Mo' Kalamity) voice is cool and laid-back.**"**
 
 ## Kabaka Pyramid – No Capitalist
 _Sanjay_: **"**A beautiful collaboration in which Fernando Corona (Murcof) and Vanessa Wagner sensitively condense and escalate elements of Arvo Pärt’s 'Variations for the Healing of Arinushka' from lonely piano and spectral electronics to a grandiose swell of strings, keys and marching drums, before returning to quietude.**"**
