@@ -31,6 +31,7 @@ track7_title: Kabaka Pyramid – No Capitalist
 track7_color: bliss
 episode_URL: 'http://mailta.pe/295/elijah-salomon/'
 guestPic: guestPic295.jpg
+fbPic: fbPic295.jpg
 musiColor: musiColor295.png
 ---
 <p id="introduction">This morning we welcome multilingual singer, songwriter and musician, [Elijah Salomon](https://www.elijah.ch). With songs in Swiss German, English, Jamaican Patois, Spanish and French, he represents a culture of co-existence without boundaries based on language, religion or nationality.</p>
