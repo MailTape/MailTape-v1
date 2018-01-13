@@ -23,7 +23,7 @@ track3_title: Damian Marley ft. Stephen Marley – Medication
 track3_color: vibrant
 track4_title: Elijah Salomon – Power to the Dub
 track4_color: trippy
-track5_title: Aba-Shanti-I – Tower of Bable
+track5_title: Aba-Shanti-I – Tower of Babel
 track5_color: bliss
 track6_title: Mo' Kalamity – Darling
 track6_color: trippy
@@ -52,9 +52,9 @@ _Elijah Salomon_: **"**The vibe right now is time to meditate. Hit song from Dam
 # MailTape's selection
 
 ## Elijah Salomon – Power to the Dub
-_Sanjay_: **"**Not only impressive in its musical diversity, Elijah Salomon's album is more than just a series of Roots songs—it's a call to slow down, to exhale and let things run their course and mature into their natural destiny!**"**
+_Sanjay_: **"**Not only impressive in its musical diversity, [Elijah Salomon](https://www.elijah.ch)'s album is more than just a series of Roots songs—it's a call to slow down, to exhale and let things run their course and mature into their natural destiny!**"**
 
-## Aba-Shanti-I – Tower of Bable
+## Aba-Shanti-I – Tower of Babel
 _Sanjay_: **"**The musical moniker of Paul Régimbeau, [Mondkopf](http://mondkopf.tumblr.com/)'s electronic music often feels extremely literal. This track is taken from the [Musique Ambiante Française Vol. 1](https://tigersushirecords.bandcamp.com/album/musique-ambiante-fran-aise-vol-1) compilation on Tigersushi. It's a serene and seductive suite of ambient or beatless works using old and new analog machines.**"**
 
 ## Mo' Kalamity – Darling
