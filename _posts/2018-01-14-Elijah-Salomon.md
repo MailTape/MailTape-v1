@@ -68,6 +68,6 @@ _Sanjay_: **"**Aba-Shanti-I, former MC for Jah Tubby's Sound System, is part of 
 _Sanjay_: **"**Based in Paris, Mónica Tavares's (Mo' Kalamity) voice is cool and laid-back, riding atop glossy, elegant yet fiery rhythms by her band, The Wizards.**"**
 
 ## Kabaka Pyramid – No Capitalist
-_Sanjay_: **"**Keron's reputation of blending the lyricism of hip-hop with the energy and melody of reggae and dancehall is on full display here: a scathing commentary on the decisions made by Jamaican politicians and neoliberal corporations at the expense of the island’s residents.**"**
+_Sanjay_: **"**Keron's reputation for blending the lyricism of hip-hop with the energy and melody of reggae and dancehall is on full display here: a scathing commentary on the decisions made by Jamaican politicians and neoliberal corporations at the expense of the island’s residents.**"**
 
 <p id="outroduction">That's it! Thanks for listening and much gratitude to [Elijah Salomon](https://www.elijah.ch/) for being our guest today, and to [William Girault](http://williamgirault.com/) for this episode's illustration!</p>
