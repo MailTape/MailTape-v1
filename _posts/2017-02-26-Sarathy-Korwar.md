@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/kitrecords/cara-stacey-dark-matter-kr13'
-track2_link: 'https://soundcloud.com/border-community/maalem-mahmoud-guinia-floating-points-mimoun-marhaba?in=border-community/sets/holden-moroccan-collaborations'
+track2_link: 'https://mailtapetracks.s3.amazonaws.com/249/track2.mp3'
 track3_link: 'https://soundcloud.com/emanative/hum-allah-hum-allah-hum-allah'
 track4_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-indefinite-leave-to-remain'
 track5_link: 'https://soundcloud.com/brmuse/07-probe'

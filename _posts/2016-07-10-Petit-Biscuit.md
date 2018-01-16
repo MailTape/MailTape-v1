@@ -23,7 +23,7 @@ track6_link: 'https://mailtapetracks.s3.amazonaws.com/224/track6.mp3'
 track4_title: Petit Biscuit - Sunset Lover
 track6_title: VOLO - Shine
 track5_title: Opal - France
-track7_link: 'https://soundcloud.com/polo-pan/nana'
+track7_link: 'https://mailtapetracks.s3.amazonaws.com/224/track7.mp3'
 track7_title: Polo & Pan - Nanä
 track7_color: trippy
 track3_color: vibrant

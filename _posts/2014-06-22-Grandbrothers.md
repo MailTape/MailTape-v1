@@ -22,7 +22,7 @@ track2_title: "Jono McCleery - Ballade"
 track3_title: "Grey Reverend - Nightingale"
 guestPic: guestPic146.jpg
 episode_URL: "http://mailta.pe/146/Grandbrothers/"
-track4_link: "https://soundcloud.com/grandbrothers/notbrause"
+track4_link: "https://mailtapetracks.s3.amazonaws.com/146/track4.mp3"
 track4_title: "Grandbrothers - Notbrause"
 track5_link: "https://soundcloud.com/bureau-1/ulrich-schnauss-mark-peters-1"
 track5_title: "Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele"

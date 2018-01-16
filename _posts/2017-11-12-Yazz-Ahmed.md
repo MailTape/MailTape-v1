@@ -9,8 +9,7 @@ category: '286'
 guest_name: Yazz Ahmed
 guest_color: trippy
 track1_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
-track2_link: >-
-  https://soundcloud.com/samuel-h-llkvist/variety-of-rhythm-part-4-the-necker-cube
+track2_link: 'https://soundcloud.com/samuel-h-llkvist/variety-of-rhythm-part-4-the-necker-cube'
 track3_link: 'https://soundcloud.com/ruth-wall-harp/01-snow-clamp'
 track4_link: 'https://soundcloud.com/naimrecs/yazz-ahmed-la-saboteuse'
 track5_link: 'https://soundcloud.com/user-44680920/fran-flora-the-hollow-tree'

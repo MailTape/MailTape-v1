@@ -8,16 +8,13 @@ writer: Sanjay Mistry
 category: '294'
 guest_name: Félicia Atkinson
 guest_color: trippy
-track1_link: >-
-  https://soundcloud.com/shelter-press/tomoko-sauvage-musique-hydromantique-sample-mix-sp087
-track2_link: >-
-  https://soundcloud.com/editionsmego/luc-ferrari-presque-rien-no-2-ainsi-continue-la-nuit-dans-ma-tete-multiple-excerpt-regrm-005
+track1_link: 'https://soundcloud.com/shelter-press/tomoko-sauvage-musique-hydromantique-sample-mix-sp087'
+track2_link: 'https://soundcloud.com/editionsmego/luc-ferrari-presque-rien-no-2-ainsi-continue-la-nuit-dans-ma-tete-multiple-excerpt-regrm-005'
 track3_link: 'https://soundcloud.com/music-from-memory/cinema-sem-teto'
 track4_link: 'https://mailtapetracks.s3.amazonaws.com/294/track4.mp3'
 track5_link: 'https://soundcloud.com/mondkopf/the-call'
 track6_link: 'https://soundcloud.com/christine-ott/tropismes'
-track7_link: >-
-  https://soundcloud.com/infine-music/murcof-x-vanessa-wagner-variations-for-the-healing-of-arinushka-arvo-part-edit-version
+track7_link: 'https://soundcloud.com/infine-music/murcof-x-vanessa-wagner-variations-for-the-healing-of-arinushka-arvo-part-edit-version'
 track1_title: Tomoko Sauvage – Musique Hydromantique
 track1_color: bliss
 track2_title: 'Luc Ferrari – Presque rien no.1, le lever du jour au bord de la mer'

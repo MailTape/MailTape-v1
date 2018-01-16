@@ -20,7 +20,7 @@ track4_color: vibrant
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track5_link: 'https://soundcloud.com/kononondeg1/bom-dia'
+track5_link: 'https://mailtapetracks.s3.amazonaws.com/237/track5.mp3'
 track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track5_color: rough
 track6_color: trippy
