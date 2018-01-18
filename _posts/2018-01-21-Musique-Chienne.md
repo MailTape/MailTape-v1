@@ -32,6 +32,7 @@ track6_title: 'Tainsus - Can''t make sense of it all, can you?'
 track6_color: bliss
 track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 track7_color: vibrant
+guestPic: guestPic296.jpg
 ---
 <p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s happy sparkly selection. </p>
 <p></p>
