@@ -32,8 +32,11 @@ track6_color: bliss
 track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 track7_color: vibrant
 guestPic: guestPic296.jpg
+musiColor: musiColor296.png
+fbPic: fbPic296.png
+episode_URL: 'https://www.mailta.pe/296/musique-chienne/'
 ---
-<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection. Musique Chienne is Sarah-Louise Barbett, a musician based in Brussels and Paris who makes "music for people and dog".</p>
+<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection. Musique Chienne is Sarah-Louise Barbett, a musician based in Brussels and Paris making "music for people and dog".</p>
 <p></p>
 
 
@@ -41,15 +44,15 @@ guestPic: guestPic296.jpg
 # Musique Chienne's selection
 
 ## Klaus Johann Grobe - Geschichten aus erster Hand
-_Musique Chienne_: **"**A Swiss friend sent me this song in December, the band is Swiss German. I listen to this track kind of all the time, I try to share it as much as I can, I even played it twice on New Year’s Eve. I love the flute part, and the small recurring synth notes. You need to watch the video, the singer is very funny. 
+_Musique Chienne_: **"**A Swiss friend sent me this song in December, the band is Swiss German. I listen to this track kind of all the time, I try to share it as much as I can, I even played it twice on New Year’s Eve. I love the flute part, and the small recurring synth notes. You need to watch the video, the singer is very funny.<br>
 “I did not know that Swiss Germans were so funny”**"**
 
 ## WORLD BRAIN - Made U Cry
-_Musique Chienne_: **"**Made U Cry is the new track of World Brain, a friend that’s part of the German band Fenster (I could have also chosen one of their tracks by the way). Lucas can sings lower notes as well as high notes very well, it’s a beautiful performance live, I had the opportunity to play live with him recently. This music evokes Ariel Pink to me, that I also love a lot.
+_Musique Chienne_: **"**Made U Cry is the new track of World Brain, a friend that’s part of the German band Fenster (I could have also chosen one of their tracks by the way). Lucas can sings lower notes as well as high notes very well, it’s a beautiful performance live, I had the opportunity to play live with him recently. This music evokes Ariel Pink to me, that I also love a lot.<br>
 “We both have long blond ears”**"**
 
 ## Mammane Sani et son Orgue - Bodo (Anatolian Weapons Rework)
-_Musique Chienne_: **"**I rediscovered his music during a sunny gig at [La Station](https://www.facebook.com/stationgaredesmines/) in Paris. It was very moving. His music tells a lot of stories, even though there are very few lyrics. The track I’ve chosen is a remix that I find very good. 
+_Musique Chienne_: **"**I rediscovered his music during a sunny gig at [La Station](https://www.facebook.com/stationgaredesmines/) in Paris. It was very moving. His music tells a lot of stories, even though there are very few lyrics. The track I’ve chosen is a remix that I find very good.<br>
 “Music of a sun that was born with rhythm”**"**
 
 
@@ -59,12 +62,12 @@ _Musique Chienne_: **"**I rediscovered his music during a sunny gig at [La Stati
 _Inès_: **"**.**"**
 
 ## Waterfall Person - I Wanna Go To The Dog Park See All My Friends
-_Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence, glittery little synth notes, cloudy-pastel-feeling made-up scenario. Cuteness at its best!**"**
+_Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence, glittery little synth notes, pastel-feeling made-up scenario. Cuteness at its finest!**"**
 
 ## Tainsus - Can't make sense of it all, can you?
 _Inès_: **"**Tainsus is another one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
 
 ## OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
-_Inès_: **"**Wins first place in the best title category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). Fun, nice and light-hearted little instrumental track. Just great!**"**
+_Inès_: **"**Wins first place in "best title" category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). A fun, nice and carefree little sitcomy instrumental track!**"**
 
 <p id="outroduction">That's all folks, thanks for listening! Big thanks to [Musique Chienne](https://www.facebook.com/musiquechienne/) for being our guest this morning, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a bright Sunday!</p>
