@@ -36,9 +36,8 @@ musiColor: musiColor296.png
 fbPic: fbPic296.png
 episode_URL: 'https://www.mailta.pe/296/musique-chienne/'
 ---
-<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Brussels and Paris making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music. Her lastest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy) tells the daily life of a dog named Billy through his eyes.</p>
-<p></p>
-
+<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music.</p>
+<b>Her lastest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy) tells the daily life of a dog named Billy, through his eyes. So enter the psychedelic world of [Musique Chienne](https://www.facebook.com/musiquechienne/), we hope you'll enjoy the trip.</p>
 
 
 # Musique Chienne's selection
