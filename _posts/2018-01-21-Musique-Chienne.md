@@ -65,6 +65,6 @@ _Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence
 _Inès_: **"**Tainsus is another one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
 
 ## OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
-_Inès_: **"**Wins first place in the best title category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOMES"). Fun, nice and light-hearted little instrumental track. Just great!**"**
+_Inès_: **"**Wins first place in the best title category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). Fun, nice and light-hearted little instrumental track. Just great!**"**
 
 <p id="outroduction">That's all folks, thanks for listening! Big thanks to [Musique Chienne](https://www.facebook.com/musiquechienne/) for being our guest this morning, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a bright Sunday!</p>
