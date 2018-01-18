@@ -36,7 +36,7 @@ musiColor: musiColor296.png
 fbPic: fbPic296.png
 episode_URL: 'https://www.mailta.pe/296/musique-chienne/'
 ---
-<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection. Musique Chienne is Sarah-Louise Barbett, a musician based in Brussels and Paris making "music for people and dog".</p>
+<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Brussels and Paris making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music. Her lastest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy) tells the daily life of a dog named Billy through his eyes.</p>
 <p></p>
 
 
@@ -48,7 +48,7 @@ _Musique Chienne_: **"**A Swiss friend sent me this song in December, the band i
 “I did not know that Swiss Germans were so funny”**"**
 
 ## WORLD BRAIN - Made U Cry
-_Musique Chienne_: **"**Made U Cry is the new track of World Brain, a friend that’s part of the German band Fenster (I could have also chosen one of their tracks by the way). Lucas can sings lower notes as well as high notes very well, it’s a beautiful performance live, I had the opportunity to play live with him recently. This music evokes Ariel Pink to me, that I also love a lot.<br>
+_Musique Chienne_: **"**Made U Cry is the new track of World Brain, a friend that’s part of the German band [Fenster](https://www.facebook.com/fenstermusic/) (I could have also chosen one of their tracks by the way). Lucas can sings lower notes as well as high notes very well, it’s a beautiful performance live, I had the opportunity to play live with him recently. This music evokes Ariel Pink to me, that I also love a lot.<br>
 “We both have long blond ears”**"**
 
 ## Mammane Sani et son Orgue - Bodo (Anatolian Weapons Rework)
@@ -70,4 +70,4 @@ _Inès_: **"**Tainsus is another one of my accidental SoundCloud discoveries. He
 ## OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 _Inès_: **"**Wins first place in "best title" category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). A fun, nice and carefree little sitcomy instrumental track!**"**
 
-<p id="outroduction">That's all folks, thanks for listening! Big thanks to [Musique Chienne](https://www.facebook.com/musiquechienne/) for being our guest this morning, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a bright Sunday!</p>
+<p id="outroduction">That's all folks, thanks for listening! A warm thank you to [Musique Chienne](https://www.facebook.com/musiquechienne/) for being our guest this morning, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a bright Sunday!</p>
