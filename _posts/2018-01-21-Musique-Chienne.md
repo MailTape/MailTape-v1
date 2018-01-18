@@ -16,8 +16,7 @@ track4_link: 'https://soundcloud.com/musiquechienne/gateau-aux-oiseaux'
 track5_link: >-
   https://soundcloud.com/moontown-records/waterfall-person-i-wanna-go-to-the-dog-park-see-all-my-friends
 track6_link: 'https://soundcloud.com/tainsus/cant-make-sense-of-it-all-can-you'
-track7_link: >-
-  https://soundcloud.com/ohmu/tout-le-monde-est-content-et-va-a-sa-maison/s-eIpBB
+track7_link: 'https://soundcloud.com/ohmu/tout-le-monde-est-content-et-va-a-sa-maison'
 track1_title: Klaus Johann Grobe - Geschichten aus erster Hand
 track1_color: vibrant
 track2_title: WORLD BRAIN - Made U Cry
@@ -34,7 +33,7 @@ track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 track7_color: vibrant
 guestPic: guestPic296.jpg
 ---
-<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s happy sparkly selection. </p>
+<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection. Musique Chienne is Sarah-Louise Barbett, a musician based in Brussels and Paris who makes "music for people and dog".</p>
 <p></p>
 
 
