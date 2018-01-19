@@ -42,7 +42,7 @@ description: >-
   weird-but-good-weird music. So enter the psychedelic world of Musique Chienne,
   we hope you'll enjoy the trip!
 ---
-<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, naive weird-but-good-weird music.</p>
+<p id="introduction">This morning, please welcome [Musique Chienne](https://www.facebook.com/musiquechienne/)'s sparkly selection! [Musique Chienne](https://www.facebook.com/musiquechienne/) is Sarah-Louise Barbett, a musician based in Marseille making "music for people and dog". In other words, she makes synth-based, percussive electronic, not-so-naive weird-but-good-weird music.</p>
 <p>Her lastest release, ["La Maison de Billy"](https://cheptelrecords.bandcamp.com/album/chptl-025-la-maison-de-billy) tells the daily life of a dog named Billy, through his eyes. So enter the psychedelic world of [Musique Chienne](https://www.facebook.com/musiquechienne/), we hope you'll enjoy the trip.</p>
 
 
@@ -73,6 +73,6 @@ _Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence
 _Inès_: **"**Tainsus is another one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
 
 ## OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
-_Inès_: **"**Wins first place in "best title" category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). A fun, nice and carefree little sitcomy instrumental track!**"**
+_Inès_: **"**Wins first place in "best title" category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). A fun, nice and carefree little sitcomy instrumental track to get on with your day!**"**
 
 <p id="outroduction">That's all folks, thanks for listening! A warm thank you to [Musique Chienne](https://www.facebook.com/musiquechienne/) for being our guest this morning, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a bright Sunday!</p>
