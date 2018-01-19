@@ -64,7 +64,7 @@ _Musique Chienne_: **"**I rediscovered his music during a sunny gig at [La Stati
 # MailTape's selection
 
 ## Musique Chienne - Gâteau aux oiseaux
-_Inès_: **"**.**"**
+_Inès_: **"**This is the track I discovered Musique Chienne with, and is still my favorite of hers. So refreshing. Her music has this kind of unapologetic naivety that is not found in lots of songs, as if you were part of a cartoon. This one in particular makes me instantly hyper happy.**"**
 
 ## Waterfall Person - I Wanna Go To The Dog Park See All My Friends
 _Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence, glittery little synth notes, pastel-feeling made-up scenario. Cuteness at its finest!**"**
