@@ -70,7 +70,7 @@ _Inès_: **"**This is the track I discovered Musique Chienne with, and is still 
 _Inès_: **"**Cotton-candy tasting music. A concentrate of sweet sweet innocence, glittery little synth notes, pastel-feeling made-up scenario. Cuteness at its finest!**"**
 
 ## Tainsus - Can't make sense of it all, can you?
-_Inès_: **"**Tainsus is another one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
+_Inès_: **"**Tainsus is one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
 
 ## OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 _Inès_: **"**Wins first place in "best title" category (it translates to "EVERYBODY IS HAPPY AND IS GOING BACK TO THEIR HOUSE"). A fun, nice and carefree little sitcomy instrumental track to get on with your day!**"**
