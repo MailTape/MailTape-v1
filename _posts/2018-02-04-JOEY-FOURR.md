@@ -30,6 +30,35 @@ track6_color: vibrant
 track7_title: Aegean Sun - Feel Real
 track7_color: vibrant
 ---
-## A New Post
+<p id="introduction">This morning, </p>
+<p></p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# JOEY FOURR's selection
+
+## Saint Torrente - Calamus
+_JOEY FOURR_: **"**Soon - to - be pop superstar!! Their new songs will blow you away, v v catchy !**"**
+
+## Sateen - Finer Things
+_JOEY FOURR_: **"**You won’t find a more glamorous, cute and empowering couple making futuristic disco anthems, i love them! Go and listen to their latest EP, the artwork, omg i can’t even!**"**
+
+## MX World - Everything's Fine
+_JOEY FOURR_: **"**Be sure to listen to the full EP, it moves so elegantly from one song to another! I can’t wait to hear and see what MX World does next, an incredible producer with an ear for shimmering, intelligent arrangements without pretension.**"**
+
+
+# MailTape's selection
+
+## JOEY FOURR - JEWELS
+_Inès_: **"**.**"**
+
+## De Lux - 875 Dollars
+_Inès_: **"**!**"**
+
+## Common Body - Luck Of The Draw
+_Inès_: **"**Tainsus is one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
+
+## Aegean Sun - Feel Real
+_Inès_: **"**!**"**
+
+<p id="outroduction">That's all folks, thanks for listening! A warm thank you to [JOEY FOURR](https://www.facebook.com/JOEYFOURR/) for being our guest this morning, to PS KY for the introduction and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a Sunday!</p>
+
