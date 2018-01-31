@@ -24,11 +24,11 @@ track3_color: dreamy
 track4_title: JOEY FOURR - JEWELS
 track4_color: bliss
 track5_title: De Lux - 875 Dollars
-track6_title: Common Body - Luck Of The Draw
+track6_title: Common Body - Luck of the Draw
 track5_color: vibrant
 track6_color: vibrant
 track7_title: Aegean Sun - Feel Real
-track7_color: vibrant
+track7_color: bliss
 ---
 <p id="introduction">This morning, </p>
 <p></p>
