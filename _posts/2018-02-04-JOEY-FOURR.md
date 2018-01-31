@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Inès
 illustrator: Pierre-Julien Fieux
 writer: PS KY
