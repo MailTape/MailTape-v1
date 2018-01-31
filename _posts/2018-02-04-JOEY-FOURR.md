@@ -55,7 +55,7 @@ _Inès_: **"**.**"**
 _Inès_: **"**!**"**
 
 ## Common Body - Luck Of The Draw
-_Inès_: **"**Tainsus is one of my accidental SoundCloud discoveries. He makes synth-based tunes, and this one is my favorite of his. No need for lyrics when you have that title and build-up/release combination. So, so comforting when you need to get your head out of something, find peace for a few minutes, or just breathe.**"**
+_Inès_: **"**.**"**
 
 ## Aegean Sun - Feel Real
 _Inès_: **"**!**"**
