@@ -32,9 +32,11 @@ track6_title: De Lux - 875 Dollars
 episode_URL: 'https://www.mailta.pe/298/joey-fourr/'
 guestPic: guestPic298.jpg
 musiColor: musiColor298.png
+fbPic: fbPic298.png
 ---
 <p id="introduction">This morning, </p>
 <p></p>
+
 
 
 # JOEY FOURR's selection
