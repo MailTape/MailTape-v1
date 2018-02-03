@@ -59,6 +59,6 @@ _Inès_: **"**Basically a super catchy pop tune with amazing vocals. So effortle
 _Inès_: **"**Moving on now to some disco-punk niceness to keep dancing your Sunday away!**"**
 
 ## Aegean Sun - Feel Real
-_Inès_: **"**Let's end this streak full of good vibes with this sunny psychedelic song, **"**
+_Inès_: **"**Let's end this streak full of good vibes with this sunny psychedelic song, making us forget that it's still winter outside.**"**
 
 <p id="outroduction">That's all folks, thanks for listening! A warm thank you to [JOEY FOURR](https://www.facebook.com/JOEYFOURR/) for being our guest this morning, to PS KY for the introduction and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a Sunday!</p>
