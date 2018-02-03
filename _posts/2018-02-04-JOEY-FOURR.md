@@ -57,7 +57,7 @@ _JOEY FOURR_: **"**Be sure to listen to the full EP, it moves so elegantly from 
 _Inès_: **"**A soothing bass line, a sparkling guitar, and an overall luxurious, blissful feeling: JOEY FOURR’s albums have been some of the albums I listened to the most in the past six months, one of my latest musical crushes. ‘JEWELS’ is one of my favourite songs, always so so good each time I listen to it.**"**
 
 ## Common Body - Luck Of The Draw
-_Inès_: **"**Basically a super catchy pop tune with amazing vocals. So effortlessly cool.**"**
+_Inès_: **"**Basically a super catchy pop tune with amazing vocals. Effortlessly cool.**"**
 
 ## De Lux - 875 Dollars
 _Inès_: **"**Moving on now to some disco-punk niceness to keep dancing your Sunday away!**"**
