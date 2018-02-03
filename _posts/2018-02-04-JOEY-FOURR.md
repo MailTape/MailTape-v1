@@ -34,8 +34,9 @@ guestPic: guestPic298.jpg
 musiColor: musiColor298.png
 fbPic: fbPic298.png
 ---
-<p id="introduction">This morning, </p>
-<p></p>
+<p id="introduction">This morning, we bring you an electrifying and magnetic MailTape. Our guest [Joey Fourr](https://www.facebook.com/joeyfourr) will thrust you out of your comfort zone with his poignant selection of moving vibrations with touching lyrics.</p>
+<p>Living for the finer things indeed. Striving for diamonds and pearls? Looking for love and fame? Just accept it. But just as there is no shame in wanting it all, there should be no shame in losing it all also.</p>
+<p>And thus in music, strive for the best, and in love, strive for the purest. Drop all your understandings, your desire to comprehend and rationalize. This morning, [Joey Fourr](https://www.facebook.com/joeyfourr) will dissolve your boundaries, no questions asked. You’ll even wonder if you’ve been living a double life. Stepped out of your house and couldn’t remember your name? Looked in the mirror and didn’t recognize your reflection? It’s all fine, just listen to his music and you’ll realize it’s all mixed up anyway. Music creates the resonance as well as the impermanence. It frames time, but also dissolves its limits. So just let go and let the multiplicity manifest in you, in all their sounds, waves and colors.</p>
 
 
 
