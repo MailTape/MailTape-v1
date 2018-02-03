@@ -12,8 +12,7 @@ track1_link: 'https://soundcloud.com/sainttorrente/calamus'
 track2_link: 'https://soundcloud.com/sateen-1/finer-things'
 track3_link: 'https://soundcloud.com/mx_world/everythings-fine'
 track4_link: 'https://soundcloud.com/joeyfourr/03-jewels'
-track5_link: 'https://soundcloud.com/innovativeleisure/de-lux-875-dollars'
-track6_link: 'https://soundcloud.com/kayakaya/luck-of-the-draw'
+track5_link: 'https://soundcloud.com/kayakaya/luck-of-the-draw'
 track7_link: 'https://soundcloud.com/aegean-sun/feel-real-2'
 track1_title: 'Saint Torrente - Calamus '
 track1_color: vibrant
@@ -23,12 +22,14 @@ track3_title: MX World - Everything's Fine
 track3_color: dreamy
 track4_title: JOEY FOURR - JEWELS
 track4_color: bliss
-track5_title: De Lux - 875 Dollars
-track6_title: Common Body - Luck of the Draw
+track5_title: Common Body - Luck of the Draw
 track5_color: vibrant
 track6_color: vibrant
 track7_title: Aegean Sun - Feel Real
 track7_color: bliss
+track6_link: 'https://soundcloud.com/innovativeleisure/de-lux-875-dollars'
+track6_title: De Lux - 875 Dollars
+episode_URL: 'https://www.mailta.pe/298/joey-fourr/'
 ---
 <p id="introduction">This morning, </p>
 <p></p>
@@ -37,7 +38,7 @@ track7_color: bliss
 # JOEY FOURR's selection
 
 ## Saint Torrente - Calamus
-_JOEY FOURR_: **"**Soon - to - be pop superstar!! Their new songs will blow you away, v v catchy !**"**
+_JOEY FOURR_: **"**Soon-to-be pop superstar!! Their new songs will blow you away, v v catchy !**"**
 
 ## Sateen - Finer Things
 _JOEY FOURR_: **"**You won’t find a more glamorous, cute and empowering couple making futuristic disco anthems, i love them! Go and listen to their latest EP, the artwork, omg i can’t even!**"**
@@ -49,16 +50,15 @@ _JOEY FOURR_: **"**Be sure to listen to the full EP, it moves so elegantly from 
 # MailTape's selection
 
 ## JOEY FOURR - JEWELS
-_Inès_: **"**.**"**
-
-## De Lux - 875 Dollars
-_Inès_: **"**!**"**
+_Inès_: **"**A soothing bass line, a sparkling guitar, and an overall luxurious, blissful feeling: JOEY FOURR’s albums have been some of the albums I listened to the most in the past six months, one of my latest musical crushes. ‘JEWELS’ is one of my favourite songs, always so good each time I listen to it.**"**
 
 ## Common Body - Luck Of The Draw
-_Inès_: **"**.**"**
+_Inès_: **"**Basically a super catchy pop tune with amazing vocals. So effortlessly cool.**"**
+
+## De Lux - 875 Dollars
+_Inès_: **"**Moving on now to some disco-punk niceness to keep dancing your Sunday away!**"**
 
 ## Aegean Sun - Feel Real
-_Inès_: **"**!**"**
+_Inès_: **"**Let's end this streak full of good vibes with this sunny psychedelic song, **"**
 
 <p id="outroduction">That's all folks, thanks for listening! A warm thank you to [JOEY FOURR](https://www.facebook.com/JOEYFOURR/) for being our guest this morning, to PS KY for the introduction and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a Sunday!</p>
-
