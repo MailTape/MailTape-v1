@@ -13,6 +13,10 @@ track1_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/299/track1.mp3'
 track2_link: 'https://soundcloud.com/hughlovehugh/i-cant-figure-you-out-fvm-2-24bit-441'
 track3_link: 'https://soundcloud.com/mrbongo/joyce-aldeia-de-ogum'
 track4_link: 'https://soundcloud.com/runchildrun/cant-catch-me'
+track5_link: 'https://soundcloud.com/stonesthrow/sudan-archives-come-meh-way'
+track6_link: >-
+  https://soundcloud.com/principles-of-geometry/les-princes-des-villes-principles-of-geometrys-guillaume-teyssiers-les-princes-des-villes
+track7_link: 'https://soundcloud.com/signlibrachannel/i-intro-tropical-plantarum'
 ---
 <p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
 
