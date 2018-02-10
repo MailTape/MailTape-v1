@@ -33,7 +33,7 @@ track5_color: vibrant
 track6_color: dreamy
 track7_color: bliss
 ---
-<p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
+<p id="introduction">This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.</p>
 
 
 # Vanishing point
@@ -69,4 +69,4 @@ _ImaCrea_: **"**Some may call it "cliché", I call it "an act of resistance". No
 ## Sign Libra - Intro / Tropical plantarum 
 _ImaCrea_: **"**Reconnect with earth mother, see with your eyes, stand on your feet, dance.**"**
 
-<p id="outroduction">That's all folks, thanks for listening! A warm thank you to [JOEY FOURR](https://www.facebook.com/JOEYFOURR/) for being our guest this morning, to PS KY for the introduction and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a magical Sunday!</p>
+<p id="outroduction">A warm thank you to [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) for being our guest this morning, to PS KY for the text and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have an inspiring Sunday!</p>
