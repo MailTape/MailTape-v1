@@ -55,15 +55,15 @@ _Run Child Run_: **"**One of my 1yr-old son's favorite songs, and has been since
 # MailTape's selection
 
 ## Run Child Run - Can't Catch Me
-_ImaCrea_: **"**In**"**
+_ImaCrea_: **"**Elevate your mind, feel the blood in your veins and the fact that you are alive today. Escape the system, conquer your spirit, believe and act.**"**
 
-## Common Body - Luck Of The Draw
-_ImaCrea_: **"**Basically a super catchy pop tune with amazing vocals. Effortlessly cool.**"**
+## Sudan Archives - Come Meh Way
+_ImaCrea_: **"**A beautiful gem curated by PS KY. Love how Stones Throw keep exploring so many diverse inspirations, confirming its position as one of the best record label at the moment.**"**
 
-## De Lux - 875 Dollars
-_ImaCrea_: **"**Moving on now to some disco-punk niceness to keep dancing your Sunday away!**"**
+## Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
+_ImaCrea_: **"**Some may call it "cliché", I call it "an act of resistance". No more explanation, get off that screen stuck in your prefrontal cortex and let the sound flood your hypothalamus.**"**
 
-## Aegean Sun - Feel Real
-_ImaCrea_: **"**Let's end this streak full of good vibes with this sunny psychedelic song, making us forget that it's still winter outside.**"**
+## Sign Libra - Intro / Tropical plantarum 
+_ImaCrea_: **"**Reconnect with earth mother, see with your eyes, stand on your feet, dance.**"**
 
 <p id="outroduction">That's all folks, thanks for listening! A warm thank you to [JOEY FOURR](https://www.facebook.com/JOEYFOURR/) for being our guest this morning, to PS KY for the introduction and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's illustration. Have a magical Sunday!</p>
