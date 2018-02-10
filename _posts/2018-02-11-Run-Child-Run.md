@@ -17,6 +17,13 @@ track5_link: 'https://soundcloud.com/stonesthrow/sudan-archives-come-meh-way'
 track6_link: >-
   https://soundcloud.com/principles-of-geometry/les-princes-des-villes-principles-of-geometrys-guillaume-teyssiers-les-princes-des-villes
 track7_link: 'https://soundcloud.com/signlibrachannel/i-intro-tropical-plantarum'
+track1_title: Solange - Rise
+track2_title: Hugh - I Can't Figure Out
+track3_title: Joyce - Aldeia de Ogum
+track4_title: Run Child Run - Can't Catch Me
+track5_title: ' Sudan Archives - Come Meh Way'
+track6_title: Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
+track7_title: 'Sign Libra -  Intro / Tropical plantarum '
 ---
 <p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
 
