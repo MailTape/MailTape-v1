@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/299/run-child-run/'
 <p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
 
 
-## Vanishing point. 
+# Vanishing point. 
 
 A point at which something disappears or ceases to exist. Have you ever felt it? Lived it? Experienced it? That point on the horizon where things are simply fading away, transforming into something mysterious and unknown. We all have seen it or maybe even just felt it, in an experience, the end of something, a metamorphosis. 
 
@@ -55,7 +55,7 @@ _Run Child Run_: **"**One of my 1yr-old son's favorite songs, and has been since
 # MailTape's selection
 
 ## Run Child Run - Can't Catch Me
-_ImaCrea_: **"**A soothing bass line, a sparkling guitar, and an overall luxurious, blissful feeling: JOEY FOURR’s albums have been some of the albums I listened to the most in the past six months, one of my latest musical crushes. ‘JEWELS’ is one of my favourite songs, always so so good each time I listen to it.**"**
+_ImaCrea_: **"**In**"**
 
 ## Common Body - Luck Of The Draw
 _ImaCrea_: **"**Basically a super catchy pop tune with amazing vocals. Effortlessly cool.**"**
