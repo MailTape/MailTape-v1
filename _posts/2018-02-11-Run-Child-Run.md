@@ -9,6 +9,10 @@ category: '299'
 guest_name: Run Child Run
 guest_color: vibrant
 guestPic: guestPic299.jpg
+track1_link: 'https://s3-eu-west-1.amazonaws.com/mailtapetracks/299/track1.mp3'
+track2_link: 'https://soundcloud.com/hughlovehugh/i-cant-figure-you-out-fvm-2-24bit-441'
+track3_link: 'https://soundcloud.com/mrbongo/joyce-aldeia-de-ogum'
+track4_link: 'https://soundcloud.com/runchildrun/cant-catch-me'
 ---
 <p id="introduction">This morning, we bring you an electrifying and magnetic MailTape. Our guest [Joey Fourr](https://www.facebook.com/joeyfourr) will thrust you out of your comfort zone with their poignant selection of moving vibrations with touching lyrics.</p>
 
