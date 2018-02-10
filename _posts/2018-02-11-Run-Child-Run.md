@@ -29,6 +29,9 @@ track2_color: trippy
 track3_color: vibrant
 track4_color: vibrant
 episode_URL: 'https://www.mailta.pe/299/run-child-run/'
+track5_color: vibrant
+track6_color: dreamy
+track7_color: bliss
 ---
 <p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
 
