@@ -24,6 +24,11 @@ track4_title: Run Child Run - Can't Catch Me
 track5_title: ' Sudan Archives - Come Meh Way'
 track6_title: Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
 track7_title: 'Sign Libra -  Intro / Tropical plantarum '
+track1_color: bliss
+track2_color: trippy
+track3_color: vibrant
+track4_color: vibrant
+episode_URL: 'https://www.mailta.pe/299/run-child-run/'
 ---
 <p id="introduction">This morning, our guest Run Child Run has blessed us with a distinctive selection of timeless tracks.</p>
 
