@@ -10,11 +10,9 @@ guest_name: Musique Chienne
 guest_color: trippy
 track1_link: 'https://soundcloud.com/klaus-johann-grobe/geschichten-aus-erster-hand'
 track2_link: 'https://soundcloud.com/mondecerveau/made-u-cry'
-track3_link: >-
-  https://soundcloud.com/fantastikoihxoi/mammane-sani-et-son-orgue-bodo-fh-rework
+track3_link: 'https://soundcloud.com/fantastikoihxoi/mammane-sani-et-son-orgue-bodo-fh-rework'
 track4_link: 'https://soundcloud.com/musiquechienne/gateau-aux-oiseaux'
-track5_link: >-
-  https://soundcloud.com/moontown-records/waterfall-person-i-wanna-go-to-the-dog-park-see-all-my-friends
+track5_link: 'https://soundcloud.com/moontown-records/waterfall-person-i-wanna-go-to-the-dog-park-see-all-my-friends'
 track6_link: 'https://soundcloud.com/tainsus/cant-make-sense-of-it-all-can-you'
 track7_link: 'https://soundcloud.com/ohmu/tout-le-monde-est-content-et-va-a-sa-maison'
 track1_title: Klaus Johann Grobe - Geschichten aus erster Hand
