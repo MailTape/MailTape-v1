@@ -32,6 +32,11 @@ episode_URL: 'https://www.mailta.pe/299/run-child-run/'
 track5_color: vibrant
 track6_color: dreamy
 track7_color: bliss
+fbPic: fbPic299.jpg
+musiColor: musiColor299.png
+description: >-
+  This morning, our guest Run Child Run has blessed us with a distinctive
+  selection of timeless tracks.
 ---
 <p id="introduction">This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.</p>
 
