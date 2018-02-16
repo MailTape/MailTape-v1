@@ -30,8 +30,10 @@ track6_color: trippy
 track7_title: Shadow - Let's Get It Together
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
+guestPic: guestPic300.jpg
 ---
 <p id="introduction">This morning is special. It's our 300th episode, and to celebrate we have invited two guests. Alligator and Ténéré who were also our guest at the first edition of Mailtape Live yesterday night in Paris at the Popup!.</p>
+![guestPic300.jpg]({{site.baseurl}}/img/guestPic300.jpg)
 
 
 # Vanishing point
