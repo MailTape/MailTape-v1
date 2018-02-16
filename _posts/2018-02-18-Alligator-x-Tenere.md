@@ -41,30 +41,27 @@ A point at which something disappears or ceases to exist. Have you ever felt it?
 Run Child Run’s music will accompany you on this journey. His music rises from the soil, spreading out and beyond, lashing out sparks of star dust into the infinite matter. Run Child Run’s music is like a mystical silk veil engulfing you in a comforting yet blissful atmosphere. His tastes in music are just as delicate and touching, no drama, things are pure, joyful and filled with everlasting moments of emptiness perceived. 
 
 
-# Run Child Run's selection
+# 300 SPECIAL CURATION
 
-## Solange - Rise
-_Run Child Run_: **"**Just a beautiful way to open an album, and a beautiful way to start a day.**"**
+## Alessi Brothers - Seabird
+_Alligator_: **"**C'est la chanson parfaite pour le blues du dimanche soir**"**
 
-## Hugh - I Can't Figure You Out
-_Run Child Run_: **"**I love the balance this song strikes, light on its feet yet full of yearning. And how much they translate with so few elements, its lovely.**"**
+## Jef Ellise Barbara - A Perfect Day
+_Alligator_: **"**Tube idéal pour un réveil dominical**"**
 
-## JOYCE - Aldeia de Ogum 
-_Run Child Run_: **"**One of my 1yr-old son's favorite songs, and has been since he was in the womb. Warms my heart everytime.**"**
+## Alligator - Belembra
+_ImaCrea_: **"**dddd**"**
 
+## Kadhja Bonet - This Love
+_Ténéré_: **"**C’est presque devenu une petite habitude pour moi d’écouter cette chanson au réveil. La légèreté et la douceur de sa voix ne peuvent mieux accompagner une sortie de lit.**"**
 
-# MailTape's selection
+## Quasimoto - Broad Factor
+_Ténéré_: **"**Pas le temps de niaiser pour autant, le groove de Madlib permet de rétablir les fonctions motrices du corps pour se diriger vers le café.**"**
 
-## Run Child Run - Can't Catch Me
-_ImaCrea_: **"**Elevate your mind, feel the blood in your veins and the fact that you are alive today. Escape the system, conquer your spirit, believe and act.**"**
+## Ténéré - Tenebris
+_ImaCrea_: **"**ddddd**"**
 
-## Sudan Archives - Come Meh Way
-_ImaCrea_: **"**A beautiful gem curated by PS KY. Love how Stones Throw keep exploring so many diverse inspirations, confirming its position as one of the best record label at the moment.**"**
-
-## Guillaume Teyssier - Les Princes Des Villes (Principles of Geometry remix)
-_ImaCrea_: **"**Some may call it "cliché", I call it "an act of resistance". No more explanation, get off that screen stuck in your prefrontal cortex and let the sound flood your hypothalamus.**"**
-
-## Sign Libra - Intro / Tropical plantarum 
-_ImaCrea_: **"**Reconnect with earth mother, see with your eyes, stand on your feet, dance.**"**
+## Shadow - Let's Get It Together
+_ImaCrea_: **"**ddddd**"**
 
 <p id="outroduction">A warm thank you to [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) for being our guest this morning, to PS KY for the text and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have an inspiring Sunday!</p>
