@@ -32,13 +32,11 @@ track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
 guestPic: guestPic300.jpg
 ---
-<p id="introduction">This morning is special. It's our 300th episode, and to celebrate we have invited two guests. Alligator and Ténéré who were also our guest at the first edition of Mailtape Live yesterday night in Paris at the Popup!.</p>
+<p id="introduction">This morning is special. It's our 300th episode, and to celebrate we have invited two guests. [Alligator](https://www.facebook.com/alligator.musique/) and [Ténéré](https://www.facebook.com/teneremusic/) who were also our guest at [the first edition of Mailtape Live](https://www.facebook.com/events/324160978078937/) yesterday night in Paris at the Popup!.</p>
 
-# Vanishing point
+# Philosophy of music discovery
 
-A point at which something disappears or ceases to exist. Have you ever felt it? Lived it? Experienced it? That point on the horizon where things are simply fading away, transforming into something mysterious and unknown. We all have seen it or maybe even just felt it, in an experience, the end of something, a metamorphosis. 
-
-Run Child Run’s music will accompany you on this journey. His music rises from the soil, spreading out and beyond, lashing out sparks of star dust into the infinite matter. Run Child Run’s music is like a mystical silk veil engulfing you in a comforting yet blissful atmosphere. His tastes in music are just as delicate and touching, no drama, things are pure, joyful and filled with everlasting moments of emptiness perceived. 
+When everything is trying to make a science out of it we're more than decided to keep it as a philosophy, an art de vivre......
 
 
 # 300 SPECIAL CURATION
