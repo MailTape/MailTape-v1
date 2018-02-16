@@ -29,6 +29,7 @@ track5_color: trippy
 track6_color: trippy
 track7_title: Shadow - Let's Get It Together
 track7_color: vibrant
+episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
 ---
 <p id="introduction">This morning, our guest [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) has blessed us with a distinctive selection of timeless tracks.</p>
 
