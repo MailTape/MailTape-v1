@@ -31,6 +31,13 @@ track7_title: Shadow - Let's Get It Together
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
 guestPic: guestPic300.jpg
+fbPic: fbPic300.png
+musiColor: musiColor300.png
+description: >-
+  This morning is special, you are going to listen to our 300th episode. Today's
+  release represent a high point in the MailTape adventure which marks 6 years
+  dedicated to sharing with you the very best of our music discoveries each
+  Sunday morning in the name of music, love and inspiration.
 ---
 <p id="introduction">This morning is special, you are going to listen to our 300th episode. Today's release represent a high point in the MailTape adventure which marks 6 years dedicated to sharing with you the very best of our music discoveries each Sunday morning in the name of music, love and inspiration.</p>
   
@@ -61,3 +68,4 @@ _ImaCrea_: **"**The search for perfection pushed by a boundless idealism. The st
 _ImaCrea_: **"**Lightness, freedom... Such track should be in some kind of museum as a symbol of the beauty humans can bring to the world and inspire society to keep creating with love and not rely solely on rational thinking spoiled by economic pressure.**"**
 
 <p id="outroduction">Thanks to you, you and you! By your presence and your kind words, you are giving us the energy to keep running. Have a great Sunday full of inspiration and love.</p>
+
