@@ -37,10 +37,6 @@ guestPic: guestPic300.jpg
 In order to celebrate this milestone in the history of our collective, we set up yesterday night the [first edition of MailTape Live](https://www.facebook.com/events/324160978078937/) in Paris at the Popup!. Knowing most of you couldn't be there as our episodes are listened all around the world, find here a selection curated in collaboration with our two featured guests from yesterday night: [Alligator](https://www.facebook.com/alligator.musique/) and [Ténéré](https://www.facebook.com/teneremusic/). Hope you enjoy and don't worry, we won't wait for another 300 episodes to throw a new party. ;-)
 </p>
 
-# Philosophy of music discovery
-
-When everything is trying to make a science out of it we're more than decided to keep it as a philosophy, an art de vivre......
-
 
 # 300 SPECIAL CURATION
 
