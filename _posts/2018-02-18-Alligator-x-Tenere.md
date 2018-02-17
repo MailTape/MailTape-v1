@@ -34,31 +34,30 @@ guestPic: guestPic300.jpg
 ---
 <p id="introduction">This morning is special, you are going to listen to our 300th episode. Today's release represent a high point in the MailTape adventure which marks 6 years dedicated to share with you the very best of our music discoveries each Sunday morning in the name of music, love and inspiration.</p>
   
-In order to celebrate this milestone in the history of our collective, we set up yesterday night the [first edition of MailTape Live](https://www.facebook.com/events/324160978078937/) in Paris at the Popup!. Knowing most of you couldn't be there as our episodes are listened all around the world, find here a selection curated in collaboration with our two featured guests from yesterday night: [Alligator](https://www.facebook.com/alligator.musique/) and [Ténéré](https://www.facebook.com/teneremusic/). Hope you enjoy and don't worry, we won't wait for another 300 episodes to throw a new party. ;-)
+In order to celebrate this milestone in the history of our collective, we set up yesterday night the [first edition of MailTape Live](https://www.facebook.com/events/324160978078937/) in Paris at the Popup!. Knowing most of you couldn't be there as our episodes are listened all around the world, find here a selection curated in collaboration with our two featured guests from yesterday night: [Alligator](https://www.facebook.com/alligator.musique/) and [Ténéré](https://www.facebook.com/teneremusic/).
 
 
-
-# 300 SPECIAL CURATION
+# 300th SPECIAL EDITION
 
 ## Alessi Brothers - Seabird
-_Alligator_: **"**C'est la chanson parfaite pour le blues du dimanche soir**"**
+_Alligator_: **"**It's the perfect song for Sunday night blues**"**
 
 ## Jef Ellise Barbara - A Perfect Day
-_Alligator_: **"**Tube idéal pour un réveil dominical**"**
+_Alligator_: **"**Ideal hit for a Sunday alarm clock**"**
 
 ## Alligator - Belembra
-_ImaCrea_: **"**dddd**"**
+_ImaCrea_: **"**Sunny pop wave to mark your first day at the beach... put on your bikini, jump on your bed, dance with the Sun.**"**
 
 ## Kadhja Bonet - This Love
-_Ténéré_: **"**C’est presque devenu une petite habitude pour moi d’écouter cette chanson au réveil. La légèreté et la douceur de sa voix ne peuvent mieux accompagner une sortie de lit.**"**
+_Ténéré_: **"**It's almost become a habit for me to listen to this song when I wake up. The lightness and sweetness of his voice can not better accompany a bed outing.**"**
 
 ## Quasimoto - Broad Factor
-_Ténéré_: **"**Pas le temps de niaiser pour autant, le groove de Madlib permet de rétablir les fonctions motrices du corps pour se diriger vers le café.**"**
+_Ténéré_: **"**No time to fool, the groove of Madlib can restore the motor functions of the body to go to the coffee.**"**
 
 ## Ténéré - Tenebris
-_ImaCrea_: **"**ddddd**"**
+_ImaCrea_: **"**The search for perfection pushed by a boundless idealism. The struggle for spiritual growth in a world dominated by materialism and violence. Music is a religion and Ténéré is on the way to join the league of its most inspiring preachers.**"**
 
 ## Shadow - Let's Get It Together
-_ImaCrea_: **"**ddddd**"**
+_ImaCrea_: **"**Lightness, freedom... Such track should be in some kind of museum as a symbol of the beauty humans can bring to the world and inspire society to keep creating with love and not rely solely on rational thinking spoiled by economic pressure.**"**
 
 <p id="outroduction">A warm thank you to [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) for being our guest this morning, to PS KY for the text and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have an inspiring Sunday!</p>
