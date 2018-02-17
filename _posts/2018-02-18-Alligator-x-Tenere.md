@@ -60,4 +60,4 @@ _ImaCrea_: **"**The search for perfection pushed by a boundless idealism. The st
 ## Shadow - Let's Get It Together
 _ImaCrea_: **"**Lightness, freedom... Such track should be in some kind of museum as a symbol of the beauty humans can bring to the world and inspire society to keep creating with love and not rely solely on rational thinking spoiled by economic pressure.**"**
 
-<p id="outroduction">A warm thank you to [Run Child Run](https://runchildrun.bandcamp.com/album/vanishing-point) for being our guest this morning, to PS KY for the text and to [Camille Célestin](http://bravocamo.studio/) for this episode's illustration. Have an inspiring Sunday!</p>
+<p id="outroduction">Thanks to you, you and you! By your presence and your kind words, you are giving us the energy to keep running. Have a great Sunday full of inspiration and love.</p>
