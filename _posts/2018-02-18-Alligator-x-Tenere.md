@@ -32,7 +32,7 @@ track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
 guestPic: guestPic300.jpg
 ---
-<p id="introduction">This morning is special, you are going to listen to our 300th episode. Today's release represent a high point in the MailTape adventure which marks 6 years dedicated to share with you the very best of our music discoveries each Sunday morning in the name of music, love and inspiration.</p>
+<p id="introduction">This morning is special, you are going to listen to our 300th episode. Today's release represent a high point in the MailTape adventure which marks 6 years dedicated to sharing with you the very best of our music discoveries each Sunday morning in the name of music, love and inspiration.</p>
   
 In order to celebrate this milestone in the history of our collective, we set up yesterday night the [first edition of MailTape Live](https://www.facebook.com/events/324160978078937/) in Paris at the Popup!. Knowing most of you couldn't be there as our episodes are listened all around the world, find here a selection curated in collaboration with our two featured guests from yesterday night: [Alligator](https://www.facebook.com/alligator.musique/) and [Ténéré](https://www.facebook.com/teneremusic/).
 
