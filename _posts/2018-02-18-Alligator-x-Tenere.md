@@ -26,7 +26,7 @@ track2_color: dreamy
 track3_color: vibrant
 track4_color: bliss
 track5_color: trippy
-track6_color: trippy
+track6_color: bliss
 track7_title: Shadow - Let's Get It Together
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
