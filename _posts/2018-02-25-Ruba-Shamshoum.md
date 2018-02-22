@@ -36,7 +36,7 @@ description: >-
   morning playlist.
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
-<p>Born and raised in Palestine, Ruba released her debut album ‘Shamat’ (Beauty Spots) last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing— percolate through the compositions supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
+<p>Born and raised in Palestine, Ruba released her debut album ‘Shamat’ (Beauty Spots) last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing— percolate through the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
 
 
 # Ruba Shamshoum's selection
