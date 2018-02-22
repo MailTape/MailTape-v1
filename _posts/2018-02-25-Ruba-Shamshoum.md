@@ -19,7 +19,7 @@ track1_title: Ella Fitzgerald – Blue Skies
 track1_color: bliss
 track2_title: Esperanza Spalding – Little Fly
 track2_color: dreamy
-track3_title: Firouz – ا زنبق يا غاوي - فيروز
+track3_title: Fairouz – ا زنبق يا غاوي - فيروز
 track3_color: bliss
 track4_title: Ruba Shamshoum – في الاعماق | ربى شمشوم (In the Depth)
 track4_color: dreamy
@@ -44,7 +44,7 @@ _Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz sin
 ## Esperanza Spalding – Little Fly
 _Ruba Shamshoum_: **"**I love Esperanza so much! I always look forward to hearing new material from her. I love that she approaches music from both a scholar's point of view, and a child playing with endless creativity. She reinvents herself in every new album, and always manages to sound super fresh. This song is from her 'Chamber Music Society' album, and I love it so much because it sounds like an intimate conversation between her and the bass, with the strings filling the space with colours.**"**
 
-## Firouz – يا زنبق يا غاوي - فيروز
+## Fairouz – يا زنبق يا غاوي - فيروز
 _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of morning music, they would most probably say Fairouz. She is the Goddess of the morning, her nostalgic voice and Al Rahbani brothers' melodies give so much hope for new beginnings. This is one of my favourite songs by her. **"**
 
 
