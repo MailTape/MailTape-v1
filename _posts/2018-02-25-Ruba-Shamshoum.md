@@ -37,7 +37,7 @@ description: >-
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
-<p>If you're in Dublin on Thursday 1st March, she'll be performing live at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix)! </p>
+<p>If you're in Dublin on Thursday 1st March, she'll be performing live at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7! </p>
 
 
 # Ruba Shamshoum's selection
