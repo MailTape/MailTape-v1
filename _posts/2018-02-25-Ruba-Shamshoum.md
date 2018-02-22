@@ -35,7 +35,7 @@ episode_URL: 'http://mailta.pe/301/ruba-shamshoum/'
 <p>Descending from the Toulousian experimental scene, Romain Barbot and Gregory Buffier have produced more than a dozen 'ambient-drone' records under the name of [Saåad](http://www.saaadrone.com/). Through dynamics of elevation, suspension and tension, Saåad’s music reaches altered states. Consisting of thick patches of sound, it gathers powerful harmonies and buries them under samples of the world’s rustling sounds.</p>
 
 
-# Saåad's selection
+# Ruba Shamshoum's selection
 
 
 ## Grails – The Burden of Hope
