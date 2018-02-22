@@ -31,8 +31,8 @@ track7_title: Zara McFarlane – Chiaroscuro
 track7_color: trippy
 episode_URL: 'http://mailta.pe/301/ruba-shamshoum/'
 ---
-<p id="introduction">This morning we are thrilled to welcome Toulouse-based duo, [Saåad](http://www.saaadrone.com/), who weave an eclectic Sunday morning tape together with MailTape.</p>
-<p>Descending from the Toulousian experimental scene, Romain Barbot and Gregory Buffier have produced more than a dozen 'ambient-drone' records under the name of [Saåad](http://www.saaadrone.com/). Through dynamics of elevation, suspension and tension, Saåad’s music reaches altered states. Consisting of thick patches of sound, it gathers powerful harmonies and buries them under samples of the world’s rustling sounds.</p>
+<p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
+<p>Born and raised in Palestine, Ruba released her debut album ‘Shamat’ (Beauty Spots) last year. The musicality of the Arabic language—and her own subtle shifts of weight in her phrasing— percolate with Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
 
 
 # Ruba Shamshoum's selection
