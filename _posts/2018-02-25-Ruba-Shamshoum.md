@@ -19,7 +19,7 @@ track1_title: Ella Fitzgerald – Blue Skies
 track1_color: bliss
 track2_title: Esperanza Spalding – Little Fly
 track2_color: dreamy
-track3_title: 'Fairouz – ا زنبق يا غاوي '
+track3_title: Fairouz – ايا زنبق يا غاوي
 track3_color: bliss
 track4_title: Ruba Shamshoum –  في الاعماق  (In the Depth)
 track4_color: dreamy
