@@ -19,9 +19,9 @@ track1_title: Ella Fitzgerald – Blue Skies
 track1_color: bliss
 track2_title: Esperanza Spalding – Little Fly
 track2_color: dreamy
-track3_title: Fairouz – ا زنبق يا غاوي - فيروز
+track3_title: 'Fairouz – ا زنبق يا غاوي '
 track3_color: bliss
-track4_title: Ruba Shamshoum – في الاعماق | ربى شمشوم (In the Depth)
+track4_title: Ruba Shamshoum –  ربى شمشوم (In the Depth)
 track4_color: dreamy
 track5_title: Cécile McLorin Salvant – Le Front Cache Sur Tes Genoux
 track5_color: bliss
@@ -44,13 +44,13 @@ _Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz sin
 ## Esperanza Spalding – Little Fly
 _Ruba Shamshoum_: **"**I love Esperanza so much! I always look forward to hearing new material from her. I love that she approaches music from both a scholar's point of view, and a child playing with endless creativity. She reinvents herself in every new album, and always manages to sound super fresh. This song is from her 'Chamber Music Society' album, and I love it so much because it sounds like an intimate conversation between her and the bass, with the strings filling the space with colours.**"**
 
-## Fairouz – يا زنبق يا غاوي - فيروز
+## Fairouz – يا زنبق يا غاوي
 _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of morning music, they would most probably say Fairouz. She is the Goddess of the morning, her nostalgic voice and Al Rahbani brothers' melodies give so much hope for new beginnings. This is one of my favourite songs by her.**"**
 
 
 # MailTape's selection
 
-## Ruba Shamshoum – (In the Depth) في الاعماق | ربى شمشوم
+## Ruba Shamshoum – (In the Depth) ربى شمشوم
 _Sanjay_: **"**Recorded in the Church of Notre-Dame de la Dalbade in Toulouse, [Saåad](http://www.saaadrone.com/) make exceptional use of massive Puget pipe organs originating from 1888. But Romain and Gregory don't limit themselves to the organs. They've managed to use the entire church with its incredible Renaissance acoustics as a tool to craft a sense of overpowering ambience throughout 'Verdaillon', the album from which this track is taken.**"**
 
 ## Cécile McLorin Salvant – Le Front Cache Sur Tes Genoux
