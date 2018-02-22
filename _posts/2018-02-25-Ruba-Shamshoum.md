@@ -59,7 +59,7 @@ _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of m
 _Sanjay_: **"**A beautiful piece which gently glides between undulating narratives about exile, hope and love alongside punchy rhythmic lines and improvisation.**"**
 
 ## Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
-_Sanjay_: **"**Sung in a low, affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
+_Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
 
 ## Jazzmeia Horn – So Easy to Love
 _Sanjay_: **"**This piece was recorded in a disused cistern 14 feet beneath the earth in Washington State by [Pauline Oliveros](http://www.paulineoliveros.us/), who sadly passed away on 24th November 2016. She developed the idea of listening as ritual, healing, and meditation that also led to her founding the Deep Listening Institute. She discovered the Deep Listening phenomenon in that cistern in Fort Worden in 1989, with its reverberation time of 45 seconds, alongside trombonist Stuart Dempster and sound artist Panaiotis, who are her co-collaborators on this album.**"**
