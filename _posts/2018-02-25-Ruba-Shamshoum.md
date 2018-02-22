@@ -30,6 +30,10 @@ track6_color: bliss
 track7_title: Zara McFarlane – Chiaroscuro
 track7_color: trippy
 episode_URL: 'http://mailta.pe/301/ruba-shamshoum/'
+description: >-
+  This morning we are delighted to welcome Dublin-based musician, Ruba
+  Shamshoum, who collaborates with us to provide a beautifully laid-back Sunday
+  morning playlist.
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
 <p>Born and raised in Palestine, Ruba released her debut album ‘Shamat’ (Beauty Spots) last year. The musicality of the Arabic language—and her own subtle shifts of weight in her phrasing— percolate with Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
