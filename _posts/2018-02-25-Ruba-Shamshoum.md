@@ -50,16 +50,16 @@ _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of m
 
 # MailTape's selection
 
-## Saåad – The Harvest
+## Ruba Shamshoum – (In the Depth)في الاعماق | ربى شمشوم
 _Sanjay_: **"**Recorded in the Church of Notre-Dame de la Dalbade in Toulouse, [Saåad](http://www.saaadrone.com/) make exceptional use of massive Puget pipe organs originating from 1888. But Romain and Gregory don't limit themselves to the organs. They've managed to use the entire church with its incredible Renaissance acoustics as a tool to craft a sense of overpowering ambience throughout 'Verdaillon', the album from which this track is taken.**"**
 
-## This Will Destroy You – The Puritan (Julianna Barwick remix)
+## Cécile McLorin Salvant – Le Front Cache Sur Tes Genoux
 _Sanjay_: **"**[Julianna Barwick](http://www.juliannabarwick.com/) flips this instrumental into a stripped-down dream. Though her voice is barely present here. It is only detectable as a very distant peal flitting around the edges of tumbling pianos, before she introduces a pulsing kick drum and lurching sub-bass.**"**
 
-## Pauline Oliveros – Suiren
+## Jazzmeia Horn – So Easy to Love
 _Sanjay_: **"**This piece was recorded in a disused cistern 14 feet beneath the earth in Washington State by [Pauline Oliveros](http://www.paulineoliveros.us/), who sadly passed away on 24th November 2016. She developed the idea of listening as ritual, healing, and meditation that also led to her founding the Deep Listening Institute. She discovered the Deep Listening phenomenon in that cistern in Fort Worden in 1989, with its reverberation time of 45 seconds, alongside trombonist Stuart Dempster and sound artist Panaiotis, who are her co-collaborators on this album.**"**
 
-## Sophia Loizou — Silver Nemesis (Excerpt)
+## Zara McFarlane – Chiaroscuro
 _Sanjay_: **"**Evoking memories of pirate radio, Bristol-based musician [Sophia Loizou](http://www.sophialoizou.com/) creates a ghostly atmosphere with remnants of hardcore and early jungle percolating throughout. Fragments of radio transmissions seep in and out through tape-based processes and spectral processing, like a craggy landscape falling into disintegration.**"**
 
-<p id="outroduction">That's all for today! Thanks for listening and much love to Romain Barbot and Gregory Buffier of [Saåad](http://www.saaadrone.com/) for being our guests today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's all for today! Thanks for listening and much love and gratitude to Ruba Shamshoum for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
