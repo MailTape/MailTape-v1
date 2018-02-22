@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
@@ -63,4 +63,3 @@ _Sanjay_: **"**This piece was recorded in a disused cistern 14 feet beneath the 
 _Sanjay_: **"**Evoking memories of pirate radio, Bristol-based musician [Sophia Loizou](http://www.sophialoizou.com/) creates a ghostly atmosphere with remnants of hardcore and early jungle percolating throughout. Fragments of radio transmissions seep in and out through tape-based processes and spectral processing, like a craggy landscape falling into disintegration.**"**
 
 <p id="outroduction">That's all for today! Thanks for listening and much love to Romain Barbot and Gregory Buffier of [Saåad](http://www.saaadrone.com/) for being our guests today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
-
