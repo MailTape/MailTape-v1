@@ -38,14 +38,14 @@ episode_URL: 'http://mailta.pe/301/ruba-shamshoum/'
 # Ruba Shamshoum's selection
 
 
-## Grails – The Burden of Hope
-_Romain Barbot_: **"**This track has been my alarm clock for years. It’s still one of my favourite tracks and it gives me chills everytime I listen to it. If the melody is important, the drums parts are pure magic.**"**
+## Ella Fitzgerald – Blue Skies
+_Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz singers. The motherly warmth in her voice, playfulness in her scat language, and ability to transition from a silky-smooth voice of a woman in love, to a child-like naughty little girl always inspired me to explore new sounds in my own voice. When she sings, It sounds like she's giving you an affectionate warm hug, and assuring you that it'll all be just fine. I love "Blue Skies" especially because of the great solo that shows the spectrum of her incredible voice. Any song by her would be good for a Sunday morning, afternoon or evening. **"**
 
-## Kurt Vile – Best Love 
-_Romain Barbot_: **"**I think it’s the perfect song to manage a Sunday hangover or a good excuse to stay in your bed.**"**
+## Esperanza Spalding – Little Fly
+_Ruba Shamshoum_: **"**I love Esperanza so much! I always look forward to hearing new material from her. I love that she approaches music from both a scholar's point of view, and a child playing with endless creativity. She reinvents herself in every new album, and always manages to sound super fresh. This song is from her 'Chamber Music Society' album, and I love it so much because it sounds like an intimate conversation between her and the bass, with the strings filling the space with colours.**"**
 
-## King Gizzard & The Lizard Wizard – Rattlesnake
-_Romain Barbot_: **"**I played this album on repeat for months. Surely one of the best records of 2017. This track has the same effect on me as a quadruple espresso.**"**
+## Firouz – يا زنبق يا غاوي - فيروز
+_Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of morning music, they would most probably say Fairouz. She is the Goddess of the morning, her nostalgic voice and Al Rahbani brothers' melodies give so much hope for new beginnings. This is one of my favourite songs by her. **"**
 
 
 # MailTape's selection
