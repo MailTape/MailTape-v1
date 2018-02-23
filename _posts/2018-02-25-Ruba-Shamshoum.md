@@ -37,7 +37,7 @@ description: >-
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
-<p>If you're in Dublin on Thursday 1st March, she'll be performing live at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7! </p>
+<p>If you're in Dublin on Thursday 1st March, she'll be performing at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7! </p>
 
 
 # Ruba Shamshoum's selection
@@ -62,7 +62,7 @@ _Sanjay_: **"**A beautiful piece which glides gently between undulating narrativ
 _Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
 
 ## Jazzmeia Horn – So Easy to Love
-_Sanjay_: **"**This piece was recorded in a disused cistern 14 feet beneath the earth in Washington State by [Pauline Oliveros](http://www.paulineoliveros.us/), who sadly passed away on 24th November 2016. She developed the idea of listening as ritual, healing, and meditation that also led to her founding the Deep Listening Institute. She discovered the Deep Listening phenomenon in that cistern in Fort Worden in 1989, with its reverberation time of 45 seconds, alongside trombonist Stuart Dempster and sound artist Panaiotis, who are her co-collaborators on this album.**"**
+_Sanjay_: **"**Jazzmeia Horn sings and scats through moods, styles, and tempos with inherent ease. Her debut album, 'A Social Call', is full of a glowing optimism that she seems to convey throughout her music.**"**
 
 ## Zara McFarlane – Chiaroscuro
 _Sanjay_: **"**Evoking memories of pirate radio, Bristol-based musician [Sophia Loizou](http://www.sophialoizou.com/) creates a ghostly atmosphere with remnants of hardcore and early jungle percolating throughout. Fragments of radio transmissions seep in and out through tape-based processes and spectral processing, like a craggy landscape falling into disintegration.**"**
