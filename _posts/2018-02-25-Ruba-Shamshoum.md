@@ -65,6 +65,6 @@ _Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilem
 _Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles, and tempos with inherent ease. Her debut album, 'A Social Call', is full of confidence that she seems to convey throughout her music.**"**
 
 ## Zara McFarlane – Chiaroscuro
-_Sanjay_: **"**A relative oldie but a goodie! Taken from [Zara McFarlane](https://www.zaramcfarlane.com/)'s 2011 album, 'Until Tomorrow', this track embraces a suitably noirish, smokey after-hours vibe adorned with a blazing saxophone solo.**"**
+_Sanjay_: **"**A relative oldie but a goodie! Taken from [Zara McFarlane](https://www.zaramcfarlane.com/)'s 2011 album, 'Until Tomorrow', this track embraces a suitably noir-ish, smokey after hours vibe adorned with a blazing saxophone solo.**"**
 
 <p id="outroduction">That's all for today! Thanks for listening and much love and gratitude to [Ruba Shamshoum](http://ruba.land/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
