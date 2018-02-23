@@ -62,7 +62,7 @@ _Sanjay_: **"**A beautiful piece which glides gently between undulating narrativ
 _Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
 
 ## Jazzmeia Horn – So Easy to Love
-_Sanjay_: **"**Jazzmeia Horn sings and scats through moods, styles, and tempos with inherent ease. Her debut album, 'A Social Call', is full of a glowing optimism that she seems to convey throughout her music.**"**
+_Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles, and tempos with inherent ease. Her debut album, 'A Social Call', is full of confidence that she seems to convey throughout her music.**"**
 
 ## Zara McFarlane – Chiaroscuro
 _Sanjay_: **"**Evoking memories of pirate radio, Bristol-based musician [Sophia Loizou](http://www.sophialoizou.com/) creates a ghostly atmosphere with remnants of hardcore and early jungle percolating throughout. Fragments of radio transmissions seep in and out through tape-based processes and spectral processing, like a craggy landscape falling into disintegration.**"**
