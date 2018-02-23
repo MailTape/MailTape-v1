@@ -56,7 +56,7 @@ _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of m
 # MailTape's selection
 
 ## Ruba Shamshoum – (In the Depth) في الاعماق
-_Sanjay_: **"**A beautiful piece which glides gently between undulating narratives about exile, hope and love alongside punchy rhythmic lines and improvisation.**"**
+_Sanjay_: **"**A beautiful piece which blends undulating narratives about exile, hope and love alongside punchy rhythmic lines and improvisation.**"**
 
 ## Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
 _Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
