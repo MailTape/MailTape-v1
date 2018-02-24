@@ -40,14 +40,14 @@ fbPic: fbPic301.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
-<p>If you're in Dublin on Thursday 1st March, she'll be performing at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7! </p>
+<p>If you're in Dublin on Thursday 1st March, she'll be performing at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7!</p>
 
 
 # Ruba Shamshoum's selection
 
 
 ## Ella Fitzgerald – Blue Skies
-_Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz singers. The motherly warmth in her voice, playfulness in her scat language, and ability to transition from a silky-smooth voice of a woman in love, to a child-like naughty little girl always inspired me to explore new sounds in my own voice. When she sings, it sounds like she's giving you an affectionate warm hug, and assuring you that it'll all be just fine. I love "Blue Skies", especially because of the great solo that shows the spectrum of her incredible voice. Any song by her would be good for a Sunday morning, afternoon or evening. **"**
+_Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz singers. The motherly warmth in her voice, playfulness in her scat language, and ability to transition from a silky-smooth voice of a woman in love, to a child-like naughty little girl always inspired me to explore new sounds in my own voice. When she sings, it sounds like she's giving you an affectionate warm hug, and assuring you that it'll all be just fine. I love "Blue Skies", especially because of the great solo that shows the spectrum of her incredible voice. Any song by her would be good for a Sunday morning, afternoon or evening.**"**
 
 ## Esperanza Spalding – Little Fly
 _Ruba Shamshoum_: **"**I love [Esperanza](http://www.esperanzaspalding.com/) so much! I always look forward to hearing new material from her. I love that she approaches music from both a scholar's point of view, and a child playing with endless creativity. She reinvents herself in every new album, and always manages to sound super fresh. This song is from her 'Chamber Music Society' album, and I love it so much because it sounds like an intimate conversation between her and the bass, with the strings filling the space with colours.**"**
@@ -62,12 +62,12 @@ _Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of m
 _Sanjay_: **"**A beautiful piece which blends undulating narratives about exile, hope and love alongside punchy rhythmic lines and improvisation.**"**
 
 ## Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
-_Sanjay_: **"**Sung in a low and affecting vibrato, [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
+_Sanjay_: **"**Sung in a low and affecting vibrato [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
 
 ## Jazzmeia Horn – So Easy to Love
-_Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles, and tempos with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
+_Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles and tempos, with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
 
 ## Zara McFarlane – Chiaroscuro
 _Sanjay_: **"**A relative oldie but a goodie! Taken from [Zara McFarlane](https://www.zaramcfarlane.com/)'s 2011 album, 'Until Tomorrow', this track embraces a suitably noir-ish and smokey after hours vibe adorned with a blazing saxophone solo.**"**
 
-<p id="outroduction">That's all for today! Thanks for listening and much love and gratitude to [Ruba Shamshoum](http://ruba.land/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
+<p id="outroduction">That's your lot for today. Thanks for listening and much love and gratitude to [Ruba Shamshoum](http://ruba.land/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
