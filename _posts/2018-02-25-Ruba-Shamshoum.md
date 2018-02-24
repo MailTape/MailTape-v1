@@ -35,6 +35,7 @@ description: >-
   Shamshoum, who collaborates with us to provide a beautifully laid-back Sunday
   morning playlist.
 guestPic: guestPic301.jpg
+musiColor: musiColor301.png
 fbPic: fbPic301.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
