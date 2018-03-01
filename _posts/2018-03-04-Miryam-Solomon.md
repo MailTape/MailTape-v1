@@ -59,7 +59,7 @@ _Miryam Solomon_: **"**I’m a bit obsessed with this track—the conch, percuss
 # MailTape's selection
 
 ## Miryam Solomon – Something About Your Mother
-_Sanjay_: **"**Easy, unhurried and breezy, this downtempo track from Miryam's latest EP, Magnolia, feels like the perfect Sunday morning companion for me.**"**
+_Sanjay_: **"**Easy, unhurried and breezy, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect Sunday morning companion for me.**"**
 
 ## Alfa Mist – Nucleus
 _Sanjay_: **"**Sung in a low and affecting vibrato [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
