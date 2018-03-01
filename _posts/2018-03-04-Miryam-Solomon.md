@@ -36,31 +36,32 @@ episode_URL: 'http://mailta.pe/302/miryam-solomon/'
 <p>If you're in Dublin on Thursday 1st March, she'll be performing at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7!</p>
 
 
-# Ruba Shamshoum's selection
+# Miryam Solomon's selection
 
 
-## Ella Fitzgerald – Blue Skies
-_Ruba Shamshoum_: **"**Ella's voice was my first introduction to female jazz singers. The motherly warmth in her voice, playfulness in her scat language, and ability to transition from a silky-smooth voice of a woman in love, to a child-like naughty little girl always inspired me to explore new sounds in my own voice. When she sings, it sounds like she's giving you an affectionate warm hug, and assuring you that it'll all be just fine. I love "Blue Skies", especially because of the great solo that shows the spectrum of her incredible voice. Any song by her would be good for a Sunday morning, afternoon or evening.**"**
+## Grand Puba – I Like It
+_Miryam Solomon_: **"**I never tire of this - it’s such a jam and a gem. Grand Puba is such a witty and humorous lyricist made even better with his signature melodic flow. I love how this is both an ode to 90’s NY hiphop and an homage to Soul and Jazz with the Jackson Five, The Stylistics, Rose Royce and Al Jarreu references. The video and album was also a nod to the future and probably one of the first videos I can remember that explored the millennium theme. **"**
 
-## Esperanza Spalding – Little Fly
-_Ruba Shamshoum_: **"**I love [Esperanza](http://www.esperanzaspalding.com/) so much! I always look forward to hearing new material from her. I love that she approaches music from both a scholar's point of view, and a child playing with endless creativity. She reinvents herself in every new album, and always manages to sound super fresh. This song is from her 'Chamber Music Society' album, and I love it so much because it sounds like an intimate conversation between her and the bass, with the strings filling the space with colours.**"**
+## The Invisible – Life's Dancers (Floating Points Remix)
+_Miryam Solomon_: **"**It's so beautiful and life affirming. The words feel like a meditation in it’s repetition, powerful and heartfelt and the string arrangement is gorgeous. It makes me want dance every time without fail, so infectious and playful.
+**"**
 
-## Fairouz – يا زنبق يا غاوي
-_Ruba Shamshoum_: **"**If you ask people in the Middle East of their choice of morning music, they would most probably say [Fairouz](https://en.wikipedia.org/wiki/Fairuz). She is the Goddess of the morning, her nostalgic voice and Al Rahbani brothers' melodies give so much hope for new beginnings. This is one of my favourite songs by her.**"**
+## Chassol – Dominos Part III
+_Miryam Solomon_: **"**I’m a bit obsessed with this track- the conch, percussion, beautiful chords and harmonies. It’s an absolute joy to listen to.**"**
 
 
 # MailTape's selection
 
-## Ruba Shamshoum – (In the Depth) في الاعماق
+## Miryam Solomon – Something About Your Mother
 _Sanjay_: **"**A beautiful piece which blends undulating narratives about exile, hope and love alongside punchy rhythmic lines and improvisation.**"**
 
-## Cécile McLorin Salvant – Le Front Caché Sur Tes Genoux
+## Alfa Mist – Nucleus
 _Sanjay_: **"**Sung in a low and affecting vibrato [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
 
-## Jazzmeia Horn – So Easy to Love
+## Mélissa Laveaux – Lè Ma Monte Chwal Mwen
 _Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles and tempos, with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
 
-## Zara McFarlane – Chiaroscuro
+## Kokoroko – Abusey Junction
 _Sanjay_: **"**A relative oldie but a goodie! Taken from [Zara McFarlane](https://www.zaramcfarlane.com/)'s 2011 album, 'Until Tomorrow', this track embraces a suitably noir-ish and smokey after hours vibe adorned with a blazing saxophone solo.**"**
 
 <p id="outroduction">That's your lot for today. Thanks for listening and much love and gratitude to [Ruba Shamshoum](http://ruba.land/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's beautiful illustration!</p>
