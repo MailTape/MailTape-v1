@@ -39,7 +39,7 @@ fbPic: fbPic302.jpg
 musiColor: musiColor302.png
 ---
 <p id="introduction">By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that will hopefully accompany the arrival of spring...</p>
-<p>Merging folk textures with jazz melodies, Miryam followed up her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.</p>
+<p>Merging folk textures with jazz melodies, Miryam followed her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.</p>
 
 
 # Miryam Solomon's selection
