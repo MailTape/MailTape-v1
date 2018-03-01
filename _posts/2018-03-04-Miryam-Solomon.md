@@ -59,7 +59,7 @@ _Miryam Solomon_: **"**I’m a bit obsessed with this track—the conch, percuss
 # MailTape's selection
 
 ## Miryam Solomon – Something About Your Mother
-_Sanjay_: **"**Easy, unhurried and breezy, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect Sunday morning companion for me.**"**
+_Sanjay_: **"**Easy and unhurried, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect Sunday morning companion for me.**"**
 
 ## Alfa Mist – Nucleus
 _Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This will make you want to stay wrapped inside your warm duvet on a Sunday morning...**"**
