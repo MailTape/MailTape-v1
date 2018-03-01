@@ -35,6 +35,7 @@ description: >-
   By way of Sweden and Eritrea we welcome London-based singer/songwriter, Miryam
   Solomon, who joins us to provide an eclectic Sunday morning playlist that will
   hopefully usher in spring…
+fbPic: fbPic302.jpg
 ---
 <p id="introduction">By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that will hopefully usher in spring...</p>
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
