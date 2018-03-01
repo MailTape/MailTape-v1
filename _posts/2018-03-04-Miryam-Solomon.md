@@ -46,7 +46,7 @@ musiColor: musiColor302.png
 
 
 ## Grand Puba – I Like It
-_Miryam Solomon_: **"**I never tire of this - it’s such a jam and a gem. Grand Puba is such a witty and humorous lyricist made even better with his signature melodic flow. I love how this is both an ode to 90’s NY hiphop and an homage to Soul and Jazz with the Jackson Five, The Stylistics, Rose Royce and Al Jarreu references. The video and album was also a nod to the future and probably one of the first videos I can remember that explored the millennium theme. **"**
+_Miryam Solomon_: **"**I never tire of this—it’s such a jam and a gem. Grand Puba is such a witty and humorous lyricist made even better with his signature melodic flow. I love how this is both an ode to 90’s NY hiphop and an homage to Soul and Jazz with the Jackson Five, The Stylistics, Rose Royce and Al Jarreu references. The video and album was also a nod to the future and probably one of the first videos I can remember that explored the millennium theme. **"**
 
 ## The Invisible – Life's Dancers (Floating Points Remix)
 _Miryam Solomon_: **"**It's so beautiful and life affirming. The words feel like a meditation in it’s repetition, powerful and heartfelt and the string arrangement is gorgeous. It makes me want dance every time without fail, so infectious and playful.
