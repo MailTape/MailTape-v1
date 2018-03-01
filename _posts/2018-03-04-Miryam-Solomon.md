@@ -31,7 +31,7 @@ track7_title: Kokoroko – Abusey Junction
 track7_color: bliss
 episode_URL: 'http://mailta.pe/302/miryam-solomon/'
 ---
-<p id="introduction">This morning we are delighted to welcome Dublin-based musician, [Ruba Shamshoum](http://ruba.land/), who collaborates with us to provide a beautifully laid-back Sunday morning playlist.</p>
+<p id="introduction">By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that will hopefully usher in spring...</p>
 <p>Ruba released her debut album ‘Shamat’ (Beauty Spots) in May last year. The musicality of the Arabic language—and subtle shifts of weight in her own phrasing—percolate throughout the compositions that are supported by Aleka Potinga's cello, Matthew Jacobson's percussion, Orlando Molina's guitar and Barry Rycraft's double bass.</p>
 <p>If you're in Dublin on Thursday 1st March, she'll be performing at [Bagots Hutton](https://www.eventbrite.ie/e/ruba-shamshoum-shamat-tickets-42842712707?aff=efbeventtix) in Dublin 7!</p>
 
