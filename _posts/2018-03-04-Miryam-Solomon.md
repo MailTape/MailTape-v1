@@ -33,8 +33,8 @@ episode_URL: 'http://mailta.pe/302/miryam-solomon/'
 guestPic: guestPic302.jpg
 description: >-
   By way of Sweden and Eritrea we welcome London-based singer/songwriter, Miryam
-  Solomon, who joins us to provide an eclectic Sunday morning playlist that will
-  hopefully usher in spring…
+  Solomon, who joins us to provide an eclectic Sunday morning playlist that
+  promises, with any luck, to accompany the arrival of spring...
 fbPic: fbPic302.jpg
 musiColor: musiColor302.png
 ---
