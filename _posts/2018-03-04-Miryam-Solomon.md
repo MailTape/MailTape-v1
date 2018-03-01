@@ -62,7 +62,7 @@ _Miryam Solomon_: **"**I’m a bit obsessed with this track—the conch, percuss
 _Sanjay_: **"**Easy, unhurried and breezy, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect Sunday morning companion for me.**"**
 
 ## Alfa Mist – Nucleus
-_Sanjay_: **"**Sung in a low and affecting vibrato [Cécile](http://www.cecilemclorinsalvant.com/) has set Haitian poet [Ida Faubert](https://en.wikipedia.org/wiki/Ida_Faubert)'s 1930s poem, 'Le Front Caché Sur Tes Genoux', to a wonderfully languid 6/8 time. I could listen to it all day!**"**
+_Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This will make you want to stay wrapped inside your warm duvet on a Sunday morning...**"**
 
 ## Mélissa Laveaux – Lè Ma Monte Chwal Mwen
 _Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles and tempos, with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
