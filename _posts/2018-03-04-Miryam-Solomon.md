@@ -65,7 +65,7 @@ _Sanjay_: **"**Easy and unhurried, this downtempo track from Miryam's latest EP,
 _Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This makes me want to stay wrapped inside my warm duvet on a Sunday morning...**"**
 
 ## Mélissa Laveaux – Lè Ma Monte Chwal Mwen
-_Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles and tempos, with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
+_Sanjay_: **"**The title of this song means 'when I’m riding my horse' in Haitian Creole, and there's a suitably bright sway to it. **"**
 
 ## Kokoroko – Abusey Junction
 _Sanjay_: **"**A relative oldie but a goodie! Taken from [Zara McFarlane](https://www.zaramcfarlane.com/)'s 2011 album, 'Until Tomorrow', this track embraces a suitably noir-ish and smokey after hours vibe adorned with a blazing saxophone solo.**"**
