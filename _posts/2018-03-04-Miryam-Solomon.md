@@ -34,7 +34,8 @@ guestPic: guestPic302.jpg
 description: >-
   By way of Sweden and Eritrea we welcome London-based singer/songwriter, Miryam
   Solomon, who joins us to provide an eclectic Sunday morning playlist that
-  promises, with any luck, to accompany the arrival of spring...
+  promises, with any luck, to accompany our sapling-like emergence from our
+  extended winter.
 fbPic: fbPic302.jpg
 musiColor: musiColor302.png
 ---
