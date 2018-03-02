@@ -59,10 +59,10 @@ _Miryam Solomon_: **"**I’m a bit obsessed with this track—the conch, percuss
 # MailTape's selection
 
 ## Miryam Solomon – Something About Your Mother
-_Sanjay_: **"**Easy and unhurried, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect Sunday morning companion for me.**"**
+_Sanjay_: **"**Easy and unhurried, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect accompaniment to Sunday morning for me.**"**
 
 ## Alfa Mist – Nucleus
-_Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This will make you want to stay wrapped inside your warm duvet on a Sunday morning...**"**
+_Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This makes me want to stay wrapped inside my warm duvet on a Sunday morning...**"**
 
 ## Mélissa Laveaux – Lè Ma Monte Chwal Mwen
 _Sanjay_: **"**[Jazzmeia Horn](https://www.theartistryofjazzhorn.com/) sings and scats through diverse moods, styles and tempos, with inherent ease. Her debut album, 'A Social Call', is full of confidence that she conveys throughout her music.**"**
