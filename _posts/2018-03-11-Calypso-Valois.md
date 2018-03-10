@@ -54,7 +54,7 @@ It even encourages me when it comes to household tasks.**"**</p>
 # MailTape's selection
 
 ## Calypso Valois — Le Jour
-_Manon_: **"**L’énergie, la rage dégagée par le rythme de ce morceau est la bienvenue pour attaquer le dimanche matin en conquérant. Pour moi, ce son sonne déjà comme un classique. J’y discerne une touche de Gainsbourg dans l’instrumental, une élégance à la Françoise Hardy dans la voix..**"**
+_Manon_: **"**The energy, the rage spread by the rhythn of this track is welcomed to start a sunday morning with a conquering spirit. For me, it already sounds like a classic. I distinguish a touch of Gainsbourg in the instrumental part, and elegance in the style of Francoise Hardy in the voice.**"**
 
 ## Khruangbin — Cómo Me Quieres
 _Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.</p>
