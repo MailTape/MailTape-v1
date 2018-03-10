@@ -30,6 +30,7 @@ track7_title: Soft Cell - Say Hello Wave Goodbye
 track1_color: vibrant
 track2_color: vibrant
 track5_color: trippy
+episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 ---
 ## A New Post
 
