@@ -33,7 +33,8 @@ track5_color: trippy
 episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 ---
 <p id="introduction">This morning in our new episode, we enter into the world of movies. </p>
-<p> I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois, except being Elli And Jacno's daughter, is a talented young woman that, I'm pretty such, you will here about in the following months.</p>
+<p> I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois is a talented young woman that  I'm pretty such, you will here about in the following months.</p>  
+Elli And Jacno's daughter, filleule de Etienne Daho, elle suit le pas de ses aines et continue leur mission de magnifier la langue francaise.</p>
 
 # Calypso Valois's selection
 
@@ -66,4 +67,3 @@ _Manon_: **"**Because Pour tous les lonely sundays,.**"**
 _Manon_: **"**Pour finir cette MailTape sur un air de générique de fin .**"**
 
 <p id="outroduction">That's all folks! Huge thank you to [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") for her choices and thanks to [Anaïs](http://anaiscaura.fr/ "Anaïs Caura's website") for the wonderful illustration. And thank you for listening to our Sunday tapes! If you liked this tape, share it with your friends.</p>
-
