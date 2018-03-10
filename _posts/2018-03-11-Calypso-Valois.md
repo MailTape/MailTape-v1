@@ -41,7 +41,7 @@ guestPic: guestpic303.jpg
 
 
 ## Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
-_Calypso Valois_: **"**It is one of my favorite song, it makes me feel like I’m in a vicious but fantastic whirlwind. It is really interesting how the main melody is played with the left hand, whereas the right hand develops a « swirling » chromaticism.**"**</p>
+_Calypso Valois_: **"**It is one of my favorite song, it makes me feel like I’m in a vicious but fantastic whirlwind. It is really interesting how the main melody is played with the left hand, whereas the right hand develops a « swirling » chromaticism.**"**
 
 ## Karl Heinz Schäfer - Exterieur, Exterieur Nuit (ost)
 _Calypso Valois_: **"**I love soundtracks from 60s/70s/80s movies. After classical music, this is what I listen to the most.
