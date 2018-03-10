@@ -58,7 +58,7 @@ _Manon_: **"**L’énergie, la rage dégagée par le rythme de ce morceau est la
 
 ## Khruangbin — Cómo Me Quieres
 _Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.</p>
-The haunting melody of the electric guitar evoques me an american but philosophical movie, like an Easy Rider with a bit more of introspection..**"**
+The haunting melody of the electric guitar evoques me the beauty and the freedom of movies like Easy Rider, mixed with a bit of deepness and melancholia.**"**
 
 ## Petula Clark - La Nuit N'en Finit Plus
 _Manon_: **"**Because lonely sundays also need their anthem.**"**
