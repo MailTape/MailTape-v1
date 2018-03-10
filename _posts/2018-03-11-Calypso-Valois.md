@@ -20,9 +20,9 @@ track3_color: trippy
 track4_color: vibrant
 track6_color: rough
 track7_color: dreamy
-track1_title: Frederic Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
+track1_title: Chopin - Etude po. 25 n. 11 ‘Le Vent d’Hiver’
 track2_title: 'Karl Heinz Schäfer - Exterieur, Exterieur Nuit'
-track3_title: The Beegees - You should be Dancing
+track3_title: The Beegees - You Should Be Dancing
 track4_title: Calypso Valois - Le Jour
 track5_title: Khruangbin - Cómo Me Quieres
 track6_title: Petula Clark - La Nuit N’en Finit Plus
