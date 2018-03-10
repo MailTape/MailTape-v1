@@ -13,6 +13,9 @@ track4_link: 'https://soundcloud.com/calypsovalois/le-jour'
 track5_link: 'https://soundcloud.com/khruangbin-official/como-me-quieres'
 track6_link: 'https://soundcloud.com/petula-clark/la-nuit-nen-finit-plus'
 track7_link: 'https://soundcloud.com/soft-cell-official/say-hello-wave-goodbye-12-1'
+writer: ImaCrea
+author: ImaCrea
+illustrator: William Girault
 ---
 ## A New Post
 
