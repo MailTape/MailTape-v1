@@ -45,12 +45,12 @@ Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the
 _Calypso Valois_: **"**It is one of my favorite song, it makes me feel like I’m in a vicious but fantastic whirlwind. It is really interesting how the main melody is played with the left hand, whereas the right hand develops a « swirling » chromaticism.**"**</p>
 
 ## Karl Heinz Schäfer - Exterieur, Exterieur Nuit (ost)
-_Calypso Valois_: **"**I love soundtracks from 60s/70s/80s movies. After classical music, this is what I listen to the most.</p>
-Listening to it on Sundays brings me into a particular state. It is such a pleasant feeling to watch a movie with your ears.**"**</p>
+_Calypso Valois_: **"**I love soundtracks from 60s/70s/80s movies. After classical music, this is what I listen to the most.
+Listening to it on Sundays brings me into a particular state. It is such a pleasant feeling to watch a movie with your ears.**"**
 
 ## The Beegees - You should be Dancing
 _Calypso Valois_: **"**That song always gives me so much energy. 
-It even encourages me when it comes to household tasks.**"**</p>
+It even encourages me when it comes to household tasks.**"**
 
 
 # MailTape's selection
@@ -59,7 +59,7 @@ It even encourages me when it comes to household tasks.**"**</p>
 _Manon_: **"**The energy, the rage spread by the rhythn of this track is welcomed to start a sunday morning with a conquering spirit. For me, it already sounds like a classic. I distinguish a touch of Gainsbourg in the instrumental part, and elegance in the style of Francoise Hardy in the voice.**"**
 
 ## Khruangbin — Cómo Me Quieres
-_Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.</p>
+_Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.
 The haunting melody of the electric guitar evoques me the beauty and the freedom of movies like Easy Rider, mixed with a bit of deepness and melancholia.**"**
 
 ## Petula Clark - La Nuit N'en Finit Plus
