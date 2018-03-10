@@ -37,9 +37,6 @@ episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.</p>
 
 
-![guestpic303.jpg]({{site.baseurl}}/img/guestpic303.jpg)
-
-
 # Calypso Valois's selection
 
 
