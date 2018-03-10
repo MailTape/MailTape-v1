@@ -68,4 +68,4 @@ _Manon_: **"**Because lonely sundays also need their anthem.**"**
 ## Soft Cell — Say Hello Wave Goodbye
 _Manon_: **"**Sounding like an ending theme, this song is perfect to end our adventures.**"**
 
-<p id="outroduction">That's all folks! Huge thank you to [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") for her choices and thanks to [William](http://anaiscaura.fr/ "Anaïs Caura's website") for the wonderful illustration. And thank you for listening to our Sunday tapes! If you liked this tape, share it with your friends.</p>
+<p id="outroduction">That's all folks! Huge thank you to [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") for her choices and thanks to [William](http://anaiscaura.fr/ "William's website") for the wonderful illustration. And thank you for listening to our Sunday tapes! If you liked this tape, share it with your friends.</p>
