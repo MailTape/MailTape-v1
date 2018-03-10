@@ -57,11 +57,11 @@ It even encourages me when it comes to household tasks.**"**</p>
 _Manon_: **"**L’énergie, la rage dégagée par le rythme de ce morceau est la bienvenue pour attaquer le dimanche matin en conquérant. Pour moi, ce son sonne déjà comme un classique. J’y discerne une touche de Gainsbourg dans l’instrumental, une élégance à la Françoise Hardy dans la voix..**"**
 
 ## Khruangbin — Cómo Me Quieres
-_Manon_: **"**Ce morceau instrumental composé par ces génies venus du Texas pourraient complètement être la bande originale d’un film de la fin du siècle dernier.</p>
+_Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.</p>
 La mélodie lancinante de la guitare électrique m’évoque une épopée presque philosophique, comme un Easy Rider qui aurait été réalisé par Woody Allen..**"**
 
 ## Petula Clark - La Nuit N'en Finit Plus
-_Manon_: **"**Because Pour tous les lonely sundays,.**"**
+_Manon_: **"**Because lonely sundays,.**"**
 
 ## Soft Cell - Say Hello Wave Goodbye
 _Manon_: **"**Pour finir cette MailTape sur un air de générique de fin .**"**
