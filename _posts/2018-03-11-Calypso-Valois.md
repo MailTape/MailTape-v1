@@ -58,12 +58,12 @@ _Manon_: **"**L’énergie, la rage dégagée par le rythme de ce morceau est la
 
 ## Khruangbin — Cómo Me Quieres
 _Manon_: **"**This intrumental piece of art composed by the the Texan genius could completely be the soundtrack from a movie of the last century.</p>
-La mélodie lancinante de la guitare électrique m’évoque une épopée presque philosophique, comme un Easy Rider qui aurait été réalisé par Woody Allen..**"**
+The haunting melody of the electric guitar evoques me an american but philosophical movie, like an Easy Rider which would have been produced by Woody Allen..**"**
 
 ## Petula Clark - La Nuit N'en Finit Plus
-_Manon_: **"**Because lonely sundays,.**"**
+_Manon_: **"**Because lonely sundays also need their anthem.**"**
 
 ## Soft Cell - Say Hello Wave Goodbye
-_Manon_: **"**Pour finir cette MailTape sur un air de générique de fin .**"**
+_Manon_: **"**Sounding like a generic, this song is perfect to end our adventures.**"**
 
 <p id="outroduction">That's all folks! Huge thank you to [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") for her choices and thanks to [Anaïs](http://anaiscaura.fr/ "Anaïs Caura's website") for the wonderful illustration. And thank you for listening to our Sunday tapes! If you liked this tape, share it with your friends.</p>
