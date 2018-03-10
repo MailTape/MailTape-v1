@@ -11,7 +11,7 @@ track2_link: >-
 track3_link: 'https://soundcloud.com/beegees/you-should-be-dancing-4'
 track4_link: 'https://soundcloud.com/calypsovalois/le-jour'
 track5_link: 'https://soundcloud.com/khruangbin-official/como-me-quieres'
-track6_link: 'https://soundcloud.com/jean-philippe-sylvestre/05-tude-op-25-no-11-vent'
+track6_link: 'https://soundcloud.com/petula-clark/la-nuit-nen-finit-plus'
 track7_link: 'https://soundcloud.com/soft-cell-official/say-hello-wave-goodbye-7'
 writer: ImaCrea
 author: ImaCrea
