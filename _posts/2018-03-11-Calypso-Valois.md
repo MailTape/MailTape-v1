@@ -36,6 +36,10 @@ episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 <p> And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists.</p>  
 Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.</p>
 
+
+![Calypso-Valois.jpg]({{site.baseurl}}/img/Calypso-Valois.jpg)
+
+
 # Calypso Valois's selection
 
 
