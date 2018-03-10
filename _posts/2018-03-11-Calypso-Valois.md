@@ -47,7 +47,7 @@ _Calypso Valois_: **"**It is one of my favorite song, it makes me feel like I’
 _Calypso Valois_: **"**I love soundtracks from 60s/70s/80s movies. After classical music, this is what I listen to the most.
 Listening to it on Sundays brings me into a particular state. It is such a pleasant feeling to watch a movie with your ears.**"**
 
-## The Beegees - You should be Dancing
+## The Bee Gees - You Should Be Dancing
 _Calypso Valois_: **"**That song always gives me so much energy. 
 It even encourages me when it comes to household tasks.**"**
 
