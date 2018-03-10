@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '303'
 guest_name: Calypso Valois
 guest_color: vibrant
