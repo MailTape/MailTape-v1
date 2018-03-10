@@ -33,8 +33,8 @@ episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 guestPic: guestpic303.jpg
 ---
 <p id="introduction">This morning in our new episode, we enter into the world of movies. </p>
-<p> And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists.</p>  
-Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.</p>
+<p>And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists.</p>  
+<p>Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.</p>
 
 
 # Calypso Valois's selection
