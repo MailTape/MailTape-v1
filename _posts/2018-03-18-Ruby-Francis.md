@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track2_link: 'https://soundcloud.com/lionbabe/honey-dew'
+track2_link: 'https://mailtapetracks.s3.amazonaws.com/304/track2.mp3'
 track1_title: Solo Smith —  Still In Love
 track2_title: Lion Babe — Honey Dew
 track4_title: Ruby Francis — Fall Asleep
