@@ -35,6 +35,7 @@ track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
 <p id="introduction">This morning</p>
 
+![guestpic304.jpg]({{site.baseurl}}/img/guestpic304.jpg)
 
 # Ruby Francis's selection
 
