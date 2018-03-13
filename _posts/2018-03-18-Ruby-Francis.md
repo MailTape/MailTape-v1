@@ -22,7 +22,7 @@ track5_title: Still Woozy — Goodie Bag
 track5_color: vibrant
 track7_title: King Princess — Sunburn
 episode_URL: 'http://mailta.pe/304/Ruby-Francis/'
-fbPic: fbPic304.png
+fbPic: fbPic304.jpg
 musiColor: musiColor304.png
 author: Louise
 illustrator: William Girault
@@ -34,6 +34,7 @@ track1_link: 'https://soundcloud.com/solomon-smith-834932779/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
 <p id="introduction">This morning</p>
+
 
 # Ruby Francis's selection
 
