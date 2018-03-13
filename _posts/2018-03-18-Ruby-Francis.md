@@ -1,10 +1,8 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
-track1_link: 'https://soundcloud.com/lionbabe/honey-dew'
-track2_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
-track3_link: 'https://soundcloud.com/solomon-smith-834932779/still-in-love'
+published: true
+track2_link: 'https://soundcloud.com/lionbabe/honey-dew'
 track1_title: Solo Smith —  Still In Love
 track2_title: Lion Babe — Honey Dew
 track4_title: Ruby Francis — Fall Asleep
@@ -32,16 +30,16 @@ category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestPic304.jpg
+track1_link: 'https://soundcloud.com/solomon-smith-834932779/still-in-love'
+track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
-
-
-<p id="introduction">This morning in our new episode, we enter into the world of movies. And to guide us in our journey, I'm delighted to have [Calypso Valois](https://www.facebook.com/calypsovalois/ "Calypso Valois's Facebook page") as our guest. Calypso Valois seems to be one of those timeless artists. Elli And Jacno's daughter, Etienne Daho's goddaughter, she naturally follows the lead of her elders, and continues their mission to magnify the French language.</p>
+<p id="introduction">This morning</p>
 
 
 # Ruby Francis's selection
 
 
-## Chopin — Etude po. 25 n. 11 ‘Le Vent d’Hiver’
+## Solo Smith
 _Ruby Francis_: **"**It is one of my favorite song, it makes me feel like I’m in a vicious but fantastic whirlwind. It is really interesting how the main melody is played with the left hand, whereas the right hand develops a « swirling » chromaticism.**"**
 
 ## Karl Heinz Schäfer — Exterieur, Exterieur Nuit (ost)
