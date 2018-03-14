@@ -13,7 +13,7 @@ track5_link: 'https://mailtapetracks.s3.amazonaws.com/303/track5.mp3'
 track6_link: 'https://mailtapetracks.s3.amazonaws.com/303/track6.mp3'
 track7_link: 'https://mailtapetracks.s3.amazonaws.com/303/track7.mp3'
 writer: ImaCrea
-author: ImaCrea
+author: Manon
 illustrator: William Girault
 track3_color: trippy
 track4_color: vibrant
