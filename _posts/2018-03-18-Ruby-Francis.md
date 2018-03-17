@@ -32,6 +32,11 @@ guest_color: dreamy
 guestPic: guestPic304bis.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
+description: >-
+  This morning, we welcome London-based singer/songwriter, Ruby Francis, to
+  collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and
+  incorporating traces of soul music, we hope you’re just as taken with her
+  infectious sound as we are!
 ---
 <p id="introduction">This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!</p>
 
