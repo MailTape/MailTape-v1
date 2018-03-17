@@ -33,7 +33,7 @@ guestPic: guestPic304ter.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
-<p id="introduction">This morning</p>
+<p id="introduction">This morning,</p>
 
 # Ruby Francis's selection
 
@@ -50,7 +50,7 @@ _Ruby Francis_: **"**I discovered this song when Troy put it out 3 years ago and
 # MailTape's selection
 
 ## Ruby Francis — Fall Asleep
-_Louise_: **"**The energy, the rage spread by the rhythm of this track is welcomed to start a Sunday morning with a conquering spirit. For me, it already sounds like a classic. I distinguish a touch of Gainsbourg in the instrumental part, and elegance in the style of Francoise Hardy in the voice.**"**
+_Louise_: **"****"**
 
 ## Still Woozy — Goodie Bag
 _Louise_: **"****"**
@@ -61,4 +61,4 @@ _Louise_: **"****"**
 ## King Princess — Sunburn
 _Louise_: **"****"**
 
-<p id="outroduction">That's all folks!</p>
+<p id="outroduction">That's all folks! Thanks for taking the time to listen to this new episode. Thanks to [Ruby Francis](https://www.facebook.com/RubyFrancisMusic/ "Ruby's Facebook Page") for her amazing selection and to [William](http://williamgirault.com/ "William's website") for his fabulous illustration.</p>
