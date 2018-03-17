@@ -29,10 +29,11 @@ illustrator: William Girault
 category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
-guestPic: guestPic304bis.jpg
-track1_link: 'https://soundcloud.com/solomon-smith-834932779/still-in-love'
+guestPic: guestPic304ter.jpg
+track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
+![guestpic304ter.jpg]({{site.baseurl}}/img/guestpic304ter.jpg)
 <p id="introduction">This morning</p>
 
 # Ruby Francis's selection
