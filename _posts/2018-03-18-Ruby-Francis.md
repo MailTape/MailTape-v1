@@ -36,6 +36,7 @@ track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 <p id="introduction">This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!</p>
 
 <p>Her latest cut, [_Drip Drop_](https://soundcloud.com/rubyfrancis/drip-drop "Drip Drop on Soundcloud"), is a swaying, synth key melody that’s enveloped in an old-style R&B chorus where Ruby’s vocal complements the chunky, electronic and dreamy production.</p>
+<p>Let's dig into this R&B vibe!</p>
 
 # Ruby Francis's selection
 
