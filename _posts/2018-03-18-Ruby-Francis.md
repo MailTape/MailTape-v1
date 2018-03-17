@@ -29,7 +29,7 @@ illustrator: William Girault
 category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
-guestPic: guestPic304ter.jpg
+guestPic: guestpic304ter.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
