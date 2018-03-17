@@ -33,7 +33,6 @@ guestPic: guestPic304ter.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
 track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
 ---
-![guestpic304ter.jpg]({{site.baseurl}}/img/guestpic304ter.jpg)
 <p id="introduction">This morning</p>
 
 # Ruby Francis's selection
