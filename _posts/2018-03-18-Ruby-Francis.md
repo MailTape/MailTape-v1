@@ -37,6 +37,7 @@ description: >-
   collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and
   incorporating traces of soul music, we hope you’re just as taken with her
   infectious sound as we are!
+writer: Sanjay Mistry
 ---
 <p id="introduction">This morning, we welcome London-based singer/songwriter, [Ruby Francis](https://www.instagram.com/ruby_francis/ "Ruby's Instagram feed"), to collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and incorporating traces of soul music, we hope you’re just as taken with her infectious sound as we are!</p>
 
@@ -69,4 +70,4 @@ _Louise_: **"**The more I listen to _The Way I Am_, the more I love it. The mess
 ## King Princess — Sunburn
 _Louise_: **"**I wanted to finish this tape with a smooth track. King Princess offers just want I was looking for with this _Sunburn_. Listening to it makes me want to cuddle myself.**"**
 
-<p id="outroduction">That's all folks! Thanks for taking the time to listen to this new episode. Thanks to [Ruby Francis](https://www.facebook.com/RubyFrancisMusic/ "Ruby's Facebook Page") for her amazing selection and to [William](http://williamgirault.com/ "William's website") for his fabulous illustration.</p>
+<p id="outroduction">That's all folks! Thanks for taking the time to listen to this new episode. Thanks to [Ruby Francis](https://www.facebook.com/RubyFrancisMusic/ "Ruby's Facebook Page") for her amazing selection, to [William](http://williamgirault.com/ "William's website") for his fabulous illustration and to Sanjay for the writing!</p>
