@@ -50,15 +50,15 @@ _Ruby Francis_: **"**I discovered this song when Troy put it out 3 years ago and
 # MailTape's selection
 
 ## Ruby Francis — Fall Asleep
-_Louise_: **"****"**
+_Louise_: **"**This track made me fall in love with Ruby Francis. I was listening to Soundcloud, jumping from song to song and she came in like a queen. This R'n'B vibe is all I need to start the day right!**"**
 
 ## Still Woozy — Goodie Bag
-_Louise_: **"****"**
+_Louise_: **"**Warmth is what would define this track for me. I really feel cradle by the sound of Still Woozy's voice. But Goodie Bag also as some weirdness to it that makes it even more special to me.**"**
 
 ## WAYI — The Way I Am
-_Louise_: **"****"**
+_Louise_: **"**The more I listen to _The Way I Am_, the more I love it. The message of this song is everything to me.**"**
 
 ## King Princess — Sunburn
-_Louise_: **"****"**
+_Louise_: **"**I wanted to finish this tape with a smooth track. King Princess offers just want I was looking for with this _Sunburn_. Listening to it makes me want to cuddle myself.**"**
 
 <p id="outroduction">That's all folks! Thanks for taking the time to listen to this new episode. Thanks to [Ruby Francis](https://www.facebook.com/RubyFrancisMusic/ "Ruby's Facebook Page") for her amazing selection and to [William](http://williamgirault.com/ "William's website") for his fabulous illustration.</p>
