@@ -52,7 +52,7 @@ _Christine Ott_: **"**Sunday morning, riding on an endless road to the countrysi
 # MailTape's selection
 
 ## Christine Ott – Szczecin
-_Sanjay_: **"**Easy and unhurried, this downtempo track from Miryam's latest EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), feels like the perfect accompaniment to Sunday morning for me.**"**
+_Sanjay_: **"**'Szczecin' is taken from Christine Ott's 2016 solo album, [Only Silence Remains](http://www.gizehrecords.com/gzh66-christine-ott-only-silence-remains.html). Like Szczecin, the whole album is a subtly-sketched melodic recording, with the arrangements given ample space and light as Christine performs on a variety of different instruments throughout the record.**"**
 
 ## Littleboat – ARC
 _Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This makes me want to stay wrapped inside my warm duvet on a Sunday morning...**"**
