@@ -58,7 +58,7 @@ _Sanjay_: **"**'Szczecin' is taken from Christine Ott's 2016 solo album, [Only S
 _Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based in Bristol, UK, working as a composer, performer and sound designer with [The Paper Cinema](http://www.thepapercinema.com/). This piece is a quartet for clarinet, violin, cello and piano inspired in part by Oliver Messiaen's Quatuor pour la fin du temps, and performed by the [Octandre Ensemble](https://www.octandre.com/).**"**
 
 ## Mary Lattimore – The Quiet at Night
-_Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds that bounce into each other and evaporate give this piece a feeling of seclusion deep in the forest. A beautifully meditative piece for this Sunday morning.**"**
+_Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds that bounce into each other and evaporate give this piece, by [Mary Lattimore](http://marylattimoreharpist.tumblr.com/), a feeling of being secluded deep in the forest. A beautifully meditative piece for this Sunday morning.**"**
 
 ## Saltland – ICA
 _Sanjay_: **"**Meaning 'be strong' in Urhobo, [Kokoroko](https://www.facebook.com/kokorokomusic/) return with this contribution to Brownswood Recording's recent compilation, [We Out Here](https://weouthere.bandcamp.com/album/we-out-here). A beautifully melodic track to listen to whilst your morning coffee percolates, opening with lightly picked guitars and somber percussion.**"**
