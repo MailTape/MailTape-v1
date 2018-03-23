@@ -55,7 +55,7 @@ _Christine Ott_: **"**Sunday morning, riding on an endless road to the countrysi
 _Sanjay_: **"**'Szczecin' is taken from Christine Ott's 2016 solo album, [Only Silence Remains](http://www.gizehrecords.com/gzh66-christine-ott-only-silence-remains.html). Like Szczecin, the whole album is a subtly-sketched melodic recording, with the arrangements given ample space and light as Christine performs on a variety of different instruments throughout the record.**"**
 
 ## Littleboat – ARC
-_Sanjay_: **"**This five-piece band united by [Alfa](https://alfamist.bandcamp.com/) on keys are making some beautifully harmonious and melancholic music right now. This makes me want to stay wrapped inside my warm duvet on a Sunday morning...**"**
+_Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based in Bristol, UK, working as a composer, performer and sound designer with [The Paper Cinema](http://www.thepapercinema.com/). This piece is a quartet for clarinet, violin, cello and piano inspired in part by Oliver Messiaen's Quatuor pour la fin du temps, and performed by the [Octandre Ensemble](https://www.octandre.com/).**"**
 
 ## Mary Lattimore – The Quiet at Night
 _Sanjay_: **"**The title of this song means 'when I’m riding my horse' in Haitian Creole, and there's a suitably bright sway to it. [Mélissa](https://www.facebook.com/melissalaveauxoff) takes traditional tunes, vodou anthems and scraps and phrases discovered in old songbooks, and sews them together like a patchwork of intersecting lives.**"**
