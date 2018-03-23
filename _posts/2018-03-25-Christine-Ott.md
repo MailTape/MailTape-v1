@@ -32,7 +32,7 @@ track7_title: ' Saltland – ICA'
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/305/christine-ott/'
 ---
-<p id="introduction">By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.</p>
+<p id="introduction">Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this morning we welcome Christine Ott to collaborate with us on MailTape.</p>
 <p>Merging folk textures with jazz melodies, Miryam followed her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.</p>
 
 
