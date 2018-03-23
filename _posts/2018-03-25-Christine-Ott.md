@@ -61,6 +61,6 @@ _Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based i
 _Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds that bounce into each other and evaporate give this piece, by [Mary Lattimore](http://marylattimoreharpist.tumblr.com/), a feeling of being secluded deep in the forest. A beautifully meditative piece for this Sunday morning.**"**
 
 ## Saltland – ICA
-_Sanjay_: **"**Extending such environmental themes to our planet's rapidly deteriorating climate and biodiversity, this is a shadowy and ominous piece from Rebecca Foon's [Saltland](http://www.saltland.ca/) project. Music suitably filled with a complex and dense soundscape, rich in detail and feeling.**"**
+_Sanjay_: **"**Extending such environmental themes to our planet's rapidly deteriorating climate and biodiversity, this is a shadowy and ominous piece from Rebecca Foon's [Saltland](http://www.saltland.ca/) project. Music suitably filled with a complex and dense soundscape making sweet misery out of melody.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Christine Ott](http://www.christineott.fr/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
