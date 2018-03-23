@@ -63,4 +63,4 @@ _Sanjay_: **"**The title of this song means 'when I’m riding my horse' in Hait
 ## Saltland – ICA
 _Sanjay_: **"**Meaning 'be strong' in Urhobo, [Kokoroko](https://www.facebook.com/kokorokomusic/) return with this contribution to Brownswood Recording's recent compilation, [We Out Here](https://weouthere.bandcamp.com/album/we-out-here). A beautifully melodic track to listen to whilst your morning coffee percolates, opening with lightly picked guitars and somber percussion.**"**
 
-<p id="outroduction">That's it for this morning. Thanks for listening and much love and gratitude to [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/) for being our guest today, and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode's cool illustration!</p>
+<p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Christine Ott](http://www.christineott.fr/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
