@@ -32,8 +32,8 @@ track7_title: ' Saltland – ICA'
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/305/christine-ott/'
 ---
-<p id="introduction">Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this morning we welcome Christine Ott to collaborate with us on MailTape.</p>
-<p>Merging folk textures with jazz melodies, Miryam followed her debut 2014 EP, [Evergreen](https://miryamsolomonmusic.bandcamp.com/album/evergreen), with her second EP, [Magnolia](https://miryamsolomonmusic.bandcamp.com/album/magnolia), last year. Inspired by feminist psychoanalysis, vocal improvisation, Ghanaian high life and dreams of Scandinavia, Miryam's music is also conjugated by  polyrhythms from drummer Seb Rochford. Shabaka Hutchings on clarinet, bassist Jean Berthon and drummer Tansay Omar also feature.</p>
+<p id="introduction">Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.</p>
+<p>Toying with mood and tone with practiced ease in her own work, Christine has also been an integral part of Yann Tiersen's band and has collaborated with the likes of Radiohead, Tindersticks, Syd Matters, Daau, Raphelson, Noir Désir, Vénus, Oiseaux-Tempête and Foudre! over the past two decades.</p>
 
 
 # Christine Ott's selection
