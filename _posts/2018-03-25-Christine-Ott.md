@@ -40,13 +40,13 @@ episode_URL: 'http://mailta.pe/305/christine-ott/'
 
 
 ## Rachel Grimes – The Air in Time
-_Christine Ott_: **"**I discovered Rachel's work through Richard Knox from my most recent album's label, Gizeh Records. He found that we had a close musical universe, I took it as a comploment! Quite a short piece, but full of energy with some Asian inspiration in the spring part. I hope I would cross the Atlantic to meet her one day. I really like her recent work with Loscil too.**"**
+_Christine Ott_: **"**I discovered [Rachel](http://rachelgrimespiano.com/)'s work through Richard Knox from my most recent album's label, [Gizeh Records](http://www.gizehrecords.com/). He found that we had a close musical universe, I took it as a compliment! Quite a short piece, but full of energy with some Asian inspiration in the spring part. I hope I would cross the Atlantic to meet her one day. I really like her recent work with Loscil too.**"**
 
 ## David Lang by Bang on a Can – Cheating, Lying, Stealing
-_Christine Ott_: **"**Sunday morning, in contrast to the first piece...and at the same time, repetitive and evolving music which takes the time of a nice development. I love this piece of David Lang, especially this first movement by his Bang on a Can.The recording is great, as is the use and choice of special sounds of percussions. A surprising and original piece of music! The North American contemporary scene is really interesting to me.**"**
+_Christine Ott_: **"**Sunday morning, in contrast to the first piece...and at the same time, repetitive and evolving music which takes the time of a nice development. I love this piece of [David Lang](https://davidlangmusic.com/), especially this first movement by his [Bang on a Can](https://bangonacan.org/).The recording is great, as is the use and choice of special sounds of percussions. A surprising and original piece of music! The North American contemporary scene is really interesting to me.**"**
 
 ## Fink – Looking Too Closely
-_Christine Ott_: **"**Sunday morning, riding on an endless road to the countryside...Fink's lastest album has really great pieces of indie rock, especially 'Who Says', 'Green and the Blue', and 'Warm Shadows'. I also really like the way that this album has been produced.**"**
+_Christine Ott_: **"**Sunday morning, riding on an endless road to the countryside...[Fink](https://www.finkworld.co.uk/)'s lastest album has really great pieces of indie rock, especially 'Who Says', 'Green and the Blue', and 'Warm Shadows'. I also really like the way that this album has been produced.**"**
 
 
 # MailTape's selection
