@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
@@ -63,4 +63,3 @@ _Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds tha
 _Sanjay_: **"**Extending such environmental themes to our planet's rapidly deteriorating climate and biodiversity, this is a shadowy and ominous piece from Rebecca Foon's [Saltland](http://www.saltland.ca/) project. Music suitably filled with a complex and dense soundscape making sweet misery out of melody.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Christine Ott](http://www.christineott.fr/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
-
