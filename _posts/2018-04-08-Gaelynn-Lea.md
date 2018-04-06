@@ -17,7 +17,7 @@ track6_link: 'https://soundcloud.com/buffy-sainte-marie-1/now-that-the-buffalos-
 track7_link: 'https://soundcloud.com/world-circuit-records/3-yirimadjo'
 track1_title: Jerree Small – 60 Words For Water
 track1_color: bliss
-track2_title: 'The Decemberists – Angel, Won''t You Call Me?'
+track2_title: The Decemberists – Angel Won't You Call Me
 track2_color: trippy
 track3_title: Charlie Parr – Gospel Plow
 track3_color: vibrant
@@ -25,7 +25,7 @@ track4_title: Gaelynn Lea – Bound By A Thread
 track4_color: dreamy
 track5_title: Diane Cluck – Sara
 track5_color: dreamy
-track6_title: Buffy Sainte-Marie – Now That the Buffalo's Gone
+track6_title: Buffy Sainte-Marie – Now That the Buffalo Has Gone
 track6_color: bliss
 track7_title: Trio Da Kali – Yirimadjo
 track7_color: trippy
