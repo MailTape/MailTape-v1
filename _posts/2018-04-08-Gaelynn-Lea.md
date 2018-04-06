@@ -44,7 +44,7 @@ _Gaelynn Lea_: **"**The perfect Sunday morning song to me is upbeat but not too 
 ## The Decemberists – Angel, Won't You Call Me?
 _Gaelynn Lea_: **"**When I was in college I was a die-hard Decemberists fan—in fact, I attribute my love of lyrics to Colin Meloy's songwriting. This track is from their first-ever release called "5 songs" that came out in 2001. I just think it's such a light-hearted, easy-breezy song and I would love to wake up to it on a Sunday morning.**"**
 
-## Charliee Parr – Gospel Plow
+## Charlie Parr – Gospel Plow
 _Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene that I didn't really know existed while I was growing up. But I DID know about Charlie Parr. He's this amazing blues/roots/country artist from Duluth who has subsequently gone on to tour all over the world.   He is incredibly talented and also just one of the kindest, gentlest people you'll ever meet. This is one of his more upbeat songs and the gospel vibe makes it a good song to wake up to on a Sunday morning!**"**
 
 
