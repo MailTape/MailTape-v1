@@ -50,16 +50,16 @@ _Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene t
 
 # MailTape's selection
 
-## Christine Ott – Szczecin
+## Gaelynn Lea – Bound By A Thread
 _Sanjay_: **"**'Szczecin' is taken from Christine Ott's 2016 solo album, [Only Silence Remains](http://www.gizehrecords.com/gzh66-christine-ott-only-silence-remains.html). Like Szczecin, the album is a subtly-sketched melodic recording, with the arrangements given ample space as Christine performs on a variety of instruments throughout the record.**"**
 
-## Littleboat – ARC
+## Diane Cluck – Sara
 _Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based in Bristol, UK, working as a composer, performer and sound designer with [The Paper Cinema](http://www.thepapercinema.com/). This piece is a quartet for clarinet, violin, cello and piano inspired in part by Oliver Messiaen's Quatuor pour la fin du temps, and performed by the [Octandre Ensemble](https://www.octandre.com/).**"**
 
-## Mary Lattimore – The Quiet at Night
+## Buffy Sainte-Marie – Now That the Buffalo's Gone
 _Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds that bounce into each other and evaporate give this piece, by [Mary Lattimore](http://marylattimoreharpist.tumblr.com/), a feeling of being secluded deep in the forest. A beautifully meditative piece for this Sunday morning.**"**
 
-## Saltland – ICA
+## Trio Da Kali – Yirimadjo
 _Sanjay_: **"**Extending such environmental themes to our planet's rapidly deteriorating climate and biodiversity, this is a shadowy and ominous piece from Rebecca Foon's [Saltland](http://www.saltland.ca/) project. Music suitably filled with a complex and dense soundscape making sweet misery out of melody.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Christine Ott](http://www.christineott.fr/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
