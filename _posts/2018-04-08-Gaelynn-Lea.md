@@ -35,17 +35,17 @@ episode_URL: 'http://mailta.pe/307/gaelynn-lea/'
 <p>Toying with mood and tone with practiced ease in her own work, Christine has also been an integral part of Yann Tiersen's band and has collaborated with the likes of Radiohead, Tindersticks, Syd Matters, Daau, Raphelson, Noir Désir, Vénus, Oiseaux-Tempête and Foudre! over the past two decades.</p>
 
 
-# Christine Ott's selection
+# Gaelynn Lea's selection
 
 
-## Rachel Grimes – The Air in Time
-_Christine Ott_: **"**I discovered [Rachel](http://rachelgrimespiano.com/)'s work through Richard Knox from my most recent album's label, [Gizeh Records](http://www.gizehrecords.com/). He found that we had a close musical universe, I took it as a compliment! Quite a short piece, but full of energy with some Asian inspiration in the spring part. I hope I would cross the Atlantic to meet her one day. I really like her recent work with Loscil too.**"**
+## Jerree Small – 60 Words For Water
+_Gaelynn Lea_: **"**The perfect Sunday morning song to me is upbeat but not too rocking, and also not too sappy. It should leave you feeling calm, happy, refreshed and with the desire to press "repeat"... 60 Words for Water is all of these things to me. Jerree Small is a musician from my hometown of Duluth, Minnesota, and I absolutely love her songwriting and her vocals... I hope she keeps making music forever.**"**
 
-## David Lang by Bang on a Can – Cheating, Lying, Stealing
-_Christine Ott_: **"**Sunday morning, in contrast to the first piece...and at the same time, repetitive and evolving music which takes the time of a nice development. I love this piece of [David Lang](https://davidlangmusic.com/), especially this first movement by his [Bang on a Can](https://bangonacan.org/).The recording is great, as is the use and choice of special sounds of percussions. A surprising and original piece of music! The North American contemporary scene is really interesting to me.**"**
+## The Decemberists – Angel, Won't You Call Me?
+_Gaelynn Lea_: **"**When I was in college I was a die-hard Decemberists fan - in fact, I attribute my love of lyrics to Colin Meloy's songwriting. This track is from their first-ever release called "5 songs" that came out in 2001. I just think it's such a light-hearted, easy-breezy song and I would love to wake up to it on a Sunday morning.**"**
 
-## Fink – Looking Too Closely
-_Christine Ott_: **"**Sunday morning, riding on an endless road to the countryside...[Fink](https://www.finkworld.co.uk/)'s lastest album has really great pieces of indie rock, especially 'Who Says', 'Green and the Blue', and 'Warm Shadows'. I also really like the way that this album has been produced.**"**
+## Charliee Parr – Gospel Plow
+_Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene that I didn't really know existed while I was growing up. But I DID know about Charlie Parr. He's this amazing blues/roots/country artist from Duluth who has subsequently gone on to tour all over the world.   He is incredibly talented and also just one of the kindest, gentlest people you'll ever meet. This is one of his more upbeat songs and the gospel vibe makes it a good song to wake up to on a Sunday morning!**"**
 
 
 # MailTape's selection
