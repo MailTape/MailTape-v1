@@ -67,6 +67,6 @@ _Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s so
 _Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, justice, capitalism, freedom—by reminding the country (as well as Europe) of its historical and continuing colonisation of stolen land and its brutal treatment of Native Americans.**"**
 
 ## Trio Da Kali – Yirimadjo
-_Sanjay_: **"**And we finish this tape with three of Mali's finest musicians, performing as [Trio Da Kali](http://www.triodakali-kronosquartet.com/). Between the  balafon, ngoni and Hawa Kassé Mady's powerful voice, they switch from gently rippling passages to rapid-fire solos to pulsating bass lines that underpin much of the songs.**"**
+_Sanjay_: **"**And we finish this tape with three of Mali's finest musicians, performing collectively as [Trio Da Kali](http://www.triodakali-kronosquartet.com/). Between the  balafon, ngoni and Hawa Kassé Mady's powerful voice, they switch from gently rippling passages to rapid-fire solos to pulsating bass lines that underpin much of the songs.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Gaelynn Lea](https://violinscratches.com/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's illustration!</p>
