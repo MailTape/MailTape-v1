@@ -64,7 +64,7 @@ _Sanjay_: **"**This arrangement includes wonderfully layered textures of violin,
 _Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s soft, warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions with a folksy flair. A great reminder that sometimes less is more.**"**
 
 ## Buffy Sainte-Marie – Now That the Buffalo's Gone
-_Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, capitalism, freedom—by reminding the country of its historical and continuing colonisation of stolen land and its brutal treatment of Native Americans.**"**
+_Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, justice, capitalism, freedom—by reminding the country (as well as Europe) of its historical and continuing colonisation of stolen land and its brutal treatment of Native Americans.**"**
 
 ## Trio Da Kali – Yirimadjo
 _Sanjay_: **"**Extending such environmental themes to our planet's rapidly deteriorating climate and biodiversity, this is a shadowy and ominous piece from Rebecca Foon's [Saltland](http://www.saltland.ca/) project. Music suitably filled with a complex and dense soundscape making sweet misery out of melody.**"**
