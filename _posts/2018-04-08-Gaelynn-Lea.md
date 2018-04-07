@@ -30,6 +30,7 @@ track6_color: bliss
 track7_title: Trio Da Kali – Yirimadjo
 track7_color: trippy
 episode_URL: 'http://mailta.pe/307/gaelynn-lea/'
+fbPic: fbPic307.jpg
 guestPic: guestPic307.jpg
 ---
 <p id="introduction">Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.</p>
