@@ -34,7 +34,7 @@ fbPic: fbPic307.jpg
 guestPic: guestPic307.jpg
 musiColor: musiColor307.png
 ---
-<p id="introduction">This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday playlist in collaboration with MailTape.</p>
+<p id="introduction">This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.</p>
 <p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal.</p>
 
 
