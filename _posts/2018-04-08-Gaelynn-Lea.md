@@ -46,19 +46,19 @@ description: >-
 
 
 ## Jerree Small – 60 Words For Water
-_Gaelynn Lea_: **"**The perfect Sunday morning song to me is upbeat but not too rocking, and also not too sappy. It should leave you feeling calm, happy, refreshed and with the desire to press "repeat"... 60 Words for Water is all of these things to me. Jerree Small is a musician from my hometown of Duluth, Minnesota, and I absolutely love her songwriting and her vocals... I hope she keeps making music forever.**"**
+_Gaelynn Lea_: **"**The perfect Sunday morning song to me is upbeat but not too rocking, and also not too sappy. It should leave you feeling calm, happy, refreshed and with the desire to press "repeat"... 60 Words for Water is all of these things to me. [Jerree Small](http://www.jerree.com/JerreeIndexPage.htm) is a musician from my hometown of Duluth, Minnesota, and I absolutely love her songwriting and her vocals... I hope she keeps making music forever.**"**
 
 ## The Decemberists – Angel, Won't You Call Me?
-_Gaelynn Lea_: **"**When I was in college I was a die-hard Decemberists fan—in fact, I attribute my love of lyrics to Colin Meloy's songwriting. This track is from their first-ever release called "5 songs" that came out in 2001. I just think it's such a light-hearted, easy-breezy song and I would love to wake up to it on a Sunday morning.**"**
+_Gaelynn Lea_: **"**When I was in college I was a die-hard [Decemberists](http://www.decemberists.com/) fan—in fact, I attribute my love of lyrics to Colin Meloy's songwriting. This track is from their first-ever release called "5 songs" that came out in 2001. I just think it's such a light-hearted, easy-breezy song and I would love to wake up to it on a Sunday morning.**"**
 
 ## Charlie Parr – Gospel Plow
-_Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene that I didn't really know existed while I was growing up. But I DID know about Charlie Parr. He's this amazing blues/roots/country artist from Duluth who has subsequently gone on to tour all over the world.   He is incredibly talented and also just one of the kindest, gentlest people you'll ever meet. This is one of his more upbeat songs and the gospel vibe makes it a good song to wake up to on a Sunday morning!**"**
+_Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene that I didn't really know existed while I was growing up. But I DID know about [Charlie Parr](https://www.charlieparr.com/). He's this amazing blues/roots/country artist from Duluth who has subsequently gone on to tour all over the world.   He is incredibly talented and also just one of the kindest, gentlest people you'll ever meet. This is one of his more upbeat songs and the gospel vibe makes it a good song to wake up to on a Sunday morning!**"**
 
 
 # MailTape's selection
 
 ## Gaelynn Lea – Bound By A Thread
-_Sanjay_: **"**This arrangement includes wonderfully layered textures of violin, augmented by the spare but moving contributions of keyboard, guitar, drums and bass. Gaelynn's voice hovers above the music which builds slowly and carefully.**"**
+_Sanjay_: **"**This arrangement includes wonderfully layered textures of violin, augmented by the spare but moving contributions of keyboard, guitar, drums and bass. [Gaelynn](https://violinscratches.com/)'s voice hovers above the music which builds slowly and carefully.**"**
 
 ## Diane Cluck – Sara
 _Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s soft and warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions. A great reminder that sometimes less is more.**"**
