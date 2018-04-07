@@ -33,6 +33,10 @@ episode_URL: 'http://mailta.pe/307/gaelynn-lea/'
 fbPic: fbPic307.jpg
 guestPic: guestPic307.jpg
 musiColor: musiColor307.png
+description: >-
+  This morning we are delighted to welcome Duluth-based violinist, Gaelynn Lea.
+  She chooses an easy breezy Sunday morning playlist in collaboration with
+  MailTape.
 ---
 <p id="introduction">This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.</p>
 <p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal.</p>
@@ -57,7 +61,7 @@ _Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene t
 _Sanjay_: **"**This arrangement includes wonderfully layered textures of violin, augmented by the spare but moving contributions of keyboard, guitar, drums and bass. Gaelynn's voice hovers above the music which builds slowly and carefully.**"**
 
 ## Diane Cluck – Sara
-_Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based in Bristol, UK, working as a composer, performer and sound designer with [The Paper Cinema](http://www.thepapercinema.com/). This piece is a quartet for clarinet, violin, cello and piano inspired in part by Oliver Messiaen's Quatuor pour la fin du temps, and performed by the [Octandre Ensemble](https://www.octandre.com/).**"**
+_Sanjay_: **"**Set to an ominous template, Diane's soft, warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions with a folksy flair. A great reminder that sometimes less is more.**"**
 
 ## Buffy Sainte-Marie – Now That the Buffalo's Gone
 _Sanjay_: **"**Subtle and stray harp plucks like gentle accretions of sounds that bounce into each other and evaporate give this piece, by [Mary Lattimore](http://marylattimoreharpist.tumblr.com/), a feeling of being secluded deep in the forest. A beautifully meditative piece for this Sunday morning.**"**
