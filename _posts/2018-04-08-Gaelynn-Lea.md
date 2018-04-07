@@ -30,6 +30,7 @@ track6_color: bliss
 track7_title: Trio Da Kali – Yirimadjo
 track7_color: trippy
 episode_URL: 'http://mailta.pe/307/gaelynn-lea/'
+guestPic: guestPic307.jpg
 ---
 <p id="introduction">Based in Strasbourg and only one of a tiny handful of performers on the ondes Martenot, this Sunday morning we welcome [Christine Ott](http://www.christineott.fr/) to collaborate with us on MailTape.</p>
 <p>Toying with mood and tone with practiced ease in her own work, Christine has also been an integral part of Yann Tiersen's band and has collaborated with the likes of Radiohead, Tindersticks, Syd Matters, Daau, Raphelson, Noir Désir, Vénus, Oiseaux-Tempête and Foudre! over the past two decades.</p>
