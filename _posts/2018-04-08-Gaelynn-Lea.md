@@ -39,7 +39,7 @@ description: >-
   MailTape.
 ---
 <p id="introduction">This morning we are delighted to welcome Duluth-based violinist, [Gaelynn Lea](https://violinscratches.com/). She chooses an easy breezy Sunday morning playlist in collaboration with MailTape.</p>
-<p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal.</p>
+<p>She plays a mix of traditional and original tunes on her violin, which is layered using a live-looping pedal. And if that wasn't enough, she's a spellbinding singer with a real knack for the lyric and an uncanny understanding of how to conjure a mood.</p>
 
 
 # Gaelynn Lea's selection
