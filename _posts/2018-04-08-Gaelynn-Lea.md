@@ -54,7 +54,7 @@ _Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene t
 # MailTape's selection
 
 ## Gaelynn Lea – Bound By A Thread
-_Sanjay_: **"**'Szczecin' is taken from Christine Ott's 2016 solo album, [Only Silence Remains](http://www.gizehrecords.com/gzh66-christine-ott-only-silence-remains.html). Like Szczecin, the album is a subtly-sketched melodic recording, with the arrangements given ample space as Christine performs on a variety of instruments throughout the record.**"**
+_Sanjay_: **"**This arrangement includes wonderfully layered textures of violin, augmented by the spare but moving contributions of keyboard, guitar, drums and bass. Gaelynn's voice hovers above the music which builds slowly and carefully.**"**
 
 ## Diane Cluck – Sara
 _Sanjay_: **"**[Chris](http://chrislittleboat.tumblr.com/) is a musician based in Bristol, UK, working as a composer, performer and sound designer with [The Paper Cinema](http://www.thepapercinema.com/). This piece is a quartet for clarinet, violin, cello and piano inspired in part by Oliver Messiaen's Quatuor pour la fin du temps, and performed by the [Octandre Ensemble](https://www.octandre.com/).**"**
