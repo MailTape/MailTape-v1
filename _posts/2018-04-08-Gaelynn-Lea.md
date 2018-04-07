@@ -61,7 +61,7 @@ _Gaelynn Lea_: **"**My hometown has a small but incredibly vibrant music scene t
 _Sanjay_: **"**This arrangement includes wonderfully layered textures of violin, augmented by the spare but moving contributions of keyboard, guitar, drums and bass. Gaelynn's voice hovers above the music which builds slowly and carefully.**"**
 
 ## Diane Cluck – Sara
-_Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s soft and warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions with a folksy flair. A great reminder that sometimes less is more.**"**
+_Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s soft and warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions. A great reminder that sometimes less is more.**"**
 
 ## Buffy Sainte-Marie – Now That the Buffalo's Gone
 _Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, justice, capitalism, freedom—by reminding the country (as well as Europe) of its historical and continuing colonisation of stolen land and its brutal treatment of Native Americans.**"**
