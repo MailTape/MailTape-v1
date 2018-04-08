@@ -64,7 +64,7 @@ _Sanjay_: **"**This arrangement includes wonderfully layered textures of violin,
 _Sanjay_: **"**Set to an ominous template, [Diane](http://dianecluck.info/)'s soft and warbling voice sits alongside acoustic guitars that circle minor chords and pentatonic progressions. A great reminder that sometimes less is more.**"**
 
 ## Buffy Sainte-Marie – Now That The Buffalo's Gone
-_Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, justice, capitalism, freedom—by reminding the country (as well as Europe) of its historical and continuing colonisation of stolen land and its brutal treatment of Native Americans.**"**
+_Sanjay_: **"**A simple arrangement but a very important statement. This song, released in 1964, tears at the heart of the American dream—opportunity, justice, capitalism, freedom—by reminding the country (as well as Europe) of its historical and continuing colonisation of stolen land and its brutal treatment of the indigenous peoples of the Americas.**"**
 
 ## Trio Da Kali – Yirimadjo
 _Sanjay_: **"**And we finish this tape with three of Mali's finest musicians, performing collectively as [Trio Da Kali](http://www.triodakali-kronosquartet.com/). Between the  balafon, ngoni and Hawa Kassé Mady's powerful voice, they switch from gently rippling passages to rapid-fire solos to pulsating bass lines that underpin much of the songs.**"**
