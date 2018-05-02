@@ -25,7 +25,7 @@ track4_title: Collocutor – Archaic Morning
 track4_color: vibrant
 track5_title: Maya Youssef – The Sea
 track5_color: dreamy
-track6_title: Samyo & Tarang – Moods Of Meditation
+track6_title: SAMYO & Tarang – Moods Of Meditation
 track6_color: dreamy
 track7_title: Cecil Taylor – African Violets
 track7_color: trippy
@@ -56,7 +56,7 @@ _Sanjay_: **"**There's a simmering storm beneath the acoustic strums of this tra
 ## Maya Youssef – The Sea
 _Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill](http://blog.nutriot.com/tag/kieron-ifill) combine to provide a two-step bedrock for delicate strings to glide over, sitting alongside an infectious and restless b-line with just enough groove for a Sunday morning.**"**
 
-## Samyo & Tarang – Moods of Meditation
+## SAMYO & Tarang – Moods of Meditation
 _Sanjay_: **"**Lull yourself into a hazy dream this morning with [Nabihah Iqbal](https://nabihahiqbal.bandcamp.com/)'s pared-back track, Eden Piece. All wandering and lilting piano lines, booming kicks and breathy vocals.**"**
 
 ## Cecil Taylor – African Violets
