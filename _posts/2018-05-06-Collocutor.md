@@ -25,7 +25,7 @@ track4_title: Collocutor – Archaic Morning
 track4_color: vibrant
 track5_title: Maya Youssef – The Sea
 track5_color: dreamy
-track6_title: Rishii Chowdhury and Roopa Panesar – Birdsong and Music Composition
+track6_title: Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
 track6_color: dreamy
 track7_title: Cecil Taylor – African Violets
 track7_color: trippy
