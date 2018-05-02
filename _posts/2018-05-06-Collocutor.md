@@ -25,7 +25,9 @@ track4_title: Collocutor – Archaic Morning
 track4_color: vibrant
 track5_title: Maya Youssef – The Sea
 track5_color: dreamy
-track6_title: Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
+track6_title: >-
+  Lucy Stevens, Rishii Chowdhury & Roopa Panesar – Birdsong and Music
+  Composition
 track6_color: dreamy
 track7_title: Cecil Taylor – African Violets
 track7_color: trippy
@@ -56,7 +58,7 @@ _Sanjay_: **"**There's a simmering storm beneath the acoustic strums of this tra
 ## Maya Youssef – The Sea
 _Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill](http://blog.nutriot.com/tag/kieron-ifill) combine to provide a two-step bedrock for delicate strings to glide over, sitting alongside an infectious and restless b-line with just enough groove for a Sunday morning.**"**
 
-##  Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
+##  Lucy Stevens, Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
 _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborative project inspired by birdsong between sound and visual artist [Lucy Stevens](https://lucystevens.co.uk/), tabla player [Rishii Chowdhury](https://twitter.com/tablarishii) and sitar player [Roopa Panesar](http://www.roopapanesar.com/). Recorded in Swithland Wood in Leicestershire, UK, they explore the sounds of bird vocalisations, including the variations in pitch, repetition and duration. The sounds of native birds have influenced the artists involved, by fusing field recordings, musical improvisation and drawing techniques. Check out more of the [Swithland Wood Recording Project](https://representingbirdsong.wordpress.com/).**"**
 
 ## Cecil Taylor – African Violets
