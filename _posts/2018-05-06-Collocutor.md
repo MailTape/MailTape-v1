@@ -32,6 +32,7 @@ track6_color: dreamy
 track7_title: Cecil Taylor Quartet – African Violets
 track7_color: trippy
 episode_URL: 'http://mailta.pe/311/collocutor/'
+track7_link: 'https://mailtapetracks.s3.amazonaws.com/311/track7.mp3'
 ---
 <p id="introduction">This wonderfully bright morning we are thrilled to welcome Brooklyn-based beatsmith, [jitwam.](https://www.facebook.com/jitwam/), to MailTape. His languid and soulful selections slowly evaporate the dew and drag the melodies out into the light.</p>
 <p>On his full-length debut, [ज़ितम सिहँ](https://cosmic-compositions.bandcamp.com/album/--2), Jitwam. deconstructs samples of folk and jazz guitar as they buzz and hiss alongside the warm reverie of vinyl drum samples.</p>
