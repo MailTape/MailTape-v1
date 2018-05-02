@@ -29,7 +29,7 @@ track6_title: >-
   Lucy Stevens, Rishii Chowdhury & Roopa Panesar – Birdsong and Music
   Composition
 track6_color: dreamy
-track7_title: Cecil Taylor – African Violets
+track7_title: Cecil Taylor Quartet – African Violets
 track7_color: trippy
 episode_URL: 'http://mailta.pe/311/collocutor/'
 ---
@@ -61,7 +61,7 @@ _Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill
 ##  Lucy Stevens, Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
 _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborative project inspired by birdsong between sound and visual artist [Lucy Stevens](https://lucystevens.co.uk/), tabla player [Rishii Chowdhury](https://twitter.com/tablarishii) and sitar player [Roopa Panesar](http://www.roopapanesar.com/). Recorded in Swithland Wood in Leicestershire, UK, they explore the sounds of bird vocalisations, including the variations in pitch, repetition and duration. The sounds of native birds have influenced the artists involved, by fusing field recordings, musical improvisation and drawing techniques. Check out more of the [Swithland Wood Recording Project](https://representingbirdsong.wordpress.com/).**"**
 
-## Cecil Taylor – African Violets
+## Cecil Taylor Quartet – African Violets
 _Sanjay_: **"**From a cavernous looping riff reveals [Yves Tumor](https://soundcloud.com/yvestumor/)’s voice, an anguished falsetto steeped in phantasmal echoes that sounds as if it’s simultaneously vanishing just as it’s appearing.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Jitwam.](https://www.facebook.com/jitwam/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
