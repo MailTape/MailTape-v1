@@ -56,7 +56,7 @@ _Sanjay_: **"**There's a simmering storm beneath the acoustic strums of this tra
 ## Maya Youssef – The Sea
 _Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill](http://blog.nutriot.com/tag/kieron-ifill) combine to provide a two-step bedrock for delicate strings to glide over, sitting alongside an infectious and restless b-line with just enough groove for a Sunday morning.**"**
 
-##  Rishii Chowdhury and Roopa Panesar – Birdsong and Music Composition
+##  Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
 _Sanjay_: **"**Lull yourself into a hazy dream this morning with [Nabihah Iqbal](https://nabihahiqbal.bandcamp.com/)'s pared-back track, Eden Piece. All wandering and lilting piano lines, booming kicks and breathy vocals.**"**
 
 ## Cecil Taylor – African Violets
