@@ -50,16 +50,16 @@ _Tamar Osborn_: **"**Hermeto Pascoal is one of those legendary musicians whose r
 
 # MailTape's selection
 
-## jitwam. – alone
+## Collocutor – Archaic Morning
 _Sanjay_: **"**There's a simmering storm beneath the acoustic strums of this track, coerced by generous helpings of reverb and musings on isolation.**"**
 
-## Henry Wu – Shahada
+## Maya Youssef – The Sea
 _Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill](http://blog.nutriot.com/tag/kieron-ifill) combine to provide a two-step bedrock for delicate strings to glide over, sitting alongside an infectious and restless b-line with just enough groove for a Sunday morning.**"**
 
-## Nabihah Iqbal – Eden Piece
+## Tarang – Moods of Meditation
 _Sanjay_: **"**Lull yourself into a hazy dream this morning with [Nabihah Iqbal](https://nabihahiqbal.bandcamp.com/)'s pared-back track, Eden Piece. All wandering and lilting piano lines, booming kicks and breathy vocals.**"**
 
-## Yves Tumor – The Feeling When You Walk Away
+## Cecil Taylor – African Violets
 _Sanjay_: **"**From a cavernous looping riff reveals [Yves Tumor](https://soundcloud.com/yvestumor/)’s voice, an anguished falsetto steeped in phantasmal echoes that sounds as if it’s simultaneously vanishing just as it’s appearing.**"**
 
 <p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Jitwam.](https://www.facebook.com/jitwam/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
