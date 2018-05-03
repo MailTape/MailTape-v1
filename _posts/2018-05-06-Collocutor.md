@@ -63,4 +63,4 @@ _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborat
 ## Cecil Taylor Quartet – African Violets
 _Sanjay_: **"**From a cavernous looping riff reveals [Yves Tumor](https://soundcloud.com/yvestumor/)’s voice, an anguished falsetto steeped in phantasmal echoes that sounds as if it’s simultaneously vanishing just as it’s appearing.**"**
 
-<p id="outroduction">That's all for this morning. Thanks for listening and much love and gratitude to [Jitwam.](https://www.facebook.com/jitwam/) for being our guest today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
+<p id="outroduction">That's all for this morning. As ever, thanks for listening and much love and gratitude to [Tamar Osborn](https://collocutor.uk/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
