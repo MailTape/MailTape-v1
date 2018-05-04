@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Sanjay Mistry
-illustrator: Anais Caura
+illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 category: '311'
 guest_name: Collocutor
