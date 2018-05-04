@@ -55,7 +55,7 @@ _Tamar Osborn_: **"**[Hermeto Pascoal](http://www.hermetopascoal.com.br/) is one
 _Sanjay_: **"**There's a simmering storm beneath the acoustic strums of this track, coerced by generous helpings of reverb and musings on isolation.**"**
 
 ## Maya Youssef – The Sea
-_Sanjay_: **"**[Henry Wu](http://www.smarturl.it/kw-thereturn) and [Kieron Ifill](http://blog.nutriot.com/tag/kieron-ifill) combine to provide a two-step bedrock for delicate strings to glide over, sitting alongside an infectious and restless b-line with just enough groove for a Sunday morning.**"**
+_Sanjay_: **"**I really like how [Maya Youssef](https://mayayoussef.com/) demonstrates the range of the qanun—a 78-stringed zither—on a “personal journey through the six years of war in Syria”. 'The Sea' is a plaintive closing track on 'Syrian Dreams', an album that constantly changes mood, from sorrow to hope, on compositions that range from the “Prayer for Peace” of the title track to 'The Seven Gates of Damascus', in which she pays tribute to her battered homeland.**"**
 
 ##  Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
 _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborative project inspired by birdsong between sound and visual artist [Lucy Stevens](https://lucystevens.co.uk/), tabla player [Rishii Chowdhury](https://twitter.com/tablarishii) and sitar player [Roopa Panesar](http://www.roopapanesar.com/). Recorded in Swithland Wood in Leicestershire, UK, they explore the sounds of bird vocalisations—including the variations in pitch, repetition and duration—by fusing field recordings, musical improvisation and drawing techniques. Check out more of the [Swithland Wood Recording Project](https://representingbirdsong.wordpress.com/).**"**
