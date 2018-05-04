@@ -52,7 +52,7 @@ _Tamar Osborn_: **"**[Hermeto Pascoal](http://www.hermetopascoal.com.br/) is one
 # MailTape's selection
 
 ## Collocutor – Archaic Morning
-_Sanjay_: **"**A relative oldie but a goodie from [Collocutor](https://collocutor.uk/)'s debut album, 'Instead'. This track is an excellent seven and half minutes of modern modal jazz, pairing flute, trumpet and tenor sax to create a track that combines a thick groove with a rich melody.**"**
+_Sanjay_: **"**A relative oldie but a goodie from [Collocutor](https://collocutor.uk/)'s debut album, 'Instead'. This opening track is an excellent seven and half minutes of modern modal jazz, pairing flute, trumpet and tenor sax to create a track that combines a thick groove with a rich melody.**"**
 
 ## Maya Youssef – The Sea
 _Sanjay_: **"**I really like how [Maya Youssef](https://mayayoussef.com/) demonstrates the range of the qanun—a 78-stringed zither—on a “personal journey through the six years of war in Syria”. 'The Sea' is a plaintive closing track on 'Syrian Dreams'—a beautifully-produced album that constantly changes mood, from sorrow to hope, on compositions that range from the 'Prayer for Peace' of the title track to 'The Seven Gates of Damascus', in which she pays tribute to her battered homeland.**"**
