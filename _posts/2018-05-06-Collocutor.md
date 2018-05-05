@@ -31,6 +31,7 @@ track7_title: Cecil Taylor Quartet – African Violets
 track7_color: trippy
 episode_URL: 'http://mailta.pe/311/collocutor/'
 track7_link: 'https://mailtapetracks.s3.amazonaws.com/311/track7.mp3'
+guestPic: guestPic311.jpg
 ---
 <p id="introduction">This morning we welcome saxophonist and flautist, [Tamar Osborn](https://tamarosborn.com/), who leads the seven-piece horn-led collective, [Collocutor](https://collocutor.uk/), in the vanguard of London’s thriving music scene.</p>
 <p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.</p>
