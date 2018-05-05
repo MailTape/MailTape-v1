@@ -6,7 +6,7 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 category: '311'
-guest_name: Collocutor
+guest_name: Tamar Osbourn
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/nawarecordings/03-tawazon-i-balance'
 track2_link: 'https://soundcloud.com/adityaprakash/asato-ma-aditya-prakash'
@@ -63,4 +63,4 @@ _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborat
 ## Cecil Taylor Quartet – African Violets
 _Sanjay_: **"**The closing track this morning is a dedication to pianist Cecil Taylor who passed away on April 5th. Co-written by vibist Earl Griffith, 'African Violets' is a slow ballad that highlights both players' sense of melody. The piece unfolds fairly traditionally and Cecil Taylor's extremely unique harmonic style works nicely behind Earl Griffith's melody and his own soloing. In [the words of Alexander Hawkins in April's issue of The Wire](https://www.thewire.co.uk/in-writing/essays/alexander-hawkins-cecil-taylor), "Cecil Taylor always represents the playful and the unpredictable. His work can be by turns brutal and romantic. It has austerity, and yet is streaked through with glee and mischief. He is one of the masters at structuring an hour of music; but listening to his encores: did anyone ever structure the single minute with such devastating beauty?"**"**
 
-<p id="outroduction">That's all for this morning. As ever, thanks for listening and much love and gratitude to [Tamar Osborn](https://collocutor.uk/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
+<p id="outroduction">That's all for this morning. As ever, thanks for listening and much love and gratitude to [Tamar Osborn](https://tamarosborn.com/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
