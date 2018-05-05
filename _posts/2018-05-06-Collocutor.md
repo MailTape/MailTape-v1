@@ -6,7 +6,7 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
 category: '311'
-guest_name: Tamar Osbourn
+guest_name: Tamar Osborn
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/nawarecordings/03-tawazon-i-balance'
 track2_link: 'https://soundcloud.com/adityaprakash/asato-ma-aditya-prakash'
