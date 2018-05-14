@@ -37,17 +37,18 @@ episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 <p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.</p>
 
 
-# Collocutor's selection
+# Eric Chenaux's selection
 
 
-## Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن
-_Tamar Osborn_: **"**I’m not very good at mornings so this track is one for easing into the day, starting gently and building in energy as it goes. I can’t remember exactly how I came across [Khyam Allami](http://www.khyamallami.com/site/), but it was probably while searching for oud artists after listening to [Le Trio Joubran](http://www.letriojoubran.com/) and visiting Damascus back in late 2010. I love the timbre of the instrument, and the micro-tonal inflections in his playing — this solo track really allows you to immerse yourself in it. And the idea of ‘Balance’ seems like a good place to start the day from...**"**
+## Martin Arnold – Stain Ballad
+_Eric Chenaux_: **"**Martin Arnold makes some the best music of the 20th and 21st century and  
+I could have chosen any number of his pieces but the memory of hearing the premier of Stain Ballad in London, played by Apartment House Ensemble, was one of the latest reverous epiphanies I have had listening to Martin's music. **"**
 
-## Aditya Prakash Ensemble – Untruth to Truth
-_Tamar Osborn_: **"**[Aditya](http://adityaprakashmusic.com/) is one of my bandmates in the choreographer/dancer Akram Khan’s current production ‘Xenos’. He comes from the South Indian classical (Carnatic) tradition, but has a wide range of influences and explores the paths between them in his own projects, something which resonates with me as a composer. He has a great voice, and for me this track brings together different traditions naturally and with ease.**"**
+## Allison Cameron – Tree Ferns (Live Performance by Wiek Hijmans)
+_Eric Chenaux_: **"**Allison Cameron musics  for ensembles are uncanny, wild and beautiful but I am choosing this strange bird for solo guitar as she has an singular knack for writing for solo instruments.**"**
 
-## Hermeto Pascoal & Grupo Vice Versa – Dança Do Paje 
-_Tamar Osborn_: **"**[Hermeto Pascoal](http://www.hermetopascoal.com.br/) is one of those legendary musicians whose reputation I know well but whose music I haven’t properly explored, so I jumped on this when it was released. It spoke immediately to my ongoing love of the late 60s and 70s, not just the music but the production aesthetic of the time. Atmospherically it takes me back to when a friend took me to see a beautiful gig by the artist Joyce at the Jazz Cafe years ago, and to when I was playing in a band whose repertoire included Brazilian funk & soul by bands like Banda Black Rio, experiences which lead to me delving in to the sonic world of 60s & 70s Brazilian music. The opening section of this track is like the sun coming up, and the groove that kicks in is life affirming—complete with what sounds like a bass flute solo, not something you hear very often!**"**
+## Linda Catlin Smith – Moi Qui Tremblais
+_Eric Chenaux_: **"**I have been listening to Linda's music all winter, especially two recent CD's published by Another Timbre. Moi Qui Tremblais plays (maybe trembles) so strangely in the margins between the waking and dreaming world. Sweet listening.**"**
 
 
 # MailTape's selection
