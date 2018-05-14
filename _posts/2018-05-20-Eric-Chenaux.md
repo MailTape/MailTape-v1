@@ -41,7 +41,7 @@ episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 
 
 ## Martin Arnold – Stain Ballad
-_Eric Chenaux_: **"**Martin Arnold makes some the best music of the 20th and 21st century and I could have chosen any number of his pieces but the memory of hearing the premier of Stain Ballad in London, played by [Apartment House Ensemble](http://www.apartmenthouse.co.uk/), was one of the latest reverous epiphanies I have had listening to Martin's music. **"**
+_Eric Chenaux_: **"**[Martin Arnold](https://soundcloud.com/martinarnold) makes some the best music of the 20th and 21st century and I could have chosen any number of his pieces but the memory of hearing the premier of Stain Ballad in London, played by [Apartment House Ensemble](http://www.apartmenthouse.co.uk/), was one of the latest reverous epiphanies I have had listening to Martin's music. **"**
 
 ## Allison Cameron – Tree Ferns (Live Performance by Wiek Hijmans)
 _Eric Chenaux_: **"**[Allison Cameron](http://allisoncameron.com/) musics  for ensembles are uncanny, wild and beautiful but I am choosing this strange bird for solo guitar as she has a singular knack for writing for solo instruments.**"**
