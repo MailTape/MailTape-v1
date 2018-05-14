@@ -41,13 +41,13 @@ episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 
 
 ## Martin Arnold – Stain Ballad
-_Eric Chenaux_: **"**Martin Arnold makes some the best music of the 20th and 21st century and I could have chosen any number of his pieces but the memory of hearing the premier of Stain Ballad in London, played by Apartment House Ensemble, was one of the latest reverous epiphanies I have had listening to Martin's music. **"**
+_Eric Chenaux_: **"**Martin Arnold makes some the best music of the 20th and 21st century and I could have chosen any number of his pieces but the memory of hearing the premier of Stain Ballad in London, played by [Apartment House Ensemble](http://www.apartmenthouse.co.uk/), was one of the latest reverous epiphanies I have had listening to Martin's music. **"**
 
 ## Allison Cameron – Tree Ferns (Live Performance by Wiek Hijmans)
-_Eric Chenaux_: **"**Allison Cameron musics  for ensembles are uncanny, wild and beautiful but I am choosing this strange bird for solo guitar as she has an singular knack for writing for solo instruments.**"**
+_Eric Chenaux_: **"**[Allison Cameron](http://allisoncameron.com/) musics  for ensembles are uncanny, wild and beautiful but I am choosing this strange bird for solo guitar as she has a singular knack for writing for solo instruments.**"**
 
 ## Linda Catlin Smith – Moi Qui Tremblais
-_Eric Chenaux_: **"**I have been listening to Linda's music all winter, especially two recent CD's published by Another Timbre. Moi Qui Tremblais plays (maybe trembles) so strangely in the margins between the waking and dreaming world. Sweet listening.**"**
+_Eric Chenaux_: **"**I have been listening to [Linda](http://www.catlinsmith.com/)'s music all winter, especially two recent CDs published by [Another Timbre](http://www.anothertimbre.com/index.html). Moi Qui Tremblais plays (maybe trembles) so strangely in the margins between the waking and dreaming world. Sweet listening.**"**
 
 
 # MailTape's selection
