@@ -53,16 +53,16 @@ _Eric Chenaux_: **"**I have been listening to Linda's music all winter, especial
 
 # MailTape's selection
 
-## Collocutor – Archaic Morning
+## Eric Chenaux – There's Our Love
 _Sanjay_: **"**A relative oldie but a goodie from [Collocutor](https://collocutor.uk/)'s debut album, 'Instead'. This opening track is an excellent seven and half minutes of modern modal jazz, pairing flute, trumpet and tenor sax to create a track that combines a thick groove with a rich melody.**"**
 
-## Maya Youssef – The Sea
+## Tashi Dorji – Karma Lata
 _Sanjay_: **"**I really like how [Maya Youssef](https://mayayoussef.com/) demonstrates the range of the qanun—a 78-stringed zither—on a “personal journey through the six years of war in Syria”. 'The Sea' is a plaintive closing track on 'Syrian Dreams'—a beautifully-produced album that constantly changes mood, from sorrow to hope, on compositions that range from the 'Prayer for Peace' of the title track to 'The Seven Gates of Damascus', in which she pays tribute to her battered homeland.**"**
 
-##  Rishii Chowdhury & Roopa Panesar – Birdsong and Music Composition
+##  Marisa Anderson – Into The Light
 _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborative project inspired by birdsong between sound and visual artist [Lucy Stevens](https://lucystevens.co.uk/), tabla player [Rishii Chowdhury](https://twitter.com/tablarishii) and sitar player [Roopa Panesar](http://www.roopapanesar.com/). Recorded in Swithland Wood in Leicestershire, UK, they explore the sounds of bird vocalisations—including the variations in pitch, repetition and duration—by fusing field recordings, musical improvisation and drawing techniques. Check out more of the [Swithland Wood Recording Project](https://representingbirdsong.wordpress.com/).**"**
 
-## Cecil Taylor Quartet – African Violets
+## Cara Stacey & Shh..Art Ensemble – Come Near Me
 _Sanjay_: **"**The closing track this morning is a dedication to pianist Cecil Taylor who passed away on April 5th. Co-written by vibist Earl Griffith, 'African Violets' is a slow ballad that highlights both players' sense of melody. The piece unfolds fairly traditionally and Cecil Taylor's extremely unique harmonic style works nicely behind Earl Griffith's melody and his own soloing. In [the words of Alexander Hawkins in April's issue of The Wire](https://www.thewire.co.uk/in-writing/essays/alexander-hawkins-cecil-taylor), "Cecil Taylor always represents the playful and the unpredictable. His work can be by turns brutal and romantic. It has austerity, and yet is streaked through with glee and mischief. He is one of the masters at structuring an hour of music; but listening to his encores: did anyone ever structure the single minute with such devastating beauty?"**"**
 
 <p id="outroduction">That's all for this morning. As ever, thanks for listening and much love and gratitude to [Tamar Osborn](https://tamarosborn.com/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
