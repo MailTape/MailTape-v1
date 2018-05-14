@@ -18,7 +18,7 @@ track6_link: 'https://soundcloud.com/melodie64/marisa-anderson-into-the-light'
 track7_link: >-
   https://soundcloud.com/carastacey/come-near-me-arr-for-piano-trio-ghoetpoet-massive-attack
 track1_title: Martin Arnold – Stain Ballad
-track1_color: dreamy
+track1_color: trippy
 track2_title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
 track2_color: bliss
 track3_title: Linda Catlin Smith – Moi Qui Tremblais
@@ -29,7 +29,7 @@ track5_title: Tashi Dorji – Karma Lata
 track5_color: trippy
 track6_title: Marisa Anderson – Into The Light
 track6_color: bliss
-track7_title: Cara Stacey – Come Near Me
+track7_title: Cara Stacey & Shh..Art Ensemble – Come Near Me
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 ---
