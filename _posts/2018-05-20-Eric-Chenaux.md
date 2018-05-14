@@ -19,7 +19,7 @@ track7_link: >-
   https://soundcloud.com/carastacey/come-near-me-arr-for-piano-trio-ghoetpoet-massive-attack
 track1_title: Martin Arnold – Stain Ballad
 track1_color: dreamy
-track2_title: Allison Cameron – Tree Ferns (Live performance by Wiek HIjmans)
+track2_title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
 track2_color: bliss
 track3_title: Linda Catlin Smith – Moi Qui Tremblais
 track3_color: dreamy
