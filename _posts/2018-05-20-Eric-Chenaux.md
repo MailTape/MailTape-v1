@@ -56,7 +56,7 @@ _Eric Chenaux_: **"**I have been listening to [Linda](http://www.catlinsmith.com
 _Sanjay_: **"**A relative oldie but a goodie from [Collocutor](https://collocutor.uk/)'s debut album, 'Instead'. This opening track is an excellent seven and half minutes of modern modal jazz, pairing flute, trumpet and tenor sax to create a track that combines a thick groove with a rich melody.**"**
 
 ## Tashi Dorji – Karma Lata
-_Sanjay_: **"**Tashi Dorji's music is at once frenetic and tranquil, but it's the tranquil I'm concentrating on with this track from the 2015 split LP with Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
+_Sanjay_: **"**Tashi Dorji's music is at once frenetic and tranquil, but it's the latter I'm concentrating on with this track from the 2015 split LP with Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
 
 ##  Marisa Anderson – Into The Light
 _Sanjay_: **"**This is a composition from 'Representing Birdsong'—a collaborative project inspired by birdsong between sound and visual artist [Lucy Stevens](https://lucystevens.co.uk/), tabla player [Rishii Chowdhury](https://twitter.com/tablarishii) and sitar player [Roopa Panesar](http://www.roopapanesar.com/). Recorded in Swithland Wood in Leicestershire, UK, they explore the sounds of bird vocalisations—including the variations in pitch, repetition and duration—by fusing field recordings, musical improvisation and drawing techniques. Check out more of the [Swithland Wood Recording Project](https://representingbirdsong.wordpress.com/).**"**
