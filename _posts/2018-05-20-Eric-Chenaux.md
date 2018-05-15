@@ -53,7 +53,7 @@ _Eric Chenaux_: **"**I have been listening to [Linda](http://www.catlinsmith.com
 # MailTape's selection
 
 ## Eric Chenaux – There's Our Love
-_Sanjay_: **"**A relative oldie but a goodie from [Collocutor](https://collocutor.uk/)'s debut album, 'Instead'. This opening track is an excellent seven and half minutes of modern modal jazz, pairing flute, trumpet and tenor sax to create a track that combines a thick groove with a rich melody.**"**
+_Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs guided by soothing, buttery singing and bent, fried fretwork. Melody descends out into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
 
 ## Tashi Dorji – Karma Lata
 _Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil, but it's tranquility I'm concentrating on here with this track from the 2015 split LP with Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
