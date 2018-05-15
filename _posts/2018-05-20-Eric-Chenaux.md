@@ -59,7 +59,7 @@ _Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s 
 _Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil, but it's tranquility I'm concerned about this morning with this track from the 2015 split LP alongside Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
 
 ##  Marisa Anderson – Into The Light
-_Sanjay_: **"**Marisa Anderson's fourth album sounds like one long ride into the sunset. Otherworldy landscapes and deft playing aside, this title track is a dark reverie that sounds both foreboding and delicate, like wind rustling through a brush under a full moon.**"**
+_Sanjay_: **"**Marisa Anderson's fourth album sounds like one long ride into the sunset. Otherworldy landscapes and deft playing aside, this title track is a dark reverie that sounds both foreboding and delicate, like wind rustling through leaves under a full moon.**"**
 
 ## Cara Stacey & Shh..Art Ensemble – Come Near Me
 _Sanjay_: **"**Recorded live at Youngblood Gallery, Cape Town, on 13 September 2017, Shh..Art Ensemble...**"**
