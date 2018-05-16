@@ -53,7 +53,7 @@ _Eric Chenaux_: **"**I have been listening to [Linda](http://www.catlinsmith.com
 # MailTape's selection
 
 ## Eric Chenaux – There's Our Love
-_Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs filled with soothing, buttery singing and bent, fried fretwork. On this track, the melody dissolves into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
+_Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs filled with soothing, honeyed singing and bent, fried fretwork. On this track, the melody dissolves into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
 
 ## Tashi Dorji – Karma Lata
 _Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil. But it's tranquility I'm concerned about this morning with this track from the 2015 split LP alongside Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
