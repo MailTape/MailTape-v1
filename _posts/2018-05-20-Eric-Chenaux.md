@@ -33,7 +33,7 @@ track7_title: Cara Stacey & Shh..Art Ensemble – Come Near Me
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 ---
-<p id="introduction">This morning we welcome saxophonist and flautist, [Tamar Osborn](https://tamarosborn.com/), who leads the seven-piece horn-led collective, [Collocutor](https://collocutor.uk/), in the vanguard of London’s thriving music scene.</p>
+<p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, Eric Chenaux. He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>
 <p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.</p>
 
 
