@@ -34,7 +34,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 ---
 <p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>
-<p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs best makes sense as a single session, or maybe one segment of REM sleep</p>
+<p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs—love, moonlight, longing, initimacy, interdependence. For me, it best makes sense as a single session, or maybe one segment of REM sleep.</p>
 
 
 # Eric Chenaux's selection
