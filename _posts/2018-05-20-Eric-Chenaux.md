@@ -34,7 +34,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/313/eric-chenaux/'
 ---
 <p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>
-<p>Their compositions draw inspiration from the many genres encountered over the course of a varied career, ranging from jazz, afrobeat, Indian classical and Ethiopian roots to polyphonic choral music and minimalism—the link being primarily modal music with a transportive effect.</p>
+<p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs best makes sense as a single session, or maybe one segment of REM sleep</p>
 
 
 # Eric Chenaux's selection
@@ -53,7 +53,7 @@ _Eric Chenaux_: **"**I have been listening to [Linda](http://www.catlinsmith.com
 # MailTape's selection
 
 ## Eric Chenaux – There's Our Love
-_Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs filled with soothing, honeyed singing and bent, fried fretwork. On this track, the melody dissolves into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
+_Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs filled with soothing, honeyed singing and bent, frazzled fretwork. On this track, the melody dissolves into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
 
 ## Tashi Dorji – Karma Lata
 _Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil. But it's tranquility I'm concerned about this morning with this track from the 2015 split LP alongside Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
