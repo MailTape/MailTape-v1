@@ -37,6 +37,7 @@ description: >-
   Close your eyes and float away in a blissful auditory dream courtesy of
   Paris-based guitarist, Eric Chenaux. He provides us with a sweet Sunday
   morning glimpse into Canada’s contemporary music milieu.
+fbPic: fbPic313.jpg
 ---
 <p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>
 <p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs—love, moonlight, longing, intimacy, interdependence.</p>
