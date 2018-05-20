@@ -20,7 +20,7 @@ track2_title: Entracte Twist - Christine Young
 track2_color: rough
 track3_title: Joujou Jaguar - Into The Grave (Guitar Hero Version)
 track3_color: bliss
-track5_title: 'https://soundcloud.com/sister-polygon-records/thinningwav'
+track5_title: Snail Mail - Thinning
 track4_title: En Attendant Ana - Ré
 track4_color: dreamy
 track5_color: trippy
