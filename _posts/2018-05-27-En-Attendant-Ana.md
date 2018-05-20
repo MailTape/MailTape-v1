@@ -29,6 +29,7 @@ track6_color: vibrant
 track7_title: Le Villejuif Underground - Cold Dark Place in your Art
 track7_color: dreamy
 episode_URL: 'https://mailta.pe/314/en-attendant-ana'
+author: MailTape Crew
 ---
 <p id="introduction">This morning, we are delighted to welcome the garage pop band [En Attendant Ana](https://enattendantana.bandcamp.com) for a bright-eyed MailTape that might help you leave your bed.</p>
 <p>The Parisian quintet has just released their first album 'Lost and Found' in April. And while the RATP’s (transport company for Paris) lost property offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs of the LP are enough to place En Attendant Ana as a very promising band.</p>
