@@ -32,6 +32,7 @@ episode_URL: 'https://mailta.pe/314/en-attendant-ana'
 author: MailTape Crew
 description: "This morning, we are delighted to welcome the garage pop band En Attendant\_Ana for a bright-eyed MailTape that might help you leave your bed.  The Parisian quintet has just released their first album Lost and Found in April. And while the RATP’s (transport company for Paris) lost property offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs of the LP are enough to place\_En Attendant Ana as a very promising band."
 guestPic: guestPic314.jpg
+fbPic: fbPic314.jpg
 ---
 <p id="introduction">This morning, we are delighted to welcome the garage pop band [En Attendant Ana](https://enattendantana.bandcamp.com) for a bright-eyed MailTape that might help you leave your bed.</p>
 <p>The Parisian quintet has just released their first album 'Lost and Found' in April. And while the RATP’s (transport company for Paris) lost property offices handle over 500 000 items a year, the 13 powerful and faux-naïf songs of the LP are enough to place En Attendant Ana as a very promising band.</p>
