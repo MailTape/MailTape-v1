@@ -90,6 +90,8 @@ prose:
           label: "Who wrote the text?"
           placeholder: "Choose writer"
           options:
+            - name: "Charlotte"
+              value: "Charlotte"
             - name: "Daisy"
               value: "Daisy"
             - name: "Dimitri"
