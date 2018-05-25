@@ -54,7 +54,7 @@ _En Attendant Ana_: **"**Some of us used to organize gigs in Paris from 2014 To 
 # MailTape's selection
 
 ## En Attendant Ana - Ré
-_Charlotte_: **"**I wanted to start running but had no motivation. A friend made me a playlist that I could listen while I go jogging and where 'Ré'  was featured. I never went running but I’ve kept listening this song and then [En Attendant Ana](https://enattendantana.bandcamp.com/)’s whole album.**"**
+_Charlotte_: **"**I wanted to start running but had no motivation. A friend made me a playlist that I could listen while I go jogging and where 'Ré'  was featured. I never went but I’ve kept listening this song and then [En Attendant Ana](https://enattendantana.bandcamp.com/)’s whole album.**"**
 
 ## Snail Mail - Thinning
 _Charlotte_: **"**[Snail Mail](https://snailmailbaltimore.bandcamp.com/) is the project of the singer Lindsey Jordan that she started in 2015 when she was 16. She is the living proof that adolescence, besides acne and social dramas, can also produce good things such as this song.
