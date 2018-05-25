@@ -65,4 +65,4 @@ _Charlotte_: **"**I went to a concert where we were 8,5 in the audience (the guy
 ## Le Villejuif Underground - Cold Dark Place in your Art
 _Charlotte_: **"**Last I heard, three of [the band](https://www.facebook.com/levillejuifunderground/) members still live together in a house and one of them in a hut deep down its garden in Villejuif, a quiet suburb of Paris. Their singer, the Australian Nathan Roche is what we can commonly call a « fake slaker ». Before he moved to France a couple of years ago at 26, he had already released a dozen albums, published around twenty novels and poetry collections full of absurd and surrealistic stories. This song is a good way to introduce yourself to his labyrinthine work.**"**
 
-<p id="outroduction">That’s it! Thanks for listening and much gratitude to [En Attendant Ana](https://enattendantana.bandcamp.com/) for being our guest today, and to xxxxx for this episode’s illustration!</p>
+<p id="outroduction">That’s it! Thanks for listening and much gratitude to [En Attendant Ana](https://enattendantana.bandcamp.com/) for being our guest today, and to Camille Célestin for this episode’s illustration!</p>
