@@ -38,6 +38,8 @@ prose:
           label: "Who are you ?"
           placeholder: "Choose your name"
           options:
+            - name: "Charlotte"
+              value: "Charlotte"
             - name: "Dimitri"
               value: "Dimitri"
             - name: "Julien"
