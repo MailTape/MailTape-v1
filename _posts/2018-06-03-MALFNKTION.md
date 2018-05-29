@@ -55,7 +55,7 @@ _MALFNKTION_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity p
 # MailTape's selection
 
 ## MALFNKTION & Zoya – Be Free
-_Sanjay_: **"**Fresh from the presses, this latest track from [MALFNKTION](https://malfnktion.bandcamp.com/) is a collaboration with LA-based singer [Zoya](http://www.zoyamusicofficial.com/). Uplifting and melodic sounds for a Sunday morning 'hoping to induce positive energy around you and exhilarate your soul'.**"**
+_Sanjay_: **"**Fresh from the presses, this latest track from [MALFNKTION](https://malfnktion.bandcamp.com/) is a collaboration with LA-based singer [Zoya](http://www.zoyamusicofficial.com/). Uplifting and melodic sounds for this morning 'hoping to induce positive energy around you and exhilarate your soul'.**"**
 
 ## Yaeji – drink i'm sippin on
 _Sanjay_: **"**Rapping in Korean, the New York City and Seoul-based producer [Kathy Yaeji Lee](https://www.yaeji.nyc/) delivers a nonchalant and breathy vocal track that glides over propulsive drums instead of sinking right into them. A great example of an ocean-deep strain of house, hip-hop, and subversive pop with a fervent DIY aesthetic.**"**
