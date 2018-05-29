@@ -33,7 +33,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/315/malfnktion/'
 ---
 <p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.</p>
-<p>The project derives its sound from classical Indian music, old Indian film music and audio recordings taken from the streets of Mumbai to sounds collected in remote parts of the country. Mixing the sounds of India with hip-hop compositions has allowed Aditya's music to appeal to a wide variety of listeners, both within the country and abroad.</p>
+<p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music and audio recordings taken from the streets of Mumbai to sounds collected in remote parts of the country. His debut EP ‘Hindustani Rascal’, released in 2015, was a homage to the golden age of Indian cinema, and his second EP, ‘Vote for Worms’, was released in December 2016.</p>
 
 
 # MALFNKTION's selection
