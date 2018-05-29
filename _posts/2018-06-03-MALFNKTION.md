@@ -66,4 +66,4 @@ _Sanjay_: **"**[Dualist Inquiry](https://soundcloud.com/dualistinquiry) is the s
 ## Tigue – .......
 _Sanjay_: **"**Founded as a string quartet in 2014 in Cape Town, [Shh..Art Ensemble](http://shhart.com/) is now a flexible configuration of players including strings, vocals, electronics and a range of Southern African instruments. Originally recorded by Massive Attack and Ghostpoet, this composition—arranged by [previous MailTape guest Cara Stacey](https://www.mailta.pe/247/cara-stacey/)—sounds so relaxed yet casually surreal, as if lying awake beneath the stars.**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Eric Chenaux](http://ericchenaux.com/) for being our guest today, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [MALFNKTION](https://malfnktion.bandcamp.com/) for being our guest today, and to one of our newest members of the collective, [xxx](http://pierrejulienfieux.com/), for this episode's cool illustration!</p>
