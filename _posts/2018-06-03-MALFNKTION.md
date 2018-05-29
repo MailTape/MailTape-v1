@@ -58,7 +58,7 @@ _MALFNKTION_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity p
 _Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s new solo record—a collection of songs filled with soothing, honeyed singing and bent, frazzled fretwork. On this track, the melody dissolves into improvisation, leaving a haze of wah pedals, loose strums and electronics that float on the surface like glints of sunlight on a dewy morning.**"**
 
 ## Yaeji – drink i'm sippin on
-_Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil. But it's tranquility I'm concerned about this morning with this track from the 2015 split LP alongside Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
+_Sanjay_: **"**Rapping in Korean, the New York City and Seoul-based producer Kathy Yaeji Lee delivers a nonchalant and breathy vocal track that glides over propulsive drums instead of sinking right into them.**"**
 
 ##  Dualist Inquiry – Soleil
 _Sanjay_: **"**Dualist Inquiry is the solo electronic dance project of Sahej Bakshi, a producer, guitarist and composer from New Delhi.**"**
