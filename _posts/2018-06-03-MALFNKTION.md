@@ -61,7 +61,7 @@ _Sanjay_: **"**'Slowly Paradise' is [Eric Chenaux](http://ericchenaux.com/)’s 
 _Sanjay_: **"**[Tashi Dorji](https://tashidorji.com/)'s music is at once frenetic and tranquil. But it's tranquility I'm concerned about this morning with this track from the 2015 split LP alongside Marisa Anderson. It's a rolling and meditative five minutes that cycles its way around an abstract melody with clipped harmonics and stuttering fret work.**"**
 
 ##  Dualist Inquiry – Soleil
-_Sanjay_: **"**[Marisa Anderson](https://marisaandersonmusic.com/)'s fourth album sounds like one long ride into the sunset. Otherworldy landscapes and deft playing aside, this title track is a dark reverie that sounds both foreboding and delicate, like wind rustling through leaves under a full moon.**"**
+_Sanjay_: **"**Dualist Inquiry is the solo electronic dance project of Sahej Bakshi, a producer, guitarist and composer from New Delhi.**"**
 
 ## Tigue – .......
 _Sanjay_: **"**Founded as a string quartet in 2014 in Cape Town, [Shh..Art Ensemble](http://shhart.com/) is now a flexible configuration of players including strings, vocals, electronics and a range of Southern African instruments. Originally recorded by Massive Attack and Ghostpoet, this composition—arranged by [previous MailTape guest Cara Stacey](https://www.mailta.pe/247/cara-stacey/)—sounds so relaxed yet casually surreal, as if lying awake beneath the stars.**"**
