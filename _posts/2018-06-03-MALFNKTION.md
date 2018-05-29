@@ -58,7 +58,7 @@ _Aditya Alamuru_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivi
 _Sanjay_: **"**Fresh from the presses, this latest track from [MALFNKTION](https://malfnktion.bandcamp.com/) is a collaboration with LA-based singer [Zoya](http://www.zoyamusicofficial.com/). Uplifting and melodic sounds for this morning 'hoping to induce positive energy around you and exhilarate your soul'.**"**
 
 ## Yaeji – drink i'm sippin on
-_Sanjay_: **"**Rapping in Korean, the New York City and Seoul-based producer [Kathy Yaeji Lee](https://www.yaeji.nyc/) delivers a nonchalant and breathy vocal track that glides over propulsive drums instead of sinking right into them. A great example of an ocean-deep strain of house, hip-hop, and subversive pop with a fervent DIY aesthetic.**"**
+_Sanjay_: **"**Rapping in Korean, the New York City and Seoul-based producer [Kathy Yaeji Lee](https://www.yaeji.nyc/) delivers a nonchalant and breathy vocal track that glides over propulsive drums instead of sinking right into them. A great example of an ocean-deep strain of house, hip-hop, and subversive pop with a fervent DIY aesthetic. If you're in Paris today, Yaeji will be playing at the [We Love Green](https://www.welovegreen.fr/?lang=en) festival!**"**
 
 ##  Dualist Inquiry – Soleil
 _Sanjay_: **"**[Dualist Inquiry](https://soundcloud.com/dualistinquiry) is the solo electronic dance project of Sahej Bakshi, a producer, guitarist and composer based in New Delhi. It's a blissful blend of guitar and downtempo electro beats from his 2013 album, Doppelganger. The use of synth bass and conga drums transforms my surroundings into a pretty calm environment.**"**
