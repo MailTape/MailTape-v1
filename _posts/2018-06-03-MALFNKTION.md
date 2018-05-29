@@ -11,7 +11,7 @@ guest_color: trippy
 track1_link: 'https://mailtapetracks.s3.amazonaws.com/315/track1.mp3'
 track2_link: 'https://soundcloud.com/emancipator/09-bat-country-1'
 track3_link: >-
-  https://soundcloud.com/andersonpaak/the-dreamer-feat-talib-kweli-timan-family-choir
+  https://soundcloud.com/natasha-lobova/anderson-paak-malibu-16-the-dreamer-feat-talib-kweli-timan-family-choir
 track4_link: 'https://soundcloud.com/souletiquette/malfnktion-zoya-be-free'
 track5_link: 'https://soundcloud.com/godmodemusic/yaeji-drink-im-sippin-on-godmode'
 track6_link: 'https://soundcloud.com/dualistinquiry/soleil'
