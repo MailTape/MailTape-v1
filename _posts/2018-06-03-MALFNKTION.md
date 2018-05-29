@@ -32,8 +32,8 @@ track7_title: Tigue – .......
 track7_color: bliss
 episode_URL: 'http://mailta.pe/315/malfnktion/'
 ---
-<p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>
-<p>In his own music, melodies are teased out, textures repeat and the tempo often remains a leisurely stroll as he muses over motifs—love, moonlight, longing, intimacy, interdependence.</p>
+<p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bangalore-based musician, Aditya Alamuru.</p>
+<p>The project derives its sound from classical Indian music, old Indian film music and audio recordings taken from the streets of Mumbai to sounds collected in remote parts of the country. Mixing the sounds of India with hip-hop compositions has allowed Aditya's music to appeal to a wide variety of listeners, both within the country and abroad.</p>
 
 
 # MALFNKTION's selection
