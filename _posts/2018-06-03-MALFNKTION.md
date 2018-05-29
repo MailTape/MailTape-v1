@@ -43,13 +43,13 @@ description: >-
 
 
 ## Wild Belle – Love Like This
-_MALFNKTION_: **"**[Natalie Bergman](http://www.wildbelle.com/dreamland)'s breezy vocals and the uplifting melody and lyrics of this song make for a perfect morning listen. The entire album 'Isles' is great.**"**
+_Aditya Alamuru_: **"**[Natalie Bergman](http://www.wildbelle.com/dreamland)'s breezy vocals and the uplifting melody and lyrics of this song make for a perfect morning listen. The entire album 'Isles' is great.**"**
 
 ## Emancipator – Bat Country
-_MALFNKTION_: **"**Any song by [Emancipator](http://emancipatormusic.com/) is great for starting your day. It's my go-to-listen for downtempo vibes. This song is from his most recent album 'Baralku'. I picked this because I got to watch him play this album live when he came to India a few months back. Needless to say, it surpassed all my expectations. The entire album is a must-listen! **"**
+_Aditya Alamuru_: **"**Any song by [Emancipator](http://emancipatormusic.com/) is great for starting your day. It's my go-to-listen for downtempo vibes. This song is from his most recent album 'Baralku'. I picked this because I got to watch him play this album live when he came to India a few months back. Needless to say, it surpassed all my expectations. The entire album is a must-listen! **"**
 
 ## Anderson Paak — The Dreamer (feat. Talib Kweli & Timan Family Choir)
-_MALFNKTION_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
+_Aditya Alamuru_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
 
 
 # MailTape's selection
