@@ -20,7 +20,7 @@ track1_title: Wild Belle – Love Like This
 track1_color: bliss
 track2_title: Emancipator – Bat Country
 track2_color: dreamy
-track3_title: Anderson Paak — The Dreamer (feat. Talib Kweli & Timan Family Choir)
+track3_title: Anderson Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
 track3_color: vibrant
 track4_title: MALFNKTION & Zoya – Be Free
 track4_color: dreamy
