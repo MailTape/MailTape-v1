@@ -35,7 +35,7 @@ description: >-
   This morning we are excited to welcome MALFNKTION, the electronic music
   project of Bengaluru-based musician, Aditya Alamuru.
 ---
-<p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.</p>
+<p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician Aditya Alamuru.</p>
 <p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music and audio recordings taken from the streets of Mumbai to sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema, and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.</p>
 
 
@@ -43,13 +43,13 @@ description: >-
 
 
 ## Wild Belle – Love Like This
-_Aditya Alamuru_: **"**[Natalie Bergman](http://www.wildbelle.com/dreamland)'s breezy vocals and the uplifting melody and lyrics of this song make for a perfect morning listen. The entire album 'Isles' is great.**"**
+_MALFNKTION_: **"**[Natalie Bergman](http://www.wildbelle.com/dreamland)'s breezy vocals and the uplifting melody and lyrics of this song make for a perfect morning listen. The entire album 'Isles' is great.**"**
 
 ## Emancipator – Bat Country
-_Aditya Alamuru_: **"**Any song by [Emancipator](http://emancipatormusic.com/) is great for starting your day. It's my go-to-listen for downtempo vibes. This song is from his most recent album 'Baralku'. I picked this because I got to watch him play this album live when he came to India a few months back. Needless to say, it surpassed all my expectations. The entire album is a must-listen! **"**
+_MALFNKTION_: **"**Any song by [Emancipator](http://emancipatormusic.com/) is great for starting your day. It's my go-to-listen for downtempo vibes. This song is from his most recent album 'Baralku'. I picked this because I got to watch him play this album live when he came to India a few months back. Needless to say, it surpassed all my expectations. The entire album is a must-listen! **"**
 
 ## Anderson Paak — The Dreamer (feat. Talib Kweli & Timan Family Choir)
-_Aditya Alamuru_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
+_MALFNKTION_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
 
 
 # MailTape's selection
