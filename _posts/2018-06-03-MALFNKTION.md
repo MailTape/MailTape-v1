@@ -39,7 +39,7 @@ fbPic: fbPic315.jpg
 musiColor: musiColor315.png
 ---
 <p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.</p>
-<p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music, audio recordings taken from the streets of Mumbai and sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema, and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.</p>
+<p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music, audio recordings taken from the streets of Mumbai and sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.</p>
 
 
 # MALFNKTION's selection
@@ -69,4 +69,4 @@ _Sanjay_: **"**[Dualist Inquiry](https://soundcloud.com/dualistinquiry) is the s
 ## Tigue – .......
 _Sanjay_: **"**As well as utilising polyrhythmic patterns, Amy Garapic, Carson Moody and Matt Evans of [Tigue](http://tiguemusic.com/) continuously swap instrument duties, building their sound by incorporating melodicas, gongs, maracas, and tambourines. The trio patiently build small compositions into larger sounding creations to the point where the listener forgets they’re still only hearing three people performing simultaneously.**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [MALFNKTION](https://malfnktion.bandcamp.com/) for being our guest today, and to one of our newest members of the collective, [xxx](http://pierrejulienfieux.com/), for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [MALFNKTION](https://malfnktion.bandcamp.com/) for being our guest today, and to one of our newest members of the collective, [Anthony Dujardin](http://pierrejulienfieux.com/), for this episode's illustration!</p>
