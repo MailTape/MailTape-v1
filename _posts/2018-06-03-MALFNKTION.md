@@ -20,7 +20,7 @@ track1_title: Wild Belle – Love Like This
 track1_color: bliss
 track2_title: Emancipator – Bat Country
 track2_color: dreamy
-track3_title: Anderson Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
+track3_title: Anderson .Paak — The Dreamer (ft. Talib Kweli & Timan Family Choir)
 track3_color: vibrant
 track4_title: MALFNKTION & Zoya – Be Free
 track4_color: dreamy
@@ -51,8 +51,8 @@ _Aditya Alamuru_: **"**[Natalie Bergman](http://www.wildbelle.com/dreamland)'s b
 ## Emancipator – Bat Country
 _Aditya Alamuru_: **"**Any song by [Emancipator](http://emancipatormusic.com/) is great for starting your day. It's my go-to-listen for downtempo vibes. This song is from his most recent album 'Baralku'. I picked this because I got to watch him play this album live when he came to India a few months back. Needless to say, it surpassed all my expectations. The entire album is a must-listen! **"**
 
-## Anderson Paak — The Dreamer (feat. Talib Kweli & Timan Family Choir)
-_Aditya Alamuru_: **"**[Anderson Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
+## Anderson .Paak — The Dreamer (feat. Talib Kweli & Timan Family Choir)
+_Aditya Alamuru_: **"**[Anderson .Paak](http://www.andersonpaak.com/) is positivity personified. It was really hard to pick just one song of his. I think he says it best: 'This one's for all the little dreamers. And the ones who never gave a fuck!'**"**
 
 
 # MailTape's selection
