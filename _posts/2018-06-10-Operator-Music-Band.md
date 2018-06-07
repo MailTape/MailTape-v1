@@ -68,6 +68,6 @@ _Charlotte_: **"** My brother is ten years younger than me. He is still in his p
 _Charlotte_: **"** [Le Croquis de la Femme](https://wavinghandsrecords.bandcamp.com/album/le-croquis-de-la-femme) is from a 2 tracks EP of the same name. It’s a tale about a mistress and a murder, an excessive passion with two lovers full of madness. But since this song has no lyrics, you can imagine a totally different story. Personally, I have no idea why but when I listen to it, I simply see water calmly boiling in a blue saucepan. **"**
 
 ## [Abner Jay](https://littleaxerecords.bandcamp.com/album/abner-jay-true-story-of-abner-jay) - Saint James Infirmary Blues
-_Charlotte_: **"** Every time I hear Saint James Infirmary Blues I imagine myself old. I will have a turtle called Phalanx and finally know how to cook. I will probably also talk to my mailbox and have purple hair because I will have failed my color, but I'm fine with all of it. **"**
+_Charlotte_: **"** Every time I hear 'Saint James Infirmary Blues' I imagine myself old. I will have a turtle called Phalanx and finally know how to cook. I will probably also talk to my mailbox and have purple hair because I will have failed my color, but I'm fine with all of it. **"**
 
 <p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Operator Music Band](https://operatormusicband.bandcamp.com/) for being our guest this week, and to Camille Célestin for this episode’s illustration!</p>
