@@ -2,6 +2,42 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Charlotte
+illustrator: Camille Célestin
+writer: Charlotte
+category: '316'
+guest_name: Operator Music Band
+guest_color: rough
+track1_link: 'https://soundcloud.com/polar-patrol-publishing/here-we-go-magic-over-the'
+track2_link: 'https://soundcloud.com/dore/lift-him-up-thats-all-washington-phillips'
+track3_link: 'https://soundcloud.com/comeme/aye-aye-wila-wila-comeme'
+track5_link: 'https://soundcloud.com/vermelho/teenage-iceage-vermelho-edit '
+track4_link: 'https://soundcloud.com/newprofessor/creative-tube-bending'
+track6_link: 'https://soundcloud.com/eye22/le-croquis-de-la-femme'
+track1_color: dreamy
+track2_color: vibrant
+track3_color: dreamy
+track4_color: vibrant
+track5_color: bliss
+track6_color: bliss
+track7_color: rough
+track7_link: 'https://soundcloud.com/gulfofmexico/st-james-infirmary-blues-abner-jay'
+track1_title: Here We Go Magic - Over the Ocean
+track2_title: Washington Phillips - Lift Him Up That's All
+track3_title: Aye Aye - Wila Wila
+track4_title: Operator Music Band - Creative Tube Bending
+track5_title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
+track6_title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
+track7_title: Abner Jay - Saint James Infirmary Blues
+episode_URL: 'https://www.mailta.pe/316/operator-music-band/'
+description: >-
+  This morning, we are delighted to welcome Operator Music Band, an art-pop
+  quartet from New-York. Their music sounds like a tesseract, a nicely
+  intriguing and quite complex geometric figure from the fourth dimension that
+  can be very surrealistic at first sight. But then, among other things, you
+  will perceive a deep love for analogue synths, an interesting sense of humor,
+  a vocal and instrumental surgical precision, no matter if you suck at
+  mathematics.
 ---
 <p id="introduction">This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New-York.</p>
 <p>Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.</p>
