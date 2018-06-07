@@ -59,7 +59,7 @@ _Dara Hirsch_: **"** Most, if not all tracks, that Cómeme (Chilean house label)
 # MailTape's selection
 
 ## Operator Music Band - Creative Tube Bending
-_Charlotte_: **"** I discovered this band after hearing this track: there are so much things going on during 3’50! It's like being agreeably trapped between a disco night club and the CBGB in a 90's video game. **"**
+_Charlotte_: **"** I discovered [Operator Music Band](https://operatormusicband.bandcamp.com/) after hearing this track: there are so much things going on during 3’50! It's like being agreeably trapped between a disco night club and the CBGB in a 90's video game. **"**
 
 ## Suzy Andrews - Teenage Iceage (Vermelho Edit)
 _Charlotte_: **"** My brother is ten years younger than me. He is still in his phase when all the bands (and mostly all the people from his entourage) who are born before the 21st century are totally uncool. Last week, we were sending music to each other and I made him discover this track, which he liked quite a lot. Maybe because I didn’t tell him the song was initially released in 1982. **"**
