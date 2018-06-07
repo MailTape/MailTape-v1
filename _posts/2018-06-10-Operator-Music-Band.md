@@ -20,7 +20,7 @@ track3_color: dreamy
 track4_color: vibrant
 track5_color: bliss
 track6_color: bliss
-track7_color: rough
+track7_color: dreamy
 track7_link: 'https://soundcloud.com/gulfofmexico/st-james-infirmary-blues-abner-jay'
 track1_title: Here We Go Magic - Over the Ocean
 track2_title: Washington Phillips - Lift Him Up That's All
