@@ -27,9 +27,9 @@ track2_title: Washington Phillips - Lift Him Up That's All
 track3_title: Aye Aye - Wila Wila
 track4_title: Operator Music Band - Creative Tube Bending
 track5_title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
-track6_title: Suzy Andrews - Teenage Iceage (Vermelho Edit)
+track6_title: Eye - Le Croquis de la Femme
 track7_title: Abner Jay - Saint James Infirmary Blues
-episode_URL: 'http://www.mailta.pe/316/operator-music-band/'
+episode_URL: 'https://www.mailta.pe/316/operator-music-band/'
 description: >-
   This morning, we are delighted to welcome Operator Music Band, an art-pop
   quartet from New-York. Their music sounds like a tesseract, a nicely
