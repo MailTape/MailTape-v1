@@ -40,6 +40,7 @@ description: >-
   mathematics.
 guestPic: GuestPic316ok.jpg
 musiColor: musiColor316.png
+fbPic: fbPic316.png
 ---
 ![fbPic316.png]({{site.baseurl}}/img/fbPic316.png)
 <p id="introduction">This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New-York.</p>
