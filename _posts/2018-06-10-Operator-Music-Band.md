@@ -32,7 +32,7 @@ track7_title: Abner Jay - Saint James Infirmary Blues
 episode_URL: 'https://www.mailta.pe/316/operator-music-band/'
 description: >-
   This morning, we are delighted to welcome Operator Music Band, an art-pop
-  quartet from New-York. Their music sounds like a tesseract, a nicely
+  quartet from New York. Their music sounds like a tesseract, a nicely
   intriguing and quite complex geometric figure from the fourth dimension that
   can be very surrealistic at first sight. But then, among other things, you
   will perceive a deep love for analogue synths, an interesting sense of humor,
