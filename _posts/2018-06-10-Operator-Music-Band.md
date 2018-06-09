@@ -39,6 +39,7 @@ description: >-
   a vocal and instrumental surgical precision, no matter if you suck at
   mathematics.
 guestPic: GuestPic316ok.jpg
+musiColor: musiColor316.png
 ---
 ![musiColor316.png]({{site.baseurl}}/img/musiColor316.png)
 ![GuestPic316ok.jpg]({{site.baseurl}}/img/GuestPic316ok.jpg)
