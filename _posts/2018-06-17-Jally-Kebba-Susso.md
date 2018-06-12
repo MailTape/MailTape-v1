@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Anais Caura
 writer: Sanjay Mistry
@@ -63,4 +63,3 @@ _Sanjay_: **"**[Dualist Inquiry](https://soundcloud.com/dualistinquiry) is the s
 _Sanjay_: **"**As well as utilising polyrhythmic patterns, Amy Garapic, Carson Moody and Matt Evans of [Tigue](http://tiguemusic.com/) continuously swap instrument duties, building their sound by incorporating melodicas, gongs, maracas, and tambourines. The trio patiently build small compositions into larger sounding creations to the point where the listener forgets they’re still only hearing three people performing simultaneously.**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [MALFNKTION](https://malfnktion.bandcamp.com/) for being our guest today, and to one of our newest members of the collective, [Anthony Dujardin](https://www.instagram.com/fromthegarden/), for this episode's illustration!</p>
-
