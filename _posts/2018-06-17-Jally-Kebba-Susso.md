@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/317/jally-kebba-susso/'
 ---
 <p id="introduction">This morning we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>
-<p>Expanding the boundaries of kora traditions, Jally Kebba Susso blends West African music with jazz, funk and sounds from London’s multitudinous music scenes.</p>
+<p>Expanding the boundaries of kora traditions, Jally Kebba Susso blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!</p>
 
 
 # Jally Kebba Susso's selection
