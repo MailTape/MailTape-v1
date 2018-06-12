@@ -31,8 +31,8 @@ track7_title: Sona Jobarteh – Saya
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/317/jally-kebba-susso/'
 ---
-<p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.</p>
-<p>The project derives its sound from hip-hop compositions, classical Indian music, old Indian film music, audio recordings taken from the streets of Mumbai and sounds collected in remote parts of the country. His debut EP ‘[Hindustani Rascal](https://soundcloud.com/malfnktion/sets/hindustani-rascal-ep)’, released in 2015, was a homage to the golden age of Indian cinema and his second EP, ‘[Vote for Worms](https://soundcloud.com/malfnktion/sets/vote-for-worms)’, was released in December 2016.</p>
+<p id="introduction">This morning we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>
+<p>Expanding the boundaries of kora traditions, Jally Kebba Susso blends West African music with jazz, funk and sounds from London’s multitudinous music scenes.</p>
 
 
 # Jally Kebba Susso's selection
