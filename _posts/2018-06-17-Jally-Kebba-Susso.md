@@ -38,7 +38,7 @@ episode_URL: 'http://mailta.pe/317/jally-kebba-susso/'
 # Jally Kebba Susso's selection
 
 
-##  Ballaké Sissoko & Vincent Ségal – Chamber Music
+## Ballaké Sissoko & Vincent Ségal – Chamber Music
 _Jally Kebba Susso_: **"**This song is really evocative to me. It reminds me of growing up in Gambia. When the elders are sitting down at night time doing their sumuog, when they gather together to play music and have conversations. Depending on who was around you’d hear the balaphon and kora played. It’s a soothing song. Soothing and emotional.**"**
 
 ## Soriba Kouyaté – Kanakassi
