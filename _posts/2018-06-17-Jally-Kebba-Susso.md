@@ -57,7 +57,7 @@ _Sanjay_: **"**Fresh from the presses, this latest track from [MALFNKTION](https
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
 
 ##  Miriam Makeba – Liwawechi
-_Sanjay_: **"**[Dualist Inquiry](https://soundcloud.com/dualistinquiry) is the solo electronic dance project of Sahej Bakshi, a producer, guitarist and composer based in New Delhi. This track is a blissful blend of guitar and downtempo electro beats from his 2013 album, Doppelgänger. The use of synth bass and conga drums transforms my surroundings into a pretty calm environment.**"**
+_Sanjay_: **"**Writing about Miriam Makeba is a daunting task. **"**
 
 ## Sona Jobarteh – Saya
 _Sanjay_: **"**As well as utilising polyrhythmic patterns, Amy Garapic, Carson Moody and Matt Evans of [Tigue](http://tiguemusic.com/) continuously swap instrument duties, building their sound by incorporating melodicas, gongs, maracas, and tambourines. The trio patiently build small compositions into larger sounding creations to the point where the listener forgets they’re still only hearing three people performing simultaneously.**"**
