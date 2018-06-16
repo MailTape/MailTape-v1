@@ -66,6 +66,6 @@ _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebb
 _Sanjay_: **"**Writing about [Miriam Makeba](http://www.miriammakeba.co.za/) is a daunting task. And one I'm not really qualified to do. More generally, this track is taken from 'Homeland'—her first album recorded in South Africa since recording with the Manhattan Brothers in the late 1950s. Writing in 1989, Carol Cooper claimed that '[Miriam] sings with the smoky tones and delicate phrasing of Ella Fitzgerald, and when the occasion demands, she summons up the brassy showmanship of Ethel Merman and the intimate warmth of Frank Sinatra'.**"**
 
 ## Sona Jobarteh – Saya
-_Sanjay_: **"**This is a haunting track described as a song 'about loss and of the feeling you are left with and the pain one suffers'. If you're in London on 18th June, Sona will be performing the [Jazz Cafe](https://thejazzcafelondon.com/event/sona-jobarteh) in London!**"**
+_Sanjay_: **"**This is a haunting track described as a song 'about loss and of the feeling you are left with and the pain one suffers'. If you're in London on 18th June, Sona will be performing at the [Jazz Cafe](https://thejazzcafelondon.com/event/sona-jobarteh) in London!**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Jally Kebba Susso](http://jallykebbasusso.com/), and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
