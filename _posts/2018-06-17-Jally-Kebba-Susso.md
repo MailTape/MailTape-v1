@@ -30,6 +30,10 @@ track6_color: trippy
 track7_title: Sona Jobarteh – Saya
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/317/jally-kebba-susso/'
+guestPic: guestPic317.jpg
+description: >-
+  Today we are delighted to welcome kora player Jally Kebba Susso as he picks a
+  soothing suite of Sunday morning jams for MailTape.
 ---
 <p id="introduction">Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>
 <p>Expanding the boundaries of kora traditions, Jally blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!</p>
