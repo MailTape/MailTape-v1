@@ -34,8 +34,6 @@ guestPic: guestPic317.jpg
 description: >-
   Today we are delighted to welcome kora player Jally Kebba Susso as he picks a
   soothing suite of Sunday morning jams for MailTape.
-fbPic: fbPic317.jpg
-musiColor: musiColor317.png
 ---
 <p id="introduction">Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>
 <p>Expanding the boundaries of kora traditions, Jally blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!</p>
@@ -57,9 +55,7 @@ _Jally Kebba Susso_: **"**James Brown, man. The technicality of how he puts his 
 # MailTape's selection
 
 ## Jally Kebba Susso – Ajama
-_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.
-
- **"**
+_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.**"**
 
 ## Faith Mussa – Mdidi
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
