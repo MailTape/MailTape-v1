@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Sanjay Mistry
-illustrator: Anais Caura
+illustrator: Camille Célestin
 writer: Sanjay Mistry
 category: '317'
 guest_name: Jally Kebba Susso
@@ -66,4 +66,4 @@ _Sanjay_: **"**Writing about [Miriam Makeba](http://www.miriammakeba.co.za/) is 
 ## Sona Jobarteh – Saya
 _Sanjay_: **"**This is a haunting track described as a song 'about loss and of the feeling you are left with and the pain one suffers'. If you're in London on 18th June, Sona will be performing the [Jazz Cafe](https://thejazzcafelondon.com/event/sona-jobarteh) in London!**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Jally Kebba Susso](http://jallykebbasusso.com/), and to [Anaïs Caura](https://vimeo.com/anaismarthecaura) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Jally Kebba Susso](http://jallykebbasusso.com/), and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
