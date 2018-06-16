@@ -51,7 +51,9 @@ _Jally Kebba Susso_: **"**James Brown, man. The technicality of how he puts his 
 # MailTape's selection
 
 ## Jally Kebba Susso – Ajama
-_Sanjay_: **"**Fresh from the presses, this latest track from [MALFNKTION](https://malfnktion.bandcamp.com/) is a collaboration with LA-based singer, [Zoya](http://www.zoyamusicofficial.com/). Uplifting and melodic sounds for this morning 'hoping to induce positive energy around you and exhilarate your soul'.**"**
+_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.
+
+ **"**
 
 ## Faith Mussa – Mdidi
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
