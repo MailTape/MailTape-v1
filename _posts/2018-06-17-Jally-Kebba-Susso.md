@@ -57,7 +57,7 @@ _Jally Kebba Susso_: **"**James Brown, man. The technicality of how he puts his 
 # MailTape's selection
 
 ## Jally Kebba Susso – Ajama
-_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.**"**
+_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”. If you're in London, Jally will headlining the [Infinite Ear Live Series](https://www.facebook.com/events/472952969809853/?active_tab=about) at Bloc on 29th June and playing at the great [Shambala Festival](https://www.shambalafestival.org/) on 26th August!**"**
 
 ## Faith Mussa – Mdidi
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
