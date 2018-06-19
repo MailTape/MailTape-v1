@@ -11,7 +11,7 @@ guest_color: vibrant
 track1_link: 'https://soundcloud.com/besh0_0/mahraba-maleem-mahmoud-ghania-with-pharoah-sanders'
 track1_title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
 track1_color: bliss
-track2_link: 'https://mailtapetracks.s3.amazonaws.com/271/track2.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/271/track2.mp3'
 track2_title: Sun Ra - Sleeping Beauty
 track2_color: dreamy
 track3_link: 'https://soundcloud.com/ofob-jazzhead/johnny-dyani-witchdoctors-son-magwaza'

@@ -219,7 +219,7 @@ $(document).ready(
 
 					if (error) {
 						console.error("/!\\"+"Track:"+(i+1)+" "+" NOT FOUND ! You gotta fix this darling ;)");
-						$("#track"+(i+1)+"_button").prop("href", "https://s3-eu-west-1.amazonaws.com/mailtapetracks/missingTrack.mp3");
+						$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
 					}
 
 					else if (track.streamable == true) {

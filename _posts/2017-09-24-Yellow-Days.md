@@ -13,7 +13,7 @@ track3_link: 'https://soundcloud.com/madeinm/goodday'
 track4_link: 'https://soundcloud.com/yellow-days/hurt-in-love'
 track5_link: 'https://soundcloud.com/oliverpalfreyman/females'
 track6_link: 'https://soundcloud.com/burgerrecords/mattiel-count-your-blessings-1'
-track7_link: 'https://mailtapetracks.s3.amazonaws.com/279/track7.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/279/track7.mp3'
 track1_title: Run DMT - Romantic
 track1_color: trippy
 track2_title: Aldous RH - U and ME

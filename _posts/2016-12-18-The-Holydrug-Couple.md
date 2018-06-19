@@ -10,7 +10,7 @@ category: '239'
 track1_link: 'https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde'
 track2_link: 'https://soundcloud.com/arcocorintio/coronada'
 track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
-track5_link: 'https://mailtapetracks.s3.amazonaws.com/239/track5.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/239/track5.mp3'
 track3_title: Valesuchi - Golosynth
 track3_color: dreamy
 track1_title: Nicolas Godin - Widerstehe Doch Der Sünde

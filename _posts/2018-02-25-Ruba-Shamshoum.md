@@ -8,7 +8,7 @@ writer: Sanjay Mistry
 category: '301'
 guest_name: Ruba Shamshoum
 guest_color: bliss
-track1_link: 'https://mailtapetracks.s3.amazonaws.com/301/track1.mp3'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/301/track1.mp3'
 track2_link: 'https://soundcloud.com/dhortgram/esperanza-spalding-little-fly'
 track3_link: 'https://soundcloud.com/sweetyfaith/firouz'
 track4_link: 'https://soundcloud.com/ruba-raouf-shamshoum/ruba-shamshoum-in-the-depth'

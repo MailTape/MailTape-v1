@@ -8,7 +8,7 @@ writer: ImaCrea
 track7_link: 'https://soundcloud.com/jacquestransversal/jacques-tout-est-magnifique'
 track6_link: 'https://soundcloud.com/lakeyinspired/forever'
 track5_link: 'https://soundcloud.com/beatsbycarter/ride-slow-preview-lease-purchase-info-full-beat-pack-in-description'
-track4_link: 'https://mailtapetracks.s3.amazonaws.com/223/track4.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/223/track4.mp3'
 track4_title: Fatima Yamaha - Half Moon Rising
 track5_title: Carter Black - Ride Slow
 track7_title: Jacques - Tout Est Magnifique

@@ -16,7 +16,7 @@ category: "144"
 guest_name: Clément Bazin
 track1_link: "https://soundcloud.com/pm-riviere/dimlite-cant-get-used-to-those"
 track2_link: "https://soundcloud.com/dirggerner/flako-lonely-town-feat-dirg"
-track3_link: "https://mailtapetracks.s3.amazonaws.com/144/track3.mp3"
+track3_link: "https://mailtapesounds.s3.amazonaws.com/144/track3.mp3"
 track4_link: "https://soundcloud.com/withusrecords/1-come-to-this"
 track1_title: "Dimlite - Can't Get Used To Those"
 track2_title: "Flako - Lonely Town feat. Dirg Gerner"

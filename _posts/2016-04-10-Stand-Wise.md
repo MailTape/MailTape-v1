@@ -9,11 +9,11 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic212.jpg
 track1_link: "https://soundcloud.com/chillicious/recondite-robur"
-track2_link: "https://mailtapetracks.s3.amazonaws.com/212/track2.mp3"
+track2_link: "https://mailtapesounds.s3.amazonaws.com/212/track2.mp3"
 track3_link: "https://soundcloud.com/wearecolorado/undisclosed"
 track4_link: "https://soundcloud.com/animal-rec/stand-wise-otherside"
 track5_link: "https://soundcloud.com/davidaugust/the-acid-ra-david-august-remix"
-track6_link: "https://mailtapetracks.s3.amazonaws.com/212/track6.mp3"
+track6_link: "https://mailtapesounds.s3.amazonaws.com/212/track6.mp3"
 track7_link: "https://soundcloud.com/mixmag-1/download-ambassadeurs-willows-lullaby"
 track1_title: "Recondite - Robur"
 track1_color: dreamy

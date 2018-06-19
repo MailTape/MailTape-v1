@@ -8,7 +8,7 @@ writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/_type/heavy-water-id-rather-be-sleeping?in=_type/sets/grouper-dragging-a-dead-deer-up-a-hill'
-track2_link: 'https://mailtapetracks.s3.amazonaws.com/236/track2.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/236/track2.mp3'
 track3_link: 'https://soundcloud.com/blackest-ever-black/tropic-of-cancer-stop-suffering'
 track4_link: 'https://soundcloud.com/ergodos/immersia-i'
 track5_link: 'https://soundcloud.com/constellation-records/jason-sharp-a-boat-upon-its-blood-pt-1'

@@ -11,7 +11,7 @@ track4_link: 'https://soundcloud.com/offseason-records/vitamin-meathawk-feat-san
 track5_link: 'https://soundcloud.com/martinarnold/the-coo-coo-bird'
 track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'
 category: '254'
-track6_link: 'https://mailtapetracks.s3.amazonaws.com/254/track6.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/254/track6.mp3'
 guest_name: Fond of Tigers
 guest_color: dreamy
 track1_title: Califone - Sunday Noises
