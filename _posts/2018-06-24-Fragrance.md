@@ -2,6 +2,44 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Charlotte
+illustrator: Pierre-Julien Fieux
+writer: Charlotte
+category: '318'
+guest_name: Fragrance.
+guest_color: dreamy
+track1_link: 'https://soundcloud.com/hjordisbrittastrom/galatee-ne-sois-pas-triste'
+track2_link: 'https://soundcloud.com/lia_mice/saint-malo'
+track3_link: 'https://soundcloud.com/orchid-e-noire/mordore'
+track4_link: 'https://soundcloud.com/thisisfragrance/through-the-wall'
+track5_link: 'https://soundcloud.com/herveteckel/solid-space-destination-moon'
+track6_link: >-
+  https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description
+track7_link: 'https://soundcloud.com/nasa/sputnik-beep'
+track1_title: Galatée - Ne Sois Pas Triste
+track1_color: dreamy
+track2_title: Lia Mice - Saint Malo
+track2_color: dreamy
+track3_title: Orchidée Noire - Mordorée
+track3_color: dreamy
+track4_title: Fragrance. - Through the Wall
+track4_color: vibrant
+track5_title: Solid Space - Destination Moon
+track5_color: trippy
+track6_title: >-
+  https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description 
+track6_color: trippy
+track7_title: 'https://soundcloud.com/nasa/sputnik-beep'
+track7_color: trippy
+episode_URL: 'https://www.mailta.pe/318/fragrance/'
+description: >-
+  This morning we welcome Fragrance., Matthieu Roche’s solo project for a Sunday
+  morning between the coast of Saint Malo and somewhere in the infinite space. 
+  Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted
+  mainstream influences (he released an amazing cover of Gala’s Freed From
+  Desire) and lo-fi music, in the same way that his melancholic voice and
+  dancing beats are mixed: you never really know how you should feel when you
+  listen them.
 ---
 <p id="introduction">This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a Sunday morning between the coast of Saint Malo and somewhere in the infinite space.</p>
 
