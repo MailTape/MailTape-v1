@@ -26,8 +26,7 @@ track4_title: Fragrance. - Through the Wall
 track4_color: vibrant
 track5_title: Solid Space - Destination Moon
 track5_color: trippy
-track6_title: >-
-  https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description 
+track6_title: Baron Rétif & Concepción Perez - Blanchiment
 track6_color: trippy
 track7_title: 'https://soundcloud.com/nasa/sputnik-beep'
 track7_color: trippy
