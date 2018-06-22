@@ -10,7 +10,6 @@ published: false
 
 # Fragrance.'s selection
 
-
 ## Galatée - Ne Sois Pas Triste
 _Fragrance._: **"**I am currently obsessed with [Galatée](https://www.facebook.com/galateegalateegalatee/), I listen to their mini album, 'Sans Titre', on a loop. The band is Russian, but they sing most of the time in French, which gaves them an incredible charm and a mysterious poetry. The perfect time to enjoy this track is the moment rays of sunlight begin to shine through the curtains of a room.**"**
 
