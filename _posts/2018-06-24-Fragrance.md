@@ -29,7 +29,7 @@ track5_color: trippy
 track6_title: Baron Rétif & Concepción Perez - Blanchiment
 track6_color: trippy
 track7_title: 'https://soundcloud.com/nasa/sputnik-beep'
-track7_color: trippy
+track7_color: bliss
 episode_URL: 'https://www.mailta.pe/318/fragrance/'
 description: >-
   This morning we welcome Fragrance., Matthieu Roche’s solo project for a Sunday
