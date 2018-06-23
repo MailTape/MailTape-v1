@@ -28,7 +28,7 @@ track5_title: Solid Space - Destination Moon
 track5_color: bliss
 track6_title: Baron Rétif & Concepción Perez - Blanchiment
 track6_color: bliss
-track7_title: 'https://soundcloud.com/nasa/sputnik-beep'
+track7_title: Sputnik - Beep
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/318/fragrance/'
 description: >-
