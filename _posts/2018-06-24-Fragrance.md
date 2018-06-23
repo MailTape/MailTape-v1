@@ -42,6 +42,7 @@ description: >-
 guestPic: guestPic318okok.jpg
 musiColor: musiColor318.png
 ---
+![fbPic318.jpg]({{site.baseurl}}/img/fbPic318.jpg)
 <p id="introduction">This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a MailTape between the coast of Saint Malo and somewhere in the infinite space.</p>
 <p>Quite ambiguous, Fragrance.’s synth pop songs oscillate between asserted mainstream influences (he released an amazing cover of Gala’s Freed From Desire) and lo-fi music, in the same way that his melancholic voice and dancing beats are mixed: you never really know how you should feel when you listen them.</p>
 
