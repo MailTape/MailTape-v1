@@ -25,9 +25,9 @@ track3_color: dreamy
 track4_title: Fragrance. - Through the Wall
 track4_color: vibrant
 track5_title: Solid Space - Destination Moon
-track5_color: trippy
+track5_color: bliss
 track6_title: Baron Rétif & Concepción Perez - Blanchiment
-track6_color: trippy
+track6_color: bliss
 track7_title: 'https://soundcloud.com/nasa/sputnik-beep'
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/318/fragrance/'
@@ -39,6 +39,7 @@ description: >-
   Desire) and lo-fi music, in the same way that his melancholic voice and
   dancing beats are mixed: you never really know how you should feel when you
   listen them.
+guestPic: guestPic318.jpg
 ---
 ![gestPic318.jpg]({{site.baseurl}}/img/gestPic318.jpg)
 <p id="introduction">This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a Sunday morning between the coast of Saint Malo and somewhere in the infinite space.</p>
