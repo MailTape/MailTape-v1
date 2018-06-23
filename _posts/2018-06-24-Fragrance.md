@@ -39,7 +39,7 @@ description: >-
   Desire) and lo-fi music, in the same way that his melancholic voice and
   dancing beats are mixed: you never really know how you should feel when you
   listen them.
-guestPic: guestPic318.jpg
+guestPic: guestPic318ok.jpg
 ---
 ![gestPic318ok.jpg]({{site.baseurl}}/img/gestPic318ok.jpg)
 <p id="introduction">This morning we welcome [Fragrance.](https://fragrancemusic.bandcamp.com/album/dust-disorders-ep), Matthieu Roche’s solo project for a Sunday morning between the coast of Saint Malo and somewhere in the infinite space.</p>
