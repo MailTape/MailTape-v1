@@ -13,9 +13,8 @@ track2_link: 'https://soundcloud.com/lia_mice/saint-malo'
 track3_link: 'https://soundcloud.com/orchid-e-noire/mordore'
 track4_link: 'https://soundcloud.com/thisisfragrance/through-the-wall'
 track5_link: 'https://soundcloud.com/herveteckel/solid-space-destination-moon'
-track6_link: >-
-  https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description
-track7_link: 'https://soundcloud.com/nasa/sputnik-beep'
+track6_link: 'https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/318/track7.mp3'
 track1_title: Galatée - Ne Sois Pas Triste
 track1_color: dreamy
 track2_title: Lia Mice - Saint Malo
@@ -28,7 +27,7 @@ track5_title: Solid Space - Destination Moon
 track5_color: bliss
 track6_title: Baron Rétif & Concepción Perez - Blanchiment
 track6_color: bliss
-track7_title: Sputnik - Beep
+track7_title: Sputnik Beeping
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/318/fragrance/'
 description: >-
