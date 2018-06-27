@@ -20,7 +20,7 @@ track1_color: dreamy
 track2_title: Al Jarreau – Brite 'N' Sunny Babe
 track2_color: bliss
 track3_title: 'Joseph Malik – Melodies  '
-track3_color: vibrant
+track3_color: dreamy
 track4_title: Les Graciés – Compoly
 track4_color: trippy
 track5_title: Eartheater – Homonyms
@@ -32,7 +32,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/319/les-gracies/'
 guestPic: guestPic319.jpg
 ---
-<p id="introduction">This morning we welcome the lyrical and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
+<p id="introduction">This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.</p>
 <p> If you're in London, they will be performing together at [Cafe OTO on 16th July](https://cafeoto.co.uk/events/les-gracies/).</p>
 
