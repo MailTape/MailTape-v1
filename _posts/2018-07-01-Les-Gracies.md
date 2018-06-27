@@ -48,9 +48,9 @@ description: >-
 
 
 ## Joni Mitchell – Hejira
-_Eric Douglas Porter_: **"**"There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. Ms. Mitchell is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
+_Eric Douglas Porter_: **"**"There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. [Ms. Mitchell](http://jonimitchell.com/) is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
 
-## Al Jarreau – Brite ‘N’ Sunny Babe
+## [Al Jarreau](http://aljarreau.com/) – Brite ‘N’ Sunny Babe
 _Eric Douglas Porter_: **"**Brite ‘N’ Sunny Babe is a quintessential Sunday morning tune from me that goes back all the way to my childhood. Basically I would play this song along with all the songs from this album as a youth on the weekends, singing along, playing “air” keyboards dreaming of being a member in this band. The music felt so good it brought joy to an otherwise boring Sunday morning of a kid with no siblings in the home to keep company. Now as an adult the music sounds even more sweet and complete, medicinal! We both have him as a longtime musical reference and a place to recharge.**"**
 
 ## Joseph Malik – Melodies
@@ -62,7 +62,7 @@ First song of the album "Diverse", accompanying me for my first trip to the US, 
 
 There's a form of suspended time, wandering and a sense of a bigger community in there, promises to meet new people, we aren't alone, but connected souls. Perfect also to wander in airports during stop overs and observe people, trying to read through them. 
 
-We realised that we both refer to/like Joseph Malik and we somehow were both wondering where's he's been gone...We got the answer later via our record label owner who had a band with him in the 90's! And we will let you find out by yourself.**"**
+We realised that we both refer to/like [Joseph Malik](https://www.discogs.com/artist/31916-Joseph-Malik) and we somehow were both wondering where's he's been gone...We got the answer later via our record label owner who had a band with him in the 90's! And we will let you find out by yourself.**"**
 
 
 # MailTape's selection
