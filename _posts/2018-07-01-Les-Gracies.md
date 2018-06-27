@@ -36,17 +36,25 @@ episode_URL: 'http://mailta.pe/319/les-gracies/'
 <p> If you're in London, Jally will headlining the [Infinite Ear Live Series](https://www.facebook.com/events/472952969809853/?active_tab=about) at Bloc on 29th June and playing at the great [Shambala Festival](https://www.shambalafestival.org/) on 26th August.</p>
 
 
-# Jally Kebba Susso's selection
+# Les Graciés's selection
 
 
-## Ballaké Sissoko & Vincent Ségal – Chamber Music
-_Jally Kebba Susso_: **"**This song is really evocative to me. It reminds me of growing up in Gambia. When the elders are sitting down at night time doing their sumuog, when they gather together to play music and have conversations. Depending on who was around you’d hear the balaphon and kora played. It’s a soothing song. Soothing and emotional.**"**
+## Joni Mitchell – Hejira
+_Eric Douglas Porter_: **"**There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. Ms Mitchell is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
 
-## Soriba Kouyaté – Kanakassi
-_Jally Kebba Susso_: **"**Just beautiful. THIS is the definition of beauty. And this song is one of my biggest inspirations. Even when I am angry, I can listen to this song and it calms me right down… Soriba was light-years ahead of his time in terms of his versatility and innovation. I learnt a lot from him. But he is no more now. He passed away… It is unique song. It can always take you on a journey.**"**
+## Al Jarreau – Brite ‘N’ Sunny Babe
+_Eric Douglas Porter_: **"**Brite ‘N’ Sunny Babe is a quintessential Sunday morning tune from me that goes back all the way to my childhood. Basically I would play this song along with all the songs from this album as a youth on the weekends, singing along, playing “air” keyboards dreaming of being a member in this band. The music felt so good it brought joy to an otherwise boring Sunday morning of a kid with no siblings in the home to keep company. Now as an adult the music sounds even more sweet and complete, medicinal! We both have him as a longtime musical reference and a place to recharge.**"**
 
-## James Brown – This is a Man’s World
-_Jally Kebba Susso_: **"**James Brown, man. The technicality of how he puts his music together—the instrumentation—is something that is beyond expression. I can just feel it. It is unfiltered. Straight from his heart. When you listen to it it touches you straight. His music has opened lots of doors for me, inspirationally. The music has lots of elements that to me represent different things. It is very colourful. It feels like it is going to go somewhere, in a different direction, but it keeps you right there... in a great way.**"**
+## Joseph Malik – Melodies
+_Gaël Segalen_: **"**Ample track velvet voice open notes angels choir.
+
+space for the listener to answer and question at its turn.
+
+First song of the album "Diverse", accompanying me for my first trip to the US, a bit anxious to pose step to Los Angeles for the first time, a song that i was listening to in the plane during my flight, to soothe and give force, feeling fragile, feeling strong, a new birth, ready for a culture shock.
+
+There's a form of suspended time, wandering and a sense of a bigger community in there, promises to meet new people, we aren't alone, but connected souls.Perfect also to wander in airports during stop overs and observe people, trying to read through them. 
+
+We realised that we both refer to / like Joseph Malik and we somehow were both wondering where's he's been gone …We got the answer later via our record label owner who had a band with him in the 90's ! and we will let you find out by yourself.**"**
 
 
 # MailTape's selection
