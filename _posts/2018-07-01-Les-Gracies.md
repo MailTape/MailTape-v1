@@ -18,7 +18,7 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/319/track7.mp3'
 track1_title: Joni Mitchell – Hejira
 track1_color: dreamy
 track2_title: Al Jarreau – Brite 'N' Sunny Babe
-track2_color: bliss
+track2_color: vibrant
 track3_title: 'Joseph Malik – Melodies  '
 track3_color: dreamy
 track4_title: Les Graciés – Compoly
