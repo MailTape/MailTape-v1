@@ -50,11 +50,11 @@ _Gaël Segalen_: **"**Ample track velvet voice open notes angels choir.
 
 space for the listener to answer and question at its turn.
 
-First song of the album "Diverse", accompanying me for my first trip to the US, a bit anxious to pose step to Los Angeles for the first time, a song that i was listening to in the plane during my flight, to soothe and give force, feeling fragile, feeling strong, a new birth, ready for a culture shock.
+First song of the album "Diverse", accompanying me for my first trip to the US, a bit anxious to pose step to Los Angeles for the first time, a song that I was listening to in the plane during my flight, to soothe and give force, feeling fragile, feeling strong, a new birth, ready for a culture shock.
 
-There's a form of suspended time, wandering and a sense of a bigger community in there, promises to meet new people, we aren't alone, but connected souls.Perfect also to wander in airports during stop overs and observe people, trying to read through them. 
+There's a form of suspended time, wandering and a sense of a bigger community in there, promises to meet new people, we aren't alone, but connected souls. Perfect also to wander in airports during stop overs and observe people, trying to read through them. 
 
-We realised that we both refer to / like Joseph Malik and we somehow were both wondering where's he's been gone …We got the answer later via our record label owner who had a band with him in the 90's ! and we will let you find out by yourself.**"**
+We realised that we both refer to/like Joseph Malik and we somehow were both wondering where's he's been gone...We got the answer later via our record label owner who had a band with him in the 90's! And we will let you find out by yourself.**"**
 
 
 # MailTape's selection
