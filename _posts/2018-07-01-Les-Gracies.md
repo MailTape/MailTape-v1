@@ -59,16 +59,16 @@ We realised that we both refer to/like Joseph Malik and we somehow were both won
 
 # MailTape's selection
 
-## Jally Kebba Susso – Ajama
+## Les Graciés – Compoly
 _Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.**"**
 
-## Faith Mussa – Mdidi
+## Eartheater – Homonyms
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
 
-##  Miriam Makeba – Liwawechi
+##  Elysia Crampton – Valerie & Elysia
 _Sanjay_: **"**Writing about [Miriam Makeba](http://www.miriammakeba.co.za/) is a daunting task. And one I'm not really qualified to do. More generally, this track is taken from 'Homeland'—her first album recorded in South Africa since recording with the Manhattan Brothers in the late 1950s. Writing in 1989, Carol Cooper claimed that '[Miriam] sings with the smoky tones and delicate phrasing of Ella Fitzgerald, and when the occasion demands, she summons up the brassy showmanship of Ethel Merman and the intimate warmth of Frank Sinatra'.**"**
 
-## Sona Jobarteh – Saya
+## Kate Bush – Army Dreamers
 _Sanjay_: **"**This is a haunting track described as a song 'about loss and of the feeling you are left with and the pain one suffers'. If you're in London on 18th June, Sona will be performing at the [Jazz Cafe](https://thejazzcafelondon.com/event/sona-jobarteh).**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Jally Kebba Susso](http://jallykebbasusso.com/), and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
