@@ -41,7 +41,7 @@ guestPic: guestPic319.jpg
 
 
 ## Joni Mitchell – Hejira
-_Eric Douglas Porter_: **"**There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. Ms Mitchell is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
+_Eric Douglas Porter_: **"**There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. Ms. Mitchell is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
 
 ## Al Jarreau – Brite ‘N’ Sunny Babe
 _Eric Douglas Porter_: **"**Brite ‘N’ Sunny Babe is a quintessential Sunday morning tune from me that goes back all the way to my childhood. Basically I would play this song along with all the songs from this album as a youth on the weekends, singing along, playing “air” keyboards dreaming of being a member in this band. The music felt so good it brought joy to an otherwise boring Sunday morning of a kid with no siblings in the home to keep company. Now as an adult the music sounds even more sweet and complete, medicinal! We both have him as a longtime musical reference and a place to recharge.**"**
@@ -49,7 +49,7 @@ _Eric Douglas Porter_: **"**Brite ‘N’ Sunny Babe is a quintessential Sunday 
 ## Joseph Malik – Melodies
 _Gaël Segalen_: **"**Ample track velvet voice open notes angels choir.
 
-space for the listener to answer and question at its turn.
+Space for the listener to answer and question at its turn.
 
 First song of the album "Diverse", accompanying me for my first trip to the US, a bit anxious to pose step to Los Angeles for the first time, a song that I was listening to in the plane during my flight, to soothe and give force, feeling fragile, feeling strong, a new birth, ready for a culture shock.
 
