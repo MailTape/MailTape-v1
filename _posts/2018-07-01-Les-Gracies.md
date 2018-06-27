@@ -32,9 +32,9 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/319/les-gracies/'
 guestPic: guestPic319.jpg
 ---
-<p id="introduction">Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>
-<p>Expanding the boundaries of kora traditions, Jally blends West African music with jazz, funk and sounds from London’s multitudinous music scenes. His most recent album, [Banjul-London](https://jallykebbasusso.bandcamp.com/album/banjul-london), released in 2017, will be a  thoroughly uplifting and positive 48 minutes of your time!</p>
-<p> If you're in London, Jally will headlining the [Infinite Ear Live Series](https://www.facebook.com/events/472952969809853/?active_tab=about) at Bloc on 29th June and playing at the great [Shambala Festival](https://www.shambalafestival.org/) on 26th August.</p>
+<p id="introduction">This morning we welcome the lyrical and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
+<p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). in their own music as a duo, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.</p>
+<p> If you're in London, they will be performing together at [Cafe OTO on 16th July](https://cafeoto.co.uk/events/les-gracies/).</p>
 
 
 # Les Graciés's selection
