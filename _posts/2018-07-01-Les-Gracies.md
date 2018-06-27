@@ -79,4 +79,4 @@ _Sanjay_: **"**Writing about [Miriam Makeba](http://www.miriammakeba.co.za/) is 
 ## Kate Bush – Army Dreamers
 _Sanjay_: **"**This is a haunting track described as a song 'about loss and of the feeling you are left with and the pain one suffers'. If you're in London on 18th June, Sona will be performing at the [Jazz Cafe](https://thejazzcafelondon.com/event/sona-jobarteh).**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Jally Kebba Susso](http://jallykebbasusso.com/), and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to Eric and Gaël as [Les Graciés](https://soundcloud.com/les-gracies), and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration!</p>
