@@ -31,6 +31,7 @@ track7_title: Kate Bush – Army Dreamers
 track7_color: bliss
 episode_URL: 'http://mailta.pe/319/les-gracies/'
 guestPic: guestPic319.jpg
+fbPic: fbPic319.jpg
 ---
 <p id="introduction">This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.</p>
