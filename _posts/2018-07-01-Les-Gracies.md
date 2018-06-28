@@ -68,7 +68,7 @@ We realised that we both refer to/like [Joseph Malik](https://www.discogs.com/ar
 # MailTape's selection
 
 ## Les Graciés – Compoly
-_Sanjay_: **"**Written and recorded with the help of his band, Manding Sabu, Jally Kebba Susso's album 'Banjul-London' is guided by rhythms, dances and stories written, sung and played by a burgeoning line of “London-griots”.**"**
+_Sanjay_: **"**I've been listening to '[Low Doses](https://firecrackerrecordings.bandcamp.com/album/firec020-low-doses)' from Les Graciés on repeat for most of this year. It's a genre-defying LP with a curious fusion of mystic beat geometry and electro-acoustic process unshackled from restrictive rhythmic lexicon. A hypnotic and trippy journey!**"**
 
 ## Eartheater – Homonyms
 _Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
