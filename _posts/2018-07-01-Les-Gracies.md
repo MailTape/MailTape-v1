@@ -71,7 +71,7 @@ We realised that we both refer to/like [Joseph Malik](https://www.discogs.com/ar
 _Sanjay_: **"**I've been listening to '[Low Doses](https://firecrackerrecordings.bandcamp.com/album/firec020-low-doses)' from Les Graciés on repeat for most of this year. It's a genre-defying LP with a curious fusion of mystic beat geometry and electro-acoustic process unshackled from restrictive rhythmic lexicon. A hypnotic and trippy journey!**"**
 
 ## Eartheater – Homonyms
-_Sanjay_: **"**I saw [Faith Mussa](http://faithmussa.com/) supporting Jally Kebba Susso at [Dalston Curve Garden](http://dalstongarden.org/) in London earlier this month, and he played with seemingly boundless energy. His one man band act is impressive and anyone who thinks Ed Sheeran can do some good loops should see Faith Mussa show how it’s really done.**"**
+_Sanjay_: **"**Alexandra Drewchin '[Eartheater](http://www.eartheater.solar/)' project is an equally omnivorous offering this morning. Skittering and folding in on itself, Alexandria experiments with varying ratios of the technological and the analog and synthesises them into a dreamy cosmic lullaby.**"**
 
 ##  Elysia Crampton – Valerie & Elysia
 _Sanjay_: **"**Writing about [Miriam Makeba](http://www.miriammakeba.co.za/) is a daunting task. And one I'm not really qualified to do. More generally, this track is taken from 'Homeland'—her first album recorded in South Africa since recording with the Manhattan Brothers in the late 1950s. Writing in 1989, Carol Cooper claimed that '[Miriam] sings with the smoky tones and delicate phrasing of Ella Fitzgerald, and when the occasion demands, she summons up the brassy showmanship of Ethel Merman and the intimate warmth of Frank Sinatra'.**"**
