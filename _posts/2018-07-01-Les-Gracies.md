@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Sanjay Mistry
-illustrator: Pierre-Julien Fieux
+illustrator: Anthony Dujardin
 writer: Sanjay Mistry
 category: '319'
 guest_name: Les Graciés
