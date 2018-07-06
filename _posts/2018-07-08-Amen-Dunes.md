@@ -5,7 +5,7 @@ published: false
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of Amen Dunes.</p>
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.</p>
-</p>In March 2018, Damon McMahan released his 5th LP and was no longer alone. Far away from his beautiful but claustrophobic debut album, “Freedom” is an adventurous and outward record that he produced surrounded with musicians and friends: Chris Coady (Beach House), Panoram, Parker Kindred (Antony & The Johnsons), Delicate Steve…</p>
+<p>In March 2018, Damon McMahan released his 5th LP and was no longer alone. Far away from his beautiful but claustrophobic debut album, “Freedom” is an adventurous and outward record that he produced surrounded with musicians and friends: Chris Coady (Beach House), Panoram, Parker Kindred (Antony & The Johnsons), Delicate Steve…</p>
 
 
 # Amen Dunes' selection
