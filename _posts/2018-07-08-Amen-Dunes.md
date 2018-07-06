@@ -36,6 +36,9 @@ description: >-
   outward record that he produced surrounded with musicians and friends: Chris
   Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
   Delicate Steve …
+track4_link: 'https://soundcloud.com/the-moody-tapes/amen-dunes-bedroom-drum'
+track5_link: 'https://soundcloud.com/future-popes-pr/tonstartssbandht-5ft7'
+track6_link: 'https://soundcloud.com/sonsofkemet/my-queen-is-harriet-tubman-1 '
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).</p>
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.</p>
