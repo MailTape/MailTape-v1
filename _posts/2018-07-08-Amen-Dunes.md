@@ -2,6 +2,40 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Charlotte
+illustrator: Pierre-Julien Fieux
+writer: Charlotte
+category: '320'
+guest_name: Amen Dunes
+guest_color: bliss
+track1_title: Beethoven - 6th Symphony (1st movement)
+track1_color: rough
+track2_title: The Future Sound of London - Just a Fuckin Idiot
+track2_color: trippy
+track3_title: Neil Diamond - Cherry Cherry
+track4_title: Amen Dunes - Bedroom Drums
+track3_color: rough
+track4_color: dreamy
+track5_title: Tonstartssbandht - 5FT7
+track5_color: dreamy
+track6_title: Sons of Kemet - My Queen Is Harriet Tubman
+track6_color: dreamy
+track7_title: Lee Hazlewood - Your Sweet Love
+track7_color: rough
+episode_URL: 'https://www.mailta.pe/320/amen-dunes/'
+description: >-
+  For this last MailTape before our summer break, we welcome Damon McMahan,
+  songwriter and New York-based founder of Amen Dunes.  In 2006, he locked
+  himself in an isolated trailer and within a month, recorded his first album,
+  “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about
+  how to catagorise his music: mutant folk, dark psyche, post-modern soul,
+  cosmic rock… but whatever they’re full of fucking shit anyway. It has been
+  consistently exciting to see the band evolve over the years.   In March 2018,
+  Damon McMahan released his 5th LP and was no longer alone. Far away from his
+  beautiful but claustrophobic debut album, “Freedom” is an adventurous and
+  outward record that he produced surrounded with musicians and friends: Chris
+  Coady (Beach House), Panoram, Parker Kindred (Antony and The Johnsons),
+  Delicate Steve …
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).</p>
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.</p>
