@@ -70,7 +70,8 @@ _Charlotte_: **"**With my friends we sometimes organize concerts, and each night
 ## [Tonstartssbandht](https://tonstartssbandht.bandcamp.com/) - 5FT7
 _Charlotte_: **"**I discovered this track in 'Palo Alto' several years ago. I remember I was curious to see it because it was the Gia Coppola’s 1st film (the granddaughter of Francis Ford) as a director. I also remember that I found this song totally fantastic. Actually, this is all that comes to my mind when I try to recall this movie. I’m sorry Gia.**"**
 
-## [Sons of Kemet](http://www.shabakahutchings.com/sons-of-kemet/) - My Queen Is Harriet Tubman
+## [Sons of Kemet](http://www.shabakahutchings.com/sons-of-kemet/)![guestPic320.jpg]({{site.baseurl}}/img/guestPic320.jpg)
+ - My Queen Is Harriet Tubman
 _Charlotte_: **"**There was a time when jazz was mostly for me a snobbish music that I stupidly forced myself to enjoy during my first year of studies, in order to impress an obscure guy (for the record it didn’t work). But musicians like Shabaka Hutchings, virtuoso saxophone player and leader of Sons of Kemet, can make you change your point of view, particularly with this kind of track.**"**
 
 ## Lee Hazlewood - Your Sweet Love
