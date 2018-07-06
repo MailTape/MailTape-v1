@@ -7,21 +7,21 @@ illustrator: Pierre-Julien Fieux
 writer: Charlotte
 category: '320'
 guest_name: Amen Dunes
-guest_color: bliss
+guest_color: vibrant
 track1_title: Beethoven - 6th Symphony (1st movement)
-track1_color: rough
+track1_color: vibrant
 track2_title: The Future Sound of London - Just a Fuckin Idiot
 track2_color: trippy
 track3_title: Neil Diamond - Cherry Cherry
 track4_title: Amen Dunes - Bedroom Drums
-track3_color: rough
-track4_color: dreamy
+track3_color: vibrant
+track4_color: bliss
 track5_title: Tonstartssbandht - 5FT7
-track5_color: dreamy
+track5_color: bliss
 track6_title: Sons of Kemet - My Queen Is Harriet Tubman
-track6_color: dreamy
+track6_color: bliss
 track7_title: Lee Hazlewood - Your Sweet Love
-track7_color: rough
+track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/320/amen-dunes/'
 description: >-
   For this last MailTape before our summer break, we welcome Damon McMahan,
