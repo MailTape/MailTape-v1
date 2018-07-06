@@ -39,6 +39,10 @@ description: >-
 track4_link: 'https://soundcloud.com/the-moody-tapes/amen-dunes-bedroom-drum'
 track5_link: 'https://soundcloud.com/future-popes-pr/tonstartssbandht-5ft7'
 track6_link: 'https://soundcloud.com/sonsofkemet/my-queen-is-harriet-tubman-1 '
+track1_link: 'https://soundcloud.com/nzso/beethoven-1st-movement-from-1'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/320/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/320/track3.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/320/track7.mp3'
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).</p>
 <p>In 2006, he locked himself in an isolated trailer and within a month, recorded his first album, “D.I.A“. Since then, critics haven’t seemed to reach a common agreement about how to categorise his music: mutant folk, dark psyche, post-modern soul, cosmic rock… but whatever. It has been consistently exciting to see the band evolve over the years.</p>
