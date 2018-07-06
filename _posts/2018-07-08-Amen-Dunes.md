@@ -23,7 +23,7 @@ _Damon McMahan_: **"**No one pays attention but he's like Scott Walker. The pian
 # MailTape's selection
 
 ## Amen Dunes - Bedroom Drums
-_Charlotte_: **"**With my friends we sometimes organize concerts, and each night before I’m so stressed that I could eat my own fingers without noticing it, wondering to myself why I am actually doing this. But there are moments that make the whole mess worth it. And yes, to see Amen Dunes playing « Bedroom Drums » was definitely one of them.**"**
+_Charlotte_: **"**With my friends we sometimes organize concerts, and each night before I’m so stressed that I could bite my nails down to the bones without noticing it, wondering to myself why I am actually doing this. But there are moments that make the whole mess worth it. And yes, to see Amen Dunes playing 'Bedroom Drums' was definitely one of them.**"**
 
 ## Tonstartssbandht - 5FT7
 _Charlotte_: **"**I discovered this track in 'Palo Alto' several years ago. I remember I was curious to see it because it was the Gia Coppola’s 1st film (the granddaughter of Francis Ford) as a director. I also remember that I found this song totally fantastic. Actually, this is all that comes to my mind when I try to recall this movie. I’m sorry Gia.**"**
