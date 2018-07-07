@@ -18,7 +18,7 @@ track3_color: vibrant
 track4_color: bliss
 track5_title: Tonstartssbandht - 5FT7
 track5_color: bliss
-track6_title: Sons of Kemet - In The Castle Of My Skin
+track6_title: Sons of Kemet - My Queen Is Harriet Tubman
 track6_color: bliss
 track7_title: Lee Hazlewood - Your Sweet Love
 track7_color: vibrant
@@ -38,7 +38,7 @@ description: >-
   Delicate Steve …
 track4_link: 'https://soundcloud.com/the-moody-tapes/amen-dunes-bedroom-drum'
 track5_link: 'https://soundcloud.com/future-popes-pr/tonstartssbandht-5ft7'
-track6_link: 'https://soundcloud.com/naimrecs/02-in-the-castle-of-my-skin'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/320/track6.mp3'
 track1_link: 'https://soundcloud.com/nzso/beethoven-1st-movement-from-1'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/320/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/320/track3.mp3'
