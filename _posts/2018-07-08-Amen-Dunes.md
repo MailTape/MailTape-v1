@@ -77,4 +77,5 @@ _Charlotte_: **"**There was a time when jazz was mostly for me a snobbish music 
 ## Lee Hazlewood - Your Sweet Love
 _Charlotte_: **"**When I listen this song, I feel like Elizabeth Taylor. With brown eyes.**"**
 
-<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to Damon McMahan for being our guest this week and to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode’s illustration!</p>
+<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to Damon McMahan for being our guest this week and ![fbPic320.jpg]({{site.baseurl}}/img/fbPic320.jpg)
+to [Pierre-Julien Fieux](http://www.pierrejulienfieux.com/) for this episode’s illustration!</p>
