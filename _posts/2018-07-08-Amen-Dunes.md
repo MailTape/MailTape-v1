@@ -70,7 +70,7 @@ _Damon McMahan_: **"**No one pays attention but he's like Scott Walker. The pian
 _Charlotte_: **"**With my friends we sometimes organize concerts, and each night before I’m so stressed that I could bite my nails down to the bones without noticing it, wondering to myself why I am actually doing this. But there are moments that make the whole mess worth it. And yes, to see Amen Dunes playing 'Bedroom Drums' was definitely one of them.**"**
 
 ## [Tonstartssbandht](https://tonstartssbandht.bandcamp.com/) - 5FT7
-_Charlotte_: **"**I discovered this track in 'Palo Alto' several years ago. I remember I was curious to see it because it was the Gia Coppola’s 1st film (the granddaughter of Francis Ford) as a director. I also remember that I found this song totally fantastic. Actually, this is all that comes to my mind when I try to recall this movie. I’m sorry Gia.**"**
+_Charlotte_: **"**I discovered this track in "Palo Alto" several years ago. I remember I was curious to see it because it was the Gia Coppola’s 1st film (the granddaughter of Francis Ford) as a director. I also remember that I found this song totally fantastic. Actually, this is all that comes to my mind when I try to recall this movie. I’m sorry Gia.**"**
 
 ## [Sons of Kemet](http://www.shabakahutchings.com/sons-of-kemet/) - In The Castle Of My Skin
 _Charlotte_: **"**There was a time when jazz was mostly for me a snobbish music that I stupidly forced myself to enjoy during my first year of studies, in order to impress an obscure guy (for the record it didn’t work). But musicians like Shabaka Hutchings, virtuoso saxophone player and leader of Sons of Kemet, can make you change your point of view, particularly with this kind of track.**"**
