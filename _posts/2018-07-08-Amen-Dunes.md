@@ -11,7 +11,7 @@ guest_color: vibrant
 track1_title: Beethoven - 6th Symphony (1st movement)
 track1_color: vibrant
 track2_title: The Future Sound of London - Just a Fuckin Idiot
-track2_color: trippy
+track2_color: dreamy
 track3_title: Neil Diamond - Cherry Cherry
 track4_title: Amen Dunes - Bedroom Drums
 track3_color: vibrant
