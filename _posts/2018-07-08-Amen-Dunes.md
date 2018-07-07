@@ -18,7 +18,7 @@ track3_color: vibrant
 track4_color: bliss
 track5_title: Tonstartssbandht - 5FT7
 track5_color: bliss
-track6_title: Sons of Kemet - My Queen Is Harriet Tubman
+track6_title: Sons of Kemet - In The Castle Of My Skin
 track6_color: bliss
 track7_title: Lee Hazlewood - Your Sweet Love
 track7_color: vibrant
