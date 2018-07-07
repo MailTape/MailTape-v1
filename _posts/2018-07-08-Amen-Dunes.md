@@ -38,7 +38,7 @@ description: >-
   Delicate Steve …
 track4_link: 'https://soundcloud.com/the-moody-tapes/amen-dunes-bedroom-drum'
 track5_link: 'https://soundcloud.com/future-popes-pr/tonstartssbandht-5ft7'
-track6_link: 'https://soundcloud.com/sonsofkemet/my-queen-is-harriet-tubman-1 '
+track6_link: 'https://soundcloud.com/sonsofkemet/my-queen-is-harriet-tubman-1'
 track1_link: 'https://soundcloud.com/nzso/beethoven-1st-movement-from-1'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/320/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/320/track3.mp3'
