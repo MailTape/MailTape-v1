@@ -89,7 +89,7 @@
         consoleOnly: true,                // if console is being used, do not create/write to #soundmanager-debug
         preferFlash: false, // for visualization effects
         useHTML5Audio: true, // use HTML5 Audio() where API is supported (most Safari, Chrome versions), Firefox (MP3/MP4 support varies.) Ideally, transparent vs. Flash API where possible.
-        forceUseGlobalHTML5Audio: false,  // if true, a single Audio() object is used for all sounds - and only one can play at a time.
+        forceUseGlobalHTML5Audio: true,  // if true, a single Audio() object is used for all sounds - and only one can play at a time.
         ignoreMobileRestrictions: false,  // if true, SM2 will not apply global HTML5 audio rules to mobile UAs. iOS > 7 and WebViews may allow multiple Audio() instances.
         useHighPerformance: false, // keep flash on screen, boost performance
         wmode: 'transparent', // transparent SWF, if possible
