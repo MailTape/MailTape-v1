@@ -13,9 +13,8 @@ track1_color: bliss
 track2_link: 'https://soundcloud.com/hprizm/sonsdhiver2014'
 track2_title: Hprizm - Live @ Sons D'Hiver (Paris) 2014
 track2_color: trippy
-track3_link: >-
-  https://soundcloud.com/kilamanzego/what-happens-when-eastern-europe-and-west-africa-collide-stbb-494
-track3_title: Kilamanzego - What happens when Eastern Europe and West Africa collide
+track3_link: 'https://soundcloud.com/smthsavant/kilamanzego-when-west-africa'
+track3_title: Kilamanzego - What happens when Eastern Europe and West Africa collide pt2
 track3_color: vibrant
 track4_link: 'https://soundcloud.com/vanham/murder-feat-moor-mother'
 track4_title: ᴠ̷̸ᴀ̷̸ɴ̷̸ɪ̷̸ʟ̷̸ʟ̷̸ᴀ̷̸ ̷̸ʜ̷̸ᴀ̷̸ᴍ̷̸ᴍ̷̸ᴇ̷̸ʀ̷̸ ft. Moor Mother - Murder
@@ -26,8 +25,7 @@ track5_color: dreamy
 track6_link: 'https://soundcloud.com/loca-suelta/shades-of-anger'
 track6_title: Rafeef Ziadah - Shades of Anger
 track6_color: trippy
-track7_link: >-
-  https://soundcloud.com/matana-roberts/raise-the-roof-informationclass-greed-besmirch-democracy-12414-810-pm
+track7_link: 'https://soundcloud.com/matana-roberts/raise-the-roof-informationclass-greed-besmirch-democracy-12414-810-pm'
 track7_title: 'Matana Roberts - Raise the Roof: Information, Class & Greed Besmirch Democracy'
 track7_color: trippy
 episode_URL: 'http://mailta.pe/269/moor-mother/'
