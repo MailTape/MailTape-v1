@@ -15,7 +15,7 @@ category: "195"
 guest_name: Crackazat
 guestPic: guestPic195.jpg
 track1_link: "https://soundcloud.com/skalpelmusic/skalpel-sculpture-skalpel"
-track2_link: "https://soundcloud.com/sameed/blue"
+track2_link: "https://mailtapesounds.s3.amazonaws.com/195/track2.mp3"
 track3_link: "https://soundcloud.com/stampthewax/typesun-the-pl"
 track4_link: "https://mailtapesounds.s3.amazonaws.com/195/track4.mp3"
 track5_link: "https://soundcloud.com/eliescobar/the-formula?in=eliescobar/sets/up-all-night-digital-version"

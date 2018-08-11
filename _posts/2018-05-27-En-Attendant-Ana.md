@@ -4,16 +4,14 @@ bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/rhanhee/electrelane-the-greater-times'
 track2_link: 'https://soundcloud.com/croque-macadam/entracte-twist-christine-young'
-track3_link: >-
-  https://soundcloud.com/montagnesacreerecords/into-the-grave-guitar-hero-version
+track3_link: 'https://soundcloud.com/montagnesacreerecords/into-the-grave-guitar-hero-version'
 category: '314'
 guest_name: En Attendant Ana
 guest_color: vibrant
 track4_link: 'https://soundcloud.com/enattendantana/04-re'
 track5_link: 'https://soundcloud.com/sister-polygon-records/thinningwav'
 track6_link: 'https://soundcloud.com/corridormtl/02-coup-de-pe-e-master'
-track7_link: >-
-  https://soundcloud.com/sdzrecords/le-villejuif-underground-cold-dark-place-in-your-art
+track7_link: 'https://soundcloud.com/sdzrecords/le-villejuif-underground-cold-dark-place-in-your-art'
 track1_title: Electrelane - The Greater Times
 track1_color: vibrant
 track2_title: Entracte Twist - Christine Young

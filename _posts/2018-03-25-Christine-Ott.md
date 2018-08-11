@@ -8,8 +8,7 @@ writer: Sanjay Mistry
 category: '305'
 guest_name: Christine Ott
 guest_color: dreamy
-track1_link: >-
-  https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1
+track1_link: 'https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1'
 track2_link: 'https://soundcloud.com/bangonacan/david-lang-cheating-lying-stealing-1'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/305/track3.mp3'
 track4_link: 'https://soundcloud.com/christine-ott/christine-ott-szczecin'

@@ -13,8 +13,7 @@ track1_link: 'https://soundcloud.com/colombey/la-derniere-86-de-la-ville'
 track2_link: 'https://soundcloud.com/lesyndicatdesscorpions/a2-crepusculo'
 track3_link: 'https://soundcloud.com/sundaeordie/verano-invierno-1'
 track4_link: 'https://soundcloud.com/jardn/mon-amour-na-pas-de-sexe'
-track5_link: >-
-  https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni
+track5_link: 'https://soundcloud.com/irving-mu-oz-965959115/utro-kak-zhe-ya-byl-slab-v-te-dni'
 track6_link: 'https://soundcloud.com/police_des_moeurs/police-des-moeurs-heure-bleue-1'
 track7_link: 'https://soundcloud.com/heartheouts/09-lovers-spit-cover-march-5'
 track1_title: Colombey - La dernière 8.6 de la ville

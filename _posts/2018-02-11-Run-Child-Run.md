@@ -14,9 +14,8 @@ track2_link: 'https://soundcloud.com/hughlovehugh/i-cant-figure-you-out-fvm-2-24
 track3_link: 'https://soundcloud.com/mrbongo/joyce-aldeia-de-ogum'
 track4_link: 'https://soundcloud.com/runchildrun/cant-catch-me'
 track5_link: 'https://soundcloud.com/stonesthrow/sudan-archives-come-meh-way'
-track6_link: >-
-  https://soundcloud.com/principles-of-geometry/les-princes-des-villes-principles-of-geometrys-guillaume-teyssiers-les-princes-des-villes
-track7_link: 'https://soundcloud.com/signlibrachannel/i-intro-tropical-plantarum'
+track6_link: 'https://soundcloud.com/principles-of-geometry/les-princes-des-villes-principles-of-geometrys-guillaume-teyssiers-les-princes-des-villes'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/299/track7.mp3'
 track1_title: Solange - Rise
 track2_title: Hugh - I Can't Figure Out
 track3_title: Joyce - Aldeia de Ogum

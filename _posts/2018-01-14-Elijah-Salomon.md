@@ -12,7 +12,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/295/track1.mp3'
 track2_link: 'https://soundcloud.com/norbert-domokos/burning-spear-mi-gi-dem-i'
 track3_link: 'https://soundcloud.com/yvonne-kay/damian-marley-ft-stephen'
 track4_link: 'https://soundcloud.com/ariwasounds/05-power-to-the-dub'
-track5_link: 'https://soundcloud.com/positivemusicpromotion/aba-shanti-i-tower-of-bable'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/295/track5.mp3'
 track6_link: 'https://soundcloud.com/pulsazion/07-mo-kalamity-darling'
 track7_link: 'https://soundcloud.com/bebblerock/kabaka-pyramid-no-capitalist-1'
 track1_title: Dennis Brown – Have You Ever

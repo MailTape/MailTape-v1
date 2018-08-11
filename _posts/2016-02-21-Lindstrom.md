@@ -12,7 +12,7 @@ track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amb
 track2_link: "https://soundcloud.com/distantworks/ohana"
 track3_link: "https://mailtapesounds.s3.amazonaws.com/205/track3.mp3"
 track4_link: "https://soundcloud.com/feedelity/lindstrom-raakost"
-track5_link: "https://soundcloud.com/baarregaard/02-b-g-baarregaard-filtered"
+track5_link: "https://mailtapesounds.s3.amazonaws.com/205/track5.mp3"
 track6_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"
 track7_link: "https://soundcloud.com/voltaire_records/social-lovers-cant-let-it-go"
 track1_title: "OMA & Amberflame - Lazy Sun"

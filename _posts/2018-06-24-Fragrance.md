@@ -13,8 +13,7 @@ track2_link: 'https://soundcloud.com/lia_mice/saint-malo'
 track3_link: 'https://soundcloud.com/orchid-e-noire/mordore'
 track4_link: 'https://soundcloud.com/thisisfragrance/through-the-wall'
 track5_link: 'https://soundcloud.com/herveteckel/solid-space-destination-moon'
-track6_link: >-
-  https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description
+track6_link: 'https://soundcloud.com/baronretif/blanchiment-navettes-lp-out-now-link-in-description'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/318/track7.mp3'
 track1_title: Galatée - Ne Sois Pas Triste
 track1_color: dreamy

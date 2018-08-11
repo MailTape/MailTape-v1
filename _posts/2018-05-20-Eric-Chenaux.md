@@ -9,14 +9,12 @@ category: '313'
 guest_name: Eric Chenaux
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/martinarnold/stain-ballad'
-track2_link: >-
-  https://soundcloud.com/allisoncameronmusic/tree-ferns-1-live-performance-by-wiek-hijmans
+track2_link: 'https://soundcloud.com/allisoncameronmusic/tree-ferns-1-live-performance-by-wiek-hijmans'
 track3_link: 'https://soundcloud.com/lcsmith-2/moi-qui-tremblais'
 track4_link: 'https://soundcloud.com/constellation-records/eric-chenaux-theres-our-love'
 track5_link: 'https://soundcloud.com/footfalls-records/karma-lata'
 track6_link: 'https://soundcloud.com/melodie64/marisa-anderson-into-the-light'
-track7_link: >-
-  https://soundcloud.com/carastacey/come-near-me-arr-for-piano-trio-ghoetpoet-massive-attack
+track7_link: 'https://soundcloud.com/carastacey/come-near-me-arr-for-piano-trio-ghoetpoet-massive-attack'
 track1_title: Martin Arnold – Stain Ballad
 track1_color: trippy
 track2_title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)
