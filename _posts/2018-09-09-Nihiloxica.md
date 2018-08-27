@@ -26,7 +26,7 @@ track6_title: 'Marijata - No Condition Is Permanent '
 track7_title: Mbongwana Star – Malukayi
 track1_color: bliss
 track2_color: trippy
-track3_color: trippy
+track3_color: dreamy
 track4_color: rough
 track5_color: trippy
 track6_color: rough
