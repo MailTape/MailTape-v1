@@ -55,7 +55,7 @@ _Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre w
 # MailTape's selection
 
 ## Nihiloxica – Endongo
-_Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people.I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
+_Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
 
 ## Peter Power - Sun Sun Damba
 _Luc_: **"**With samples of an old Cuban track from the late 1950s, and hints of Brazilian influences coming from his then recent Voodoohop collaboration, the Irish producer delivers a solar 7-minute cut for the Canadian/Australian label Multi Culti. Maybe this resume is not international enough to make you chant “eclectic” next to Peter Power’s name… but will you resist the urge to sing along to his bewitching shamanic mantra?”**"**
