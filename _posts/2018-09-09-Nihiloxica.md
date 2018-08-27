@@ -38,7 +38,6 @@ guestPic: guestPic322.jpg
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.</p>
 <p> Far from unleashing the sonic [(and sometimes visual)](https://www.youtube.com/watch?v=PGAQgVjweWM) onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning.
 Catch them at [La Station](https://www.facebook.com/events/1949319898472146/) if you’re lucky enough to be in Paris this September 29!</p>
-![guestPic322.jpg]({{site.baseurl}}/img/guestPic322.jpg)
 
 
 
