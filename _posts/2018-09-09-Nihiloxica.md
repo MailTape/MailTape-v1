@@ -40,7 +40,6 @@ guestPic: guestPic322.jpg
 Catch them at [La Station](https://www.facebook.com/events/1949319898472146/) if you’re lucky enough to be in Paris this September 29!</p>
 
 
-
 # Nihiloxica’s selection
 
 
