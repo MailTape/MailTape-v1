@@ -66,4 +66,4 @@ _Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanai
 ## Mbongwana Star – Malukayi
 _Luc_: **"**Today’s last stop brings us to Congo, more precisely Kinshasa. With its eerie and cold atmosphere, Malukayi evokes whiteness, with hints of outer space and melancholy. Is the astronaut in his makeshift suit on the cover of their album a nod to this statement?  His presence and the warmth of the discrete bassline in the song are both comforting in their own way.**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Nihiloxica](http://nihiloxica.com/), and to William for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Nihiloxica](http://nihiloxica.com/), and to [William](https://www.williamgirault.com/) for this episode's cool illustration!</p>
