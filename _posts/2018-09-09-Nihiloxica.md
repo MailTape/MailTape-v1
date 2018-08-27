@@ -35,7 +35,7 @@ episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
 ---
 <p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.
-Far from unleashing the sonic [and sometimes visual](https://www.youtube.com/watch?v=PGAQgVjweWM)[/url] onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning.</p>
+Far from unleashing the sonic [(and sometimes visual)](https://www.youtube.com/watch?v=PGAQgVjweWM) onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning.</p>
 <p> Catch them at [La Station](https://www.facebook.com/events/1949319898472146/) if you’re lucky enough to be in Paris this September 29!</p>
 
 
