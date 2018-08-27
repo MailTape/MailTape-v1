@@ -24,12 +24,12 @@ track4_title: Nihiloxica – Endongo
 track5_title: Peter Power - Sun Sun Damba
 track6_title: 'Marijata - No Condition Is Permanent '
 track7_title: Mbongwana Star – Malukayi
-track1_color: bliss
-track2_color: trippy
+track1_color: dreamy
+track2_color: dreamy
 track3_color: dreamy
 track4_color: rough
 track5_color: trippy
-track6_color: rough
+track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
 ---
