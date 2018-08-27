@@ -31,7 +31,7 @@ track4_color: rough
 track5_color: trippy
 track6_color: rough
 track7_color: dreamy
-episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
+episode_URL: 'http://www.mailta.pe/322/nihiloxica/'
 ---
 ## A New Post
 
