@@ -33,6 +33,38 @@ track6_color: rough
 track7_color: dreamy
 episode_URL: 'http://www.mailta.pe/322/nihiloxica/'
 ---
-## A New Post
+<p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
+<p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.
+Far from unleashing the sonic [and sometimes visual](https://www.youtube.com/watch?v=PGAQgVjweWM)[/url] onslaught we are used to, they seem at ease with lending us their softer side this Sunday morning. 
+</p>
+<p> Catch them at [La Station](https://www.facebook.com/events/1949319898472146/) if you’re lucky enough to be in Paris this September 29!</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# Nihiloxica’s selection
+
+
+## Lou Harrison - Philemon and Baukis
+_Pete & Jacob_: **"**Lou Harrison is a contemporary classical composer who was infatuated with music from the East. He constructed his own gamelan orchestras in America and studied the style extensively - writing fusion pieces for gamelan and Western instruments. In some ways this is not too different from our attempt at fusing different styles in Nihiloxica. The end result could not be more different in vibe, however, and makes for a beautiful Sunday morning!**"**
+
+## Y Ata - Akagambo
+_Isa & Prince_: **"**Akagambo means ‘a word’ in Luganda. It’s a love song by a Ugandan artist, and roughly Y Ata is saying “tell me again the passionate words we used to use, that made me happy.” It’s a good song to chill with a girlfriend on a Sunday morning and it reminds us of the people we love.**"**
+
+## Paulo Kafeero - Dipo Nazigala
+_Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre with extended songs that usually have a message. In this tune the artist, Paulo Kafeero, known as the golden boy of Uganda (and also known to have a serious drinking problem), gives us a warning about drinking too much - the title of the song means close the depot (like a beer depot).**"**
+
+
+# MailTape's selection
+
+## Nihiloxica – Endongo
+_Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people.I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
+
+## Peter Power - Sun Sun Damba
+_Luc_: **"**With samples of an old Cuban track from the late 1950s, and hints of Brazilian influences coming from his then recent Voodoohop collaboration, the Irish producer delivers a solar 7-minute cut for the Canadian/Australian label Multi Culti. Maybe this resume is not international enough to make you chant “eclectic” next to Peter Power’s name… but will you resist the urge to sing along to his bewitching shamanic mantra?”**"**
+
+##  Marijata - No Condition Is Permanent 
+_Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. Spreading afrobeat and funk vibes as far as the genre finds its roots; the rawness of their sound reflects something about the urgency of these young musicians manifesto in a world always “changing for better or worse”. Timeless.**"**
+
+## Mbongwana Star – Malukayi
+_Luc_: **"**Today’s last stop brings us to Congo, more precisely Kinshasa. With its eerie and cold atmosphere, Malukayi evokes whiteness, with hints of outer space and melancholy. Is the astronaut in his makeshift suit on the cover of their album a nod to this statement?  His presence and the warmth of the discrete bassline in the song are both comforting in their own way.**"**
+
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Nihiloxica](http://nihiloxica.com/), and to William for this episode's cool illustration!</p>
