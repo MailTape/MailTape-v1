@@ -10,7 +10,7 @@ track3_link: >-
   https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-paulo-kafeero-ssewakiryanga-alex0704363237
 track4_link: >-
   https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017
-track5_link: 'https://soundcloud.com/multiculti/peter-power-sun-sun-damba-e'
+track5_link: 'https://soundcloud.com/emotional-rescue/b1-shake-the-mind'
 track6_link: 'https://soundcloud.com/nmacraekennedy/no-condition-is-permanent-marijata'
 track7_link: >-
   https://soundcloud.com/world-circuit-records/mbongwana-star-malukayi-feat-konono-no1
@@ -58,8 +58,8 @@ _Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre w
 ## Nihiloxica – Endongo
 _Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
 
-## Peter Power - Sun Sun Damba
-_Luc_: **"**With samples of an old Cuban track from the late 1950s, and hints of Brazilian influences coming from his then recent Voodoohop collaboration, the Irish producer delivers a solar 7-minute cut for the Canadian/Australian label [Multi Culti](https://multiculti.bandcamp.com/). Maybe this resume is not international enough to make you chant “eclectic” next to Peter Power’s name… but will you resist the urge to sing along to his bewitching shamanic mantra?”**"**
+## C Cat Trance - Shake The Mind
+_Luc_: **"**Malka Tuti, Red Axes...**"**
 
 ##  Marijata - No Condition Is Permanent 
 _Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. Spreading afrobeat and funk vibes as far as the genre finds its roots; the rawness of their sound reflects something about the urgency of these young musicians manifesto in a world always “changing for better or worse”. Timeless.**"**
