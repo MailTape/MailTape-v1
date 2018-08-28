@@ -51,16 +51,16 @@ _Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble
 
 # MailTape's selection
 
-## Les Graciés – Compoly
+## Kaja Draksler – Gledalec
 _Sanjay_: **"**I've been listening to '[Low Doses](https://firecrackerrecordings.bandcamp.com/album/firec020-low-doses)' from Les Graciés on repeat for most of this year. It's a genre-defying LP with a curious fusion of mystic beat geometry and electro-acoustic process unshackled from restrictive rhythmic lexicon. A hypnotic and trippy journey!**"**
 
-## Eartheater – Homonyms
+## Cara Stacey & Camilo Ángeles – Cederberg
 _Sanjay_: **"**Alexandra Drewchin's '[Eartheater](http://www.eartheater.solar/)' project is an equally omnivorous offering this morning. Skittering and folding in on itself, Alexandra experiments with varying ratios of the technological and the analogue and synthesises them into a dreamy cosmic lullaby.**"**
 
-##  Elysia Crampton – Valerie & Elysia
+##  Angelica Sanchez Trio – What the Birds Tell Me
 _Sanjay_: **"**[Elysia Crampton](https://soundcloud.com/eande/) is another musician who traces circuitous paths—motifs circling back upon themselves, transitioning into different planes, covering territories that are in constant flux, their boundaries reforming as they are conjured. Elysia's [self-titled album](https://breakworldrecords.bandcamp.com/album/elysia-crampton-3) 'further situates her work within a long Aymaran musical legacy[*](https://breakworldrecords.bandcamp.com/album/elysia-crampton-3) that implicates cultures & sites beyond the Andes (following trajectories of dispersion through the literal migration & interaction of bodies & in the circulation of Aymaran concepts, images, music & goods via the world market after the conquest)'.**"**
 
-## Kate Bush – Army Dreamers
+## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
 _Sanjay_: **"**Alongside Eric's first choice by Joni Mitchell this morning, [Kate Bush](http://katebush.com/) is another of my favourite contemporary precocious songwriters with the ability to convey powerful human stories. Army Dreamers is a mournful waltz written from the perspective of a bereaved mother. It’s an anti-war song that successfully treads the line between compassion and condescension. Lamenting the waste of life that inevitably occurs when young men see military glory as their only realistic chance of advancement, it’s as pertinent today as it was 37 years ago.**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to Eric and Gaël as [Les Graciés](https://soundcloud.com/les-gracies), and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration!</p>
