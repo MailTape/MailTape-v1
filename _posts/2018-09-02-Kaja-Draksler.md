@@ -57,7 +57,7 @@ _Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends
 _Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty and impressionistic flute complements Cara’s piano and other instruments.**"**
 
 ##  Angelica Sanchez Trio – What the Birds Tell Me
-_Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the trio—including Tyshawn Sorey and Michael Formanek—play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
+_Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the rest of the trio—Tyshawn Sorey and Michael Formanek—play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
 
 ## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
 _Sanjay_: **"**I usually take my Sunday morning coffee opposite a Pentecostal church in London. The sound of this choir reminds me of those sunny summer mornings complemented by the joyful sound of the gospel choirs inside. Check out the [live performance of this choral show on Vimeo](https://vimeo.com/174609790).**"**
