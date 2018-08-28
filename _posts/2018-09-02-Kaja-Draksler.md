@@ -36,25 +36,17 @@ episode_URL: 'http://mailta.pe/321/kaja-draksler/'
 <p> If you're in London, Eric and Gaël will be performing together at [Cafe OTO on Monday 16th July](https://cafeoto.co.uk/events/les-gracies/).</p>
 
 
-# Les Graciés's selection
+# Kaja Draksler's selection
 
 
-## Joni Mitchell – Hejira
-_Eric Douglas Porter_: **"**"There’s comfort in melancholy, when there is no need to explain“, a line that hooks a young adult discovering the separation of feelings and actions of the carefree youth of ones past. [Ms. Mitchell](http://jonimitchell.com/) is a master of the written word and the songs crafted as accompaniment only solidify her genius. This song speaks directly to the artists looking to secure their place in history, to leave their mark in the world. Weary travelers following their passions, leaving only a blip on the radar of history.**"**
+## Tahiti Choir – Tahiti Choir Music
+_Kaja Draksler_: **"**Folk music always has a very strong impact on me, especially when there are voices involved. This is a choir from Tahiti.**"**
 
-## [Al Jarreau](http://aljarreau.com/) – Brite ‘N’ Sunny Babe
-_Eric Douglas Porter_: **"**Brite ‘N’ Sunny Babe is a quintessential Sunday morning tune from me that goes back all the way to my childhood. Basically I would play this song along with all the songs from this album as a youth on the weekends, singing along, playing “air” keyboards dreaming of being a member in this band. The music felt so good it brought joy to an otherwise boring Sunday morning of a kid with no siblings in the home to keep company. Now as an adult the music sounds even more sweet and complete, medicinal! We both have him as a longtime musical reference and a place to recharge.**"**
+## Craig Taborn – This Voice Says So
+_Kaja Draksler_: **"**One of my favorite pianists. His solo album [Avenging Angel](http://player.ecmrecords.com/taborn) is just magic. I hope he releases another solo soon.**"**
 
-## Joseph Malik – Melodies
-_Gaël Segalen_: **"**Ample track velvet voice open notes angels choir.
-
-Space for the listener to answer and question at its turn.
-
-First song of the album "Diverse", accompanying me for my first trip to the US, a bit anxious to pose step to Los Angeles for the first time, a song that I was listening to in the plane during my flight, to soothe and give force, feeling fragile, feeling strong, a new birth, ready for a culture shock.
-
-There's a form of suspended time, wandering and a sense of a bigger community in there, promises to meet new people, we aren't alone, but connected souls. Perfect also to wander in airports during stop overs and observe people, trying to read through them. 
-
-We realised that we both refer to/like [Joseph Malik](https://www.discogs.com/artist/31916-Joseph-Malik) and we somehow were both wondering where's he's been gone...We got the answer later via our record label owner who had a band with him in the 90's! And we will let you find out by yourself.**"**
+## Jacobus Gallus – Mirabile Misterium
+_Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble](http://www.huelgasensemble.be/index.php?Itemid=68). You can never hear enough of this!**"**
 
 
 # MailTape's selection
