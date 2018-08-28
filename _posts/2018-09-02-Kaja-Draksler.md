@@ -54,7 +54,7 @@ _Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble
 _Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda, Andriana Minou and Gregor Strnisa with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
 
 ## Cara Stacey & Camilo Ángeles – Cederberg
-_Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty, impressionistic flute complements Cara’s piano and other instruments.**"**
+_Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty and impressionistic flute complements Cara’s piano and other instruments.**"**
 
 ##  Angelica Sanchez Trio – What the Birds Tell Me
 _Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the trio play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
