@@ -62,4 +62,4 @@ _Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays 
 ## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
 _Sanjay_: **"**I usually take my Sunday morning coffee opposite a Pentecostal church in London. The sound of this choir reminds me of those sunny summer mornings complemented by the joyful sound of the gospel choirs inside. Check out the [live performance of this choral show on Vimeo](https://vimeo.com/174609790).**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs](https://www.instagram.com/fromthegarden/) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs](https://vimeo.com/anaismarthecaura) for this episode's cool illustration!</p>
