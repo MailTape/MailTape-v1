@@ -55,12 +55,12 @@ _Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble
 _Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda and Andriana Minou with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
 
 ## Cara Stacey & Camilo Ángeles – Cederberg
-_Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty, impressionistic flute-playing complements Cara’s piano and other instruments.**"**
+_Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty, impressionistic flute complements Cara’s piano and other instruments.**"**
 
 ##  Angelica Sanchez Trio – What the Birds Tell Me
 _Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the trio play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
 
 ## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
-_Sanjay_: **"**Alongside Eric's first choice by Joni Mitchell this morning, [Kate Bush](http://katebush.com/) is another of my favourite contemporary precocious songwriters with the ability to convey powerful human stories. Army Dreamers is a mournful waltz written from the perspective of a bereaved mother. It’s an anti-war song that successfully treads the line between compassion and condescension. Lamenting the waste of life that inevitably occurs when young men see military glory as their only realistic chance of advancement, it’s as pertinent today as it was 37 years ago.**"**
+_Sanjay_: **"**I usually take my Sunday morning coffee opposite a Pentecostal church in London. **"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to Eric and Gaël as [Les Graciés](https://soundcloud.com/les-gracies), and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs](https://www.instagram.com/fromthegarden/) for this episode's cool illustration!</p>
