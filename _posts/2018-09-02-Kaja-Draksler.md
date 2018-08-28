@@ -32,7 +32,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/321/kaja-draksler/'
 ---
 <p id="introduction">Welcome back to a new season of MailTape. This morning we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who supplies us with a dreamy Sunday morning selection of chorales and solo piano.</p>
-<p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that also put her in a special category of improvisers.</p>
+<p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.</p>
 
 
 # Kaja Draksler's selection
