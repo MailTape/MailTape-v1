@@ -31,7 +31,7 @@ track7_title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
 track7_color: bliss
 episode_URL: 'http://mailta.pe/321/kaja-draksler/'
 ---
-<p id="introduction">This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
+<p id="introduction">Welcome back to a new season of MailTape. This morning we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who supplies us with a suitably dreamy Sunday morning selection of chorals and piano.</p>
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.</p>
 <p> If you're in London, Eric and Gaël will be performing together at [Cafe OTO on Monday 16th July](https://cafeoto.co.uk/events/les-gracies/).</p>
 
@@ -52,7 +52,7 @@ _Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble
 # MailTape's selection
 
 ## Kaja Draksler Octet – Gledalec
-_Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda and Andriana Minou with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
+_Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda, Andriana Minou and Gregor Strnisa with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
 
 ## Cara Stacey & Camilo Ángeles – Cederberg
 _Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty, impressionistic flute complements Cara’s piano and other instruments.**"**
