@@ -32,7 +32,7 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
-guestPic: guestPic322h.jpg
+guestPic: guestPic322h2.jpg
 ---
 <p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.</p>
