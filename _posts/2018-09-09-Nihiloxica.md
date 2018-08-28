@@ -10,7 +10,7 @@ track3_link: >-
   https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-paulo-kafeero-ssewakiryanga-alex0704363237
 track4_link: >-
   https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017
-track5_link: 'https://soundcloud.com/emotional-rescue/b1-shake-the-mind'
+track5_link: 'https://soundcloud.com/les-yeux-orange/premiere-red-axes-shake-the-mind'
 track6_link: 'https://soundcloud.com/nmacraekennedy/no-condition-is-permanent-marijata'
 track7_link: >-
   https://soundcloud.com/world-circuit-records/mbongwana-star-malukayi-feat-konono-no1
@@ -33,6 +33,10 @@ track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
 guestPic: guestPic322h2.jpg
+writer: ''
+fbPic: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.</p>
@@ -58,8 +62,8 @@ _Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre w
 ## Nihiloxica – Endongo
 _Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
 
-## C Cat Trance - Shake The Mind
-_Luc_: **"**Malka Tuti, Red Axes...**"**
+## C Cat Trance - Shake The Mind (Red Axes Remix)
+_Luc_: **"**C Cat Trance, Malka Tuti, Red Axes...**"**
 
 ##  Marijata - No Condition Is Permanent 
 _Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. Spreading afrobeat and funk vibes as far as the genre finds its roots; the rawness of their sound reflects something about the urgency of these young musicians manifesto in a world always “changing for better or worse”. Timeless.**"**
