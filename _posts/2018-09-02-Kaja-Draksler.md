@@ -15,7 +15,21 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/321/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/321/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/321/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/321/track7.mp3'
-track1_title: 'Tahiti Choir '
+track1_title: Tahiti Choir – Tahiti Choir Music
+track1_color: bliss
+track2_title: Craig Taborn – This Voice Says So
+track2_color: dreamy
+track3_title: Jacobus Gallus – Mirabile Misterium
+track3_color: bliss
+track4_title: Kaja Draksler – Gledalec
+track4_color: dreamy
+track5_title: Cara Stacey & Camilo Ángeles – Cederberg
+track5_color: bliss
+track6_title: Angelica Sanchez Trio – What the Birds Tell Me
+track6_color: dreamy
+track7_title: Central Australian Aboriginal Women’s Choir – Jesu Nganalala
+track7_color: bliss
+episode_URL: 'http://mailta.pe/321/kaja-draksler/'
 ---
 <p id="introduction">This morning we welcome the lyrical, dreamy and funky Sunday morning selections of [Les Graciés](https://soundcloud.com/les-gracies)—a French-American tandem of a brother and a sister in sound, an evident and karmic encounter of free spirit music makers in full sympathy with the unknown.</p>
 <p>Les Graciés is the conjunction of Eric Douglas Porter ([Afrikan Sciences](https://soundcloud.com/afrikan-sciences)) and Gaël Segalen ([IhearU](http://ihearu.org/)). In their own music, they transcend styles with a deceptive effortlessness conflating sheets of street noise and organic pastoral location recordings with rhythms that seem to have spilled from the field to the club via decades of cryptic encoding.</p>
