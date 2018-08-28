@@ -15,7 +15,7 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/321/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/321/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/321/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/321/track7.mp3'
-track1_title: The Tahiti Choir – Tahiti Choir Music
+track1_title: The Tahitian Choir – Tahiti Choir Music
 track1_color: bliss
 track2_title: Craig Taborn – This Voice Says So
 track2_color: dreamy
@@ -38,7 +38,7 @@ episode_URL: 'http://mailta.pe/321/kaja-draksler/'
 # Kaja Draksler's selection
 
 
-## The Tahiti Choir – Tahiti Choir Music
+## The Tahitian Choir – Tahiti Choir Music
 _Kaja Draksler_: **"**Folk music always has a very strong impact on me, especially when there are voices involved. This is a [choir from Tahiti](https://en.wikipedia.org/wiki/The_Tahitian_Choir).**"**
 
 ## Craig Taborn – This Voice Says So
