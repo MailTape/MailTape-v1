@@ -32,16 +32,7 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
-guestPic: guestPic322-720p.jpg
-description: >-
-  If defeating torpor is ever on your agenda, Ugandan’s own Nihiloxica, with
-  their tribal percussions and visceral arrangements, should prove tremendously
-  helpful. Their eponymous debut, recorded live in single takes, revolves around
-  seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and
-  combines their Bugandan drumming traditions with Western kit drumming and
-  brooding synth layers. Far from unleashing the sonic onslaught we are used to,
-  they seem at ease with lending us their softer side this Sunday morning. Catch
-  them at La Station if you’re lucky enough to be in Paris this September 29!
+guestPic: guestPic322h.jpg
 ---
 <p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.</p>
