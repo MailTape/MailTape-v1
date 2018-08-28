@@ -21,7 +21,7 @@ track2_title: Craig Taborn – This Voice Says So
 track2_color: dreamy
 track3_title: Jacobus Gallus – Mirabile Misterium
 track3_color: bliss
-track4_title: Kaja Draksler – Gledalec
+track4_title: Kaja Draksler Octet – Gledalec
 track4_color: dreamy
 track5_title: Cara Stacey & Camilo Ángeles – Cederberg
 track5_color: bliss
@@ -51,8 +51,8 @@ _Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble
 
 # MailTape's selection
 
-## Kaja Draksler – Gledalec
-_Sanjay_: **"**I've been listening to '[Low Doses](https://firecrackerrecordings.bandcamp.com/album/firec020-low-doses)' from Les Graciés on repeat for most of this year. It's a genre-defying LP with a curious fusion of mystic beat geometry and electro-acoustic process unshackled from restrictive rhythmic lexicon. A hypnotic and trippy journey!**"**
+## Kaja Draksler Octet – Gledalec
+_Sanjay_: **"**One of my own favourite pianists. Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda and Andriana Minou with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
 
 ## Cara Stacey & Camilo Ángeles – Cederberg
 _Sanjay_: **"**Alexandra Drewchin's '[Eartheater](http://www.eartheater.solar/)' project is an equally omnivorous offering this morning. Skittering and folding in on itself, Alexandra experiments with varying ratios of the technological and the analogue and synthesises them into a dreamy cosmic lullaby.**"**
