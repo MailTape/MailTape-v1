@@ -45,27 +45,27 @@ Catch them at [La Station](https://www.facebook.com/events/1949319898472146/) if
 
 
 ## Lou Harrison - Philemon and Baukis
-_Pete & Jacob_: **"**Lou Harrison is a contemporary classical composer who was infatuated with music from the East. He constructed his own gamelan orchestras in America and studied the style extensively - writing fusion pieces for gamelan and Western instruments. In some ways this is not too different from our attempt at fusing different styles in Nihiloxica. The end result could not be more different in vibe, however, and makes for a beautiful Sunday morning!**"**
+_Pete & Jacob_: **"** Lou Harrison is a contemporary classical composer who was infatuated with music from the East. He constructed his own gamelan orchestras in America and studied the style extensively - writing fusion pieces for gamelan and Western instruments. In some ways this is not too different from our attempt at fusing different styles in Nihiloxica. The end result could not be more different in vibe, however, and makes for a beautiful Sunday morning! **"**
 
 ## Y Ata - Akagambo
-_Isa & Prince_: **"**Akagambo means ‘a word’ in Luganda. It’s a love song by a Ugandan artist, and roughly Y Ata is saying “tell me again the passionate words we used to use, that made me happy.” It’s a good song to chill with a girlfriend on a Sunday morning and it reminds us of the people we love.**"**
+_Isa & Prince_: **"** Akagambo means ‘a word’ in Luganda. It’s a love song by a Ugandan artist, and roughly Y Ata is saying “tell me again the passionate words we used to use, that made me happy.” It’s a good song to chill with a girlfriend on a Sunday morning and it reminds us of the people we love.**"**
 
 ## Paulo Kafeero - Dipo Nazigala
-_Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre with extended songs that usually have a message. In this tune the artist, Paulo Kafeero, known as the golden boy of Uganda (and also known to have a serious drinking problem), gives us a warning about drinking too much - the title of the song means close the depot (like a beer depot).**"**
+_Jali & Spyda_: **"** This is the kadongo kamu style, an original Ugandan genre with extended songs that usually have a message. In this tune the artist, Paulo Kafeero, known as the golden boy of Uganda (and also known to have a serious drinking problem), gives us a warning about drinking too much - the title of the song means close the depot (like a beer depot).**"**
 
 
 # MailTape's selection
 
 ## Nihiloxica – Endongo
-_Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
+_Luc_: **"** The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
 
 ## C Cat Trance - Shake The Mind (Red Axes Remix)
-_Luc_: **"**A triple whammy pick right there. C Cat Trance's album Screaming Ghosts smashes boundaries,  spanning tracks imbued with '90s british post-punk experiments or influenced by world music, ranging from ethnic percussions to middle-eastern sounds, in the most tasteful and humble way. And allows me to introduce both an incredible label - [Malka Tuti](https://soundcloud.com/malka-tuti), that enlisted artists from its roster to reimagine some of the tracks - and the not too shaby either [Red Axes](https://soundcloud.com/redaxes) whose version of Shake The Mind is one groovy and bewitching cut!**"**
+_Luc_: **"** A triple whammy pick right there. C Cat Trance's album Screaming Ghosts smashes boundaries,  spanning tracks imbued with '90s british post-punk experiments or influenced by world music, ranging from ethnic percussions to middle-eastern sounds, in the most tasteful and humble way. And allows me to introduce both an incredible label - [Malka Tuti](https://soundcloud.com/malka-tuti), that enlisted artists from its roster to reimagine some of the tracks - and the not too shaby either [Red Axes](https://soundcloud.com/redaxes) whose version of Shake The Mind is one groovy and bewitching cut!**"**
 
 ##  Marijata - No Condition Is Permanent 
-_Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. Spreading afrobeat and funk vibes as far as the genre finds its roots; the rawness of their sound reflects something about the urgency of these young musicians manifesto in a world always “changing for better or worse”. Timeless.**"**
+_Luc_: **"** Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. An yet, they've been spreading afrobeat and funk vibes since the genre planted its roots, and the consistent rawness of their sound reflects something about the urgency of these young musicians' manifesto in a world that's always “changing for better or worse”. Timeless.**"**
 
 ## Mbongwana Star – Malukayi
-_Luc_: **"**Today’s last stop brings us to Congo, more precisely Kinshasa. With its eerie and cold atmosphere, Malukayi evokes whiteness, with hints of outer space and melancholy. Is the astronaut in his makeshift suit on the cover of their album a nod to this statement?  His presence and the warmth of the discrete bassline in the song are both comforting in their own way.**"**
+_Luc_: **"** Today’s last stop brings us to Congo, more precisely Kinshasa. With its eerie and cold atmosphere, Malukayi evokes whiteness, with hints of outer space and melancholy. Is the astronaut in his makeshift suit on the cover of their album a nod to this statement?  His presence and the warmth of the discrete bassline in the song are both comforting in their own way.**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Nihiloxica](http://nihiloxica.com/), and to [William](https://www.williamgirault.com/) for this episode's cool illustration!</p>
