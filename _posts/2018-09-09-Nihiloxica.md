@@ -21,11 +21,11 @@ track1_title: Lou Harrison - Philemon and Baukis
 track2_title: Y Ata - Akagambo
 track3_title: Paulo Kafeero - Dipo Nazigala
 track4_title: Nihiloxica – Endongo
-track5_title: Peter Power - Sun Sun Damba
+track5_title: C Cat Trance - Shake The Mind (Red Axes Remix)
 track6_title: 'Marijata - No Condition Is Permanent '
 track7_title: Mbongwana Star – Malukayi
 track1_color: dreamy
-track2_color: dreamy
+track2_color: vibrant
 track3_color: dreamy
 track4_color: rough
 track5_color: trippy
