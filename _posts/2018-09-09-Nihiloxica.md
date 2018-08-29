@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 illustrator: William Girault
-author: MailTape Crew
+author: Luc
 track1_link: 'https://soundcloud.com/gamelansuarabaru/philemon-and-baukis-lou-harrison'
 track2_link: 'https://soundcloud.com/bodypollmusic/akagambo-y-ata-banton'
 track3_link: >-
@@ -33,6 +33,7 @@ track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
 guestPic: guestPic322h2.jpg
+writer: Luc
 ---
 <p id="introduction">If defeating torpor is ever on your agenda, Ugandan’s own [Nihiloxica](https://nyegenyegetapes.bandcamp.com/album/nihiloxica), with their tribal percussions and visceral arrangements, should prove tremendously helpful.</p>
 <p>Their eponymous debut, recorded live in single takes, revolves around seven Ugandan percussionists – members of the Nilotika Cultural Ensemble – and combines their Bugandan drumming traditions with Western kit drumming and brooding synth layers.</p>
@@ -59,7 +60,7 @@ _Jali & Spyda_: **"**This is the kadongo kamu style, an original Ugandan genre w
 _Luc_: **"**The endongo, akin to a bowl lyre, is considered the national instrument of Baganda people. I couldn’t find any endongo player listed in their EP’s credit though. God only knows what kind of sleazy sound experiments it underwent to merge with the swampy bassline and hypnotic rhythms of the track.**"**
 
 ## C Cat Trance - Shake The Mind (Red Axes Remix)
-_Luc_: **"**C Cat Trance, Malka Tuti, Red Axes...**"**
+_Luc_: **"**A triple whammy pick right there. C Cat Trance's album Screaming Ghosts smashes boundaries,  spanning tracks imbued with '90s british post-punk experiments or influenced by world music, ranging from ethnic percussions to middle-eastern sounds, in the most tasteful and humble way. And allows me to introduce an incredible label - Malka Tuti - that enlisted artists from its roster to reimagine some of the tracks. Red Axes version of Shake The Mind is**"**
 
 ##  Marijata - No Condition Is Permanent 
 _Luc_: **"**Hidden in the shadows of the likes of Ebo Taylor, monument of Ghanaian music, Marijata’s influence remained relatively unknown for the longest time. Spreading afrobeat and funk vibes as far as the genre finds its roots; the rawness of their sound reflects something about the urgency of these young musicians manifesto in a world always “changing for better or worse”. Timeless.**"**
