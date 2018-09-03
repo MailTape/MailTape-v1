@@ -32,7 +32,7 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
-guestPic: guestPic322h2.jpg
+guestPic: guestPic322.jpg
 writer: Luc
 fbPic: fbPic322.JPG
 musiColor: musicColor322.JPG
