@@ -6,14 +6,11 @@ illustrator: William Girault
 author: Luc
 track1_link: 'https://soundcloud.com/gamelansuarabaru/philemon-and-baukis-lou-harrison'
 track2_link: 'https://soundcloud.com/bodypollmusic/akagambo-y-ata-banton'
-track3_link: >-
-  https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-paulo-kafeero-ssewakiryanga-alex0704363237
-track4_link: >-
-  https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017
+track3_link: 'https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-paulo-kafeero-ssewakiryanga-alex0704363237'
+track4_link: 'https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017'
 track5_link: 'https://soundcloud.com/les-yeux-orange/premiere-red-axes-shake-the-mind'
 track6_link: 'https://soundcloud.com/nmacraekennedy/no-condition-is-permanent-marijata'
-track7_link: >-
-  https://soundcloud.com/world-circuit-records/mbongwana-star-malukayi-feat-konono-no1
+track7_link: 'https://soundcloud.com/world-circuit-records/mbongwana-star-malukayi-feat-konono-no1'
 category: '322'
 guest_name: Nihiloxica
 guest_color: rough
