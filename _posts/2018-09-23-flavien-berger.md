@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '324'
 guest_name: Flavien Berger
 guest_color: trippy
