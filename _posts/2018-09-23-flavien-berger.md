@@ -2,6 +2,19 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '324'
+guest_name: Flavien Berger
+guest_color: trippy
+author: ImaCrea
+writer: ImaCrea
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/324/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/324/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/324/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/324/track4.mp3'
+track1_title: Catherine Deneuve - Digital Delay
+track2_title: Laraaji - All of a Sudden
+track3_title: Yves Tumor - Limerence
+track4_title: Flavien Berger - 999999999
 ---
 <p id="introduction">XXXX</p>
 
