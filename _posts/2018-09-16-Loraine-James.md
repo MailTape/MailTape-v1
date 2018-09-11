@@ -37,31 +37,31 @@ episode_URL: 'http://mailta.pe/323/loraine-james/'
 <p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.</p>
 
 
-# Kaja Draksler's selection
+# Loraine James's selection
 
 
-## The Tahitian Choir – Tahiti Choir Music
-_Kaja Draksler_: **"**Folk music always has a very strong impact on me, especially when there are voices involved. This is a [choir from Tahiti](https://en.wikipedia.org/wiki/The_Tahitian_Choir).**"**
+## iLU – It's DOPE!!!
+_Loraine James_: **"**I found this song on Progressive Form's Soundcloud, and it's just a nice song with soft vocals that I really like, because I'm so used to hearing them manipulated in some way in this kind of music, haha.**"**
 
-## Craig Taborn – This Voice Says So
-_Kaja Draksler_: **"**One of my favorite pianists. His solo album [Avenging Angel](http://player.ecmrecords.com/taborn) is just magic. I hope he releases another solo soon.**"**
+## Yuki Ame – Water From Thoughts
+_Loraine James_: **"**My mate sent me this song because they recently supported Shigeto and I knew it was going to be good because he's got a great taste in music. I love the vocal chops with the video game sounding synths, that make it seem playful. I love vocal chops so it was a win for me!**"**
 
-## Jacobus Gallus – Mirabile Misterium
-_Kaja Draksler_: **"**A Slovenian renessaince composer sang by [Huelgas Ensemble](http://www.huelgasensemble.be/index.php?Itemid=68). You can never hear enough of this!**"**
+## SASSY 009 – Are You Leaving?
+_Loraine James_: **"**I found this group from my 'discover weekly' on Spotify and instantly had their EP on repeat since. If you're a fan of Smerz, you'll love Sassy009.**"**
 
 
 # MailTape's selection
 
-## Kaja Draksler Octet – Gledalec
+## Loraine James – Loll (ft. Zarif Miah)
 _Sanjay_: **"**One of my favourite pianists since listening to her [collaboration with Susana Santos Silva](http://kdsss.tumblr.com/). Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda, Andriana Minou and Gregor Strnisa with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
 
-## Cara Stacey & Camilo Ángeles – Cederberg
+## Ouri – Superficial
 _Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty and impressionistic flute complements Cara’s piano and other instruments.**"**
 
-##  Angelica Sanchez Trio – What the Birds Tell Me
+## Kilamanzego – stay floated in the tribe.
 _Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the rest of the trio—Tyshawn Sorey and Michael Formanek—play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
 
-## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
+## Secret Mommy – Clothing Racks (Sears)
 _Sanjay_: **"**I usually take my Sunday morning coffee sat opposite a Pentecostal church in London. The sound of this choir reminds me of those sunny summer mornings complemented by the joyful sound of the gospel choirs inside. See their [live performance of this choral show on Vimeo](https://vimeo.com/174609790).**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's cool illustration!</p>
