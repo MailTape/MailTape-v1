@@ -41,13 +41,13 @@ episode_URL: 'http://mailta.pe/323/loraine-james/'
 
 
 ## iLU – It's DOPE!!!
-_Loraine James_: **"**I found this song on Progressive Form's Soundcloud, and it's just a nice song with soft vocals that I really like, because I'm so used to hearing them manipulated in some way in this kind of music, haha.**"**
+_Loraine James_: **"**I found this song on [Progressive Form's Soundcloud](https://soundcloud.com/progressive-form), and it's just a nice song with soft vocals that I really like, because I'm so used to hearing them manipulated in some way in this kind of music, haha.**"**
 
 ## Yuki Ame – Water From Thoughts
 _Loraine James_: **"**My mate sent me this song because they recently supported Shigeto and I knew it was going to be good because he's got a great taste in music. I love the vocal chops with the video game sounding synths, that make it seem playful. I love vocal chops so it was a win for me!**"**
 
 ## SASSY 009 – Are You Leaving?
-_Loraine James_: **"**I found this group from my 'discover weekly' on Spotify and instantly had their EP on repeat since. If you're a fan of Smerz, you'll love Sassy009.**"**
+_Loraine James_: **"**I found this group from my 'discover weekly' on Spotify and instantly had their EP on repeat since. If you're a fan of Smerz, you'll love [Sassy009](https://www.youtube.com/watch?v=dm1OX0qTB9A).**"**
 
 
 # MailTape's selection
