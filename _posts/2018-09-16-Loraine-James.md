@@ -33,8 +33,8 @@ track7_title: Secret Mommy – Clothing Racks (Sears)
 track7_color: trippy
 episode_URL: 'http://mailta.pe/323/loraine-james/'
 ---
-<p id="introduction">Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.</p>
-<p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.</p>
+<p id="introduction">This morning we are happy to welcome London-based electronic musician, Loraine James, who selects some groovy Sunday morning chops.</p>
+<p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Toe, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.</p>
 
 
 # Loraine James's selection
