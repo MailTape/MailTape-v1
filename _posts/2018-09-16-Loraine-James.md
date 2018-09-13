@@ -36,6 +36,7 @@ guestPic: guestPic323.jpg
 description: >-
   This week we are delighted to welcome London-based electronic musician,
   Loraine James, who selects some groovy Sunday morning chops for us.
+fbPic: fbPic323.jpg
 ---
 <p id="introduction">This week we are delighted to welcome London-based electronic musician, [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.</p>
 <p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Toe, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.</p>
