@@ -36,6 +36,7 @@ guestPic: guestPic323.jpg
 description: >-
   This week we are delighted to welcome London-based electronic musician,
   Loraine James, who selects some groovy Sunday morning chops for us.
+musiColor: musiColor323.png
 fbPic: fbPic323.jpg
 ---
 <p id="introduction">This week we are delighted to welcome London-based electronic musician, [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.</p>
