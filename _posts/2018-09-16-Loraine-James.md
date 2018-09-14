@@ -65,7 +65,7 @@ _Sanjay_: **"**I came across Loraine's music when she was performing alongside a
 _Sanjay_: **"**Released on [Make It Rain Records](https://www.justmakeitrain.com/en/) (a sub-label of Montréal-based Bonsound), [Ouri](https://soundcloud.com/ourimusic)'s debut album is more atmospheric than her previous EP, 'Mazes'. This title track feels just right for this Sunday morning: lots of shifting surface textures, elliptical structures and vocals all sitting comfortably deep in the mix.**"**
 
 ## Kilamanzego – stay floated in the tribe.
-_Sanjay_: **"**[Angelica Sanchez](http://www.angelicasanchez.com/)'s piano lays out a curious theme in this track. It’s a relaxed, spacious and abstract piece in which the rest of the trio—Tyshawn Sorey and Michael Formanek—play with silence, crafting a kind of meditation. Perfect for a Sunday morning.**"**
+_Sanjay_: **"**I was first introduced to [Kilamanzego](https://soundcloud.com/kilamanzego)'s music when previous MailTape guest, [Moor Mother](https://www.mailta.pe/269/moor-mother/), selected one of her tracks. I've been following her output ever since. I think she has created a brilliant catalogue of entrancing beats and mini-séances alongside many others in the smth savant collective in Philadelphia.**"**
 
 ## Secret Mommy – Clothing Racks (Sears)
 _Sanjay_: **"**I usually take my Sunday morning coffee sat opposite a Pentecostal church in London. The sound of this choir reminds me of those sunny summer mornings complemented by the joyful sound of the gospel choirs inside. See their [live performance of this choral show on Vimeo](https://vimeo.com/174609790).**"**
