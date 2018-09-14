@@ -59,7 +59,7 @@ _Loraine James_: **"**I found this group from my 'discover weekly' on Spotify an
 # MailTape's selection
 
 ## Loraine James – Loll (ft. Zarif Miah)
-_Sanjay_: **"**I came across Loraine's music when she was performing alongside a friend of mine, Mora, at [London's Splice festival](https://www.richmix.org.uk/events/music/splice-festival-2018-day-1) back in May this year. Loraine was providing the beats and Mora the visuals. I love the attention-to-detail on silence with this track, as well as the ethereal calm and soothing vocals.**"**
+_Sanjay_: **"**I came across Loraine's music when she was performing alongside a friend of mine, Mora, at [London's Splice festival](https://www.richmix.org.uk/events/music/splice-festival-2018-day-1) back in May this year. Loraine was providing the beats and Mora the visuals. I love the attention-to-detail on silence with this track, as well as the ethereal and soothing vocals.**"**
 
 ## Ouri – Superficial
 _Sanjay_: **"**Released on [Make It Rain Records](https://www.justmakeitrain.com/en/) (a sub-label of Montréal-based Bonsound), [Ouri](https://soundcloud.com/ourimusic)'s debut album is more atmospheric than her previous EP, 'Mazes'. This title track feels just right for this Sunday morning: lots of shifting surface textures, elliptical song structures and vocals all sitting comfortably deep in the mix.**"**
