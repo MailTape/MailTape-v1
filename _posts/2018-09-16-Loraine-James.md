@@ -40,7 +40,7 @@ musiColor: musiColor323.png
 fbPic: fbPic323.jpg
 ---
 <p id="introduction">This week we are delighted to welcome London-based electronic musician, [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.</p>
-<p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Toe, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.</p>
+<p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Circa Survive, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.</p>
 
 
 # Loraine James's selection
@@ -59,7 +59,7 @@ _Loraine James_: **"**I found this group from my 'discover weekly' on Spotify an
 # MailTape's selection
 
 ## Loraine James – Loll (ft. Zarif Miah)
-_Sanjay_: **"**One of my favourite pianists since listening to her [collaboration with Susana Santos Silva](http://kdsss.tumblr.com/). Kaja's most recent octet blends chorale settings of poetry, composed chamber-like passages and extended improvisation. The lyrics are drawn from the poems of Pablo Neruda, Andriana Minou and Gregor Strnisa with herself on piano, Björk Níelsdóttir and Laura Polence on vocals; Ada Rave and Ab Baars on clarinet and tenor sax; George Dumitriu on violin and viola; Lennart Heyndels on bass; and Onno Govaert on drums and percussion.**"**
+_Sanjay_: **"**I came across Loraine's music when she was performing alongside a friend of mine, Mora, at [London's Splice festival](https://www.richmix.org.uk/events/music/splice-festival-2018-day-1) back in May this year. Loraine was providing the beats and Mora the visuals. I love the attention-to-detail on silence with this track, as well as the ethereal calm and soothing vocals.**"**
 
 ## Ouri – Superficial
 _Sanjay_: **"**No stranger to MailTape, [Cara Stacey](https://www.mailta.pe/247/cara-stacey/) has recently released '[Ceder](https://kitrecs.bandcamp.com/album/ceder)' with Camilo Ángeles. Recorded in a day of improvisations, Camilo's floaty and impressionistic flute complements Cara’s piano and other instruments.**"**
