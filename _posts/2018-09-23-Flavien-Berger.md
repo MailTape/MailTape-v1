@@ -15,6 +15,8 @@ track1_title: Catherine Deneuve - Digital Delay
 track2_title: Laraaji - All of a Sudden
 track3_title: Yves Tumor - Limerence
 track4_title: Flavien Berger - 999999999
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/324/track5.mp3'
+guestPic: guestPic324.jpg
 ---
 <p id="introduction">XXXX</p>
 
