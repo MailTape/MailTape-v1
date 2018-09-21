@@ -79,7 +79,7 @@ _ImaCrea_: **"**Cartoonesque chaotic introduction and then a rich and oneiric tr
 _ImaCrea_: **"**Now we're set in space thanks to Flavien, let's keep surfing the vibe with this improvised piece. Fragile, full of textures and dissonent sounds, we hear suddenly a preacher appearing far in the mist. He seems to be flying, who said humans can't levitate? Now is your chance with this track.**"**
 
 ## Arutani - The Mermaid Girl ft. ĂVEM
-_ImaCrea_: **"**Slowly back to earth, the drum acts as gravity and pulls me to the surface of nature. Roots drawing cities through the soil, pulsating with minerals as a network between plants. Nature is our home and only one, the rich bass and distorted voice comes from the ocean with a message : "Get back to reality, don't you see what you are destroying dear human? How long will it takes for you to understand and change? There's no more time.".**"**
+_ImaCrea_: **"**Slowly back to earth, the drum acts as gravity and pulls me to the surface of nature. Roots drawing cities through the soil, pulsating with minerals as a network linking plants together. Nature is our home and only one, the rich bass and distorted voice comes from the ocean with a message : "Get back to reality, don't you see what you are destroying dear human? How long will it takes for you to understand and change? There's no more time.".**"**
 
 ## Tessela - Glisten
 _ImaCrea_: **"**Bipp, bipp. Inside a submarine, a crew ear the radar echoing the call of the mermaid. The energy in this track pumps positivity into my veins. It's no time for letting us sinking, let's come back to the surface, open your body to life, use all your power now. Change! Create something beautiful with all your love.**"**
