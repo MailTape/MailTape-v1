@@ -32,7 +32,9 @@ track6_color: dreamy
 track7_color: rough
 illustrator: Pierre-Julien Fieux
 ---
-<p id="introduction">XXXX</p>
+<p id="introduction">This morning, we have the immense pleasure to invite [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2). Following his work since a while, on the occasion of his new album, he takes the time to share with us a somewhat of a nostalgic morning trip. From past to present, change appears to be the main theme here. Maybe because of the context of this episode, it's not a mystery anymore earth is on the verge of a collapse, we can't keep on but change our way of living. Here are some vibes to help you find the energy to fight with love.</p>
+
+# The trigger
 
 
 # Flavien Berger's selection
