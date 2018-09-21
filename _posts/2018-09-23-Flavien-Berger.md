@@ -49,7 +49,7 @@ From past to present, change appears to be the main theme here. Maybe because of
 # Change, fear and love.
 Change demands to jump in the unknown. There's no way we can imagine what tomorrow will be made of and this brings a lot of anxiety to many nations. Let's not sink in the darkness, let's not be torn appart by apathy.
 
-Let's believe on ourselves, we have everything to change radically. Love is the key and music is one of its best way to communicate it. MailTape is here to fuel your inspiration to create and to share the love, we won't let you down. Breath in the music, dance with each part of your body, pump all your adrenalin and push towards what you strongly believe in. Let's write together tomorrow's history. 
+Let's believe in ourselves, we have everything to change radically. Love is the key and music is one of its best way to communicate it. MailTape is here to fuel your inspiration to create and to share the love, we won't let you down. Breath in the music, dance with each part of your body, pump all your adrenalin and push towards what you strongly believe in. Let's write together tomorrow's history. 
 
 # Flavien Berger's selection
 
