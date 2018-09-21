@@ -23,6 +23,13 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/324/track7.mp3'
 track6_title: Arutani - The Mermaid Girl ft. ĂVEM
 track7_title: Tessela - Glisten
 episode_URL: 'https://mailta.pe/324/flavien-berger/'
+track1_color: dreamy
+track2_color: trippy
+track3_color: dreamy
+track4_color: trippy
+track5_color: bliss
+track6_color: dreamy
+track7_color: rough
 ---
 <p id="introduction">XXXX</p>
 
@@ -41,7 +48,7 @@ Ce morceau est trop beau parce qu'il parle du changement et quand soudain les ch
 Il y'a des changements d'état comme si on voyait l'eau devenir de la glace, il y'a des moments de translation, de métamorphose.**"**
 
 ## Yves Tumor - Limerence
-_Flavien Berger_: **"**On pourrait appeler ça de l'ambient. Ca rappelle un petit peu Donato Dozzi et sa vaporwave. C'est un morceau qui évolue et prend son temps, les arpèges sont supers beaux. Et à un moment intervient dans le morceau ce qu'on pense pouvoir être des archives. Des archives vidéos d'une fille qui est en train d'être filmée par quelqu'un qui l'aime. 
+_Flavien Berger_: **"**On pourrait appeler ça de l'ambient. Ca rappelle un petit peu Donato Dozzy et sa vaporwave. C'est un morceau qui évolue et prend son temps, les arpèges sont supers beaux. Et à un moment intervient dans le morceau ce qu'on pense pouvoir être des archives. Des archives vidéos d'une fille qui est en train d'être filmée par quelqu'un qui l'aime. 
 
 Cette archive on ne sait pas trop bien pourquoi elle est là, on imagine la fille, on imagine les images et elle se perd dans les reverb. C'est super émouvant parce que ça nous rappelle à nous quand on filme quelqu'un qu'on aime et je trouve que le contexte dans lequel on entend cette voix saturée en mauvaise qualité est magnifique. C'est presque une séquence d'amour et j'aime beaucoup ce morceau pour ça.**"**
 
