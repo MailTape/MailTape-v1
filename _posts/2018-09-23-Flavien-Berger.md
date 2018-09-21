@@ -30,6 +30,7 @@ track4_color: trippy
 track5_color: bliss
 track6_color: dreamy
 track7_color: rough
+illustrator: Pierre-Julien Fieux
 ---
 <p id="introduction">XXXX</p>
 
