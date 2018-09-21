@@ -43,7 +43,7 @@ description: >-
   some vibes to help you find the energy to fight with love.
 ---
 <p id="introduction">This morning, we have the immense pleasure to invite [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2). Following his work since a while, at the occasion of his new album he takes the time to share with us a somewhat of a nostalgic morning trip. 
-
+<br><br>
 From past to present, change appears to be the main theme here. Maybe because of the context of this episode. It's not a mystery anymore, earth is on the verge of a collapse. There's a urgent need to change our way of life. Here are some vibes to help you find the energy to fight with love.</p>
 
 # Change, fear and love.
