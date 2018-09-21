@@ -48,16 +48,16 @@ Cette archive on ne sait pas trop bien pourquoi elle est là, on imagine la fill
 
 # MailTape's selection
 
-## Kaja Draksler Octet – Gledalec
+## Flavien Berger - 999999999
 _ImaCrea_: **"**ffff**"**
 
-## Cara Stacey & Camilo Ángeles – Cederberg
+## Bégayer - Le premier jour de l'année
 _ImaCrea_: **"**ffff**"**
 
-##  Angelica Sanchez Trio – What the Birds Tell Me
+## Arutani - The Mermaid Girl ft. ĂVEM
 _ImaCrea_: **"**fff**"**
 
-## Central Australian Aboriginal Women’s Choir – Jesu Nganalala
+## Tessela - Glisten
 _ImaCrea_: **"**ffff**"**
 
 <p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's cool illustration!</p>
