@@ -657,7 +657,7 @@ article {
 
 //petite fonction pour faire ça propre
 .liMusicolor (@index:1, @color:@rough) {
-	&:nth-of-type(@index) {
+	&:nth-of-type(@{index}) {
 		&:before {
 		  color: @color;
 		  font-family: 'icomoon';
@@ -1095,17 +1095,26 @@ article {
 		height: 6.854rem;
 
 		@media only screen and (min-width: 768px) {
-			&:hover {
+			// j'enlève la nécessité de faire un hover sur desktop
+			// &:hover {
 
-				background: fadeout(black, 50%) !important;
+			// 	background: fadeout(black, 50%) !important;
 
+			// 	.re-musiColor {
+			// 		opacity: 1;
+			// 	}
+			// 	h2 {
+			// 		opacity: 1;
+			// 	}
+			// }
+
+			background: fadeout(black, 50%) !important;
 				.re-musiColor {
 					opacity: 1;
 				}
 				h2 {
 					opacity: 1;
 				}
-			}
 		}
 
 		@media only screen and (min-width: 0px) and (max-width: 767px) {
