@@ -68,4 +68,4 @@ _ImaCrea_: **"**Slowly back to earth, the drum acts as gravity and pulls me to t
 ## Tessela - Glisten
 _ImaCrea_: **"**Bipp, bipp. Inside a submarine, a crew ear the radar echoing the call of the mermaid. The energy in this track pumps positivity into my veins. It's no time for letting us sinking, let's come back to the surface, open your body to life, use all your power now. Change! Create something beautiful with all your love.**"**
 
-<p id="outroduction">That's it for this morning. As always, thanks for listening and much love and gratitude to [Kaja Draksler](http://kajadraksler.com/), and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's cool illustration!</p>
+<p id="outroduction">That's it for this morning, hope you find in this episode the energy to overcome your fears and keep sharing your love. As always, thanks for listening and much love and respect to [Flavien Berger](https://paneuropeanrecording.bandcamp.com/album/contre-temps-2) who just released a new album in the galaxy, and to [Pierre-Julien Fieux](http://pierrejulienfieux.com/) for this beautiful illustration!</p>
