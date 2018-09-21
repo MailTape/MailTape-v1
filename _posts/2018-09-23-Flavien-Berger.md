@@ -17,9 +17,12 @@ track3_title: Yves Tumor - Limerence
 track4_title: Flavien Berger - 999999999
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/324/track5.mp3'
 guestPic: guestPic324.jpg
-track5_title: Duoud - Chase
+track5_title: Begayer - Le premier jour de l'année
 track6_link: 'https://soundcloud.com/serafinaudio/arutani-the-mermaid-girl-ft-a'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/324/track7.mp3'
+track6_title: Arutani - The Mermaid Girl ft. ĂVEM
+track7_title: Tessela - Glisten
+episode_URL: 'https://mailta.pe/324/flavien-berger/'
 ---
 <p id="introduction">XXXX</p>
 
