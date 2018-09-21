@@ -22,7 +22,7 @@ track6_link: 'https://soundcloud.com/serafinaudio/arutani-the-mermaid-girl-ft-a'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/324/track7.mp3'
 track6_title: Arutani - The Mermaid Girl ft. ĂVEM
 track7_title: Tessela - Glisten
-episode_URL: 'https://mailta.pe/324/flavien-berger/'
+episode_URL: 'https://www.mailta.pe/324/flavien-berger/'
 track1_color: dreamy
 track2_color: trippy
 track3_color: dreamy
