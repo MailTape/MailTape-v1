@@ -8,9 +8,7 @@
     <meta property="og:url" content="{{ page.episode_URL }}" />
     <meta property="og:image" content="http://mailta.pe/img/{{ page.fbPic }}" />
     <meta property="og:description" content="{{ page.description }}" />
-    <meta property="fb:admins" content="maximeguedj" />
-    <meta property="fb:app_id" content="185828848128617" />
-
+ 
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -36,6 +34,7 @@
     <meta name="theme-color" content="#ffffff">
 
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
+
     <script>
         WebFont.load({
           google: {
@@ -215,52 +214,26 @@
 
     </script>
 
-
+    <!-- Matomo -->
     <script type="text/javascript">
-    var _gaq = _gaq || [];
-
-    (function() {
-        var ga = document.createElement('script');
-        ga.type = 'text/javascript';
-        ga.async = true;
-        ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(ga, s);
-    })();
+      var _paq = _paq || [];
+      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+      _paq.push(["setDoNotTrack", true]);
+      _paq.push(['trackPageView']);
+      _paq.push(['enableLinkTracking']);
+      (function() {
+        var u="https://mailtape.innocraft.cloud/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '1']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+      })();
     </script>
+    <!-- End Matomo Code -->
 
 
-    <!-- dataLayer for Google Tag Manager -->
-    <script type="text/javascript">
-    window.dataLayer = window.dataLayer || [];
-    window.dataLayer.push({
-        'artist' : '{{ page.guest_name }}',
-        'episode' : '{{ page.category }}',
-        'color' : '{{ post.guest_color }}',
-        'track_1' : "{{ page.track1_title }}",
-        'track_2' : "{{ page.track2_title }}",
-        'track_3' : "{{ page.track3_title }}",
-        'track_4' : "{{ page.track4_title }}",
-        'track_5' : "{{ page.track5_title }}",
-        'track_6' : "{{ page.track6_title }}",
-        'track_7' : "{{ page.track7_title }}"
-    });
-    </script>
-
-    <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="1f2a4ec9-5341-4a1a-bfc9-6698569b7f7d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
     
 </head>
 
 <body>
-    <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PC3N5D"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-    '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-PC3N5D');</script>
-    <!-- End Google Tag Manager -->
-
-
     <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a> IN ORDER TO DISPLAY WELL MAILTAPE.</noscript>

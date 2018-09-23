@@ -70,6 +70,18 @@ body {
 	font-size: 0.618rem;
 	margin: 0.5rem 0;
 	overflow: hidden;
+
+	h1 {
+		font-size: 0.8rem;
+		margin: 0.1rem;
+	}
+
+	h2 {
+		font-size: 0.7rem;
+		margin:0.1rem;
+		line-height:1.1rem;
+	}
+
 	p {
 		display: inline;
 	}
@@ -892,15 +904,8 @@ article {
 	}
 }
 
-.support_aside {
 
-	margin-bottom: 0.5em;
-
-}
-
-.support_us {
-	text-align: center;
-	position: relative;
+#creditAndSupport {
 
 	.button {
 		display: block;
@@ -910,7 +915,7 @@ article {
 		font-family: 'superspitze_groteskregular';
 		text-align:center;
 		.rounded-corners;
-		margin: 0.5rem 0;
+		margin: 0 0 0.5rem 0;
 		.transition;
 		border:none;
 		width: 100%;
@@ -922,79 +927,7 @@ article {
 		background: rgba(58, 64, 64, 1.0000);
 		cursor: pointer;
 		}
-	}
 
-	table {
-		border:none;
-		display: table;
-		position: absolute;
-		width: 65%;
-		margin:0.5em 0;
-		background: none;
-	}
-
-	select {
-    padding:0.4em 1.7em 0.4em 0.5em;
-    .rounded-corners;
-    background:rgba(237, 237, 237, 1.0000);
-    color:#888;
-    border:none;
-    outline:none;
-    display: inline-block;
-    -webkit-appearance:none;
-    -moz-appearance:none;
-    appearance:none;
-    cursor:pointer;
-    font-family: 'Roboto',"Helvetica Neue",Helvetica,Arial;
-    font-weight: 300;
-    .transition;
-
-     -moz-appearance: none;
-    text-indent: 0.01px;
-    text-overflow: '';
-
-	}
-
-	label {position:relative;}
-	label:after {
-	    content:'<>';
-	    font:11px "Consolas", monospace;
-	    color:#888;
-	    -webkit-transform:rotate(90deg);
-	    -moz-transform:rotate(90deg);
-	    -ms-transform:rotate(90deg);
-	    transform:rotate(90deg);
-	    right:0.7em; top:1.2em;
-	    padding:0 0 2px;
-	    border-bottom:1px solid #ddd;
-	    position:absolute;
-	    pointer-events:none;
-	}
-	label:before {
-	    content:'';
-	    right:0; top:0em;
-	    width:1.5em; height:0;
-	    background:rgba(237, 237, 237, 1.0000);
-	    position:absolute;
-	    pointer-events:none;
-	    display:block;
-
-	}
-
-	.paypal_options {
-		width: 100%;
-		border: none;
-	}
-}
-
-#articleFooter {
-	margin-top: 4fem;
-}
-
-
-#creditAndSupport {
-
-	.button {
 		@media only screen and (min-width: 767px) {
 			font-size: 0.618rem;
 		}
