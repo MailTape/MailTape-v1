@@ -277,7 +277,7 @@ $("#topbar-signup-form").submit(function(e){
 
 		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
 		  function(data) {
-		  		console.log("data: "+data);
+		  		//console.log("data: "+data);
 		      if(data)
 		      {
 		      	if(data=="Some fields are missing.")
@@ -302,11 +302,11 @@ $("#topbar-signup-form").submit(function(e){
 		      	}
 		      	else
 		      	{
-			      	$("#topbar-status").text("You're subscribed "+name+"!");
+			      	$("#topbar-status").text("Oh yeah "+name+"!");
 			      	$("#topbar-status").css("color", "green");
 
 			      	setTimeout(function() {
-	    				$('#topbar-subscription').fadeOut('slow');
+	    				$('#topbar-subscription-form').fadeOut('slow');
 					}, 3000);
 		      	}
 		      }
