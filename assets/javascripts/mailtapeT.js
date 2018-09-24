@@ -307,7 +307,7 @@ $("#topbar-signup-form").submit(function(e){
 
 			      	setTimeout(function() {
 	    				$('#topbar-subscription-form').fadeOut('slow');
-					}, 3000);
+					}, 1500);
 		      	}
 		      }
 		      else
