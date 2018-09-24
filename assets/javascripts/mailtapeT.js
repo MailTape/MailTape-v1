@@ -304,6 +304,9 @@ $("#topbar-signup-form").submit(function(e){
 		      	{
 			      	$("#topbar-status").text("Oh yeah "+name+"!");
 			      	$("#topbar-status").css("color", "green");
+			      	$("#topbar-subscribeButton").fadeOut('slow');
+			      	$("#mobile-subscribeButton").fadeOut('slow');
+			      	
 
 			      	setTimeout(function() {
 	    				$('#topbar-subscription-form').fadeOut('slow');
