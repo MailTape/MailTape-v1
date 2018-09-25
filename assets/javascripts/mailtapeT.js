@@ -429,27 +429,30 @@ $("#mobile-signup-form").submit(function(e){
 		}
 
 
-	// petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
-    	var scrolledDown=false;
+// désactivé car pas certain que les gens aiment qu'on leur impose un scroll. A voir si ça influe sur les usages..
+	// // petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
+ //    	var scrolledDown=false;
 
-    	$(".playlist a , #playButtonAsidePlaylist, #playButton").click(function() {
+ //    	$(".playlist a , #playButtonAsidePlaylist, #playButton").click(function() {
 
-    	 	if (!scrolledDown && $(document).scrollTop()<100) {
-	    	 	setTimeout(function(){
+ //    	 	if (!scrolledDown && $(document).scrollTop()<100) {
+	//     	 	setTimeout(function(){
 
-	    	 	page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function(){
-  					page.stop();
-				});
+	//     	 	page.on("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove", function(){
+ //  					page.stop();
+	// 			});
 
-	    		page.animate({
-					scrollTop: $("#player").offset().top+1
-					}, 20000, 'easeInOutSine' , function(){
-						page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
-					});
-	    		}, 5000);
-	    		scrolledDown=true;
-    	 	}
-    	});
+	//     		page.animate({
+	// 				scrollTop: $("#player").offset().top+1
+	// 				}, 20000, 'easeInOutSine' , function(){
+	// 					page.off("scroll mousedown wheel DOMMouseScroll mousewheel keyup touchmove");
+	// 				});
+	//     		}, 5000);
+	//     		scrolledDown=true;
+ //    	 	}
+ //    	});
+
+// zone en savoir plus en footer
 
     	$("#footerLearnMore").click(function(){
     		$(this).fadeOut('slow');
@@ -460,6 +463,7 @@ $("#mobile-signup-form").submit(function(e){
 	    // 		, 100);
     	});
 
+// mini fleur musicolor
     	var timeoutMusiColorMiniIcon;
     	$("#musiColorMiniIcon").toggle(function(){
     			$(".icon-control").addClass("musiColorHelperVisible");
