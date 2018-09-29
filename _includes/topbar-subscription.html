@@ -12,7 +12,7 @@
             <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="topbar-signup-form" id="topbar-signup-form" target="_blank">
                 <input type="text" name="topbar-name" placeholder="Alex" required>
                 <input type="email" name="topbar-email" placeholder="alex@mail.com" required>
-                <button type="submit" name="topbar-subscribe" id="topbar-subscribeButton">Set weekly reminder 🤗</button>
+                <button type="submit" name="topbar-subscribe" id="topbar-subscribeButton" onclick="_paq.push(['FormAnalytics::trackFormConversion', document.getElementById('topbar-signup-form')])">Set weekly reminder 🤗</button>
                 <br><p id="topbar-status"></p>
             </form>
         </div>
@@ -40,7 +40,7 @@
                         <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
                             <input type="text" name="mobile-name" placeholder="Alex" required>
                             <input type="email" name="mobile-email" placeholder="alex@mail.com" required>
-                            <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton">Send it to me 🤗</button>
+                            <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton" onclick="_paq.push(['FormAnalytics::trackFormConversion', document.getElementById('mobile-subscribeButton')])">Send it to me 🤗</button>
                             <p id="mobile-status"></p>
                         </form>
                         </div>

@@ -315,7 +315,9 @@ $("#topbar-signup-form").submit(function(e){
 		      }
 		      else
 		      {
-		      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
+		      	$("#topbar-status").text("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
+		      	$("#topbar-status").css("color", "red");
+		      	//alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
 		      }
 		  }
 		);
@@ -427,6 +429,13 @@ $("#mobile-signup-form").submit(function(e){
 			var comingFromMail =true;
 
 		}
+
+// catch erreur lorsque iris (serveur mailing) est dead
+$( document ).ajaxError(function( event, jqxhr, settings, thrownError ) {
+  if ( settings.url == "https://iris.mailta.pe/subscribe.php" ) {
+    alert("Sorry, unable to subscribe. 😣 If you keep seeing this error, please contact us! > crew@mailta.pe 🙏");
+  }
+});
 
 
 // désactivé car pas certain que les gens aiment qu'on leur impose un scroll. A voir si ça influe sur les usages..
