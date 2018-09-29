@@ -306,11 +306,11 @@ $("#topbar-signup-form").submit(function(e){
 			      	$("#topbar-status").css("color", "green");
 			      	$("#topbar-subscribeButton").fadeOut('slow');
 			      	$("#mobile-subscribeButton").fadeOut('slow');
-			      	
+			      	_paq.push(['FormAnalytics::trackFormConversion', 'topbar-signup-form']);
 
 			      	setTimeout(function() {
 	    				$('#topbar-subscription-form').fadeOut('slow');
-					}, 1500);
+					}, 1000);
 		      	}
 		      }
 		      else
@@ -376,12 +376,13 @@ $("#mobile-signup-form").submit(function(e){
 		      	}
 		      	else
 		      	{
-			      	$("#mobile-status").text("You're subscribed "+name+"!");
+			      	$("#mobile-status").text("You're now subscribed "+name+"!");
 			      	$("#mobile-status").css("color", "green");
+			      	_paq.push(['FormAnalytics::trackFormConversion', 'mobile-signup-form']);
 
 			      	setTimeout(function() {
 	    				$('#mobile-subscription').fadeOut('slow');
-					}, 3000);
+					}, 1000);
 		      	}
 		      }
 		      else
