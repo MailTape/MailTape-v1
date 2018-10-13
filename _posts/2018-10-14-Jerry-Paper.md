@@ -29,6 +29,36 @@ track6_color: bliss
 track7_title: Avventur - Lise
 track7_color: trippy
 ---
-## A New Post
+<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s selection. Jerry paper is Lucas Nathan, a xxx native relocated in xxx. Taking on several musical identities, ranging from jazzy to more xxxx. Sometimes cartoonish, sometimes dystopian, sometimes out-of-this-world. Please enter Jerry Paper’s musical multiverse. Hope you’re ready for the trip. He released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby)!
+<br><br>
+Shades of glittery pink, frosty white and velvety dark purple constitute the colour palette for this episode. Feels like languid dance moves and intense shared gazes from across a dancefloor. The theme is: less-is-more voluptuous music. Enjoy.</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# Jerry Paper's selection
+
+## Matty - Every Moment I Live To Come
+_Jerry Paper_: **"**Matty Tavares makes very excellent music outside of his role as piano man in [Badbadnotgood](https://www.mailta.pe/110/bbng/), and he helped produce my upcoming LP. Here he embodies 90s chill-groove in his own unique way and I think it's a nice mellow way to start the day.**"**
+
+## Noah Wall - [John Cage Laughing](https://soundcloud.com/noahwall/john-cage-laughing)
+_Jerry Paper_: **"**Noah Wall is one of the most interesting and excellent people I've had the pleasure of being friends with. When I lived in New York we had a club called the Nacho Research Center where we would investigate the limits of the definition of "nacho", which often means translating non-nacho dishes into nacho form. The epitome of this is Noah's Shrimp Scampi Nachos. Anyway, I love him dearly, and equally love his sonic experiments. I considered putting his field recordings of Guitar Center here (just as hectic and insane as you would imagine) but figured there could be no better way to start a Sunday morning than listening to a roughly 40 minute string of samples of John Cage laughing.**"**
+
+## Macula Dog - I Make Lake
+_Jerry Paper_: **"**Macula Dog is quite possibly my favorite current band. This song is the manifestation of your Sunday morning hangover. Enjoy.**"**
+
+
+# MailTape's selection
+
+## Jerry Paper - XXX
+_Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its honesty. His lyrics are beautifully written and I’ve identified to more than I would care to admit. My favorite side of his music is the mix of sad, self-deprecating songs with the perfect amount of irony making it not too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
+
+## yungatita - Bedroom
+_Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
+
+## Ross from Friends - John Cage
+_Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
+
+## avventur - Lise
+_Inès_: **"**, **"**
+
+
+<p id="outroduction">That's it for this morning. Thanks so much for listening and lots of love to Pablo from [Moodoïd](https://www.facebook.com/Moodoid) for his selection, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this beautiful illustration! Have a spicy Sunday.</p>
