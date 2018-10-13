@@ -8,12 +8,10 @@ writer: Sanjay Mistry
 category: '323'
 guest_name: Loraine James
 guest_color: trippy
-track1_link: >-
-  https://soundcloud.com/progressive-form/ilu-its-dope-from-dont-watch-the-sun-pfcd71
+track1_link: 'https://soundcloud.com/progressive-form/ilu-its-dope-from-dont-watch-the-sun-pfcd71'
 track2_link: 'https://soundcloud.com/yukinoame/water-from-thoughts'
 track3_link: 'https://soundcloud.com/sassy009/are-you-leaving-2'
-track4_link: >-
-  https://soundcloud.com/lorainejames/song-for-2017-29-demo-ft-zarif-miah-extended-version
+track4_link: 'https://soundcloud.com/lorainejames/song-for-2017-29-demo-ft-zarif-miah-extended-version'
 track5_link: 'https://soundcloud.com/ourimusic/superficial'
 track6_link: 'https://soundcloud.com/kilamanzego/stay-floated-in-the-tribe'
 track7_link: 'https://soundcloud.com/secretmommy/clothing-racks-sears'
