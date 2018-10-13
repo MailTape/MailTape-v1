@@ -64,7 +64,7 @@ _Inès_: **"**It has been a while since I’ve listened to a song on repeat. Thi
 _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
 
 ## Avventur - Lise
-_Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inavertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what it is. It's cool. This track feels like moving forward when facing super strong winds.**"**
+_Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inadvertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what their music is. It's cool. This track feels like moving forward when facing super strong winds.**"**
 
 
 <p id="outroduction">That's it for this morning. As alwaysn thanks so much for listening! Big love to [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/) for his great selection, and to [Camille Céléstin](http://bravocamo.studio/) for the amazing illustration! Have a colourful Sunday!</p>
