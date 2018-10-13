@@ -24,7 +24,7 @@ track4_title: Jerry Paper - Halfway Zen
 track4_color: trippy
 track5_title: yungatita - Bedroom
 track5_color: dreamy
-track6_title: Ross from Friends - John Cage
+track6_title: Ross From Friends - John Cage
 track6_color: bliss
 track7_title: Avventur - Lise
 track7_color: trippy
@@ -63,7 +63,7 @@ _Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with
 ## yungatita - Bedroom
 _Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
 
-## Ross from Friends - John Cage
+## Ross From Friends - John Cage
 _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
 
 ## Avventur - Lise
