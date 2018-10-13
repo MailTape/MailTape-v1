@@ -29,10 +29,15 @@ track6_color: bliss
 track7_title: Avventur - Lise
 track7_color: trippy
 guestPic: guestPic327.jpg
+description: >-
+  This morning, please welcome Jerry Paper's eclectic selection. His music is
+  multi-faceted. It's witty and stays graceful at all times. Are you ready to
+  enter Jerry Paper’s musical multiverse? 
+episode_URL: 'https://www.mailta.pe/327/jerry-paper/'
 ---
-<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry paper is Lucas Nathan, an American artist from Los Angeles. Taking on several musical identities,jazzy to more xxxx. He is made Sometimes cartoonish, sometimes dystopian, sometimes out-of-this-world. it's witty and quirky at times and keeps a certain grace at all times Please enter Jerry Paper’s musical multiverse. Hope you’re ready for the trip. He released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby)!
-<br><br>
-.</p>
+<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his excellent latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
+<br>
+This morning, things are soft, chill, funny and deconstructed. Are you ready to enter Jerry Paper’s musical multiverse? Hope you'll enjoy the trip.</p>
 
 
 # Jerry Paper's selection
@@ -50,7 +55,7 @@ _Jerry Paper_: **"**Macula Dog is quite possibly my favorite current band. This 
 # MailTape's selection
 
 ## Jerry Paper - XXX
-_Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its realness. The lyrics are smart, honest, and he knows how to sing about feelings without making it too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
+_Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its realness. His lyrics are smart, honest, and he knows how to sing about feelings without making it too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
 
 ## yungatita - Bedroom
 _Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
