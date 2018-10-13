@@ -28,10 +28,11 @@ track6_title: Ross from Friends - John Cage
 track6_color: bliss
 track7_title: Avventur - Lise
 track7_color: trippy
+guestPic: guestPic327.jpg
 ---
-<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s selection. Jerry paper is Lucas Nathan, a xxx native relocated in xxx. Taking on several musical identities, ranging from jazzy to more xxxx. Sometimes cartoonish, sometimes dystopian, sometimes out-of-this-world. Please enter Jerry Paper’s musical multiverse. Hope you’re ready for the trip. He released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby)!
+<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry paper is Lucas Nathan, an American artist from Los Angeles. Taking on several musical identities,jazzy to more xxxx. He is made Sometimes cartoonish, sometimes dystopian, sometimes out-of-this-world. it's witty and quirky at times and keeps a certain grace at all times Please enter Jerry Paper’s musical multiverse. Hope you’re ready for the trip. He released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby)!
 <br><br>
-Shades of glittery pink, frosty white and velvety dark purple constitute the colour palette for this episode. Feels like languid dance moves and intense shared gazes from across a dancefloor. The theme is: less-is-more voluptuous music. Enjoy.</p>
+.</p>
 
 
 # Jerry Paper's selection
@@ -49,7 +50,7 @@ _Jerry Paper_: **"**Macula Dog is quite possibly my favorite current band. This 
 # MailTape's selection
 
 ## Jerry Paper - XXX
-_Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its honesty. His lyrics are beautifully written and I’ve identified to more than I would care to admit. My favorite side of his music is the mix of sad, self-deprecating songs with the perfect amount of irony making it not too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
+_Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its realness. The lyrics are smart, honest, and he knows how to sing about feelings without making it too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
 
 ## yungatita - Bedroom
 _Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
@@ -57,8 +58,8 @@ _Inès_: **"**It has been a while since I’ve listened to a song on repeat. Thi
 ## Ross from Friends - John Cage
 _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
 
-## avventur - Lise
-_Inès_: **"**, **"**
+## Avventur - Lise
+_Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inavertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what it is. It's cool. This track feels like moving forward when facing super strong winds.**"**
 
 
-<p id="outroduction">That's it for this morning. Thanks so much for listening and lots of love to Pablo from [Moodoïd](https://www.facebook.com/Moodoid) for his selection, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this beautiful illustration! Have a spicy Sunday.</p>
+<p id="outroduction">That's it for this morning. As alwaysn thanks so much for listening! Big love to [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/) for his great selection, and to [Camille Céléstin](http://bravocamo.studio/) for the amazing illustration! Have a colourful Sunday!</p>
