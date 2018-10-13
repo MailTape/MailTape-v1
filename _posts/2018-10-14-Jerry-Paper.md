@@ -38,7 +38,7 @@ fbPic: fbPic327.png
 musiColor: musiColor327.png
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/327/track2.mp3'
 ---
-<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
+<p id="introduction">This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
 <br><br>
 This morning, things are soft, chill, funny and deconstructed. Are you ready to enter Jerry Paper’s musical multiverse? Hope you'll enjoy the trip.</p>
 
@@ -70,4 +70,4 @@ _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turni
 _Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inadvertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what their music is. It's cool. This track feels like moving forward when facing super strong winds.**"**
 
 
-<p id="outroduction">That's it for this morning. As alwaysn thanks so much for listening! Big love to [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/) for his great selection, and to [Camille Céléstin](http://bravocamo.studio/) for the amazing illustration! Have a colourful Sunday!</p>
+<p id="outroduction">That's it for this morning. As alwaysn thanks so much for listening! Big love to [Jerry Paper](https://jerrypaper.bandcamp.com/) for his great selection, and to [Camille Céléstin](http://bravocamo.studio/) for the amazing illustration! Have a colourful Sunday!</p>
