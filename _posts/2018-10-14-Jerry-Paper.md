@@ -38,7 +38,7 @@ fbPic: fbPic327.png
 musiColor: musiColor327.png
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/327/track2.mp3'
 ---
-<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
+<p id="introduction">This morning, please welcome [Jerry Paper](https://www.facebook.com/Jerry-Paper-366269650150225/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
 <br><br>
 This morning, things are soft, chill, funny and deconstructed. Are you ready to enter Jerry Paper’s musical multiverse? Hope you'll enjoy the trip.</p>
 
@@ -57,7 +57,7 @@ _Jerry Paper_: **"**Macula Dog is quite possibly my favorite current band. This 
 
 # MailTape's selection
 
-## Jerry Paper - XXX
+## Jerry Paper - Halfway Zen
 _Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its realness. His lyrics are smart, honest, and he knows how to sing about feelings without making it too whiny. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
 
 ## yungatita - Bedroom
