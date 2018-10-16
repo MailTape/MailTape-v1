@@ -46,7 +46,7 @@ _Mary Lattimore_: **"**I like the idea of listening to classical music on a Sund
 _Mary Lattimore_: **"**This one is pretty heavy and gorgeous and makes your heart feel something. I can see it being really luminous and not as sorrowful on a Sunday morning as late on a Saturday night. You can design your own context for such a glowing thing, sometimes. **"**
 
 ##  Baird Sisters – Tracks
-_Mary Lattimore_: **"**The Baird sisters, Meg and Laura, are both super musicians on their own, but combined, their sister-harmonies and sister-instincts are clear and fun to admire. I love this song. **"**
+_Mary Lattimore_: **"**[The Baird sisters](http://www.thebairdsisters.com/), Meg and Laura, are both super musicians on their own, but combined, their sister-harmonies and sister-instincts are clear and fun to admire. I love this song. **"**
 
 
 # MailTape's selection
