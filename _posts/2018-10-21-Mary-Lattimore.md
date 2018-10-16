@@ -51,16 +51,16 @@ _Mary Lattimore_: **"**The Baird sisters, Meg and Laura, are both super musician
 
 # MailTape's selection
 
-## Jerry Paper - Halfway Zen
+## Mary Lattimore - Hello From the Edge of the Earth
 _Inès_: **"**Jerry Paper is... versatility. I’ve actually discovered him with MailTape (thanks [Aldous RH](https://www.mailta.pe/274/aldous-rh/) and [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)!) and I’ve been impressed by the different musical genres he takes on while maintaining his identity. But the thing I love the most in his music is its realness. His lyrics are smart, honest, and he knows how to sing about feelings without making it too whiny or awkward. His music is a gentle reminder that life is absurd and that nothing really matters (but in a good way).**"**
 
-## yungatita - Bedroom
+## Áine O'Dwyer – Tremor
 _Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
 
-## Ross From Friends - John Cage
+## Orla Wren – The Cup Of Remembered Things (w/ Aaron Martin & Isnaj Dui)
 _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
 
-## Avventur - Lise
+## United Bible Studies – Hazlehurst Requiem
 _Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inadvertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what their music is. It's cool. This track feels like moving forward when facing super strong winds.**"**
 
 
