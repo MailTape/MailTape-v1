@@ -30,6 +30,7 @@ track6_color: dreamy
 track7_title: United Bible Studies – Hazlehurst Requiem
 track7_color: trippy
 episode_URL: 'http://mailta.pe/328/mary-lattimore/'
+guestPic: guestPic328.jpg
 ---
 <p id="introduction">This morning, please welcome [Jerry Paper](https://jerrypaper.bandcamp.com/)'s eclectic selection. Jerry Paper is Lucas Nathan, an American artist from Los Angeles. Jerry Paper's music is multi-faceted: quirky, cartoonish, dystopian, out-of-this-world, melancholic, ironic. It's witty and stays graceful at all times. Jerry Paper released his latest album two days ago, [check it out](https://www.stonesthrow.com/store/album/jerrypaper/like-a-baby). 
 <br><br>
