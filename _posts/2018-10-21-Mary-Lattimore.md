@@ -36,16 +36,16 @@ episode_URL: 'http://mailta.pe/328/mary-lattimore/'
 This morning, things are soft, chill, funny and deconstructed. Are you ready to enter Jerry Paper’s musical multiverse? Hope you'll enjoy the trip.</p>
 
 
-# Jerry Paper's selection
+# Mary Lattimore's selection
 
-## Matty - Every Moment I Live To Come
-_Jerry Paper_: **"**Matty Tavares makes very excellent music outside of his role as piano man in [Badbadnotgood](https://www.mailta.pe/110/bbng/), and he helped produce my upcoming LP. Here he embodies 90s chill-groove in his own unique way and I think it's a nice mellow way to start the day.**"**
+## Brian Eno – Fullness of Wind.
+_Mary Lattimore_: **"**I like the idea of listening to classical music on a Sunday morning and I love this morphed version of the Canon in D, which I've played millions of times before at weddings. It's real weird to my ears, and totally luxurious and beautiful.**"**
 
-## Noah Wall - [John Cage Laughing](https://soundcloud.com/noahwall/john-cage-laughing)
-_Jerry Paper_: **"**Noah Wall is one of the most interesting and excellent people I've had the pleasure of being friends with. When I lived in New York we had a club called the Nacho Research Center where we would investigate the limits of the definition of "nacho", which often means translating non-nacho dishes into nacho form. The epitome of this is Noah's Shrimp Scampi Nachos. Anyway, I love him dearly, and equally love his sonic experiments. I considered putting his field recordings of Guitar Center here (just as hectic and insane as you would imagine) but figured there could be no better way to start a Sunday morning than listening to a roughly 40 minute string of samples of John Cage laughing.**"**
+## Henryk Górecki - Third Symphony Movement 3
+_Mary Lattimore_: **"**This one is pretty heavy and gorgeous and makes your heart feel something. I can see it being really luminous and not as sorrowful on a Sunday morning as late on a Saturday night. You can design your own context for such a glowing thing, sometimes. **"**
 
-## Macula Dog - I Make Lake
-_Jerry Paper_: **"**Macula Dog is quite possibly my favorite current band. This song is the manifestation of your Sunday morning hangover. Enjoy.**"**
+##  Baird Sisters – Tracks
+_Mary Lattimore_: **"**The Baird sisters, Meg and Laura, are both super musicians on their own, but combined, their sister-harmonies and sister-instincts are clear and fun to admire. I love this song. **"**
 
 
 # MailTape's selection
