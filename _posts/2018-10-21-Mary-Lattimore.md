@@ -39,7 +39,7 @@ This morning, things are soft, chill, funny and deconstructed. Are you ready to 
 
 # Mary Lattimore's selection
 
-## Brian Eno – Fullness of Wind.
+## Brian Eno – Fullness of Wind
 _Mary Lattimore_: **"**I like the idea of listening to classical music on a Sunday morning and I love this morphed version of the Canon in D, which I've played millions of times before at weddings. It's real weird to my ears, and totally luxurious and beautiful.**"**
 
 ## Henryk Górecki - Third Symphony Movement 3
