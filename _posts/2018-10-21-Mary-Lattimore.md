@@ -63,7 +63,7 @@ _Sanjay_: **"**Taken from Mary Lattimore's latest LP, [Hundreds of Days](https:/
 _Sanjay_: **"**A muted piano improvisation from another harpist, [Áine O'Dwyer](https://soundcloud.com/aine-o-dwyer). Listening to it makes everything slow down for me. In her own words, "it still sits in my parents' sitting room and each time I visit them, I spend some time catching up with my old friend".**"**
 
 ## Orla Wren – The Cup Of Remembered Things (w/ Aaron Martin & Isnaj Dui)
-_Inès_: **"**Included as the bonus track on [The Blizzard That Birthed Her](https://aaronmartin.bandcamp.com/album/the-blizzard-that-birthed-her), 'The Cup Of Remembered Things' uses eerie found sounds and the occasional ethereal vocal sample to calming effect.**"**
+_Inès_: **"**Included as the bonus track on [The Blizzard That Birthed Her](https://aaronmartin.bandcamp.com/album/the-blizzard-that-birthed-her), 'The Cup Of Remembered Things' uses eerie found sounds and the occasional ethereal vocal sample to a calming effect.**"**
 
 ## United Bible Studies – Hazlehurst Requiem
 _Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inadvertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what their music is. It's cool. This track feels like moving forward when facing super strong winds.**"**
