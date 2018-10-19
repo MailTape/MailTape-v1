@@ -69,4 +69,4 @@ _Sanjay_: **"**Included as the bonus track on [The Blizzard That Birthed Her](ht
 _Inès_: **"**I wanted to mirror Jerry Paper's last pick with a kind of similar one. I've inadvertently liked a few Avventur songs before realising that they were from the same artist. I honestly wouldn't be able to describe what their music is. It's cool. This track feels like moving forward when facing super strong winds.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for the illustration!</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for the illustration. Have a calm Sunday!</p>
