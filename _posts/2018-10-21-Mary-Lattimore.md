@@ -60,7 +60,7 @@ _Mary Lattimore_: **"**[The Baird sisters](http://www.thebairdsisters.com/), Meg
 _Sanjay_: **"**Taken from Mary's latest LP, Hundreds of Days, this track conjures up positive connotations of the natural world for me. It’s instantly soothing and hushed—an inviting glassy rush of synth pads and strings. Subtle and hymn-like.**"**
 
 ## Áine O'Dwyer – Tremor
-_Inès_: **"**It has been a while since I’ve listened to a song on repeat. This song is so filling, so calming, so dreamy. Hazes of pastel blue and pink and yellow. A spring Sunday morning surrounded by cherry blossoms.**"**
+_Inès_: **"**A muted piano improvisation from another harpist, [Áine O'Dwyer](https://soundcloud.com/aine-o-dwyer). Listening to it makes everything slow down for me. In her own words, "it still sits in my parents' sitting room and each time I visit them, I spend some time catching up with my old friend".**"**
 
 ## Orla Wren – The Cup Of Remembered Things (w/ Aaron Martin & Isnaj Dui)
 _Inès_: **"**Alright, another John Cage themed song. Extremely chill song turning out a bit more nightmarish at the end. It layers out so nicely though. Plus, seagull sounds are always nice to hear.**"**
