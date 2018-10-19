@@ -34,7 +34,7 @@ guestPic: guestPic328.jpg
 musiColor: musiColor328.png
 fbPic: fbPic328.jpg
 ---
-<p id="introduction">This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgetten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this feeling plainly.
+<p id="introduction">This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgotten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this feeling plainly.
 <br><br>
 If you're in London Mary will be playing live with Lucinda Chua in support at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November. She'll also be supporting Kurt Vile alongside Meg Baird at the O2 Empire Shepherds Bush on Tuesday 6th and Wednesday 7th November.</p>
 
