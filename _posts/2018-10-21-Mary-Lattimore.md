@@ -27,7 +27,7 @@ track5_title: Áine O'Dwyer – Tremor
 track5_color: bliss
 track6_title: Orla Wren – The Cup Of Remembered Things
 track6_color: dreamy
-track7_title: United Bible Studies – Hazlehurst Requiem
+track7_title: United Bible Studies – Hazlehurst
 track7_color: trippy
 episode_URL: 'http://mailta.pe/328/mary-lattimore/'
 guestPic: guestPic328.jpg
@@ -47,7 +47,7 @@ Mary will be supporting Kurt Vile alongside Meg Baird at [La Cigale](http://www.
 ## Brian Eno – Fullness of Wind
 _Mary Lattimore_: **"**I like the idea of listening to classical music on a Sunday morning and I love this morphed version of the Canon in D, which I've played millions of times before at weddings. It's real weird to my ears, and totally luxurious and beautiful.**"**
 
-## Henryk Górecki - Third Symphony Movement 3
+## Henryk Górecki – Third Symphony Movement 3
 _Mary Lattimore_: **"**This one is pretty heavy and gorgeous and makes your heart feel something. I can see it being really luminous and not as sorrowful on a Sunday morning as late on a Saturday night. You can design your own context for such a glowing thing, sometimes. **"**
 
 ##  Baird Sisters – Tracks
@@ -56,7 +56,7 @@ _Mary Lattimore_: **"**[The Baird sisters](http://www.thebairdsisters.com/), Meg
 
 # MailTape's selection
 
-## Mary Lattimore - Hello From the Edge of the Earth
+## Mary Lattimore – Hello From the Edge of the Earth
 _Sanjay_: **"**Taken from Mary Lattimore's latest LP, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), this track conjures up positive images of the natural world for me. It’s instantly soothing and hushed, with an inviting glassy rush of synth pads and strings. Subtle and hymn-like.**"**
 
 ## Áine O'Dwyer – Tremor
