@@ -34,7 +34,7 @@ guestPic: guestPic328.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. 
 <br><br>
-If you're in London she'll be playing live alongside Lucinda Chua at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November.</p>
+If you're in London she'll be playing live with Lucinda Chua in support at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November. She'll also be supporting Kurt Vile alongside Meg Baird at the O2 Empire Shepherds Bush on 6th and 7th November.</p>
 
 
 # Mary Lattimore's selection
