@@ -36,5 +36,5 @@ _Charlotte_: **"** Patience is Roxanne Clifford, ex-guitarist and singer of Vero
 _Charlotte_: **"** Well known to be the “Horse Capital of the World” and its bourbon production (so says Wikipedia), you wouldn’t considerate at first Lexington, a city in the State of Kentucky as a particularly vibrant musical epicentre. However, among ponies drinking expensive alcohol, you’ll be able to cross path with a lot of local talented musicians such as [Idiot Glee](https://idiotglee.bandcamp.com/), aka James Friley. And with “Pinkwood”, I have no difficulty to picture myself attending one of his concerts in a back garden on a calm evening during late summer in Lexington. Cliché but true. **"**
 
 
-<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) for being our guest this week, and to Celestin for this episode’s illustration!</p>
+<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) for being our guest this week, and to Camille Celestin for this episode’s illustration!</p>
 
