@@ -29,7 +29,7 @@ track6_title: Patience – White of An Eye
 track6_color: dreamy
 track7_title: Idiot Glee - Pinkwood
 track7_color: dreamy
-episode_URL: 'http://www.mailta.pe/329/Keep-Dancing-Inc/'
+episode_URL: 'http://www.mailta.pe/329/keep-dancing-inc/'
 description: >-
   This morning, we welcome Louis, Charles, Gabrielle and Joseph from Keep
   Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed in
