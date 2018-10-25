@@ -1,11 +1,11 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Charlotte
 illustrator: Camille Célestin
 writer: Charlotte
-category: '328'
+category: '329'
 guest_name: Keep Dancing Inc
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/porchesmusic/country-2'
@@ -29,7 +29,7 @@ track6_title: Patience – White of An Eye
 track6_color: dreamy
 track7_title: Idiot Glee - Pinkwood
 track7_color: dreamy
-episode_URL: 'https://www.mailta.pe/329/Keep-Dancing-Inc/'
+episode_URL: 'http://www.mailta.pe/329/Keep-Dancing-Inc/'
 description: >-
   This morning, we welcome Louis, Charles, Gabrielle and Joseph from Keep
   Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed in
@@ -74,4 +74,3 @@ _Charlotte_: **"** Well known to be the “Horse Capital of the World” and its
 
 
 <p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) for being our guest this week, and to Camille Celestin for this episode’s illustration!</p>
-
