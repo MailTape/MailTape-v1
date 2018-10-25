@@ -43,7 +43,7 @@ description: >-
 <p id="introduction">This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.
 <br><br>
 Formed in 2014, the Parisian quartet released in June 2018 its second EP “Restructuration” on [Un Plan Simple](http://www.un-plan-simple.com/fr/keep-dancing-inc/), where on the cover we can see a lonely photocopier on the dirty wine-red carpet of a random abandoned office. But far from the stiff world of impersonal open spaces and fake sick leave, Keep Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk – it is warm and welcoming.
-And if you're nearby, you can catch them in [London](https://www.facebook.com/events/2344989058907773/) tonight and in Manchester on [Wednesday](https://www.facebook.com/events/944969792375494/)! </p>
+And if you're nearby, you can catch them in London [tonight](https://www.facebook.com/events/2344989058907773/) and in Manchester on [Wednesday](https://www.facebook.com/events/944969792375494/)! </p>
 
 
 # Keep Dancing Inc's selection
