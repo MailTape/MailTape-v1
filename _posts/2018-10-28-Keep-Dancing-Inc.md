@@ -2,6 +2,43 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Charlotte
+illustrator: Camille Célestin
+writer: Charlotte
+category: '328'
+guest_name: Keep Dancing Inc
+guest_color: dreamy
+track1_link: 'https://soundcloud.com/porchesmusic/country-2'
+track2_link: 'https://soundcloud.com/fixri46/donna-lewis-i-love-you'
+track3_link: 'https://soundcloud.com/chris-rudy-3/cleaners-from-venus-corridor-of-dreams'
+track4_link: 'https://soundcloud.com/keep-dancing-inc/back-against-yours-2'
+track5_link: 'https://soundcloud.com/blackmarble/a-great-design '
+track6_link: 'https://soundcloud.com/nightschool/patience-white-of-an-eye-lssn056'
+track7_link: 'https://soundcloud.com/atelierciseaux/idiotglee-pinkwood'
+track1_title: Porches - Country
+track1_color: dreamy
+track2_title: Donna Lewis – I Love You Always Forever
+track2_color: rough
+track3_color: bliss
+track3_title: Cleaners From Venus – Corridor of Dreams
+track4_title: Keep Dancing Inc – Back Against Yours
+track4_color: bliss
+track5_title: Black Marble – A Great Design
+track5_color: rough
+track6_title: Patience – White of An Eye
+track6_color: dreamy
+track7_title: Idiot Glee - Pinkwood
+track7_color: dreamy
+episode_URL: 'https://www.mailta.pe/329/Keep-Dancing-Inc/'
+description: >-
+  This morning, we welcome Louis, Charles, Gabrielle and Joseph from Keep
+  Dancing Inc to turn this MailTape into a Sunday ode to pop music.  Formed in
+  2014, the Parisian quartet released in June 2018 its second EP
+  “Restructuration” on Un Plan Simple, where on the cover we can see a lonely
+  photocopier on the dirty wine-red carpet of a random abandoned office. But far
+  from the stiff world of impersonal open spaces and fake sick leave, Keep
+  Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
+  – it is warm and welcoming.
 ---
 <p id="introduction">This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.
 <br><br>
