@@ -8,7 +8,7 @@ writer: Charlotte
 category: '329'
 guest_name: Keep Dancing Inc
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/porchesmusic/country-2'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/329/track1.mp3'
 track2_link: 'https://soundcloud.com/fixri46/donna-lewis-i-love-you'
 track3_link: 'https://soundcloud.com/chris-rudy-3/cleaners-from-venus-corridor-of-dreams'
 track4_link: 'https://soundcloud.com/keep-dancing-inc/back-against-yours-2'
@@ -43,6 +43,7 @@ guestPic: guestPic329.jpg
 fbPic: fbPic329.jpg
 musiColor: musiColor329.png
 ---
+
 <p id="introduction">This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.
 <br><br>
 Formed in 2014, the Parisian quartet released in June 2018 its second EP “Restructuration” on [Un Plan Simple](http://www.un-plan-simple.com/fr/keep-dancing-inc/), where on the cover we can see a lonely photocopier on the dirty wine-red carpet of a random abandoned office. But far from the stiff world of impersonal open spaces and fake sick leave, Keep Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk – it is warm and welcoming.
