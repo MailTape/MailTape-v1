@@ -18,13 +18,13 @@ track7_link: 'https://soundcloud.com/atelierciseaux/idiotglee-pinkwood'
 track1_title: Porches - Country
 track1_color: dreamy
 track2_title: Donna Lewis – I Love You Always Forever
-track2_color: rough
-track3_color: bliss
+track2_color: bliss
+track3_color: vibrant
 track3_title: Cleaners From Venus – Corridor of Dreams
 track4_title: Keep Dancing Inc – Back Against Yours
 track4_color: bliss
 track5_title: Black Marble – A Great Design
-track5_color: rough
+track5_color: vibrant
 track6_title: Patience – White of An Eye
 track6_color: dreamy
 track7_title: Idiot Glee - Pinkwood
