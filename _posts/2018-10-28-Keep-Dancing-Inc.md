@@ -40,6 +40,8 @@ description: >-
   Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
   – it is warm and welcoming.
 guestPic: guestPic329.jpg
+fbPic: fbPic329.jpg
+musiColor: musiColor329.png
 ---
 <p id="introduction">This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.
 <br><br>
