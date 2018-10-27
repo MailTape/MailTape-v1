@@ -43,7 +43,7 @@ description: >-
 <p id="introduction">This morning, we welcome Louis, Charles, Gabrielle and Joseph from [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) to turn this MailTape into a Sunday ode to pop music.
 <br><br>
 Formed in 2014, the Parisian quartet released in June 2018 its second EP “Restructuration” on [Un Plan Simple](http://www.un-plan-simple.com/fr/keep-dancing-inc/), where on the cover we can see a lonely photocopier on the dirty wine-red carpet of a random abandoned office. But far from the stiff world of impersonal open spaces and fake sick leave, Keep Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk – it is warm and welcoming.
-And if you're nearby, you can catch them in London [tonight](https://www.facebook.com/events/2344989058907773/) and in Manchester on [Wednesday](https://www.facebook.com/events/944969792375494/)! </p>
+And if you're nearby, you can catch them in London [tonight](https://www.facebook.com/events/2344989058907773/) and in Manchester on [Wednesday](https://www.facebook.com/events/944969792375494/)!</p>
 
 
 # Keep Dancing Inc's selection
@@ -73,4 +73,4 @@ _Charlotte_: **"** Patience is Roxanne Clifford, ex-guitarist and singer of Vero
 _Charlotte_: **"** Well known to be the “Horse Capital of the World” and its bourbon production (so says Wikipedia), you wouldn’t considerate at first Lexington, a city in the State of Kentucky as a particularly vibrant musical epicentre. However, among ponies drinking expensive alcohol, you’ll be able to cross path with a lot of local talented musicians such as [Idiot Glee](https://idiotglee.bandcamp.com/), aka James Friley. And with “Pinkwood”, I have no difficulty to picture myself attending one of his concerts in a back garden on a calm evening during late summer in Lexington. Cliché but true. **"**
 
 
-<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) for being our guest this week, and to Camille Celestin for this episode’s illustration!</p>
+<p id="outroduction">That’s all for this morning. Thanks for listening and much gratitude to [Keep Dancing Inc](https://www.facebook.com/keepdancinginc/) for being our guest this week, and to [Camille Celestin](http://bravocamo.studio/) for this episode’s illustration!</p>
