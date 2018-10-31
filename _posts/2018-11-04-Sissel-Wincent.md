@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
@@ -65,4 +65,3 @@ _Sanjay_: **"**'Spoicke' was the first collection of music I had heard by [Unite
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for the illustration. Have a calm Sunday.</p>
-
