@@ -27,7 +27,7 @@ track4_color: trippy
 track5_title: Beatrice Dillon – Carrier and Mask
 track5_color: vibrant
 track6_title: Akiko Kiyama – Gabriel
-track6_color: dreamy
+track6_color: bliss
 track7_title: Afrikan Sciences – 43
 track7_color: trippy
 episode_URL: 'http://mailta.pe/330/sissel-wincent/'
