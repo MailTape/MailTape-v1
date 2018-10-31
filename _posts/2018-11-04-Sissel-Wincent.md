@@ -37,7 +37,7 @@ episode_URL: 'http://mailta.pe/330/sissel-wincent/'
 Mary will be supporting Kurt Vile & The Violators alongside Meg Baird at [La Cigale](http://www.lacigale.fr/en/spectacle/kurt-vile-the-violators/) in Paris on Monday 29th October. And for our listeners in London, Mary will be with Lucinda Chua in support at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November.</p>
 
 
-# Sissel Wincents's selection
+# Sissel Wincent's selection
 
 ## Ploy – =O
 _Sissel Wincent_: **"**Gentle textures, soothing harmony, discreet bleeps—and some mallards.**"**
