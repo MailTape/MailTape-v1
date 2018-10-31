@@ -42,7 +42,7 @@ Mary will be supporting Kurt Vile & The Violators alongside Meg Baird at [La Cig
 ## Ploy – =O
 _Sissel Wincent_: **"**Gentle textures, soothing harmony, discreet bleeps - and some mallards.**"**
 
-## Kali Malone – Locus Of Repetition
+## Kali Malone – Locus of Repetition
 _Sissel Wincent_: **"**Pipe organ on a fine noise.**"**
 
 ## Mar-llena – Monorepos
