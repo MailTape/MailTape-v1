@@ -25,9 +25,9 @@ track3_color: dreamy
 track4_title: Sissel Wincent – Pearlescent Paint
 track4_color: trippy
 track5_title: Beatrice Dillon – Carrier and Mask
-track5_color: vibrant
+track5_color: bliss
 track6_title: Akiko Kiyama – Gabriel
-track6_color: bliss
+track6_color: vibrant
 track7_title: Afrikan Sciences – 43
 track7_color: trippy
 episode_URL: 'http://mailta.pe/330/sissel-wincent/'
