@@ -64,4 +64,4 @@ _Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained 
 _Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday morning tunes for us alongside Gaël Segalen as [Les Graciés](https://www.mailta.pe/319/les-gracies/) back in July. As [Afrikan Sciences](https://soundcloud.com/afrikan-sciences), however, Eric's preoccupation with rhythm fixates on the oddities—the mutations, the dualities and instances of bare collision.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for the illustration. Have a calm Sunday.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Sissel Wincent](https://soundcloud.com/sissel) for her Sunday selections, and to [Pierre-Julien Fieux](https://www.pierrejulienfieux.com/) for the illustration.</p>
