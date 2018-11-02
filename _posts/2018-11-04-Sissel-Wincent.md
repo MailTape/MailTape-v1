@@ -34,6 +34,7 @@ episode_URL: 'http://mailta.pe/330/sissel-wincent/'
 description: >-
   This morning we are delighted to welcome Stockholm-based electronic producer,
   Sissel Wincent, to MailTape.
+musiColor: musiColor330.png
 ---
 <p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>
