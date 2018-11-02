@@ -32,7 +32,7 @@ track7_title: Afrikan Sciences – 43
 track7_color: trippy
 episode_URL: 'http://mailta.pe/330/sissel-wincent/'
 ---
-<p id="introduction">This Sunday morning we are delighted to welcome harpist [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) to MailTape. By now I've forgotten the summer. I don’t remember what the morning is. It has merged into a fading white light, when that morning has awakened and too quickly ceased. Mary's own sound on her latest album, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), as well as her selections this morning capture this mournfulness plainly.
+<p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious, crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>
 Mary will be supporting Kurt Vile & The Violators alongside Meg Baird at [La Cigale](http://www.lacigale.fr/en/spectacle/kurt-vile-the-violators/) in Paris on Monday 29th October. And for our listeners in London, Mary will be with Lucinda Chua in support at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November.</p>
 
