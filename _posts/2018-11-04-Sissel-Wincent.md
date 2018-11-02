@@ -52,7 +52,7 @@ _Sissel Wincent_: **"**Dolphin squeaks, waves, gloomy melodies and cleansing str
 # MailTape's selection
 
 ## Sissel Wincent – Pearlescent Paint
-_Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all cliches behind and just does the job.**"**
+_Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all clichés behind and just does the job.**"**
 
 ## [Beatrice Dillon](http://www.dillonwork.com/) – Carrier and Mask
 _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experimentations and rhythmic balafon. Understated and playful.**"**
