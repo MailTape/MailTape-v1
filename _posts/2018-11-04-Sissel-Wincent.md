@@ -45,7 +45,7 @@ This morning's selection, however, trades in a joyous aqueous sound—full of ma
 ## Ploy – =O
 _Sissel Wincent_: **"**Gentle textures, soothing harmony, discreet bleeps—and some mallards.**"**
 
-## Kali Malone – Locus of Repetition
+## [Kali Malone](http://kalimalone.com/) – Locus of Repetition
 _Sissel Wincent_: **"**Pipe organ on a fine noise.**"**
 
 ## Mar-llena – Monorepos
