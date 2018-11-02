@@ -55,7 +55,7 @@ _Sissel Wincent_: **"**Dolphin squeaks, waves, gloomy melodies and cleansing str
 _Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all clichés behind and just does the job.**"**
 
 ## [Beatrice Dillon](http://www.dillonwork.com/) – Carrier and Mask
-_Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experimentations and rhythmic balafon. Understated and playful.**"**
+_Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
 
 ## Akiko Kiyama – Gabriel
 _Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained musician turned electronic music composer. I think she has a knack for magnificently slinky, trippy music. Synths twitch anxiously over a booming kick-drum and the bounce here is paranoid but playful.**"**
