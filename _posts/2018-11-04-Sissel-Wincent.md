@@ -61,7 +61,7 @@ _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars
 _Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained musician turned electronic music composer. I think she has a knack for magnificently slinky, trippy music. Synths twitch anxiously over a booming kick-drum and the bounce here is paranoid but playful.**"**
 
 ## Afrikan Sciences – 43
-_Sanjay_: **"**'Spoicke' was the first collection of music I had heard by [United Bible Studies](https://united-bible-studies.bandcamp.com/) when I picked it up in a record store in Dublin. 'Hazlehurst' is a dark ambient track in which acoustic instruments and natural sounds are electronically modulated. Notes plucked on the harp linger in the background while the other sounds appear disconnected before culminating in something that feels like a distorted daydream. If you're in London on 28th October, they'll be playing with Cath & Phil Tyler at [Cafe OTO](https://cafeoto.co.uk/events/cath-phil-tyler-united-bible-studies/).**"**
+_Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday morning tunes for us alongside Gaël Segalen as [Les Graciés](https://www.mailta.pe/319/les-gracies/) back in July. As [Afrikan Sciences](https://soundcloud.com/afrikan-sciences), however, Eric's preoccupation with rhythm fixates on the oddities—the mutations, the dualities and instances of bare collision.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Mary Lattimore](http://marylattimoreharpist.tumblr.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for the illustration. Have a calm Sunday.</p>
