@@ -54,8 +54,8 @@ _Sissel Wincent_: **"**Dolphin squeaks, waves, gloomy melodies and cleansing str
 ## Sissel Wincent – Pearlescent Paint
 _Sanjay_: **"**Taken from Mary Lattimore's latest LP, [Hundreds of Days](https://marylattimoreharpist.bandcamp.com/album/hundreds-of-days), this track conjures up positive images of the natural world for me. It’s mournfully soothing and hushed, with an inviting glassy rush of synth pads and strings. Subtle and hymn-like.**"**
 
-## Beatrice Dillon – Carrier and Mask
-_Sanjay_: **"**A muted piano improvisation from another harpist, [Áine O'Dwyer](https://soundcloud.com/aine-o-dwyer). Listening to it makes everything slow down for me. In her own words, "[the piano] still sits in my parents' sitting room and each time I visit them, I spend some time catching up with my old friend".**"**
+## [Beatrice Dillon](http://www.dillonwork.com/) – Carrier and Mask
+_Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experimentations and rhythmic balafon. Understated and playful.**"**
 
 ## Akiko Kiyama – Gabriel
 _Sanjay_: **"**Included as the bonus track on [The Blizzard That Birthed Her](https://aaronmartin.bandcamp.com/album/the-blizzard-that-birthed-her), 'The Cup Of Remembered Things' uses eerie found sounds and the occasional ethereal vocal sample to a calming effect.**"**
