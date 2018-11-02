@@ -34,7 +34,7 @@ episode_URL: 'http://mailta.pe/330/sissel-wincent/'
 ---
 <p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious, crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>
-Mary will be supporting Kurt Vile & The Violators alongside Meg Baird at [La Cigale](http://www.lacigale.fr/en/spectacle/kurt-vile-the-violators/) in Paris on Monday 29th October. And for our listeners in London, Mary will be with Lucinda Chua in support at [The Lexington](http://thelexington.co.uk/event.php?id=315) on Monday 19th November.</p>
+This morning's selection, however, trades in a joyous aqueous sound—full of mallards, dolphin squeaks and alternating compressions.</p>
 
 
 # Sissel Wincent's selection
