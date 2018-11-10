@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/de-barjorak/holy-dirty-intimacy-shorter'
 track2_link: 'https://soundcloud.com/okoebombo/naked-life'
 track3_link: 'https://soundcloud.com/kaytranada/janet-jackson-if-kaytranada'
