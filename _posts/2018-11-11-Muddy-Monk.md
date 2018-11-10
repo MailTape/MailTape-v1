@@ -16,7 +16,7 @@ guest_color: dreamy
 episode_URL: 'http://mailta.pe/331/Muddy-Monk/'
 track5_link: 'https://soundcloud.com/miel2montagne/pourquoipas'
 track6_link: 'https://soundcloud.com/iseejones/you'
-track2_title: Okoebombo - Naked Life
+track2_title: Oko Ebombo - Naked Life
 track2_color: vibrant
 track1_color: rough
 track3_color: trippy
@@ -31,6 +31,7 @@ track6_title: Jones - You
 track7_title: Kokoroko - Abusey Junction
 track1_title: De Barjorak - Holy Dirty Intimacy
 guestPic: MuddyMonk331.jpg
+description: 'This morning, we are delighted to welcome Muddy Monk to Mailtape.'
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.
 <br><br>
