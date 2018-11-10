@@ -34,7 +34,7 @@ guestPic: MuddyMonk331.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.
 <br><br>
-</p>
+Switzerland own many treasures that contain the power to make you feel comfy, warm and instantly relaxed as the winter season approaches. One of them is Raclette cheese, another one is Muddy Monk.</p>
 
 
 # Muddy Monk's selection
