@@ -13,6 +13,7 @@ author: Manon
 illustrator: William Girault
 writer: Manon
 guest_color: dreamy
+episode_URL: 'http://mailta.pe/331/Muddy-Monk/'
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://soundcloud.com/sissel) to MailTape.
 <br><br>
