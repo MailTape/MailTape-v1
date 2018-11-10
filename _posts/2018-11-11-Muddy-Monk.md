@@ -58,10 +58,10 @@ _Manon_: **"**Let the power of Muddy Monk continue the dream you just left by wa
 _Manon_: **"**We continue floating as we open the curtains and allow the sun inside the bedroom**"**
 
 ## Jones - You
-_Manon_: **"**You now start to feel that your body and your mind are slowly regaining life..**"**
+_Manon_: **"**You now start to feel your body and your mind slowly regaining life..**"**
 
 ## Kokoroko - Abusey Junction
-_Manon_: **"**... And you decide it is safer for you today to go back to sleep.**"**
+_Manon_: **"**..And you decide it is safer for you today to go back to sleep.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Muddy Monk](https://www.facebook.com/muddymonk/) for her Sunday selections, and to William for this episode's cool illustration.</p>
