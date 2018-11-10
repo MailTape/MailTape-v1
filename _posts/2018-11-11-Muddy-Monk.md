@@ -7,6 +7,12 @@ track2_link: 'https://soundcloud.com/okoebombo/naked-life'
 track3_link: 'https://soundcloud.com/kaytranada/janet-jackson-if-kaytranada'
 track4_link: 'https://soundcloud.com/muddymonk/drift'
 track7_link: 'https://soundcloud.com/brownswood/abusey-junction'
+category: '331'
+guest_name: Muddy Monk
+author: Manon
+illustrator: William Girault
+writer: Manon
+guest_color: dreamy
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://soundcloud.com/sissel) to MailTape.
 <br><br>
@@ -41,4 +47,3 @@ _Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday m
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Sissel Wincent](https://soundcloud.com/sissel) for her Sunday selections, and to [Pierre-Julien Fieux](https://www.pierrejulienfieux.com/) for this episode's cool illustration.</p>
-
