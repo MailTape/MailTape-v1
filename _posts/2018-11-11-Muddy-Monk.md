@@ -14,6 +14,21 @@ illustrator: William Girault
 writer: Manon
 guest_color: dreamy
 episode_URL: 'http://mailta.pe/331/Muddy-Monk/'
+track5_link: 'https://soundcloud.com/miel2montagne/pourquoipas'
+track6_link: 'https://soundcloud.com/iseejones/you'
+track2_title: Okoebombo - Naked Life
+track2_color: vibrant
+track1_color: rough
+track3_color: trippy
+track4_color: dreamy
+track5_color: dreamy
+track6_color: vibrant
+track7_color: bliss
+track3_title: Janet Jackson - If (Kaytranada Remix)
+track4_title: Muddy Monk - Drift
+track5_title: Miel De Montagne - Pourquoi Pas
+track6_title: Jones - You
+track7_title: Kokoroko - Abusey Junction
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://soundcloud.com/sissel) to MailTape.
 <br><br>
@@ -34,7 +49,7 @@ _Muddy Monk_: **"**Et celui-ci pour les jours heureux**"**
 
 # MailTape's selection
 
-## Muddy Monk – Pearlescent Paint
+## Muddy Monk – Drift
 _Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all clichés behind and just does the job.**"**
 
 ## [Beatrice Dillon](http://www.dillonwork.com/) – Carrier and Mask
