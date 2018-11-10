@@ -60,7 +60,7 @@ _Manon_: **"**We continue floating**"**
 _Manon_: **"**blabla**"**
 
 ## Kokoroko - Abusey Junction
-_Manon_: **"**NBlabla**"**
+_Manon_: **"**Now it's time to go back to bed and forget**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Muddy Monk](https://www.facebook.com/muddymonk/) for her Sunday selections, and to William for this episode's cool illustration.</p>
