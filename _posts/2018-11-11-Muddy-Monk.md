@@ -51,10 +51,10 @@ _Muddy Monk_: **"**Et celui-ci pour les jours heureux**"**
 # MailTape's selection
 
 ## Muddy Monk – Drift
-_Manon_: **"**blabla**"**
+_Manon_: **"**This song**"**
 
 ## Miel De Montagne - Pourquoi Pas
-_Manon_: **"**blabla**"**
+_Manon_: **"**We continue floating**"**
 
 ## Jones - You
 _Manon_: **"**blabla**"**
