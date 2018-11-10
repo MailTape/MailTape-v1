@@ -30,6 +30,7 @@ track5_title: Miel De Montagne - Pourquoi Pas
 track6_title: Jones - You
 track7_title: Kokoroko - Abusey Junction
 track1_title: De Barjorak - Holy Dirty Intimacy
+guestPic: MuddyMonk331.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.
 <br><br>
