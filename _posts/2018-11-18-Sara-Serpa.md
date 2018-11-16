@@ -41,7 +41,7 @@ Sara has been crafting composed and improvised music for over 10 years, utilisin
 ## Bela Bartok – Violin Duets, N.28 — Sorrow
 _Sara Serpa_: **"**I have been learning Bela Bartok's vocal music for a year now, and it has been an incredible experience. I practiced the Mikrokosmos for Piano when I was a child, but this immersive practice has exposed me more to his music and compositions, and I just love it. From the vocal works, I started digging more into his instrumental music, and this particular violin duet has been on my mind for a while now.**"**
 
-## Fanta Damba & Batourou Sekou Kouyaté – Tatou
+## [Fanta Damba](https://en.wikipedia.org/wiki/Fanta_Damba) & Batourou Sekou Kouyaté – Tatou
 _Sara Serpa_: **"**I discovered this singer's work recently. From Mali, she is still alive but retired in 1985. I love her voice, her sound, her phrasing, her time. I am drawn to her sound, and the combination of voice and cora is really beautiful.**"**
 
 ## Nina Simone – Just in Time (Live at The Village Gate)
