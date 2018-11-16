@@ -57,7 +57,7 @@ _Sanjay_: **"**This tune, a nod to their old haunts, is in an airy but enigmatic
 _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
 
 ## Amira Kheir – Amwaj (Waves)
-_Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained musician turned electronic music composer. I think she has a knack for magnificently slinky, trippy music. Synths twitch anxiously over a booming kick-drum and the bounce here is paranoid but playful.**"**
+_Sanjay_: **"**Amira Kheir [picked a few Sunday morning tunes for us](https://www.mailta.pe/282/amira-kheir/) back in October 2017. She has since released a new album—[Mystic Dance](http://amirakheir.com/)—and this is its opening track. Its hypnotic and mellow, steady, rhythm alongside a modestly groovy bass, melodically evoking its name.**"**
 
 ## Meeta Pandit – Thumri Pilu (Live)
 _Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday morning tunes for us alongside Gaël Segalen as [Les Graciés](https://www.mailta.pe/319/les-gracies/) back in July. As [Afrikan Sciences](https://soundcloud.com/afrikan-sciences), however, Eric's study of rhythm fixates on the oddities—the mutations, the dualities and instances of bare collision.**"**
