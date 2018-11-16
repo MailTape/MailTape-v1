@@ -26,6 +26,9 @@ track5_title: Cécile McLorin Salvant – You've Got to Give Me Some
 track5_color: bliss
 track7_title: Meeta Pandit – Thumri Pilu (Live)
 track7_color: dreamy
+track6_title: Amira Kheir – Amwaj (Waves)
+track6_color: trippy
+track6_link: 'https://soundcloud.com/sterns-music/amwaj-waves'
 ---
 <p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>
@@ -52,7 +55,7 @@ _Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line
 ## Cécile McLorin Salvant – You've Got to Give Me Some
 _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
 
-## Akiko Kiyama – Gabriel
+## Amira Kheir – Amwaj (Waves)
 _Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained musician turned electronic music composer. I think she has a knack for magnificently slinky, trippy music. Synths twitch anxiously over a booming kick-drum and the bounce here is paranoid but playful.**"**
 
 ## Meeta Pandit – Thumri Pilu (Live)
