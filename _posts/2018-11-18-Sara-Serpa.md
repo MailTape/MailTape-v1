@@ -12,7 +12,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/332/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/332/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/332/track3.mp3'
 track4_link: 'https://soundcloud.com/saraserpafragments/sara-serpa-andre-matos-lisboa'
-track5_link: 'https://soundcloud.com/cecile-mclorin-salvant/youve-got-to-give-me-some'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/332/track5.mp3'
 track7_link: 'https://soundcloud.com/privianrecords/meeta-pandit-live-thumri-pilu'
 track1_title: 'Bela Bartok – Violin Duets, N.28 — Sorrow'
 track1_color: dreamy
