@@ -14,7 +14,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/332/track3.mp3'
 track4_link: 'https://soundcloud.com/saraserpafragments/sara-serpa-andre-matos-lisboa'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/332/track5.mp3'
 track7_link: 'https://soundcloud.com/privianrecords/meeta-pandit-live-thumri-pilu'
-track1_title: 'Bela Bartok – Violin Duets, N.28 — Sorrow'
+track1_title: 'Béla Bartók – Violin Duets, N.28 — Sorrow'
 track1_color: dreamy
 track2_title: Fanta Damba & Batourou Sekou Kouyaté – Tatou
 track2_color: bliss
@@ -30,6 +30,9 @@ track6_title: Amira Kheir – Amwaj (Waves)
 track6_color: trippy
 track6_link: 'https://soundcloud.com/sterns-music/amwaj-waves'
 episode_URL: 'http://mailta.pe/332/sara-serpa/'
+description: >-
+  This morning we welcome vocalist and composer Sara Serpa to pick three Sunday
+  morning musical selections for us.
 ---
 <p id="introduction">This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>
@@ -38,7 +41,7 @@ Sara has been crafting composed and improvised music for over 10 years, utilisin
 
 # Sara Serpa's selection
 
-## Bela Bartok – Violin Duets, N.28 — Sorrow
+## Béla Bartók – Violin Duets, N.28 — Sorrow
 _Sara Serpa_: **"**I have been learning Bela Bartok's vocal music for a year now, and it has been an incredible experience. I practiced the Mikrokosmos for Piano when I was a child, but this immersive practice has exposed me more to his music and compositions, and I just love it. From the vocal works, I started digging more into his instrumental music, and this particular violin duet has been on my mind for a while now.**"**
 
 ## [Fanta Damba](https://en.wikipedia.org/wiki/Fanta_Damba) & Batourou Sekou Kouyaté – Tatou
