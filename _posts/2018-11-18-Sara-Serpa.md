@@ -31,9 +31,9 @@ track6_color: trippy
 track6_link: 'https://soundcloud.com/sterns-music/amwaj-waves'
 episode_URL: 'http://mailta.pe/332/sara-serpa/'
 ---
-<p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
+<p id="introduction">This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>
-Today's selection, however, trades in a joyous aqueous sound—with plenty of mallards, dolphin squeaks and alternating compressions.</p>
+Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any.</p>
 
 
 # Sara Serpa's selection
