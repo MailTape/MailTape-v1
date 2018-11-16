@@ -46,16 +46,16 @@ _Sara Serpa_: **"**My favorite version Just in Time, it is so different from all
 
 # MailTape's selection
 
-## Sissel Wincent – Pearlescent Paint
+## Sara Serpa & André Matos – Lisboa
 _Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all clichés behind and just does the job.**"**
 
-## [Beatrice Dillon](http://www.dillonwork.com/) – Carrier and Mask
+## Cécile McLorin Salvant – You've Got to Give Me Some
 _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
 
 ## Akiko Kiyama – Gabriel
 _Sanjay_: **"**[Akiko Kiyama](http://akikokiyama.com/) is a classically trained musician turned electronic music composer. I think she has a knack for magnificently slinky, trippy music. Synths twitch anxiously over a booming kick-drum and the bounce here is paranoid but playful.**"**
 
-## Afrikan Sciences – 43
+## Meeta Pandit – Thumri Pilu (Live)
 _Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday morning tunes for us alongside Gaël Segalen as [Les Graciés](https://www.mailta.pe/319/les-gracies/) back in July. As [Afrikan Sciences](https://soundcloud.com/afrikan-sciences), however, Eric's study of rhythm fixates on the oddities—the mutations, the dualities and instances of bare collision.**"**
 
 
