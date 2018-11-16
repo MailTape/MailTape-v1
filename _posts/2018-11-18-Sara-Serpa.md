@@ -45,7 +45,7 @@ _Sara Serpa_: **"**I have been learning Bela Bartok's vocal music for a year now
 _Sara Serpa_: **"**I discovered this singer's work recently. From Mali, she is still alive but retired in 1985. I love her voice, her sound, her phrasing, her time. I am drawn to her sound, and the combination of voice and cora is really beautiful.**"**
 
 ## Nina Simone – Just in Time (Live at The Village Gate)
-_Sara Serpa_: **"**My favorite version Just in Time, it is so different from all the other versions I have heard of this famous jazz standard. Nina Simone is so joyful here, there is so much space, her piano solo is incredible. The fact that was recorded live just shows her brilliance even more.**"**
+_Sara Serpa_: **"**My favorite version of Just in Time, it is so different from all the other versions I have heard of this famous jazz standard. Nina Simone is so joyful here, there is so much space, her piano solo is incredible. The fact that was recorded live just shows her brilliance even more.**"**
 
 
 # MailTape's selection
