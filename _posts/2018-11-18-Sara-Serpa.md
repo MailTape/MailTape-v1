@@ -51,7 +51,7 @@ _Sara Serpa_: **"**My favorite version of Just in Time, it is so different from 
 # MailTape's selection
 
 ## Sara Serpa & André Matos – Lisboa
-_Sanjay_: **"**A brutally reduced minimal techno mover with a writhing acid line and spherical sound design that leaves all clichés behind and just does the job.**"**
+_Sanjay_: **"**This tune, a nod to their old haunts, is in an airy but enigmatic space for me. Sara’s atmospherics over André's spare phrasing and minimalist percussion bringing that to life after a purposefully tentative start.**"**
 
 ## Cécile McLorin Salvant – You've Got to Give Me Some
 _Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
