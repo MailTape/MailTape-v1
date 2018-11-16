@@ -54,7 +54,7 @@ _Sara Serpa_: **"**My favorite version of Just in Time, it is so different from 
 _Sanjay_: **"**This tune, a nod to their old haunt, is in an airy but enigmatic space for me. Sara’s atmospherics over André's spare phrasing and minimalist percussion brings that to life after a purposefully tentative start.**"**
 
 ## Cécile McLorin Salvant – You've Got to Give Me Some
-_Sanjay_: **"**Computerised, dubbed out percussion and samples meld with guitars, wah tubes, bass, pianet, and the percussive world of snare drum experiments and rhythmic balafon. Understated and playful.**"**
+_Sanjay_: **"**From her [Dreams & Daggers](https://www.cecilemclorinsalvant.com/discography/) album, Cécile brings a puckish heat to Bessie Smith’s 'You’ve Got to Give Me Some': a blues aria of sexual innuendo with some great double meanings about butchers and milkmen.**"**
 
 ## Amira Kheir – Amwaj (Waves)
 _Sanjay_: **"**Amira Kheir [picked a few Sunday morning tunes for us](https://www.mailta.pe/282/amira-kheir/) back in October 2017. She has since released a new album—[Mystic Dance](http://amirakheir.com/)—and this is its opening track. Its hypnotic, mellow and steady rhythm, alongside a modestly groovy bass, melodically evoking its name.**"**
