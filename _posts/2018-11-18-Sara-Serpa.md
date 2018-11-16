@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
@@ -64,4 +64,3 @@ _Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday m
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Sissel Wincent](https://soundcloud.com/sissel) for her Sunday selections, and to [Pierre-Julien Fieux](https://www.pierrejulienfieux.com/) for this episode's cool illustration.</p>
-
