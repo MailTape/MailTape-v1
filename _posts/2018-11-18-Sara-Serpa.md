@@ -33,7 +33,7 @@ episode_URL: 'http://mailta.pe/332/sara-serpa/'
 ---
 <p id="introduction">This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>
-Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any.</p>
+Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any. Refracting, bending, suspending, and shifting sounds and syllables, creating a kind of linguistic limbo.</p>
 
 
 # Sara Serpa's selection
