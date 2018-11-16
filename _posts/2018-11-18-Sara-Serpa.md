@@ -60,7 +60,7 @@ _Sanjay_: **"**From her [Dreams & Daggers](https://www.cecilemclorinsalvant.com/
 _Sanjay_: **"**Amira Kheir [picked a few Sunday morning tunes for us](https://www.mailta.pe/282/amira-kheir/) back in October 2017. She has since released a new album—[Mystic Dance](http://amirakheir.com/)—and this is its opening track. Its hypnotic, mellow and steady rhythm, alongside a modestly groovy bass, melodically evoking its name.**"**
 
 ## Meeta Pandit – Thumri Pilu (Live)
-_Sanjay_: **"**No stranger to MailTape, Eric Douglas Porter picked some Sunday morning tunes for us alongside Gaël Segalen as [Les Graciés](https://www.mailta.pe/319/les-gracies/) back in July. As [Afrikan Sciences](https://soundcloud.com/afrikan-sciences), however, Eric's study of rhythm fixates on the oddities—the mutations, the dualities and instances of bare collision.**"**
+_Sanjay_: **"**This thumri is a lilting raga in Misra Pilu by the South Asian classical musician, [Meeta Pandit](http://www.meetapandit.com/) of the Gwalior Gharana. Meeta's voice stretches over an impressively wide range of over three octaves. She is also equally with genres of Tarana, Bhajan, Thumri, Sufi, as well as cross-cultural music.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Sara Serpa](https://www.saraserpa.com/) for her Sunday selections, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
