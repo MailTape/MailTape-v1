@@ -34,6 +34,7 @@ description: >-
   This morning we welcome vocalist and composer Sara Serpa to pick three Sunday
   morning musical selections for us.
 guestPic: guestPic332.jpg
+fbPic: fbPic332.jpg
 ---
 <p id="introduction">This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>
