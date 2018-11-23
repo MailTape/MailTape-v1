@@ -5,6 +5,8 @@ published: false
 illustrator: Camille Célestin
 category: '333'
 guest_name: Fit of Body
+author: Jules
+writer: Jules
 ---
 ## A New Post
 
