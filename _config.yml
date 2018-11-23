@@ -38,6 +38,8 @@ prose:
           label: "Who are you ?"
           placeholder: "Choose your name"
           options:
+            - name: "Jules"
+              value: "Jules"
             - name: "Charlotte"
               value: "Charlotte"
             - name: "Dimitri"
@@ -96,6 +98,8 @@ prose:
           label: "Who wrote the text?"
           placeholder: "Choose writer"
           options:
+            - name: "Jules"
+              value: "Jules"
             - name: "Charlotte"
               value: "Charlotte"
             - name: "Daisy"
