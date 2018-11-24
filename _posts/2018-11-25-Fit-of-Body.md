@@ -29,7 +29,7 @@ track6_title: Leon Vynehall - Movements (Chapter III)
 track6_color: dreamy
 track7_title: Tirzah - Devotion (feat. Coby Sey)
 track7_color: vibrant
-episode_URL: 'https://www.mailta.pe/333/fit-of-body/'
+episode_URL: 'http://mailta.pe/333/fit-of-body/'
 ---
 ## A New Post
 
