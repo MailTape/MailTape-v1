@@ -32,6 +32,9 @@ track7_color: vibrant
 episode_URL: 'http://mailta.pe/333/fit-of-body/'
 guestPic: guestPic333.jpg
 musiColor: musiColor333.png
+description: >-
+  This morning we are delighted to welcome Atlanta-based music producer Fit of
+  Body to MailTape.
 ---
 <p id="introduction">This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>
