@@ -31,11 +31,13 @@ track7_title: Tirzah - Devotion (feat. Coby Sey)
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/333/fit-of-body/'
 guestPic: guestPic333.jpg
+musiColor: musiColor333.png
 ---
 <p id="introduction">This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>
 Ryan Parks has been releasing music as Fit of Body for 7 years. His soulful house ballads are taking us all around Atlanta  
 Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any—refracting, bending, suspending, and shifting sounds and syllables, creating a kind of linguistic limbo.</p>
+![musiColor333.png]({{site.baseurl}}/img/musiColor333.png)
 
 
 # Fit of Body's selection
