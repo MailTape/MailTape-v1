@@ -34,6 +34,7 @@ guestPic: guestPic333.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>
+Ryan Parks has been releasing music as Fit of Body for 7 years. His soulful house ballads are taking us all around Atlanta  
 Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any—refracting, bending, suspending, and shifting sounds and syllables, creating a kind of linguistic limbo.</p>
 
 
@@ -52,7 +53,7 @@ _Fit of Body_: **"**Unfortunately, I was not familiar with Randy Weston before h
 # MailTape's selection
 
 ## [Fit of Body](https://fitofbody.bandcamp.com/) – Black Box, No Cops
-_Jules_: **"** **"**
+_Jules_: **"**Fit of Body released his last LP "Black Box No Cops" in June 2018. Black Box, or Black Blocks is a place on the corner of Baker and Piedmont in downtown Atlanta where he used to spend a lot of time skating. It's a cop free zone, so relax and let Ryan take you on board with this opening song.**"**
 
 ## Tony Allen & Jeff Mills - The Seed
 _Jules_: **"** **"**
