@@ -59,7 +59,7 @@ _Jules_: **"**Fit of Body released his last LP "Black Box No Cops" in June 2018.
 _Jules_: **"** **"**
 
 ## [Leon Vynehall](https://leonvynehall.bandcamp.com/) - Movements (Chapter III)
-_Jules_: **"** **"**
+_Jules_: **"**Nothing Is Still, Leon Vynehall's debut album, is dedicated to his grandparents who emigrated from a leafy south east U.K. to New York City in the 1960s.  **"**
 
 ## [Tirzah](https://tirzah.bandcamp.com/) - Devotion (feat. Coby Sey)
 _Jules_: **"** **"**
