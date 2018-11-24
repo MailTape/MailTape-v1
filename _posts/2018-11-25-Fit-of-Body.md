@@ -36,7 +36,6 @@ guestPic: guestPic333.jpg
 <br><br>
 Sara has been crafting composed and improvised music for over 10 years, utilising her classically-trained voice on her compositions. Her approach touches on various musical threads, but it is not necessarily tethered to any—refracting, bending, suspending, and shifting sounds and syllables, creating a kind of linguistic limbo.</p>
 
-![guestPic333.jpg]({{site.baseurl}}/img/guestPic333.jpg)
 
 # Fit of Body's selection
 
