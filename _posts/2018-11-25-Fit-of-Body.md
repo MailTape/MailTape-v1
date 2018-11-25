@@ -37,7 +37,6 @@ description: >-
   Body to MailTape.
 fbPic: fbPic333new.jpg
 ---
-![fbPic333new.jpg]({{site.baseurl}}/img/fbPic333new.jpg)
 <p id="introduction">This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>
 Born and raised in College Park, Georgia, Ryan Parks has become an important player in the local electronica and hip hop scene. He founded and runs his own robust cassette tape label, [Harsh Riddims](https://harshriddims.bandcamp.com/), has been releasing his own music as Fit of Body for 7 years and still finds the time to paint his album covers. His soulful house ballads are taking us to his favorite places for skating all across Atlanta and beyond, where all his inspirations, from Detroit techno scene to southern rap groups, ride together.
