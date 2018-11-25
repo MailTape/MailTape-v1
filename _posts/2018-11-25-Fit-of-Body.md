@@ -67,7 +67,7 @@ _Jules_: **"**This is what happens when you throw two legendary musicians from d
 _Jules_: **"**"Nothing Is Still", Leon Vynehall's debut album, is dedicated to his grandparents who emigrated from a leafy south east U.K. to New York City in the 1960s. It flows between splendor and mutedness to describe the journey for assimilation in a new country. To me this song conjures up the image of his grandparents carrying their high hopes amongst roaring cars and still homely skyscrapers...**"**
 
 ## [Tirzah](https://tirzah.bandcamp.com/) - Devotion (feat. Coby Sey)
-_Jules_: **"**I  heard about Tirzah two months ago with her debut album "Devotion" and, since then, I have been listening to it on repeat. I wanted to close this episode with a vibrant song and I have to admit the combination of her soulful voice and the piano melody has a trully hypnotic effect on me.**"**
+_Jules_: **"**I  heard about Tirzah two months ago with her debut album "Devotion" and, since then, I have been listening to it on repeat. I wanted to close this episode with a vibrant song and I have to admit the combination of her soulful voice and the piano melody has a truly hypnotic effect on me.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening! Much love and respect to [Fit of Body](https://fitofbody.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
