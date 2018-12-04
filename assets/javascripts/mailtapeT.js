@@ -306,7 +306,7 @@ $("#topbar-signup-form").submit(function(e){
 			      	$("#topbar-status").css("color", "green");
 			      	$("#topbar-subscribeButton").fadeOut('slow');
 			      	$("#mobile-subscribeButton").fadeOut('slow');
-			      	_paq.push(['FormAnalytics::trackFormConversion', 'topbar-signup-form']);
+			      	_paq.push(['trackEvent', 'newfollower', 'topbar-signup-form']);
 
 			      	setTimeout(function() {
 	    				$('#topbar-subscription-form').fadeOut('slow');
@@ -378,7 +378,8 @@ $("#mobile-signup-form").submit(function(e){
 		      	{
 			      	$("#mobile-status").text("You're now subscribed "+name+"!");
 			      	$("#mobile-status").css("color", "green");
-			      	_paq.push(['FormAnalytics::trackFormConversion', 'mobile-signup-form']);
+			      	_paq.push(['trackEvent', 'newfollower', 'mobile-signup-form']);
+
 
 			      	setTimeout(function() {
 	    				$('#mobile-subscription').fadeOut('slow');
