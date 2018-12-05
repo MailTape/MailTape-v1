@@ -25,7 +25,7 @@ _Utsav Lal_: **"**There special.**"**
 # MailTape's selection
 
 ## Utsav Lal – Raga Puriya
-_Sanjay_: **"**I really enjoy listening to Utsav's renditions of ragas on the piano. Particularly the ways in which he has discovered methods to approximate South Asian embellishments such as the 'meend' (glissando) and the 'shrutis' (microtones). This is a version of raga Puriya—a raga, he says, that he has explored a lot recently.**"**
+_Sanjay_: **"**I  recently.**"**
 
 ## Jatinder Singh Durhailay — Tree
 _Sanjay_: **"**As well as a painter and illustrator, [Jatinder Singh Durhailay](http://jatindersinghdurhailay.com/) is also trained in South Asian classical music, performing and practicing Kirtan as well as playing, among others, the rare instruments Dilruba and Taus.**"**
