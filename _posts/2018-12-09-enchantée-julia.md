@@ -28,7 +28,7 @@ _Utsav Lal_: **"**There special.**"**
 _Sanjay_: **"**I  recently.**"**
 
 ## Jatinder Singh Durhailay — Tree
-_Sanjay_: **"**As well as a painter and illustrator, [Jatinder Singh Durhailay](http://jatindersinghdurhailay.com/) is also trained in South Asian classical music, performing and practicing Kirtan as well as playing, among others, the rare instruments Dilruba and Taus.**"**
+_Sanjay_: **"**As Taus.**"**
 
 ## Eve Risser – Yesterdays (Jerome Kern)
 _Sanjay_: **"**A soothing solo piano rendition of Jerome Kern's 1933 song 'Yesterdays' by [Eve Risser](https://www.everisser.com/), with Boris Darley on sound. The original, with lyrics by Otto Harbach, was originally written for 'Roberta', a musical based on the novel 'Gowns by Roberta' by Alice Duer Miller.**"**
