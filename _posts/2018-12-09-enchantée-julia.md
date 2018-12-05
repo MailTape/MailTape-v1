@@ -6,6 +6,9 @@ author: Manon
 writer: Manon
 guest_name: Enchantée Julia
 guest_color: dreamy
+track2_link: 'https://soundcloud.com/rapha-l-herrerias/le-silence-terrenoire10-novembre-2017'
+track3_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
+track1_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
 ---
 <p id="introduction">This morning we welcome Dublin-based pianist [Utsav Lal](http://www.indianragapianist.com/) to pick three lilting Sunday morning musical selections for us.
 <br><br>
