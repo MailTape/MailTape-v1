@@ -36,16 +36,16 @@ _Utsav Lal_: **"**on change de continent mais on revient  en californie avec le 
 
 # MailTape's selection
 
-## Utsav Lal – Raga Puriya
+## Enchantée Julia – ...
 _Manon_: **"**I  recently.**"**
 
-## Jatinder Singh Durhailay — Tree
+## Empress Of — Trust Me Baby
 _Manon_: **"**As Taus.**"**
 
 ## Eve Risser – Yesterdays (Jerome Kern)
 _Manon_: **"**A Miller.**"**
 
-## Myra Melford – Park Mechanics
+## LXTR – WWL (feat. CARME)
 _Manon_: **"**A  lines.**"**
 
 
