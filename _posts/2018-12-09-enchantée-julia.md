@@ -2,6 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Manon
+writer: Manon
+guest_name: Enchantée Julia
+guest_color: dreamy
 ---
 <p id="introduction">This morning we welcome Dublin-based pianist [Utsav Lal](http://www.indianragapianist.com/) to pick three lilting Sunday morning musical selections for us.
 <br><br>
