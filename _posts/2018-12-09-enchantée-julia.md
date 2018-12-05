@@ -12,29 +12,31 @@ Performing on a completely acoustic grand piano allows Utsav to alter the indivi
 
 # Enchantée Julia's selection
 
-## [Emahoy Tsegué-Maryam Guèbrou](http://www.emahoymusicfoundation.org/) – The Homeless Wanderer
-_Utsav Lal_: **"**This gems. **"**
+## Triplego – Cali (feat Prince Waly)
+_Utsav Lal_: **"**Collab Montreuilloise ,  «Montreuil c’est cali » j’aime le coté vaporeux de la prod, refrain toujours aussi efficace par Triplego, flow et voix imperturbables du Prince Waly  
+je voyage entre la californie et le 93 ! **"**
 
-## [Hilliard Ensemble](https://en.wikipedia.org/wiki/Hilliard_Ensemble) – Viderunt Omnes (Pérotin)
-_Utsav Lal_: **"**This  way.**"**
+## Terrenoire – Le Silence
+_Utsav Lal_: **"**On change de direction:  Terrenoire près de Saint Etienne, deux  âmes, deux frères, deux beautés à la recherche du Black Paradiso
+La voix de Raphael est transcendante , la production de Theo est saisissante,  je voyage, je ne peux qu’écouter jusqu’a la fin sans interruption  et puis je remet play!**"**
 
-## [Ustad Zia Fariduddin Dagar](https://en.wikipedia.org/wiki/Zia_Fariduddin_Dagar) – Raga Jogia Durga
-_Utsav Lal_: **"**There special.**"**
+## Saintard – Summertime
+_Utsav Lal_: **"**on change de continent mais on revient  en californie avec le roi du groove Saintard, nostalgie nighties j’adore!!!!!!!! je suis FAN **"**
 
 
 # MailTape's selection
 
 ## Utsav Lal – Raga Puriya
-_Sanjay_: **"**I  recently.**"**
+_Manon_: **"**I  recently.**"**
 
 ## Jatinder Singh Durhailay — Tree
-_Sanjay_: **"**As Taus.**"**
+_Manon_: **"**As Taus.**"**
 
 ## Eve Risser – Yesterdays (Jerome Kern)
-_Sanjay_: **"**A Miller.**"**
+_Manon_: **"**A Miller.**"**
 
 ## Myra Melford – Park Mechanics
-_Sanjay_: **"**A  lines.**"**
+_Manon_: **"**A  lines.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Utsav Lal](http://www.indianragapianist.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
