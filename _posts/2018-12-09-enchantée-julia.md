@@ -19,7 +19,7 @@ _Utsav Lal_: **"**This gems. **"**
 _Utsav Lal_: **"**This  way.**"**
 
 ## [Ustad Zia Fariduddin Dagar](https://en.wikipedia.org/wiki/Zia_Fariduddin_Dagar) – Raga Jogia Durga
-_Utsav Lal_: **"**There had to be a piece of Dhrupad from the Dagar family for several reasons. About 80 percent of the music I listen to is Dhrupad, I belong to the Dagar tradition, my guru is [Wasifuddin Dagar](https://en.wikipedia.org/wiki/Wasifuddin_Dagar). The Dagar dhrupad form of music is for me personally the most fascinating and rewarding in absolutely every conceivable way of listening to music. It's peaceful, violent, yearning, rhythmically/intonationally/lyrically/melodically fascinating. For me. The problem with selecting something is that its so hard to pinpoint recordings as this music kind of functions as this continuum for me. I feel like I don't put on recordings when I listen to them, I tune into something that is always going on. And also they're mostly an hour long which exceeds the maximum duration for this. I picked this recording of Jogia-Durga because Fariduddinji is the first person I heard singing Dhrupad at a concert in Delhi when I was 12 years old. There were a few different musicians performing that night and barely anyone was left when he took the stage. The difference between the absolutely pure intention and expression of his art to the people before him blew me away and sucked me straight into my obsession with Dhrupad. I heard this ten minute recording a few days ago heading home on a late train after attending a slightly disappointing show. It felt very special.**"**
+_Utsav Lal_: **"**There special.**"**
 
 
 # MailTape's selection
