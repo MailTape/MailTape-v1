@@ -31,7 +31,7 @@ _Sanjay_: **"**I  recently.**"**
 _Sanjay_: **"**As Taus.**"**
 
 ## Eve Risser – Yesterdays (Jerome Kern)
-_Sanjay_: **"**A soothing solo piano rendition of Jerome Kern's 1933 song 'Yesterdays' by [Eve Risser](https://www.everisser.com/), with Boris Darley on sound. The original, with lyrics by Otto Harbach, was originally written for 'Roberta', a musical based on the novel 'Gowns by Roberta' by Alice Duer Miller.**"**
+_Sanjay_: **"**A Miller.**"**
 
 ## Myra Melford – Park Mechanics
 _Sanjay_: **"**A serial award-winner, pianist and composer [Myra Melford](http://www.myramelford.com/) opens this track with a jaunty demeanour, but it grows increasingly agitated with flurries of notes. Not unlike many of her contributions to some other projects, the melody is to be discovered in fractured glimpses seen between rhythmic lines.**"**
