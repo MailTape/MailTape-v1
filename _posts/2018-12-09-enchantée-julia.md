@@ -34,7 +34,7 @@ _Sanjay_: **"**As Taus.**"**
 _Sanjay_: **"**A Miller.**"**
 
 ## Myra Melford – Park Mechanics
-_Sanjay_: **"**A serial award-winner, pianist and composer [Myra Melford](http://www.myramelford.com/) opens this track with a jaunty demeanour, but it grows increasingly agitated with flurries of notes. Not unlike many of her contributions to some other projects, the melody is to be discovered in fractured glimpses seen between rhythmic lines.**"**
+_Sanjay_: **"**A  lines.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Utsav Lal](http://www.indianragapianist.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
