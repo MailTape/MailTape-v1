@@ -38,7 +38,7 @@ _Utsav Lal_: **"**on change de continent mais on revient  en californie avec le 
 
 # MailTape's selection
 
-## Enchantée Julia – ...
+## Enchantée Julia – 45 tours (feat Prince Wally)
 _Manon_: **"**I  recently.**"**
 
 ## Empress Of — Trust Me Baby
