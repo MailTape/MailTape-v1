@@ -42,7 +42,7 @@ _Manon_: **"**I  recently.**"**
 ## Empress Of — Trust Me Baby
 _Manon_: **"**As Taus.**"**
 
-## Eve Risser – Yesterdays (Jerome Kern)
+## Moussa – Cabrioli
 _Manon_: **"**A Miller.**"**
 
 ## LXTR – WWL (feat. CARME)
