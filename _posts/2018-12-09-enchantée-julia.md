@@ -7,8 +7,8 @@ writer: Manon
 guest_name: Enchantée Julia
 guest_color: dreamy
 track2_link: 'https://soundcloud.com/rapha-l-herrerias/le-silence-terrenoire10-novembre-2017'
-track3_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
-track1_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
+track3_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
+track1_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
 category: '335'
 track5_link: 'https://soundcloud.com/empressof/trust-me-baby'
 track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
