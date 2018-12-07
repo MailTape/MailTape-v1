@@ -15,7 +15,7 @@ track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
 track6_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
 track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prince-waly'
 ---
-<p id="introduction">This morning we welcome Dublin-based pianist [Utsav Lal](http://www.indianragapianist.com/) to pick three lilting Sunday morning musical selections for us.
+<p id="introduction">This morning we welcome Dublin-based pianist [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to pick three lilting Sunday morning musical selections for us.
 <br><br>
 Choosingtion of Morteza Mahjoobi, the genre-bending piano playing of Emahoy Tsegué-Maryam Guèbrou and extended techniques of Helmut Lachenmann.
 <br><br>
@@ -49,4 +49,4 @@ _Manon_: **"**A.**"**
 _Manon_: **"**A.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Utsav Lal](http://www.indianragapianist.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Enchantée Julia](https://www.facebook.com/enchanteejulia/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
