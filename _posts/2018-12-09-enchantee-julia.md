@@ -15,7 +15,7 @@ track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
 track6_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
 track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prince-waly'
 ---
-<p id="introduction">This morning we welcome Dublin-based pianist [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to pick three lilting Sunday morning musical selections for us.
+<p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 Choosingtion of Morteza Mahjoobi, the genre-bending piano playing of Emahoy Tsegué-Maryam Guèbrou and extended techniques of Helmut Lachenmann.
 <br><br>
