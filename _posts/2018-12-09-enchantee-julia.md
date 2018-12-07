@@ -49,4 +49,4 @@ _Manon_: **"**Same crew as blablabla**"**
 _Manon_: **"**CARME**"**
 
 
-<p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Enchantée Julia](https://www.facebook.com/enchanteejulia/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Enchantée Julia](https://www.facebook.com/enchanteejulia/) for his Sunday selections, and to William for this episode's cool illustration.</p>
