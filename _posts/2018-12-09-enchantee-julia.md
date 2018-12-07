@@ -17,7 +17,7 @@ track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prin
 ---
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
-Choosingtion of Morteza Mahjoobi, the genre-bending piano playing of Emahoy Tsegué-Maryam Guèbrou and extended techniques of Helmut Lachenmann.
+I discovered her a few months ago. It was the end of Summer, Paris was still warm and welcoming. I went to an event by the river where some artists were playing on a barge, she was one of them, and her flow captivated me.
 <br><br>
 Performing on a yed.</p>
 
