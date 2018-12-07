@@ -37,16 +37,16 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 # MailTape's selection
 
 ## Enchantée Julia – 45 tours (feat Prince Waly)
-_Manon_: **"**I.**"**
+_Manon_: **"**The "Shalala"**"**
 
 ## Empress Of — Trust Me Baby
-_Manon_: **"**As.**"**
+_Manon_: **"**This song is hypnotising. You listen to it one time, and you loose yourself in this blablabla**"**
 
 ## Moussa – Cabrioli
-_Manon_: **"**A.**"**
+_Manon_: **"**Same crew as blablabla**"**
 
 ## LXTR – WWL (feat. CARME)
-_Manon_: **"**A.**"**
+_Manon_: **"**CARME**"**
 
 
 <p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Enchantée Julia](https://www.facebook.com/enchanteejulia/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
