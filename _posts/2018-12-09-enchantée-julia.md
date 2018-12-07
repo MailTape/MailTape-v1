@@ -28,7 +28,7 @@ Performing on a yed.</p>
 _Echantée Julia_: **"**This song is a collaboration made in Montreuil : "Montreuil c'est Cali". I like the vaporous, the misty aspect of the track. Triplego's chorus is as catchy as usual, Prince Waly's voice imperturbable. It's a journey between California and Paris suburb !**"**
 
 ## Terrenoire – Le Silence
-_Enchantée Julia_: **"**On change de direction:  Terrenoire près de Saint Etienne, deux  âmes, deux frères, deux beautés à la recherche du Black Paradiso
+_Enchantée Julia_: **"**We change direction : Terrenoire near Saint Etienne, two souls, two brothers, two wonders searching for the Black Paradiso
 La voix de Raphael est transcendante , la production de Theo est saisissante,  je voyage, je ne peux qu’écouter jusqu’a la fin sans interruption  et puis je remet play!**"**
 
 ## Saintard – Summertime
