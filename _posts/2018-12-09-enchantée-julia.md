@@ -25,20 +25,19 @@ Performing on a completely acoustic grand piano allows Utsav to alter the indivi
 # Enchantée Julia's selection
 
 ## Triplego – Cali (feat Prince Waly)
-_Utsav Lal_: **"**Collab Montreuilloise ,  «Montreuil c’est cali » j’aime le coté vaporeux de la prod, refrain toujours aussi efficace par Triplego, flow et voix imperturbables du Prince Waly  
-je voyage entre la californie et le 93 ! **"**
+_Echantée Julia_: **"**This song is a collaboration made in Montreuil : "Montreuil c'est Cali". I like the vaporous, the misty aspect of the track. Triplego's chorus is as catchy as usual, Prince Waly's voice imperturbable. It's a journey between California and Paris suburb !**"**
 
 ## Terrenoire – Le Silence
-_Utsav Lal_: **"**On change de direction:  Terrenoire près de Saint Etienne, deux  âmes, deux frères, deux beautés à la recherche du Black Paradiso
+_Enchantée Julia_: **"**On change de direction:  Terrenoire près de Saint Etienne, deux  âmes, deux frères, deux beautés à la recherche du Black Paradiso
 La voix de Raphael est transcendante , la production de Theo est saisissante,  je voyage, je ne peux qu’écouter jusqu’a la fin sans interruption  et puis je remet play!**"**
 
 ## Saintard – Summertime
-_Utsav Lal_: **"**on change de continent mais on revient  en californie avec le roi du groove Saintard, nostalgie nighties j’adore!!!!!!!! je suis FAN **"**
+_Enchantée Julia_: **"**on change de continent mais on revient  en californie avec le roi du groove Saintard, nostalgie nighties j’adore!!!!!!!! je suis FAN **"**
 
 
 # MailTape's selection
 
-## Enchantée Julia – 45 tours (feat Prince Wally)
+## Enchantée Julia – 45 tours (feat Prince Waly)
 _Manon_: **"**I  recently.**"**
 
 ## Empress Of — Trust Me Baby
