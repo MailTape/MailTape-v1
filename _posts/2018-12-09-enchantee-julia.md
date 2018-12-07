@@ -31,7 +31,7 @@ _Echantée Julia_: **"**This song is a collaboration made in Montreuil : "Montre
 _Enchantée Julia_: **"**We change direction : Terrenoire near Saint Etienne, two souls, two brothers, two wonders searching for the Black Paradiso. Raphael's voice is transcendent, Theo's production is stunning. I travel, I can only listen to the track until the end and then play it again!**"**
 
 ## Saintard – Summertime
-_Enchantée Julia_: **"**Now we are back to California, with Saintard, the king of groove. Some nostalgy from the nineties, I like it ! I am a big FAN **"**
+_Enchantée Julia_: **"**Now we are back to California, with Saintard, the king of groove. Some nostalgia from the nineties, I like it ! I am a big FAN **"**
 
 
 # MailTape's selection
