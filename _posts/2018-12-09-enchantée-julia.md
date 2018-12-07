@@ -38,7 +38,7 @@ _Enchantée Julia_: **"**on change de continent mais on revient  en californie a
 # MailTape's selection
 
 ## Enchantée Julia – 45 tours (feat Prince Waly)
-_Manon_: **"**I  recently.**"**
+_Manon_: **"**I.**"**
 
 ## Empress Of — Trust Me Baby
 _Manon_: **"**As.**"**
