@@ -17,9 +17,9 @@ track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prin
 ---
 <p id="introduction">This morning we welcome Dublin-based pianist [Utsav Lal](http://www.indianragapianist.com/) to pick three lilting Sunday morning musical selections for us.
 <br><br>
-Choosing to perform on an instrument that has traditionally been considered unsuitable for South Asian classical music, and often referred to as the ‘Raga Pianist’, Utsav’s handling of a raga blends his diverse musical influences. Ranging from the Persian piano playing tradition of Morteza Mahjoobi, the genre-bending piano playing of Emahoy Tsegué-Maryam Guèbrou and extended techniques of Helmut Lachenmann.
+Choosingtion of Morteza Mahjoobi, the genre-bending piano playing of Emahoy Tsegué-Maryam Guèbrou and extended techniques of Helmut Lachenmann.
 <br><br>
-Performing on a completely acoustic grand piano allows Utsav to alter the individual frequencies of each note through a slider that varies the string tension. This makes the microtones much more accessible and the note can be bent and altered once played.</p>
+Performing on a yed.</p>
 
 
 # Enchantée Julia's selection
@@ -41,13 +41,13 @@ _Enchantée Julia_: **"**on change de continent mais on revient  en californie a
 _Manon_: **"**I  recently.**"**
 
 ## Empress Of — Trust Me Baby
-_Manon_: **"**As Taus.**"**
+_Manon_: **"**As.**"**
 
 ## Moussa – Cabrioli
-_Manon_: **"**A Miller.**"**
+_Manon_: **"**A.**"**
 
 ## LXTR – WWL (feat. CARME)
-_Manon_: **"**A  lines.**"**
+_Manon_: **"**A.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Utsav Lal](http://www.indianragapianist.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration.</p>
