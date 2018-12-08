@@ -53,7 +53,7 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 ## Enchantée Julia – 45 tours (feat Prince Waly)
 _Manon_: **"**The "Shalala"**"**
 
-## Empress Of — Trust Me Baby
+## IAMDDB - More
 _Manon_: **"**This song is hypnotising. You listen to it one time, and you loose yourself in this blablabla**"**
 
 ## Moussa – Cabrioli
