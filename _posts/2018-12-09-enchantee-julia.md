@@ -46,7 +46,7 @@ _Manon_: **"**This song is hypnotising. You listen to it one time, and you loose
 _Manon_: **"**Same crew as blablabla**"**
 
 ## LXTR – WWL (feat. CARME)
-_Manon_: **"**Some sweetness to end this playlist, like a square of chocolate at the end of a meal.**"**
+_Manon_: **"**Some sweetness to end this playlist, like a square of chocolate at the end of a meal...**"**
 
 
 <p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Enchantée Julia](https://www.facebook.com/enchanteejulia/) for her Sunday selection, and to William for this episode's cool illustration.</p>
