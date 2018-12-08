@@ -42,11 +42,6 @@ musiColor: musiColor335.png
 I discovered her a few months ago. It was the end of Summer, Paris was still warm and welcoming. I went to an event by the river where some artists were playing on a barge. Enchantée Julia was one of those artists, and her flow captivated me.
 </p>
 
-[musiColor335.JPG]({{site.baseurl}}/img/musiColor335.JPG)
-[guestPic335new2.jpg]({{site.baseurl}}/img/guestPic335new2.jpg)
-[fbPic335.JPG]({{site.baseurl}}/img/fbPic335.JPG)
-
-
 # Enchantée Julia's selection
 
 ## Triplego – Cali (feat Prince Waly)
