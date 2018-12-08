@@ -45,9 +45,6 @@ I discovered her a few months ago. It was the end of Summer, Paris was still war
 
 # Enchantée Julia's selection
 
-![guestPic335new.jpg]({{site.baseurl}}/img/guestPic335new.jpg)
-
-
 
 ## Triplego – Cali (feat Prince Waly)
 _Echantée Julia_: **"**This song is a collaboration made in Montreuil : "Montreuil c'est Cali". I like the vaporous, the misty aspect of the track. Triplego's chorus is as catchy as usual, Prince Waly's voice imperturbable. It's a journey between California and Paris suburb !**"**
