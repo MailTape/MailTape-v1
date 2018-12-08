@@ -51,13 +51,13 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 # MailTape's selection
 
 ## Enchantée Julia – 45 tours (feat Prince Waly)
-_Manon_: **"**The "Shalala"**"**
+_Manon_: **"**We enter now a vintage and cozy atmosphere.. Combining a dreamy melody and a smooth voice, Enchantée Julia blablabla**"**
 
 ## Moussa – Cabrioli
 _Manon_: **"**Same crew as blablabla**"**
 
 ## IAMDDB - More
-_Manon_: **"**This song is hypnotising. You listen to it one time, and you loose yourself in this blablabla**"**
+_Manon_: **"**It feels so good to hear this new wave of female rappers ! IAMDDB **"**
 
 ## LXTR – WWL (feat. CARME)
 _Manon_: **"**Some sweetness to end this playlist, like a square of chocolate at the end of a meal...**"**
