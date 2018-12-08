@@ -54,10 +54,10 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 _Manon_: **"**We enter now a vintage and cozy atmosphere.. Combining a dreamy melody and smooth voices, Enchantée Julia and Prince Waly picture us their both modern and old school love story.**"**
 
 ## Moussa – Cabrioli
-_Manon_: **"**Same crew as blablabla**"**
+_Manon_: **"**Another love story, more frenetic, disruptive. "Rappelle-moi sur quel pied je danse", says Moussa to his lover, as he looses control.**"**
 
 ## IAMDDB - More
-_Manon_: **"**It feels so good to hear this new wave of female rappers ! IAMDDB **"**
+_Manon_: **"**IAMDDB **"**
 
 ## LXTR – WWL (feat. CARME)
 _Manon_: **"**Some sweetness to end this playlist, like a square of chocolate at the end of the meal...**"**
