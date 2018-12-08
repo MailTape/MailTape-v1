@@ -10,9 +10,9 @@ track2_link: 'https://soundcloud.com/rapha-l-herrerias/le-silence-terrenoire10-n
 track3_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
 track1_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
 category: '335'
-track5_link: 'https://soundcloud.com/eclecticldn/iamddb-more'
+track5_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
 track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
-track6_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
+track6_link: 'https://soundcloud.com/eclecticldn/iamddb-more'
 track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prince-waly'
 track1_title: Triplego – Cali (feat Prince Waly)
 track1_color: dreamy
@@ -22,12 +22,12 @@ track3_title: Saintard – Summertime
 track3_color: bliss
 track4_title: Enchantée Julia – 45 tours (feat Prince Waly)
 track4_color: trippy
-track5_title: IAMDDB - More
+track5_title: Moussa - Cabrioli
 track7_title: LXTR – WWL (feat. CARME)
 track7_color: dreamy
-track6_color: vibrant
-track6_title: Moussa - Cabrioli
-track5_color: trippy
+track6_color: trippy
+track6_title: IAMDDB - More
+track5_color: vibrant
 ---
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
