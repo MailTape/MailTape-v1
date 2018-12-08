@@ -37,7 +37,6 @@ guestPic: guestPic335.jpg
 musiColor: musiColor335.png
 fbPic: fbPic335.jpg
 ---
-![musiColor335.JPG]({{site.baseurl}}/img/musiColor335.JPG)
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 
@@ -45,8 +44,6 @@ I discovered her a few months ago. It was the end of Summer, Paris was still war
 </p>
 
 # Enchantée Julia's selection
-![fbPic335.JPG]({{site.baseurl}}/img/fbPic335.JPG)
-![guestPic335.jpg]({{site.baseurl}}/img/guestPic335.jpg)
 
 
 ## Triplego – Cali (feat Prince Waly)
