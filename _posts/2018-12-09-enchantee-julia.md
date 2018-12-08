@@ -33,9 +33,11 @@ description: >-
   MailTape. I discovered her a few months ago. It was the end of Summer, Paris
   was still warm and welcoming.
 episode_URL: 'http://mailta.pe/335/enchantee-julia/'
-guestPic: guestPic335new.jpg
+guestPic: guestPic335.jpg
 musiColor: musiColor335.png
+fbPic: fbPic335.jpg
 ---
+![musiColor335.JPG]({{site.baseurl}}/img/musiColor335.JPG)
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 
