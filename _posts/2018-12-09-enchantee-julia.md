@@ -20,6 +20,8 @@ track2_title: Terrenoire – Le Silence
 track2_color: vibrant
 track3_title: Saintard – Summertime
 track3_color: bliss
+track4_title: Enchantée Julia – 45 tours (feat Prince Waly)
+track4_color: trippy
 ---
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
