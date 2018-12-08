@@ -10,7 +10,7 @@ track2_link: 'https://soundcloud.com/rapha-l-herrerias/le-silence-terrenoire10-n
 track3_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
 track1_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
 category: '335'
-track5_link: 'https://soundcloud.com/empressof/in-dreams'
+track5_link: 'https://soundcloud.com/eclecticldn/iamddb-more'
 track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
 track6_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
 track4_link: 'https://soundcloud.com/enchanteejulia/45-tours-j-u-l-i-a-feat-prince-waly'
@@ -22,7 +22,7 @@ track3_title: Saintard – Summertime
 track3_color: bliss
 track4_title: Enchantée Julia – 45 tours (feat Prince Waly)
 track4_color: trippy
-track5_title: Empress Of — Trust Me Baby
+track5_title: IAMDDB - More
 track7_title: LXTR – WWL (feat. CARME)
 track7_color: dreamy
 track6_color: vibrant
