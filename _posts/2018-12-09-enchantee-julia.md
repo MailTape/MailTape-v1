@@ -33,11 +33,11 @@ description: >-
   MailTape. I discovered her a few months ago. It was the end of Summer, Paris
   was still warm and welcoming.
 episode_URL: 'http://mailta.pe/335/enchantee-julia/'
-guestPic: guestPic335.jpg
+guestPic: guestPic335new.jpg
 musiColor: musiColor335.png
 fbPic: fbPic335.jpg
 ---
-![guestPic335.jpg]({{site.baseurl}}/img/guestPic335.jpg)
+
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 
@@ -45,6 +45,7 @@ I discovered her a few months ago. It was the end of Summer, Paris was still war
 </p>
 
 # Enchantée Julia's selection
+![guestPic335new.jpg]({{site.baseurl}}/img/guestPic335new.jpg)
 
 
 ## Triplego – Cali (feat Prince Waly)
