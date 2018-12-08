@@ -36,6 +36,8 @@ episode_URL: 'http://mailta.pe/335/enchantee-julia/'
 guestPic: guestPic335new.jpg
 musiColor: musiColor335.png
 ---
+![guestPic335new2.jpg]({{site.baseurl}}/img/guestPic335new2.jpg)
+![fbPic335.JPG]({{site.baseurl}}/img/fbPic335.JPG)
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 
