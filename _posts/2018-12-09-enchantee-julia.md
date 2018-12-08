@@ -51,7 +51,7 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 # MailTape's selection
 
 ## Enchantée Julia – 45 tours (feat Prince Waly)
-_Manon_: **"**We enter now a vintage and cozy atmosphere.. Combining a dreamy melody and a smooth voice, Enchantée Julia blablabla**"**
+_Manon_: **"**We enter now a vintage and cozy atmosphere.. Combining a dreamy melody and smooth voices, Enchantée Julia and Prince Waly picture us their both modern and old school love story.**"**
 
 ## Moussa – Cabrioli
 _Manon_: **"**Same crew as blablabla**"**
