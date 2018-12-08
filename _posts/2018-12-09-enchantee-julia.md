@@ -40,8 +40,7 @@ episode_URL: 'http://mailta.pe/335/enchantee-julia/'
 I discovered her a few months ago. It was the end of Summer, Paris was still warm and welcoming. I went to an event by the river where some artists were playing on a barge. Enchantée Julia was one of those artists, and her flow captivated me.
 <br><br>
 
-
-
+  
 # Enchantée Julia's selection
 
 ## Triplego – Cali (feat Prince Waly)
@@ -60,10 +59,10 @@ _Enchantée Julia_: **"**Now we are back to California, with Saintard, the king 
 _Manon_: **"**We enter now a vintage and cozy atmosphere.. Combining a dreamy melody and smooth voices, Enchantée Julia and Prince Waly picture us their both modern and old school love story.**"**
 
 ## Moussa – Cabrioli
-_Manon_: **"**Another love story, more frenetic, disruptive. "Rappelle-moi sur quel pied je danse", says Moussa to his lover, as he looses control.**"**
+_Manon_: **"**Another love story, more frenetic, disruptive. "Rappelle-moi sur quel pied je danse", says Moussa, as he looses control.**"**
 
 ## IAMDDB - More
-_Manon_: **"**IAMDDB **"**
+_Manon_: **"**Inspiring and powerful, IAMDDB will hypnotize you with her flow and her melancholic vibes.**"**
 
 ## LXTR – WWL (feat. CARME)
 _Manon_: **"**Some sweetness to end this playlist, like a square of chocolate at the end of the meal...**"**
