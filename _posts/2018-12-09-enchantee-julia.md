@@ -18,6 +18,8 @@ track1_title: Triplego – Cali (feat Prince Waly)
 track1_color: dreamy
 track2_title: Terrenoire – Le Silence
 track2_color: vibrant
+track3_title: Saintard – Summertime
+track3_color: bliss
 ---
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
