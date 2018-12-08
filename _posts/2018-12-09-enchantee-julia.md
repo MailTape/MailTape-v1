@@ -45,7 +45,6 @@ I discovered her a few months ago. It was the end of Summer, Paris was still war
 </p>
 
 # Enchantée Julia's selection
-![guestPic335new.jpg]({{site.baseurl}}/img/guestPic335new.jpg)
 
 
 ## Triplego – Cali (feat Prince Waly)
