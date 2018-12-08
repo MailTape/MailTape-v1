@@ -23,6 +23,11 @@ track3_color: bliss
 track4_title: Enchantée Julia – 45 tours (feat Prince Waly)
 track4_color: trippy
 track5_title: Empress Of — Trust Me Baby
+track7_title: LXTR – WWL (feat. CARME)
+track7_color: dreamy
+track6_color: vibrant
+track6_title: Moussa - Cabrioli
+track5_color: trippy
 ---
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
