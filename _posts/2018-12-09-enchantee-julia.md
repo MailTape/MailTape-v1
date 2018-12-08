@@ -37,6 +37,7 @@ guestPic: guestPic335.jpg
 musiColor: musiColor335.png
 fbPic: fbPic335.jpg
 ---
+![guestPic335.jpg]({{site.baseurl}}/img/guestPic335.jpg)
 <p id="introduction">This morning we are delighted to welcome the French singer [Enchantée Julia](https://www.facebook.com/enchanteejulia/) to MailTape.
 <br><br>
 
