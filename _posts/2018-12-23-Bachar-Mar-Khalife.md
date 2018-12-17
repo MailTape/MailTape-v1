@@ -3,6 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
+![guestPic337.jpg]({{site.baseurl}}/img/guestPic337.jpg)
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
 With.</p>
