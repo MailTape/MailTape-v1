@@ -16,20 +16,20 @@ With.</p>
 
 # Bachar's selection
 
-## King Princess – Holy
-_Zoya_: **"**Love this tune and the production. [King Princess](https://kingprincessmusic.com/) always gets me in a good romantic mood. Love starting the day with romance in my brain.**"**
+## Gabriel Fauré - Requiem, Op. 48: II. Kyrie
+_Zoya_: **"**Mon Requiem a été composé pour rien… pour le plaisir, si j’ose dire ! » Quelle belle provocation pour introduire son requiem. La messe pour les morts. Une musique résolument vivante, sereine. Lumineuse. A contre courant de l’image occidentale de la mort, sombre, et effrayante. Une des plus belles oeuvres du répertoire.**"**
 
-## [Noah Kahan](http://noahkahan.com/) – Young Blood
-_Zoya_: **"**This is one of my favorite driving songs. I've been bumping it lately first thing in the morning when I go on my coffee run. Try your Sunday morning with this one. Super nostalgic vibe.**"**
+## Ziad Rahbani – Bala Wala Chi
+_Zoya_: **"**Sortie en 1979 au début de la guerre civile, cette chanson interprétée par Sami Huwwat et écrite par Ziad Rahbani est un peu culte au Liban. Elle sort du paysage traditionnel et témoigne d'une époque déjà très ouverte sur la « musique de l’ouest ». Ce qui en fait une chanson libanaise par excellence. C’est une chanson d’amour qui trouverait sa traduction dans le proverbe français « vivre d’amour et d’eau fraîche ». Mais bien sûr, difficile d’ignorer totalement la note un peu sarcastique et l’esprit vif et toujours critique de Ziad, géni pur et observateur social et politique d’un pays qui ne cesse de s’effriter.**"**
 
-## [Marc E. Bassy](http://www.marcebassy.com/) – Morning
-_Zoya_: **"**Ah, I love this tune right now. I really want to make baby-making music like this one day! (haha*) Love the keys, synths and organs. This one put's me in a such a happy mood. Vibeyyyyy. Straight vibes.**"**
+## Jaco Pastorius – Part 10
+_Zoya_: **"**Jaco le resistant, le visionnaire, le poète. Il a inventé un instrument. Il a défie les temps modernes, seul. Il joue ici « happy birthday » et un passage de l’hymne américain également. Il défie ces "dieux symboles" à mains nues. Si dans 3000 ans on découvrait son solo, ce sera l’équivalent musical des hiéroglyphes. On ne saura pas comment l’interpréter, nous aurons perdus beaucoup de clés et nous n'aurons pas accès à tout ce qui nous permet de vibrer à l’écoute de ces sons « extraterrestres ». Nous serons des machines. Il est encore temps de transmettre et faire passer ce témoignage « honestly ». A moins que ce ne soit déjà un peu trop tard ?**"**
 
 
 # MailTape's selection
 
-## Zoya – Keep You Mine
-_Sanjay_: **"**Released just last Friday, this latest track from Zoya plays a tasteful balancing act—blending elements of American dance music and catchy lyrics with vocal melodies rooted by Indian pop music.**"**
+## Bachar Mar Khalife – 
+_Sanjay_: **"**Blabla.**"**
 
 ## Rvdical The Kid – Hawaii (with amaarae & EDWVN)
 _Sanjay_: **"**At just under two minutes long this track from [Rvdical the Kid](https://soundcloud.com/rvdicalthekid/) featuring [amaarae](http://amaaraemusic.com/), with additional vocals by [EDWVN](https://soundcloud.com/edwvn), carries a dreamy and whispery vibe. The beat and her singing rise contemporaneously, her voice sliding along the rising soundscape of the song.**"**
