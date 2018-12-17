@@ -31,13 +31,13 @@ _Bachar_: **"**Jaco le resistant, le visionnaire, le poète. Il a inventé un in
 ## Bachar Mar-Khalifé – Lemon
 _Manon_: **"**Blabla.**"**
 
-## Altin Gün – Hawaii (with amaarae & EDWVN)
+## Altin Gün – tatil dile guler yuze
 _Manon_: **"**At.**"**
 
-## mobilegirl – Forest Coloss
+## Trio Ternura – A Gira
 _Manon_: **"**Beautiful.**"**
 
-## Oumou Sangaré – Djoukourou (Auntie Flo Remix)
+## Hamid Al Shaeri - Ayonha
 _Manon_: **"**Beginning.**"**
 
 
