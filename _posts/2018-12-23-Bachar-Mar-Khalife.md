@@ -13,13 +13,13 @@ track1_color: rough
 track2_title: Ziad Rahbani – Bala Wala Chi
 track2_color: vibrant
 track3_title: Jaco Pastorius – Part 10
-track3_color: bliss
+track3_color: dreamy
 track4_title: Bachar Mar-Khalifé – Lemon
 track4_color: rough
 track5_title: Altin Gün – tatil dile guler yuze
 track5_color: trippy
 track6_title: Trio Ternura – A Gira
-track6_color: trippy
+track6_color: bliss
 track7_title: Hamid Al Shaeri - Ayonha
 track7_color: dreamy
 ---
