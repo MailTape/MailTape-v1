@@ -12,6 +12,8 @@ track1_title: 'Gabriel Fauré - Requiem, Op. 48: II. Kyrie'
 track1_color: rough
 track2_title: Ziad Rahbani – Bala Wala Chi
 track2_color: vibrant
+track3_title: Jaco Pastorius – Part 10
+track3_color: bliss
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
