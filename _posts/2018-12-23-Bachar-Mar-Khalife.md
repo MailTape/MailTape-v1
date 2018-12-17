@@ -16,6 +16,8 @@ track3_title: Jaco Pastorius – Part 10
 track3_color: bliss
 track4_title: Bachar Mar-Khalifé – Lemon
 track4_color: rough
+track5_title: Altin Gün – tatil dile guler yuze
+track5_color: trippy
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
