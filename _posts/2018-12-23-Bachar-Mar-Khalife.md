@@ -8,7 +8,7 @@ guest_color: vibrant
 author: Manon
 writer: Manon
 guestPic: guestPic337.jpg
-track1_title: 'Gabriel Fauré - Requiem, Op. 48 : Introit  Kyrie'
+track1_title: 'Gabriel Fauré - Requiem, Op. 48 : II. Kyrie'
 track1_color: vibrant
 track2_title: Ziad Rahbani – Bala Wala Chi
 track2_color: vibrant
