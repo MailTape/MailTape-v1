@@ -8,8 +8,8 @@ guest_color: vibrant
 author: Manon
 writer: Manon
 guestPic: guestPic337.jpg
-track1_title: 'Gabriel Fauré - Requiem, Op. 48: II. Kyrie'
-track1_color: rough
+track1_title: 'Gabriel Fauré - Requiem, Op. 48 : Introit  Kyrie'
+track1_color: vibrant
 track2_title: Ziad Rahbani – Bala Wala Chi
 track2_color: vibrant
 track3_title: Jaco Pastorius – Part 10
@@ -27,6 +27,8 @@ track5_link: 'https://soundcloud.com/user-123048645/tatli-dile-guler-yuze'
 track7_link: 'https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha'
 track4_link: 'https://soundcloud.com/bacharmar-khalife/lemon-radio-edit'
 track6_link: 'https://soundcloud.com/leandro-almeida-santos/trio-ternura-a-gira'
+track1_link: 'https://soundcloud.com/unclassified-40510988/requiem-op-48-introit-kyrie'
+track2_link: 'https://soundcloud.com/ziad-rahbani-official/bala-wala-chi'
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
