@@ -20,6 +20,8 @@ track5_title: Altin Gün – tatil dile guler yuze
 track5_color: trippy
 track6_title: Trio Ternura – A Gira
 track6_color: trippy
+track7_title: Hamid Al Shaeri - Ayonha
+track7_color: dreamy
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
