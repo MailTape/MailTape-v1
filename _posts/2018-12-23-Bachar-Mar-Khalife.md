@@ -25,6 +25,8 @@ track7_color: dreamy
 illustrator: Anthony Dujardin
 track5_link: 'https://soundcloud.com/user-123048645/tatli-dile-guler-yuze'
 track7_link: 'https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha'
+track4_link: 'https://soundcloud.com/bacharmar-khalife/lemon-radio-edit'
+track6_link: 'https://soundcloud.com/leandro-almeida-santos/trio-ternura-a-gira'
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
