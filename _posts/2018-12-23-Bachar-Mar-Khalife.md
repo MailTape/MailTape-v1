@@ -35,10 +35,10 @@ _Manon_: **"**Blabla.**"**
 _Manon_: **"**At.**"**
 
 ## mobilegirl – Forest Coloss
-_Manon_: **"**Beautiful and subdued, yet sharp as a tack. Taken from Berlin-based [mobilegirl](https://soundcloud.com/mobilegirl)'s (a.k.a. Bao-Tran Tran) first official release, 'Poise'. An EP of lilting strings, elegant arrangements and placid drums.**"**
+_Manon_: **"**Beautiful.**"**
 
 ## Oumou Sangaré – Djoukourou (Auntie Flo Remix)
-_Manon_: **"**Beginning and ending with fluttering xylophone sounds swaying back and forth between two tones, [Auntie Flo](https://soundcloud.com/auntie-flo/)'s remix transforms [Oumou Sangaré](https://www.instagram.com/oumou.sang/)’s original—adorned with Wassoulou instruments—into a percussion-rich, dancefloor-centric reimagination.**"**
+_Manon_: **"**Beginning.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Zoya](http://www.zoyamusicofficial.com/) for her Sunday selections, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
