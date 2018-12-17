@@ -29,6 +29,7 @@ track4_link: 'https://soundcloud.com/bacharmar-khalife/lemon-radio-edit'
 track6_link: 'https://soundcloud.com/leandro-almeida-santos/trio-ternura-a-gira'
 track1_link: 'https://soundcloud.com/unclassified-40510988/requiem-op-48-introit-kyrie'
 track2_link: 'https://soundcloud.com/ziad-rahbani-official/bala-wala-chi'
+track3_link: 'https://www.youtube.com/watch?v=dJMcPf5jlEc'
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
