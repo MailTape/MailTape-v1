@@ -9,7 +9,6 @@ author: Manon
 writer: Manon
 guestPic: guestPic337.jpg
 ---
-![guestPic337.jpg]({{site.baseurl}}/img/guestPic337.jpg)
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
 With.</p>
