@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 category: '337'
-guest_name: Bachar Mar Khalife
+guest_name: Bachar Mar-Khalifé
 guest_color: vibrant
 author: Manon
 writer: Manon
