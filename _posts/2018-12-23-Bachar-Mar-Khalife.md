@@ -23,6 +23,7 @@ track6_color: bliss
 track7_title: Hamid Al Shaeri - Ayonha
 track7_color: dreamy
 illustrator: Anthony Dujardin
+track5_link: 'https://soundcloud.com/user-123048645/tatli-dile-guler-yuze'
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
