@@ -63,4 +63,4 @@ _Manon_: **"**Beautiful.**"**
 _Manon_: **"**Beginning.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Zoya](http://www.zoyamusicofficial.com/) for her Sunday selections, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to Anthony for this episode's cool illustration.</p>
