@@ -13,7 +13,7 @@ track1_color: vibrant
 track2_title: Ziad Rahbani – Bala Wala Chi
 track2_color: vibrant
 track3_title: Jaco Pastorius – Part 10
-track3_color: dreamy
+track3_color: rough
 track4_title: Bachar Mar-Khalifé – Lemon
 track4_color: rough
 track5_title: Altin Gün – tatil dile guler yuze
