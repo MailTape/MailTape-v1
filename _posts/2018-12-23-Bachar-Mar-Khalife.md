@@ -31,7 +31,7 @@ track1_link: 'https://soundcloud.com/unclassified-40510988/requiem-op-48-introit
 track2_link: 'https://soundcloud.com/ziad-rahbani-official/bala-wala-chi'
 track3_link: 'https://www.youtube.com/watch?v=dJMcPf5jlEc'
 ---
-<p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
+<p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
 With.</p>
 
