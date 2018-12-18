@@ -53,7 +53,7 @@ _Bachar_: **"**Jaco le resistant, le visionnaire, le poète. Il a inventé un in
 ## Bachar Mar-Khalifé – Lemon
 _Manon_: **"**Blabla.**"**
 
-## Altin Gün – tatil dile guler yuze
+## Altin Gün – Tatil Dile Guler Yuze
 _Manon_: **"**At.**"**
 
 ## Trio Ternura – A Gira
