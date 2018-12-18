@@ -50,13 +50,13 @@ _Bachar_: **"**Jaco le resistant, le visionnaire, le poète. Il a inventé un in
 _Manon_: **"**Blabla.**"**
 
 ## Altin Gün – Tatil Dile Guler Yuze
-_Manon_: **"**At.**"**
+_Manon_: **"**Blabla.**"**
 
 ## Trio Ternura – A Gira
-_Manon_: **"**Beautiful.**"**
+_Manon_: **"**Blabla.**"**
 
 ## Hamid Al Shaeri - Ayonha
-_Manon_: **"**Beginning.**"**
+_Manon_: **"**Blabla.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
