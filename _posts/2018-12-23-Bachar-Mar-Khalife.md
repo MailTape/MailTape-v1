@@ -31,7 +31,7 @@ track1_link: 'https://soundcloud.com/unclassified-40510988/requiem-op-48-introit
 track2_link: 'https://soundcloud.com/ziad-rahbani-official/bala-wala-chi'
 track3_link: 'https://www.youtube.com/watch?v=dJMcPf5jlEc'
 ---
-<p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) as she picks three uplifting and pop-filled Sunday morning jams.
+<p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
 With.</p>
 
@@ -63,4 +63,4 @@ _Manon_: **"**Beautiful.**"**
 _Manon_: **"**Beginning.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to Anthony for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
