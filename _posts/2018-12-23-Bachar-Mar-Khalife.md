@@ -26,6 +26,8 @@ illustrator: Anthony Dujardin
 track5_link: 'https://soundcloud.com/user-123048645/tatli-dile-guler-yuze'
 track7_link: 'https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha'
 track6_link: 'https://soundcloud.com/leandro-almeida-santos/trio-ternura-a-gira'
+track4_link: >-
+  https://mailtapesounds.s3.amazonaws.com/337/bachar-mar-khalife-lemon-official-video.mp3
 ---
 <p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
