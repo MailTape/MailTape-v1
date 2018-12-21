@@ -35,7 +35,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/337/jaco-pastorius-part-10
 ---
 <p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
-As an accomplished artist who composed many soundtracks, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May. L'homme au talent sans pareil pour vous entrainer dans ses mélodies enivrantes nous a concocté une sélection dense, réfléchie, presque philosophique qui ne vous laissera pas indifférent.</p>
+Accomplished artist and son of the legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May. L'homme au talent sans pareil pour vous entrainer dans ses mélodies enivrantes nous a concocté une sélection dense, réfléchie, presque philosophique qui ne vous laissera pas indifférent.</p>
 
 
 # Bachar's selection
@@ -53,16 +53,16 @@ _Bachar_: **"**Jaco the resistant, the visionary, the poet. He invented an instr
 # MailTape's selection
 
 ## Bachar Mar-Khalifé – Lemon
-_Manon_: **"**Blabla.**"**
+_Manon_: **"**Rythmes éffrénés, sonorités libanaises captivantes, paroles déclamées de façon mystérieusement hypnotique, pas besoin de comprendre la langue de Bachar pour être emporté dans ce voyage auditif.**"**
 
 ## Altin Gün – Tatil Dile Guler Yuze
-_Manon_: **"**Blabla.**"**
+_Manon_: **"**Groupe de rock psychédélique turc, Altin Gün est ma découverte de l'année. L'énergie et le groove de ce morceau vous donneront à coup sûr une envie irrépréssible de danser.**"**
 
 ## Trio Ternura – A Gira
-_Manon_: **"**Blabla.**"**
+_Manon_: **"**Sorti en 1973 et venu tout droit du Brésil, cet air mythique amènera instantanément du soleil dans ta vie.**"**
 
 ## Hamid Al Shaeri - Ayonha
-_Manon_: **"**Blabla.**"**
+_Manon_: **"**On finit cette MailTape avec une délicieuse touche libano-égyptienne. Ayonha est une track libératrice, un air qui a le pouvoir d'effacer les soucis et de rendre le coeur plus léger.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
