@@ -35,7 +35,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/337/jaco-pastorius-part-10
 ---
 <p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
-With.</p>
+Artiste accompli ayant composé la musique de plusieurs films, Bachar a sorti son quatrieme album "The Water Wheel A Tribute To Hamza El Din" en mai dernier. L'homme au talent sans pareil pour vous entrainer dans ses mélodies enivrantes nous a concocté une sélection dense, réfléchie, presque philosophique qui ne vous laissera pas indifférent.</p>
 
 
 # Bachar's selection
