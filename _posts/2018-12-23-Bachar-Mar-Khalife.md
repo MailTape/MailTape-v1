@@ -71,7 +71,7 @@ _Manon_: **"**Altin Gün, a Turkish psychedelic rock band, is hands down my 2018
 _Manon_: **"**Released in 1973 and straight out of Brazil, this mythical tune will undoubtedly bring sunshine into your life.**"**
 
 ## Hamid Al Shaeri - Ayonha
-_Manon_: **"**On finit cette MailTape avec une délicieuse touche libano-égyptienne. Ayonha est une track libératrice, un air qui a le pouvoir d'effacer les soucis et de rendre le coeur plus léger.**"**
+_Manon_: **"**Last but not least, we end our MailTape with a delightful Lebanese-Egyptian touch. Ayonha is a liberating track, an air that has the power to erase all worries and leave you light hearted.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
