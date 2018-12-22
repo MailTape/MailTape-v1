@@ -16,7 +16,7 @@ track3_title: Jaco Pastorius – Part 10
 track3_color: rough
 track4_title: Bachar Mar-Khalifé – Lemon
 track4_color: rough
-track5_title: Altin Gün – tatil dile guler yuze
+track5_title: Altin Gün – Tatil Dile Guler Yuze
 track5_color: trippy
 track6_title: Trio Ternura – A Gira
 track6_color: bliss
