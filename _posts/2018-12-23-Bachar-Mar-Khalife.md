@@ -62,7 +62,7 @@ _Manon_: **"**Through frenzied rhythms, captivating Lebanese sounds and lyrics u
 _Manon_: **"**Altin Gün, a Turkish psychedelic rock band, is hands down my 2018 discovery. The groove and energy of this tune will surely give you an irresistible urge to dance.**"**
 
 ## Trio Ternura – A Gira
-_Manon_: **"**Sorti en 1973 et venu tout droit du Brésil, cet air mythique amènera instantanément du soleil dans ta vie.**"**
+_Manon_: **"**Released in 1973 and straight out of Brazil, this mythical tune will undoubtedly bring sunshine into your life.**"**
 
 ## Hamid Al Shaeri - Ayonha
 _Manon_: **"**On finit cette MailTape avec une délicieuse touche libano-égyptienne. Ayonha est une track libératrice, un air qui a le pouvoir d'effacer les soucis et de rendre le coeur plus léger.**"**
