@@ -35,6 +35,12 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/337/jaco-pastorius-part-10
 fbPic: fbPic337.jpg
 episode_URL: 'http://mailta.pe/337/Bachar-Mar-Khalife'
 musiColor: musiColor337.jpg
+description: >-
+  This morning we are delighted to welcome Franco-Lebanese singer, songwriter
+  and multi-instrumentalist Bachar Mar-Khalifé to pick three Sunday morning
+  musical selections for us. Accomplished artist and son of the legendary
+  Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The
+  Water Wheel A Tribute To Hamza El Din" last May.
 ---
 <p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
