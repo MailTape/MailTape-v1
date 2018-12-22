@@ -56,7 +56,7 @@ _Bachar_: **"**Jaco the resistant, the visionary, the poet. He invented an instr
 # MailTape's selection
 
 ## Bachar Mar-Khalifé – Lemon
-_Manon_: **"**Rythmes éffrénés, sonorités libanaises captivantes, paroles déclamées de façon mystérieusement hypnotique, pas besoin de comprendre la langue de Bachar pour être emporté dans ce voyage auditif.**"**
+_Manon_: **"**Through frenzied rhythms, captivating Lebanese sounds and lyrics uttered in a mysteriously hypnotic way, Bachar made sure you don’t need to understand his language to be drawn in and carried away by his auditory journey.**"**
 
 ## Altin Gün – Tatil Dile Guler Yuze
 _Manon_: **"**Groupe de rock psychédélique turc, Altin Gün est ma découverte de l'année. L'énergie et le groove de ce morceau vous donneront à coup sûr une envie irrépréssible de danser.**"**
