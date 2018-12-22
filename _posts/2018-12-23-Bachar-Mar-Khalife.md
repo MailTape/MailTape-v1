@@ -59,7 +59,7 @@ _Bachar_: **"**Jaco the resistant, the visionary, the poet. He invented an instr
 _Manon_: **"**Through frenzied rhythms, captivating Lebanese sounds and lyrics uttered in a mysteriously hypnotic way, Bachar made sure you don’t need to understand his language to be drawn in and carried away by his auditory journey.**"**
 
 ## Altin Gün – Tatil Dile Guler Yuze
-_Manon_: **"**Groupe de rock psychédélique turc, Altin Gün est ma découverte de l'année. L'énergie et le groove de ce morceau vous donneront à coup sûr une envie irrépréssible de danser.**"**
+_Manon_: **"**Altin Gün, a Turkish psychedelic rock band, is hands down my 2018 discovery. The groove and energy of this tune will surely give you an irresistible urge to dance.**"**
 
 ## Trio Ternura – A Gira
 _Manon_: **"**Sorti en 1973 et venu tout droit du Brésil, cet air mythique amènera instantanément du soleil dans ta vie.**"**
