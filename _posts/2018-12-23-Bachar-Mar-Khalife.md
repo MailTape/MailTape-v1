@@ -44,7 +44,7 @@ description: >-
 ---
 <p id="introduction">This morning we are delighted to welcome Franco-Lebanese singer, songwriter and multi-instrumentalist [Bachar Mar-Khalifé](https://www.facebook.com/bmkhalife/) to pick three Sunday morning musical selections for us.
 <br><br>
-Accomplished artist and son of the legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May. L'homme au talent sans pareil pour vous entrainer dans ses mélodies enivrantes nous a concocté une sélection dense, réfléchie, presque philosophique qui ne vous laissera pas indifférent.</p>
+Accomplished artist and son of the legendary Eastern-Lute player Marcel Khalifé, Bachar released his fourth album "The Water Wheel A Tribute To Hamza El Din" last May. The man with his incomparable talent to carry us in his intoxicating melodies, has prepared for us a dense playlist. Well thought of and almost philosophical, his selection is sure to leave you satisfied.</p>
 
 
 # Bachar's selection
