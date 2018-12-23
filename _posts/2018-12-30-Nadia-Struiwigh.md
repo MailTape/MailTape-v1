@@ -2,6 +2,35 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sanjay Mistry
+illustrator: Pierre-Julien Fieux
+writer: Sanjay Mistry
+category: '338'
+guest_name: Nadia Struiwigh
+guest_color: dreamy
+track1_link: 'https://soundcloud.com/user-606609593/meeting-the-others-split-sondtrak'
+track2_link: >-
+  https://soundcloud.com/unseenmusic/electronicindieupliftingambient-it-was-warmer-then
+track3_link: 'https://soundcloud.com/wwnbbcollective/totem-master'
+track4_link: 'https://soundcloud.com/denovali/nadia-struiwigh-roeiweijk'
+track5_link: 'https://soundcloud.com/klissay/01-vessels'
+track6_link: 'https://soundcloud.com/ros-steer/busy-window'
+track7_link: 'https://soundcloud.com/fluid-radio/grouper-being-her-shadow'
+track1_title: West Dylan Thordson – Meeting the Others
+track1_color: dreamy
+track2_title: Helios – It Was Warmer Then
+track2_color: bliss
+track3_title: Be Forest – Totem
+track3_color: trippy
+track4_title: Nadia Struiwigh – Roeiweijk
+track4_color: dreamy
+track5_title: Kara-Lis Coverdale – Vessels
+track5_color: bliss
+track6_title: Roslyn Steer – Busy Window
+track6_color: dreamy
+track7_title: Grouper – Being Her Shadow
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/338/nadia-struiwigh/'
 ---
 <p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
 <br><br>
