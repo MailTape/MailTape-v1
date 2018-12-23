@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 writer: Sanjay Mistry
@@ -65,4 +65,3 @@ _Sanjay_: **"**Beginning and ending with fluttering xylophone sounds swaying bac
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to [Zoya](http://www.zoyamusicofficial.com/) for her Sunday selections, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
-
