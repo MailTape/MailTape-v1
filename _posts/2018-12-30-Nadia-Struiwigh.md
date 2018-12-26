@@ -32,9 +32,9 @@ track7_title: Grouper – Being Her Shadow
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/338/nadia-struiwigh/'
 ---
-<p id="introduction">This morning we welcome LA-based singer, songwriter and guitarist [Zoya](http://www.zoyamusicofficial.com/) as she picks three uplifting and pop-filled Sunday morning jams.
+<p id="introduction">In this final episode of 2018, we are happy to welcome Rotterdam-based DJ and electronic producer, Nadia Struiwigh, as she picks three meditative Sunday morning tunes.
 <br><br>
-With three albums to her name, she has gained recognition in independent pop circles as well as from heavyweights A.R. Rahman and The Chainsmokers while touring on festival bills and as a support act for the likes of Kawehi, Natty, Lucy Rose, Madame Gandhi, Youngr, Submotion Orchestra, Bloc Party, Clean Bandit, and Martin Garrix.</p>
+Her refined downtempo electronica takes you on a journey full of synthesised soundscapes that flirt with ambient techno.</p>
 
 
 # Nadia Struiwigh's selection
