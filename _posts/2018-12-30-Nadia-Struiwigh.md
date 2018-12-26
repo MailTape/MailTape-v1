@@ -55,7 +55,7 @@ _Nadia Struiwigh_: **"**When I’ve heard this very short song for the first tim
 _Sanjay_: **"**Lovely downtempo and ambient vibes from today's guest, [Nadia Struiwigh](https://www.nadiastruiwigh.com/). Flirting with ambient techno, the drones and spaced out pads work well in slow, drawn out movements here.**"**
 
 ## Kara-Lis Coverdale – Vessels
-_Sanjay_: **"**Uncompromisingly distinct while flickering with gentle optimism, this triptych for solo piano—written, performed and recorded by Kara-Lis Coverdale—illuminates unseen spaces that quickly gradient into nothingness.**"**
+_Sanjay_: **"**Uncompromisingly distinct while flickering with gentle optimism, this triptych for solo piano—written, performed and recorded by [Kara-Lis Coverdale](https://soundcloud.com/klissay)—illuminates unseen spaces that quickly gradient into nothingness.**"**
 
 ## Roslyn Steer – Busy Window
 _Sanjay_: **"**Beautiful and subdued, yet sharp as a tack. Taken from Berlin-based [mobilegirl](https://soundcloud.com/mobilegirl)'s (a.k.a. Bao-Tran Tran) first official release, 'Poise'. An EP of lilting strings, elegant arrangements and placid drums.**"**
