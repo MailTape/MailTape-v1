@@ -52,7 +52,7 @@ _Nadia Struiwigh_: **"**When I’ve heard this very short song for the first tim
 # MailTape's selection
 
 ## Nadia Struiwigh – Roeiweijk
-_Sanjay_: **"**Released just last Friday, this latest track from Zoya plays a tasteful balancing act—blending elements of American dance music and catchy lyrics with vocal melodies rooted by Indian pop music.**"**
+_Sanjay_: **"**Lovely downtempo and ambient vibes from today's guest, [Nadia Struiwigh](https://www.nadiastruiwigh.com/). Flirting with ambient techno, the drones and spaced out pads work well in slow, drawn out movements here.**"**
 
 ## Kara-Lis Coverdale – Vessels
 _Sanjay_: **"**At just under two minutes long this track from [Rvdical the Kid](https://soundcloud.com/rvdicalthekid/) featuring [amaarae](http://amaaraemusic.com/), with additional vocals by [EDWVN](https://soundcloud.com/edwvn), carries a dreamy and whispery vibe. The beat and her singing rise contemporaneously, her voice sliding along the rising soundscape of the song.**"**
