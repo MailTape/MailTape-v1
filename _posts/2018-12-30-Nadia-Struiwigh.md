@@ -61,7 +61,7 @@ _Sanjay_: **"**Uncompromisingly distinct while flickering with gentle optimism, 
 _Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud.com/ros-steer)'s musical output, but this sounds like yet another welcome discovery from the ethereal contemporary music scene in Ireland.**"**
 
 ## Grouper – Being Her Shadow
-_Sanjay_: **"**Beginning and ending with fluttering xylophone sounds swaying back and forth between two tones, [Auntie Flo](https://soundcloud.com/auntie-flo/)'s remix transforms [Oumou Sangaré](https://www.instagram.com/oumou.sang/)’s original—adorned with Wassoulou instruments—into a percussion-rich, dancefloor-centric reimagination.**"**
+_Sanjay_: **"**This track has all the things I've come to associate with [Grouper](http://www.repeatingpattern.com/), the solo project of musician Liz Harris: impressionistic, slightly 'out of focus' and replete with comfortingly indecipherable lyrics. Ultimately losing itself in a drifting, idyllic soundworld.**"**
 
 
 <p id="outroduction">That's it for this morning and this year. As always thanks so much for listening to this episode, and to all our previous episodes in 2018. Much love and respect to [Nadia Struiwigh](https://www.nadiastruiwigh.com/) for her Sunday selections today, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration. Have a great new year!</p>
