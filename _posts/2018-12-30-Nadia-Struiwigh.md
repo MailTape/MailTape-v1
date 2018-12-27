@@ -58,7 +58,7 @@ _Sanjay_: **"**Lovely downtempo and ambient vibes from today's guest, [Nadia Str
 _Sanjay_: **"**Uncompromisingly distinct while flickering with gentle optimism, this triptych for solo piano—written, performed and recorded by [Kara-Lis Coverdale](https://soundcloud.com/klissay)—illuminates unseen spaces that eventually gradient into nothingness.**"**
 
 ## Roslyn Steer – Busy Window
-_Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud.com/ros-steer)'s musical output, but this sounds like yet another welcome discovery from the ethereal contemporary scene in Ireland.**"**
+_Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud.com/ros-steer)'s musical output, but this sounds like yet another welcome discovery from the ethereal contemporary music scene in Ireland.**"**
 
 ## Grouper – Being Her Shadow
 _Sanjay_: **"**Beginning and ending with fluttering xylophone sounds swaying back and forth between two tones, [Auntie Flo](https://soundcloud.com/auntie-flo/)'s remix transforms [Oumou Sangaré](https://www.instagram.com/oumou.sang/)’s original—adorned with Wassoulou instruments—into a percussion-rich, dancefloor-centric reimagination.**"**
