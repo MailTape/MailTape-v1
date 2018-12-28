@@ -37,6 +37,7 @@ description: >-
   morning tunes.
 fbPic: fbPic338.jpg
 guestPic: guestPic338.jpg
+musiColor: musiColor338.png
 ---
 <p id="introduction">In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.
 <br><br>
