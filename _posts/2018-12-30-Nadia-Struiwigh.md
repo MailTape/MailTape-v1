@@ -38,7 +38,9 @@ description: >-
 ---
 <p id="introduction">In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.
 <br><br>
-Her refined downtempo electronica takes you on a journey full of synthesised soundscapes that flirt with ambient techno.</p>
+Her refined downtempo electronica takes you on a journey full of synthesised soundscapes that flirt with ambient techno.
+<br><br>
+For a quick recap on what we've been doing this year, what we're about and what we want to continue doing, [check out this blog post by Maxime](https://write.as/mailtape/). Available in English/disponible en français.</p>
 
 
 # Nadia Struiwigh's selection
