@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: MailTape Crew
 illustrator: Camille Célestin
 guest_name: 'Cam Maclean '
@@ -22,7 +22,7 @@ track6_color: dreamy
 track5_color: rough
 track7_title: Connan Mockasin - Momo's feat James Blake
 track7_color: vibrant
-episode_URL: 'http:// www.mailta.pe/339/Cam-Maclean/'
+episode_URL: 'https:// www.mailta.pe/339/Cam-Maclean/'
 track7_link: 'https://soundcloud.com/connanmockasin/momos-feat-james-blake'
 track6_link: >-
   https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep
