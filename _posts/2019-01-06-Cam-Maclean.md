@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-author: MailTape Crew
+author: Anaïs G
 illustrator: Camille Célestin
 guest_name: 'Cam Maclean '
 guest_color: dreamy
