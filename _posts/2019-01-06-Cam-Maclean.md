@@ -33,8 +33,10 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
 guestPic: guestPic339.jgp
 ---
-<p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday.  
-[Cam MacLean](https://fr-fr.facebook.com/cammacleanband/) is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads — sometimes under the infuence of the 80's.</p>
+<p id="introduction">This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.
+  
+As an indie pop lover, this Montreal singer’s melancholia, who is also the other half of the duo [Vesuvio Solo](https://vesuviosolo.bandcamp.com/) quickly captivated my attention with his enlightened musical ballades and eighties like resonance.</p>
+
 
 
 # Cam Maclean's selection
@@ -48,23 +50,22 @@ _Cam Maclean_: **"**I've always been into folk and acoustic music that's eccentr
 ## Bonny Doon - I am Here (I am alive)
 _Cam Maclean_: **"**I have been into this band since sharing the stage with them in Detroit in 2015 when I was touring with [Vesuvio Solo](https://vesuviosolo.bandcamp.com/). This song has a kind of nihilistic resignation, but with a certain humour I like that comes through in lines like, "smoke from palo santo and sage, is this the new age or am I too late?" I have been on an alt-country kick lately, and this one has been on repeat for the past while.**"**
 
-
 # MailTape's selection
 
 ## Cam Maclean - Sunshine 
-_Anaïs G_: **"**When I first listen to the new record "Wait for Love", I was pleasantly surprised by [Cam Maclean's](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love) voice. This entire song still my lightly track for nightmarish days.**"**
+_Anaïs G_: **"**As I listened to the album “Wait for Love”, I was pleasantly surprised by the voice of Cam Maclean. But it is that particular song that was and still remains the brightness of all lights on the darkest of all days.**"**
 
 
 ## Belmont Witch - Romperlo 
-_Anaïs G_: **"**Experimental pop, intimate vibes, social claims... everything is here to revive memories of adolescence with this mystic Parisian band, leaded by the young Mexican Michèle.**"**
+_Anaïs G_: **"**Experimental pop, intimate ambiance, social claims, this mystical Parisian group lead by a young Mexican woman named Michèle, possesses all the elements to reminisce your adolescent memories.**"**
 
 
 ## Westerman - Outside Sublime
-_Anaïs G_: **"**There are songs that you can't do without and that you can listen to infinite without being sick of. It's like if this young Londoner understood everything by making something flamboyant and warm from his own pop music.**"**
+_Anaïs G_: **"**There are some songs you just can’t live without, the ones you can listen to endlessly, those who never grow old. This young London native has grasped the concept perfectly, creating a flamboyant and warming pop music experience.**"**
 
 
 ## Connan Mockasin - Momo's feat James Blake
- _Anaïs G_: **"**A great final with two talentuous artists: Connan Mockasin's madness merged with James Blake' sweetness. A startling mix that works from the first seconds and get me drunk of tenderness.**"**
+ _Anaïs G_: **"**A magnificent grand finale with these two amazing artists: Connan Mockasin’s extravagance melting with the softness of James Blake. A successful mix that will sting you with tenderness within seconds**"**
 
 
 <p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
