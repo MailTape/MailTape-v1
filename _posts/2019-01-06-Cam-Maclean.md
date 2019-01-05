@@ -33,11 +33,11 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
 guestPic: guestPic339.jpg
 ---
-
+![guestPic339.jpg](/img/guestPic339.jpg)
 <p id="introduction">This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.
   
 As an indie pop lover, this Montreal singer’s melancholia, who is also the other half of the duo [Vesuvio Solo](https://vesuviosolo.bandcamp.com/) quickly captivated my attention with his enlightened musical ballades and eighties like resonance.</p>
-![guestPic339.jpg](/img/guestPic339.jpg)
+
 
 
 # Cam Maclean's selection
@@ -69,4 +69,4 @@ _Anaïs G_: **"**There are some songs you just can’t live without, the ones yo
  _Anaïs G_: **"**A magnificent grand finale with these two amazing artists: [Connan Mockasin’s](https://soundcloud.com/connanmockasin) extravagance melting with the softness of [James Blake](https://www.jamesblakemusic.com/). A successful mix that will sting you with tenderness within seconds**"**
 
 
-<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
+<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning, to Phyllis for a translate and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
