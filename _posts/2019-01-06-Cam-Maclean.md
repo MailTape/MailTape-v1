@@ -33,11 +33,11 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
 guestPic: guestPic339.jpg
 ---
-![guestPic339.jpg]({{site.baseurl}}/img/guestPic339.jpg)
+
 <p id="introduction">This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.
   
 As an indie pop lover, this Montreal singer’s melancholia, who is also the other half of the duo [Vesuvio Solo](https://vesuviosolo.bandcamp.com/) quickly captivated my attention with his enlightened musical ballades and eighties like resonance.</p>
-
+![guestPic339.jpg](/img/guestPic339.jpg)
 
 
 # Cam Maclean's selection
