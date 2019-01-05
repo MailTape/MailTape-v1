@@ -38,8 +38,7 @@ fbPic: ''
 musiColor: ''
 description: ''
 ---
-<p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday. 
-<br><br> 
+<p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday.  
 [Cam MacLean](https://fr-fr.facebook.com/cammacleanband/) is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads —sometimes under the infuence of the 80's.</p>
 
 
@@ -73,7 +72,6 @@ _Anaïs G_: **"**There are songs that you can't do without and that you can list
  _Anaïs G_: **"**A great final with two talentuous artists: Connan Mockasin's madness merged with James Blake' sweetness. A startling mix that works from the first seconds and get me drunk of tenderness.**"**
 
 
-<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to Cam Maclean for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !
-</p>
+<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to Cam Maclean for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
