@@ -39,7 +39,8 @@ musiColor: ''
 description: ''
 ---
 <p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday. 
-Cam MacLean is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads —sometimes under the infuence of the 80's.</p>
+<br><br> 
+[Cam MacLean](https://fr-fr.facebook.com/cammacleanband/) is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads —sometimes under the infuence of the 80's.</p>
 
 
 # Cam Maclean's selection
@@ -48,7 +49,7 @@ Cam MacLean is born in Montreal and he's one of the Vesuvio Solo's two members. 
 _Cam Maclean_: **"**This song by my friend [Cadence Weapon](http://www.cadenceweaponmusic.com/) is the most mellow track from the self-titled record he released this year, and great for Sunday morning listening. It is, among other things, a tribute to other artists like him who are originally from Alberta but who became integral parts of the music scene in Montreal. It features a stunning vocal performance by Raphaelle from [Blue Hawaii](https://bluehawaii.bandcamp.com/) (herself an Alberta expat in Montreal). My own Montreal neighbourhood of Outremont is also referenced here.**"**
 
 ## Jessica Pratt - Moon Dude
-_Cam Maclean_: **"**I've always been into folk and acoustic music that's eccentric in terms of production and performance, and in particular that is centred around a strange or unique vocal. I think Jessica Pratt is of the tradition of singers like John Jacob Niles and Karen Dalton whose unique voices helped expand simple acoustic songs far beyond their cores. Moon Dude really showcases the unique timbre of J.P.'s voice, as well as her strange delivery.**"**
+_Cam Maclean_: **"**I've always been into folk and acoustic music that's eccentric in terms of production and performance, and in particular that is centred around a strange or unique vocal. I think [Jessica Pratt](https://twitter.com/jessicaprattsf?lang=fr) is of the tradition of singers like John Jacob Niles and Karen Dalton whose unique voices helped expand simple acoustic songs far beyond their cores. Moon Dude really showcases the unique timbre of J.P.'s voice, as well as her strange delivery.**"**
 
 ## Bonny Doon - I am Here (I am alive)
 _Cam Maclean_: **"**I have been into this band since sharing the stage with them in Detroit in 2015 when I was touring with [Vesuvio Solo](https://vesuviosolo.bandcamp.com/). This song has a kind of nihilistic resignation, but with a certain humour I like that comes through in lines like, "smoke from palo santo and sage, is this the new age or am I too late?" I have been on an alt-country kick lately, and this one has been on repeat for the past while.**"**
