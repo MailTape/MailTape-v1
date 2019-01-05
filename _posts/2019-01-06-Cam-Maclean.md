@@ -20,7 +20,7 @@ track6_color: dreamy
 track5_color: rough
 track7_title: Connan Mockasin - Momo's (feat James Blake)
 track7_color: vibrant
-episode_URL: 'http:// www.mailta.pe/339/cam-maclean/'
+episode_URL: 'https:// www.mailta.pe/339/cam-maclean/'
 track6_link: >-
   https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep
 track5_link: 'https://soundcloud.com/belmontwitch/romperlo'
