@@ -6,9 +6,7 @@ author: MailTape Crew
 illustrator: Camille Célestin
 guest_name: 'Cam Maclean '
 guest_color: dreamy
-track2_link: >-
-  https://soundcloud.com/jessica-pratt-official/moon-dude?in=jessica-pratt-official/sets/on-your-own-love-again-1
-track1_title: Cadence Weapon - Five Roses ( feat Blue Hawaii )
+track1_title: Cadence Weapon - Five Roses (feat. Blue Hawaii)
 track1_color: trippy
 track2_title: Jessica Praat - Moon Dude
 track2_color: dreamy
@@ -20,16 +18,19 @@ track5_title: Belmont Witch - Romperlo
 track6_title: 'Westerman - Outside Sublime '
 track6_color: dreamy
 track5_color: rough
-track7_title: Connan Mockasin - Momo's feat James Blake
+track7_title: Connan Mockasin - Momo's (feat James Blake)
 track7_color: vibrant
 episode_URL: 'http:// www.mailta.pe/339/cam-maclean/'
-track7_link: 'https://soundcloud.com/connanmockasin/momos-feat-james-blake'
 track6_link: >-
   https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep
 track5_link: 'https://soundcloud.com/belmontwitch/romperlo'
 track4_link: >-
   https://soundcloud.com/atelierciseaux/01-sunshine-2?in=atelierciseaux/sets/ac41-cam-maclean-wait-for-love-1
 category: '339'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%201.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%202.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
 ---
 <p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday.  
 [Cam MacLean](https://fr-fr.facebook.com/cammacleanband/) is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads — sometimes under the infuence of the 80's.</p>
@@ -66,4 +67,3 @@ _Anaïs G_: **"**There are songs that you can't do without and that you can list
 
 
 <p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
-
