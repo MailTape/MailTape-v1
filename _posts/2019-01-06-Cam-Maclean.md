@@ -47,8 +47,6 @@ musiColor: musiColor339.png
 As an indie pop lover, this Montreal singer’s melancholia, who is also the other half of the duo [Vesuvio Solo](https://vesuviosolo.bandcamp.com/) quickly captivated my attention with his enlightened musical ballades and eighties like resonance.</p>
 
 
-
-
 # Cam Maclean's selection
 
 ## Cadence Weapon - Five Roses feat Blue Hawaii
