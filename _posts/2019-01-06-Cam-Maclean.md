@@ -22,7 +22,7 @@ track6_color: dreamy
 track5_color: rough
 track7_title: Connan Mockasin - Momo's feat James Blake
 track7_color: vibrant
-episode_URL: 'https:// www.mailta.pe/339/Cam-Maclean/'
+episode_URL: 'https:// www.mailta.pe/339/cam-maclean/'
 track7_link: 'https://soundcloud.com/connanmockasin/momos-feat-james-blake'
 track6_link: >-
   https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep
@@ -30,13 +30,6 @@ track5_link: 'https://soundcloud.com/belmontwitch/romperlo'
 track4_link: >-
   https://soundcloud.com/atelierciseaux/01-sunshine-2?in=atelierciseaux/sets/ac41-cam-maclean-wait-for-love-1
 category: '339'
-writer: ''
-guestPic: ''
-track1_link: ''
-track3_link: ''
-fbPic: ''
-musiColor: ''
-description: ''
 ---
 ## A New Post
 
