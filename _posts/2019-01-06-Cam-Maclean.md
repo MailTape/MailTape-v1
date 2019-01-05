@@ -75,4 +75,4 @@ _Anaïs G_: **"**There are some songs you just can’t live without, the ones yo
  _Anaïs G_: **"**A magnificent grand finale with these two amazing artists: [Connan Mockasin’s](https://soundcloud.com/connanmockasin) extravagance melting with the softness of [James Blake](https://www.jamesblakemusic.com/). A successful mix that will sting you with tenderness within seconds**"**
 
 
-<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning, to Phyllis for a translate and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
+<p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning, to Phyllis for the translation and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
