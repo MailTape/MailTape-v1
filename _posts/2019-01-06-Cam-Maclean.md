@@ -53,19 +53,19 @@ _Cam Maclean_: **"**I have been into this band since sharing the stage with them
 # MailTape's selection
 
 ## Cam Maclean - Sunshine 
-_Anaïs G_: **"**As I listened to the album “Wait for Love”, I was pleasantly surprised by the voice of Cam Maclean. But it is that particular song that was and still remains the brightness of all lights on the darkest of all days.**"**
+_Anaïs G_: **"**As I listened to the album “Wait for Love”, I was pleasantly surprised by the voice of [Cam Maclean](https://fr-fr.facebook.com/cammacleanband/). But it is that particular song that was and still remains the brightness of all lights on the darkest of all days.**"**
 
 
-## Belmont Witch - Romperlo 
+## [Belmont Witch](https://belmontwitch.bandcamp.com/) - Romperlo 
 _Anaïs G_: **"**Experimental pop, intimate ambiance, social claims, this mystical Parisian group lead by a young Mexican woman named Michèle, possesses all the elements to reminisce your adolescent memories.**"**
 
 
-## Westerman - Outside Sublime
+## [Westerman](https://soundcloud.com/westermanmusicuk) - Outside Sublime
 _Anaïs G_: **"**There are some songs you just can’t live without, the ones you can listen to endlessly, those who never grow old. This young London native has grasped the concept perfectly, creating a flamboyant and warming pop music experience.**"**
 
 
 ## Connan Mockasin - Momo's feat James Blake
- _Anaïs G_: **"**A magnificent grand finale with these two amazing artists: Connan Mockasin’s extravagance melting with the softness of James Blake. A successful mix that will sting you with tenderness within seconds**"**
+ _Anaïs G_: **"**A magnificent grand finale with these two amazing artists: [Connan Mockasin’s](https://soundcloud.com/connanmockasin) extravagance melting with the softness of [James Blake](https://www.jamesblakemusic.com/). A successful mix that will sting you with tenderness within seconds**"**
 
 
 <p id="outroduction"> That's all folks, thanks for listening ! A special thanks to [Cam Maclean](https://soundcloud.com/cammacleanband) for being our guest this morning and to [Camille Célestin](http://bravocamo.studio/) for this episode's gorgeous illustration. Have a sweet Sunday !</p>
