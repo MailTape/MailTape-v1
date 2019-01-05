@@ -39,7 +39,7 @@ description: >-
   and sweetness.
 fbPic: fbPic339.png
 writer: Anaïs G
-musiColor: musiColor339
+musiColor: musiColor339.png
 ---
 
 <p id="introduction">This morning, we are embarking on a year filled with joy, love and surprises. It shall also astonish us with many musical discoveries and auditory newness. Our journey, headed by captain [Cam Maclean](https://atelierciseaux.bandcamp.com/album/cam-maclean-wait-for-love), promises a Sunday filled with hope and sweetness.
