@@ -31,6 +31,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
+guestPic: guestPic339.jgp
 ---
 <p id="introduction">This Morning, we board to a new year full of joy and love...  but mainly full of music discoveries and hearing gems! This trip, with Cam Maclean as our Captain, promises to be filed of hope and sweetness to spend a good sunday.  
 [Cam MacLean](https://fr-fr.facebook.com/cammacleanband/) is born in Montreal and he's one of the Vesuvio Solo's two members. In love with melancholic indie-pop music, I was enthralled by this songwriter's ballads — sometimes under the infuence of the 80's.</p>
