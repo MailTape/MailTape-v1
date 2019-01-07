@@ -31,9 +31,9 @@ track7_title: Moor Mother – Time Floats (King Britt remix)
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/340/analog-tara/'
 ---
-<p id="introduction">In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ and electronic producer [Nadia Struiwigh](https://www.nadiastruiwigh.com/) as she picks three meditative Sunday morning tunes.
+<p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>
-Her refined downtempo electronica takes you on a journey full of synthesised soundscapes that flirt with ambient techno. Music that feels like it was made for quiet nights and club-drowsy dawns.
+Over the last 20 years, Tara has studied with sonic experimentalists [Maggi Payne](https://sites.google.com/site/maggipayne/), [Fred Frith](http://www.fredfrith.com/) and [Pauline Oliveros](https://paulineoliveros.us/). She’s self-released six LPs and six EPs of electronic music, and she’s got tracks on Move D's Source Records and the Le Tigre Remix 12”.
 <br><br>
 For a quick recap on what we've been doing this year, what we're about and what we want to continue doing, [check out this blog post by Maxime](https://write.as/mailtape/). Available in English/disponible en français.</p>
 
