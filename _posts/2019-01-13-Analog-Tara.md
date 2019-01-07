@@ -35,7 +35,7 @@ episode_URL: 'http://mailta.pe/340/analog-tara/'
 <br><br>
 Over the last 20 years, Tara has studied with sonic experimentalists [Maggi Payne](https://sites.google.com/site/maggipayne/), [Fred Frith](http://www.fredfrith.com/) and [Pauline Oliveros](https://paulineoliveros.us/). She’s self-released six LPs and six EPs of electronic music, and she’s also got tracks on Move D's Source Records and the Le Tigre Remix 12”.
 <br><br>
-Once a website and now a book, her project [Pink Noise](http://www.analogtara.net/wp/projects/pink-noises/) has catalogued the work and presence of women in electronic music. In her own music, from analogue techno to generative sound installations made with [SuperCollider](https://supercollider.github.io/), Tara has been presented around the U.S. and internationally.</p>
+Once a website and now a book, her project [Pink Noise](http://www.analogtara.net/wp/projects/pink-noises/) has catalogued the work and presence of women in electronic music. In her own music, from analogue techno to generative sound installations made with [SuperCollider](https://supercollider.github.io/), Tara has performed around the U.S. and internationally.</p>
 
 
 # Analog Tara's selection
