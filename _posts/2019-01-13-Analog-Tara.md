@@ -30,6 +30,7 @@ track6_color: vibrant
 track7_title: Moor Mother – Time Floats (King Britt remix)
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/340/analog-tara/'
+guestPic: guestPic340.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>
