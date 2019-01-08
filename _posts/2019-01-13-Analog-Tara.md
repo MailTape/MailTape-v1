@@ -59,7 +59,7 @@ _Analog Tara_: **"**[Jeff Mills](https://twitter.com/DJJeffMills) is masterful w
 # MailTape's selection
 
 ## Analog Tara – Pulse and Light
-_Sanjay_: **"**Lovely downtempo and ambient vibes from today's guest, [Nadia Struiwigh](https://www.nadiastruiwigh.com/). Flirting with ambient techno, the drones and spaced out pads work well in slow, drawn out movements here.**"**
+_Sanjay_: **"**Taken from Tara's '[Fundamentals](https://tararodgers.bandcamp.com/album/fundamentals-ep)' EP, this track feels effortlessly light on its feet with its broken drum pattern, vaporous chords, thrumming bass and euphoric timbre.**"**
 
 ## Dawn of Midi – Algol
 _Sanjay_: **"**Uncompromisingly distinct while flickering with gentle optimism, this triptych for solo piano—written, performed and recorded by [Kara-Lis Coverdale](https://soundcloud.com/klissay)—illuminates unseen spaces that eventually gradient into nothingness.**"**
