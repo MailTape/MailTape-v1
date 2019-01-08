@@ -34,6 +34,7 @@ guestPic: guestPic340.jpg
 description: >-
   This morning we are delighted to welcome multi-instrumentalist composer and
   historian of electronic music and sound, Dr. Tara Rodgers (Analog Tara)
+fbPic: fbPic340.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>
