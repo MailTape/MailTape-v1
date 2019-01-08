@@ -65,7 +65,7 @@ _Sanjay_: **"**Taken from Tara's '[Fundamentals](https://tararodgers.bandcamp.co
 _Sanjay_: **"**The nine tracks that make up [Dawn of Midi](http://dawnofmidi.com/)'s album, Dysnomia, are really one long suite. It's contemplative, spacious, gentle and quiet—while carrying a propulsive rhythm. With Aakaash Israni on contrabass, Qasim Naqvi on drums and Amino Belyamani on piano, Dawn of Midi bridge the gap between anthropomorph and computer by refusing to dichotomise the two.**"**
 
 ## Jlin – Blue i
-_Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud.com/ros-steer)'s musical output, but this sounds like yet another welcome discovery from the ethereal contemporary music scene in Ireland.**"**
+_Sanjay_: **"**I've been hoping to see [Jlin](https://soundcloud.com/jlinnarlei) perform live for a while. This one is taken from 'Autobiography': Jlin's soundtrack to the staged life story of dancer and choreographer [Wayne McGregor](https://waynemcgregor.com/), which opened in October 2017 and ran at Sadler’s Wells in London until summer 2018. Probably closest in percussive palette to Jlin's debut album, [Black Origami](https://planet.mu/releases/black-origami/), this track is all galloping tabla drums, echoing claps and gliding shakers.**"**
 
 ## Moor Mother – Time Floats (King Britt Remix)
 _Sanjay_: **"**This track has all the things I've come to associate with [Grouper](http://www.repeatingpattern.com/), the solo project of musician Liz Harris: impressionistic, slightly 'out of focus' and replete with comfortingly indecipherable lyrics. Ultimately losing itself in a drifting, idyllic soundworld.**"**
