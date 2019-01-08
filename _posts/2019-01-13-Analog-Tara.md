@@ -71,4 +71,4 @@ _Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud
 _Sanjay_: **"**This track has all the things I've come to associate with [Grouper](http://www.repeatingpattern.com/), the solo project of musician Liz Harris: impressionistic, slightly 'out of focus' and replete with comfortingly indecipherable lyrics. Ultimately losing itself in a drifting, idyllic soundworld.**"**
 
 
-<p id="outroduction">That's it for this morning and this year. As always thanks so much for listening to this episode, and to all our previous episodes in 2018. Much love and respect to [Nadia Struiwigh](https://www.nadiastruiwigh.com/) for her Sunday selections today, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration. Have a great new year!</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening to this episode. Much love and respect to [Analog Tara](http://www.analogtara.net/wp/) for her Sunday selections today, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
