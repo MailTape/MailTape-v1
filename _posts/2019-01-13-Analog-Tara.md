@@ -62,7 +62,7 @@ _Analog Tara_: **"**[Jeff Mills](https://twitter.com/DJJeffMills) is masterful w
 _Sanjay_: **"**Taken from Tara's '[Fundamentals](https://tararodgers.bandcamp.com/album/fundamentals-ep)' EP, this track feels effortlessly light on its feet with its broken drum pattern, vaporous chords, thrumming bass and euphoric timbre.**"**
 
 ## Dawn of Midi – Algol
-_Sanjay_: **"**The nine tracks that make up [Dawn of Midi](http://dawnofmidi.com/)'s album, Dysnomia, are really one long suite. It's contemplative, spacious, gentle and quiet—and carries a propulsive rhythm. With Aakaash Israni on contrabass, Qasim Naqvi on drums, and Amino Belyamani on piano Dawn of Midi bridge the gap between anthropomorph and computer by refusing to dichotomize the two.**"**
+_Sanjay_: **"**The nine tracks that make up [Dawn of Midi](http://dawnofmidi.com/)'s album, Dysnomia, are really one long suite. It's contemplative, spacious, gentle and quiet—and carries a propulsive rhythm. With Aakaash Israni on contrabass, Qasim Naqvi on drums and Amino Belyamani on piano, Dawn of Midi bridge the gap between anthropomorph and computer by refusing to dichotomise the two.**"**
 
 ## Jlin – Blue i
 _Sanjay_: **"**I don't know a great deal about [Roslyn Steer](https://soundcloud.com/ros-steer)'s musical output, but this sounds like yet another welcome discovery from the ethereal contemporary music scene in Ireland.**"**
