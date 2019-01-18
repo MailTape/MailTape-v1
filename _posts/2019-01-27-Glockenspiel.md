@@ -38,30 +38,31 @@ Over the last 20 years, Tara has studied with sonic experimentalists [Maggi Payn
 Once a website and now a book, her project [Pink Noise](http://www.analogtara.net/wp/projects/pink-noises/) has catalogued the work and presence of women in electronic music. In her own music, from analogue techno to generative sound installations made with [SuperCollider](https://supercollider.github.io/), Tara has performed around the U.S. and internationally.</p>
 
 
-# Analog Tara's selection
+# Glockenspiel's selection
 
-## Sarah Vaughan – Autumn Leaves
-_Analog Tara_: **"**At my place on weekends, there is usually jazz on the turntable from [Pablo Records](https://en.wikipedia.org/wiki/Pablo_Records), music I grew up with and stay close to. “Autumn Leaves” is a track from [Sarah Vaughan](https://en.wikipedia.org/wiki/Sarah_Vaughan)’s 1982 album, “Crazy and Mixed Up,” with Joe Pass on guitar and Roland Hanna on piano. It’s a stunning vocal performance, virtuosic and inventive. I also admire that Vaughan delivered this performance 40 years into her career on an album for which she was also the producer.**"**
+## Dedekind Cut – Tahoe
+_Adrian Dollemore_: **"**A beautiful atmospheric synth/string piece. Really simple and looping but it's one of those hooks that really stun you. I'd love to hear it really loud through a good p.a. I believe he played at one of those all night shows in eastern Europe that you can sleep at, which must have been incredible, if you weren't actually alseep. Or maybe even if you were! **"**
 
-## Moodymann – Sunday Morning
-_Analog Tara_: **"**I’m always following the pathways of jazz in and out of house music and techno, and of course many roads lead through Detroit. I’ve long been a fan of [Moodymann](http://www.mahoganimusic.com/)’s music, for his ear for layering instrumental performances and loops. He’ll also fold in atmospheric sounds, like a reminder that this music lives and breathes in social contexts—a refreshing contrast to some more sterile treatments of sounds in a lot of house and techno. And because your mailing list is meant for Sunday morning… here is “Sunday morning” from a 1998 12” on [Planet E](https://planet-e.net/).**"**
+## Shida Shahabi – Abisme
+_Adrian Dollemore_: **"**I've only discovered her music recently. She's a Swedish/Iranian Pianist. I was blown away by the level of texture on her  album. At a guess it probably results from clever micing of her Piano but there's something utterly beguiling about the minimalism. There's an element of Satie and French romantic, but as much as like both of those, this goes way beyond. Completely enchanting. 
+**"**
 
-## Spiral Deluxe – The Paris Roulette 
-_Analog Tara_: **"**[Jeff Mills](https://twitter.com/DJJeffMills) is masterful with the TR-909 and it’s exciting to hear him stretch those chops in another direction for this new electronic jazz collaboration. Really enjoying the keyboard and synth work from [Gerald Mitchell](https://www.discogs.com/artist/10841-Gerald-Mitchell) and [Yumiko Ohno](https://www.instagram.com/yumikoohno/) as well. Hoping they come through here on tour!**"**
+## Ancient Colours – Field and Woodland Strewn, the Failing Sun
+_Adrian Dollemore_: **"**This is by Simon Allum. A friend of mine whose guitar playing I enjoy very much. I recorded his album for the Preserved Sound label a few years ago but wasn't involved with this one. This is a longer piece and I like how it stretches out and ebbs and flows over ten minutes or so without any augmentation from other instruments. Keeping sole space for the guitar to unfold, which it certainly does. There's some lovely picking going on, he really knows his tunings. Hopefully he will make some more! **"**
 
 
 # MailTape's selection
 
-## Analog Tara – Pulse and Light
+## Glockenspiel – The Endless Road 2
 _Sanjay_: **"**Taken from Tara's '[Fundamentals](https://tararodgers.bandcamp.com/album/fundamentals-ep)' EP, this track feels effortlessly light on its feet with its broken drum pattern, vaporous chords, thrumming bass and euphoric timbre.**"**
 
-## Dawn of Midi – Algol
+## Oren Ambarchi – The Strouhal Number
 _Sanjay_: **"**The nine tracks that make up [Dawn of Midi](http://dawnofmidi.com/)'s album, Dysnomia, are really one long suite. It's contemplative, spacious, gentle and quiet—while carrying a propulsive rhythm. With Aakaash Israni on contrabass, Qasim Naqvi on drums and Amino Belyamani on piano, Dawn of Midi bridge the gap between anthropomorph and computer by refusing to dichotomise the two.**"**
 
-## Jlin – Blue i
+## Joanna Brouk – Going Through the Veil: Becoming a Swan
 _Sanjay_: **"**I've been hoping to see [Jlin](https://soundcloud.com/jlinnarlei) perform live for a while. This one is taken from 'Autobiography': Jlin's soundtrack to the staged life story of dancer and choreographer [Wayne McGregor](https://waynemcgregor.com/), which opened in October 2017 and ran at Sadler’s Wells in London until summer 2018. Probably closest in percussive palette to Jlin's debut album, [Black Origami](https://planet.mu/releases/black-origami/), this track is all galloping drums, echoing claps and gliding shakers.**"**
 
-## Moor Mother – Time Floats (King Britt Remix)
+## Maisha – Welcome To A New Welcome
 _Sanjay_: **"**A brilliant collaboration between two of my favourite contemporary producers, [King Britt](http://www.kingbritt.com/) and [Moor Mother](https://www.mailta.pe/269/moor-mother/). In Camae's own words, 'Time Floats speaks about the environmental warfare that continues to plague historical African American and low income communities'.**"**
 
 
