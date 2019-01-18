@@ -41,14 +41,13 @@ Once a website and now a book, her project [Pink Noise](http://www.analogtara.ne
 # Glockenspiel's selection
 
 ## Dedekind Cut – Tahoe
-_Adrian Dollemore_: **"**A beautiful atmospheric synth/string piece. Really simple and looping but it's one of those hooks that really stun you. I'd love to hear it really loud through a good p.a. I believe he played at one of those all night shows in eastern Europe that you can sleep at, which must have been incredible, if you weren't actually alseep. Or maybe even if you were! **"**
+_Adrian Dollemore_: **"**A beautiful atmospheric synth/string piece. Really simple and looping but it's one of those hooks that really stun you. I'd love to hear it really loud through a good P.A. I believe he played at one of those all night shows in eastern Europe that you can sleep at, which must have been incredible, if you weren't actually alseep. Or maybe even if you were! **"**
 
 ## Shida Shahabi – Abisme
-_Adrian Dollemore_: **"**I've only discovered her music recently. She's a Swedish/Iranian Pianist. I was blown away by the level of texture on her  album. At a guess it probably results from clever micing of her Piano but there's something utterly beguiling about the minimalism. There's an element of Satie and French romantic, but as much as like both of those, this goes way beyond. Completely enchanting. 
-**"**
+_Adrian Dollemore_: **"**I've only discovered her music recently. She's a Swedish/Iranian Pianist. I was blown away by the level of texture on her  album. At a guess it probably results from clever micing of her piano but there's something utterly beguiling about the minimalism. There's an element of Satie and French romantic, but as much as like both of those, this goes way beyond. Completely enchanting.**"**
 
 ## Ancient Colours – Field and Woodland Strewn, the Failing Sun
-_Adrian Dollemore_: **"**This is by Simon Allum. A friend of mine whose guitar playing I enjoy very much. I recorded his album for the Preserved Sound label a few years ago but wasn't involved with this one. This is a longer piece and I like how it stretches out and ebbs and flows over ten minutes or so without any augmentation from other instruments. Keeping sole space for the guitar to unfold, which it certainly does. There's some lovely picking going on, he really knows his tunings. Hopefully he will make some more! **"**
+_Adrian Dollemore_: **"**This is by Simon Allum. A friend of mine whose guitar playing I enjoy very much. I recorded his album for the Preserved Sound label a few years ago but wasn't involved with this one. This is a longer piece and I like how it stretches out and ebbs and flows over ten minutes or so without any augmentation from other instruments. Keeping sole space for the guitar to unfold, which it certainly does. There's some lovely picking going on, he really knows his tunings. Hopefully he will make some more!**"**
 
 
 # MailTape's selection
