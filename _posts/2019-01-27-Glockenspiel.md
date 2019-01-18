@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sanjay Mistry
 illustrator: Camille Célestin
 writer: Sanjay Mistry
@@ -66,4 +66,3 @@ _Sanjay_: **"**A brilliant collaboration between two of my favourite contemporar
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening to this episode. Much love and respect to [Analog Tara](http://www.analogtara.net/wp/) for her Sunday selections today, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
-
