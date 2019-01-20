@@ -21,11 +21,9 @@ track5_color: rough
 track7_title: Connan Mockasin - Momo's (feat James Blake)
 track7_color: vibrant
 episode_URL: 'https:// www.mailta.pe/339/cam-maclean/'
-track6_link: >-
-  https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep
+track6_link: 'https://soundcloud.com/westermanmusicuk/outside-sublime?in=westermanmusicuk/sets/ark-ep'
 track5_link: 'https://soundcloud.com/belmontwitch/romperlo'
-track4_link: >-
-  https://soundcloud.com/atelierciseaux/01-sunshine-2?in=atelierciseaux/sets/ac41-cam-maclean-wait-for-love-1
+track4_link: 'https://soundcloud.com/atelierciseaux/01-sunshine-2?in=atelierciseaux/sets/ac41-cam-maclean-wait-for-love-1'
 category: '339'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%202.mp3'
