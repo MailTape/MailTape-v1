@@ -64,4 +64,4 @@ _Sanjay_: **"**I've been hoping to see [Jlin](https://soundcloud.com/jlinnarlei)
 _Sanjay_: **"**A brilliant collaboration between two of my favourite contemporary producers, [King Britt](http://www.kingbritt.com/) and [Moor Mother](https://www.mailta.pe/269/moor-mother/). In Camae's own words, 'Time Floats speaks about the environmental warfare that continues to plague historical African American and low income communities'.**"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening to this episode. Much love and respect to [Analog Tara](http://www.analogtara.net/wp/) for her Sunday selections today, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening to this episode. Much love and respect to [Adrian Dollemore of Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) for his Sunday selections today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
