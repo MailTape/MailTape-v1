@@ -34,8 +34,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/342/track6.mp3'
 <p id="introduction">This morning we are delighted to welcome Adrian Dollemore of [Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) to select three Sunday morning tunes for us on MailTape.
 <br><br>
 Using tapes, electronics and guitars through chains of effects, [Adrian Dollemore](https://twitter.com/AdeGlockenspiel)'s own music is hypnagogic, employing earth-ground chords and astrally-projective processing to paint a rural tonality with a bristling white afterglow.
-<br><br>
-Once a website and now a book, her project [Pink Noise](http://www.analogtara.net/wp/projects/pink-noises/) has catalogued the work and presence of women in electronic music. In her own music, from analogue techno to generative sound installations made with [SuperCollider](https://supercollider.github.io/), Tara has performed around the U.S. and internationally.</p>
+<br><br></p>
 
 
 # Glockenspiel's selection
