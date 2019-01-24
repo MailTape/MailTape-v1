@@ -31,9 +31,9 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/342/glockenspiel/'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/342/track6.mp3'
 ---
-<p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
+<p id="introduction">This morning we are delighted to welcome Adrian Dollemore of [Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) to select three Sunday morning tunes for us on MailTape.
 <br><br>
-Over the last 20 years, Tara has studied with sonic experimentalists [Maggi Payne](https://sites.google.com/site/maggipayne/), [Fred Frith](http://www.fredfrith.com/) and [Pauline Oliveros](https://paulineoliveros.us/). She’s self-released six LPs and six EPs of electronic music, and she’s also got tracks on Move D's Source Records and the Le Tigre Remix 12”.
+Using tapes, electronics and guitars through chains of effects, Adrian Dollemore's own music is hypnagogic, employing earth-ground chords and astrally-projective processing to paint a rural tonality with a bristling white afterglow.
 <br><br>
 Once a website and now a book, her project [Pink Noise](http://www.analogtara.net/wp/projects/pink-noises/) has catalogued the work and presence of women in electronic music. In her own music, from analogue techno to generative sound installations made with [SuperCollider](https://supercollider.github.io/), Tara has performed around the U.S. and internationally.</p>
 
