@@ -51,7 +51,7 @@ _Adrian Dollemore_: **"**This is by Simon Allum. A friend of mine whose guitar p
 # MailTape's selection
 
 ## Glockenspiel – The Endless Road 2
-_Sanjay_: **"**A solo guitar edit taken from episode seven of The Endless Road Show, 'Disturbing The Peace' back in 2014. Once a duo and now the solo project of Adrian Dollemore, Glockenspiel retains Adrian's glistening arpeggios**"**
+_Sanjay_: **"**A solo guitar edit taken from episode seven of The Endless Road Show, 'Disturbing The Peace' back in 2014. Once a duo and currently the solo project of Adrian Dollemore, Glockenspiel retains the glistening arpeggios, ethereal drone filigree and hypnotic, almost cathartic, rhythms.**"**
 
 ## Oren Ambarchi – The Strouhal Number
 _Sanjay_: **"**One of my favourite original composers working in the drone/ambient environments, this track from [Oren Ambarchi](https://orenambarchi.com/) is a seven-minute oasis of calm. The faux-piano notes fall like slow-motion rain that gently splashes between the thuds of thunderous bass like distant explosions.**"**
