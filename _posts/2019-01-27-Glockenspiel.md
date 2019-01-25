@@ -54,7 +54,7 @@ _Adrian Dollemore_: **"**This is by Simon Allum. A friend of mine whose guitar p
 _Sanjay_: **"**Taken from Tara's '[Fundamentals](https://tararodgers.bandcamp.com/album/fundamentals-ep)' EP, this track feels effortlessly light on its feet with its broken drum pattern, vaporous chords, thrumming bass and euphoric timbre.**"**
 
 ## Oren Ambarchi – The Strouhal Number
-_Sanjay_: **"**The nine tracks that make up [Dawn of Midi](http://dawnofmidi.com/)'s album, Dysnomia, are really one long suite. It's contemplative, spacious, gentle and quiet—while carrying a propulsive rhythm. With Aakaash Israni on contrabass, Qasim Naqvi on drums and Amino Belyamani on piano, Dawn of Midi bridge the gap between anthropomorph and computer by refusing to dichotomise the two.**"**
+_Sanjay_: **"**One of my favourite original composers working in the drone/ambient environments, this track from [Oren Ambarchi](https://orenambarchi.com/) is a seven-minute oasis of calm. The faux-piano notes fall like slow-motion rain that gently splashes between the thuds of thunderous bass like distant explosions.**"**
 
 ## Joanna Brouk – Going Through the Veil: Becoming a Swan
 _Sanjay_: **"**I've been hoping to see [Jlin](https://soundcloud.com/jlinnarlei) perform live for a while. This one is taken from 'Autobiography': Jlin's soundtrack to the staged life story of dancer and choreographer [Wayne McGregor](https://waynemcgregor.com/), which opened in October 2017 and ran at Sadler’s Wells in London until summer 2018. Probably closest in percussive palette to Jlin's debut album, [Black Origami](https://planet.mu/releases/black-origami/), this track is all galloping drums, echoing claps and gliding shakers.**"**
