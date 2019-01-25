@@ -60,7 +60,8 @@ _Sanjay_: **"**One of my favourite original composers working in the drone/ambie
 _Sanjay_: **"**[Joanna Brouk](http://www.joannabrouk.com/) developed her work as a sound poet and performer during her studies with Terry Riley and Robert Ashley. She was a pioneer of electronic and new age music who explored the underlying sounds of words and their effects on the emotions and health. Following her death in April 2017, the [Numero label](http://numerogroup.com/) released the first major collection of Joanna’s work called '[Hearing Music](http://numerogroup.com/products/joanna-brouk-hearing-music)'. This warm and fuzzy track is taken from side A of her 1983 'Golden Swan' cassette. It is 15 minutes of minimalist piano music that tinkles like rain on a tin roof.**"**
 
 ## Maisha – Welcome To A New Welcome
-_Sanjay_: **"**A brilliant collaboration between two of my favourite contemporary producers, [King Britt](http://www.kingbritt.com/) and [Moor Mother](https://www.mailta.pe/269/moor-mother/). In Camae's own words, 'Time Floats speaks about the environmental warfare that continues to plague historical African American and low income communities'.**"**
+_Sanjay_: **"**Maisha is a London-based ensemble lead by drummer Jake Long—alongside Nubya Garcia, 
+Shirley Tetteh, Amane Suganami, Twm Dylan and Tim Doyle—playing original music inspired by the sounds of artists such as Alice Coltrane and Pharoah Sanders. **"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening to this episode. Much love and respect to [Adrian Dollemore of Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) for his Sunday selections today, and to [Camille Célestin](http://bravocamo.studio/) for this episode's cool illustration.</p>
