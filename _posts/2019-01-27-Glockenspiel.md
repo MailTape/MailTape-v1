@@ -30,6 +30,7 @@ track7_title: Maisha – Welcome To A New Welcome
 track7_color: trippy
 episode_URL: 'http://mailta.pe/342/glockenspiel/'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/342/track6.mp3'
+guestPic: guestPic342.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Adrian Dollemore of [Glockenspiel](https://babel-label.bandcamp.com/album/dupleix) to select three Sunday morning tunes for us on MailTape.
 <br><br>
