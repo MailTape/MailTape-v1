@@ -2,6 +2,38 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Camille Célestin
+writer: Anaïs G
+category: '344'
+guest_name: Tomemitsu
+guest_color: dreamy
+track2_link: 'https://soundcloud.com/igetrvng/harald-grosskopf-synthesist'
+track3_link: 'https://soundcloud.com/joaogilbertoofficial/chega-de-saudade'
+track4_link: 'https://soundcloud.com/tomemitsu/i-shatter-the-magnetic-fields'
+track4_color: dreamy
+track3_color: bliss
+track1_color: vibrant
+track6_link: 'https://soundcloud.com/brownswood/abusey-junction'
+track7_link: 'https://soundcloud.com/xenoulaofficial/caramello'
+track7_color: trippy
+track6_color: dreamy
+track5_color: vibrant
+track4_title: Tomemitsu - I Shatter ( the magnetic field)
+track5_title: Curtis Harding - Welcome to my world
+track6_title: Kokoroko - Abusey junction
+track7_title: Xenoula - Caramello
+episode_URL: 'http://www.mailta.pe/344/tomemitsu'
+track3_title: Joao Gilberto - Chega de Saudade
+track2_color: trippy
+track2_title: Harald Grosskopf - Synthesist
+track1_title: Sam Cooke and The Soul Stirrers - Christ it All
+guestPic: ''
+track1_link: ''
+track5_link: ''
+fbPic: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, 
 <br><br>
