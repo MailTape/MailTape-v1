@@ -19,7 +19,7 @@ track7_link: 'https://soundcloud.com/xenoulaofficial/caramello'
 track7_color: trippy
 track6_color: dreamy
 track5_color: vibrant
-track4_title: Tomemitsu - I Shatter ( the magnetic field)
+track4_title: 'Tomemitsu - I Shatter '
 track5_title: Curtis Harding - Welcome to my world
 track6_title: Kokoroko - Abusey junction
 track7_title: Xenoula - Caramello
