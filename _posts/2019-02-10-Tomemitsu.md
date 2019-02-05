@@ -50,16 +50,16 @@ _Tomemitsu_: **"**I had a tough time choosing my favorite Joao Gilberto song bec
 
 # MailTape's selection
 
-## Tomemitsu - 
+## Tomemitsu - I Shatter 
 _Anaïs G_: **"****"**
 
-## 
+## Curtis Harding - Welcome to my world
 _Anaïs G_: **"****"**
 
-## 
+## Kokoroko - Abusey Junction
 _Anaïs G_: **"****"**
 
-## 
+## Xenoula - Caramello
 _Anaïs G_: **"****"**
 
 
