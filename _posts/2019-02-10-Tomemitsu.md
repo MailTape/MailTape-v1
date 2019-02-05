@@ -9,7 +9,7 @@ category: '344'
 guest_name: Tomemitsu
 guest_color: dreamy
 track2_link: 'https://soundcloud.com/igetrvng/harald-grosskopf-synthesist'
-track3_link: 'https://soundcloud.com/joaogilbertoofficial/chega-de-saudade'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%203.mp3'
 track4_link: 'https://soundcloud.com/tomemitsu/i-shatter-the-magnetic-fields'
 track4_color: dreamy
 track3_color: bliss
@@ -24,16 +24,12 @@ track5_title: Curtis Harding - Welcome to my world
 track6_title: Kokoroko - Abusey junction
 track7_title: Xenoula - Caramello
 episode_URL: 'http://www.mailta.pe/344/tomemitsu'
-track3_title: Joao Gilberto - Chega de Saudade
+track3_title: João Gilberto - Chega de Saudade
 track2_color: trippy
 track2_title: Harald Grosskopf - Synthesist
 track1_title: Sam Cooke and The Soul Stirrers - Christ it All
-guestPic: ''
-track1_link: ''
-track5_link: ''
-fbPic: ''
-musiColor: ''
-description: ''
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%201.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%205.mp3'
 ---
 <p id="introduction">This morning, 
 <br><br>
