@@ -113,8 +113,10 @@
                 {% if page.writer %}
                 Writer: {{page.writer}}<br>          
                 {% endif %}
-                
-                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
+
+                {% if page.illustrator %}
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>        
+                {% endif %}                
             </p>
         </div>
 
@@ -154,9 +156,17 @@
 
         <div id="credit" class="col-md-3">
             <h1>Humans behind this episode #{{ page.category }} 🤗</h1>
-            <p>Curator: {{ page.author }}<br>
-            Writer: {{ page.writer }}<br>
-            <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
+                {% if page.author %}
+                Curator: {{page.author}}<br>          
+                {% endif %}
+
+                {% if page.writer %}
+                Writer: {{page.writer}}<br>          
+                {% endif %}
+
+                {% if page.illustrator %}
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>        
+                {% endif %} 
             </p>
         </div>
 
