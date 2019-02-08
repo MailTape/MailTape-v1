@@ -105,8 +105,14 @@
 
         <div id="credit" class="col-md-3">
             <h1>Humans behind this episode #{{ page.category }} 👩👨</h1>
-            <p>Curator: {{ page.author }}<br>
-            Writer: {{ page.writer }}<br>
+            {% if page.author contains '' %}
+            {% else %}
+                <p>Curator: {{page.author}}<br>          
+            {% endif %}
+            {% if page.writer contains '' %}
+            {% else %}
+                Writer: {{page.writer}}<br>          
+            {% endif %}
             <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
             </p>
         </div>
@@ -159,13 +165,13 @@
         </div>
 
         <div id="supportMailTape" class="col-md-2">
-            <h1>We receive 21€/w 👏</h1>
-            <p>Thanks to you, our internal cost are supported. Next goal: 35€/w 🙌</p>
+            <h1>You are beautiful </h1>
+            <p>25 people donate to MailTape each week. 🤗</p>
         </div>
 
 
         <div class="col-md-2">
-            <h1>Share the love ❤️</h1>
+            <h1>Become a supporter ❤️</h1>
             <a href="https://plasso.com/s/8djhgzsqEy" class="button" target="_blank">Donate now 👍</a>
 <!--             <a href="https://plasso.com/s/6edYgSyVGF" class="button" target="_blank">One-time donation &#9829;</a> -->
         </div>
