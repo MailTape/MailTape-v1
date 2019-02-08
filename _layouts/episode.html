@@ -105,15 +105,16 @@
 
         <div id="credit" class="col-md-3">
             <h1>Humans behind this episode #{{ page.category }} 👩👨</h1>
-            {% if page.author contains '' %}
-            {% else %}
-                <p>Curator: {{page.author}}<br>          
-            {% endif %}
-            {% if page.writer contains '' %}
-            {% else %}
+            <p>
+                {% if page.author %}
+                Curator: {{page.author}}<br>          
+                {% endif %}
+
+                {% if page.writer %}
                 Writer: {{page.writer}}<br>          
-            {% endif %}
-            <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
+                {% endif %}
+                
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
             </p>
         </div>
 
