@@ -38,7 +38,8 @@ description: >-
   Differentiated by its infinity, by these genres and multiple styles, it
   transports the spirits to take them into parallel worlds, this is what
   Tomemitsu shares with us this Sunday morning through a high selection in
-  musical color.
+  musical color.  
+musiColor: musiColor344.png
 ---
 <p id="introduction">This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what Tomemitsu shares with us this Sunday morning through a high selection in musical color. 
 <br><br>
