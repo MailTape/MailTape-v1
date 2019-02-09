@@ -31,11 +31,11 @@ track1_title: Sam Cooke and The Soul Stirrers - Christ it All
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%201.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%205.mp3'
 ---
-<p id="introduction">This morning, 
+<p id="introduction">This morning, like a divine light coming from nowhere, caressing our bodies, music moves us, borders us with our fingertips and astonishes us. Differentiated by its infinity, by these genres and multiple styles, it transports the spirits to take them into parallel worlds, this is what Tomemitsu shares with us this Sunday morning through a high selection in musical color. 
 <br><br>
+Beautiful and enchanting are the melodies of Tomemitsu, originally from LA, the city where everything is possible. His music that can be defined as pop bedroom is much more than that... It is a dream awakened towards the hope and inner fire that animates us, comforting us in the idea of staying under the quilt to take good time . 
 </p>
-
-
+ 
 # Tomemitsu's selection
 
 ## Sam Cooke and the soul singers - Christ is all
@@ -51,16 +51,16 @@ _Tomemitsu_: **"**I had a tough time choosing my favorite Joao Gilberto song bec
 # MailTape's selection
 
 ## Tomemitsu - I Shatter 
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**His songs are part of my Sunday morning special chill playist. Sweet, sensual with a hint of melancholy, whether they speak of heart to take or separation, Tomemitsu is only love so let’s take another dose!**"**
 
 ## Curtis Harding - Welcome to my world
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**It is by varying the pleasures and especially the musical genres that one manages to have a better knowledge and a beautiful opening on music. "Slop 'n soul", drawing on the R'N'B as much as blues or gospel. An exceptional mixture for a moment of letting go, sexyness and tenderness. **"**
 
 ## Kokoroko - Abusey Junction
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**The first time I heard this song, it was like a lightning strike, a feeling of absolute fullness. As an evidential, it takes us through its jazzy and afrobeat rhythms with such a natural and such simplicity that it makes it an exceptional title.**"**
 
 ## Xenoula - Caramello
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**Spicy and tangy at the same time, easy to dive into the world of Xenoula and change skin to adapt to the variants of its music.**"**
 
 
 <p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to Tomemitsu for her Sunday selection, and to Camille Célestin for this episode's cool illustration.</p>
