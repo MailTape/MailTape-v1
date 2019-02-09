@@ -74,4 +74,4 @@ _Anaïs G_: **"**The first time I heard this song, it was like a lightning strik
 _Anaïs G_: **"**Spicy and tangy at the same time, easy to dive into the world of Xenoula and change skin to adapt to the variants of its music.**"**
 
 
-<p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Tomemitsu](https://www.facebook.com/tomemitsu/) for her Sunday selection, and to Camille Célestin for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. Thank you so much for listening. Much love and respect to [Tomemitsu](https://www.facebook.com/tomemitsu/) for her Sunday selection, and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=fr) for this episode's cool illustration.</p>
