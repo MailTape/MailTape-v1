@@ -49,7 +49,7 @@ Beautiful and enchanting are the melodies of [Tomemitsu](https://www.facebook.co
  
 # Tomemitsu's selection
 
-## Sam Cooke and the soul singers - Christ is all
+## Sam Cooke and the Soul Stirrers - Christ is all
 _Tomemitsu_: **"**Growing up I went to church just about every Sunday and what I ended up taking from that was exposure to and an appreciation for different types of music. There’s such a beauty to many voices singing together, especially ones like Sam Cooke’s. I love the organ work as well as the way the background vocals give this song dynamics and a rolling energy.**"**
 
 ## Harold Grosskopf - Synthesist
