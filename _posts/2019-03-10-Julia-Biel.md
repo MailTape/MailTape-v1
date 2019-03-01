@@ -16,7 +16,7 @@ track3_title: We Were Strangers – Unforgiving War
 track3_color: dreamy
 track4_title: Julia Biel – Dead Slept Rough
 track4_color: bliss
-track5_title: Laura Nyro – Upstairs by a Chinese Lamp
+track5_title: Laura Nyro – Upstairs By a Chinese Lamp
 track5_color: dreamy
 track6_title: Marian Anderson – Sometimes I Feel Like A Motherless Child
 track6_color: trippy
@@ -56,7 +56,7 @@ _Julia Biel_: **"**I stumbled upon this little known gem right before Christmas.
 ## Julia Biel – Dead Slept Rough
 _Sanjay_: **"**Like most of Vula Viel's latest album, this title track confidently weaves sparse polyrhythms and intricate rhythm structures around Bex Burch’s Gyil lines. Eventually developing into a euphoric end, it urges the listener not to fear what they believe, hope and love.**"**
 
-## Laura Nyro – Upstairs by a Chinese Lamp
+## Laura Nyro – Upstairs By a Chinese Lamp
 _Sanjay_: **"**This album's liner notes state that 'Semillero is music that moves souls, allows imaginations to flourish and the feet to follow'. Meaning both seed and incubator, this title track is indeed such a gem—combining Andean flutes, electronica and Afro-Peruvian music. [Dengue Dengue Dengue](https://denguedenguedengue.net/) tell the story of Andean migration to the coast of Peru, where African influence continues to evolve.**"**
 
 ## Marian Anderson – Sometimes I Feel Like A Motherless Child
