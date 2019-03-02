@@ -18,8 +18,8 @@ track4_title: Julia Biel – Dead Slept Rough
 track4_color: bliss
 track5_title: Laura Nyro – Upstairs By a Chinese Lamp
 track5_color: dreamy
-track6_title: Marian Anderson – Sometimes I Feel Like A Motherless Child
-track6_color: trippy
+track6_title: 'Our Native Daughters – Quasheba, Quasheba'
+track6_color: dreamy
 track7_title: Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
 track7_color: bliss
 episode_URL: 'http://mailta.pe/348/julia-biel/'
@@ -28,8 +28,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/348/track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/348/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/348/track5.mp3'
 track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgiving-war-1'
-track6_link: >-
-  https://soundcloud.com/stephan-wuthe/sometimes-i-feel-like-a-motherless-child-marian-anderson
+track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
 track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'
 ---
 <p id="introduction">This morning we are delighted to welcome Bex Burch of London-based trio [Vula Viel](https://vulaviel.com/) to select three funky Sunday morning tunes for us.
@@ -59,7 +58,7 @@ _Sanjay_: **"**Like most of Vula Viel's latest album, this title track confident
 ## Laura Nyro – Upstairs By a Chinese Lamp
 _Sanjay_: **"**This album's liner notes state that 'Semillero is music that moves souls, allows imaginations to flourish and the feet to follow'. Meaning both seed and incubator, this title track is indeed such a gem—combining Andean flutes, electronica and Afro-Peruvian music. [Dengue Dengue Dengue](https://denguedenguedengue.net/) tell the story of Andean migration to the coast of Peru, where African influence continues to evolve.**"**
 
-## Marian Anderson – Sometimes I Feel Like A Motherless Child
+## Our Native Daughters – Quasheba, Quasheba
 _Sanjay_: **"**For the better part of three decades [Hailu Mergia](https://hailumergia.bandcamp.com/) drove a taxi in Washington DC, writing new music in his cab between shifts and recording a few homemade cassettes featuring himself on accordion, Rhodes piano, Yamaha DX7 and drum machine. The result is hypnotic and melodica-led pentatonic rhythms mingling with American bop.This one is remastered by [Awesome Tapes from Africa](https://www.awesometapes.com/).**"**
 
 ## Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
