@@ -31,7 +31,7 @@ track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgi
 track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
 track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'
 ---
-<p id="introduction">This morning we are thrilled to welcome London-based vocalist [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
+<p id="introduction">This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>
 Vula Viel means ‘Good is Good’ in Dagaare—the maternal language of Ghana's Dagaaba people where founding member Bex Burch lived, farmed and studied for three years. Alongside Ruth Goller and Jim Hart, as well as other collaborators, Vula Viel create a joyously rhythmic sense of stark—but enormously imaginative—minimalism based around the 'Gyil' (the Dagaare xylophone made of sacred lliga wood).<br><br>
 Vula Viel will be [on tour](https://vulaviel.com/gigs/) throughout the UK for most of spring.</p>
