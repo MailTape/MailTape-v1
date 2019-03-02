@@ -39,14 +39,14 @@ Vula Viel will be [on tour](https://vulaviel.com/gigs/) throughout the UK for mo
 
 # Julia Biel's selection
 
-## Zakir Hussain – Zakir
+## [Zakir Hussain](http://www.zakirhussain.com/) – Zakir
 _Julia Biel_: **"**This has been a cherished tune for me for a couple of decades now. There's something so incredibly fresh about it, it never fails to revitalise me and replenish my energy stores. It's so open and questioning in spirit but also coming from a place of acceptance, just 
 perfect to relax and unwind to.**"**
 
 ## Joni Mitchell – Morning Morgantown
 _Julia Biel_: **"**I only discovered this particular album of Joni's a couple of years ago. I put it on in the record shop and fell in love with the first song 'Morning Morgantown' within about 20 seconds. The warmth of it wraps around me and is immediately comforting and shielding. Joni's voice is at her most incredible on this album, so pure and effortless how it floats off into her high register, it's mesmerising and the song-writing falls right into that sweet spot between complex and accessible.**"**
 
-## We Were Strangers – Unforgiving War
+## [We Were Strangers](http://www.wewerestrangers.co.uk/) – Unforgiving War
 _Julia Biel_: **"**I stumbled upon this little known gem right before Christmas. So emotive in its delivery, I'm hooked in from the off every time I listen to it and the visual imagery and beautiful subtle build in the production keeps me enthralled to the end. Love it.**"**
 
 
