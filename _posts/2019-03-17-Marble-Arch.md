@@ -41,6 +41,6 @@ _Anaïs G_: **"****"**
 ## 
 _Anaïs G_: **"****"**
 
-Moon Duo ? BadbadNotGood ? 
+Moon Duo ? BadbadNotGood ? Lenny Pistol ? Ricky Hollywood ? Yasmin Lacey ? 
 
 <p id="outroduction"></p>
