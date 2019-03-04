@@ -53,7 +53,7 @@ _Julia Biel_: **"**I stumbled upon this little known gem right before Christmas.
 # MailTape's selection
 
 ## Julia Biel – Dead Slept Rough
-_Sanjay_: **"**Like most of Vula Viel's latest album, this title track confidently weaves sparse polyrhythms and intricate rhythm structures around Bex Burch’s Gyil lines. Eventually developing into a euphoric end, it urges the listener not to fear what they believe, hope and love.**"**
+_Sanjay_: **"**This is a cleverly structured number taken from Julia's self-titled LP released last year. Opening with an instrumental section and then a change of tempo when the vocals are introduced, it compels the listener to train their crosshairs on the reality of a new and insidious link between state apparatus and the economy and big corporations.**"**
 
 ## Laura Nyro – Upstairs By a Chinese Lamp
 _Sanjay_: **"**This album's liner notes state that 'Semillero is music that moves souls, allows imaginations to flourish and the feet to follow'. Meaning both seed and incubator, this title track is indeed such a gem—combining Andean flutes, electronica and Afro-Peruvian music. [Dengue Dengue Dengue](https://denguedenguedengue.net/) tell the story of Andean migration to the coast of Peru, where African influence continues to evolve.**"**
