@@ -30,6 +30,7 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/348/track5.mp3'
 track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgiving-war-1'
 track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
 track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'
+guestPic: guestPic348.jpg
 ---
 <p id="introduction">This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>
