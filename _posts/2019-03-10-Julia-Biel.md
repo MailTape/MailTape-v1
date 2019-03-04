@@ -58,7 +58,7 @@ _Sanjay_: **"**This is a cleverly structured track taken from Julia Biel's self-
 ## Laura Nyro – Upstairs By a Chinese Lamp
 _Sanjay_: **"**In most of [Laura Nyro](http://www.lauranyro.com/)'s songs you never quite know where she's (melodically and rhythmically) going to go, but it's always worth stringing along for the ride. This torchy lullaby set against a hushed orchestration from her 1970 album, Christmas and the Beads of Sweat, is one of my favourites.**"**
 
-## Our Native Daughters – Quasheba, Quasheba
+## [Our Native Daughters](https://folkways.si.edu/songs-of-our-native-daughters) – Quasheba, Quasheba
 _Sanjay_: **"**Released just a few weeks ago with the 'Songs of Our Native Daughters' LP, “Quasheba, Quasheba” is a simmering track that slowly builds, with Dirk Powell and Leyla McCalla adding cello and electric guitar accompaniment to Allison Russell's vocal. After Allison found out her family line can be traced back to an enslaved person named Quasheba, this track—as well as the LP itself—sheds light on African-American women’s stories of struggle, resistance, and hope and confronts the sanitised and perfumed views about America’s history of slavery, racism and misogyny.**"**
 
 ## Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
