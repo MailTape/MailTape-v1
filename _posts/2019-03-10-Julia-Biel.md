@@ -68,4 +68,4 @@ _Sanjay_: **"**Released just a few weeks ago with the 'Songs of Our Native Daugh
 _Sanjay_: **"**[Keyvan Chemirani](https://en.wikipedia.org/wiki/Chemirani_Ensemble) is known for his mastery of the traditional Persian hand drum zarb or tombak, and [Anindo Chatterjee](https://en.wikipedia.org/wiki/Anindo_Chatterjee) likewise for the tabla. Battements au Coeur de l'Orient **"**
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Bex Burch of Vula Viel](https://vulaviel.com/) for her Sunday selections today, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Julia Biel](http://www.juliabiel.com/) for her Sunday selections today, and to [Anaïs Marthe Caura](https://vimeo.com/anaismarthecaura) for this episode's cool illustration.</p>
