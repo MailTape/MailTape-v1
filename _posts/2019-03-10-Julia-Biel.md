@@ -62,7 +62,7 @@ _Sanjay_: **"**In most of [Laura Nyro](http://www.lauranyro.com/)'s songs you ne
 _Sanjay_: **"**Released just a few weeks ago with the 'Songs of Our Native Daughters' LP, “Quasheba, Quasheba” is a simmering track that slowly builds, with Dirk Powell and Leyla McCalla adding cello and electric guitar accompaniment to Allison Russell's vocal. After Allison found out her family line can be traced back to an enslaved person named Quasheba, this track—as well as the LP itself—sheds light on African-American women’s stories of struggle, resistance, and hope, and confronts the sanitised and perfumed views about America’s history of slavery, racism and misogyny.**"**
 
 ## Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
-_Sanjay_: **"**[Rosie Turton](https://soundcloud.com/rosieturton) really lets fly with the trombone on this interpretation of a Herbie Hancock original. Alongside [Johanna Burnheart](https://www.johannaburnheart.com/) on violin, [Maria Chiara Argirò](http://mariachiaramusic.com/) on piano/wurlitzer, [Twm Dylan](https://soundcloud.com/twmdylan) on bass, and [Jake Long](https://twitter.com/jakelongdrums) on drums, they strip out the electro-funk elements of the original and beautifully distill it down to a smoother-grooving vibe.**"**
+_Sanjay_: **"**Keyvan Chemirani is known for his mastery of the traditional Persian hand drum of zarb or tombak.**"**
 
 
 <p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Bex Burch of Vula Viel](https://vulaviel.com/) for her Sunday selections today, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration.</p>
