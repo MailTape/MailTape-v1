@@ -56,7 +56,7 @@ _Julia Biel_: **"**I stumbled upon this little known gem right before Christmas.
 _Sanjay_: **"**This is a cleverly structured track taken from Julia Biel's self-titled LP released last year. Opening with an instrumental section and then a change of tempo when the vocals are introduced, it compels the listener to exercise their anger and criticism towards the reality of an insidious link between state apparatus and the economy and big corporations.**"**
 
 ## Laura Nyro – Upstairs By a Chinese Lamp
-_Sanjay_: **"**In most of [Laura Nyro](http://www.lauranyro.com/)'s songs you never quite know where she's (melodically and rhythmically) going to go, but it's always worth stringing along for the ride. **"**
+_Sanjay_: **"**In most of [Laura Nyro](http://www.lauranyro.com/)'s songs you never quite know where she's (melodically and rhythmically) going to go, but it's always worth stringing along for the ride. This torchy lullaby set against a hushed orchestration from her 1970 album, Christmas and the Beads of Sweat, is one of my favourites.**"**
 
 ## Our Native Daughters – Quasheba, Quasheba
 _Sanjay_: **"**For the better part of three decades [Hailu Mergia](https://hailumergia.bandcamp.com/) drove a taxi in Washington DC, writing new music in his cab between shifts and recording a few homemade cassettes featuring himself on accordion, Rhodes piano, Yamaha DX7 and drum machine. The result is hypnotic and melodica-led pentatonic rhythms mingling with American bop.This one is remastered by [Awesome Tapes from Africa](https://www.awesometapes.com/).**"**
