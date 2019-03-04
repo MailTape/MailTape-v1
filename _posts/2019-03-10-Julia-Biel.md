@@ -33,6 +33,9 @@ track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anind
 guestPic: guestPic348.jpg
 fbPic: fbPic348.jpg
 musiColor: musiColor348.png
+description: >-
+  This morning we are thrilled to welcome London-based vocalist, guitarist and
+  pianist, Julia Biel, who selects three swaying Sunday tunes for us.
 ---
 <p id="introduction">This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>
