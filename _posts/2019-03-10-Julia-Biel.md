@@ -39,7 +39,7 @@ description: >-
 ---
 <p id="introduction">This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>
-Described as ‘the best British vocalist to emerge in an age’ by The Independent newspaper, Julia Biel’s voice is beginning to be heard. With her third and self-titled album, she covers themes from loneliness, love and uncertainty, as well as directing anger towards the reality of an insidious link between state apparatus and the economy and big corporations.<br><br></p>
+Described as ‘the best British vocalist to emerge in an age’ by The Independent newspaper, Julia Biel’s voice is beginning to be heard. With her third and self-titled album, she covers such themes as loneliness, love and uncertainty, as well as directing anger towards the reality of an insidious link between state apparatus and the economy and big corporations.<br><br></p>
 
 
 # Julia Biel's selection
