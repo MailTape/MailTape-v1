@@ -39,8 +39,7 @@ description: >-
 ---
 <p id="introduction">This morning we are thrilled to welcome London-based vocalist, guitarist and pianist, [Julia Biel](http://www.juliabiel.com/), who selects three swaying Sunday tunes for us.
 <br><br>
-Vula Viel means ‘Good is Good’ in Dagaare—the maternal language of Ghana's Dagaaba people where founding member Bex Burch lived, farmed and studied for three years. Alongside Ruth Goller and Jim Hart, as well as other collaborators, Vula Viel create a joyously rhythmic sense of stark—but enormously imaginative—minimalism based around the 'Gyil' (the Dagaare xylophone made of sacred lliga wood).<br><br>
-Vula Viel will be [on tour](https://vulaviel.com/gigs/) throughout the UK for most of spring.</p>
+Described as ‘the best British vocalist to emerge in an age’ by The Independent newspaper, Julia Biel’s voice is beginning to be heard. With her third and self-titled album, she covers themes from loneliness, love and uncertainty, as well as anger towards the reality of an insidious link between state apparatus and the economy and big corporations.<br><br></p>
 
 
 # Julia Biel's selection
@@ -59,7 +58,7 @@ _Julia Biel_: **"**I stumbled upon this little known gem right before Christmas.
 # MailTape's selection
 
 ## Julia Biel – Dead Slept Rough
-_Sanjay_: **"**This is a cleverly structured track taken from Julia Biel's self-titled LP released last year. Opening with an instrumental section and then a change of tempo when the vocals are introduced, it compels the listener to exercise their anger and criticism towards the reality of an insidious link between state apparatus and the economy and big corporations.**"**
+_Sanjay_: **"**This is a neatly structured track taken from Julia Biel's self-titled LP released last year. Opening with an instrumental section and then a change of tempo when the vocals are introduced, it compels the listener to exercise their anger and criticism towards the reality of an insidious link between state apparatus and the economy and big corporations.**"**
 
 ## Laura Nyro – Upstairs By a Chinese Lamp
 _Sanjay_: **"**In most of [Laura Nyro](http://www.lauranyro.com/)'s songs you never quite know where she's (melodically and rhythmically) going to go, but it's always worth stringing along for the ride. This torchy lullaby set against a hushed orchestration from her 1970 album, Christmas and the Beads of Sweat, is one of my favourites.**"**
