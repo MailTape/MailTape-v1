@@ -6,7 +6,7 @@ author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
 track7_link: 'https://soundcloud.com/jacquestransversal/jacques-tout-est-magnifique'
-track6_link: 'https://soundcloud.com/lakeyinspired/forever'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/223/track6.mp3'
 track5_link: 'https://soundcloud.com/beatsbycarter/ride-slow-preview-lease-purchase-info-full-beat-pack-in-description'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/223/track4.mp3'
 track4_title: Fatima Yamaha - Half Moon Rising
@@ -18,9 +18,9 @@ fbPic: fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
 category: '223'
-track1_link: 'https://soundcloud.com/magnetronmusic/11-bioroid'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/223/track1.mp3'
 track2_link: 'https://soundcloud.com/seymour-bits/seymour-bits-seymour-cray'
-track3_link: 'https://soundcloud.com/magnetronmusic/5051083098182-01-04'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/223/track3.mp3'
 track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray
 track3_title: Donnie - Wubbo Ockels
