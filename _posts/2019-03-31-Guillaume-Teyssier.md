@@ -17,6 +17,11 @@ track3_title: Mogollar (Les Mogols) - Muzik Mogollar
 track4_title: Guillaume Teyssier - Give It Up
 track5_title: Tek.lun - Les Elephants
 track6_title: Sabrina Rich - Smooth Operator (Duckcomb discomix)
+category: '351'
+guest_name: Guillaume Teyssier
+author: ImaCrea
+illustrator: Camille Célestin
+writer: ImaCrea
 ---
 ## A New Post
 
