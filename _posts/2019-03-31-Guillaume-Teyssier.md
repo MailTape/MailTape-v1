@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/351/guillaume-teyssier/'
 guest_color: bliss
 guestPic: guestPic351.jpg
 ---
-<p id="introduction">This morning we welcome [Guillaume Teyssier](https://guillaumeteyssier.bandcamp.com/), who accepted our invitation to come and play live at our [MailTape Live 3rd edition](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3) at the Popup... on next Saturday!</p>
+<p id="introduction">This morning we welcome [Guillaume Teyssier](https://guillaumeteyssier.bandcamp.com/), who accepted our invitation to come and play live at our [MailTape Live 3rd edition](https://www.facebook.com/events/423163478488715/) at the Popup... on next Saturday! ([tickets almost sold out!](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3))</p>
   
 Even though my memory can be pretty bad in many occasions, one thing I remember very clearly is the feeling I had when I discovered Guillaume Teyssier's music. It was a year ago but the sensation is still fresh. What an instant crush! I remember calling his work "an act of resistance" back in the days when I shared one of his track on [episode 299](https://www.mailta.pe/299/run-child-run/).
 
