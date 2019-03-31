@@ -31,6 +31,7 @@ track6_color: vibrant
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/351/guillaume-teyssier/'
 guest_color: bliss
+guestPic: guestPic351.jpg
 ---
 <p id="introduction">This morning, we welcome [Pléthore](https://soundcloud.com/plethoremusic), whom we will have the pleasure to hear during our next live event, [MailTape Live 3rd edition on April 6th](https://www.helloasso.com/associations/mailtape/evenements/mailtape-live-3) at the Popup. Join us and let's dance.</p>
   
