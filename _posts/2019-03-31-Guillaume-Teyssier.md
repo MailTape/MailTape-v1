@@ -56,15 +56,15 @@ Guillaume Teyssier: **"**Le morceau s’ouvre par un violon lancinant bientôt r
 # MailTape's selection
 
 ## Guillaume Teyssier - Give It Up
-ImaCrea: **"**dsds**"**
+ImaCrea: **"**I love the chorus in this one. Let go and self control, the difficult balance to achieve in order to create something truly new. Confusion is essential to tear up the mask of reality and break conventional laws of representation. Then, control is needed to create while staying faithful to your inner vision till you are truly satisfied with the work.**"**
 
 ## Tek.lun - Les Elephants
-ImaCrea: **"**dsd**"**
+ImaCrea: **"**Classic Tek.lun mindtrip. A great door opener to a groovy confusion.**"**
 
 ## Sabrina Rich - Smooth Operator (Duckcomb discomix)
-ImaCrea: **"**dd.**"**
+ImaCrea: **"**It sounded like a joke at first but then I got sucked into it. Very rare gem, I love this kind of surprise. It reminds me the feeling one might get when lost in an unknown city you end up entering in a random café packed with lovely peole surrounded by a surprisingly kitsh decoration in a warm atmosphere smelling the taste of delicious food cooked with love.**"**
 
-## Tonal - Hülshoff, Rheinländer, Reyneke - Plastic Roses!
-ImaCrea: **"**dsd**"**
+## [Wolf Müller meets the Nile Project](https://nouvelleambiance.bandcamp.com/album/wolf-m-ller-meets-the-nile-project) - Mabomba Dance
+ImaCrea: **"**Love how this track builds up almost organically.**"**
 
-<p id="outroduction">That's it for this morning. Thank you so much for being with us every Sunday, I hope this episode puts a lovely start to your Sunday morning.</p>
+<p id="outroduction">That's it for this morning. Thank you so much for being with us every Sunday, keep sharing the good vibes. Thanks so much to Guillaume Teyssier (whom I can't wait to see next Saturday!) and to [Joakim](https://joakim.bandcamp.com/) for the picture which inspired [Celestin](https://camillecelestin.com/) for her stunning illustration. Share this episode with your friends with a poem of yours.</p>
