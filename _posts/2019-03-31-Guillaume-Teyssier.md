@@ -77,4 +77,4 @@ ImaCrea: **"**It sounded like a joke at first but then I got sucked into it. Ver
 ## [Wolf Müller meets the Nile Project](https://nouvelleambiance.bandcamp.com/album/wolf-m-ller-meets-the-nile-project) - Mabomba Dance
 ImaCrea: **"**Love how this track builds up almost organically.**"**
 
-<p id="outroduction">That's it for this morning. Thank you so much for being with us every Sunday, keep sharing the good vibes. Thanks so much to Guillaume Teyssier (whom I can't wait to see next Saturday!) and to [Joakim](https://joakim.bandcamp.com/) for the picture which inspired [Celestin](https://camillecelestin.com/) for her stunning illustration. Share this episode with your friends with a poem of yours.</p>
+<p id="outroduction">That's it for this morning. Thank you so much for being with us every Sunday, keep sharing the good vibes. Thanks so much to Guillaume Teyssier (whom I can't wait to see next Saturday!) and to [Joakim](https://joakim.bandcamp.com/) for the picture which inspired [Celestin](https://camillecelestin.com/) for her stunning illustration. Finnaly, a quick suggestion for today. Send a peom to a friend :)</p>
