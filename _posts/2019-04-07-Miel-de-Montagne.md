@@ -33,9 +33,6 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
-fbPic: ''
-musiColor: ''
-description: ''
 ---
 <p id="introduction">This morning, </p>
  
