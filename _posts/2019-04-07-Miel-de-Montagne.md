@@ -29,6 +29,9 @@ track3_color: vibrant
 category: '352'
 episode_URL: 'http://mailta.pe/352/Miel-de-Montagne'
 guest_color: dreamy
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 ---
 <p id="introduction">This morning, </p>
  
