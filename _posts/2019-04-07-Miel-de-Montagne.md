@@ -16,7 +16,7 @@ track4_title: Miel de Montagne - Ses Rêves
 track4_color: dreamy
 track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
 track5_color: bliss
-track6_title: Ricky Hollywood - Coule fest Toror Azor
+track6_title: Ricky Hollywood - Coule feat Toror Azor
 track6_color: dreamy
 track7_title: Pion - Déluge ( Iñigo Montoya Remix)
 track7_color: trippy
@@ -28,19 +28,10 @@ track3_title: 'Mark Ayres - Lethal Weapon Theme '
 track3_color: vibrant
 category: '352'
 episode_URL: 'http://mailta.pe/352/Miel-de-Montagne'
+guest_color: dreamy
 ---
 <p id="introduction">This morning, </p>
-  
  
-  
-
-
-
-
-
-Lethal Weapon Music Theme - https://www.youtube.com/watch?v=-V3kc56a20A
-
-
 
 # Miel de Montagne's selection
 
