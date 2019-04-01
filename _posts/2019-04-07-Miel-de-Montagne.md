@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
@@ -33,6 +33,9 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
+fbPic: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, </p>
  
@@ -43,8 +46,8 @@ guestPic: guestPic352.jpg
 ##  Black Sabbath - Planet Caravan
 Miel de Montagne: **"**I was 13, something like that, my skate times listening to heavy guitars. one day my dad came to me and said: go check out Jimi Hendrix but most important go check out Black Sabbath. I loved it, and when I discovered this song I was blown, hopping it will never stop.**"**
 
-##  Santo & Jhonny - Sleep Walk 
-Miel de Montagne: **"**Early morning cruising, underpants and coffee. I should learn to play this, I don’t know if it’s original stuff or not from Santo & Jhonny. The groove is crazy. No-one can « hate » this.**"**
+##  Santo & Johnny - Sleep Walk 
+Miel de Montagne: **"**Early morning cruising, underpants and coffee. I should learn to play this, I don’t know if it’s original stuff or not from Santo & Johnny. The groove is crazy. No-one can « hate » this.**"**
 
 ##  Marc Ayres - Lethal Weapon Theme
 Miel de Montagne: **"**Lethal Weapon mamen. Ok, you need the reference here. My flatmate from Le Pays Basque showed me the first and I watched all of them straight away. When the music plays, we get to this guy’s trailer, also wearing underpants hehe. So much style, so much rock, but finally you get to know this guy is depressed... **"**
