@@ -58,10 +58,10 @@ Miel de Montagne: **"**Lethal Weapon mamen. Ok, you need the reference here. My 
 Anaïs G: **"** **"**
 
 ## Serge Gainsbourg - Melody Nelson (Molécule Remix)
-Anaïs G: **"** Nouvelle version / Dépousiéré / Remise au gout du jour /    **"**
+Anaïs G: **"**A classic from Gainsbourg revisited by molecule. The original is already magnificent but this remix is just an ode to man with cabbage head. Molecule has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
 
 ## Ricky Hollywood -  Coule feat Toror Azor
-Anaïs G: **"** Décalé / Psyché / Funny **"**
+Anaïs G: **"** **"**
 
 ##  Pion - Déluge (Iñigo Montoya Remix) 
 Anaïs G: **"** **"**
