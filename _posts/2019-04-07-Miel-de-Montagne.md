@@ -60,12 +60,12 @@ Anaïs G: **"**The synth, the guitar and the soft voice of Miel de Montagne what
 ## [Serge Gainsbourg](https://fr.wikipedia.org/wiki/Serge_Gainsbourg) - Melody Nelson (Molécule Remix)
 Anaïs G: **"**A classic from Gainsbourg revisited by [Molécule (https://fr.wikipedia.org/wiki/Mol%C3%A9cule_(musicien)). The original is already magnificent but this remix is just an ode to man with cabbage head. [Molécule](https://soundcloud.com/moleculesound) has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
 
-## Ricky Hollywood -  Coule feat Toror Azor
-Anaïs G: **"**Cette chanson de Ricky Hollywood, le roi du chill par excellence, fait partie de ma playist spéciale "dimanche au fond du lit", alors je me devais de la placer dans l'épisode de Miel de Montagne pour intensifier encore plus le coté décalé cet artiste.**"**
+## [Ricky Hollywood](https://soundcloud.com/ricky-hollywood) -  Coule feat Toror Azor
+Anaïs G: **"**Cette chanson de [Ricky Hollywood](https://rickyhollywood.bandcamp.com/), le roi du chill par excellence, fait partie de ma playist spéciale "dimanche au fond du lit", alors je me devais de la placer dans l'épisode de Miel de Montagne pour intensifier encore plus le coté décalé cet artiste.**"**
 
-##  Pion - Déluge (Iñigo Montoya Remix) 
-Anaïs G: **"**To finish this episode, nothing like a musical UFO to perfect this journey. Sometimes provocative in their words and violent in their music, this remix of Pion signed by Iñigo Montoya is beautiful and powerful. An invitation to fight against the demons that we are...**"**
+## [Pion](https://soundcloud.com/pionmusique) - Déluge (Iñigo Montoya Remix) 
+Anaïs G: **"**To finish this episode, nothing like a musical UFO to perfect this journey. Sometimes provocative in their words and violent in their music, this remix of Pion signed by [Iñigo Montoya](https://soundcloud.com/i-igo-montoya-2) is beautiful and powerful. An invitation to fight against the demons that we are...**"**
 
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to Miel de Montagne for her Sunday selections today, and to Anthony Dujardin for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Miel de Montagne](https://soundcloud.com/miel2montagne) for her Sunday selections today, and to Anthony Dujardin for this episode's cool illustration.</p>
