@@ -63,7 +63,7 @@ Anaïs G: **"**The synth, the guitar and the soft voice of Miel de Montagne what
 Anaïs G: **"**A classic from Gainsbourg revisited by [Molécule (https://fr.wikipedia.org/wiki/Mol%C3%A9cule_(musicien)). The original is already magnificent but this remix is just an ode to man with cabbage head. [Molécule](https://soundcloud.com/moleculesound) has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
 
 ## [Ricky Hollywood](https://soundcloud.com/ricky-hollywood) -  Coule feat Toror Azor
-Anaïs G: **"**Cette chanson de [Ricky Hollywood](https://rickyhollywood.bandcamp.com/), le roi du chill par excellence, fait partie de ma playist spéciale "dimanche au fond du lit", alors je me devais de la placer dans l'épisode de Miel de Montagne pour intensifier encore plus le coté décalé cet artiste.**"**
+Anaïs G: **"**This song by [Ricky Hollywood](https://rickyhollywood.bandcamp.com/), the king of chill par excellence, is part of my special playist "Sunday in bed", so I had to place it in the episode of Miel de Montagne to further intensify the offbeat side of this artist.**"**
 
 ## [Pion](https://soundcloud.com/pionmusique) - Déluge (Iñigo Montoya Remix) 
 Anaïs G: **"**To finish this episode, nothing like a musical UFO to perfect this journey. Sometimes provocative in their words and violent in their music, this remix of Pion signed by [Iñigo Montoya](https://soundcloud.com/i-igo-montoya-2) is beautiful and powerful. An invitation to fight against the demons that we are...**"**
