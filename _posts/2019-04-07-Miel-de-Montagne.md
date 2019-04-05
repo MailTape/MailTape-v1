@@ -42,23 +42,23 @@ Miel de Montagne is his stage name so to tell you that he has the right to immed
 # Miel de Montagne's selection
 
 
-##  Black Sabbath - Planet Caravan
-Miel de Montagne: **"**I was 13, something like that, my skate times listening to heavy guitars. one day my dad came to me and said: go check out Jimi Hendrix but most important go check out Black Sabbath. I loved it, and when I discovered this song I was blown, hopping it will never stop.**"**
+##  [Black Sabbath](https://www.blacksabbath.com/) - Planet Caravan
+Miel de Montagne: **"**I was 13, something like that, my skate times listening to heavy guitars. one day my dad came to me and said: go check out [Jimi Hendrix](https://fr.wikipedia.org/wiki/Jimi_Hendrix) but most important go check out [Black Sabbath](https://www.facebook.com/BlackSabbath/). I loved it, and when I discovered this song I was blown, hopping it will never stop.**"**
 
-##  Santo & Johnny - Sleep Walk 
+##  [Santo & Johnny](https://en.wikipedia.org/wiki/Santo_%26_Johnny) - Sleep Walk 
 Miel de Montagne: **"**Early morning cruising, underpants and coffee. I should learn to play this, I don’t know if it’s original stuff or not from Santo & Johnny. The groove is crazy. No-one can « hate » this.**"**
 
 ##  Marc Ayres - Lethal Weapon Theme
-Miel de Montagne: **"**Lethal Weapon mamen. Ok, you need the reference here. My flatmate from Le Pays Basque showed me the first and I watched all of them straight away. When the music plays, we get to this guy’s trailer, also wearing underpants hehe. So much style, so much rock, but finally you get to know this guy is depressed... **"**
+Miel de Montagne: **"**[Lethal Weapon](https://en.wikipedia.org/wiki/Lethal_Weapon_(TV_series)) mamen. Ok, you need the reference here. My flatmate from Le Pays Basque showed me the first and I watched all of them straight away. When the music plays, we get to this guy’s trailer, also wearing underpants hehe. So much style, so much rock, but finally you get to know this guy is depressed... **"**
 
 
 # MailTape's selection
 
-## Miel de Montagne - Ses Rêves 
+## [Miel de Montagne](https://www.facebook.com/miel2montagne/) - Ses Rêves 
 Anaïs G: **"**The synth, the guitar and the soft voice of Miel de Montagne what better to wake up with a smile. With "Ses Rêves", appearing in his first album released on April 5, he knows how to touch our sentient chord by boring us with love to no longer be in power. A beautiful moment full of poetry and tenderness.**"**
 
-## Serge Gainsbourg - Melody Nelson (Molécule Remix)
-Anaïs G: **"**A classic from Gainsbourg revisited by Molécule. The original is already magnificent but this remix is just an ode to man with cabbage head. Molécule has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
+## [Serge Gainsbourg](https://fr.wikipedia.org/wiki/Serge_Gainsbourg) - Melody Nelson (Molécule Remix)
+Anaïs G: **"**A classic from Gainsbourg revisited by [Molécule (https://fr.wikipedia.org/wiki/Mol%C3%A9cule_(musicien)). The original is already magnificent but this remix is just an ode to man with cabbage head. [Molécule](https://soundcloud.com/moleculesound) has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
 
 ## Ricky Hollywood -  Coule feat Toror Azor
 Anaïs G: **"**Cette chanson de Ricky Hollywood, le roi du chill par excellence, fait partie de ma playist spéciale "dimanche au fond du lit", alors je me devais de la placer dans l'épisode de Miel de Montagne pour intensifier encore plus le coté décalé cet artiste.**"**
@@ -68,4 +68,4 @@ Anaïs G: **"**To finish this episode, nothing like a musical UFO to perfect thi
 
 
 
-<p id="outroduction">That's it for this morning.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to Miel de Montagne for her Sunday selections today, and to Anthony Dujardin for this episode's cool illustration.</p>
