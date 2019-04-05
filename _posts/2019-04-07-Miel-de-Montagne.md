@@ -34,8 +34,10 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
 ---
-<p id="introduction">This morning, </p>
- 
+<p id="introduction"> This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning is a bit like this whipped cream, where I enjoy cake.
+
+Miel de Montagne is his stage name so to tell you that he has the right to immediately put water in his mouth. In an instant we have the taste of a rather sweet honey with a touch of character and absurdity, a feeling of well being and an old school visual where Christina Cordula would make a syncope just by seeing the look of the protagonist in question. Miel de Montagne comes from another planet, the planet at all is possible like making "A slow for my dog" where nothing is serious.</p>
+
 
 # Miel de Montagne's selection
 
