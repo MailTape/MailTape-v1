@@ -7,8 +7,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/351/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/351/track3.mp3'
 track4_link: 'https://soundcloud.com/tigersushirecords/06-give-it-up'
 track5_link: 'https://soundcloud.com/tekdotlun/les-elephants'
-track6_link: >-
-  https://soundcloud.com/culturesofsoul/sabrina-rich-smooth-operator-duckcomb-discomix
+track6_link: 'https://soundcloud.com/culturesofsoul/sabrina-rich-smooth-operator-duckcomb-discomix'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/351/track7.mp3'
 track7_title: Wolf Müller meets the Nile Project - Mabomba Dance
 track1_title: Caetano Veloso - Maria Bethania
