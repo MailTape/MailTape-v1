@@ -7,10 +7,12 @@ illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
 track7_link: 'https://soundcloud.com/i-igo-montoya-2/deluge'
-track6_link: 'https://soundcloud.com/ricky-hollywood/04-coule-feat-toro-azor?in=ricky-hollywood/sets/laventure-interieure-ep'
-track5_link: 'https://soundcloud.com/moleculesound/serge-gainsbourg-melody-nelson?in=millefeuilles/sets/exposition-mille-feuilles-19'
+track6_link: >-
+  https://soundcloud.com/ricky-hollywood/04-coule-feat-toro-azor?in=ricky-hollywood/sets/laventure-interieure-ep
+track5_link: >-
+  https://soundcloud.com/moleculesound/serge-gainsbourg-melody-nelson?in=millefeuilles/sets/exposition-mille-feuilles-19
 track4_link: 'https://soundcloud.com/miel2montagne/ces-reves'
-track4_title: Miel de Montagne - Ses Rêves
+track4_title: Miel de Montagne - Ces Rêves
 track4_color: dreamy
 track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
 track5_color: bliss
@@ -35,7 +37,7 @@ fbPic: fbPic352.png
 musiColor: musiColor352.png
 ---
 <p id="introduction"> This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.
-
+<br><br>
 [Miel de Montagne](https://soundcloud.com/miel2montagne)is his stage name so to tell you that he has the right to immediately put water in his mouth. In an instant we have the taste of a rather sweet honey with a touch of character and absurdity, a feeling of well being and an old school visual where Christina Cordula would make a syncope just by seeing the look of the protagonist in question. Miel de Montagne comes from another planet, the planet at all is possible like making "A slow for my dog" where nothing is serious.</p>
 
 
