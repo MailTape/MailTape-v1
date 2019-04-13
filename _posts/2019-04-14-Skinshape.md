@@ -71,4 +71,4 @@ Jules: **"****"**
 
 
 
-<p id="outroduction">That's it for this morning. As always thank you so much for being with us every Sunday, keep sharing the good vibes! Much love and respect to [Skinshape](https://skinshape.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration. </p>
+<p id="outroduction">That's it for this morning. As always thank you so much for embarking with us on our every Sunday journeys! Much love and respect to [Skinshape](https://skinshape.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration. </p>
