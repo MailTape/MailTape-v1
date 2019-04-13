@@ -38,7 +38,7 @@ fbPic: fbPic353new.png
 </p>
 
 
-# Skinshape's selection![musiColor353.png]({{site.baseurl}}/img/musiColor353.png)
+# Skinshape's selection
 
 
 
