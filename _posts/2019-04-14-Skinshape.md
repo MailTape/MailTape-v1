@@ -52,16 +52,16 @@ Skinshape: **"**This has always been a favourite of mine. The lyrics are amazing
 
 # MailTape's selection
 
-## 
+## Skinshape - Life As One
 Jules: **"****"**
 
-## 
+## Hilary Woods - Prodigal Dog
 Jules: **"****"**
 
-## 
+## Para One - Finale (Music To And From Naissance Des Pieuvres)
 Jules: **"****"**
 
-## 
+## Corte Real - Opium
 Jules: **"****"**
 
 
