@@ -73,8 +73,8 @@ Jules: **"**This song is taken from 'Colt', [Hilary Woods](https://hilarywoodsmu
 Jules: **"**Jean-Baptiste de Laubier is mostly known, by his artist name Para One, as a DJ and a rap and electronic music producer. He met the film director Céline Sciamma while they were both stuyding at La Fémis and since then Para One has scored most of her films. The soundtrack of _Naissance des Pieuvres (Water Lilies)_ is an aerial synthesizer melody which imbues the movie with a mysterious and singular poetry.**"**
 
 ## Corte Real - Opium
-Jules: **"****"**
+Jules: **"**I discovered this song on a music compilation from the french and francophone label [La Souterraine](https://souterraine.biz/), and immediately felt captived by this exotic and soft voice. It sounds like the pirate tales or the great adventure books our parents were reading to us, at a time when lost islands and treasure hunts were everything we were dreaming about**"**
 
 
 
-<p id="outroduction">That's it for this morning. As always thank you so much for embarking with us on our every Sunday journeys! Much love and respect to [Skinshape](https://skinshape.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration. </p>
+<p id="outroduction">That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to [Skinshape](https://skinshape.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration. </p>
