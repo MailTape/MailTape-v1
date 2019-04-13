@@ -70,4 +70,4 @@ Jules : **"****"**
 
 
 
-<p id="outroduction">That's it for this morning. </p>
+<p id="outroduction">That's it for this morning. As always thanks so much for being with us every Sunday, keep sharing the good vibes! Much love and respect to [Skinshape](https://fitofbody.bandcamp.com/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration. </p>
