@@ -15,6 +15,21 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/353/track4.mp3'
 track5_link: 'https://soundcloud.com/sacredbones/hilary-woods-prodigal-dog'
 track6_link: 'https://soundcloud.com/para-one/para-one-finale-1'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/353/track7.mp3'
+track1_title: Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)
+track1_color: bliss
+track2_title: 'The Lark Ascending - Ralph Vaughan Williams, LPO violin by Sarah Chang'
+track2_color: vibrant
+track3_title: 'The Verve - Bittersweet Symphony '
+track3_color: vibrant
+track4_title: Skinshape - Life As One
+track4_color: vibrant
+track5_title: Hilary Woods - Prodigal Dog
+track5_color: vibrant
+track6_title: Para One - Finale
+track6_color: trippy
+track7_title: Corte Real - Opium
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/353/skinshape/'
 ---
 <p id="introduction"> This morning, 
   
