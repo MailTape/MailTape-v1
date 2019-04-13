@@ -67,7 +67,7 @@ description: >-
 Jules: **"**I was introduced to Skinshape's music when a close friend sent me his most famous song,['I Didn't Know'](https://www.youtube.com/watch?v=CnD8g_7_-bY). I remember being left with such a feeling of calmness. Then, when I listened to his third album 'Filoxiny' released last November, this other song caught me. Although 'Life As One' starts with the same relaxed atmosphere, the end is full of melancholy**"**
 
 ## [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/) - Prodigal Dog
-Jules: **"****"**
+Jules: **"**This song is taken from 'Colt', [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/)'s debut album she spent 2017 writing and recording in an abandoned flat she was living in at the time.**"**
 
 ## [Para One](https://soundcloud.com/para-one/) - Finale (Music To And From Naissance Des Pieuvres)
 Jules: **"****"**
