@@ -64,7 +64,7 @@ description: >-
 # MailTape's selection
 
 ## [Skinshape](https://skinshape.bandcamp.com/) - Life As One
-Jules: **"**I was introduced to Skinshape's music when a close friend sent me his most famous song,['I Didn't Know'](https://www.youtube.com/watch?v=CnD8g_7_-bY). I remember being left with such a feeling of calmness. Then, when I listened to his third album 'Filoxiny' released last November, this song caught me. Although 'Life As One' starts with the same relaxed atmosphere, the end is full of melancholy**"**
+Jules: **"**I was introduced to Skinshape's music when a close friend sent me his most famous song,['I Didn't Know'](https://www.youtube.com/watch?v=CnD8g_7_-bY). I remember being left with such a feeling of calmness. Then, when I listened to his third album 'Filoxiny' released last November, this other song caught me. Although 'Life As One' starts with the same relaxed atmosphere, the end is full of melancholy**"**
 
 ## [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/) - Prodigal Dog
 Jules: **"****"**
