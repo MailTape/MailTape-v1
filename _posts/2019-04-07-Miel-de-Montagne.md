@@ -61,7 +61,7 @@ Miel de Montagne: **"**[Lethal Weapon](https://en.wikipedia.org/wiki/Lethal_Weap
 Anaïs G: **"**The synth, the guitar and the soft voice of Miel de Montagne what better to wake up with a smile. With "Ses Rêves", appearing in his first album released on April 5, he knows how to touch our sentient chord by boring us with love to no longer be in power. A beautiful moment full of poetry and tenderness.**"**
 
 ## [Serge Gainsbourg](https://fr.wikipedia.org/wiki/Serge_Gainsbourg) - Melody Nelson (Molécule Remix)
-Anaïs G: **"**A classic from Gainsbourg revisited by [Molécule (https://fr.wikipedia.org/wiki/Mol%C3%A9cule_(musicien)). The original is already magnificent but this remix is just an ode to man with cabbage head. [Molécule](https://soundcloud.com/moleculesound) has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
+Anaïs G: **"**A classic from Gainsbourg revisited by [Molécule] (https://fr.wikipedia.org/wiki/Mol%C3%A9cule_(musicien)). The original is already magnificent but this remix is just an ode to man with cabbage head. [Molécule](https://soundcloud.com/moleculesound) has sublime it with elegance and such delicacy that we cannot get tired of it.**"**
 
 ## [Ricky Hollywood](https://soundcloud.com/ricky-hollywood) -  Coule feat Toror Azor
 Anaïs G: **"**This song by [Ricky Hollywood](https://rickyhollywood.bandcamp.com/), the king of chill par excellence, is part of my special playist "Sunday in bed", so I had to place it in the episode of Miel de Montagne to further intensify the offbeat side of this artist.**"**
@@ -71,4 +71,4 @@ Anaïs G: **"**To finish this episode, nothing like a musical UFO to perfect thi
 
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Miel de Montagne](https://soundcloud.com/miel2montagne) for her Sunday selections today, and to Anthony Dujardin for this episode's cool illustration.</p>
+<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much respect to [Miel de Montagne](https://soundcloud.com/miel2montagne) for his Sunday selections today, and to Anthony Dujardin for this episode's cool illustration.</p>
