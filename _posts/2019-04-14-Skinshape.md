@@ -70,7 +70,7 @@ Jules: **"**I was introduced to Skinshape's music by a close friend who sent me 
 Jules: **"**This song is taken from 'Colt', [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/)'s debut album she spent 2017 writing and recording in an abandoned flat she was living in at the time.**"**
 
 ## [Para One](https://soundcloud.com/para-one/) - Finale (Music To And From Naissance Des Pieuvres)
-Jules: **"****"**
+Jules: **"**Jean-Baptiste de Laubier is mostly known, by his artist name Para One, as a DJ and a rap and electronic music producer. He met the film director Céline Sciamma during their studies at La Fémis and since then, Para One has scored most **"**
 
 ## Corte Real - Opium
 Jules: **"****"**
