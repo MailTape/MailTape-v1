@@ -7,7 +7,7 @@ illustrator: Camille Célestin
 writer: Jules
 category: '353'
 guest_name: Skinshape
-guest_color: vibrant
+guest_color: dreamy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/353/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/353/track2.mp3'
 track3_link: 'https://soundcloud.com/mad_hatter-886427812/the-verve-bittersweet-symphony'
@@ -20,13 +20,13 @@ track1_color: bliss
 track2_title: The Lark Ascending - Ralph Vaughan Williams (LPO violin by Sarah Chang)
 track2_color: dreamy
 track3_title: 'The Verve - Bittersweet Symphony '
-track3_color: bliss
+track3_color: vibrant
 track4_title: Skinshape - Life As One
-track4_color: vibrant
+track4_color: dreamy
 track5_title: Hilary Woods - Prodigal Dog
 track5_color: vibrant
 track6_title: Para One - Finale (Music To And From Naissance Des Pieuvres)
-track6_color: trippy
+track6_color: rough
 track7_title: Corte Real - Opium
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/353/skinshape/'
@@ -52,13 +52,13 @@ Skinshape: **"**This has always been a favourite of mine. The lyrics are amazing
 
 # MailTape's selection
 
-## Skinshape - Life As One
+## [Skinshape](https://skinshape.bandcamp.com/) - Life As One
 Jules: **"****"**
 
-## Hilary Woods - Prodigal Dog
+## [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/) - Prodigal Dog
 Jules: **"****"**
 
-## Para One - Finale (Music To And From Naissance Des Pieuvres)
+## [Para One](https://soundcloud.com/para-one/) - Finale (Music To And From Naissance Des Pieuvres)
 Jules: **"****"**
 
 ## Corte Real - Opium
