@@ -31,8 +31,8 @@ track7_title: Corte Real - Opium
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/353/skinshape/'
 guestPic: guestPic353.jpg
+fbPic: fbPic353new.png
 ---
-![fbPic353new.png]({{site.baseurl}}/img/fbPic353new.png)
 <p id="introduction"> This morning, 
   
 <br><br>
