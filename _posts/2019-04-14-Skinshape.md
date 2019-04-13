@@ -13,7 +13,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/353/track2.mp3'
 track3_link: 'https://soundcloud.com/mad_hatter-886427812/the-verve-bittersweet-symphony'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/353/track4.mp3'
 track5_link: 'https://soundcloud.com/sacredbones/hilary-woods-prodigal-dog'
-track6_link: 'https://soundcloud.com/para-one/para-one-finale-1'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/353/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/353/track7.mp3'
 track1_title: Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)
 track1_color: bliss
