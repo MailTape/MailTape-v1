@@ -20,7 +20,7 @@ track1_color: bliss
 track2_title: The Lark Ascending - Ralph Vaughan Williams (LPO violin by Sarah Chang)
 track2_color: dreamy
 track3_title: 'The Verve - Bittersweet Symphony '
-track3_color: dreamy
+track3_color: bliss
 track4_title: Skinshape - Life As One
 track4_color: vibrant
 track5_title: Hilary Woods - Prodigal Dog
