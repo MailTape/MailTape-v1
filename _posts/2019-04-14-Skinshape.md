@@ -37,7 +37,7 @@ musiColor: musiColor353.png
 <p id="introduction"> This morning, [Skinshape](https://skinshape.bandcamp.com/) is welcoming us aboard his creative ship, you'd better be ready to weigh the anchor, sailor boys! From the Horn of Africa to foggy pirate havens, from the peaceful lands of England to the abyssal depths of the oceans, let yourself be guided by our guest, through awesome storms and mysterious sea creatures, all down to faraway places. Set sail!
 <br><br>
 
-[Skinshape](https://skinshape.bandcamp.com/) is the project of London-based multi-instrumentalist and producer William Dorey. Initially, Dorey wanted to bring forward his love for old music by using samples from his 1960s-0s Funk, Soul, Reggae or Afrobeat influences to create instrumental Hip-Hop and Trip-Hop tracks. As he bought a tape-machine with his student loan and started to play around to record his own drum break samples, his sound turned out to be a kind of stoned, psychedelic folk. With all elements being recorded by Dorey since his debut album, Skinshape sounds like the perfect partner for a solo Sunday morning expedition.
+[Skinshape](https://skinshape.bandcamp.com/) is the project of London-based multi-instrumentalist and producer William Dorey. Initially, Dorey wanted to use samples, as a way to bring forward his 1960s-0s Funk, Soul, Reggae or Afrobeat influences, and create instrumental Hip-Hop and Trip-Hop tracks. As he bought a tape-machine with his student loan and started to record his own drum break samples, his sound turned out to be a kind of stoned, psychedelic folk. With all elements being recorded by Dorey since his debut album, Skinshape sounds like the perfect partner for a solo Sunday morning expedition.
 </p>
 
 
