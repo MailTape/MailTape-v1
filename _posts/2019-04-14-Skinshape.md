@@ -64,16 +64,16 @@ description: >-
 # MailTape's selection
 
 ## [Skinshape](https://skinshape.bandcamp.com/) - Life As One
-Jules: **"**I was introduced to Skinshape's music by a close friend who sent me his most famous song,['I Didn't Know'](https://www.youtube.com/watch?v=CnD8g_7_-bY). I remember being left with such a feeling of calmness. Then, when I listened to his third album 'Filoxiny' released last November, this other song caught me. Although 'Life As One' starts with the same relaxed atmosphere, the end is full of melancholy**"**
+Jules: **"**I was introduced to Skinshape's music by a close friend who sent me his most famous song,['I Didn't Know'](https://www.youtube.com/watch?v=CnD8g_7_-bY). I remember being left with such a feeling of calmness. Then, when I listened to his third album 'Filoxiny' released last November, this other song caught me. Although 'Life As One' starts with the same relaxed atmosphere, the end is full of melancholy.**"**
 
 ## [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/) - Prodigal Dog
-Jules: **"**This song is taken from 'Colt', [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/)'s debut album she spent 2017 writing and recording in an abandoned flat she was living in at the time.  Jazz drums, classical strings and sensuous synth work slowly wraps and surrounds the piano melody to design majestic spaces while the Irish singer's voice sounds like a siren's**"**
+Jules: **"**This song is taken from 'Colt', [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/)'s debut album she spent 2017 writing and recording in an abandoned flat she was living in at the time.  Jazz drums, classical strings and sensuous synth work slowly wraps and surrounds the piano melody to design majestic spaces while the Irish singer's voice sounds like a siren's.**"**
 
 ## [Para One](https://soundcloud.com/para-one/) - Finale (Music To And From Naissance Des Pieuvres)
-Jules: **"**Jean-Baptiste de Laubier is mostly known, by his artist name Para One, as a DJ and a rap and electronic music producer. He met the film director Céline Sciamma while they were both stuyding at La Fémis and since then Para One has scored most of her films. The soundtrack of _Naissance des Pieuvres (Water Lilies)_ is an aerial synthesizer melody which imbues the movie with a mysterious and singular poetry**"**
+Jules: **"**Jean-Baptiste de Laubier is mostly known, by his artist name Para One, as a DJ and a rap and electronic music producer. He met the film director Céline Sciamma while they were both stuyding at La Fémis and since then Para One has scored most of her films. The soundtrack of _Naissance des Pieuvres (Water Lilies)_ is an aerial synthesizer melody which imbues the movie with a mysterious and singular poetry.**"**
 
 ## Corte Real - Opium
-Jules: **"**I discovered this song on a music compilation from the french and francophone label [La Souterraine](https://souterraine.biz/), and immediately felt captived by this exotic and soft voice. It sounds like the pirate tales or the great adventure books our parents were reading to us, at a time when lost islands and treasure hunts were everything we needed to dream about**"**
+Jules: **"**I discovered this song on a music compilation from the french and francophone label [La Souterraine](https://souterraine.biz/), and immediately felt captived by this exotic and soft voice. It sounds like the pirate tales or the great adventure books our parents were reading to us, at a time when lost islands and treasure hunts were everything we needed to dream about.**"**
 
 
 
