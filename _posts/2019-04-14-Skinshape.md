@@ -52,13 +52,13 @@ description: >-
 
 
 ## Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)
-Skinshape: **"**This song and sound is like nothing I’ve ever heard. It has a deep synth-led hypnotic groove, overlaid with the sweet psychedelic vocals of Aamina. Who would have thought this came from 1980s Somalia? I could listen to this groove all day.**"**
+[Skinshape](https://skinshape.bandcamp.com/): **"**This song and sound is like nothing I’ve ever heard. It has a deep synth-led hypnotic groove, overlaid with the sweet psychedelic vocals of Aamina. Who would have thought this came from 1980s Somalia? I could listen to this groove all day.**"**
 
 ## The Lark Ascending - Ralph Vaughan Williams (LPO violin by Sarah Chang)
-Skinshape: **"**I think I first heard this in the car one day. My mind followed that violin into many other dimensions in the minutes that followed. There is something so quintessentially English about this piece, it’s like the sound of my land, my green hills and my childhood. An emotional listen.**"**
+[Skinshape](https://skinshape.bandcamp.com/): **"**I think I first heard this in the car one day. My mind followed that violin into many other dimensions in the minutes that followed. There is something so quintessentially English about this piece, it’s like the sound of my land, my green hills and my childhood. An emotional listen.**"**
 
 ## The Verve - Bittersweet Symphony
-Skinshape: **"**This has always been a favourite of mine. The lyrics are amazing and the 90s production is also amazing. It’s a shame that The Verve never were allowed to make any money from it after the Rolling Stones court case.**"**
+[Skinshape](https://skinshape.bandcamp.com/): **"**This has always been a favourite of mine. The lyrics are amazing and the 90s production is also amazing. It’s a shame that The Verve never were allowed to make any money from it after the Rolling Stones court case.**"**
 
 
 # MailTape's selection
