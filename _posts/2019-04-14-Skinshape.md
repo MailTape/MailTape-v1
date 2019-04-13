@@ -33,13 +33,13 @@ episode_URL: 'http://mailta.pe/353/skinshape/'
 guestPic: guestPic353.jpg
 fbPic: fbPic353new.png
 ---
-<p id="introduction"> This morning, 
-  
+<p id="introduction"> This morning, [Skinshape](https://skinshape.bandcamp.com/) is welcoming us aboard his creative ship.
 <br><br>
 </p>
 
 
-# Skinshape's selection
+# Skinshape's selection![musiColor353.png]({{site.baseurl}}/img/musiColor353.png)
+
 
 
 ## Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)
