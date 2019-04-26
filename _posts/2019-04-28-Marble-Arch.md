@@ -1,14 +1,26 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track2_link: 'https://soundcloud.com/muddymonk/si-lon-ride'
 track4_link: >-
   https://soundcloud.com/geographierecs/marble-arch-moonstruck?in=geographierecs/sets/marble-arch-children-of-the-1
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track1.mp3'
-track1_color: dreamy
-track1_title: 'Deerhunter - '
+track1_color: vibrant
+track1_title: Deerhunter - Helicopter
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track3.mp3'
+track2_title: 'Muddy Monk - Si l''on ride '
+track2_color: dreamy
+track3_title: Simply Red - Holding back the years
+track3_color: vibrant
+track4_title: 'Marble Arch - Moonstruck '
+track4_color: dreamy
+track5_title: BadBadNotGood - Time Moves Slow feat Sam Herring
+track5_color: vibrant
+track6_color: dreamy
+track6_title: Lenny Pistol - Ashamed
+track7_title: 'Bauhaus - Bela Lugosi''s Dead '
+track7_color: rough
 ---
 
 <p id="introduction">This morning 
@@ -38,7 +50,7 @@ _Marble Arch_: **"**This is my guilty pleasure, I love this song so much. My fat
 ## Marble Arch - Moonstruck 
 _Anaïs G_: **"****"**
 
-## BadBadNotGood - 
+## BadBadNotGood - Time Moves Slow feat Sam Herring
 _Anaïs G_: **"****"**
 
 ## Lenny Pistol - Ashamed
