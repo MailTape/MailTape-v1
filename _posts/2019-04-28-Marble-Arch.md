@@ -61,18 +61,18 @@ _Marble Arch_: **"**This is my guilty pleasure, I love this song so much. My fat
 
 # MailTape's selection
 
-## Marble Arch - 
+## Marble Arch - Moonstruck 
 _Anaïs G_: **"****"**
 
-## 
+## BadBadNotGood - 
 _Anaïs G_: **"****"**
 
-## 
+## Lenny Pistol - Ashamed
 _Anaïs G_: **"****"**
 
-## 
+## Bauhaus - Bela Lugosi's Dead 
 _Anaïs G_: **"****"**
 
-Moon Duo ? BadbadNotGood ? Lenny Pistol ? Yasmin Lacey ? 
+
 
 <p id="outroduction"></p>
