@@ -6,7 +6,7 @@ track2_link: 'https://soundcloud.com/muddymonk/si-lon-ride'
 track4_link: >-
   https://soundcloud.com/geographierecs/marble-arch-moonstruck?in=geographierecs/sets/marble-arch-children-of-the-1
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track1.mp3'
-track1_color: vibrant
+track1_color: bliss
 track1_title: Deerhunter - Helicopter
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track3.mp3'
 track2_title: 'Muddy Monk - Si l''on ride '
@@ -20,7 +20,7 @@ track5_color: vibrant
 track6_color: dreamy
 track6_title: Lenny Pistol - Ashamed
 track7_title: 'Bauhaus - Bela Lugosi''s Dead '
-track7_color: rough
+track7_color: trippy
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
@@ -30,6 +30,7 @@ guest_color: dreamy
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
+episode_URL: 'http://mailta.pe/356/marble-arch'
 ---
 
 <p id="introduction">This morning 
