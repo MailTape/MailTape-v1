@@ -36,12 +36,11 @@ musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg
 description: >-
   This morning, we are giving way to a wave of ambient melancholy, soft and
-  light. As time playing on roller coasters and this famous saying "in April you
-  will not be discovered with a thread", Marble Arch’s pop accompanies us this
-  morning in this musical fog with multiple facets.
+  light. As time playing on roller coasters , Marble Arch’s pop accompanies us
+  this morning in this musical fog with many facets.
 ---
 
-<p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters and this famous saying "in April you will not be discovered with a thread", Marble Arch’s pop accompanies us this morning in this musical fog with multiple facets.
+<p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters , Marble Arch’s pop accompanies us this morning in this musical fog with many facets.
 <br><br>
 Marble Arch is a white marble monument of Carrara near Speakers' Corner to the northeast of Hyde Park, at the west end of Oxford Street in London, UK. But it is also and especially a young group of French shoegaze. Their second album "Children of the Slump" was released on March 22 on Geography Records/ Echo Orange. 
 </p>
