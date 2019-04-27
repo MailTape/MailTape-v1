@@ -21,6 +21,15 @@ track6_color: dreamy
 track6_title: Lenny Pistol - Ashamed
 track7_title: 'Bauhaus - Bela Lugosi''s Dead '
 track7_color: rough
+author: Anaïs G
+illustrator: Camille Célestin
+writer: Anaïs G
+category: '356'
+guest_name: 'Marble Arch '
+guest_color: dreamy
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
 ---
 
 <p id="introduction">This morning 
