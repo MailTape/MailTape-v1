@@ -33,13 +33,11 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
 episode_URL: 'http://mailta.pe/356/marble-arch'
 ---
 
-<p id="introduction">This morning 
+<p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters and this famous saying "in April you will not be discovered with a thread", Marble Arch’s pop accompanies us this morning in this musical fog with multiple facets.
   
 <br><br>
   
 </p>
-
-
 
 # Marble Arch's selection
 
@@ -61,13 +59,13 @@ _Marble Arch_: **"**This is my guilty pleasure, I love this song so much. My fat
 _Anaïs G_: **"****"**
 
 ## BadBadNotGood - Time Moves Slow feat Sam Herring
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**As we repeat Sam Herring’s crooner voice, "time moves slow"... This sums up my state of mind this Sunday morning. A mix of jazz, hip-hop and soul, only Badbadnotgood can do it. And even 4 years after its release, this song did not take a wrinkle and is one of the classics to have in its player.**"**
 
 ## Lenny Pistol - Ashamed
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**Little new signed by Luik Records, his off-beat and gliding side makes him an indispensable element in this playist."Pistil Boy" is the name of his first album released last February where figure "Ashamed". We say thank you Belgium! **"**
 
 ## Bauhaus - Bela Lugosi's Dead 
-_Anaïs G_: **"****"**
+_Anaïs G_: **"**A special atmosphere that creates a special ending. 9 min of rock from the 80’s, of tension palpable felt by the guitar chords. Something heavy but hovering at the end. **"**
 
 
 
