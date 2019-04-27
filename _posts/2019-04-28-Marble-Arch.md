@@ -31,7 +31,7 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
 episode_URL: 'http://mailta.pe/355/marble-arch'
-fbPic: fbPic355.jpg
+fbPic: fbPic355.png
 musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg
 description: >-
