@@ -32,8 +32,13 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
 episode_URL: 'http://mailta.pe/355/marble-arch'
 fbPic: fbPic355.jpg
-musiColor: musiColor355;jpg
+musiColor: musiColor355.jpg
 guestPic: guestPic355.jpg
+description: >-
+  This morning, we are giving way to a wave of ambient melancholy, soft and
+  light. As time playing on roller coasters and this famous saying "in April you
+  will not be discovered with a thread", Marble Arch’s pop accompanies us this
+  morning in this musical fog with multiple facets.
 ---
 
 <p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters and this famous saying "in April you will not be discovered with a thread", Marble Arch’s pop accompanies us this morning in this musical fog with multiple facets.
