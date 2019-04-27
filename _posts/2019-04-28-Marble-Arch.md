@@ -62,7 +62,7 @@ _Marble Arch_: **"**This is my guilty pleasure, I love this song so much. My fat
 # MailTape's selection
 
 ## Marble Arch - Moonstruck 
-_Anaïs G_: **"**At Marble Arch, I love everything! Its vaporous universe, its freshness, their labels where they are signed. I can only advise you even more when I listen to "Moonstruck" which is my favorite of his latest album. A musical flight to infinity! **"**
+_Anaïs G_: **"**At Marble Arch, I love everything! Its vaporous universe, its freshness, their labels where they are signed. I can only tell you even more when I listen to "Moonstruck" which is my favorite of his latest album. A musical flight to infinity! **"**
 
 ## BadBadNotGood - Time Moves Slow feat Sam Herring
 _Anaïs G_: **"**As we repeat Sam Herring’s crooner voice, "Time Moves Slow"... This sums up my state of mind this Sunday morning. A mix of jazz, hip-hop and soul, only Badbadnotgood can do it. And even 4 years after its release, this song did not take a wrinkle and is one of the classics to have in its player.**"**
