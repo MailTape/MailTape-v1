@@ -42,7 +42,7 @@ description: >-
 
 <p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters , [Marble Arch’s](https://marblearch.bandcamp.com/) pop accompanies us this morning in this musical fog with many facets.
 <br><br>
-[Marble Arch](https://soundcloud.com/marblearchband) is a white marble monument of Carrara near Speakers' Corner to the northeast of Hyde Park, at the west end of Oxford Street in London, UK. But it is also and especially a young group of French shoegaze. Their second album ["Children of the Slump"](https://soundcloud.com/geographierecs/sets/marble-arch-children-of-the-1) was released on March 22 on [Geography Records](https://soundcloud.com/geographierecs)/[Echo Orange](https://soundcloud.com/echoorangerecords). 
+[Marble Arch](https://fr.wikipedia.org/wiki/Marble_Arch) is a white marble monument of Carrara near Speakers' Corner to the northeast of Hyde Park, at the west end of Oxford Street in London, UK. But it is also and especially a young group of French shoegaze. Their second album ["Children of the Slump"](https://soundcloud.com/geographierecs/sets/marble-arch-children-of-the-1) was released on March 22 on [Geography Records](https://soundcloud.com/geographierecs)/[Echo Orange](https://soundcloud.com/echoorangerecords). 
 </p>
 
 # Marble Arch's selection
@@ -62,7 +62,7 @@ _Marble Arch_: **"**This is my guilty pleasure, I love this song so much. My fat
 # MailTape's selection
 
 ## [Marble Arch](https://www.facebook.com/marblearchmusic/) - Moonstruck 
-_Anaïs G_: **"**At Marble Arch, I love everything! Its vaporous universe, its freshness, their labels where they are signed. I can only tell you even more when I listen to "Moonstruck" which is my favorite of his latest album. A musical flight to infinity! **"**
+_Anaïs G_: **"**At [Marble Arch](https://soundcloud.com/marblearchband), I love everything! Its vaporous universe, its freshness, their labels where they are signed. I can only tell you even more when I listen to "Moonstruck" which is my favorite of his latest album. A musical flight to infinity! **"**
 
 ## [BadBadNotGood](http://badbadnotgood.com/) - Time Moves Slow feat Sam Herring
 _Anaïs G_: **"**As we repeat [Sam Herring’s](https://fr.wikipedia.org/wiki/Samuel_T._Herring) crooner voice, "Time Moves Slow"... This sums up my state of mind this Sunday morning. A mix of jazz, hip-hop and soul, only Badbadnotgood can do it. And even 4 years after its release, this song did not take a wrinkle and is one of the classics to have in its player.**"**
