@@ -24,13 +24,16 @@ track7_color: trippy
 author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
-category: '356'
+category: '355'
 guest_name: 'Marble Arch '
 guest_color: dreamy
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/356/Track7.mp3'
-episode_URL: 'http://mailta.pe/356/marble-arch'
+episode_URL: 'http://mailta.pe/355/marble-arch'
+fbPic: fbPic355.jpg
+musiColor: musiColor355;jpg
+guestPic: guestPic355.jpg
 ---
 
 <p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters and this famous saying "in April you will not be discovered with a thread", Marble Arch’s pop accompanies us this morning in this musical fog with multiple facets.
