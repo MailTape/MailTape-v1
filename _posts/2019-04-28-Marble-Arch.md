@@ -39,7 +39,7 @@ description: >-
   light. As time playing on roller coasters , Marble Arch’s pop accompanies us
   this morning in this musical fog with many facets.
 ---
-![guestPic355.jpg]({{site.baseurl}}/img/guestPic355.jpg)
+
 
 <p id="introduction"> This morning, we are giving way to a wave of ambient melancholy, soft and light. As time playing on roller coasters , [Marble Arch’s](https://marblearch.bandcamp.com/) pop accompanies us this morning in this musical fog with many facets.
 <br><br>
