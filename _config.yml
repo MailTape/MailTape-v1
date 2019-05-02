@@ -413,5 +413,5 @@ prose:
           placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
           type: "text"
 
-plugins:
+gems:
   - jekyll-feed
