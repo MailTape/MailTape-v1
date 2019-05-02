@@ -1,4 +1,6 @@
 name: MailTape
+description: We release a playlist co-curated with a surprise guest each Sunday morning. 💎
+author: MailTape Crew
 markdown: kramdown
 pygments: false
 highlighter: rouge
@@ -413,5 +415,8 @@ prose:
           placeholder: "This morning, welcome on Dream Airlines. Our captain, Valentin Stip, will take us off to glowing masses of condensed sound vapor floating in the sky."
           type: "text"
 
+# add rss feed
 gems:
   - jekyll-feed
+url: https://mailta.pe
+repository: MailTape/MailTape.github.io
