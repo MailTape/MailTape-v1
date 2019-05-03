@@ -30,7 +30,7 @@ track6_color: vibrant
 track7_title: "Ambassadeurs - Willows Lullaby"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/212/Stand-Wise/"
-fbPic: fbPic212.jpg
+image: fbPic212.jpg
 musiColor: musiColor212.png
 description: "This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing Stand Wise, an intriguing duo from Paris and their selection of fine tunes."
 published: true

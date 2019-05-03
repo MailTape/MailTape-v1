@@ -31,7 +31,7 @@ track7_title: Corte Real - Opium
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/353/skinshape/'
 guestPic: guestPic353.jpg
-fbPic: fbPic353new.png
+image: fbPic353new.png
 musiColor: musiColor353.png
 description: >-
   This morning, Skinshape is welcoming us aboard his creative ship, you'd better

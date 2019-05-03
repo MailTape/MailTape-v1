@@ -30,7 +30,7 @@ episode_URL: 'http://mailta.pe/261/Nate-Wooley/'
 guest_name: Nate Wooley
 guestPic: guestPic261.jpg
 illustrator: William Girault
-fbPic: fbPic261.jpg
+image: fbPic261.jpg
 musiColor: musiColor261.png
 description: >-
   We are super happy to welcome experimental trumpeter, Nate Wooley, in this

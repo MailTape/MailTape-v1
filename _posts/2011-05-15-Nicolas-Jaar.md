@@ -30,7 +30,7 @@ track6_color: dreamy
 track7_title: "Danger Mouse & Daniele Lupi - Two Against One (feat. Jack White)"
 track7_color: bliss
 episode_URL: "http://mailta.pe/3/Nicolas-Jaar/"
-fbPic: fbPic3.png
+image: fbPic3.png
 musiColor: musiColor3.png
 description: "This morning, Nicolas Jaar is inviting you to embark on a psychedelic journey with “The Electric Prunes”. In reality, we are still dreaming, and this is only the start of our journey..."
 published: true

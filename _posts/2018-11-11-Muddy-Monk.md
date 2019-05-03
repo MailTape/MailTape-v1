@@ -32,7 +32,7 @@ track7_title: Kokoroko - Abusey Junction
 track1_title: De Barjorak - Holy Dirty Intimacy
 guestPic: guestPic331.jpg
 description: 'This morning, we are delighted to welcome Muddy Monk to Mailtape.'
-fbPic: fbPic331.png
+image: fbPic331.png
 musiColor: musiColor331.png
 ---
 <p id="introduction">This morning we are delighted to welcome [Muddy Monk](https://www.facebook.com/muddymonk/) to MailTape.

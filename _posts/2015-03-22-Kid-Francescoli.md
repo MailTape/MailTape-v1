@@ -30,7 +30,7 @@ category: "178"
 guest_name: Kid Francescoli
 guestPic: guestPic178.jpg
 episode_URL: "http://mailta.pe/178/Kid-Francescoli/"
-fbPic: fbPic178.jpg
+image: fbPic178.jpg
 musiColor: musiColor178.png
 description: "This morning, our playlist curated with Kid Francescoli is like a perennial river as it is meant to flow round the clock. The first track serves as a point of origin. And subsequently, the second track is where the river determines its course. There comes a point where it slows down and rests as Chet Baker’s “Almost Blow” tunes in. But then, gradually gravitates towards its primal state—which is where “Blow up” by Francescoli, unfurls its mystery. And keeps the playlist flowing until it immerses in the ocean."
 ---

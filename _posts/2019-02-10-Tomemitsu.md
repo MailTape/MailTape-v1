@@ -31,7 +31,7 @@ track1_title: Sam Cooke and The Soul Stirrers - Christ it All
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%201.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%205.mp3'
 guestPic: guestPic344.jpg
-fbPic: fbPic344.png
+image: fbPic344.png
 description: >-
   This morning, like a divine light coming from nowhere, caressing our bodies,
   music moves us, borders us with our fingertips and astonishes us.

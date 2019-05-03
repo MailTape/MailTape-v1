@@ -35,7 +35,7 @@ description: >-
   This morning we are delighted to welcome multi-instrumentalist composer and
   historian of electronic music and sound, Dr. Tara Rodgers (Analog Tara)
 musiColor: musiColor340.png
-fbPic: fbPic340.jpg
+image: fbPic340.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>

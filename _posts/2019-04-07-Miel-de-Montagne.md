@@ -33,7 +33,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
-fbPic: fbPic352.png
+image: fbPic352.png
 musiColor: musiColor352.png
 ---
 <p id="introduction"> This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.

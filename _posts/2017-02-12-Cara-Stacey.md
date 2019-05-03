@@ -31,7 +31,7 @@ track7_title: Nérija - The Fisherman
 track7_color: vibrant
 episode_URL: 'https://mailta.pe/247/Cara-Stacey/'
 guestPic: guestPic247.jpg
-fbPic: fbPic247.jpg
+image: fbPic247.jpg
 musiColor: musiColor247.png
 description: >-
   This morning, let your curiosity about the world and all its corners run wild,

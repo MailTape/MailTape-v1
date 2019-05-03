@@ -28,7 +28,7 @@ track7_title: Les Yeux Oranges - Coco
 track7_color: dreamy
 track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: 'https://mailta.pe/237/Gramophiles/'
-fbPic: fbPic237.jpg
+image: fbPic237.jpg
 musiColor: muciColor237.png
 track6_link: 'https://soundcloud.com/almanegramusic/a1-alma-negra-burkina-berlin'
 track6_title: Alma Negra - Burkina Berlin

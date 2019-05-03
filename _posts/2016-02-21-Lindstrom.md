@@ -30,7 +30,7 @@ track6_color: trippy
 track7_title: "Social Lovers - Can't Let It Go"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/205/Lindstrom/"
-fbPic: fbPic205.jpg
+image: fbPic205.jpg
 musiColor: musiColor205.png
 description: ""
 published: true

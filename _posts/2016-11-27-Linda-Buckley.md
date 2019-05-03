@@ -31,7 +31,7 @@ track7_title: 'Allison Cameron - 3rds, 4ths & 5ths'
 track7_color: bliss
 episode_URL: 'https://mailta.pe/236/Linda-Buckley/'
 guestPic: guestPic236.jpg
-fbPic: fbPic236.jpg
+image: fbPic236.jpg
 musiColor: musiColor236.png
 description: >-
   This morning, let yourself be cocooned in the beautiful strands of sound woven

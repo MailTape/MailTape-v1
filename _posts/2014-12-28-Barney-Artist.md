@@ -30,7 +30,7 @@ track6_title: "Curtis Harding - Keep On Shining"
 track5_title: "Miguel - How Many Drinks? (Remix) ft. Kendrick Lamar"
 track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 guestPic: guestPic166.jpg
-fbPic: fbPic166.jpg
+image: fbPic166.jpg
 musiColor: musiColor166.png
 description: "This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving."
 ---

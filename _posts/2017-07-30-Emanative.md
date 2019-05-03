@@ -30,7 +30,7 @@ track7_title: Burnt Sugar Arkestra - If There's A Hell Below
 track7_color: trippy
 episode_URL: 'http://mailta.pe/271/emanative/'
 guestPic: guestPic271.jpg
-fbPic: fbPic271.jpg
+image: fbPic271.jpg
 musiColor: musiColor271.png
 track7_link: 'https://soundcloud.com/burnt-sugar-arkestra/if-theres-a-hell-below'
 description: >-

@@ -31,7 +31,7 @@ track7_title: Moses Boyd Exodus – Nocturne
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/284/cassie-kinoshi/'
 guestPic: guestPic284.jpg
-fbPic: fbPic284.jpg
+image: fbPic284.jpg
 description: >-
   This morning’s guest, Cassie Kinoshi, is known primarily for her work with
   jazz septet Nérija, Afrobeat band Kokoroko and her own large ensemble, SEED.

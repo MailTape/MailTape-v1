@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/311/collocutor/'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/311/track7.mp3'
 guestPic: guestPic311.jpg
 musiColor: musiColor311.png
-fbPic: fbPic311.jpg
+image: fbPic311.jpg
 description: >-
   This morning we welcome saxophonist and flautist, Tamar Osborn, who leads the
   seven-piece horn-led collective, Collocutor, in the vanguard of London’s

@@ -40,7 +40,7 @@ description: >-
   mathematics.
 guestPic: GuestPic316ok.jpg
 musiColor: musiColor316.png
-fbPic: fbPic316.png
+image: fbPic316.png
 ---
 <p id="introduction">This morning, we are delighted to welcome [Operator Music Band](https://operatormusicband.bandcamp.com/), an art-pop quartet from New York.</p>
 <p>Their music sounds like a tesseract, a nicely intriguing and quite complex geometric figure from the fourth dimension that can be very surrealistic at first sight. But then, among other things, you will perceive a deep love for analogue synths, an interesting sense of humor, a vocal and instrumental surgical precision, no matter if you suck at mathematics.</p>

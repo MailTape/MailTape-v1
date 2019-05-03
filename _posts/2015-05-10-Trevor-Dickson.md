@@ -30,7 +30,7 @@ track6_title: "Vendredi - Adonis"
 track7_title: "Ibo Combo - Mateau"
 episode_URL: "http://mailta.pe/185/Trevor-Dickson/"
 guestPic: guestPic185.jpg
-fbPic: fbPic185.jpg
+image: fbPic185.jpg
 musiColor: musiColor185.png
 description: "This morning, enjoy the musical universe of a charming modern crooner. All this exotics percussions mixed with his crooner voice, sound to me as a fresh summer cocktail."
 ---

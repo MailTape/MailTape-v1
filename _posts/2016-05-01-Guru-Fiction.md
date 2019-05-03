@@ -30,7 +30,7 @@ track6_color: dreamy
 track7_title: "Octave Lissner - Silver Rain"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction/"
-fbPic: fbPic215.jpg
+image: fbPic215.jpg
 musiColor: musiColor215.png
 description: "This morning, I am not quite sure how to say it, but even if the sun's not yet on your side of the world or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!!"
 published: true

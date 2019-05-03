@@ -19,7 +19,7 @@ track1_link: "https://mailtapesounds.s3.amazonaws.com/158/track1.mp3"
 track2_link: "https://soundcloud.com/modernlove/violence"
 track3_link: "https://mailtapesounds.s3.amazonaws.com/158/track3.mp3"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
-fbPic: fbPic158.jpg
+image: fbPic158.jpg
 musiColor: musiColor158.png
 track1_title: "iamamiwhoami - Thin"
 track2_title: "Andy Stott - Violence"

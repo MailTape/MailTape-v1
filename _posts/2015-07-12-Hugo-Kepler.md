@@ -28,7 +28,7 @@ track4_title: "Hugo Kepler - Senza mon Amour"
 track5_title: "Samay - In and Out"
 track6_title: "Maribou State - Midas (feat. Holly Walker)"
 track7_title: "Tilman - Eruption (Klamauk)"
-fbPic: fbPic194.jpg
+image: fbPic194.jpg
 musiColor: musiColor194.png
 episode_URL: "http://mailta.pe/194/Hugo-Kepler/"
 description: "This morning, be prepared for a shower of heart throbbing words and melodies that will pull your soul away from any puddles of sorrow. Hugo Kepler chooses simplicity, transporting you to a land of sunset and white musk. But the sun is universal and we will be touched with heat rays of lyrical ambivalence, tempting you to light smiles of genuine contentment, guaranteed to feed empty desires.  "

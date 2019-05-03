@@ -36,7 +36,7 @@ description: >-
   we got you covered. This kaleidoscopic selection inspired by She-Devils our
   punk friends from Argentina, will shake you up, surprise you and make you
   dance. As they say: “put your trust on me, I won’t let you fall”.
-fbPic: fbPic270.png
+image: fbPic270.png
 episode_URL: 'https://www.mailta.pe/270/she-devils/'
 musiColor: musiColor270.png
 ---

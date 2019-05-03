@@ -30,7 +30,7 @@ track7_title: "Francis Bebay - Sanza Tristesse"
 category: "159"
 episode_URL: "http://mailta.pe/159/Mammal-Hands/"
 guestPic: guestPic159.jpg
-fbPic: fbPic159.jpg
+image: fbPic159.jpg
 musiColor: musiColor159.png
 description: "This Morning, we will communicate with something truly inspirational; a band whose music can be best described as novelty; a trio who are known for their distinctive compositions, and sounds that elicit feelings of melancholy with a touch of subtlety in it. We bring you a relaxed morning with an advocate of the avant-garde and our band of the week Mammal Hands."
 ---

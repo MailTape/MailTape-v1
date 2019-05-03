@@ -30,7 +30,7 @@ track7_title: "JeF ZeRo - Arcade Funke"
 guestPic: guestPic196.jpg
 description: "This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome Superpoze and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filed with surprises"
 musiColor: musiColor196.png
-fbPic: fbPic196.jpg
+image: fbPic196.jpg
 episode_URL: "http://mailta.pe/196/Superpoze/"
 ---
 

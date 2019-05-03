@@ -32,7 +32,7 @@ track6_color: dreamy
 track7_title: Flamingosis - Believe in Me
 track7_color: vibrant
 musiColor: musiColor221.png
-fbPic: fbPic221.jpg
+image: fbPic221.jpg
 description: 'This morning, I introduce you to Maud Octallinn, a french psych-pop singer.'
 ---
 <p id="introduction"> This morning, I introduce you to [Maud Octallinn](https://maudoctallinn.bandcamp.com/), a french psych-pop singer. Her first album is a compilation of failed love songs. But it’s easy to fall in love with each song. Her beautiful impish voice is perfect to sing on her surrealistic lyrics full of metaphors. </p>
