@@ -16,7 +16,7 @@ category: "162"
 guest_name: Fellini Félin
 guestPic: guestPic162.jpg
 episode_URL: "http://mailta.pe/162/Fellini-Felin/"
-fbPic: fbPic162.jpg
+image: https://mailta.pe/img/fbPic162.jpg
 musiColor: musiColor162.png
 track1_title: "Soft Rocks - Talking Jungle (Justin Vandervolgen Remix)"
 track2_title: "Adam Kesher - Local Girl (The Shoes Remix)"

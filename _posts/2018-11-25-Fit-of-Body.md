@@ -35,7 +35,7 @@ musiColor: musiColor333.png
 description: >-
   This morning we are delighted to welcome Atlanta-based music producer Fit of
   Body to MailTape.
-fbPic: fbPic333new.jpg
+image: https://mailta.pe/img/fbPic333new.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Atlanta-based music producer [Fit of Body](https://fitofbody.bandcamp.com/) to MailTape.
 <br><br>

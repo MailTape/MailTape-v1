@@ -32,7 +32,7 @@ track2_link: >-
   https://mailtapesounds.s3.amazonaws.com/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/337/requiem-op-48-ii-kyrie.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/337/jaco-pastorius-part-10.mp3'
-fbPic: fbPic337.jpg
+image: https://mailta.pe/img/fbPic337.jpg
 episode_URL: 'http://mailta.pe/337/Bachar-Mar-Khalife'
 musiColor: musiColor337.jpg
 description: >-

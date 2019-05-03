@@ -40,7 +40,7 @@ description: >-
   their very own sound, multiple, indefinable yet always groovy. Enjoy the trip
   folks !
 guestPic: guestPic265.jpg
-fbPic: fbPic265.jpg
+image: https://mailta.pe/img/fbPic265.jpg
 ---
 <p id="introduction">This morning, wake up with our very special guests, the pioneers of French Touch 2.0. [Roche Musique](https://www.facebook.com/rochemusique/) label was created exactly 5 years ago by Jean Janin a.k.a Cézaire who surrounded himself with the cream of the French DJs such as [FKJ](https://soundcloud.com/fkj-2), [Dabeull](http://soundcloud.com/dabeull), [Kartell](https://soundcloud.com/kartell), [Zimmer](https://soundcloud.com/zimmermusic), [Darius](https://soundcloud.com/dariusofficial), [Crayon](https://soundcloud.com/crayonoff) and many more amazing discoveries. Together they set in motion the renewal of electronic music with their very own sound, multiple, indefinable yet always groovy. Enjoy the trip folks !</p>
 

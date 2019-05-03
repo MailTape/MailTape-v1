@@ -34,7 +34,7 @@ description: >-
   This morning, we are delighted to welcome Normil Hawaiians. Operating more
   like a collective than a band, the Normil Hawaiians formed in the austere
   post-punk permafrost of 1980s UK.
-fbPic: fbPic266.jpg
+image: https://mailta.pe/img/fbPic266.jpg
 musiColor: musiColor266.png
 ---
 <p id="introduction">This morning, we are delighted to welcome [Normil Hawaiians](http://normilhawaiians.com/). Operating more like a collective than a band, the Normil Hawaiians formed in the austere post-punk permafrost of 1980s UK.</p>

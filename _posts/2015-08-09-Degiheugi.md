@@ -30,7 +30,7 @@ track7_title: " Fils Unique - My Girl(s)"
 guestPic: guestPic198.jpg
 description: "This morning, get ready for a journey through a legendary wild forest known for its hidden gems. Let’s start our exploration with Degiheugi, master in the art of finding the best samples.   Keep your eyes opened, let the music flow feed your imagination and soon you’ll be able to see them. Shining from a little corner under a magic tree, these beats develop their full potential as your heart connects to their mystic waves. "
 musiColor: musiColor198.png
-fbPic: fbPic198.jpg
+image: https://mailta.pe/img/fbPic198.jpg
 episode_URL: "http://mailta.pe/198/Degiheugi/"
 ---
 

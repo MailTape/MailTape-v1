@@ -29,7 +29,7 @@ track7_title: Stefan Christoff & David Parker - Beyond Injustice
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/258/Alexander-Hawkins/'
 guestPic: guestPic258.jpg
-fbPic: fbPic258.jpg
+image: https://mailta.pe/img/fbPic258.jpg
 musiColor: musiColor258.png
 illustrator: Camille Célestin
 description: >-

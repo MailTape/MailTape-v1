@@ -35,7 +35,7 @@ description: >-
 episode_URL: 'http://mailta.pe/335/enchantee-julia/'
 guestPic: guestPic335new.jpg
 musiColor: musiColor335.png
-fbPic: fbPic335.jpg
+image: https://mailta.pe/img/fbPic335.jpg
 illustrator: William Girault
 ---
 

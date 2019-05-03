@@ -22,7 +22,7 @@ track5_color: dreamy
 track6_color: dreamy
 track7_color: vibrant
 episode_URL: 'https://mailta.pe/238/Melanie-Pain/'
-fbPic: FBPic238.jpg
+image: https://mailta.pe/img/FBPic238.jpg
 musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
 track2_link: 'https://soundcloud.com/ilkeulusarac/thunder-road-tortoise-and'

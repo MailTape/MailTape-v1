@@ -393,12 +393,12 @@ prose:
           help: "Warning : be careful with caps and don't forget '/' at end!"
           placeholder: "http://mailta.pe/129/Valentin-Stip/"
           type: "text"
-      - name: "fbPic"
+      - name: "image"
         field:
           element: "text"
           label: "fbPic file"
-          help: "Once you have uploaded the fbPic, write here name of the image. Convention : fbPic131.png"
-          placeholder: "fbPic131.jpg"
+          help: "(NEW!) Once fbPic uploaded, write here its FULL PATH. Convention : https://mailta.pe/img/fbPic131.png"
+          placeholder: "https://mailta.pe/img/fbPic131.png"
           type: "text"
       - name: "musiColor"
         field:

@@ -34,7 +34,7 @@ description: >-
   This morning, our guest Juliette Armanet accompanies us on a journey of heart
   felt tempos and spiced sentiments.
 track6_title: Surfing - Hit The Spot
-fbPic: fbPic252.JPG
+image: https://mailta.pe/img/fbPic252.JPG
 musiColor: musicColor252.jpg
 ---
 <p id="introduction">This morning, our guest [Juliette Armanet](https://www.facebook.com/JulietteArmanet/) accompanies us on a journey of heart felt tempos and spiced sentiments. "Douceur", if there is one word any non -native French speaker needs to know, it truly is that one. Douceur is the DNA of Juliette Armanet’s voice, like an opium injection distributed at the entrance of a feathered festival hosted by a unicorn floating on a cloud.

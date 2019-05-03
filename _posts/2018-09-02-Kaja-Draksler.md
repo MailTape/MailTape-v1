@@ -36,7 +36,7 @@ description: >-
   Sunday morning selection of chorales and solo piano.
 guestPic: guestPic321.jpg
 musiColor: musiColor321.png
-fbPic: fbPic321.jpg
+image: https://mailta.pe/img/fbPic321.jpg
 ---
 <p id="introduction">Welcome back to a new season of MailTape. In our first episode since July we welcome one of my favourite pianist-composers, [Kaja Draksler](http://kajadraksler.com/), who replenishes us with a dreamy Sunday morning selection of chorales and solo piano.</p>
 <p>Kaja has a large sonic vision of her instrument. She creates balladic quasi-stride with harmonically rich modern overtones. She drums on the piano in ways drummers would feel at home listening to. And she has a feel for intervallic relations, harmonic and melodic patterning that put her in a special category of improvisers.</p>

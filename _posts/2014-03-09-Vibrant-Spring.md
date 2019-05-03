@@ -32,7 +32,7 @@ track7_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/131/track7.mp3"
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png
-fbPic: fbPic131.png
+image: https://mailta.pe/img/fbPic131.png
 ---
 
 <p id="introduction">

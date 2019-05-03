@@ -29,7 +29,7 @@ track5_title: "Moses Sumney - Mumblin'"
 track6_title: "BADBADNOTGOOD - Boogie No. 69"
 track7_title: "Melanie De Biasio - I'm Gonna Leave You"
 guestPic: guestPic199.jpg
-fbPic: fbPic199.png
+image: https://mailta.pe/img/fbPic199.png
 musiColor: musiColor199.png
 description: "This Sunday, we bring you a breath of fresh air with a young and rejuvenating artist from India. Nathan Menon is a vibrant and budding artist who goes by the name of Monsoonsiren. His minimalist vocals are both spacey and captivating, combining a style of easy-going percussions flowing slowly through your veins."
 ---
