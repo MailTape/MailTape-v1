@@ -31,7 +31,7 @@ track7_title: Lhasa De Sela – Rising
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/282/amira-kheir/'
 guestPic: guestPic282.jpg
-image: fbPic282.jpg
+fbPic: fbPic282.jpg
 description: >-
   Described by Songlines magazine as ‘bold and poetic… beautiful and fearless’,
   we are delighted to share vocalist Amira Kheir’s Sunday morning listening for

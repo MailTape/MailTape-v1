@@ -31,7 +31,7 @@ track2_color: vibrant
 track5_color: trippy
 episode_URL: 'http://mailta.pe/303/Calypso-Valois/'
 guestPic: guestpic303.jpg
-image: fbpic303.png
+fbPic: fbpic303.png
 musiColor: musiColor303.png
 description: >-
   This morning in our new episode, we enter into the world of movies.  And to

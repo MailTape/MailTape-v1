@@ -31,7 +31,7 @@ track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/351/guillaume-teyssier/'
 guest_color: bliss
 guestPic: guestPic351.jpg
-image: fbPic351.png
+fbPic: fbPic351.png
 musiColor: musiColor351.png
 description: >-
   This morning we welcome Guillaume Teyssier, who accepted our invitation to

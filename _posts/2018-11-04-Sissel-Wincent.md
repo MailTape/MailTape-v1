@@ -36,7 +36,7 @@ description: >-
   Sissel Wincent, to MailTape.
 musiColor: musiColor330.png
 guestPic: guestPic330.jpg
-image: fbPic330.jpg
+fbPic: fbPic330.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>

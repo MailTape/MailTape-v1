@@ -34,7 +34,7 @@ guestPic: guestPic317.jpg
 description: >-
   Today we are delighted to welcome kora player Jally Kebba Susso as he picks a
   soothing suite of Sunday morning jams for MailTape.
-image: fbPic317.jpg
+fbPic: fbPic317.jpg
 musiColor: musiColor317.png
 ---
 <p id="introduction">Today we are delighted to welcome kora player [Jally Kebba Susso](http://jallykebbasusso.com/) as he picks a soothing suite of Sunday morning jams for MailTape.</p>

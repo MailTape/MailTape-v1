@@ -29,7 +29,7 @@ track5_title: "Brigitte Bardot - La Madrague (Anna Paul rework)"
 track6_title: "Marvin Gaye - What's Goin On (Paulie's Potown Reflip)"
 track7_title: "Simba - Jaywalking (Redsoul remix)"
 guestPic: guestPic135.jpg
-image: fbPic135.jpg
+fbPic: fbPic135.jpg
 episode_URL: "http://mailta.pe/135/Blitz-The-Ambassador/"
 description: "This morning, wake up with a soulful selection inspired by monsieur Blitz The Ambassador. Starting with a classic sampled all over the hip-hop universe and finishing with some rough deep jazz, each track reveals a new surprise. Some may say we’re going into circle, to them we say it’s a spiral and this episode is to remind them we’ll keep digging the best to wake you up every sunday with a big smile on your face."
 musiColor: musiColor135.png

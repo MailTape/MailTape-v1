@@ -11,7 +11,7 @@ track2_title: Edyth - Agua Verde
 track4_link: 'https://soundcloud.com/monomotionmusic/blue-hell-island'
 track4_title: Monomotion - Blue Hell Island
 episode_URL: 'https://mailta.pe/228/Monomotion/'
-image: fbPic228.jpg
+fbPic: fbPic228.jpg
 musiColor: musiColor228.png
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/228/track1.mp3'
 track1_title: Stormzy - Shut Up

@@ -31,7 +31,7 @@ track7_color: dreamy
 writer: ImaCrea
 guestPic: guestPic257.jpg
 episode_URL: 'https://mailta.pe/257/nathan-fake/'
-image: fbPic257.png
+fbPic: fbPic257.png
 musiColor: musiColor257.png
 description: >-
   This morning let's welcome Nathan Fake. He just released a new album with our

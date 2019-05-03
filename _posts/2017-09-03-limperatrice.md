@@ -28,7 +28,7 @@ track6_color: dreamy
 track7_title: Steve Monite - Only You (Frankie Francis Disco Jam edit)
 track7_color: vibrant
 episode_URL: 'http://mailta.pe/276/limperatrice/'
-image: fbPic276.jpg
+fbPic: fbPic276.jpg
 musiColor: musiColor276.png
 description: >-
   This morning, the glitter balls are spinning a little slower and our limbs

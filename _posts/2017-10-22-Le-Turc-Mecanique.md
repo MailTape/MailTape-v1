@@ -31,7 +31,7 @@ track6_color: vibrant
 track7_color: dreamy
 track7_title: Chris Rubeo - Lover’s Spit
 episode_URL: mailta.pe/283/le-turc-mecanique
-image: fbPic283.png
+fbPic: fbPic283.png
 musiColor: musiColor283.png
 description: >-
   This morning, take some time to listen to Le Turc Mécanique’s delightful

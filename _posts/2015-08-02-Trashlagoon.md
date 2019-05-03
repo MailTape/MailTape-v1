@@ -14,7 +14,7 @@ track7_color: trippy
 category: "197"
 guest_name: Trashlagoon
 guestPic: guestPic197.jpg
-image: fbPic197.jpg
+fbPic: fbPic197.jpg
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon/"
 track1_link: "https://soundcloud.com/nicolas-perdereau/floating-points-myrtle-avenue"

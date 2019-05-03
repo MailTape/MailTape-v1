@@ -34,7 +34,7 @@ description: >-
   This morning we are excited to welcome MALFNKTION, the electronic music
   project of Bengaluru-based musician, Aditya Alamuru.
 guestPic: guestPic315.jpg
-image: fbPic315.jpg
+fbPic: fbPic315.jpg
 musiColor: musiColor315.png
 ---
 <p id="introduction">This morning we are excited to welcome [MALFNKTION](https://malfnktion.bandcamp.com/), the electronic music project of Bengaluru-based musician, Aditya Alamuru.</p>

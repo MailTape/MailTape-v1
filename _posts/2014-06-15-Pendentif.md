@@ -30,7 +30,7 @@ track6_title: "NICODXMVS - Im 2 Blame..."
 track5_title: "Turks And Caicos - Cars Outside"
 track7_title: "Caribou - Can't Do Without You"
 episode_URL: "http://mailta.pe/145/Pendentif"
-image: fbPic145.jpg
+fbPic: fbPic145.jpg
 description: "This morning, the Bordeaux-based French pop band Pendentif has prepared you a musical cocktail to be enjoyed without reserve…"
 musiColor: musiColor145.png
 ---

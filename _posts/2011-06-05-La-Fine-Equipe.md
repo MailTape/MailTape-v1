@@ -21,7 +21,7 @@ track6_title: "Aspirin's For My Children - Cutter"
 track7_link: "https://soundcloud.com/greenlabelsound/classixx-feat-karl-dixon-into"
 track7_title: "Classixx - Into the Valley (Julio Bashmore remix)"
 episode_URL: "http://mailta.pe/6/La-Fine-Equipe/"
-image: fbPic6.jpg
+fbPic: fbPic6.jpg
 musiColor: musiColor6.png
 track1_color: vibrant
 track2_color: rough

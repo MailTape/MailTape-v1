@@ -44,7 +44,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/320/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/320/track3.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/320/track7.mp3'
 guestPic: guestPic320.jpg
-image: fbPic320.jpg
+fbPic: fbPic320.jpg
 musiColor: musiColor320.png
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).</p>

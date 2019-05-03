@@ -28,7 +28,7 @@ track6_color: bliss
 track7_title: Frankey & Sandrino - Acamar
 track7_color: rough
 episode_URL: 'https://mailta.pe/201/Nicholas-Larsen/'
-image: fbPic201.png
+fbPic: fbPic201.png
 musiColor: musiColor201.png
 description: >-
   This morning, let’s play a bit with this untamed selection from our guest

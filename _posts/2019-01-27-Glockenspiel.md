@@ -31,7 +31,7 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/342/glockenspiel/'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/342/track6.mp3'
 guestPic: guestPic342.jpg
-image: fbPic342.jpg
+fbPic: fbPic342.jpg
 musiColor: musiColor342.png
 description: >-
   This morning we are delighted to welcome Adrian Dollemore of Glockenspiel to

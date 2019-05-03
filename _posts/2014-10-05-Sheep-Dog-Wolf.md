@@ -30,7 +30,7 @@ track6_title: "Daisuke Tanabe - bfr017"
 track7_title: "Gap Dream - Strong Love"
 guestPic: guestPic154.jpg
 episode_URL: "http://mailta.pe/154/Sheep-Dog-Wolf/"
-image: fbPic154.jpg
+fbPic: fbPic154.jpg
 musiColor: musiColor154.png
 description: "Our pick of the week is Daniel McBride, an artist from Wellington who goes by the name Sheep, Dog & Wolf and with whom we unveil an episode that will tug at your heartstrings."
 ---

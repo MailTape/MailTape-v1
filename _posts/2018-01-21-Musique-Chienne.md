@@ -31,7 +31,7 @@ track7_title: OH MU - TOUT LE MONDE EST CONTENT ET VA À SA MAISON
 track7_color: vibrant
 guestPic: guestPic296.jpg
 musiColor: musiColor296.png
-image: fbPic296.png
+fbPic: fbPic296.png
 episode_URL: 'https://www.mailta.pe/296/musique-chienne/'
 description: >-
   This morning, please welcome Musique Chienne's sparkly selection! Musique

@@ -30,7 +30,7 @@ track6_color: bliss
 track7_title: Trio Da Kali – Yirimadjo
 track7_color: trippy
 episode_URL: 'http://mailta.pe/307/gaelynn-lea/'
-image: fbPic307.jpg
+fbPic: fbPic307.jpg
 guestPic: guestPic307.jpg
 musiColor: musiColor307.png
 description: >-

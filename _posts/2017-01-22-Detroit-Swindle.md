@@ -36,7 +36,7 @@ description: >-
   musical selection that highlights the return of soul in hip-hop.
 guestPic: guestPic244.jpg
 musiColor: musiColor244new.png
-image: fbPic244.png
+fbPic: fbPic244.png
 ---
 <p id="introduction">This morning, let yourself dive into complete blissfulness with the soulful beat of our guests [Detroit Swindle](https://soundcloud.com/detroitswindle "Soundcloud"). Awake with their chilled out yet rhythmic musical selection that highlights the return of soul in hip-hop symbolized by three great artists. Detroit Swindle is a Dutch duo of DJs, renown for connecting an incredibly wide variety of musical genres into their work, making their style one of a kind and quite unpredictable. One of their masterpieces "You, Me, Here, Now" will make you want to discover more so push the volume up folks and enjoy!
 </p>

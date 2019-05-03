@@ -30,7 +30,7 @@ track6_title: "Sam Kogon - Wake Up Your Kids"
 track7_title: "Oldtoy - Fountains"
 guestPic: guestPic156.jpg
 episode_URL: "http://mailta.pe/156/Arms-and-Sleepers/"
-image: fbPic156.jpg
+fbPic: fbPic156.jpg
 musiColor: musiColor156.png
 description: "A time when we were all one and free,  and we stood, with our hands in hands with a blue sky on top and countless shades of trees.   Let’s unite with our this week’s special and let music speak for us, for it has in it a magic that will cast a spell on you. A beautiful morning with our guest Arms and Sleepers and those ready to embark on a cosy Sunday morning."
 ---

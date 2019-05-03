@@ -30,7 +30,7 @@ track6_color: dreamy
 track7_title: " All Flows Reach Out - Animal Kingdom"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/211/Marabout-Orkestra/"
-image: fbPic211.jpg
+fbPic: fbPic211.jpg
 musiColor: musiColor211.png
 description: "This morning, we're bringing you a soulful selection made in collaboration with Marabout Orkestra. Their afro jazz-funk inspiration is a sure bet to get you in a great mood and open your musical horizon."
 published: true

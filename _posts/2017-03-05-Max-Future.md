@@ -30,7 +30,7 @@ track7_color: bliss
 track7_link: 'https://soundcloud.com/rydertheeagle/its-all-about-the-music'
 track7_title: Ryder the Eagle - It's All About The Music
 episode_URL: 'https://mailta.pe/250/Max-Future/'
-image: fbPic250.jpg
+fbPic: fbPic250.jpg
 musiColor: musiColor250.png
 category: '250'
 description: 'This morning, let''s have a glimpse of today''s music and Max Future.'

@@ -22,7 +22,7 @@ track5_title: Still Woozy — Goodie Bag
 track5_color: vibrant
 track7_title: King Princess — Sunburn
 episode_URL: 'http://mailta.pe/304/Ruby-Francis/'
-image: fbPic304.jpg
+fbPic: fbPic304.jpg
 musiColor: musiColor304.png
 author: Louise
 illustrator: William Girault

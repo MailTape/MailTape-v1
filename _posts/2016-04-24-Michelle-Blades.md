@@ -30,7 +30,7 @@ track6_color: dreamy
 track7_title: "Fatnotronic & In Flagranti - Botoque"
 track7_color: vibrant
 episode_URL: "http://mailta.pe/214/Michelle-Blades/"
-image: fbPic214.jpg
+fbPic: fbPic214.jpg
 musiColor: musiColor214.png
 description: "Hello there, this morning we gonna talk about the world. I mean, talk about Michelle Blades, a mexicano-Panamanian woman who lived in USA, then moved to Paris since 2012. It's quite the same than talking about globalization. Let's talk about the world of Michelle Blades."
 published: true
