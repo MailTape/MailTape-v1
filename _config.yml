@@ -393,7 +393,7 @@ prose:
           help: "Warning : be careful with caps and don't forget '/' at end!"
           placeholder: "http://mailta.pe/129/Valentin-Stip/"
           type: "text"
-      - name: "fbPic"
+      - name: "image"
         field:
           element: "text"
           label: "fbPic file"
