@@ -34,7 +34,7 @@ description: >-
   multi-faceted. It's witty and stays graceful at all times. Are you ready to
   enter Jerry Paper’s musical multiverse? 
 episode_URL: 'https://www.mailta.pe/327/jerry-paper/'
-fbPic: fbPic327.png
+image: https://mailta.pe/img/fbPic327.png
 musiColor: musiColor327.png
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/327/track2.mp3'
 ---

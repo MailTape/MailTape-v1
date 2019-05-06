@@ -32,7 +32,7 @@ track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/253/cut-off-your-hands/'
 writer: Inès
 musiColor: musiColor253.png
-fbPic: fbPic253.png
+image: https://mailta.pe/img/fbPic253.png
 description: >-
   This morning, let's enjoy the comeback of sunnier days while listening to Cut
   Off Your Hands' kaleidoscopic selection. Open your windows, put on your

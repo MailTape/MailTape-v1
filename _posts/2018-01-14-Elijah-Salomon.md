@@ -31,7 +31,7 @@ track7_title: Kabaka Pyramid – No Capitalist
 track7_color: bliss
 episode_URL: 'http://mailta.pe/295/elijah-salomon/'
 guestPic: guestPic295.jpg
-fbPic: fbPic295.jpg
+image: https://mailta.pe/img/fbPic295.jpg
 musiColor: musiColor295.png
 description: >-
   This morning we welcome multilingual singer, songwriter and musician, Elijah

@@ -30,7 +30,7 @@ track4_color: dreamy
 track5_color: trippy
 track6_color: bliss
 track7_color: rough
-fbPic: fbPic227.png
+image: https://mailta.pe/img/fbPic227.png
 musiColor: musiColor227.png
 episode_URL: 'https://mailta.pe/227/Psychic-Ills/'
 description: >-

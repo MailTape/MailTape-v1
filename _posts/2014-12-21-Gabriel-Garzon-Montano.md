@@ -30,7 +30,7 @@ track6_title: "Buscabulla - Sono"
 track7_title: "Jabru feat. Joel Culpepper - Church"
 episode_URL: "http://mailta.pe/165/Gabriel-Garzon-Montano/"
 guestPic: guestPic165.jpg
-fbPic: fbPic165.jpg
+image: https://mailta.pe/img/fbPic165.jpg
 description: "This morning, please welcome our new delighted guest who is half Colombian and half French but born and brought up in Brooklyn. Gabriel Garzon-Montano is a true child of the world."
 musiColor: musiColor165.png
 ---

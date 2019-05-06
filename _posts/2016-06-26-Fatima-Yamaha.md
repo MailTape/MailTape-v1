@@ -14,7 +14,7 @@ track5_title: Carter Black - Ride Slow
 track7_title: Jacques - Tout Est Magnifique
 track6_title: Laker Inspired - Forever
 episode_URL: 'https://mailta.pe/223/Fatima-Yamaha/'
-fbPic: fbPic223.png
+image: https://mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
 category: '223'

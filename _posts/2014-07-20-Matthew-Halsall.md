@@ -30,7 +30,7 @@ track6_title: "Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)"
 track7_link: "https://soundcloud.com/roy-hargrove-quintet/strasbourg-saint-denis-live"
 track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
 guestPic: guestPic150.jpg
-fbPic: fbPic150.jpg
+image: https://mailta.pe/img/fbPic150.jpg
 description: "This morning, our guest' selection will probably widen your morning musical horizon! Please welcome on stage the Manchester based trumpeter Matthew Halsall."
 musiColor: musiColor150.png
 ---

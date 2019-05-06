@@ -15,7 +15,7 @@ track3_title: Le Loup - Morning Song
 track4_color: vibrant
 track2_color: dreamy
 episode_URL: 'https://mailta.pe/226/Talitres-Records/'
-fbPic: fbPic226.jpg
+image: https://mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
 track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
 track1_color: dreamy

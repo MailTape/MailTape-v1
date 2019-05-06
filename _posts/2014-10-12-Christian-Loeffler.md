@@ -19,7 +19,7 @@ category: "155"
 guest_name: Christian Löffler
 guestPic: guestPic155.jpg
 episode_URL: "http://mailta.pe/155/Christian-Loeffler/"
-fbPic: fbPic155.png
+image: https://mailta.pe/img/fbPic155.png
 musiColor: musiColor155.png
 track1_title: "Me Succeeds - Rongorongo (Arp Aubert Remix)"
 track2_title: "Sean Piñeiro - Grounds"

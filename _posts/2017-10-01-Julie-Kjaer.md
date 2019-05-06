@@ -30,7 +30,7 @@ track7_link: 'https://soundcloud.com/spirodon/duet-for-abdelrazik-matana'
 track7_title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/280/julie-kjaer/'
-fbPic: fbPic280.jpg
+image: https://mailta.pe/img/fbPic280.jpg
 guestPic: guestPic280.jpg
 musiColor: musiColor280.png
 description: >-

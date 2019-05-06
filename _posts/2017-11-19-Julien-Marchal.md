@@ -37,7 +37,7 @@ description: >-
   minimalist pieces seem to be an invocation of the classical art. Melancholic
   and yet uplifting, here’s an artist whose harmony will lend you the peace of
   mind you so deserve as you touch upon on the world of modern classical. 
-fbPic: fbPic287.png
+image: https://mailta.pe/img/fbPic287.png
 musiColor: musiColor287.png
 ---
 <p id="introduction">This morning, [Julien Marchal](https://julienmarchal.bandcamp.com/) has something unique to share. A contemporary pianist and composer from Bordeaux, France. His contemplative and minimalist pieces seem to be an invocation of the classical art. Melancholic and yet uplifting, here’s an artist whose harmony will lend you the peace of mind you so deserve as you touch upon on the world of modern classical. 

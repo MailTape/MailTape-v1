@@ -35,7 +35,7 @@ description: >-
   It shall also astonish us with many musical discoveries and auditory newness.
   Our journey, headed by captain Cam Maclean, promises a Sunday filled with hope
   and sweetness.
-fbPic: fbPic339.png
+image: https://mailta.pe/img/fbPic339.png
 writer: Anaïs G
 musiColor: musiColor339.png
 ---

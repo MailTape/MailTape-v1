@@ -22,7 +22,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/293/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/293/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/293/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/293/track4.mp3'
-fbPic: fbPic293.png
+image: https://mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
 track5_link: 'https://soundcloud.com/louidjie/salome-latenight-freestyle'
 track6_link: 'https://soundcloud.com/babaali/01-cog-in-the-wheel'

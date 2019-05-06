@@ -31,7 +31,7 @@ track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/322/nihiloxica/'
 guestPic: guestPic322.jpg
 writer: Luc
-fbPic: fbPic322.JPG
+image: https://mailta.pe/img/fbPic322.JPG
 musiColor: musicColor322.JPG
 description: >-
   If defeating torpor is ever on your agenda, Ugandan’s own Nihiloxica, with

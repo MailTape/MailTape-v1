@@ -40,7 +40,7 @@ description: >-
   Dancing Inc’s music, lies somewhere between synth pop, new wave and cold zouk
   – it is warm and welcoming.
 guestPic: guestPic329.jpg
-fbPic: fbPic329.jpg
+image: https://mailta.pe/img/fbPic329.jpg
 musiColor: musiColor329.png
 ---
 

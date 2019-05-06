@@ -31,7 +31,7 @@ track7_title: Jerusalem In My Heart – 7ebr El 3oyoun
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/292/oiseaux-tempete/'
 guestPic: guestPic292.jpg
-fbPic: fbPic292.jpg
+image: https://mailta.pe/img/fbPic292.jpg
 musiColor: musiColor292.png
 description: >-
   This morning we attempt to provide you with a soundtrack to the water

@@ -31,7 +31,7 @@ episode_URL: 'https://www.mailta.pe/299/run-child-run/'
 track5_color: vibrant
 track6_color: dreamy
 track7_color: bliss
-fbPic: fbPic299.png
+image: https://mailta.pe/img/fbPic299.png
 musiColor: musiColor299.png
 description: >-
   This morning, our guest Run Child Run has blessed us with a distinctive

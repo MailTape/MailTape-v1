@@ -36,7 +36,7 @@ description: >-
   Solomon, who joins us to provide an eclectic Sunday morning playlist that
   promises, with any luck, to accompany our sapling-like emergence from the
   extended winter.
-fbPic: fbPic302.jpg
+image: https://mailta.pe/img/fbPic302.jpg
 musiColor: musiColor302.png
 ---
 <p id="introduction">By way of Sweden and Eritrea we welcome London-based singer/songwriter, [Miryam Solomon](https://miryamsolomonmusic.bandcamp.com/), who joins us to provide an eclectic Sunday morning playlist that promises, with any luck, to accompany our sapling-like emergence from the extended winter.</p>

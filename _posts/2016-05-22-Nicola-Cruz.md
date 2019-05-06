@@ -31,7 +31,7 @@ track6_color: vibrant
 track7_color: trippy
 episode_URL: "http://mailta.pe/218/Nicola-Cruz/"
 guestPic: guestPic218.jpg
-fbPic: fbPic218.jpg
+image: https://mailta.pe/img/fbPic218.jpg
 musiColor: musiColor218.png
 description: "This morning, we’re taking you on a walk in the forest. Our guest Nicola Cruz shared with us his visionary tracks where electronic sounds bring us to Nature. He collaborated with Nicolas Jaar and has just released his debut album on the underground record label ZZK from Buenos Aires. Thought you knew world music? Well, think again."
 ---

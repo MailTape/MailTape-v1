@@ -10,7 +10,7 @@ track2_title: "Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika"
 track3_title: "Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow"
 track4_title: "Kikagaku Moyo - Kogarashi"
 episode_URL: "http://mailta.pe/217/Kikagaku-Moyo/"
-fbPic: fbPic217.jpg
+image: https://mailta.pe/img/fbPic217.jpg
 musiColor: musiColor217.png
 author: Louise
 illustrator: Anais Caura

@@ -31,7 +31,7 @@ track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgi
 track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
 track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'
 guestPic: guestPic348.jpg
-fbPic: fbPic348.jpg
+image: https://mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png
 description: >-
   This morning we are thrilled to welcome London-based vocalist, guitarist and

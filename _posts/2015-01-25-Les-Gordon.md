@@ -31,7 +31,7 @@ track5_title: "Tropics - Blame"
 episode_URL: "http://mailta.pe/170/Les-Gordon/"
 description: "This Sunday, we bring you an amalgam of ambient  and downtempo with our newly found French artist, Les Gordon. "
 guestPic: guestPic170.jpg
-fbPic: fbPic170.jpg
+image: https://mailta.pe/img/fbPic170.jpg
 musiColor: musiColor170.png
 ---
 

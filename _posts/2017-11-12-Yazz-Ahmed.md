@@ -32,7 +32,7 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/286/yazz-ahmed/'
 guestPic: guestPic286.jpg
 musiColor: musiColor286.png
-fbPic: fbPic286.jpg
+image: https://mailta.pe/img/fbPic286.jpg
 description: >-
   This morning we are delighted to collaborate with trumpeter and composer Yazz
   Ahmed and get a glimpse into her Sunday morning jukebox with MailTape.

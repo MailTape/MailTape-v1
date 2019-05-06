@@ -31,7 +31,7 @@ track7_title: Shadow - Let's Get It Together
 track7_color: vibrant
 episode_URL: 'https://www.mailta.pe/300/alligator-x-tenere/'
 guestPic: guestPic300.jpg
-fbPic: fbPic300.png
+image: https://mailta.pe/img/fbPic300.png
 musiColor: musiColor300.png
 description: >-
   This morning is special, you are going to listen to our 300th episode. Today's
