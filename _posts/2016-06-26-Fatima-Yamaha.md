@@ -14,12 +14,12 @@ track5_title: Carter Black - Ride Slow
 track7_title: Jacques - Tout Est Magnifique
 track6_title: Laker Inspired - Forever
 episode_URL: 'https://mailta.pe/223/Fatima-Yamaha/'
-image: https://mailta.pe/img/fbPic223.png
+fbPic: fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
 category: '223'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/223/track1.mp3'
-track2_link: 'https://soundcloud.com/seymour-bits/seymour-bits-seymour-cray'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/223/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/223/track3.mp3'
 track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray

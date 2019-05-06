@@ -30,7 +30,7 @@ track5_title: "Movement - Ivory"
 track6_title: "Mister Gavin - Kind Of Love"
 track7_title: "Turks & Caicos - Nice 'n' Slow"
 episode_URL: "http://mailta.pe/140/David-Douglas/"
-image: https://mailta.pe/img/fbPic140.jpg
+fbPic: fbPic140.jpg
 description: "This Morning, we are pleased to introduce you our guest David Douglas. David has selected three untemporary classics to start our session. We’ve then completed it with some more recent material. Result: a unique cross-generational bliss episode. Enjoy!"
 musiColor: musiColor140.png
 ---

@@ -22,7 +22,7 @@ track5_title: Still Woozy — Goodie Bag
 track5_color: vibrant
 track7_title: King Princess — Sunburn
 episode_URL: 'http://mailta.pe/304/Ruby-Francis/'
-image: https://mailta.pe/img/fbPic304.jpg
+fbPic: fbPic304.jpg
 musiColor: musiColor304.png
 author: Louise
 illustrator: William Girault
@@ -31,7 +31,7 @@ guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestpic304ter.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
-track3_link: 'https://soundcloud.com/iamtroyhudson/head-over-heels'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/304/track3.mp3'
 description: >-
   This morning, we welcome London-based singer/songwriter, Ruby Francis, to
   collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and

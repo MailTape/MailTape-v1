@@ -9,7 +9,7 @@ category: '260'
 guest_name: Ménage à Trois
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/260/track1.mp3'
 track2_link: 'https://soundcloud.com/june/lost-area-dj-sprinkles-empty'
-track3_link: 'https://soundcloud.com/aficionado-recordings/dream-lovers-for-belgian-friends'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/260/track3.mp3'
 track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
@@ -31,7 +31,7 @@ track6_color: bliss
 track7_color: trippy
 guest_color: dreamy
 track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
-image: https://mailta.pe/img/fbPic260.JPG
+fbPic: fbPic260.JPG
 description: >-
   Bright and delightful morning to the masses and the listeners, to the
   frequency lovers and addicted souls of the music empire. Today, Ménage à

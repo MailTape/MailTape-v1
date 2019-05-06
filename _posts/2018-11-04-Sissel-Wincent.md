@@ -12,8 +12,7 @@ track1_link: 'https://soundcloud.com/mixmag-1/premiere-ploy-o'
 track2_link: 'https://soundcloud.com/ascetikorps/kali-malone-locus-of'
 track3_link: 'https://soundcloud.com/moloton/mar-llena-monrepos'
 track4_link: 'https://soundcloud.com/sissel/pearlescent-paint'
-track5_link: >-
-  https://soundcloud.com/where-to-now-productions/beatrice-dillon-carrier-and-mask
+track5_link: 'https://soundcloud.com/where-to-now-productions/beatrice-dillon-carrier-and-mask'
 track6_link: 'https://soundcloud.com/akiko_kiyama/gabriel'
 track7_link: 'https://soundcloud.com/afrikan-sciences/43a'
 track1_title: Ploy – =O
@@ -36,7 +35,7 @@ description: >-
   Sissel Wincent, to MailTape.
 musiColor: musiColor330.png
 guestPic: guestPic330.jpg
-image: https://mailta.pe/img/fbPic330.jpg
+fbPic: fbPic330.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome Stockholm-based electronic producer, [Sissel Wincent](https://soundcloud.com/sissel), to MailTape. In her own music, as well as within the [Drömfakulteten collective](https://dromfakulteten.tumblr.com/), Sissel deals in a congruous style of spacious and crisply detailed studio action, exploring the spaces behind and after the notes as much as what comes in between. 
 <br><br>

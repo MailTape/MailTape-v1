@@ -37,7 +37,7 @@ description: >-
   over the world, feel both warmth and coldness or just dance (alone) in your
   room. Sunnier days don’t seem so far away now!
 guestPic: guestPic248new2.jpg
-image: https://mailta.pe/img/fbPic248.jpg
+fbPic: fbPic248.jpg
 ---
 <p id="introduction">This morning, juggle the calm and energetic moments thrown your way by [Requin Chagrin](https://www.facebook.com/chagrin.requin/ "Facebook")’s eclectic selection. Requin Chagrin, a French band born from singer Marion’s mind, mixes surf-ish reverb guitars with a melancholic vibe, creating a warm and languid sound.</p>
 <p>During this precisely 30-minute selection, travel through France, Norway, the US and the UK, feel both warmth and coldness, take a few breaths and dance (alone) in your room. Sunnier days don’t seem that far away now.</p>

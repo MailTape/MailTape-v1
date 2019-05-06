@@ -8,7 +8,7 @@ guest_name: Stand Wise
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic212.jpg
-track1_link: "https://soundcloud.com/chillicious/recondite-robur"
+track1_link: "https://mailtapesounds.s3.amazonaws.com/212/track1.mp3"
 track2_link: "https://mailtapesounds.s3.amazonaws.com/212/track2.mp3"
 track3_link: "https://soundcloud.com/wearecolorado/undisclosed"
 track4_link: "https://soundcloud.com/animal-rec/stand-wise-otherside"
@@ -30,7 +30,7 @@ track6_color: vibrant
 track7_title: "Ambassadeurs - Willows Lullaby"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/212/Stand-Wise/"
-image: https://mailta.pe/img/fbPic212.jpg
+fbPic: fbPic212.jpg
 musiColor: musiColor212.png
 description: "This morning, let us keep you on the edge of new talent discovery with the latest essentiels. Introducing Stand Wise, an intriguing duo from Paris and their selection of fine tunes."
 published: true

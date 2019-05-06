@@ -7,10 +7,8 @@ illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
 track7_link: 'https://soundcloud.com/i-igo-montoya-2/deluge'
-track6_link: >-
-  https://soundcloud.com/ricky-hollywood/04-coule-feat-toro-azor?in=ricky-hollywood/sets/laventure-interieure-ep
-track5_link: >-
-  https://soundcloud.com/moleculesound/serge-gainsbourg-melody-nelson?in=millefeuilles/sets/exposition-mille-feuilles-19
+track6_link: 'https://soundcloud.com/ricky-hollywood/04-coule-feat-toro-azor?in=ricky-hollywood/sets/laventure-interieure-ep'
+track5_link: 'https://soundcloud.com/moleculesound/serge-gainsbourg-melody-nelson?in=millefeuilles/sets/exposition-mille-feuilles-19'
 track4_link: 'https://soundcloud.com/miel2montagne/ces-reves'
 track4_title: Miel de Montagne - Ces Rêves
 track4_color: dreamy
@@ -33,7 +31,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
-image: https://mailta.pe/img/fbPic352.png
+fbPic: fbPic352.png
 musiColor: musiColor352.png
 ---
 <p id="introduction"> This morning, the atmosphere is light almost aerial, like the whipped cream that is on my boyfriend’s birthday cake. With imagination we could almost find ourselves hovering and swimming inside surrounded by love and voluptuousness. Actually, the universe of our guest this morning, Miel de Montagne, is a bit like this whipped cream, where I enjoy cake.

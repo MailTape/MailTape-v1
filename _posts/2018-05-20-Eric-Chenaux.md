@@ -10,7 +10,7 @@ guest_name: Eric Chenaux
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/martinarnold/stain-ballad'
 track2_link: 'https://soundcloud.com/allisoncameronmusic/tree-ferns-1-live-performance-by-wiek-hijmans'
-track3_link: 'https://soundcloud.com/lcsmith-2/moi-qui-tremblais'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/313/track3.mp3'
 track4_link: 'https://soundcloud.com/constellation-records/eric-chenaux-theres-our-love'
 track5_link: 'https://soundcloud.com/footfalls-records/karma-lata'
 track6_link: 'https://soundcloud.com/melodie64/marisa-anderson-into-the-light'
@@ -35,7 +35,7 @@ description: >-
   Close your eyes and float away in a blissful auditory dream courtesy of
   Paris-based guitarist, Eric Chenaux. He provides us with a sweet Sunday
   morning glimpse into Canada’s contemporary music milieu.
-image: https://mailta.pe/img/fbPic313.jpg
+fbPic: fbPic313.jpg
 musiColor: musiColor313.png
 ---
 <p id="introduction">Close your eyes and float away in a blissful auditory dream courtesy of Paris-based guitarist, [Eric Chenaux](http://ericchenaux.com/). He provides us with a sweet Sunday morning glimpse into Canada's contemporary music milieu.</p>

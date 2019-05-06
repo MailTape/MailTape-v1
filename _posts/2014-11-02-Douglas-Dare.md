@@ -19,7 +19,7 @@ track1_link: "https://mailtapesounds.s3.amazonaws.com/158/track1.mp3"
 track2_link: "https://soundcloud.com/modernlove/violence"
 track3_link: "https://mailtapesounds.s3.amazonaws.com/158/track3.mp3"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
-image: https://mailta.pe/img/fbPic158.jpg
+fbPic: fbPic158.jpg
 musiColor: musiColor158.png
 track1_title: "iamamiwhoami - Thin"
 track2_title: "Andy Stott - Violence"
@@ -27,7 +27,7 @@ track3_title: "Buke and Gase - Seam Esteem"
 track4_title: "Douglas Dare - Caroline"
 track4_link: "https://soundcloud.com/douglas-dare/caroline"
 track5_title: "Joy! - Utopia"
-track5_link: "https://soundcloud.com/joy-1/joy-utopia"
+track5_link: "https://mailtapesounds.s3.amazonaws.com/158/track5.mp3"
 track7_link: "https://mailtapesounds.s3.amazonaws.com/158/track7.mp3"
 track7_title: "Audion Feat Troels Abrahamsen - Dem Howl"
 track6_title: "Hans Berg - Tucan Fever"

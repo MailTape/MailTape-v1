@@ -30,7 +30,7 @@ track5_title: "Tom Misch - Understanding"
 track6_title: "Maudlin Strangers - Overdose"
 episode_URL: "http://mailta.pe/141/Jesper-Ryom/"
 track7_title: "Tom and Laura Misch - Follow"
-image: https://mailta.pe/img/fbPic141.jpg
+fbPic: fbPic141.jpg
 musiColor: musiColor141.png
 description: "his Morning, Jesper Ryom inspired us a mostly vibrant MailTape which we hope will help you enjoy your sunday morning. His selection is a combination of hidden indie jewels and a bit of heavy Berlin music. We've spiced it up with some bliss tracks. Enjoy!"
 ---

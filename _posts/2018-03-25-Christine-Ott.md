@@ -32,7 +32,7 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/305/christine-ott/'
 guestPic: guestPic305.jpg
 musiColor: musiColor305.png
-image: https://mailta.pe/img/fbPic305.jpg
+fbPic: fbPic305.jpg
 description: >-
   Based in Strasbourg and only one of a tiny handful of performers on the ondes
   Martenot, this Sunday morning we welcome Christine Ott to collaborate with us

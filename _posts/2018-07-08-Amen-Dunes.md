@@ -39,12 +39,12 @@ description: >-
 track4_link: 'https://soundcloud.com/the-moody-tapes/amen-dunes-bedroom-drum'
 track5_link: 'https://soundcloud.com/future-popes-pr/tonstartssbandht-5ft7'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/320/track6.mp3'
-track1_link: 'https://soundcloud.com/nzso/beethoven-1st-movement-from-1'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/320/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/320/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/320/track3.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/320/track7.mp3'
 guestPic: guestPic320.jpg
-image: https://mailta.pe/img/fbPic320.jpg
+fbPic: fbPic320.jpg
 musiColor: musiColor320.png
 ---
 <p id="introduction">For this last MailTape before our summer break, we welcome Damon McMahan, songwriter and New York-based founder of [Amen Dunes](https://amendunes.bandcamp.com/).</p>

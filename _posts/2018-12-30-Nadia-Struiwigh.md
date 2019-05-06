@@ -9,8 +9,7 @@ category: '338'
 guest_name: Nadia Struiwigh
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/user-606609593/meeting-the-others-split-sondtrak'
-track2_link: >-
-  https://soundcloud.com/unseenmusic/electronicindieupliftingambient-it-was-warmer-then
+track2_link: 'https://soundcloud.com/unseenmusic/electronicindieupliftingambient-it-was-warmer-then'
 track3_link: 'https://soundcloud.com/wwnbbcollective/totem-master'
 track4_link: 'https://soundcloud.com/denovali/nadia-struiwigh-roeiweijk'
 track5_link: 'https://soundcloud.com/klissay/01-vessels'
@@ -35,7 +34,7 @@ description: >-
   In this final episode of 2018, we are delighted to welcome Rotterdam-based DJ
   and electronic producer Nadia Struiwigh as she picks three meditative Sunday
   morning tunes.
-image: https://mailta.pe/img/fbPic338.jpg
+fbPic: fbPic338.jpg
 guestPic: guestPic338.jpg
 musiColor: musiColor338.png
 ---

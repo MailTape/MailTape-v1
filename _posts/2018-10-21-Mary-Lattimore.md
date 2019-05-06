@@ -32,7 +32,7 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/328/mary-lattimore/'
 guestPic: guestPic328.jpg
 musiColor: musiColor328.png
-image: https://mailta.pe/img/fbPic328.jpg
+fbPic: fbPic328.jpg
 description: >-
   This Sunday morning we are delighted to welcome harpist Mary Lattimore to
   MailTape.

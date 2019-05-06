@@ -11,7 +11,7 @@ guest_color: vibrant
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/340/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/340/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/340/track3.mp3'
-track4_link: 'https://soundcloud.com/analogtara-music/pulse-and-light'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/340/track4.mp3'
 track5_link: 'https://soundcloud.com/erasedtapes/dawn-of-midi-algol-edit'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/340/track6.mp3'
 track7_link: 'https://soundcloud.com/moogfest/moor-mother'
@@ -35,7 +35,7 @@ description: >-
   This morning we are delighted to welcome multi-instrumentalist composer and
   historian of electronic music and sound, Dr. Tara Rodgers (Analog Tara)
 musiColor: musiColor340.png
-image: https://mailta.pe/img/fbPic340.jpg
+fbPic: fbPic340.jpg
 ---
 <p id="introduction">This morning we are delighted to welcome multi-instrumentalist composer and historian of electronic music and sound, Dr. Tara Rodgers ([Analog Tara](http://www.analogtara.net/wp/)). 
 <br><br>

@@ -29,7 +29,7 @@ track5_title: "Adult Jazz - Am Gone"
 track6_title: "Nick + Noah - Open for Consideration"
 track7_title: "Sean Nicholas Savage - Naturally"
 guestPic: guestPic169.jpg
-image: https://mailta.pe/img/fbPic169b.jpg
+fbPic: fbPic169b.jpg
 musiColor: musiColor169.png
 episode_URL: "http://mailta.pe/169/Elliot-Moss/"
 description: "This morning, let the young talented Elliot Moss and his dreamy inspiration help us in our attempt to get over this hangover we’re all feeling since the 7th."

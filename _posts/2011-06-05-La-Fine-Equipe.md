@@ -15,13 +15,13 @@ track4_link: "https://soundcloud.com/philip-lawson-1/cavatina-stanley-myers-arr"
 track3_title: "Madvillain - Figaro"
 track4_title: "John Williams - Cavatina"
 track5_title: "Thundercat - For Love I Come"
-track5_link: "https://soundcloud.com/flyinglotus/thundercat-for-love-i-come"
+track5_link: "https://mailtapesounds.s3.amazonaws.com/6/track5.mp3"
 track6_link: "https://soundcloud.com/theaspirinsformychildren/tafmc-cutter-2010"
 track6_title: "Aspirin's For My Children - Cutter"
 track7_link: "https://soundcloud.com/greenlabelsound/classixx-feat-karl-dixon-into"
 track7_title: "Classixx - Into the Valley (Julio Bashmore remix)"
 episode_URL: "http://mailta.pe/6/La-Fine-Equipe/"
-image: https://mailta.pe/img/fbPic6.jpg
+fbPic: fbPic6.jpg
 musiColor: musiColor6.png
 track1_color: vibrant
 track2_color: rough

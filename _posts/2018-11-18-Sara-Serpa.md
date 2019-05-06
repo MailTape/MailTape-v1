@@ -13,7 +13,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/332/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/332/track3.mp3'
 track4_link: 'https://soundcloud.com/saraserpafragments/sara-serpa-andre-matos-lisboa'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/332/track5.mp3'
-track7_link: 'https://soundcloud.com/privianrecords/meeta-pandit-live-thumri-pilu'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/332/track7.mp3'
 track1_title: 'Béla Bartók – Violin Duets, N.28 — Sorrow'
 track1_color: dreamy
 track2_title: Fanta Damba & Batourou Sekou Kouyaté – Tatou
@@ -35,7 +35,7 @@ description: >-
   morning musical selections for us.
 guestPic: guestPic332.jpg
 musiColor: musiColor332.png
-image: https://mailta.pe/img/fbPic332.jpg
+fbPic: fbPic332.jpg
 ---
 <p id="introduction">This morning we welcome vocalist and composer [Sara Serpa](https://www.saraserpa.com/) to pick three Sunday morning musical selections for us.
 <br><br>

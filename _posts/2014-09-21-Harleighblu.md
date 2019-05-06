@@ -30,7 +30,7 @@ track6_link: "https://mailtapesounds.s3.amazonaws.com/152/track6.mp3"
 track6_title: "Rustie - Attak feat Danny Brown"
 track7_link: "https://soundcloud.com/rvdicalthekid/sango-ago-rvdical-remix-1"
 track7_title: "Sango - Ago (Rvdical Remix)"
-image: https://mailta.pe/img/fbPic152.jpg
+fbPic: fbPic152.jpg
 description: "This morning, we're back and with a Lady: please welcome Harleighblu !"
 musiColor: musiColor152.png
 ---

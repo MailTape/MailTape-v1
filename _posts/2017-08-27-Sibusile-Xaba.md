@@ -36,7 +36,7 @@ description: >-
   Pretoria-based guitarist and generally beautiful human being, Sibusile Xaba,
   chosen especially for MailTape.
 musiColor: musiColor275.png
-image: https://mailta.pe/img/fbPic275.jpg
+fbPic: fbPic275.jpg
 ---
 <p id="introduction">This morning I'm super excited to present the Sunday morning jukebox of Pretoria-based guitarist and generally beautiful human being, [Sibusile Xaba](http://sibusilexaba.com/newsite/), chosen especially for MailTape.</p>
 <p>Mentored by Madala Kunene and Dr. Philip Tabane, Sibusile Xaba mixes fragmented lines with repeated phrases. Played acoustically to bass and drums – provided by percussionists Thabang Tabane and Moahanganai Magagula – Sibusile's music soars with expressive guitar-picking and a vocal style that is 'part dreamscape and part ancestral invocation'.</p>

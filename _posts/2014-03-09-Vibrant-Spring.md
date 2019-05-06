@@ -26,13 +26,13 @@ track4_title: "Georgio - A Tous les Coups"
 track5_link: "https://soundcloud.com/paradyserecords/flyte-we-are-the-rain"
 track5_title: "Flyte - We Are the Rain"
 track6_title: "Horse Feathers - Curs in the Weeds (oddlogic refix)"
-track6_link: "https://soundcloud.com/outlierrecordings/curs-in-the-weeds"
+track6_link: "https://mailtapesounds.s3.amazonaws.com/131/track6.mp3"
 track7_title: "Yinyues - Zing Wezé Mama"
 track7_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/131/track7.mp3"
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png
-image: https://mailta.pe/img/fbPic131.png
+fbPic: fbPic131.png
 ---
 
 <p id="introduction">

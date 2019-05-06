@@ -29,7 +29,7 @@ track5_title: "Eli Escobar - The Formula"
 track6_title: "Uffe - Like You Mean it"
 track7_title: "SG Lewis - No Less (Kartell Remix)"
 episode_URL: "http://mailta.pe/195/Crackazat/"
-image: https://mailta.pe/img/fbPic195.jpg
+fbPic: fbPic195.jpg
 musiColor: musiColor195.png
 description: "This morning, you deserve an effective awakening of the senses. The kind of awakening that make you smile, the head buried in the pillow. And, slowly, it's your hand taping, then your foot wagging... here we are ! Coffee in one hand, eyes open, Let's go !"
 ---

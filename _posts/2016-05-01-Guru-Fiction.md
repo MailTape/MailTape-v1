@@ -14,7 +14,7 @@ track3_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/215/track3.mp3"
 track4_link: "https://soundcloud.com/gurufiction/california-1"
 track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
 track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
-track7_link: "https://soundcloud.com/octave-official/silver-rain"
+track7_link: "https://mailtapesounds.s3.amazonaws.com/215/track7.mp3"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy
 track2_title: "Vulfpeck - 1612"
@@ -30,7 +30,7 @@ track6_color: dreamy
 track7_title: "Octave Lissner - Silver Rain"
 track7_color: dreamy
 episode_URL: "http://mailta.pe/215/Guru-Fiction/"
-image: https://mailta.pe/img/fbPic215.jpg
+fbPic: fbPic215.jpg
 musiColor: musiColor215.png
 description: "This morning, I am not quite sure how to say it, but even if the sun's not yet on your side of the world or, if you've felt any hints of melancholy and your soul is morose, I won't guarantee to clear the skies, but I certainly will make a rainbow in your day. Today's guest is sort of what got me through the winter without spending an excessive amount of money on wine and chocolate, because their music will leave you with the hearty feeling of butter on toast, dripping the goodness of sound all over your hungry souls. That's Guru Fiction!!"
 published: true

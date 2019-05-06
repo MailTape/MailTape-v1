@@ -7,7 +7,7 @@ illustrator: Aoife Comey
 writer: Daisy
 guest_name: Linda Buckley
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/_type/heavy-water-id-rather-be-sleeping?in=_type/sets/grouper-dragging-a-dead-deer-up-a-hill'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/236/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/236/track2.mp3'
 track3_link: 'https://soundcloud.com/blackest-ever-black/tropic-of-cancer-stop-suffering'
 track4_link: 'https://soundcloud.com/ergodos/immersia-i'
@@ -31,7 +31,7 @@ track7_title: 'Allison Cameron - 3rds, 4ths & 5ths'
 track7_color: bliss
 episode_URL: 'https://mailta.pe/236/Linda-Buckley/'
 guestPic: guestPic236.jpg
-image: https://mailta.pe/img/fbPic236.jpg
+fbPic: fbPic236.jpg
 musiColor: musiColor236.png
 description: >-
   This morning, let yourself be cocooned in the beautiful strands of sound woven

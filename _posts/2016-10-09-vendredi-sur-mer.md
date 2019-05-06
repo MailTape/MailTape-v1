@@ -14,7 +14,7 @@ track2_link: 'https://soundcloud.com/octavofficiel/man-from-the-stars'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/229/track3.mp3'
 track4_link: 'https://soundcloud.com/profildeface/vendredi-sur-mer-la-femme-a-la-peau-bleue'
 track5_link: 'https://soundcloud.com/pumabluemusic/want-me-demo'
-track6_link: 'https://soundcloud.com/drugdealerr/suddenly'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/229/track6.mp3'
 track7_link: 'https://soundcloud.com/microqlima/pepite_eviter-les-naufrages'
 track1_title: Claude Violante - I Kill By Night
 track1_color: rough
@@ -31,7 +31,7 @@ track6_color: vibrant
 track7_color: vibrant
 track7_title: Pépite - Eviter les Naufrages
 episode_URL: 'https://mailta.pe/229/vendredi-sur-mer/'
-image: https://mailta.pe/img/fbPic229.jpg
+fbPic: fbPic229.jpg
 musiColor: musiColor229.png
 ---
 <p id="introduction">This morning, we're not far away from next week's shores. So, it's the perfect moment to chill, discover and adopt the seaside musical atmosphere of Vendredi Sur Mer. Where pop and psychedelism make a unexpected melt.  </p>

@@ -7,7 +7,7 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
 guest_color: bliss
-track1_link: 'https://soundcloud.com/drugdealerr/romantic-from-run-dmt-dreams'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/279/track1.mp3'
 track2_link: 'https://soundcloud.com/dummymag/aldous-rh-u-and-me'
 track3_link: 'https://soundcloud.com/madeinm/goodday'
 track4_link: 'https://soundcloud.com/yellow-days/hurt-in-love'
@@ -36,7 +36,7 @@ description: >-
   made with the talented 17 years old Yellow Days, aka George Van Den Broek.
   Autumn just started 3 days ago, let’s stay in bed a little longer and plan our
   next vacation... 
-image: https://mailta.pe/img/fbPic279.png
+fbPic: fbPic279.png
 musiColor: musiColor279.png
 ---
 <p id="introduction">This morning, we keep it smooth and easy with this delicate indie selection made with the talented 17 years old [Yellow Days](https://soundcloud.com/yellow-days), aka George Van Den Broek. Autumn just started 3 days ago, let’s stay in bed a little longer and plan our next vacation... </p>

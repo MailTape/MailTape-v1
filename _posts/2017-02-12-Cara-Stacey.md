@@ -8,7 +8,7 @@ track3_link: 'https://soundcloud.com/waver-music/aphelion'
 track4_link: 'https://soundcloud.com/kitrecords/cara-stacey-dark-matter-kr13'
 track5_link: 'https://soundcloud.com/strut/malombo-jazz-makers-hleziphi'
 track6_link: 'https://soundcloud.com/sons-of-kemet/sons-of-kemet-adonias-lullaby'
-track7_link: 'https://soundcloud.com/nerijamusic/the-fisherman-1'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/247/track7.mp3'
 category: '247'
 author: Sanjay Mistry
 illustrator: Isabelle Escande
@@ -31,7 +31,7 @@ track7_title: Nérija - The Fisherman
 track7_color: vibrant
 episode_URL: 'https://mailta.pe/247/Cara-Stacey/'
 guestPic: guestPic247.jpg
-image: https://mailta.pe/img/fbPic247.jpg
+fbPic: fbPic247.jpg
 musiColor: musiColor247.png
 description: >-
   This morning, let your curiosity about the world and all its corners run wild,

@@ -13,7 +13,7 @@ track2_link: 'https://soundcloud.com/betaskroz/nine-inch-nails-28-ghosts-iv'
 track3_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
 track4_link: 'https://soundcloud.com/oiseaux-tempete/alaan-i-dont-know-what-or-why'
 track5_link: 'https://soundcloud.com/christinavantzou/laurie-fullmix-v1-200315-01'
-track6_link: 'https://soundcloud.com/nadahelshazly/barzakh'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/292/track6.mp3'
 track7_link: 'https://soundcloud.com/constellation-records/jerusalem-in-my-heart-7ebr-el-3oyoun'
 track1_title: Lichens – Heilagur Draugur
 track1_color: bliss
@@ -31,7 +31,7 @@ track7_title: Jerusalem In My Heart – 7ebr El 3oyoun
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/292/oiseaux-tempete/'
 guestPic: guestPic292.jpg
-image: https://mailta.pe/img/fbPic292.jpg
+fbPic: fbPic292.jpg
 musiColor: musiColor292.png
 description: >-
   This morning we attempt to provide you with a soundtrack to the water

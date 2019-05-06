@@ -25,12 +25,12 @@ track4_title: "Clément Bazin - Come to this"
 episode_URL: "http://mailta.pe/144/Clement-Bazin/"
 track5_title: "Late Bloom - Rollin Up"
 track5_link: "https://soundcloud.com/latebloom/rollin-up"
-track6_link: "https://soundcloud.com/romefortune/one-time-for-prod-four-tet"
+track6_link: "https://mailtapesounds.s3.amazonaws.com/144/track6.mp3"
 track6_title: "Rome Fortune - One Time For"
 track7_title: "Taylor McFerrin - The Antidote (feat. Nai Palm)"
 track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
 guestPic: guestPic144.jpg
-image: https://mailta.pe/img/fbPic144.jpg
+fbPic: fbPic144.jpg
 musiColor: musiColor144.png
 description: "This morning, the french beatmaker Clément Bazin will carry you on a sunny journey. Quietly first, his selection will then energize your morning, be ready..."
 ---

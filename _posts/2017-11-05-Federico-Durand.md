@@ -31,7 +31,7 @@ episode_URL: 'https://www.mailta.pe/285/federico-durand/'
 illustrator: Camille Célestin
 writer: PS KY
 guest_color: dreamy
-image: https://mailta.pe/img/fbPic285.png
+fbPic: fbPic285.png
 musiColor: musiColor285.png
 description: >-
   This morning, our guest Federico Durand, from the New York-based music label

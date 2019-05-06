@@ -25,12 +25,12 @@ track1_title: "Jordan Rakei - Add The Bassline (Nehzuil Remix)"
 episode_URL: "http://mailta.pe/166/Barney-Artist/"
 track5_link: "https://mailtapesounds.s3.amazonaws.com/166/track5.mp3"
 track6_link: "https://soundcloud.com/burgerrecords/curtis-harding-keep-on-shining"
-track7_link: "https://soundcloud.com/cubby-sounds/cold-feat-kwane-and-current"
+track7_link: "https://mailtapesounds.s3.amazonaws.com/166/track7.mp3"
 track6_title: "Curtis Harding - Keep On Shining"
 track5_title: "Miguel - How Many Drinks? (Remix) ft. Kendrick Lamar"
 track7_title: "Cubby ft. Kwane and Chuck Ellis - Cold"
 guestPic: guestPic166.jpg
-image: https://mailta.pe/img/fbPic166.jpg
+fbPic: fbPic166.jpg
 musiColor: musiColor166.png
 description: "This morning, we bring you a Mailtape curated in collaboration with Barney Artist. Now, as you have eaten this week more than the combined total of what you will eat in the coming weeks, we thought you might desire a sweet tape to put an end to your insatiable Christmas craving."
 ---

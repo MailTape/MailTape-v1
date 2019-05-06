@@ -11,9 +11,9 @@ guest_color: trippy
 track1_link: 'https://soundcloud.com/progressive-form/ilu-its-dope-from-dont-watch-the-sun-pfcd71'
 track2_link: 'https://soundcloud.com/yukinoame/water-from-thoughts'
 track3_link: 'https://soundcloud.com/sassy009/are-you-leaving-2'
-track4_link: 'https://soundcloud.com/lorainejames/song-for-2017-29-demo-ft-zarif-miah-extended-version'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/323/track4.mp3'
 track5_link: 'https://soundcloud.com/ourimusic/superficial'
-track6_link: 'https://soundcloud.com/kilamanzego/stay-floated-in-the-tribe'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/323/track6.mp3'
 track7_link: 'https://soundcloud.com/secretmommy/clothing-racks-sears'
 track1_title: iLU – It's DOPE!!
 track1_color: dreamy
@@ -35,7 +35,7 @@ description: >-
   This week we are delighted to welcome London-based electronic musician,
   Loraine James, who selects some groovy Sunday morning chops for us.
 musiColor: musiColor323.png
-image: https://mailta.pe/img/fbPic323.jpg
+fbPic: fbPic323.jpg
 ---
 <p id="introduction">This week we are delighted to welcome London-based electronic musician [Loraine James](https://soundcloud.com/lorainejames), who selects some groovy Sunday morning chops for us.</p>
 <p>Influenced by artists such as Aoki Takamasa, Telefon Tel Aviv and Circa Survive, Loraine crafts organic textures through inorganic means. In her own words, she's making music that is 'sometimes glitch, sometimes ambient—and sometimes in-between electronic music'. Her debut 2017 album, [Detail](https://lorainejames.bandcamp.com/album/detail), is also out now.</p>

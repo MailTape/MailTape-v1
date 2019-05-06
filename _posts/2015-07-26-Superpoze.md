@@ -16,7 +16,7 @@ guest_name: Superpoze
 track1_link: "https://mailtapesounds.s3.amazonaws.com/196/track1.mp3"
 track2_link: "https://soundcloud.com/dreamkoala/saturn-boy"
 track3_link: "https://mailtapesounds.s3.amazonaws.com/196/track3.mp3"
-track4_link: "https://soundcloud.com/superpoze/overseas-sekuoia-rework-1"
+track4_link: "https://mailtapesounds.s3.amazonaws.com/196/track4.mp3"
 track5_link: "https://soundcloud.com/felix-laband/felix-laband-squeeze-the-trigger"
 track6_link: "https://soundcloud.com/wearehusbands/laurent-garnier-the-rise-the-fall-of-the-donkey-dog_husbands-remix"
 track7_link: "https://soundcloud.com/zeroflexx/arcade-funke"
@@ -30,7 +30,7 @@ track7_title: "JeF ZeRo - Arcade Funke"
 guestPic: guestPic196.jpg
 description: "This Sunday, let yourself dive into a universe of musical indulgence powered by softness. Pleasure to welcome Superpoze and his selection of blissful tunes. Waking peacefully to the sound of indulgence followed by an explosion of temptation filed with surprises"
 musiColor: musiColor196.png
-image: https://mailta.pe/img/fbPic196.jpg
+fbPic: fbPic196.jpg
 episode_URL: "http://mailta.pe/196/Superpoze/"
 ---
 

@@ -31,7 +31,7 @@ track5_color: bliss
 track6_color: dreamy
 track7_color: rough
 illustrator: Pierre-Julien Fieux
-image: https://mailta.pe/img/fbPic324.png
+fbPic: fbPic324.png
 musiColor: musiColor324.png
 description: >-
   This morning, we have the immense pleasure to invite Flavien Berger. Following
