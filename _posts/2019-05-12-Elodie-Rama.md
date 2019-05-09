@@ -2,6 +2,27 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Anthony Dujardin
+writer: Anaïs G
+category: '357'
+guest_name: Elodie Rama
+guest_color: bliss
+track4_link: 'https://soundcloud.com/elodie-rama/elodie-rama-h-o-m-e'
+track4_color: bliss
+track4_title: 'Elodie Rama - H O M E '
+track3_color: trippy
+track3_title: Témé Tan x Le Motel - Le ciel
+track2_title: 'Varnish La Piscine - Bubble '
+track2_color: dreamy
+track1_title: 'CM Jones - Remain '
+track1_color: vibrant
+track1_link: 'https://soundcloud.com/munchierecords/cm-jones-feat-king-krab-remain'
+track7_link: 'https://soundcloud.com/ylaceyp/black-moon'
+track7_color: bliss
+track7_title: 'Yazmin Lacey - Black Moon '
+track6_color: vibrant
+track6_title: 'Rosie Lowe - Pharoah  '
 ---
 <p id="introduction"> This morning, we are delighted to welcome Palestinian DJ and electronic music producer [SAMA'](http://www.samaahadi.com/) to pick three Sunday morning musical selections for us.
 <br><br>
