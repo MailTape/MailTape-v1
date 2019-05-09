@@ -12,7 +12,7 @@ track4_link: 'https://soundcloud.com/elodie-rama/elodie-rama-h-o-m-e'
 track4_color: bliss
 track4_title: 'Elodie Rama - Home '
 track3_color: trippy
-track3_title: Témé Tan x Le Motel - Le ciel
+track3_title: Témé Tan x Le Motel - Le Ciel
 track2_title: 'Varnish La Piscine - Bubble '
 track2_color: dreamy
 track1_title: CM Jones - Remain feat King Krab
@@ -47,7 +47,7 @@ Elodie Rama: **"**CM Jones is a French/American duo composed of producer Creesta
 ## Varnish La Piscine - Bubble
 Elodie Rama: **"**The vibe of this tune is so funky, it makes me want to dance instantly. To me it’s a feelgood music and i like the fact that it’s sung in French. It’s quite unusual to have this style of music in French.**"**
 
-## Témé Tan - Le Ciel 
+## Témé Tan x Le Motel - Le Ciel 
 Elodie Rama: **"**Témé Tan has this unique sound, modern and traditional at the same time. He’s a great performer and singer, i fell in love with his music a while ago. In a general matter, i'm feeling deeply connected to his music because it sounds so personal and honest. We became friends few years ago thanks to the internet and we’re family now!**"**
 
 
