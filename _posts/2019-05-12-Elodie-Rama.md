@@ -55,13 +55,13 @@ Elodie Rama: **"**Témé Tan has this unique sound, modern and traditional at th
 ## Elodie Rama - Home 
 Anaïs G: **"** **"**
 
-## 
+## Celeste - Summer feat Jeshi
 Anaïs G: **"**  **"**
 
-## 
+## Rosie Lowe - Pharoah
 Anaïs G: **"**  **"**
 
-## 
+## Yazmin Lacey - Black Moon 
 Anaïs G: **"** **"**
 
 
