@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
@@ -30,6 +30,10 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%203.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%205.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
 guestPic: guestPic357.jpg
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> This morning, 
 <br><br>
