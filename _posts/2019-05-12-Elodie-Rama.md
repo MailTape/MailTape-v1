@@ -24,11 +24,10 @@ track7_title: 'Yazmin Lacey - Black Moon '
 track6_color: vibrant
 track6_title: 'Rosie Lowe - Pharoah  '
 ---
-<p id="introduction"> This morning, we are delighted to welcome Palestinian DJ and electronic music producer [SAMA'](http://www.samaahadi.com/) to pick three Sunday morning musical selections for us.
+<p id="introduction"> This morning, 
 <br><br>
 
-Born in Jordan, Sama Abdulhadi grew up in Ramallah and is one of the very first artists to emerge from the West Bank region. Initially active in the early-2000s hip hop scene, she started mixing in 2006 in the first techno nights around the city, at a time when “the only DJs in Ramallah were wedding DJs”. In late 2018, [SAMA’s Boiler Room performance](https://www.youtube.com/watch?v=x9VYKrtziSg) and the associated [documentary about the underground Palestinian scene](https://www.youtube.com/watch?v=M-R8S7QwO1g) went viral and shed light on this electric, vibrant community. 
-[SAMA'](https://www.facebook.com/sama.saad/) is also working as an audio engineer and managing Awyav, the publishing agency she founded to represent independent Arab artists. She is now working on the release of her album.
+
 </p>
 
 
