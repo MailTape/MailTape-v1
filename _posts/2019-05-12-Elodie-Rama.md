@@ -25,6 +25,10 @@ track6_color: vibrant
 track6_title: 'Rosie Lowe - Pharoah  '
 track5_title: Celeste - Summer feat Jeshi
 track5_color: dreamy
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%202.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%203.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%205.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
