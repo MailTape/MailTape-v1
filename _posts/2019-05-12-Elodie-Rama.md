@@ -10,7 +10,7 @@ guest_name: Elodie Rama
 guest_color: bliss
 track4_link: 'https://soundcloud.com/elodie-rama/elodie-rama-h-o-m-e'
 track4_color: bliss
-track4_title: 'Elodie Rama - H O M E '
+track4_title: 'Elodie Rama - Home '
 track3_color: trippy
 track3_title: Témé Tan x Le Motel - Le ciel
 track2_title: 'Varnish La Piscine - Bubble '
@@ -23,6 +23,8 @@ track7_color: bliss
 track7_title: 'Yazmin Lacey - Black Moon '
 track6_color: vibrant
 track6_title: 'Rosie Lowe - Pharoah  '
+track5_title: Celeste - Summer feat Jeshi
+track5_color: dreamy
 ---
 <p id="introduction"> This morning, 
 <br><br>
