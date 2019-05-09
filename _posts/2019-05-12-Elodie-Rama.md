@@ -15,7 +15,7 @@ track3_color: trippy
 track3_title: Témé Tan x Le Motel - Le ciel
 track2_title: 'Varnish La Piscine - Bubble '
 track2_color: dreamy
-track1_title: 'CM Jones - Remain '
+track1_title: CM Jones - Remain feat King Krab
 track1_color: vibrant
 track1_link: 'https://soundcloud.com/munchierecords/cm-jones-feat-king-krab-remain'
 track7_link: 'https://soundcloud.com/ylaceyp/black-moon'
@@ -30,10 +30,6 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%203.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%205.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
 guestPic: guestPic357.jpg
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
 ---
 <p id="introduction"> This morning, 
 <br><br>
@@ -45,7 +41,7 @@ description: ''
 
 # Elodie Rama's selection
 
-## CM Jones - Remain
+## CM Jones - Remain feat King Krab
 Elodie Rama: **"**CM Jones is a French/American duo composed of producer Creestal and emcee Moshadee. The production and vocale are classy and timeless just like the whole LP. Creestal is based in Marseille and he’s one of the first musician i met when i moved here. Now we work together, he’s my music soulmate !**"**
 
 ## Varnish La Piscine - Bubble
