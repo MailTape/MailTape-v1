@@ -32,10 +32,10 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
 guestPic: guestPic357.jpg
 episode_URL: 'http://mailta.pe/357/Elodie-Rama'
 ---
-<p id="introduction"> This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or after, or we decide to pick up the half-awake croissants, the selection of Elodie Rama accompanies us in our ears this Sunday.
+<p id="introduction">This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening, or we decide to buy a croissants, the selection of Elodie Rama accompanies us in our ears this Sunday.
 <br><br>
 
-A dose of jazz, a hint of soul and a twist of folk, this artist’s universe fascinates us and impregnates with her origins and experiences. Elodie Rama is a singer, an imposing voice, but she is also a visual artist and fashion designer.</p>
+A dose of jazz, a hint of soul and a twist of folk ! This artist’s universe fascinates us and impregnates with her origins and experiences. Elodie Rama is a singer, an imposing voice, but she is also a visual artist and fashion designer.</p>
 
 
 
