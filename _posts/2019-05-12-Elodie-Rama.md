@@ -57,13 +57,13 @@ Elodie Rama: **"**Témé Tan has this unique sound, modern and traditional at th
 Anaïs G: **"**A favourite for this artist discovered at the end of 2018. With as collaborators Creestal (duo of the CM Jones group and boss of the label Munchie Records) or Blanka (member of La Fine Equipe), Elodie Rama offers us a return worthy of his name with "H O M E", the song smile par excellence with a very aesthetic and stylish clip.**"**
 
 ## Celeste - Summer feat Jeshi
-Anaïs G: **"**  **"**
+Anaïs G: **"**How can we not love that satin voice that caresses our bodies and tingles our hearts? His EP "Lately" released last March, is a condensed nugget soul where one does not know how to give head.**"**
 
 ## Rosie Lowe - Pharoah
-Anaïs G: **"**  **"**
+Anaïs G: **"**At the beginning of this piece, the guitar chords are enough to make me melt with pleasure. Extract of his second opus "YU" released on May 10, "Pharoah" poses us in a sensual soul with its lascivious voice and a sophisticated look that leaves us speechless.**"**
 
 ## Yazmin Lacey - Black Moon 
-Anaïs G: **"** **"**
+Anaïs G: **"**New signature of the label Brownswood Recordings, this singer from Nottingham transports us through his influences jazzy, r'n'b or neo soul. My devotee jumped on the song "Black Moon" released in 2017, a concentrate of good mood and chill. the perfect song for a Sunday chill!**"**
 
 
 
