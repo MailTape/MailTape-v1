@@ -73,4 +73,5 @@ Anaïs G: **"**This Nottingham singer and new signature of the Brownswood Record
 
 
 
-<p id="outroduction"> That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to Elodie Rama for his Sunday selections, and to Anthony Dujardin for her stunning illustration.</p>
+<p id="outroduction"> That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to Elodie Rama for his Sunday selections, and to Anthony Dujardin ![fbPic357.png]({{site.baseurl}}/img/fbPic357.png)
+for her stunning illustration.</p>
