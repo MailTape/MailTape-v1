@@ -55,16 +55,16 @@ Elodie Rama: **"**Témé Tan has this unique sound, modern and traditional at th
 # MailTape's selection
 
 ## Elodie Rama - Home 
-Anaïs G: **"**A favourite for this artist discovered at the end of 2018. With as collaborators Creestal (duo of the CM Jones group and boss of the label Munchie Records) or Blanka (member of La Fine Equipe), Elodie Rama offers us a return worthy of his name with "H O M E", the song smile par excellence with a very aesthetic and stylish clip.**"**
+Anaïs G: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label Munchie Records) or Blanka (member of La Fine Equipe) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a nice clip.**"**
 
 ## Celeste - Summer feat Jeshi
-Anaïs G: **"**How can we not love that satin voice that caresses our bodies and tingles our hearts? His EP "Lately" released last March, is a condensed nugget soul where one does not know how to give head.**"**
+Anaïs G: **"**How can we not love that satin voice that caresses our bodies and tingles our hearts? His EP "Lately" released last March is an ode to the nude soul to enjoy without moderation.**"**
 
 ## Rosie Lowe - Pharoah
-Anaïs G: **"**At the beginning of this piece, the guitar chords are enough to make me melt with pleasure. Extract of his second opus "YU" released on May 10, "Pharoah" poses us in a sensual soul with its lascivious voice and a sophisticated look that leaves us speechless.**"**
+Anaïs G: **"**At the beginning of this piece of music, the guitar chords are enough to make me melt of pleasure. In "Pharoah", Rosie Lowe reveals to us a lascivious voice and a sophisticated look to any proof, all in a sensual atmosphere. The title is extract from his second album "YU" released on May 10.**"**
 
 ## Yazmin Lacey - Black Moon 
-Anaïs G: **"**New signature of the label Brownswood Recordings, this singer from Nottingham transports us through his influences jazzy, r'n'b or neo soul. My devotee jumped on the song "Black Moon" released in 2017, a concentrate of good mood and chill. the perfect song for a Sunday chill!**"**
+Anaïs G: **"**This Nottingham singer and new signature of the Brownswood Recordings label,  transports us through her jazzy influences, r'n'b or neo soul. Black Moon" released in 2017, is a concentrate of good mood and chill. The perfect song for a Sunday chill! **"**
 
 
 
