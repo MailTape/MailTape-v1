@@ -33,7 +33,7 @@ guestPic: guestPic357.jpg
 episode_URL: 'http://mailta.pe/357/Elodie-Rama'
 image: 'http://mailta.pe/img/fbPic357.png'
 ---
-<p id="introduction">This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening, or we decide to buy a croissants, the selection of Elodie Rama accompanies us in our ears this Sunday.
+<p id="introduction">This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of Elodie Rama in the ears.
 <br><br>
 
 A dose of jazz, a hint of soul and a twist of folk ! This artist’s universe fascinates us and impregnates with her origins and experiences. Elodie Rama is a singer, an imposing voice, but she is also a visual artist and fashion designer.</p>
