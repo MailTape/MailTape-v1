@@ -33,6 +33,10 @@ guestPic: guestPic357.jpg
 episode_URL: 'http://mailta.pe/357/Elodie-Rama'
 image: 'http://mailta.pe/img/fbPic357.png'
 musiColor: musiColor35.png
+description: >-
+  This morning, we walk through the deserted streets of a city (of your choice).
+  Whether we return from the evening or we decide to buy croissants, we listen
+  to the musical selection of Elodie Rama in the ears.
 ---
 <p id="introduction">This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of Elodie Rama in the ears.
 <br><br>
