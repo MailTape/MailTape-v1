@@ -31,7 +31,7 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%205.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
 guestPic: guestPic357.jpg
 episode_URL: 'http://mailta.pe/357/Elodie-Rama'
-image: fbPic357.png
+image: 'https://mailta.pe/img/fbPic357.png'
 musiColor: musiColor35.png
 description: >-
   This morning, we walk through the deserted streets of a city (of your choice).
