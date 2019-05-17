@@ -43,7 +43,7 @@ In her own words, her music is 'the celebration of a nomadic folk imbued with sw
 _Siêm Folknomade_: **"**Hypnotic and melancholic. A vaporous spirit that melts me deep in the heart. Love the emergency heartbeat and the silence! Love the minimalist beauty of this artist. [Ry x](https://www.ry-x.com/) has all the spirit of ubiquity and universality. That's the 'Nowhere Everywhere' songs I love. So nomadic!**"**
 
 ## [Maii Waleed](http://maiiwaleed.daportfolio.com/) – يوم الاتني
-_Siêm Folknomade_: **"**Meaning literally Monday in Arabic. So ambitious for a Sunday morning mood! haha. Love the rêverie of the track. I am fan of this artist and her neo-alternative musical vision. So mellow like a creamy milky kawa!**"**
+_Siêm Folknomade_: **"**Meaning 'Monday' in Arabic. So ambitious for a Sunday morning mood! haha. Love the rêverie of the track. I am fan of this artist and her neo-alternative musical vision. So mellow like a creamy milky kawa!**"**
 
 ## [Nonku Phiri](https://soundcloud.com/nonkuphiri) – Sîfo
 _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful discovery. I feel this song like a rewarding to shadow. A peaceful inner celebration. Love the life whatsoever and beyond any intuition.**"**
