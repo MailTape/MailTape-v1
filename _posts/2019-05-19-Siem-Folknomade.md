@@ -31,10 +31,10 @@ track7_title: The Last Poets – If We Only Knew What We Could Do
 track7_color: vibrant
 image: 'http://mailta.pe/358/siem-folknomade/'
 ---
-<p id="introduction">This morning, we walk through the deserted streets of a city (of your choice). Whether we return from the evening or we decide to buy croissants, we listen to the musical selection of [Elodie Rama](https://elodierama.fr/) in the ears.
+<p id="introduction">This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
 <br><br>
 
-A dose of jazz, a hint of soul and a twist of folk ! This artist’s universe fascinates us and impregnates with her origins and experiences. [Elodie Rama](https://www.facebook.com/elodie.rama/) is a singer, an imposing voice, but she is also a visual artist and fashion designer.</p>
+In her own words, her music is 'the celebration of a nomadic folk imbued with sweet metaphors, dissolutely original and eternally ephemeral'. If you're in Marseille on 24th May, she'll be performing at [La Mesón](https://www.facebook.com/events/349829132291153/).</p>
 
 
 # Siêm Folknomade's selection
