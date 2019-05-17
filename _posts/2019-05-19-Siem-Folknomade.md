@@ -40,13 +40,13 @@ A dose of jazz, a hint of soul and a twist of folk ! This artist’s universe fa
 # Siêm Folknomade's selection
 
 ## Ry x – Bound
-Elodie Rama: **"**CM Jones is a French/American duo composed of producer Creestal and emcee Moshadee. The production and vocale are classy and timeless just like the whole LP. [Creestal](https://www.facebook.com/DJCreestal/) is based in Marseille and he’s one of the first musician i met when i moved here. Now we work together, he’s my music soulmate !**"**
+_Siêm Folknomade_: **"**Hypnotic and melancholic. A vaporous spirit that melts me deep in the heart. Love the emergency heartbeat and the silence! Love the minimalist beauty of this artist. Ry x has all the spirit of ubiquity and universality. That's the 'Nowhere Everywhere' songs I love. So nomadic!**"**
 
-## [Varnish La Piscine](https://soundcloud.com/varnishlapiscine) - Bubble
-Elodie Rama: **"**The vibe of this tune is so funky, it makes me want to dance instantly. To me it’s a feelgood music and i like the fact that it’s sung in French. It’s quite unusual to have this style of music in French.**"**
+## Maii Waleed – يوم الاتني
+_Siêm Folknomade_: **"**Meaning literally Monday in Arabic. So ambitious for a Sunday morning mood! haha. Love the rêverie of the track. I am fan of this artist and her neo-alternative musical vision. So mellow like a creamy milky kawa!**"**
 
-## Témé Tan x Le Motel - Le Ciel 
-Elodie Rama: **"**[Témé Tan](https://soundcloud.com/teme-tan) has this unique sound, modern and traditional at the same time. He’s a great performer and singer, i fell in love with his music a while ago. In a general matter, i'm feeling deeply connected to his music because it sounds so personal and honest. We became friends few years ago thanks to the internet and we’re family now!**"**
+## Nonku Phiri – Sîfo
+_Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful discovery. I feel this song like a rewarding to shadow. A peaceful inner celebration. Love the life whatsoever and beyond any intuition.**"**
 
 
 # MailTape's selection
