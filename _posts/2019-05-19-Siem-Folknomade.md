@@ -21,7 +21,7 @@ track2_title: Maii Waleed – يوم الاتنين
 track2_color: bliss
 track3_title: Nonku Phiri – Sîfo
 track3_color: trippy
-track4_title: Siêm Folknomade – Et Même si
+track4_title: Siêm Folknomade – Et Même Si
 track4_color: bliss
 track5_title: Emiliana Torrini – Tookah
 track5_color: dreamy
