@@ -39,7 +39,7 @@ A dose of jazz, a hint of soul and a twist of folk ! This artist’s universe fa
 
 # Siêm Folknomade's selection
 
-## [CM Jones](https://www.facebook.com/wearecmjones/) - Remain feat King Krab
+## Ry x – Bound
 Elodie Rama: **"**CM Jones is a French/American duo composed of producer Creestal and emcee Moshadee. The production and vocale are classy and timeless just like the whole LP. [Creestal](https://www.facebook.com/DJCreestal/) is based in Marseille and he’s one of the first musician i met when i moved here. Now we work together, he’s my music soulmate !**"**
 
 ## [Varnish La Piscine](https://soundcloud.com/varnishlapiscine) - Bubble
@@ -66,4 +66,3 @@ Anaïs G: **"**This Nottingham singer and new signature of [the Brownswood Recor
 
 
 <p id="outroduction"> That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to [Elodie Rama](https://elodierama.fr/) for his Sunday selections, and to Anthony Dujardin for her stunning illustration.</p>
-
