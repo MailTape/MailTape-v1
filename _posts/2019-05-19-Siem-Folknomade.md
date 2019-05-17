@@ -51,17 +51,17 @@ _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful dis
 
 # MailTape's selection
 
-## [Elodie Rama](https://soundcloud.com/elodie-rama) - Home 
-Anaïs G: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label [Munchie Records](https://soundcloud.com/munchierecords)) or [Blanka](https://soundcloud.com/blankasanova)(member of [La Fine Equipe](https://soundcloud.com/lafineequipe)) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a [nice clip](https://www.youtube.com/watch?v=Lhtb8kqD3ec).**"**
+## Siêm Folknomade – Et Même Si
+_Sanjay_: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label [Munchie Records](https://soundcloud.com/munchierecords)) or [Blanka](https://soundcloud.com/blankasanova)(member of [La Fine Equipe](https://soundcloud.com/lafineequipe)) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a [nice clip](https://www.youtube.com/watch?v=Lhtb8kqD3ec).**"**
 
-## [Celeste](https://soundcloud.com/celestewaite) - Summer feat Jeshi
-Anaïs G: **"**How can we not love that satin voice that caresses our bodies and tingles our hearts? His EP "Lately" released last March is an ode to the nude soul to enjoy without moderation.**"**
+## Emiliana Torrini – Tookah
+_Sanjay_: **"**How can we not love that satin voice that caresses our bodies and tingles our hearts? His EP "Lately" released last March is an ode to the nude soul to enjoy without moderation.**"**
 
-## [Rosie Lowe](https://soundcloud.com/rosielowe) - Pharoah
-Anaïs G: **"**At the beginning of this piece of music, the guitar chords are enough to make me melt of pleasure. In "Pharoah", Rosie Lowe reveals to us a lascivious voice and a sophisticated look to any proof, all in a sensual atmosphere. The title is extract from his second album ["YU"](https://soundcloud.com/rosielowe/sets/yu-202) released on May 10.**"**
+## Lilith Ai – Native Tongue
+_Sanjay_: **"**At the beginning of this piece of music, the guitar chords are enough to make me melt of pleasure. In "Pharoah", Rosie Lowe reveals to us a lascivious voice and a sophisticated look to any proof, all in a sensual atmosphere. The title is extract from his second album ["YU"](https://soundcloud.com/rosielowe/sets/yu-202) released on May 10.**"**
 
-## Yazmin Lacey - Black Moon 
-Anaïs G: **"**This Nottingham singer and new signature of [the Brownswood Recordings label](https://soundcloud.com/brownswood),  transports us through her jazzy influences, r'n'b or neo soul. "Black Moon" released in 2017, is a concentrate of good mood and chill. The perfect song for a Sunday chill! **"**
+## The Last Poets – If We Only Knew What We Could Do 
+_Sanjay_: **"**This Nottingham singer and new signature of [the Brownswood Recordings label](https://soundcloud.com/brownswood),  transports us through her jazzy influences, r'n'b or neo soul. "Black Moon" released in 2017, is a concentrate of good mood and chill. The perfect song for a Sunday chill! **"**
 
 
 
