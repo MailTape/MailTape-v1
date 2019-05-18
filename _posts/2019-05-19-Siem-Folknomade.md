@@ -60,7 +60,7 @@ _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful dis
 _Sanjay_: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label [Munchie Records](https://soundcloud.com/munchierecords)) or [Blanka](https://soundcloud.com/blankasanova)(member of [La Fine Equipe](https://soundcloud.com/lafineequipe)) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a [nice clip](https://www.youtube.com/watch?v=Lhtb8kqD3ec).**"**
 
 ## Emiliana Torrini – Tookah
-_Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric folksy melodies atop bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
+_Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric folksy melodies upon bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
 
 ## Lilith Ai – Native Tongue
 _Sanjay_: **"**[Lilith Ai](https://soundcloud.com/lilithai) is an accomplished singer-songwriter drawing subtly on folk, soul, hip-hop and R&B. All of this is seen through the barrier-trashing lens of punk spirit, which explains her 'Fight Like A Girl' crew.  It involves zinework, recording and enthusiastic intimate gigs in makeshift locations, allied to a sense that rigid genre (and rigid gender) boundaries are less important than constructive intent and political engagement.**"**
