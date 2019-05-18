@@ -60,7 +60,7 @@ _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful dis
 _Sanjay_: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label [Munchie Records](https://soundcloud.com/munchierecords)) or [Blanka](https://soundcloud.com/blankasanova)(member of [La Fine Equipe](https://soundcloud.com/lafineequipe)) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a [nice clip](https://www.youtube.com/watch?v=Lhtb8kqD3ec).**"**
 
 ## Emiliana Torrini – Tookah
-_Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric and evocative folksy melodies atop bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
+_Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric folksy melodies atop bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
 
 ## Lilith Ai – Native Tongue
 _Sanjay_: **"**At the beginning of this piece of music, the guitar chords are enough to make me melt of pleasure. In "Pharoah", Rosie Lowe reveals to us a lascivious voice and a sophisticated look to any proof, all in a sensual atmosphere. The title is extract from his second album ["YU"](https://soundcloud.com/rosielowe/sets/yu-202) released on May 10.**"**
