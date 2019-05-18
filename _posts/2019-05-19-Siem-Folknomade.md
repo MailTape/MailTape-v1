@@ -57,7 +57,7 @@ _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful dis
 # MailTape's selection
 
 ## Siêm Folknomade – Et Même Si
-_Sanjay_: **"**Siêm Folknomade has been a listener of MailTape for many years. **"**
+_Sanjay_: **"**[Siêm Folknomade](https://linktr.ee/siemfolknomade) has been a listener of MailTape for many years. When she emailed me about appearing as a guest in her own right while offering her debut EP 'BlackSheepColorist', I thought it would be pleasure to welcome her melancholy music and lyrics of exile, body and heart...**"**
 
 ## Emiliana Torrini – Tookah
 _Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric folksy melodies upon bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
