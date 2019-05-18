@@ -29,7 +29,6 @@ track6_title: Lilith Ai – Native Tongue
 track6_color: bliss
 track7_title: The Last Poets – If We Only Knew What We Could Do
 track7_color: vibrant
-image: 'http://mailta.pe/358/siem-folknomade/'
 guestPic: guestPic358.jpg
 ---
 <p id="introduction">This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
