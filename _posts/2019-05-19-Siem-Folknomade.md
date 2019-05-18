@@ -66,7 +66,7 @@ _Sanjay_: **"**There's something of the pastoral electronica here; rooted in atm
 _Sanjay_: **"**At the beginning of this piece of music, the guitar chords are enough to make me melt of pleasure. In "Pharoah", Rosie Lowe reveals to us a lascivious voice and a sophisticated look to any proof, all in a sensual atmosphere. The title is extract from his second album ["YU"](https://soundcloud.com/rosielowe/sets/yu-202) released on May 10.**"**
 
 ## The Last Poets – If We Only Knew What We Could Do 
-_Sanjay_: **"**This Nottingham singer and new signature of [the Brownswood Recordings label](https://soundcloud.com/brownswood),  transports us through her jazzy influences, r'n'b or neo soul. "Black Moon" released in 2017, is a concentrate of good mood and chill. The perfect song for a Sunday chill! **"**
+_Sanjay_: **"**A scan through hip-hop’s genealogy shows the genre’s flair for dexterous word play is partly rooted in the work of [The Last Poets](https://en.wikipedia.org/wiki/The_Last_Poets), alongside Gil Scott-Heron. Smooth and cogent, the group—consisting of Seventies-era members [Abiodun Oyewole](https://en.wikipedia.org/wiki/Abiodun_Oyewole) and [Umar Bin Hassan](http://umarbinhassan.com/), along with percussionist Baba Donn Babatunde and other collaborators, including avant-jazz bassist [Jamaaladeen Tacuma](https://en.wikipedia.org/wiki/Jamaaladeen_Tacuma)—is back with a follow-up. 'Transcending Toxic Times' addresses themes it has been tackling since its founding in Harlem in 1968, including racism, oppression and the sins of America’s past.**"**
 
 
 
