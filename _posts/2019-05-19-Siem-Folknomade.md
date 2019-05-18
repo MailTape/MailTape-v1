@@ -34,9 +34,9 @@ image: 'https://mailta.pe/img/fbPic358.jpg'
 musiColor: musiColor358.png
 description: >-
   This morning we are pleased to welcome a long time MailTape listener and
-  Marseille-based vocalist, Siêm Folknomade.
+  Marseille-based vocalist and composer, Siêm Folknomade.
 ---
-<p id="introduction">This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
+<p id="introduction">This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist and composer, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
 <br><br>
 
 In her own words, her music is 'the celebration of a nomadic folk imbued with sweet metaphors, dissolutely original and eternally ephemeral'. If you're in Marseille on 24th May, she'll be performing at [La Mesón](https://www.facebook.com/events/349829132291153/).</p>
@@ -57,7 +57,7 @@ _Siêm Folknomade_: **"**This ode to grief is a recent neo-electro & soulful dis
 # MailTape's selection
 
 ## Siêm Folknomade – Et Même Si
-_Sanjay_: **"**Discovered at the end of 2018, I had a crush on this artist.It is by collaborating with Creestal (duo of the CM Jones group and boss of the label [Munchie Records](https://soundcloud.com/munchierecords)) or [Blanka](https://soundcloud.com/blankasanova)(member of [La Fine Equipe](https://soundcloud.com/lafineequipe)) that Elodie Rama signs his big return with the title "H O M E". A smile song illustrated with a [nice clip](https://www.youtube.com/watch?v=Lhtb8kqD3ec).**"**
+_Sanjay_: **"**Siêm Folknomade has been a listener of MailTape for many years. **"**
 
 ## Emiliana Torrini – Tookah
 _Sanjay_: **"**There's something of the pastoral electronica here; rooted in atmospheric folksy melodies upon bubbling percussive beats. 'Tookah' is a word made up, apparently, by [Emiliana Torrini](https://emilianatorrini.com/) to describe 'a sense of inner peace and tranquillity that can be present in everyone'.**"**
