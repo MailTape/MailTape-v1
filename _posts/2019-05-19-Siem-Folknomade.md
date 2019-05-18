@@ -70,4 +70,4 @@ _Sanjay_: **"**This Nottingham singer and new signature of [the Brownswood Recor
 
 
 
-<p id="outroduction"> That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to [Elodie Rama](https://elodierama.fr/) for his Sunday selections, and to Anthony Dujardin for her stunning illustration.</p>
+<p id="outroduction"> That's it for this morning. As always thank you so much for joining us! Much love and respect to [Siêm Folknomade](https://linktr.ee/siemfolknomade) for her Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her stunning illustration.</p>
