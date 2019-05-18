@@ -32,6 +32,9 @@ track7_color: vibrant
 guestPic: guestPic358.jpg
 image: 'https://mailta.pe/img/fbPic358.jpg'
 musiColor: musiColor358.png
+description: >-
+  This morning we are pleased to welcome a long time MailTape listener and
+  Marseille-based vocalist, Siêm Folknomade.
 ---
 <p id="introduction">This morning we are pleased to welcome a long time MailTape listener and Marseille-based vocalist, [Siêm Folknomade](https://linktr.ee/siemfolknomade).
 <br><br>
