@@ -1,3 +1,9 @@
+# Build folder
 _site
-.DS_Store
-img/.DS_Store
+
+# MacOSX folder view cache
+*.DS_Store
+
+# Vim swap files
+*.swp
+*.swo
