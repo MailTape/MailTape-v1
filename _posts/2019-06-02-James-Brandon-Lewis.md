@@ -64,4 +64,4 @@ _AnaïsG_: **"**A classic that I rediscovered during a stay in Paris by chance i
 _AnaïsG_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always thank you so much for embarking with us on our every Sunday journey! Much love and respect to [Felbm](https://felbm.com/) for his Sunday selections, and to [Anthony Dujardin](http://www.anthonydujardin.com/) for her stunning illustration.</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday! Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
