@@ -18,7 +18,7 @@ track4_title: James Brandon Lewis – Broken Shadow (Ornette Coleman)
 track4_color: dreamy
 track5_title: Wadada Leo Smith – Najwa
 track5_color: bliss
-track6_title: Susana Santos Silve – No Trees Land
+track6_title: Susana Santos Silva – No Trees Land
 track6_color: dreamy
 track7_title: 'Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I'
 track7_color: dreamy
