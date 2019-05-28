@@ -387,6 +387,7 @@ function PagePlayer() {
       this._data.className = pl.css.sPlaying;
       pl.addClass(this._data.oLI,this._data.className);
       self.setPageTitle(this._data.originalTitle);
+      window.sleep && sleep.prevent();
     },
 
     stop: function() {
@@ -395,6 +396,7 @@ function PagePlayer() {
       this._data.oPosition.style.width = '0px';
       self.setPageTitle();
       self.resetPageIcon();
+      window.sleep && sleep.allow();
     },
 
     pause: function() {
@@ -406,6 +408,7 @@ function PagePlayer() {
       pl.addClass(this._data.oLI,this._data.className);
       self.setPageTitle();
       self.resetPageIcon();
+      window.sleep && sleep.allow();
     },
 
     resume: function() {
@@ -415,6 +418,7 @@ function PagePlayer() {
       pl.removeClass(this._data.oLI,this._data.className);
       this._data.className = pl.css.sPlaying;
       pl.addClass(this._data.oLI,this._data.className);
+      window.sleep && sleep.prevent();
     },
 
     finish: function() {
@@ -428,6 +432,7 @@ function PagePlayer() {
         self.setPageTitle();
         self.resetPageIcon();
       }
+      window.sleep && sleep.allow();
     },
 
     whileloading: function() {

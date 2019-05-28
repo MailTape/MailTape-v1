@@ -13,7 +13,7 @@
             </div>
             <div class="col-md-10 col-sm-10 col-xs-12 center">
                     <h2>EPISODE #{{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
-                    <h1>{{ page.guest_name }}</h1>          
+                    <h1>{{ page.guest_name }}</h1>
             </div>
 
             <div class="col-md-1 col-sm-1 hidden-xs nav right">
@@ -28,12 +28,12 @@
             {% if site.time > page.next.date %}
                 <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe609;</a>
             {% endif %}
-            </div>  
-            
-            <div class="col-xs-8 col-xs-offset-1 center">    
+            </div>
+
+            <div class="col-xs-8 col-xs-offset-1 center">
             <span id="playButton" class="notPlaying">&#xe602;</span>
             </div>
-            
+
             <div class="col-xs-2 nav right">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe60a;</a>
             </div>
@@ -101,22 +101,22 @@
 
 <div id="main-content" class="container main">
 
-    <div class="row hidden-sm hidden-xs" id="creditAndSupportDesktop">        
+    <div class="row hidden-sm hidden-xs" id="creditAndSupportDesktop">
 
         <div id="credit" class="col-md-3">
             <h1>Humans behind this episode #{{ page.category }} 👩👨</h1>
             <p>
                 {% if page.author %}
-                Curator: {{page.author}}<br>          
+                Curator: {{page.author}}<br>
                 {% endif %}
 
                 {% if page.writer %}
-                Writer: {{page.writer}}<br>          
+                Writer: {{page.writer}}<br>
                 {% endif %}
 
                 {% if page.illustrator %}
-                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>        
-                {% endif %}                
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
+                {% endif %}
             </p>
         </div>
 
@@ -151,21 +151,21 @@
         </div>
     </div>
 
-    <div class="row visible-sm visible-xs" id="creditAndSupportMobile">        
+    <div class="row visible-sm visible-xs" id="creditAndSupportMobile">
 
         <div id="credit" class="col-md-3">
             <h1>Humans behind this episode #{{ page.category }} 🤗</h1>
             <p>
                 {% if page.author %}
-                Curator: {{page.author}}<br>          
+                Curator: {{page.author}}<br>
                 {% endif %}
 
                 {% if page.writer %}
-                Writer: {{page.writer}}<br>          
+                Writer: {{page.writer}}<br>
                 {% endif %}
 
                 {% if page.illustrator %}
-                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>        
+                <span id="illustrator">Illustrator: {{ page.illustrator }}</span><br>
                 {% endif %} 
             </p>
         </div>
@@ -190,37 +190,33 @@
 
     <br>
     <div class="row">
-        <div id="relatedEpisodes" class="col-md-12"> 
+        <div id="relatedEpisodes" class="col-md-12">
 <!--             <h1>Keep listening...</h1> -->
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" >
                     <a id="relatedEpisode_a_1" class="stretchMe">
                         <h2 id="relatedEpisode_h2_1"></h2>
-                          <img id="relatedEpisode_img_1" class="img-responsive re-musiColor"/>
+                        <img id="relatedEpisode_img_1" class="img-responsive re-musiColor"/>
                     </a>
                 </div>
 
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" >
                     <a id="relatedEpisode_a_2" class="stretchMe">
                         <h2 id="relatedEpisode_h2_2"></h2>
-                          <img id="relatedEpisode_img_2" class="img-responsive re-musiColor"/>
+                        <img id="relatedEpisode_img_2" class="img-responsive re-musiColor"/>
                     </a>
                 </div>
 
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
+                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" >
                     <a id="relatedEpisode_a_3" class="stretchMe">
                         <h2 id="relatedEpisode_h2_3"></h2>
-                          <img id="relatedEpisode_img_3" class="img-responsive re-musiColor"/>
+                        <img id="relatedEpisode_img_3" class="img-responsive re-musiColor"/>
                     </a>
                 </div>
-
         </div>
-
     </div>
 
-   <div class="archives" id="archives">
-    </div>
+   <div class="archives" id="archives"></div>
 
 </div>
 
 {% include footer.html %}
-
