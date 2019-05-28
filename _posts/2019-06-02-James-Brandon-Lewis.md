@@ -37,30 +37,30 @@ episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
 [Felbm](https://felbm.com/), just some piano notes, a little jazzy and minimalist. Some cool stuff with electro sounds that comes from his native Holland. Some beautiful things, like the spring coming or the warmth of the sun on our faces.
 </p>
 
-# Felbm's selection
+# James Brandon Lewis's selection
 
-##  Aquarius - Europanema
-_Felbm_: **"**Sundays are generally perfect for bossa nova music and this not so widely known group had their own trademark of adding Beach Boys-like harmonies to the more traditional unison singing. This song was written (and the album was co-produced) by Burnier, which can be heard in the composition as well as in the arrangement that resemble his work with Burnier & Cartier from the same period, that I’m also a fan of because of the sound and the rich harmonies. Apart from that for me personally this type of close-harmony singing reminds me of Sundays at home when I was younger and my dad would play Take 6 recordings in the living room quite loudly.**"**
+##  Ornette Coleman – The Blessing
+_James Brandon Lewis_: **"**A classic tune, simply because I grew up going to church. The title is fitting...it is very much a blessing this life is!**"**
 
-## [Eberhard Weber](https://fr.wikipedia.org/wiki/Eberhard_Weber) - Bird Out Of Cage
-_Felbm_: **"**First track off the very nice and Sunday-suitable album “[Pendulum](https://www.ecmrecords.com/catalogue/143038751471/pendulum-eberhard-weber)” by German bass player Eberhard Weber. It’s a recording made with just bass guitar and effects but that rises beyond a “bass record”, as it moves somewhere between jazz, fusion, minimal and ambient music. I like how his melodious bass playing actually sounds like a voice that is singing or speaking to you, while the background is quite meditative. This album also reminds me of the early Henri Texier albums that are bass-driven yet have the same meditative/spiritual quality.**"**
+## Duke Ellington & Mahalia Jackson – Come Sunday
+_James Brandon Lewis_: **"**One of my grandmother's favorite singers...so much soul and flavor. **"**
 
-## [Rogier van Otterloo](https://en.wikipedia.org/wiki/Rogier_van_Otterloo) - Moord Met Geduld
-_Felbm_: **"**This is a song taken from the original soundtrack of the Dutch classic movie [Turks Fruit](https://fr.wikipedia.org/wiki/Turkish_D%C3%A9lices). The title track - with the magnificent whistling and guitar playing by Toots Thielemans - is best known, but the whole album is a perfect Sunday record. This track is a great example of the brilliant work of composer and arranger Rogier van Otterloo. He was a star in creating these softly played romantic songs with warm string arrangements. I’m just a total sucker for the sound of this recording, with the crispy rhodes on top of the subdued playing of the rhythm section.**"**
+## Charlie Haden & Hank Jones – Take My Hand Precious Lord
+_James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden at the California Institute of the Arts...a beautiful soul...of course Hank Jones is a legend.**"**
 
 
 # MailTape's selection
 
-## [Felbm](https://www.facebook.com/felbmsounds/) - Monolocale
+## James Brandon Lewis - Broken Shadow (Ornette Coleman)
 _AnaïsG_: **"**The choice is hard when you start listening to Felbm [Tapes](https://felbm.bandcamp.com/). From classical sounds to more jazzy sounds, from plant sweetness to more minimalist music. He is the sage who will make us think and meditate just by listening to his music.**"**
 
-## [Kiefer](https://soundcloud.com/kiefdaddy) - Green Crayon 
+## Wadada Leo Smith – Najwa
 _AnaïsG_: **"**With its subtlety and elegance, it was obvious that Kiefer’s music was part of this selection. Originally from Los Angeles, this multi-instrumentalist panist surprises us and makes us melt with his jazz-hip hop sounds.**"**
 
-## [Bonga](https://fr.wikipedia.org/wiki/Bonga_(musicien)) - Mona Ki Ngi Xica
+## Susana Santos Silva – No Trees Land
 _AnaïsG_: **"**A classic that I rediscovered during a stay in Paris by chance in a hotel room. Thanks to my boyfriend for this sweet moment.**"**
 
-## [Yussef Dayes](https://www.facebook.com/yussefdayes/) x [Alfa Mist](https://www.facebook.com/yussefdayes/) feat [Mansur Brown](https://www.facebook.com/yussefdayes/) - Love is the message
+## Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
 _AnaïsG_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
 
 
