@@ -2,7 +2,6 @@ name: MailTape
 description: We release a playlist co-curated with a surprise guest each Sunday morning. 💎
 author: MailTape Crew
 markdown: kramdown
-pygments: false
 highlighter: rouge
 permalink: /:categories/:title/
 timezone: Europe/Paris
