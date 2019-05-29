@@ -51,7 +51,7 @@ _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden a
 
 # MailTape's selection
 
-## James Brandon Lewis - The Preacher's Baptist Beat
+## James Brandon Lewis – The Preacher's Baptist Beat
 _AnaïsG_: **"**The choice is hard when you start listening to Felbm [Tapes](https://felbm.bandcamp.com/). From classical sounds to more jazzy sounds, from plant sweetness to more minimalist music. He is the sage who will make us think and meditate just by listening to his music.**"**
 
 ## Wadada Leo Smith – Najwa
