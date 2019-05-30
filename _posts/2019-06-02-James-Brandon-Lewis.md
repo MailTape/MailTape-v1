@@ -32,9 +32,9 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/360/track6.mp3'
 episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
 ---
 
-<p id="introduction"> This morning we are pleased to welcome well-versed saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three spiritually-inspired Sunday morning tunes with us.
+<p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three spiritually-inspired Sunday morning tunes with us.
 <br><br>
-James Brandon Lewis articulates a big sound and deftly reconciles the worlds of the spiritual and the cerebral.
+James Brandon Lewis articulates a big sound and deftly reconciles the worlds of the spiritual and the cerebral. But there isn't an easy shorthand for his musical approach. Ever since his early releases—_Moments_, _Divine Travels_—the New York-based saxophonist has balanced a deep, gospel-informed spirituality with free-jazz abandon.
 </p>
 
 # James Brandon Lewis's selection
