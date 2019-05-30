@@ -34,7 +34,7 @@ episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
 
 <p id="introduction"> This morning we are pleased to welcome well-versed saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three spiritually-inspired Sunday morning tunes with us.
 <br><br>
-[Felbm](https://felbm.com/), just some piano notes, a little jazzy and minimalist. Some cool stuff with electro sounds that comes from his native Holland. Some beautiful things, like the spring coming or the warmth of the sun on our faces.
+James Brandon Lewis articulates a big sound and deftly reconciles the worlds of the spiritual and the cerebral.
 </p>
 
 # James Brandon Lewis's selection
