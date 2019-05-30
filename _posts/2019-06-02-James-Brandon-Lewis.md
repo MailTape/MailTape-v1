@@ -52,7 +52,7 @@ _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden a
 # MailTape's selection
 
 ## James Brandon Lewis – The Preacher's Baptist Beat
-_AnaïsG_: **"**The choice is hard when you start listening to Felbm [Tapes](https://felbm.bandcamp.com/). From classical sounds to more jazzy sounds, from plant sweetness to more minimalist music. He is the sage who will make us think and meditate just by listening to his music.**"**
+_AnaïsG_: **"**poet Thomas Sayers Ellis reading with the trio**"**
 
 ## Wadada Leo Smith – Najwa
 _AnaïsG_: **"**With its subtlety and elegance, it was obvious that Kiefer’s music was part of this selection. Originally from Los Angeles, this multi-instrumentalist panist surprises us and makes us melt with his jazz-hip hop sounds.**"**
