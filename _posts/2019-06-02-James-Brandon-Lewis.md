@@ -55,7 +55,7 @@ _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden a
 _AnaïsG_: **"**poet Thomas Sayers Ellis reading with the trio**"**
 
 ## Wadada Leo Smith – Najwa
-_AnaïsG_: **"**With its subtlety and elegance, it was obvious that Kiefer’s music was part of this selection. Originally from Los Angeles, this multi-instrumentalist panist surprises us and makes us melt with his jazz-hip hop sounds.**"**
+_AnaïsG_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadada Leo Smith](https://wadadaleosmith.com/)'s earliest influences with a guitar album of sorts. As such, the album celebrates past masters of creative music: Ornette Coleman, John Coltrane, Ronald Shannon Jackson and Billie Holiday. It features four guitarists—[Michael Gregory Jackson](http://michaelgregoryjackson.com/), [Henry Kaiser](http://www.henrykaiserguitar.com/), [Brandon Ross](https://www.brandonross.nyc) and Lamar Smith—who paint translucent colours over odd, muscular bass, drums and percussion grooves performed by [Bill Laswell](https://billlaswell.bandcamp.com/), [Pheeroan akLaff](https://www.pheeroanaklaff.com/) and [Adam Rudolph](https://metarecords.com/adam.html), respectively.**"**
 
 ## Susana Santos Silva – No Trees Land
 _AnaïsG_: **"**A classic that I rediscovered during a stay in Paris by chance in a hotel room. Thanks to my boyfriend for this sweet moment.**"**
