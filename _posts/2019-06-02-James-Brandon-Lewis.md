@@ -66,4 +66,4 @@ _Sanjay_: **"**On her album, 'Impermanence', [Susana Santos Silva](https://susan
 _Sanjay_: **"**Recorded in one take during an improvised session in Brooklyn, this piece eschews the robustness generally associated with improvisation. The music reveals itself slowly and in a most quiet self-effacing way.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday! Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
