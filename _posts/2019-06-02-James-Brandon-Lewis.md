@@ -63,7 +63,7 @@ _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadad
 _Sanjay_: **"**On her album, 'Impermanence', [Susana Santos Silva](https://susanasantossilva.com/) combines plenty of feints and decoys before unleashing her furious assaults on trumpet. A varied composer who sketches intricate, melodic textures, full of intriguing tension and an expansive interplay, as in this moving ballad.**"**
 
 ## Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
-_Sanjay_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
+_Sanjay_: **"**Recorded in one take during an improvised session in Brooklyn**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday! Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
