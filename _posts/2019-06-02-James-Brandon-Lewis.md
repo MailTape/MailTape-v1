@@ -30,10 +30,9 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/360/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/360/track3.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/360/track6.mp3'
 episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
-guestPic: ''
-image: ''
-musiColor: ''
-description: ''
+description: >-
+  This morning we are pleased to welcome saxophonist and composer, James Brandon
+  Lewis, to select three church-inspired Sunday morning tunes with us.
 ---
 
 <p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.
