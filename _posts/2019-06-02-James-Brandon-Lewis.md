@@ -56,7 +56,7 @@ _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden a
 # MailTape's selection
 
 ## James Brandon Lewis – The Preacher's Baptist Beat
-_Sanjay_: **"**Taken from [James Brandon Lewis](http://www.jblewis.com)'s 'Divine Travels' album, we hear James unafraid to play in a spiritual manner; his lines sway with fervour, mixing the blues shouts with shouts of hallelujah alongside poet [Thomas Sayers Ellis](https://en.wikipedia.org/wiki/Thomas_Sayers_Ellis) who reads with the trio.**"**
+_Sanjay_: **"**Taken from [James Brandon Lewis](http://www.jblewis.com)'s 'Divine Travels' album, we hear James unafraid to play in a spiritual manner. His lines sway with fervour, mixing the blues shouts with shouts of hallelujah alongside poet [Thomas Sayers Ellis](https://en.wikipedia.org/wiki/Thomas_Sayers_Ellis) who reads with the trio.**"**
 
 ## Wadada Leo Smith – Najwa
 _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadada Leo Smith](https://wadadaleosmith.com/)'s earliest influences with a guitar album of sorts. As such, the album celebrates past masters of creative music: Ornette Coleman, John Coltrane, Ronald Shannon Jackson and Billie Holiday. It features four guitarists—[Michael Gregory Jackson](http://michaelgregoryjackson.com/), [Henry Kaiser](http://www.henrykaiserguitar.com/), [Brandon Ross](https://www.brandonross.nyc) and Lamar Smith—who paint translucent colours over odd, muscular bass, drums and percussion grooves performed by [Bill Laswell](https://billlaswell.bandcamp.com/), [Pheeroan akLaff](https://www.pheeroanaklaff.com/) and [Adam Rudolph](https://metarecords.com/adam.html), respectively.**"**
