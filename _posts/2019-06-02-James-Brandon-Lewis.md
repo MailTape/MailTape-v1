@@ -34,7 +34,6 @@ description: >-
   This morning we are pleased to welcome saxophonist and composer, James Brandon
   Lewis, to select three church-inspired Sunday morning tunes with us.
 ---
-
 <p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.
 <br><br>
 James Brandon Lewis articulates a big sound and deftly reconciles the worlds of the spiritual and the cerebral. But there isn't an easy shorthand for his musical approach. Ever since his early releases—_Moments_, _Divine Travels_—the New York-based saxophonist has balanced a deep, gospel-informed spirituality with free jazz abandon.
