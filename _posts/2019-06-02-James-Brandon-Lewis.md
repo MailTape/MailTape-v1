@@ -62,7 +62,7 @@ _Sanjay_: **"**Taken from [James Brandon Lewis](http://www.jblewis.com)'s 'Divin
 _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadada Leo Smith](https://wadadaleosmith.com/)'s earliest influences with a guitar album of sorts. As such, the album celebrates past masters of creative music: Ornette Coleman, John Coltrane, Ronald Shannon Jackson and Billie Holiday. It features four guitarists—[Michael Gregory Jackson](http://michaelgregoryjackson.com/), [Henry Kaiser](http://www.henrykaiserguitar.com/), [Brandon Ross](https://www.brandonross.nyc) and Lamar Smith—who paint translucent colours over odd, muscular bass, drums and percussion grooves performed by [Bill Laswell](https://billlaswell.bandcamp.com/), [Pheeroan akLaff](https://www.pheeroanaklaff.com/) and [Adam Rudolph](https://metarecords.com/adam.html), respectively.**"**
 
 ## Susana Santos Silva – No Trees Land
-_Sanjay_: **"**On this album, 'Impermanence', Susana Santos Silva combines plenty of feints and decoys before unleashing her furious assaults on trumpet. **"**
+_Sanjay_: **"**On her album, 'Impermanence', [Susana Santos Silva](https://susanasantossilva.com/) combines plenty of feints and decoys before unleashing her furious assaults on trumpet. A varied composer who sketches intricate, melodic textures, full of intriguing tension and an expansive interplay, as in this moving ballad.**"**
 
 ## Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
 _Sanjay_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
