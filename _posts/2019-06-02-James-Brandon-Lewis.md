@@ -30,6 +30,10 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/360/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/360/track3.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/360/track6.mp3'
 episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
+guestPic: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 
 <p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three spiritually-inspired Sunday morning tunes with us.
@@ -43,7 +47,7 @@ James Brandon Lewis articulates a big sound and deftly reconciles the worlds of 
 _James Brandon Lewis_: **"**A classic tune, simply because I grew up going to church. The title is fitting...it is very much a blessing this life is!**"**
 
 ## Duke Ellington & Mahalia Jackson – Come Sunday
-_James Brandon Lewis_: **"**One of my grandmother's favorite singers...so much soul and flavor. **"**
+_James Brandon Lewis_: **"**One of my grandmother's favorite singers...so much soul and flavor.**"**
 
 ## Charlie Haden & Hank Jones – Take My Hand Precious Lord
 _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden at the California Institute of the Arts...a beautiful soul...of course Hank Jones is a legend.**"**
@@ -52,16 +56,16 @@ _James Brandon Lewis_: **"**I had the privilege of studying with Charlie Haden a
 # MailTape's selection
 
 ## James Brandon Lewis – The Preacher's Baptist Beat
-_AnaïsG_: **"**poet Thomas Sayers Ellis reading with the trio**"**
+_Sanjay_: **"**Taken from James Brandon Lewis's 'Divine Travels' album, this track features poet Thomas Sayers Ellis reading with the trio. **"**
 
 ## Wadada Leo Smith – Najwa
 _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadada Leo Smith](https://wadadaleosmith.com/)'s earliest influences with a guitar album of sorts. As such, the album celebrates past masters of creative music: Ornette Coleman, John Coltrane, Ronald Shannon Jackson and Billie Holiday. It features four guitarists—[Michael Gregory Jackson](http://michaelgregoryjackson.com/), [Henry Kaiser](http://www.henrykaiserguitar.com/), [Brandon Ross](https://www.brandonross.nyc) and Lamar Smith—who paint translucent colours over odd, muscular bass, drums and percussion grooves performed by [Bill Laswell](https://billlaswell.bandcamp.com/), [Pheeroan akLaff](https://www.pheeroanaklaff.com/) and [Adam Rudolph](https://metarecords.com/adam.html), respectively.**"**
 
 ## Susana Santos Silva – No Trees Land
-_AnaïsG_: **"**On this album, 'Impermanence', Susana Santos Silva combines plenty of feints and decoys before unleashing her furious assaults on trumpet. **"**
+_Sanjay_: **"**On this album, 'Impermanence', Susana Santos Silva combines plenty of feints and decoys before unleashing her furious assaults on trumpet. **"**
 
 ## Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
-_AnaïsG_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
+_Sanjay_: **"**A last title to close this playist that leaves me speechless as much by the genius of the artist as by the length of it. Yussef D., known to be a member of the duo Yussef Kaamal, literally transports us into a parallel world.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday! Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
