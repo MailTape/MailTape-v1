@@ -62,8 +62,8 @@ _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadad
 ## Susana Santos Silva – No Trees Land
 _Sanjay_: **"**On her album, 'Impermanence', [Susana Santos Silva](https://susanasantossilva.com/) combines plenty of feints and decoys before unleashing her furious assaults on trumpet. A varied composer who sketches intricate, melodic textures, full of intriguing tension and an expansive interplay, as in this moving ballad.**"**
 
-## Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
-_Sanjay_: **"**Recorded in one take during an improvised session in Brooklyn**"**
+## [Casimir Liberski](http://www.casimirliberski.com/), [Tyshawn Sorey](https://tyshawnsorey.com/) & [Thomas Morgan](http://thomasmorgan.net/) – Evanescence I
+_Sanjay_: **"**Recorded in one take during an improvised session in Brooklyn, this piece eschews the robustness generally associated with improvisation. The music reveals itself slowly and in a most quiet self-effacing way.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday! Much love and respect to [James Brandon Lewis](http://www.jblewis.com/) for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for his stunning illustration.</p>
