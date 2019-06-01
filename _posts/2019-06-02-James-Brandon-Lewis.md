@@ -35,6 +35,7 @@ description: >-
   Lewis, to select three church-inspired Sunday morning tunes with us.
 guestPic: guestPic360.jpg
 image: 'https://mailta.pe/img/fbPic360.jpg'
+musiColor: musiColor360.png
 ---
 <p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.
 <br><br>
