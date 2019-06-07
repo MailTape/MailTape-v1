@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track4_link: >-
   https://soundcloud.com/yaelmillermusic/forget-about-you?in=yaelmillermusic/sets/00-08a
 track1_link: 'https://soundcloud.com/mutesong/nick-cave-and-the-bad-seeds'
