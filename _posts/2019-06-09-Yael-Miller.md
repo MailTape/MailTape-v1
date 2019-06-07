@@ -57,13 +57,13 @@ _Yael Miler_: **"**When I’m alone in my Paris studio and I have some time to m
 ## Yael Miller – Forget About You 
 _Anaïs G_: **"** **"**
 
-##  – 
+## Seba Kaapstad – Africa
 _Anaïs G_: **"** **"**
 
-##  – 
+## Meernaa – Wildest Eyes
 _Anaïs G_: **"**  **"**
 
-##  – 
+## Exit Somoene – Mickael ( version 1 )
 _Anaïs G_: **"** **"**
 
 
