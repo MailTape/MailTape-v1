@@ -31,6 +31,11 @@ track2_title: Bjork - Jóga
 track3_title: Led Zeppelin - Whole Lotta Love
 episode_URL: 'http://mailta.pe/361/Yael-Miller'
 musiColor: musiColor361.png
+description: >-
+  This morning, the voice of women is resounding, it is growing and is fighting
+  against multiple inequalities... Whether gentle or strong, frail or assertive,
+  there must be no differences. Our guest this Sunday to this need to defend his
+  values.
 ---
 <p id="introduction"> This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
 <br><br>
