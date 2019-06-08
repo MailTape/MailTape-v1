@@ -36,6 +36,8 @@ description: >-
   against multiple inequalities... Whether gentle or strong, frail or assertive,
   there must be no differences. Our guest this Sunday to this need to defend his
   values.
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/361/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/361/Track3.mp3'
 ---
 <p id="introduction"> This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
 <br><br>
