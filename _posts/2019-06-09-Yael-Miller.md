@@ -54,10 +54,10 @@ image: fbPic361.png
 _Yael Miller_: **"**I chose this song because I recently discovered a series called "[Peaky Blinders](https://fr.wikipedia.org/wiki/Peaky_Blinders_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e))” and got addicted to it. I always loved Nick Cave and the mix between watching a top notch show with his music makes my day. I listen and watch the series when i have the time, and sunday morning is perfect for it.**"**
 
 
-## [Bjork](https://www.bjork.fr/) – Joga
+## [Bjork](https://www.bjork.fr/) – Jóga
 _Yael Miller_: **"**I’ve been inlove with Bjork’s writing and personalty since i started writing my own music. Whenever I want to awake my creativity i listen to her, and Joga is one of my favorite tunes. It’s relaxing and beautifully written.**"**
 
-## Led Zeppelin - Whole Lotta Love
+## [Led Zeppelin](https://fr.wikipedia.org/wiki/Led_Zeppelin) - Whole Lotta Love
 _Yael Miler_: **"**When I’m alone in my Paris studio and I have some time to myself, I love to pull up the curtains and dance. And every time I put at one point Led Zep… "Whole Lotta Love" always works, even if I listen to it a hundred times!**"**
 
 
