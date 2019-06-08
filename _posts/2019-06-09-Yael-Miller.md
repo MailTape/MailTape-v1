@@ -32,9 +32,9 @@ track3_title: Led Zeppelin - Whole Lotta Love
 episode_URL: 'http://mailta.pe/361/Yael-Miller'
 musiColor: musiColor361.png
 ---
-<p id="introduction"> This morning 
+<p id="introduction"> This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
 <br><br>
-
+Yael Miller, where the subtlety of jazz blends with the elegance of a powerful and assertive voice, is at the crossroads between music and personal combat.
 </p>
 
 
@@ -55,16 +55,16 @@ _Yael Miler_: **"**When I’m alone in my Paris studio and I have some time to m
 # MailTape's selection
 
 ## Yael Miller – Forget About You 
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**This israelo-swiss singer touches me with her commitment to political issues such as immigration and the place of women today. But also through his music and his musical project with indie-pop sounds. His first album "00-08" was released last November and I still discover some of these songs with pleasure. A treat for the ears.**"**
 
 ## Seba Kaapstad – Africa
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**Coming from both Berlin and Cape Town, this group thrusts its balance through the origins of each. Starting from electro, hip hop, African percussion and jazz, their music illuminates our day to guide us on the dancefloor with crazy assurance.**"**
 
 ## Meernaa – Wildest Eyes
-_Anaïs G_: **"**  **"**
+_Anaïs G_: **"**Originally from Oakland, California, this group seduced me with its mysterious and sensual side. A song in particular "Wildest Eyes", released in 2018 on their EP "Strange Life". It’s a ballad sound that caresses and pricks you with the incredible voice of Carly Bond. A heavenly journey through the nature that surrounds us.**"**
 
 ## Exit Somoene – Mickael K ( version 1 )
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**To perfect this playist, light and gentle with this Montreal duo. Now that I’m separated, all I want is for him to reappear on the music scene.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Yael Miller for her Sunday selections, and to Camille Célestin for her stunning illustration.</p>
