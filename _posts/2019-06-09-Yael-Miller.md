@@ -22,7 +22,7 @@ track1_color: vibrant
 track7_color: dreamy
 track5_color: bliss
 track6_color: vibrant
-track7_title: 'Exit Somoene - Mickeal K ( version 1) '
+track7_title: 'Exit Someone - Mickeal K ( version 1) '
 track6_title: Meernaa - Wildest Eyes
 track5_title: Seba Kaapstad - Africa
 track4_title: Yael Miller - Forget About You
