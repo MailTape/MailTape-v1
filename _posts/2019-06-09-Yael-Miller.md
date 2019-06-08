@@ -41,7 +41,6 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/361/Track3.mp3'
 image: fbPic361.png
 ---
 
-
 <p id="introduction"> This morning, the voice of women is resounding, it is growing and is fighting against multiple inequalities... Whether gentle or strong, frail or assertive, there must be no differences. Our guest this Sunday to this need to defend his values.
 <br><br>
 [Yael Miller](http://yaelmillermusic.com/home), where the subtlety of jazz blends with the elegance of a powerful and assertive voice, is at the crossroads between music and personal combat.
