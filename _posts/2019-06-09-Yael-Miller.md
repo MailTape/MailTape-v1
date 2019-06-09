@@ -76,4 +76,4 @@ _Anaïs G_: **"**Originally from Oakland, California, this group seduced me with
 _Anaïs G_: **"**To perfect this playist, light and gentle with this Montreal duo. Now that I’m separated, all I want is for him to reappear on the music scene.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Yael Miller](https://soundcloud.com/yaelmillermusic) for her Sunday selections, and to Camille Célestin for her stunning illustration.</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Yael Miller](https://soundcloud.com/yaelmillermusic) for her Sunday selections, and to [Camille Célestin](https://www.instagram.com/bravocamo/) for her stunning illustration.</p>
