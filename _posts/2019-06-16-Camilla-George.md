@@ -16,13 +16,13 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/362/track5.mp3'
 track6_link: 'https://soundcloud.com/jazzrefreshed/sarah-tandy-timelord'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/362/track7.mp3'
 track1_title: Kenny Garrett – Charlie Brown Goes to South Africa
-track1_color: dreamy
+track1_color: vibrant
 track2_title: 'Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the Street'
 track2_color: bliss
 track3_title: Zara McFarlane –  Silhouette
-track3_color: dreamy
+track3_color: bliss
 track4_title: Camilla George – Polkadots and Moonbeams
-track4_color: trippy
+track4_color: dreamy
 track5_title: 'Nicholas Payton – #BAMboula'
 track5_color: trippy
 track6_title: Sarah Tandy – Timelord
