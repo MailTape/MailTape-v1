@@ -38,13 +38,13 @@ James Brandon Lewis articulates a big sound and deftly reconciles the worlds of 
 # Camilla George's selection
 
 ##  Kenny Garrett – Charlie Brown Goes to South Africa
-_Camilla George_: **"**I am a huge Kenny fan and love his playing as much as his compositions. This is one of the first tunes of his that I heard and I have been hooked ever since!**"**
+_Camilla George_: **"**I am a huge [Kenny](http://www.kennygarrett.com/) fan and love his playing as much as his compositions. This is one of the first tunes of his that I heard and I have been hooked ever since!**"**
 
 ## Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the Street
-_Camilla George_: **"**I love both Sonny Rollins and Sonny Stitt’s playing on this as well as Dizzy’s singing at the end!**"**
+_Camilla George_: **"**I love both [Sonny Rollins](https://sonnyrollins.com/) and [Sonny Stitt](https://www.sonnystitt.com/)’s playing on this as well as Dizzy’s singing at the end!**"**
 
 ## Zara McFarlane – Silhouette
-_Camilla George_: **"**I have worked with Zara a lot over the years and she is one of my favourite artists. I love this tune in particular from her new album 'Arise'. Its melody is beautifully haunting.**"**
+_Camilla George_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/) a lot over the years and she is one of my favourite artists. I love this tune in particular from her new album 'Arise'. Its melody is beautifully haunting.**"**
 
 
 # MailTape's selection
