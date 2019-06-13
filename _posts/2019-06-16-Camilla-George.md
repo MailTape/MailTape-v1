@@ -30,6 +30,7 @@ track6_color: dreamy
 track7_title: Sarathy Korwar & Upaj Collective – Journey in Satchidananda
 track7_color: trippy
 guestPic: guestPic362.jpg
+image: 'https://mailta.pe/img/fbPic362.jpg'
 ---
 <p id="introduction"> This morning we are pleased to welcome saxophonist and composer, [James Brandon Lewis](http://www.jblewis.com), to select three church-inspired Sunday morning tunes with us.
 <br><br>
