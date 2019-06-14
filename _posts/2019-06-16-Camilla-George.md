@@ -53,7 +53,7 @@ _Camilla George_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/)
 # MailTape's selection
 
 ## Camilla George Quartet – Polkadots And Moonbeams
-_Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arrangement that features some tender and emotive playing from Camilla's quartet. She is given sympathetic support by the quartet with Camilla herself flowingly lyrical on her own solo. [Daniel Casimir](https://www.danielcasimirbass.com/)’s richly melodic bass feature is a further highlight.**"**
+_Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arrangement that features some tender and emotive playing from Camilla's quartet. She is given sympathetic support by the quartet with Camilla herself flowingly lyrical on her own solo. [Daniel Casimir](https://www.danielcasimirbass.com/)’s richly melodic bass is a further highlight.**"**
 
 ## Nicholas Payton – #BAMboula
   _Sanjay_: **"**Reminiscent of Miles Davis’s Afrocentric early-‘70s experiments, #BAMboula is an easy-paced groove built upon [Nicholas Payton](http://www.nicholaspayton.com/)’s trumpet and Fender Rhodes. Based on the rhythm of the same name (by the renowned [Louis Moreau Gottschalk](https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk)), it also includes bits of interviews with Dizzy Gillespie and Art Blakey. Nicholas explains #BAM as an acronymic hashtag for Black American Music.**"**
