@@ -21,7 +21,7 @@ track2_title: 'Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Sid
 track2_color: bliss
 track3_title: Zara McFarlane –  Silhouette
 track3_color: bliss
-track4_title: Camilla George – Polkadots and Moonbeams
+track4_title: Camilla George Quartet – Polkadots and Moonbeams
 track4_color: dreamy
 track5_title: 'Nicholas Payton – #BAMboula'
 track5_color: trippy
@@ -52,7 +52,7 @@ _Camilla George_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/)
 
 # MailTape's selection
 
-## Camilla George – Polkadots And Moonbeams
+## Camilla George Quartet – Polkadots And Moonbeams
 _Sanjay_: **"**Taken from [James Brandon Lewis](http://www.jblewis.com)'s 'Divine Travels' album, we hear James unafraid to play in a spiritual manner on this track. His lines sway with fervour, mixing the blues shouts with shouts of 'hallelujah' alongside poet [Thomas Sayers Ellis](https://en.wikipedia.org/wiki/Thomas_Sayers_Ellis) who reads with the trio.**"**
 
 ## Nicholas Payton – #BAMboula
