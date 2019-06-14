@@ -53,7 +53,7 @@ _Camilla George_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/)
 # MailTape's selection
 
 ## Camilla George Quartet – Polkadots And Moonbeams
-_Sanjay_: **"**Jimmy Van Heusen**"**
+_Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arrangement that features some tender and emotive playing from Camilla's quartet. They're given wonderfully sympathetic support by the trio with Horler at his most flowingly lyrical on his own solo. Richardson’s richly melodic bass feature is a further highlight.**"**
 
 ## Nicholas Payton – #BAMboula
 _Sanjay_: **"**In remembrance of a love lost, 'Najwa' revisits, in a way, [Wadada Leo Smith](https://wadadaleosmith.com/)'s earliest influences with a guitar album of sorts. As such, the album celebrates past masters of creative music: Ornette Coleman, John Coltrane, Ronald Shannon Jackson and Billie Holiday. It features four guitarists—[Michael Gregory Jackson](http://michaelgregoryjackson.com/), [Henry Kaiser](http://www.henrykaiserguitar.com/), [Brandon Ross](https://www.brandonross.nyc) and Lamar Smith—who paint translucent colours over odd, muscular bass, drums and percussion grooves performed by [Bill Laswell](https://billlaswell.bandcamp.com/), [Pheeroan akLaff](https://www.pheeroanaklaff.com/) and [Adam Rudolph](https://metarecords.com/adam.html), respectively. Celestial bliss!**"**
