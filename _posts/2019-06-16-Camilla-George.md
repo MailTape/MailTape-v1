@@ -35,7 +35,7 @@ image: 'https://mailta.pe/img/fbPic362.jpg'
 ---
 <p id="introduction"> This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes full of her inspirations and collaborations.
 <br><br>
-James Brandon Lewis articulates a big sound and deftly reconciles the worlds of the spiritual and the cerebral. But there isn't an easy shorthand for his musical approach. Ever since his early releases—_Moments_, _Divine Travels_—the New York-based saxophonist has balanced a deep, gospel-informed spirituality with free jazz abandon.
+Born in Nigeria, Camilla George studied at Trinity College of Music and emerged from the influential Tomorrow’s Warriors and Jazz Jamaica bands. Her tutors have included fellow saxophonists Jean Toussaint, Tony Kofi, Julian Siegel, Christian Brewer and Martin Speake.
 </p>
 
 # Camilla George's selection
