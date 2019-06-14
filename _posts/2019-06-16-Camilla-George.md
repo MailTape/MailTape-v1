@@ -59,7 +59,7 @@ _Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arran
   _Sanjay_: **"**Reminiscent of Miles Davis’s Afrocentric early-‘70s experiments, #BAMboula is an easy-paced groove built atop [Nicholas Payton](http://www.nicholaspayton.com/)’s trumpet and Fender Rhodes. Based on the rhythm of the same name (by the renowned [Louis Moreau Gottschalk](https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk)), it also includes bits of interviews with Dizzy Gillespie and Art Blakey. Nicholas explains #BAM as an acronymic hashtag for Black American Music.**"**
 
 ## Sarah Tandy – Timelord
-_Sanjay_: **"**A regular at the Servant Jazz Quarters in Dalston, pianist and composer Sarah Tandy has very recently released her debut album, 'Infection in the Sentence'. This track is built around a nifty electronic motif, starting out pretty leisurely before the theme is tentatively explored with some sensitive sax and pleasing Zawinul-like sounds.**"**
+_Sanjay_: **"**A regular at the Servant Jazz Quarters in Dalston, pianist and composer [Sarah Tandy](https://www.sarahtandy.com/) has very recently released her debut album, 'Infection in the Sentence'. This track is built around a nifty electronic motif, starting out pretty leisurely before the theme is tentatively explored with some sensitive sax and pleasing Zawinul-like sounds.**"**
 
 ## Sarathy Korwar & Upaj Collective – Journey in Satchidananda
 _Sanjay_: **"**Recorded in one take during an improvised session in Brooklyn, this piece eschews the robustness generally associated with improvisation. The music reveals itself slowly and in a most quiet self-effacing way.**"**
