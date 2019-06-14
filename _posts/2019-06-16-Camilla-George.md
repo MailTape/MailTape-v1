@@ -36,6 +36,7 @@ description: >-
   This morning we welcome London-based saxophonist and composer, Camilla George,
   to select three Sunday morning tunes including some of her inspirations and
   collaborations.
+episode_URL: 'https://mailta.pe/362/camilla-george/'
 ---
 <p id="introduction"> This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes including some of her inspirations and collaborations.
 <br><br>
