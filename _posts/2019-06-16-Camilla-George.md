@@ -38,7 +38,7 @@ description: >-
   collaborations.
 episode_URL: 'https://mailta.pe/362/camilla-george/'
 ---
-<p id="introduction"> This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes including some of her inspirations and collaborations.
+<p id="introduction"> This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.
 <br><br>
 Born in Nigeria, Camilla George studied at Trinity College of Music and emerged from the influential Tomorrow’s Warriors and Jazz Jamaica bands to a Mobo nomination in 2013. Her tutors have included fellow saxophonists Jean Toussaint, Tony Kofi, Julian Siegel, Christian Brewer and Martin Speake.
 </p>
