@@ -67,7 +67,7 @@ _Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arran
 _Sanjay_: **"**A regular at the Servant Jazz Quarters in Dalston, pianist and composer [Sarah Tandy](https://www.sarahtandy.com/) has recently released her debut album, 'Infection in the Sentence'. This track is built around a nifty electronic motif, starting out pretty leisurely before the theme is tentatively explored with some sensitive sax and Zawinul-like sounds.**"**
 
 ## Sarathy Korwar & Upaj Collective – Journey in Satchidananda
-_Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and dulcimer-like santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
+_Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Camilla George](http://camillageorge.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for his brilliant illustration.</p>
