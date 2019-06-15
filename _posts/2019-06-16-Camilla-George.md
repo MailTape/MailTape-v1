@@ -34,7 +34,7 @@ musiColor: musiColor362.png
 image: 'https://mailta.pe/img/fbPic362.jpg'
 description: >-
   This morning we welcome London-based saxophonist and composer, Camilla George,
-  to select three Sunday morning tunes including some of her inspirations and
+  to select three Sunday morning tunes that include some of her inspirations and
   collaborations.
 episode_URL: 'https://mailta.pe/362/camilla-george/'
 ---
