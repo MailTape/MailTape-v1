@@ -10,6 +10,14 @@ guest_name: Entracte Twist
 track2_link: 'https://soundcloud.com/the-homesick/half-aryan'
 track2_title: The Homesick - Half Aryan
 track2_color: rough
+track3_link: 'https://soundcloud.com/la_souterraine/requin-chagrin-les-plus-mauvaises-nuits'
+track3_title: Requin Chagrin - Les Plus Mauvaises Nuits
+track3_color: dreamy
+track1_title: Cocteau Twins - Head Over Heels
+track4_title: 'Entracte Twist - Hors Service '
+track4_color: rough
+track4_link: 'https://soundcloud.com/requiempouruntwister/02-hors-service'
+episode_URL: 'http://mailta.pe/363/Entracte-Twist/'
 ---
 <p id="introduction"> This morning 
 <br><br>
@@ -24,8 +32,8 @@ _Entacte Twist_: **"**What we have always listened to. We're big fan of Robin Gu
 ## The Homesick – Half Aryan
 _Entracte Twist_: **"**Great song from a great band from Netherlands, illustrating how good is the new post punk/ modern garage scene with bands like Women or Omni.**"**
 
-##  – 
-_Entracte Twist_: **"****"**
+## Requin Chagrin – Les Plus Mauvaises Nuits
+_Entracte Twist_: **"**A traumatical cover of Indochine, which was not that simple to realize, from a speaking french band that we love so much. Can make you cry in the street going to work in the morning.**"**
 
 
 # MailTape's selection
