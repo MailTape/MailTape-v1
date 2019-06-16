@@ -38,10 +38,10 @@ _Entracte Twist_: **"**A traumatical cover of Indochine, which was not that simp
 
 # MailTape's selection
 
-##  – 
+## Entracte Twist – Hors Service
 _Anaïs G_: **"** **"**
 
-##  – 
+## Cate Le Bon – Solitude
 _Anaïs G_: **"** **"**
 
 ##  – 
