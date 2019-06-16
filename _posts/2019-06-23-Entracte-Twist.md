@@ -18,6 +18,13 @@ track4_title: 'Entracte Twist - Hors Service '
 track4_color: rough
 track4_link: 'https://soundcloud.com/requiempouruntwister/02-hors-service'
 episode_URL: 'http://mailta.pe/363/Entracte-Twist/'
+track5_link: 'https://soundcloud.com/catelebon/solitude'
+track5_title: Cate Le Bon - Solitude
+track5_color: vibrant
+track6_title: 'Structures - Satellite '
+track6_color: rough
+track6_link: >-
+  https://soundcloud.com/structuresband/structures-satellite?in=structuresband/sets/ep-long-life
 ---
 <p id="introduction"> This morning 
 <br><br>
