@@ -25,6 +25,10 @@ track6_title: 'Structures - Satellite '
 track6_color: rough
 track6_link: >-
   https://soundcloud.com/structuresband/structures-satellite?in=structuresband/sets/ep-long-life
+track7_link: >-
+  https://soundcloud.com/the-fat-white-family/tastes-good-with-the-money?in=the-fat-white-family/sets/serfs-up-1
+track7_title: The Fat White Family - Tastes Good With The Money
+track7_color: trippy
 ---
 <p id="introduction"> This morning 
 <br><br>
