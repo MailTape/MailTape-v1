@@ -13,7 +13,7 @@ track2_color: rough
 track3_link: 'https://soundcloud.com/la_souterraine/requin-chagrin-les-plus-mauvaises-nuits'
 track3_title: Requin Chagrin - Les Plus Mauvaises Nuits
 track3_color: dreamy
-track1_title: Cocteau Twins - Head Over Heels
+track1_title: Cocteau Twins - Sugar Hiccup
 track4_title: 'Entracte Twist - Hors Service '
 track4_color: rough
 track4_link: 'https://soundcloud.com/requiempouruntwister/02-hors-service'
@@ -29,6 +29,9 @@ track7_link: >-
   https://soundcloud.com/the-fat-white-family/tastes-good-with-the-money?in=the-fat-white-family/sets/serfs-up-1
 track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
+guestPic: guestPic363.jpg
+track1_color: dreamy
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
 ---
 <p id="introduction"> This morning 
 <br><br>
