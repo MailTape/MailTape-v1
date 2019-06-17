@@ -37,7 +37,7 @@ track7_color: trippy
 
 # Entracte Twist's selection
 
-##  Cocteau Twins – Head Over Heels
+##  Cocteau Twins – Sugar Hiccup
 _Entacte Twist_: **"**What we have always listened to. We're big fan of Robin Guthrie's productions, it feel's like it's raining on reverberation. Going through winter in scotland in 1983 seemed to be such a cold and contemplative experience.**"**
 
 ## The Homesick – Half Aryan
