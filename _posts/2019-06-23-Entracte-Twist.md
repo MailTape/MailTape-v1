@@ -59,7 +59,7 @@ _Anaïs G_: **"**I do not know if it is the cellar atmosphere or the one of the 
 _Anaïs G_: **"**There is something touching in the voice of this Welsh musician and producer. A song that dates back to 2014, a bit off in style, sometimes reminiscent of the graceful and surprising singer Kate Bush. We follow the rhythm by getting up on the right foot and as Cate Le Bon "Follow me"!**"**
 
 ## Structures – Satellite
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**If I had to remember a single song from their EP "Long Life" it would be "Satellite". It keeps us on our toes leaving room for the dark voice of Pierre Seguin, just perfect! This group from Amiens, shows us that the cold wave or the post punk is not dead, on the contrary...**"**
 
 ## The Fat White Family – Tastes Good With The Money
 _Anaïs G_: **"**Definitely crazy, a bit provocative , The Fat White Family does not disappoint us! A very pretty song, a colourful almost burlesque clip tinged with blood and violence, for a change (irony)... But also guitars that sizzle! It’s alive, beautiful and dirty at the same time, perfect to start the day.**"**
