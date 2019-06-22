@@ -39,6 +39,7 @@ description: >-
   offer us a selection worthy of the name.
 guest_color: rough
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track7.mp3'
+image: fbPic363.png
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
