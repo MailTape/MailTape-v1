@@ -18,20 +18,18 @@ track4_title: 'Entracte Twist - Hors Service '
 track4_color: rough
 track4_link: 'https://soundcloud.com/requiempouruntwister/02-hors-service'
 episode_URL: 'http://mailta.pe/363/Entracte-Twist/'
-track5_link: 'https://soundcloud.com/catelebon/solitude'
 track5_title: Cate Le Bon - Solitude
 track5_color: vibrant
 track6_title: 'Structures - Satellite '
 track6_color: rough
 track6_link: >-
   https://soundcloud.com/structuresband/structures-satellite?in=structuresband/sets/ep-long-life
-track7_link: >-
-  https://soundcloud.com/the-fat-white-family/tastes-good-with-the-money?in=the-fat-white-family/sets/serfs-up-1
 track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
 guestPic: guestPic363.jpg
 track1_color: dreamy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
+musiColor: musiColor363.png
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
