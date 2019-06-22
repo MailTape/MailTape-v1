@@ -33,6 +33,13 @@ musiColor: musiColor363.png
 track5_link: 'https://soundcloud.com/catelebon/solitude'
 track7_link: >-
   https://soundcloud.com/the-fat-white-family/tastes-good-with-the-money?in=the-fat-white-family/sets/serfs-up-1
+description: >-
+  This morning, we take out the guitars, adjust our strings test the sound with
+  the amp in boring neighbors...  And let our fingers slide so that we can wake
+  up our faithful on Sunday morning. <br><br> New-wave and post punk for your
+  awakening?  And why not ... Entracte Twist" strays off the beaten track to
+  offer us a selection worthy of the name.
+guest_color: rough
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
