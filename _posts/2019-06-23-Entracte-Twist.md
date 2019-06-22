@@ -30,6 +30,7 @@ guestPic: guestPic363.jpg
 track1_color: dreamy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
 musiColor: musiColor363.png
+track5_link: 'https://soundcloud.com/catelebon/solitude'
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
