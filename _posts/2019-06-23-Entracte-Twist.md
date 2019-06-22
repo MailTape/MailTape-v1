@@ -33,9 +33,9 @@ guestPic: guestPic363.jpg
 track1_color: dreamy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
 ---
-<p id="introduction"> This morning 
+<p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
-
+New-wave and post punk for your awakening?  And why not ... " Twist" strays off the beaten track to offer us a selection worthy of the name.
 </p>
 
 # Entracte Twist's selection
