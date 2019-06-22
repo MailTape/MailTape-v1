@@ -36,7 +36,7 @@ track7_link: >-
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.
 <br><br>
-New-wave and post punk for your awakening?  And why not ... " Twist" strays off the beaten track to offer us a selection worthy of the name.
+New-wave and post punk for your awakening?And why not ... " Twist" strays off the beaten track to offer us a selection worthy of the name.
 </p>
 
 # Entracte Twist's selection
