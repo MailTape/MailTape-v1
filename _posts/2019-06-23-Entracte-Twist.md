@@ -51,7 +51,8 @@ New-wave and post punk for your awakening?And why not ... [Entracte Twist](https
 ##  [Cocteau Twins](https://www.cocteautwins.com/) – Sugar Hiccup
 _Entracte Twist_: **"**What we have always listened to. We're big fan of [Robin Guthrie's](https://fr.wikipedia.org/wiki/Robin_Guthrie) productions, it feel's like it's raining on reverberation. Going through winter in scotland in 1983 seemed to be such a cold and contemplative experience.**"**
 
-## [The Homesick](https://thehomesick.bandcamp.com/) – Half Aryan!
+## [The Homesick](https://thehomesick.bandcamp.com/) – Half Aryan!!
+
 
 _Entracte Twist_: **"**Great song from a great band from Netherlands, illustrating how good is the new post punk/ modern garage scene with bands like Women or [Omni](https://omniatl.bandcamp.com/).**"**
 
