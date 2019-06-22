@@ -56,13 +56,13 @@ _Entracte Twist_: **"**A traumatical cover of Indochine, which was not that simp
 _Anaïs G_: **"** **"**
 
 ## Cate Le Bon – Solitude
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**there is something touching in the voice of this Welsh musician and producer. A song that dates back to 2014, a bit off in style, sometimes reminiscent of the graceful and surprising singer Kate Bush. We follow the rhythm by getting up on the right foot and as Cate Le Bon "Follow me"! **"**
 
 ## Structures – Satellite
 _Anaïs G_: **"** **"**
 
 ## The Fat White Family – Tastes Good With The Money
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**Definitely crazy, a bit provocative , The Fat White Family does not disappoint us! A very pretty song, a colourful almost burlesque clip tinged with blood and violence, for a change (irony)... But also guitars that sizzle! It’s alive, beautiful and dirty at the same time, perfect to start the day.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Entacte Twist for his Sunday selections, and to Camille Célestin for her brilliant illustration.</p>
