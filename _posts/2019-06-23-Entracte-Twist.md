@@ -53,10 +53,10 @@ _Entracte Twist_: **"**A traumatical cover of Indochine, which was not that simp
 # MailTape's selection
 
 ## Entracte Twist – Hors Service
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**I do not know if it is the cellar atmosphere or the one of the parties to jump everywhere where the sweat is omnipresent that has seduced me so much at home .. But what I do know from listening to this group is that it doesn’t seem to warm it up! A color palette, a farandole of images directed by synths and guitars.**"**
 
 ## Cate Le Bon – Solitude
-_Anaïs G_: **"**there is something touching in the voice of this Welsh musician and producer. A song that dates back to 2014, a bit off in style, sometimes reminiscent of the graceful and surprising singer Kate Bush. We follow the rhythm by getting up on the right foot and as Cate Le Bon "Follow me"! **"**
+_Anaïs G_: **"**There is something touching in the voice of this Welsh musician and producer. A song that dates back to 2014, a bit off in style, sometimes reminiscent of the graceful and surprising singer Kate Bush. We follow the rhythm by getting up on the right foot and as Cate Le Bon "Follow me"!**"**
 
 ## Structures – Satellite
 _Anaïs G_: **"** **"**
