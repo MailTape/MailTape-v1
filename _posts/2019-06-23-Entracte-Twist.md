@@ -73,4 +73,4 @@ _Anaïs G_: **"**If I had to remember a single song from their EP ["Long Life"](
 _Anaïs G_: **"**Definitely crazy, a bit provocative , [The Fat White Family](https://fr.wikipedia.org/wiki/Fat_White_Family) does not disappoint us! A very pretty song, a colourful almost burlesque clip tinged with blood and violence, for a change (irony)... But also guitars that sizzle! It’s alive, beautiful and dirty at the same time, perfect to start the day.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Entacte Twist](https://www.facebook.com/EntracteTwist/) for his Sunday selections, and to Camille Célestin for her brilliant illustration.</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Entacte Twist](https://www.facebook.com/EntracteTwist/) for his Sunday selections, and to [Camille Célestin](https://www.instagram.com/bravocamo/) for her brilliant illustration.</p>
