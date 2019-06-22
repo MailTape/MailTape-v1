@@ -8,7 +8,7 @@ writer: Anaïs G
 category: '363'
 guest_name: Entracte Twist
 track2_link: 'https://soundcloud.com/the-homesick/half-aryan'
-track2_title: The Homesick - Sugar Hiccup
+track2_title: 'The Homesick - Half Aryan '
 track2_color: rough
 track3_link: 'https://soundcloud.com/la_souterraine/requin-chagrin-les-plus-mauvaises-nuits'
 track3_title: Requin Chagrin - Les Plus Mauvaises Nuits
