@@ -48,7 +48,7 @@ Bobby: **"**Chico Buarque was often playing in my childhood home. My little sist
 ## Gloria Ann Taylor - World That’s Not Real
 Bobby: **"**It’s her voice, her piercing soulfulness. The orchestration supports her artistry. It reminds me of La Planete Sauvage somehow. It’s a heavy peace that cathartically purifies your Sunday energies.**"**
 
-## Johnnie Frierson - Have You Been Good to Yourself
+## Johnnie Frierson - Have You Been Good To Yourself
 Bobby: **"**What ever your system, I’ve personally found that Sunday’s a good day for a sermon, a little preaching maybe and checkin in to your spiritual affairs. This song is straight at ya style. No cryptic bullshit here.**"**
 
 
