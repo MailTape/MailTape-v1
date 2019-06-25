@@ -19,7 +19,7 @@ track2_title: Gloria Ann Taylor - World That’s Not Real
 track3_title: Johnnie Frierson - Have You Been Good To Yourself
 track4_title: Bobby Oroza - This Love
 track4_color: vibrant
-track5_title: Jonah Yano - Nervous (feat. BADBADNOTGOOD)
+track5_title: Jonah Yano & BADBADNOTGOOD - Nervous
 track6_title: Nilüfer Yanya - Melt
 track7_title: Intellexual - Boca
 track7_color: bliss
@@ -56,7 +56,7 @@ episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
 ## [Bobby Oroza](https://bobbyoroza.bandcamp.com/) - This Love
 Jules: **"****"**
 
-## [Jonah Yano](https://soundcloud.com/jonahyano) - Nervous (feat. [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/))
+## [Jonah Yano](https://soundcloud.com/jonahyano) & [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/)- Nervous
 Jules: **"****"**
 
 ## [Nilüfer Yanya](https://niluferyanya.bandcamp.com/) - Melt
