@@ -1,7 +1,34 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
+author: Jules
+illustrator: Pierre-Julien Fieux
+writer: Jules
+category: '364'
+guest_name: Bobby Oroza
+guest_color: vibrant
+track1_link: 'https://soundcloud.com/chico-buarque/ole-ola-1'
+track2_link: 'https://soundcloud.com/user-786202860/gloria-ann-taylor-world-thats-not-real'
+track4_link: 'https://soundcloud.com/bobbyoroza/this-love'
+track5_link: 'https://soundcloud.com/jonahyano/nervous-feat-badbadnotgood'
+track6_link: 'https://soundcloud.com/niluferyanya/melt-1'
+track7_link: 'https://soundcloud.com/emsee-white/16-pass-the-vibes'
+track1_title: 'Chico Buarque - Olê, Olá'
+track2_title: Gloria Ann Taylor - World That’s Not Real
+track3_title: Johnnie Frierson - Have You Been Good To Yourself
+track4_title: Bobby Oroza - This Love
+track4_color: vibrant
+track5_title: Jonah Yano & BADBADNOTGOOD - Nervous
+track6_title: Nilüfer Yanya - Melt
+track7_title: Donnie Trumpet & The Social Experiment - Pass The Vibes
+track7_color: bliss
+track6_color: vibrant
+track5_color: dreamy
+track1_color: dreamy
+track2_color: vibrant
+track3_color: rough
+episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
 ---
 <p id="introduction"> This morning, 
 <br><br>
