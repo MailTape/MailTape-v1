@@ -56,7 +56,7 @@ episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
 ## [Bobby Oroza](https://bobbyoroza.bandcamp.com/) - This Love
 Jules: **"****"**
 
-## [Jonah Yano](https://soundcloud.com/jonahyano) & [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/) - Nervous
+## [Jonah Yano](https://soundcloud.com/jonahyano) - Nervous (feat. [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/))
 Jules: **"****"**
 
 ## [Nilüfer Yanya](https://niluferyanya.bandcamp.com/) - Melt
