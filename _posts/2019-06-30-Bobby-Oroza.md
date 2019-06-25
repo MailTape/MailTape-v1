@@ -19,7 +19,7 @@ track2_title: Gloria Ann Taylor - World That’s Not Real
 track3_title: Johnnie Frierson - Have You Been Good To Yourself
 track4_title: Bobby Oroza - This Love
 track4_color: vibrant
-track5_title: Jonah Yano & BADBADNOTGOOD - Nervous
+track5_title: Jonah Yano - Nervous (feat. BADBADNOTGOOD)
 track6_title: Nilüfer Yanya - Melt
 track7_title: Intellexual - Boca
 track7_color: bliss
