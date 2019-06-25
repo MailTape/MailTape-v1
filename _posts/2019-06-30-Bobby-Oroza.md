@@ -41,7 +41,7 @@ episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
 
 
 
-## Chico Buarque - Ole, Olá
+## Chico Buarque - Olê, Olá
 [Bobby Oroza](https://bobbyoroza.bandcamp.com/): **"**Chico Buarque was often playing in my childhood home. My little sister would sing this song beautifully. It’s equally sad and happy, devastated but ready for the next dance.**"**
 
 ## Gloria Ann Taylor - World That’s Not Real
