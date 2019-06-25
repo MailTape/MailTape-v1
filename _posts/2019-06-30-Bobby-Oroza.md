@@ -13,7 +13,7 @@ track2_link: 'https://soundcloud.com/user-786202860/gloria-ann-taylor-world-that
 track4_link: 'https://soundcloud.com/bobbyoroza/this-love'
 track5_link: 'https://soundcloud.com/jonahyano/nervous-feat-badbadnotgood'
 track6_link: 'https://soundcloud.com/niluferyanya/melt-1'
-track7_link: 'https://soundcloud.com/emsee-white/16-pass-the-vibes'
+track7_link: 'https://soundcloud.com/intellexual/boca?in=nicosegal/sets/intellexual'
 track1_title: 'Chico Buarque - Olê, Olá'
 track2_title: Gloria Ann Taylor - World That’s Not Real
 track3_title: Johnnie Frierson - Have You Been Good To Yourself
@@ -21,7 +21,7 @@ track4_title: Bobby Oroza - This Love
 track4_color: vibrant
 track5_title: Jonah Yano & BADBADNOTGOOD - Nervous
 track6_title: Nilüfer Yanya - Melt
-track7_title: Donnie Trumpet & The Social Experiment - Pass The Vibes
+track7_title: Intellexual - Boca
 track7_color: bliss
 track6_color: vibrant
 track5_color: dreamy
@@ -53,16 +53,16 @@ episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
 
 # MailTape's selection
 
-## [Bobby Oroza](https://bobbyoroza.bandcamp.com/) - Life As One
+## [Bobby Oroza](https://bobbyoroza.bandcamp.com/) - This Love
 Jules: **"****"**
 
-## [Hilary Woods](https://hilarywoodsmusic.bandcamp.com/) - Prodigal Dog
+## [Jonah Yano](https://soundcloud.com/jonahyano) & [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/) - Nervous
 Jules: **"****"**
 
-## [Para One](https://soundcloud.com/para-one/) - Finale (Music To And From Naissance Des Pieuvres)
+## [Nilüfer Yanya](https://niluferyanya.bandcamp.com/) - Melt
 Jules: **"****"**
 
-## Corte Real - Opium
+## [Intellexual](https://soundcloud.com/intellexual) - Boca
 Jules: **"****"**
 
 
