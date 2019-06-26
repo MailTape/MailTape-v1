@@ -33,8 +33,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/364/track3.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
-
-[Bobby Oroza](https://bobbyoroza.bandcamp.com/) is 
+[Bobby Oroza](https://bobbyoroza.bandcamp.com/) was born in Helsinki, Finland into a family of musicians and artists. Yet, his music evokes the Latin American music he discovered during his early travels to Cuba to study percussion and singing, more than he Norwegian fjords. Warm and sensual, simultaneously timeless and contemporary, it synthesizes his Bolivian grandfather’s Latin guitar playing with his parent’s love of early jazz, Motown, gospel, and doo-wop.
 </p>
 
 
