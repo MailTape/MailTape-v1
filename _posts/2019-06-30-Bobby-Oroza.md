@@ -67,4 +67,4 @@ Jules: **"****"**
 
 
 
-<p id="outroduction">That's it for this morning. As always thanks so much for listening. Much love and respect to Bobby for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration. </p>
+<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Bobby for his Sunday selections, and to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's cool illustration. </p>
