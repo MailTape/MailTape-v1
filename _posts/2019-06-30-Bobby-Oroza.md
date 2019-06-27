@@ -33,7 +33,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/364/track3.mp3'
 ---
 <p id="introduction"> This morning, whether in sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences.
 <br><br>
-Born into a family of musicians and artists, [Bobby Oroza](https://bobbyoroza.bandcamp.com/) grew up in Helsinki . Yet, his music evokes the rootsy Latin American music he discovered during his early travels to Cuba to study percussion and singing. Warm and sensual, simultaneously timeless and contemporary, it synthesizes Oroza's Bolivian grandfather’s Latin guitar playing with his parent’s love of early jazz, Motown, gospel, and doo-wop.
+Born into a family of musicians and artists, [Bobby Oroza](https://bobbyoroza.bandcamp.com/) grew up in Helsinki. Yet, his music evokes the rootsy Latin American music he discovered during his early travels to Cuba to study percussion and singing. Warm and sensual, simultaneously timeless and contemporary, it synthesizes Oroza's Bolivian grandfather’s Latin guitar playing with his parent’s love of early jazz, Motown, gospel, and doo-wop.
 </p>
 
 
