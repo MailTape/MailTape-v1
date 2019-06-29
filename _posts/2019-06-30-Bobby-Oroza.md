@@ -36,7 +36,7 @@ description: >-
   strange and unique shade of Soul born in Finland but balancing international
   influences, with Bobby Oroza.
 guestPic: guestPic364.jpg
-image: 'https://mailta.pe/img/fbPic364.png'
+image: fbPic364.png
 musiColor: musiColoR364.png
 ---
 <p id="introduction"> This morning, whether on sunny beaches, palm groves or lush oases, or just enjoying a fine breakfast in your bed, allow yourself to be soothed by a strange and unique shade of Soul born in Finland but balancing international influences.
