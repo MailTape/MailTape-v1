@@ -68,7 +68,7 @@ Jules: **"**Jonah Yano is a Toronto-based musician, originally hailing from Hiro
 Jules: **"**Nilüfer Yanya grew up in West London, she released her debut album 'Miss Universe' in March 2019, after three EPs on esteemed london indie label Blue Flowers and a place earned on the BBC Sound of 2018 longlist. On this album, the 23-year-old artist – who is of Turkish-Irish-Bajan heritage – explores themes of paranoia and anxiety, centering around a fictional health management company called WE WORRY ABOUT YOUR HEALTH™. “Melt” finds her strumming her guitar in a jazzier mode, backed by percolating electronic percussion and a saxophone. ‘I bet your brain cells won’t last’ she gently sings with laid-back coolness in her voice.**"**
 
 ## [Intellexual](https://soundcloud.com/intellexual) - Boca
-Jules: **"**Intellexual is a project from Nate Fox and Nico Segal (also known as Donnie Trumpet) who are best known as members of The Social Experiment and producers for Chicago hip hop artists like Chance The Rapper. 'Boca', a new-age samba song that brings a dreamy atmosphere is a perfect way to close the Sunday morning loop opened with Chico Buarque.**"**
+Jules: **"**Intellexual is a project from Nate Fox and Nico Segal (also known as Donnie Trumpet) who are best known as members of The Social Experiment and producers for Chicago hip hop artists like Chance The Rapper. 'Boca', a new-age samba song that brings a dreamy atmosphere, is a perfect way to close the Sunday morning loop opened with Chico Buarque.**"**
 
 
 
