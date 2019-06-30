@@ -65,7 +65,7 @@ Bobby: **"**What ever your system, I’ve personally found that Sunday’s a goo
 # MailTape's selection
 
 ## [Bobby Oroza](https://bobbyoroza.bandcamp.com/) - This Love
-Jules: **"**'This Love' is Bobby Oroza's debut single, taken from the eponymous album. On this record Bobby, teaming up with the band Cold Diamond & Mink, provide a dark and intimate atmosphere, "breaking hearts on some tunes and mending them on others". This song can do both, and even inspired the hip hop scene, as it was sampled by Earl Sweatshirt in his song '[Hat Trick](https://www.youtube.com/watch?v=I_bqOK56lu8)'.  **"**
+Jules: **"**'This Love' is Bobby Oroza's debut single, taken from the eponymous album. On this record Bobby, teaming up with the band Cold Diamond & Mink, provides a dark and intimate atmosphere, "breaking hearts on some tunes and mending them on others". This song can do both, and even inspired the hip hop scene, as it was sampled by Earl Sweatshirt in his song '[Hat Trick](https://www.youtube.com/watch?v=I_bqOK56lu8)'.  **"**
 
 ## [Jonah Yano](https://soundcloud.com/jonahyano) & [BADBADNOTGOOD](https://badbadnotgoodil.bandcamp.com/)- nervous
 Jules: **"**Jonah Yano is a Toronto-based musician, originally hailing from Hiroshima, Japan. After hearing an early demo of 'nervous' he recorded through his cellphone in 2016, BADBADNOTGOOD invited him to their legendary Studio 69 where they offered to produce and play on the track. Downtempo instrumentals meet autotune vocals for a melancholic ballad, that is perfect for a slow wake up Sunday morning.**"**
