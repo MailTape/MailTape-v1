@@ -1,11 +1,11 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 ---
 
 
-<p id="introduction"> This morning, 
+<p id="introduction"> This morning, nous partons dans la foret loin de la ville, loin de la polution, loin des rues bondés de touristes... Un instant pour se mettre au vert, pour se ressourcer, c'est la philosophie du groupe Labotanique.
 <br><br>
 
 </p>
