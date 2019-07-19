@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
+track7_link: 'https://soundcloud.com/theflegmatic/lautre-rive '
+track5_link: 'https://soundcloud.com/monsieur-6000/ocean'
+track2_link: 'https://soundcloud.com/profildeface/vendredi-sur-mer-la-femme-a-la-peau-bleue'
 ---
 
 
@@ -40,4 +43,3 @@ Anaïs G: **"****"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Labotanique for their Sunday selections, and to Célestin for this stunning illustration. </p>
-
