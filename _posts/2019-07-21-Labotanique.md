@@ -5,6 +5,19 @@ published: true
 track7_link: 'https://soundcloud.com/theflegmatic/lautre-rive '
 track5_link: 'https://soundcloud.com/monsieur-6000/ocean'
 track2_link: 'https://soundcloud.com/profildeface/vendredi-sur-mer-la-femme-a-la-peau-bleue'
+track3_link: 'https://soundcloud.com/stonesthrow/mild-high-club-skiptracing'
+track2_title: Vendredi Sur Mer - La Femme à la Peau Bleue
+track5_title: Monsieur 6000 - Océan
+track6_title: Auren - Tout est permis
+track6_color: dreamy
+track7_title: 'Le Flegmatic - L''autre rive '
+track3_title: Mild High Club - Skiptracing
+track3_color: dreamy
+track4_title: 'Labotanique - Nature morte '
+track4_color: trippy
+track5_color: vibrant
+track7_color: bliss
+track2_color: vibrant
 ---
 
 
