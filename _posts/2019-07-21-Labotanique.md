@@ -22,18 +22,9 @@ track1_title: Flavien Berger - Pamplemousse
 track1_color: dreamy
 episode_URL: 'http://www.mailta.pe/367/labotanique/'
 musiColor: musiColor367.png
-author: ''
-illustrator: ''
-writer: ''
-category: ''
-guest_name: ''
-guest_color: ''
-guestPic: ''
-track1_link: ''
-track4_link: ''
-track6_link: ''
-image: ''
-description: ''
+guest_name: Labotanique
+category: '367'
+guestPic: guestPic367.jpg
 ---
 
 
