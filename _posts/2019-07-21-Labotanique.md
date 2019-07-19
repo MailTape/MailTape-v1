@@ -22,10 +22,23 @@ track1_title: Flavien Berger - Pamplemousse
 track1_color: dreamy
 episode_URL: 'http://www.mailta.pe/367/labotanique/'
 musiColor: musiColor367.png
+author: ''
+illustrator: ''
+writer: ''
+category: ''
+guest_name: ''
+guest_color: ''
+guestPic: ''
+track1_link: ''
+track4_link: ''
+track6_link: ''
+image: ''
+description: ''
 ---
 
 
-<p id="introduction"> This morning, nous partons dans la foret loin de la ville, loin de la polution, loin des rues bondés de touristes... Un instant pour se mettre au vert, pour se ressourcer, c'est la philosophie du groupe Labotanique.
+<p id="introduction"> This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philosophy of the Labotanique group.
+  
 <br><br>
 
 </p>
