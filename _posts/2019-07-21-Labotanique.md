@@ -60,7 +60,7 @@ Anaïs G: **"**Like Labotanique, Monsieur 6000 becomes aware of his environment.
 Anaïs G: **"**Unsettling, combative and sensual. It exudes such a force that you cannot fall under the spell of its pop-folk music. His new album "Numéro" released last February is a jewel for the ears and fits perfectly to the soundtrack of your breakfast in bed on Sunday morning.**"**
 
 ## Le Flegmatic - L'autre rive
-Anaïs G: **"****"**
+Anaïs G: **"**Like a cowboy, or an adventurer out of nowhere walking the roads in search of lost irony. Offbeat and a bit sarcastic, he plays with brilliance with the words ( as the artists being in my selection). Waiting for this new EP "Ruines Nouvelles" which will be released at the end of August at We Are Unique! and supported by La Souterraine, a beautiful glimpse with the title "L'autre rive".**"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Labotanique for their Sunday selections, and to Célestin for this stunning illustration. </p>
