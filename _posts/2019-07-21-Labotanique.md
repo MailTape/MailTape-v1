@@ -66,4 +66,4 @@ Anaïs G: **"**Unsettling, combative and sensual. It exudes such a force that yo
 Anaïs G: **"**Like a cowboy, or an adventurer out of nowhere walking the roads in search of lost irony. Offbeat and a bit sarcastic, he plays with brilliance with the words (as the artists being in my selection). Waiting for this new EP "Ruines Nouvelles" which will be released at the end of August at [We Are Unique!Records](http://www.weareunique.fr/) and supported by [La Souterraine](https://souterraine.biz/), a beautiful glimpse with the title "L'autre rive".**"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to Célestin for this stunning illustration. </p>
+<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [Labotanique](https://labotanique.bandcamp.com/) for their Sunday selections, and to [Célestin](https://www.instagram.com/bravocamo/) for this stunning illustration. </p>
