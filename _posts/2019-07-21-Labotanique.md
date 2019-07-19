@@ -25,15 +25,10 @@ musiColor: musiColor367.png
 guest_name: Labotanique
 category: '367'
 guestPic: guestPic367.jpg
-author: ''
-illustrator: ''
-writer: ''
-guest_color: ''
-track1_link: ''
-track4_link: ''
-track6_link: ''
-image: ''
-description: ''
+description: >-
+  This morning we leave in the forest far from the city, far from pollution, far
+  from the crowded streets of tourists... A moment to get green, to recharge
+  one's batteries in the country, is the philosophy of the Labotanique group
 ---
 
 
