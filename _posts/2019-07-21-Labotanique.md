@@ -26,16 +26,16 @@ Labotanique: **"**The warmness of the drum machine CR78, the detuned guitars and
 
 # MailTape's selection
 
-## Labotanique - 
+## Labotanique - Nature Morte
 Anaïs G: **"** **"**
 
-##  - 
+## Monsieur 6000  - Océan
 Anaïs G: **"** **"**
 
-##  - 
+## Auren - Tout est permis
 Anaïs G: **"** **"**
 
-##  - 
+## Le Flegmatic - L'autre rive
 Anaïs G: **"****"**
 
 
