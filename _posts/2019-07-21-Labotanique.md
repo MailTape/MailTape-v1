@@ -25,13 +25,21 @@ musiColor: musiColor367.png
 guest_name: Labotanique
 category: '367'
 guestPic: guestPic367.jpg
+author: ''
+illustrator: ''
+writer: ''
+guest_color: ''
+track1_link: ''
+track4_link: ''
+track6_link: ''
+image: ''
+description: ''
 ---
 
 
 <p id="introduction"> This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philosophy of the Labotanique group.
-  
 <br><br>
-
+Sometimes chance does things well. Besides, that’s kind of how I came across Labotanique. Mixture of several styles (pop, jazz, hip-hop ...) their music is like a large greenhouse where we would be spectators of what can be called the expression of plants.
 </p>
 
 
@@ -51,7 +59,7 @@ Labotanique: **"**The warmness of the drum machine CR78, the detuned guitars and
 # MailTape's selection
 
 ## Labotanique - Nature Morte
-Anaïs G: **"**When Labotanique wanted to see Flavien Berger, he crossed my path. Nice meeting and immediate favorite for this group composed of Ronan Moinet and Thomas .. With their latest opus "47 ème Parallèles", there is a real awareness of our world, our ways of consuming and apprehending our future. Surprising melodies, mixing contemporary poetry with jazzy and hip hop tunes.**"**
+Anaïs G: **"**When Labotanique wanted to see Flavien Berger, he crossed my path. Nice meeting and immediate favorite for this group composed of Ronan Moinet and Thomas Cochini. With their latest opus "47è Parallèle", there is a real awareness of our world, our ways of consuming and apprehending our future. Surprising melodies, mixing contemporary poetry with jazzy and hip hop tunes.**"**
 
 ## Monsieur 6000  - Océan
 Anaïs G: **"**Like Labotanique, Monsieur 6000 becomes aware of his environment... Through "Océan", we let ourselves be carried by sincere and powerful words.  Special mention for the beautiful clip, sensual and the interpretation of the bodies in relation to the object and the universe that surrounds us.**"**
