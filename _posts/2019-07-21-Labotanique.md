@@ -18,6 +18,10 @@ track4_color: trippy
 track5_color: vibrant
 track7_color: bliss
 track2_color: vibrant
+track1_title: Flavien Berger - Pamplemousse
+track1_color: dreamy
+episode_URL: 'http://www.mailta.pe/367/labotanique/'
+musiColor: musiColor367.png
 ---
 
 
