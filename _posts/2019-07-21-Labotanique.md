@@ -51,7 +51,7 @@ Labotanique: **"**The warmness of the drum machine CR78, the detuned guitars and
 # MailTape's selection
 
 ## Labotanique - Nature Morte
-Anaïs G: **"** **"**
+Anaïs G: **"**When Labotanique wanted to see Flavien Berger, he crossed my path. Nice meeting and immediate favorite for this group composed of Ronan Moinet and Thomas .. With their latest opus "47 ème Parallèles", there is a real awareness of our world, our ways of consuming and apprehending our future. Surprising melodies, mixing contemporary poetry with jazzy and hip hop tunes.**"**
 
 ## Monsieur 6000  - Océan
 Anaïs G: **"** **"**
