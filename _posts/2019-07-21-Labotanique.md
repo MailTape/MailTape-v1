@@ -54,10 +54,10 @@ Labotanique: **"**The warmness of the drum machine CR78, the detuned guitars and
 Anaïs G: **"**When Labotanique wanted to see Flavien Berger, he crossed my path. Nice meeting and immediate favorite for this group composed of Ronan Moinet and Thomas .. With their latest opus "47 ème Parallèles", there is a real awareness of our world, our ways of consuming and apprehending our future. Surprising melodies, mixing contemporary poetry with jazzy and hip hop tunes.**"**
 
 ## Monsieur 6000  - Océan
-Anaïs G: **"** **"**
+Anaïs G: **"**Like Labotanique, Monsieur 6000 becomes aware of his environment... Through "Ocean", we let ourselves be carried by sincere and powerful words.  Special mention for the beautiful clip, sensual and the interpretation of the bodies in relation to the object and the universe that surrounds us.**"**
 
 ## Auren - Tout est permis
-Anaïs G: **"** **"**
+Anaïs G: **"**Unsettling, combative and sensual. It exudes such a force that you cannot fall under the spell of its pop-folk music. His new album "Numéro" released last February is a jewel for the ears and fits perfectly to the soundtrack of your breakfast in bed on Sunday morning.**"**
 
 ## Le Flegmatic - L'autre rive
 Anaïs G: **"****"**
