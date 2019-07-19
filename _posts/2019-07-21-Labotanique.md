@@ -62,7 +62,7 @@ Anaïs G: **"**Like Labotanique, [Monsieur 6000](https://monsieur6000.bandcamp.c
 ## [Auren](http://www.auren-officiel.com/) - Tout est permis
 Anaïs G: **"**Unsettling, combative and sensual. It exudes such a force that you cannot fall under the spell of its pop-folk music. His new album ["Numéro"](https://auren2.bandcamp.com/) released last February is a jewel for the ears and fits perfectly to the soundtrack of your breakfast in bed on Sunday morning.**"**
 
-## Le Flegmatic - L'autre rive
+## [Le Flegmatic](https://soundcloud.com/theflegmatic) - L'autre rive
 Anaïs G: **"**Like a cowboy, or an adventurer out of nowhere walking the roads in search of lost irony. Offbeat and a bit sarcastic, he plays with brilliance with the words (as the artists being in my selection). Waiting for this new EP "Ruines Nouvelles" which will be released at the end of August at [We Are Unique!Records](http://www.weareunique.fr/) and supported by [La Souterraine](https://souterraine.biz/), a beautiful glimpse with the title "L'autre rive".**"**
 
 
