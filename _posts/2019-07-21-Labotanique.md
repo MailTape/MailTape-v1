@@ -39,5 +39,5 @@ Anaïs G: **"** **"**
 Anaïs G: **"****"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [Brijean](https://brijean.bandcamp.com/) for their Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this stunning illustration. </p>
+<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Labotanique for their Sunday selections, and to Célestin for this stunning illustration. </p>
 
