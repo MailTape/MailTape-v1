@@ -30,7 +30,6 @@ description: >-
   from the crowded streets of tourists... A moment to get green, to recharge
   one's batteries in the country, is the philosophy of the Labotanique group
 ---
-![guestPic367.jpg]({{site.baseurl}}/img/guestPic367.jpg)
 
 
 <p id="introduction"> This morning we leave in the forest far from the city, far from pollution, far from the crowded streets of tourists... A moment to get green, to recharge one's batteries in the country, is the philosophy of the [Labotanique](http://labotanique.fr/) group.
