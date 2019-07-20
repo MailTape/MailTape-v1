@@ -33,6 +33,10 @@ author: Anaïs G
 illustrator: Camille Célestin
 writer: Anaïs G
 guest_color: trippy
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/367/Track1.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/367/Track4.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/367/Track6.mp3'
+image: 'http://www.mailta.pe/img/fbPic367.png'
 ---
 
 
