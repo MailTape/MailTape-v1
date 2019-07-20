@@ -52,7 +52,7 @@ Labotanique: **"**For us it's undisputably [the best album of 2018](https://pane
 ## [Vendredi sur mer](https://vendredisurmer.bandcamp.com/)- La femme à la peau bleue
 Labotanique: **"**That's a perfect track to chill on the french west coast (like Pornic very close from Nantes where we are living) after some local white wine and a few oysters. Then you just want to quit your daily routine and try to become as the french actors [Jean-Paul Belmondo](https://fr.wikipedia.org/wiki/Jean-Paul_Belmondo) and [Anna Karina](https://fr.wikipedia.org/wiki/Anna_Karina) (maybe the blue skinned woman of Vendredi sur mer) in [Pierrot le fou](https://fr.wikipedia.org/wiki/Pierrot_le_Fou) of [Jean-Luc Godard](https://fr.wikipedia.org/wiki/Jean-Luc_Godard).**"**
 
-## Mild High Club - Skiptracing
+## [Mild High Club](https://mildhighclub.bandcamp.com/) - Skiptracing
 Labotanique: **"**The warmness of the drum machine CR78, the detuned guitars and the floating vocals help to forget the idea of being efficient on sundays.**"**
 
 
