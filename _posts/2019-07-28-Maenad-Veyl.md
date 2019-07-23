@@ -26,7 +26,7 @@ track6_title: Luar Domatrix - Una Lira
 track6_color: bliss
 track7_title: Simo Cell - As Long As We Have Those Things
 track7_color: dreamy
-episode_URL: 'http://mailta.pe/368/maenad-veyl/'
+episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
 ---
 
 
