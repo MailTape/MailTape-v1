@@ -12,6 +12,21 @@ track1_link: 'https://soundcloud.com/mydisco/dnlp024-exercise-in-sacrifice'
 track2_link: 'https://soundcloud.com/mixmag-1/premiere-kokoroko-adwa-1'
 track4_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
 track6_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
+track1_color: dreamy
+track1_title: MY DISCO - Exercise in Sacrifice
+track2_title: KOKOROKO - Adwa
+track2_color: vibrant
+track3_title: Ed Rush - Skylab
+track3_color: vibrant
+track4_title: Maenad Veyl - In Ruins
+track4_color: dreamy
+track5_title: Zavoloka - Gromovytsya | Громовиця
+track5_color: dreamy
+track6_title: Luar Domatrix - Una Lira
+track6_color: bliss
+track7_title: Simo Cell - As Long As We Have Those Things
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/368/maenad-veyl/'
 ---
 
 
