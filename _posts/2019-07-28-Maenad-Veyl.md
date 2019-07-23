@@ -2,6 +2,16 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Luc
+illustrator: Camille Célestin
+writer: Luc
+category: '368'
+guest_name: Maenad Veyl
+guest_color: rough
+track1_link: 'https://soundcloud.com/mydisco/dnlp024-exercise-in-sacrifice'
+track2_link: 'https://soundcloud.com/mixmag-1/premiere-kokoroko-adwa-1'
+track4_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
+track6_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
 ---
 
 
@@ -32,13 +42,13 @@ Maenad Veyl : **"**Good old Metalheadz classic for when things really need to ge
 ## Maenad Veyl - In Ruins
 Luc P : **"** **"**
 
-## Zavaloka / Zaliva-D - 
+## Zavaloka - Gromovytsya | Громовиця
 Luc P : **"** **"**
 
 ## Luar Domatrix - Una Lira
 Luc P : **"** **"**
 
-## Simo Cell - Symmetry / Gliding ?
+## Simo Cell - As Long As We Have Those Things 
 Luc P : **"****"**
 
 
