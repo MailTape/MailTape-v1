@@ -10,8 +10,6 @@ guest_name: Maenad Veyl
 guest_color: rough
 track1_link: 'https://soundcloud.com/mydisco/dnlp024-exercise-in-sacrifice'
 track2_link: 'https://soundcloud.com/mixmag-1/premiere-kokoroko-adwa-1'
-track4_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
-track6_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
 track1_color: dreamy
 track1_title: MY DISCO - Exercise in Sacrifice
 track2_title: KOKOROKO - Adwa
@@ -27,6 +25,11 @@ track6_color: bliss
 track7_title: Simo Cell - As Long As We Have Those Things
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
+track5_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
+track7_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track4.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/368/track6.mp3'
 ---
 
 
