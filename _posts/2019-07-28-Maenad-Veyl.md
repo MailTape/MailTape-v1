@@ -61,13 +61,13 @@ Maenad Veyl : **"**Good old Metalheadz classic for when things really need to ge
 Luc P : **"** **"**
 
 ## [Zavoloka](https://soundcloud.com/zavoloka) - Gromovytsya | Громовиця
-Luc P : **"** **"**
+Luc P : **"**  **"**
 
 ## [Luar Domatrix](https://soundcloud.com/luardomatrix) - Una Lira
-Luc P : **"** **"**
+Luc P : **"**  **"**
 
 ## [Simo Cell](https://soundcloud.com/simocell) - As Long As We Have Those Things 
-Luc P : **"****"**
+Luc P : **"**  **"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you for listening. Much love and respect to Maenad Veyl for his selection, and to Célestin for this stunning illustration. </p>
