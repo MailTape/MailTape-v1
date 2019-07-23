@@ -33,7 +33,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/368/track6.mp3'
 ---
 
 
-<p id="introduction"> This morning, let's revel in the lush universe of [Maenad Veyl](https://soundcloud.com/maenadveyl), one of precisely crafted sounds and carefuly built momentums. His attention to detail and riveting atmospheres shine through his productions or the work of the artists he promotes on [VEYL](https://veyl.bandcamp.com/), the label he co-runs with Alex Knoblauch. The selection he prepared this sunday is no exception to that, a stroll through fresh ambient layers, warm and ... jazz or ... (and ...) ... .
+<p id="introduction"> This morning, let's revel in the lush universe of [Maenad Veyl](https://soundcloud.com/maenadveyl), one of precisely crafted sounds and carefuly built momentums. His attention to detail and riveting atmospheres shine through his productions or the work of the artists he promotes on [VEYL](https://veyl.bandcamp.com/), the label he co-runs with Alex Knoblauch. The selection he prepared this sunday is no exception to that, a stroll through fresh ambient layers, a warm afrobeat and jazz piece or even a trension-building drum-and-bass track, all in restraint.
   
 Thomas Feriero has been producing music under multiple monikers - he's also known as Avatism, and part of the duo CW/A with his partner in crime Clockwork - 
   
