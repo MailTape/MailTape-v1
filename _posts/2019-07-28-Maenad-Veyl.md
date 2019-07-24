@@ -60,16 +60,16 @@ Maenad Veyl : **"**Good old Metalheadz classic for when things really need to ge
 # MailTape's selection
 
 ## Maenad Veyl - In Ruins
-Luc P : **"** **"**
+Luc P : **"**I'm always fascinated by how much a relatively short track like this one packs, a nerve-wracking build up and the sweetest release there is. It's quite a intense and cinematic moment.**"**
 
 ## [Zavoloka](https://soundcloud.com/zavoloka) - Gromovytsya | Громовиця
-Luc P : **"**  **"**
+Luc P : **"**Громовиця seems related to thunder and storm; and from this inspiration birthed a lovely mutant track. Out of nowhere the bass engulfes all things before vanishing abruptly, as if it were never really here.**"**
 
 ## [Joni Void](https://jonivoid.bandcamp.com/) - Observer (Natalie's Song)
-Luc P : **"**  **"**
+Luc P : **"**Jean Cousin is a young master of sample-based music, sometimes abstratct, often delicate, almost always surprising. His first album is an incredible mesh of voices, field recordings and minimalistic melodies, and a truly rewarding listening experience, where each dive allows you to discover more of his unique and intricate universe. **"**
 
 ## [Simo Cell](https://soundcloud.com/simocell) - As Long As We Have Those Things 
-Luc P : **"**  **"**
+Luc P : **"**This dude seems always at ease whatever he does, it's almost disconcerting. Behind decks, he never sounds "by-the-books" - he'll dare to venture from Bristolian dub music to club cuts by way of Aya Nakumura remixes before you even get the time to blink. And as a producer, he tries his hand at techno, reggaeton or even ambient. Not too shabby!**"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you for listening. Much love and respect to Maenad Veyl for his selection, and to Célestin for this stunning illustration. </p>
