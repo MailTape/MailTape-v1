@@ -34,15 +34,10 @@ track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
 
 
 <p id="introduction"> This morning, let's revel in the lush universe of [Maenad Veyl](https://soundcloud.com/maenadveyl), one of precisely crafted sounds and carefuly built momentums. His attention to detail and riveting atmospheres shine through his productions or the work of the artists he promotes on [VEYL](https://veyl.bandcamp.com/), the label he co-runs with Alex Knoblauch. The selection he prepared this sunday is no exception to that, a stroll through fresh ambient layers, a warm jazzy afrobeat piece or even a trension-building drum-and-bass track, all in restraint.
-  
-  
-Thomas Feriero has been producing music under multiple monikers for close to a decade now: from Avatism, solo and as a duo with Clockwork on the CW/A project, to Maenad Veyl, and the lesser known House ov Leaves ([well, at least on that one track I stumbled upon](https://www.youtube.com/watch?v=6c_TkdBWWfQ)). If not to showcase different parts of his wide ranging influences, he did that sometimes to throw his listeners off, occasionally to make them lose track of his scent. But the attentive listener will pick up some clues: the rhythm driven cuts, the cold or industrial tones, the bleak, claustrophobic even, atmospheres. Next he'll connect the dots : the punk and metal roots - hell, even some stoner rock for good measure - a dash of eastern sounds, a hint of drum and bass. And soon, he'll zero in on our insatiable man of the hour, playfully hidden behind his machines, where he was all along. 
-  
-
-And maybe that's Thomas' key to keep things moving forward: an everlasting game of hide and seek, where what he mastered during the previous round feeds into the next one. What about you dear listener, would you care to join in the thrill of this peculiar hunt?
-  
 <br><br>
-
+Thomas Feriero has been producing music under multiple monikers for close to a decade now: from Avatism, solo and as a duo with Clockwork on the CW/A project, to Maenad Veyl, and the lesser known House ov Leaves ([well, at least on that one track I stumbled upon](https://www.youtube.com/watch?v=6c_TkdBWWfQ)). If not to showcase different parts of his wide ranging influences, he did that sometimes to throw his listeners off, occasionally to make them lose track of his scent. But the attentive listener will pick up some clues: the rhythm driven cuts, the cold or industrial tones, the bleak, claustrophobic even, atmospheres. Next he'll connect the dots : the punk and metal roots - hell, even some stoner rock for good measure - a dash of eastern sounds, a hint of drum and bass. And soon, he'll zero in on our insatiable man of the hour, playfully hidden behind his machines, where he was all along. 
+<br><br>
+And maybe that's Thomas' key to keep things moving forward: an everlasting game of hide and seek, where what he mastered during the previous round feeds into the next one. What about you dear listener, would you care to join in the thrill of this peculiar hunt?
 </p>
 
 
@@ -65,7 +60,7 @@ Maenad Veyl : **"**Good old Metalheadz classic for when things really need to ge
 Luc P : **"**I'm always fascinated by how much a relatively short track like this one packs, a nerve-wracking build up and the sweetest release there is. It's quite a intense and cinematic moment.**"**
 
 ## [Zavoloka](https://soundcloud.com/zavoloka) - Gromovytsya | Громовиця
-Luc P : **"**Громовиця seems related to thunder and storm; and from this inspiration birthed a lovely mutant track. Out of nowhere the bass engulfes all things before vanishing abruptly, as if it were never really here.**"**
+Luc P : **"**Громовиця in ukrainian seems related to thunder and storm, and from this inspiration birthed a lovely mutant track. Out of nowhere the bass engulfes all things before vanishing abruptly, as if it were never really here.**"**
 
 ## [Joni Void](https://jonivoid.bandcamp.com/) - Observer (Natalie's Song)
 Luc P : **"**Jean Cousin is a young master of sample-based music, sometimes abstratct, often delicate, almost always surprising. His first album is an incredible mesh of voices, field recordings and minimalistic melodies, and a truly rewarding listening experience, where each dive allows you to discover more of his unique and intricate universe. **"**
