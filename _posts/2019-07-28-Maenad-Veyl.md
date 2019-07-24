@@ -37,8 +37,7 @@ track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
 <br><br>
 Thomas Feriero has been producing music under multiple monikers for close to a decade now: from Avatism, solo and as a duo with Clockwork on the CW/A project, to Maenad Veyl, and the lesser known House ov Leaves ([well, at least on that one track I stumbled upon](https://www.youtube.com/watch?v=6c_TkdBWWfQ)). If not to showcase different parts of his wide ranging influences, he did that sometimes to throw his listeners off, occasionally to make them lose track of his scent. But the attentive listener will pick up some clues: the rhythm driven cuts, the cold or industrial tones, the bleak, claustrophobic even, atmospheres. Next he'll connect the dots : the punk and metal roots - hell, even some stoner rock for good measure - a dash of eastern sounds, a hint of drum and bass. And soon, he'll zero in on our insatiable man of the hour, playfully hidden behind his machines, where he was all along. 
   
-<br><br>
-  
+<br><br>  
 And maybe that's Thomas' key to keep things moving forward: an everlasting game of hide and seek, where what he mastered during the previous round feeds into the next one. What about you dear listener, would you care to join in the thrill of this peculiar hunt?
 </p>
 
