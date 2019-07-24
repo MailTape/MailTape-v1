@@ -21,7 +21,7 @@ track4_color: dreamy
 track5_title: Zavoloka - Gromovytsya | Громовиця
 track5_color: dreamy
 track6_title: Joni Void - Observer (Natalie's Song)
-track6_color: dreamy
+track6_color: trippy
 track7_title: Simo Cell - As Long As We Have Those Things
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
