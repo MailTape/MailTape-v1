@@ -21,7 +21,7 @@ track4_color: dreamy
 track5_title: Zavoloka - Gromovytsya | Громовиця
 track5_color: dreamy
 track6_title: Joni Void - Observer (Natalie's Song)
-track6_color: bliss
+track6_color: dreamy
 track7_title: Simo Cell - As Long As We Have Those Things
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
@@ -30,6 +30,16 @@ track7_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-li
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track3.flac'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track4.mp3'
 track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
+description: >-
+  This morning, let's revel in the lush universe of Maenad Veyl, one of
+  precisely crafted sounds and carefuly built momentums. His attention to detail
+  and riveting atmospheres shine through his productions or the work of the
+  artists he promotes on his label VEYL. The selection he prepared this sunday
+  is no exception to that, a stroll through fresh ambient layers, a warm jazzy
+  afrobeat piece or even a trension-building drum-and-bass track, all in
+  restraint.
+image: fbPic368.jpg
+musiColor: musiColor368.png
 ---
 
 
