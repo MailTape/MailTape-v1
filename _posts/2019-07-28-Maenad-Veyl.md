@@ -29,7 +29,7 @@ track5_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
 track7_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track3.flac'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/368/Track4.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/368/track6.mp3'
+track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
 ---
 
 
@@ -63,7 +63,7 @@ Luc P : **"** **"**
 ## [Zavoloka](https://soundcloud.com/zavoloka) - Gromovytsya | Громовиця
 Luc P : **"**  **"**
 
-## [Luar Domatrix](https://soundcloud.com/luardomatrix) - Una Lira
+## [Joni Void](https://jonivoid.bandcamp.com/) - Observer (Natalie's Song)
 Luc P : **"**  **"**
 
 ## [Simo Cell](https://soundcloud.com/simocell) - As Long As We Have Those Things 
