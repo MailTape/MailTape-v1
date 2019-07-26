@@ -77,7 +77,7 @@ Luc P : **"**Громовиця in ukrainian seems related to thunder and storm,
 Luc P : **"**Jean Cousin is a young master of sample-based music, sometimes abstratct, often delicate, almost always surprising. His first album is an incredible mesh of voices, field recordings and minimalistic melodies, and a truly rewarding listening experience, where each dive allows you to discover more of his unique and intricate universe. **"**
 
 ## [Simo Cell](https://soundcloud.com/simocell) - As Long As We Have Those Things 
-Luc P : **"**This dude seems always at ease whatever he does, it's almost disconcerting. Behind decks, he never sounds "by-the-books" - he'll dare to venture from Bristolian dub music to club cuts by way of Aya Nakumura remixes before you even get the time to blink. And as a producer, he tries his hand at techno, reggaeton or even ambient. Not too shabby!**"**
+Luc P : **"**This dude seems always at ease whatever he does, it's almost disconcerting. Behind decks, he never sounds "by-the-books" - he'll dare to venture from Bristolian dub music to club cuts by way of Aya Nakamura remixes before you even get the time to blink. And as a producer, he tries his hand at techno, reggaeton or even ambient. Not too shabby!**"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you for listening. Much love and respect to Maenad Veyl for his selection, and to [Camille Célestin](http://bravocamo.studio/) for this gorgeous illustration. </p>
