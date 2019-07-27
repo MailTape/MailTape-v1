@@ -38,7 +38,7 @@ description: >-
   is no exception to that, a stroll through fresh ambient layers, a warm jazzy
   afrobeat piece or even a trension-building drum-and-bass track, all in
   restraint.
-image: fbPic368.jpg
+image: 'https://mailta.pe/img/fbPic368.png'
 musiColor: musiColor368.png
 guestPic: guestPic368.jpg
 ---
