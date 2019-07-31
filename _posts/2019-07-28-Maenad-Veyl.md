@@ -27,7 +27,7 @@ track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
 track5_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
 track7_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/368/track3.flac'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/368/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/368/track4.mp3'
 track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
 description: >-
