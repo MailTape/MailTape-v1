@@ -22,8 +22,7 @@ track5_title: Cate Le Bon - Solitude
 track5_color: vibrant
 track6_title: 'Structures - Satellite '
 track6_color: rough
-track6_link: >-
-  https://soundcloud.com/structuresband/structures-satellite?in=structuresband/sets/ep-long-life
+track6_link: 'https://soundcloud.com/structuresband/structures-satellite?in=structuresband/sets/ep-long-life'
 track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
 guestPic: guestPic363.jpg
@@ -31,8 +30,7 @@ track1_color: dreamy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
 musiColor: musiColor363.png
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track5.mp3'
-description: >-
-  This morning, we take out the guitars, adjust our strings test the sound with
+description: This morning, we take out the guitars, adjust our strings test the sound with
   the amp in boring neighbors...  And let our fingers slide so that we can wake
   up our faithful on Sunday morning. <br><br> New-wave and post punk for your
   awakening?  And why not ... Entracte Twist" strays off the beaten track to
