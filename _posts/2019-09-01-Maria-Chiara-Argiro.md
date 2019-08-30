@@ -36,30 +36,30 @@ episode_URL: 'http://mailta.pe/369/maria-chiara-argiro/'
 Born in Nigeria, Camilla George studied at Trinity College of Music and emerged from the influential Tomorrow’s Warriors and Jazz Jamaica bands to a Mobo nomination in 2013. Her tutors have included fellow saxophonists Jean Toussaint, Tony Kofi, Julian Siegel, Christian Brewer and Martin Speake.
 </p>
 
-# Camilla George's selection
+# Maria Chiara Argirò's selection
 
-##  Kenny Garrett – Charlie Brown Goes to South Africa
-_Camilla George_: **"**I am a huge [Kenny](http://www.kennygarrett.com/) fan and love his playing as much as his compositions. This is one of the first tunes of his that I heard and I have been hooked ever since!**"**
+##  Jon Hopkins – Emerald Rush
+_Maria Chiara Argirò_: **"**I am a huge [Kenny](http://www.kennygarrett.com/) fan and love his playing as much as his compositions. This is one of the first tunes of his that I heard and I have been hooked ever since!**"**
 
-## Dizzy Gillespie, Sonny Rollins & Sonny Stitt – On the Sunny Side of the Street
-_Camilla George_: **"**I love both [Sonny Rollins](https://sonnyrollins.com/) and [Sonny Stitt](https://www.sonnystitt.com/)’s playing on this as well as Dizzy’s singing at the end!**"**
+## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
+_Maria Chiara Argirò_: **"**I love both [Sonny Rollins](https://sonnyrollins.com/) and [Sonny Stitt](https://www.sonnystitt.com/)’s playing on this as well as Dizzy’s singing at the end!**"**
 
-## Zara McFarlane – Silhouette
-_Camilla George_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/) a lot over the years and she is one of my favourite artists. I love this tune in particular from her new album 'Arise'. Its melody is beautifully haunting.**"**
+## Andy Shauf – Marta Sways
+_Maria Chiara Argirò_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/) a lot over the years and she is one of my favourite artists. I love this tune in particular from her new album 'Arise'. Its melody is beautifully haunting.**"**
 
 
 # MailTape's selection
 
-## Camilla George Quartet – Polkadots And Moonbeams
+## Maria Chiara Argirò – Nautilus
 _Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arrangement that features some tender and emotive playing from Camilla's quartet. She is given sympathetic support by the quartet with Camilla herself flowingly lyrical on her own solo. [Daniel Casimir](https://www.danielcasimirbass.com/)’s richly melodic bass is a further highlight.**"**
 
-## Nicholas Payton – #BAMboula
+## Linda May Han Oh – Firedancer
   _Sanjay_: **"**Reminiscent of Miles Davis’s Afrocentric early-‘70s experiments, #BAMboula is an easy-paced groove built upon [Nicholas Payton](http://www.nicholaspayton.com/)’s trumpet and Fender Rhodes. Based on the rhythm of the same name (by the renowned [Louis Moreau Gottschalk](https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk)), it also includes bits of interviews with Dizzy Gillespie and Art Blakey. Nicholas explains #BAM as an acronymic hashtag for Black American Music.**"**
 
-## Sarah Tandy – Timelord
+## Ariwo – To Earth
 _Sanjay_: **"**A regular at the Servant Jazz Quarters in Dalston, pianist and composer [Sarah Tandy](https://www.sarahtandy.com/) has recently released her debut album, 'Infection in the Sentence'. This track is built around a nifty electronic motif, starting out pretty leisurely before the theme is tentatively explored with some sensitive sax and Zawinul-like sounds.**"**
 
-## Sarathy Korwar & Upaj Collective – Journey in Satchidananda
+## Lifted – Rose 31
 _Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
 
 
