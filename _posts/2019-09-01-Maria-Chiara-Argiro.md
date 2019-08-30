@@ -30,8 +30,12 @@ track6_color: trippy
 track7_title: Lifted – Rose 31
 track7_color: bliss
 episode_URL: 'http://mailta.pe/369/maria-chiara-argiro/'
+description: >-
+  Welcome back to another season of MailTape! This morning we introduce the
+  London-based pianist and composer, Maria Chiara Argirò, who kicks things off
+  again with three Sunday morning tunes.
 ---
-<p id="introduction">Welcome back to another season of MailTape! This morning we welcome the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), to kick things off again with her three Sunday morning tunes.
+<p id="introduction">Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
 <br><br>
 Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (to be released on 27th September).
 </p>
