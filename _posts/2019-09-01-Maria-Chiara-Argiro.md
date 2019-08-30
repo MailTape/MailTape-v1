@@ -63,4 +63,4 @@ _Sanjay_: **"**Ariwo formed in London in 2015 and their debut LP released a coup
 _Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Camilla George](http://camillageorge.com/) for her Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for his brilliant illustration.</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday for the start of a new season. Much love and respect to [Maria Chiara Argirò](https://www.mariachiaramusic.com/) for her Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration!</p>
