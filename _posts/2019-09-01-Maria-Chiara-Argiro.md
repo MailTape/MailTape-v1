@@ -57,7 +57,7 @@ _Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns
   _Sanjay_: **"**Taken from [Linda May Han Oh](https://lindamayhanoh.com/)'s third studio album, Walking Against Wind, 'Firedancer' makes nice use of silence and contrast. Pianist Fabian Almazani and Ben Wendel on tenor saxophone feature prominently on this track—Fabian's left hand in unison with Linda's acoustic bass melody and his right hand punching accents along with Ben Wendel.**"**
 
 ## Ariwo – To Earth
-_Sanjay_: **"**Ariwo formed in London in 2015 and their debut LP released a couple of years later offered a snapshot of their sound.**"**
+_Sanjay_: **"**Ariwo formed in London in 2015 and their debut LP released a couple of years later offered a snapshot of their sound: atmospheric electronica, mesmerising Cuban rhythms and almost transcendental grooves.**"**
 
 ## Lifted – Rose 31
 _Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
