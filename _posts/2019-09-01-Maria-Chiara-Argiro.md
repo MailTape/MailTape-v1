@@ -51,7 +51,7 @@ _Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recent
 # MailTape's selection
 
 ## Maria Chiara Argirò – Nautilus
-_Sanjay_: **"**Jimmy Van Heusen’s track is presented in a languid ballad arrangement that features some tender and emotive playing from Camilla's quartet. She is given sympathetic support by the quartet with Camilla herself flowingly lyrical on her own solo. [Daniel Casimir](https://www.danielcasimirbass.com/)’s richly melodic bass is a further highlight.**"**
+_Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album, [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas).**"**
 
 ## Linda May Han Oh – Firedancer
   _Sanjay_: **"**Reminiscent of Miles Davis’s Afrocentric early-‘70s experiments, #BAMboula is an easy-paced groove built upon [Nicholas Payton](http://www.nicholaspayton.com/)’s trumpet and Fender Rhodes. Based on the rhythm of the same name (by the renowned [Louis Moreau Gottschalk](https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk)), it also includes bits of interviews with Dizzy Gillespie and Art Blakey. Nicholas explains #BAM as an acronymic hashtag for Black American Music.**"**
