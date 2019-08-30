@@ -51,7 +51,7 @@ _Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recent
 # MailTape's selection
 
 ## Maria Chiara Argirò – Nautilus
-_Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album, [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas). Released on September 27th, Maria's new project features a brilliant line up of musicians including Leila Martial, Sam Rapley, Tal Janes, Andrea Di Biase and Gaspar Sena.**"**
+_Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas). Released on September 27th, Maria's new project features a brilliant line up of musicians including Leila Martial, Sam Rapley, Tal Janes, Andrea Di Biase and Gaspar Sena.**"**
 
 ## Linda May Han Oh – Firedancer
   _Sanjay_: **"**Taken from [Linda May Han Oh](https://lindamayhanoh.com/)'s third studio album, Walking Against Wind, 'Firedancer' makes nice use of silence and contrast. Pianist Fabian Almazani and Ben Wendel on tenor saxophone feature prominently on this track—Fabian's left hand in unison with Linda's acoustic bass melody and his right hand punching accents along with Ben Wendel.**"**
