@@ -38,7 +38,7 @@ Born in Nigeria, Camilla George studied at Trinity College of Music and emerged 
 
 # Maria Chiara Argirò's selection
 
-##  Jon Hopkins – Emerald Rush
+## Jon Hopkins – Emerald Rush
 _Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and "Singularity" became a reference electronic album for me in the past year.**"**
 
 ## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
