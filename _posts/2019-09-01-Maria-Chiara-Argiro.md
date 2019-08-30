@@ -31,9 +31,9 @@ track7_title: Lifted – Rose 31
 track7_color: bliss
 episode_URL: 'http://mailta.pe/369/maria-chiara-argiro/'
 ---
-<p id="introduction"> This morning we welcome London-based saxophonist and composer, [Camilla George](http://camillageorge.com/), to select three Sunday morning tunes that include some of her inspirations and collaborations.
+<p id="introduction">Welcome back to another season of MailTape! This morning we welcome London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), to kick things off again with her three Sunday morning tunes.
 <br><br>
-Born in Nigeria, Camilla George studied at Trinity College of Music and emerged from the influential Tomorrow’s Warriors and Jazz Jamaica bands to a Mobo nomination in 2013. Her tutors have included fellow saxophonists Jean Toussaint, Tony Kofi, Julian Siegel, Christian Brewer and Martin Speake.
+Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (to be released on 27th September).
 </p>
 
 # Maria Chiara Argirò's selection
