@@ -51,7 +51,7 @@ _Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recent
 # MailTape's selection
 
 ## Maria Chiara Argirò – Nautilus
-_Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album, [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas).**"**
+_Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album, [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas). Released on September 27th, Maria's new project features a brilliant line up of musicians including Leila Martial, Sam Rapley, Tal Janes, Andrea Di Biase and Gaspar Sena.**"**
 
 ## Linda May Han Oh – Firedancer
   _Sanjay_: **"**Reminiscent of Miles Davis’s Afrocentric early-‘70s experiments, #BAMboula is an easy-paced groove built upon [Nicholas Payton](http://www.nicholaspayton.com/)’s trumpet and Fender Rhodes. Based on the rhythm of the same name (by the renowned [Louis Moreau Gottschalk](https://en.wikipedia.org/wiki/Louis_Moreau_Gottschalk)), it also includes bits of interviews with Dizzy Gillespie and Art Blakey. Nicholas explains #BAM as an acronymic hashtag for Black American Music.**"**
