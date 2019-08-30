@@ -39,13 +39,13 @@ Born in Nigeria, Camilla George studied at Trinity College of Music and emerged 
 # Maria Chiara Argirò's selection
 
 ##  Jon Hopkins – Emerald Rush
-_Maria Chiara Argirò_: **"**I am a huge [Kenny](http://www.kennygarrett.com/) fan and love his playing as much as his compositions. This is one of the first tunes of his that I heard and I have been hooked ever since!**"**
+_Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and "Singularity" became a reference electronic album for me in the past year.**"**
 
 ## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
-_Maria Chiara Argirò_: **"**I love both [Sonny Rollins](https://sonnyrollins.com/) and [Sonny Stitt](https://www.sonnystitt.com/)’s playing on this as well as Dizzy’s singing at the end!**"**
+_Maria Chiara Argirò_: **"**Such an astonishing composition! [Ambrose](https://www.ambroseakinmusire.com/) is one of my favourite jazz musicians and artist.**"**
 
-## Andy Shauf – Marta Sways
-_Maria Chiara Argirò_: **"**I have worked with [Zara](https://www.zaramcfarlane.com/) a lot over the years and she is one of my favourite artists. I love this tune in particular from her new album 'Arise'. Its melody is beautifully haunting.**"**
+## [Andy Shauf](http://www.andyshauf.com/) – Marta Sways
+_Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recently. Beautiful playing, arrangements and songs. Played this song on repeat.**"**
 
 
 # MailTape's selection
