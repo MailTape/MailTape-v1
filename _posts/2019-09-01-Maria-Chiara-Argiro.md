@@ -39,7 +39,7 @@ Born in Nigeria, Camilla George studied at Trinity College of Music and emerged 
 # Maria Chiara Argirò's selection
 
 ## Jon Hopkins – Emerald Rush
-_Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and "Singularity" became a reference electronic album for me in the past year.**"**
+_Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and 'Singularity' became a reference electronic album for me in the past year.**"**
 
 ## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
 _Maria Chiara Argirò_: **"**Such an astonishing composition! [Ambrose](https://www.ambroseakinmusire.com/) is one of my favourite jazz musicians and artists.**"**
@@ -57,7 +57,7 @@ _Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns
   _Sanjay_: **"**Taken from [Linda May Han Oh](https://lindamayhanoh.com/)'s third studio album, Walking Against Wind, 'Firedancer' makes nice use of silence and contrast. Pianist Fabian Almazani and Ben Wendel on tenor saxophone feature prominently on this track—Fabian's left hand in unison with Linda's acoustic bass melody and his right hand punching accents along with Ben Wendel.**"**
 
 ## Ariwo – To Earth
-_Sanjay_: **"**Ariwo formed in London in 2015 and their debut LP a couple of years later offered a snapshot of their sound.**"**
+_Sanjay_: **"**Ariwo formed in London in 2015 and their debut LP released a couple of years later offered a snapshot of their sound.**"**
 
 ## Lifted – Rose 31
 _Sanjay_: **"**Previous MailTape guest, [Sarathy Korwar](https://www.mailta.pe/249/sarathy-korwar/), follows up his debut album 'Day to Day' with 'My East Is Your West' alongside the Upaj Collective. And it’s a fantastically good one. Alice Coltrane’s harp in the original version is substituted here by a sitar and santoor—creating a sweltering, exhausting and intense listen at every turn.**"**
