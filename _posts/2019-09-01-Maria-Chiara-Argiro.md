@@ -42,7 +42,7 @@ Born in Nigeria, Camilla George studied at Trinity College of Music and emerged 
 _Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and "Singularity" became a reference electronic album for me in the past year.**"**
 
 ## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
-_Maria Chiara Argirò_: **"**Such an astonishing composition! [Ambrose](https://www.ambroseakinmusire.com/) is one of my favourite jazz musicians and artist.**"**
+_Maria Chiara Argirò_: **"**Such an astonishing composition! [Ambrose](https://www.ambroseakinmusire.com/) is one of my favourite jazz musicians and artists.**"**
 
 ## [Andy Shauf](http://www.andyshauf.com/) – Marta Sways
 _Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recently. Beautiful playing, arrangements and songs. Played this song on repeat.**"**
