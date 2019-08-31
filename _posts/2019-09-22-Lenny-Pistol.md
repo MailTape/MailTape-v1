@@ -17,7 +17,7 @@ track2_color: trippy
 track1_color: dreamy
 track1_title: Family Time - Magic Abyss Hotel
 track4_link: 'https://soundcloud.com/luikrec/lenny-pistol-despise-pistil-boy'
-track7_link: 'https://soundcloud.com/angelo-de-augustine/i-could-be-wrong'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track7.mp3'
 track6_link: 'https://soundcloud.com/daste-music/overload-daste'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track%202.mp3'
