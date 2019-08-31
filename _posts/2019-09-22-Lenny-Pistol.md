@@ -46,7 +46,7 @@ _Lenny Pistol_: **"** **"**
 _Anaïs G_: **"** **"**
 
 ## Julia Shapiro – Natural
-_Anaïs G_: **"****"**
+_Anaïs G_: **"** **"**
 
 ## daste. – Overload
 _Anaïs G_: **"** **"**
