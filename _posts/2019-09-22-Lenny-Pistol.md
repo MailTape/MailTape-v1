@@ -7,7 +7,7 @@ category: '372'
 guest_name: Lenny Pistol
 guest_color: dreamy
 guestPic: guestPic372.jpg
-track3_link: 'https://soundcloud.com/mac-demarco-official/freaking-out-the-neighborhood'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track3.mp3'
 track3_title: "Mac DeMarco - Freaking Out The Neighborhood\_\_"
 track3_color: bliss
 track4_title: Lenny Pistol - Despise
