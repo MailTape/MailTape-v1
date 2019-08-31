@@ -34,6 +34,7 @@ description: >-
   Welcome back to another season of MailTape! This morning we introduce the
   London-based pianist and composer, Maria Chiara Argirò, who kicks things off
   again with three Sunday morning tunes.
+guestPic: guestPic369.jpg
 ---
 <p id="introduction">Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
 <br><br>
