@@ -40,7 +40,7 @@ musiColor: musiColor369.png
 ---
 <p id="introduction">Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
 <br><br>
-Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (to be released on 27th September).
+Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (released on 27th September).
 </p>
 
 # Maria Chiara Argirò's selection
