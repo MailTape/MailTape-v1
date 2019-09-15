@@ -13,7 +13,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/373/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/373/track3.mp3'
 track4_link: 'https://soundcloud.com/fatcatrecords/shida-shahabi-pretty-in-plums'
 track5_link: 'https://soundcloud.com/fatcatrecords/emilie-levienaise-farrouch-strelka'
-track6_link: 'https://soundcloud.com/user-646013394/the-first-call'
+track6_link: 'https://soundcloud.com/jatinder-singh-durhailay/tulsi'
 track7_link: >-
   https://soundcloud.com/infine-music/vanessa-wagner-struggle-for-pleasure-gas-version-wim-mertens
 track1_title: Mayumi Miyata – 双調調子
@@ -26,7 +26,7 @@ track4_title: ' Shida Shahabi – Pretty In Plums'
 track4_color: dreamy
 track5_title: Emilie Levienaise-Farrouch – Strelka
 track5_color: bliss
-track6_title: Rothko – The First Call
+track6_title: Jatinder Singh Durhailay and David Edren – Tulsi
 track6_color: dreamy
 track7_title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
 track7_color: trippy
@@ -57,7 +57,7 @@ _Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns
 ## Emilie Levienaise-Farrouch – Strelka
   _Sanjay_: **"**Taken from [Linda May Han Oh](https://lindamayhanoh.com/)'s third studio album, Walking Against Wind, 'Firedancer' makes nice use of silence and contrast. Pianist Fabian Almazani and Ben Wendel on tenor saxophone feature prominently on this track—Fabian's left hand in unison with Linda's acoustic bass melody and his right hand punching accents along with Ben Wendel.**"**
 
-## Rothko – The First Call
+## Jatinder Singh Durhailay & David Edren – Tulsi
 _Sanjay_: **"**[Ariwo](http://www.ariwomusic.com/) formed in London in 2015 and their debut LP released a couple of years later offered a snapshot of their sound: atmospheric electronica, hypnotising Cuban rhythms and almost transcendental grooves. Pouya Ehsaei, Hammadi Valdes, Orneste Noda and Jay Phelps take their collective name from the Yoruba word for noise. The Yoruba traditions were forcibly transplanted in Cuba during the Middle Passage with some traces remaining in present-day spiritualism and music.**"**
 
 ## Vanessa Wagner – Struggle For Pleasure (GAS Rework)
@@ -65,4 +65,3 @@ _Sanjay_: **"**[Lifted](https://p-a-n.org/release/lifted-2-pan-85/) is a collabo
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday for the start of a new season. Much love and respect to [Maria Chiara Argirò](https://www.mariachiaramusic.com/) for kicking it off again with her Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration!</p>
-
