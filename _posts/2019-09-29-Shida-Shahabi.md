@@ -43,7 +43,7 @@ Maria blends classical music, folk traditions and electronic music with her own 
 _Shida Shahabi_: **"**[Mayumi Miyata](https://en.wikipedia.org/wiki/Mayumi_Miyata)’s way of playing the Shō is magical and has been something I’ve listened to at home for quite a while now, such a lovely sound world to be in.**"**
 
 ## Lamine Konté – Dioula
-_Shida Shahabi_: **"**I have also been spinning [Lamine Konté](https://www.discogs.com/artist/1060813-Lamine-Kont%C3%A9)’s 'La Kora Du Sénégal' a lot recently at home, I love the sound texture, harmonies and the percussive qualities of the Cora.**"**
+_Shida Shahabi_: **"**I have also been spinning [Lamine Konté](https://www.discogs.com/artist/1060813-Lamine-Kont%C3%A9)’s 'La Kora Du Sénégal' a lot recently at home. I love the sound texture, harmonies and the percussive qualities of the Cora.**"**
 
 ## Lotic – Solace
 _Shida Shahabi_: **"**[Lotic](https://soundcloud.com/lotic)’s Power is one of my favourite releases from last year, love the production and mix, super excited too see what comes next from them.**"**
