@@ -37,30 +37,30 @@ episode_URL: 'https://mailta.pe/373/shida-shahabi/'
 Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (released on 27th September).
 </p>
 
-# Maria Chiara Argirò's selection
+# Shida Shahabi's selection
 
-## Jon Hopkins – Emerald Rush
-_Maria Chiara Argirò_: **"**[Jon Hopkins](http://jonhopkins.co.uk/) is a very inspiring artist and 'Singularity' became a reference electronic album for me in the past year.**"**
+## Mayumi Miyata – 双調調子
+_Shida Shahabi_: **"**Mayumi Miyata’s way of playing the Sho is magical and has been something I’ve listened to at home for quite a while now, such a lovely sound world to be in. **"**
 
-## Ambrose Akinmusire – A Blooming Bloodfruit in a Hoodie
-_Maria Chiara Argirò_: **"**Such an astonishing composition! [Ambrose](https://www.ambroseakinmusire.com/) is one of my favourite jazz musicians and artists.**"**
+## Lamine Konté – Dioula
+_Shida Shahabi_: **"**I have also been spinning Lamine Konté’s 'La Kora Du Sénégal' a lot recently at home, I love the sound texture, harmonies and the percussive qualities of the Cora.**"**
 
-## [Andy Shauf](http://www.andyshauf.com/) – Marta Sways
-_Maria Chiara Argirò_: **"**I discovered this fantastic songwriter quite recently. Beautiful playing, arrangements and songs. Played this song on repeat.**"**
+## Lotic – Solace
+_Shida Shahabi_: **"**Lotic’s Power is one of my favourite releases from last year, love the production and mix, super excited too see what comes next from them.**"**
 
 
 # MailTape's selection
 
-## Maria Chiara Argirò – Nautilus
+## Shida Shahabi – Pretty In Plums
 _Sanjay_: **"**[Maria Chiara Argirò](https://www.mariachiaramusic.com/) returns with 'Nautilus', an expansive soundscape that lifts the the lid on her upcoming second album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas). Released on September 27th, Maria's new project features a brilliant line up of musicians including Leila Martial, Sam Rapley, Tal Janes, Andrea Di Biase and Gaspar Sena.**"**
 
-## Linda May Han Oh – Firedancer
+## Emilie Levienaise-Farrouch – Strelka
   _Sanjay_: **"**Taken from [Linda May Han Oh](https://lindamayhanoh.com/)'s third studio album, Walking Against Wind, 'Firedancer' makes nice use of silence and contrast. Pianist Fabian Almazani and Ben Wendel on tenor saxophone feature prominently on this track—Fabian's left hand in unison with Linda's acoustic bass melody and his right hand punching accents along with Ben Wendel.**"**
 
-## Ariwo – To Earth
+## Rothko – The First Call
 _Sanjay_: **"**[Ariwo](http://www.ariwomusic.com/) formed in London in 2015 and their debut LP released a couple of years later offered a snapshot of their sound: atmospheric electronica, hypnotising Cuban rhythms and almost transcendental grooves. Pouya Ehsaei, Hammadi Valdes, Orneste Noda and Jay Phelps take their collective name from the Yoruba word for noise. The Yoruba traditions were forcibly transplanted in Cuba during the Middle Passage with some traces remaining in present-day spiritualism and music.**"**
 
-## Lifted – Rose 31
+## Vanessa Wagner – Struggle For Pleasure (GAS Rework)
 _Sanjay_: **"**[Lifted](https://p-a-n.org/release/lifted-2-pan-85/) is a collaborative musical ensemble featuring Future Times boss Max D, Matt Papich aka Co La, Jeremy Hyman and Motion Graphics, as well as contributions from Beatrice Dillon, Bass Clef, Will DiMaggio, Jordan GCZ and more. Late nights and early mornings are blurred in this smoked-out and amorphous joint. 'Rose 31' is brightly lit by mellow flute, woodwind and sax, with an uncomplicated drum pattern shuffling along underneath.**"**
 
 
