@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Anaïs G
 category: '372'
 guest_name: Lenny Pistol
@@ -30,6 +30,10 @@ track6_title: daste. - Overload
 track7_title: Angelo DeAugustine - I Could Be Wrong
 episode_URL: 'http://mailta.pe/372/lenny-pistol'
 musiColor: musiColor372.png
+illustrator: ''
+writer: ''
+image: ''
+description: ''
 ---
 <p id="introduction">
   
