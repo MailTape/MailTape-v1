@@ -27,7 +27,7 @@ track7_color: dreamy
 track6_color: dreamy
 track5_color: bliss
 track6_title: daste. - Overload
-track7_title: Angelo DeAugustine - I Could Be Wrong
+track7_title: Angelo De Augustine - I Could Be Wrong
 episode_URL: 'http://mailta.pe/372/lenny-pistol'
 musiColor: musiColor372.png
 ---
