@@ -14,7 +14,7 @@ track2_color: vibrant
 track7_color: vibrant
 track6_link: 'https://soundcloud.com/itswayi/wayi-the-way-i-am'
 track7_link: 'https://soundcloud.com/kingprincessmusic/sunburn'
-track4_link: 'https://soundcloud.com/rubyfrancis/fall-asleep-1'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/304/track4.mp3'
 track6_title: WAYI — The Way I Am
 track6_color: dreamy
 track5_link: 'https://soundcloud.com/stillwoozy/goodiebag'

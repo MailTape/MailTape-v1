@@ -11,7 +11,7 @@ guestPic: guestPic212.jpg
 track1_link: "https://mailtapesounds.s3.amazonaws.com/212/track1.mp3"
 track2_link: "https://mailtapesounds.s3.amazonaws.com/212/track2.mp3"
 track3_link: "https://soundcloud.com/wearecolorado/undisclosed"
-track4_link: "https://soundcloud.com/animal-rec/stand-wise-otherside"
+track4_link: "https://mailtapesounds.s3.amazonaws.com/212/track4.mp3"
 track5_link: "https://soundcloud.com/davidaugust/the-acid-ra-david-august-remix"
 track6_link: "https://mailtapesounds.s3.amazonaws.com/212/track6.mp3"
 track7_link: "https://soundcloud.com/mixmag-1/download-ambassadeurs-willows-lullaby"

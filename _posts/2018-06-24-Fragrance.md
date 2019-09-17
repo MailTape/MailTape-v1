@@ -9,7 +9,7 @@ category: '318'
 guest_name: Fragrance.
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/hjordisbrittastrom/galatee-ne-sois-pas-triste'
-track2_link: 'https://soundcloud.com/lia_mice/saint-malo'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/318/track2.mp3'
 track3_link: 'https://soundcloud.com/orchid-e-noire/mordore'
 track4_link: 'https://soundcloud.com/thisisfragrance/through-the-wall'
 track5_link: 'https://soundcloud.com/herveteckel/solid-space-destination-moon'

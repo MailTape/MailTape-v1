@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/265/track1.mp3'
-track2_link: 'https://soundcloud.com/djwindowsxp/dj-windows-xp-i-cried-last-night-1'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/265/track2.mp3'
 track3_link: 'https://soundcloud.com/ultraultra/return-to-earth'
 category: '265'
 author: Laura

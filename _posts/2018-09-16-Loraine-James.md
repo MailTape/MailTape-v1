@@ -9,7 +9,7 @@ category: '323'
 guest_name: Loraine James
 guest_color: trippy
 track1_link: 'https://soundcloud.com/progressive-form/ilu-its-dope-from-dont-watch-the-sun-pfcd71'
-track2_link: 'https://soundcloud.com/yukinoame/water-from-thoughts'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/323/track2.mp3'
 track3_link: 'https://soundcloud.com/sassy009/are-you-leaving-2'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/323/track4.mp3'
 track5_link: 'https://soundcloud.com/ourimusic/superficial'

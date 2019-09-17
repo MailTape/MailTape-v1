@@ -8,7 +8,7 @@ track2_link: 'https://soundcloud.com/softhairofficial/lying-has-to-stop-single'
 track3_link: 'https://soundcloud.com/robbing-millions/8-is-the-figure-that-i-like-the-most'
 track4_link: 'https://soundcloud.com/nicolasmichaux/02-a-la-vie-a-la-mort'
 track5_link: 'https://soundcloud.com/secretlycanadian/alex-cameron-shes-mine-1'
-track7_link: 'https://soundcloud.com/partyfinemusic/weekend-affair-duel-part-2'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/231/track7.mp3'
 author: Maxime
 illustrator: William Girault
 writer: Maxime

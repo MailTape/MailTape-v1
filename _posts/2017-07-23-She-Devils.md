@@ -18,7 +18,7 @@ track3_color: trippy
 track4_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/270/track4.mp3'
 track4_title: She-Devils - Darling
 track4_color: bliss
-track5_link: 'https://soundcloud.com/yellow-days/that-easy-1'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/270/track5.mp3'
 track5_title: Yellow Days - That Easy
 track5_color: bliss
 track6_title: Mons Vi - Want Me Too

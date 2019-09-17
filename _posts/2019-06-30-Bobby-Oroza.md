@@ -10,7 +10,7 @@ guest_name: Bobby Oroza
 guest_color: vibrant
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/364/track1.mp3'
 track2_link: 'https://soundcloud.com/user-786202860/gloria-ann-taylor-world-thats-not-real'
-track4_link: 'https://soundcloud.com/bobbyoroza/this-love'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/364/track4.mp3'
 track5_link: 'https://soundcloud.com/jonahyano/nervous-feat-badbadnotgood'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/364/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/364/track7.mp3'
