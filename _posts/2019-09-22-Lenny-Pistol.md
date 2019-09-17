@@ -22,6 +22,14 @@ track6_link: 'https://soundcloud.com/daste-music/overload-daste'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track%201.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track%202.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/372/Track%205.mp3'
+track5_title: Julia Shapiro - Natural
+track7_color: dreamy
+track6_color: dreamy
+track5_color: bliss
+track6_title: daste. - Overload
+track7_title: Angelo DeAugustine - I Could Be Wrong
+episode_URL: 'http://mailta.pe/372/lenny-pistol'
+musiColor: musiColor372.png
 ---
 <p id="introduction">
   
