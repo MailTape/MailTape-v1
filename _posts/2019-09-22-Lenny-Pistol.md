@@ -31,11 +31,9 @@ track7_title: Angelo De Augustine - I Could Be Wrong
 episode_URL: 'http://mailta.pe/372/lenny-pistol'
 musiColor: musiColor372.png
 ---
-<p id="introduction">
-  
-
+<p id="introduction">This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. Lenny Pistol will be your guide for this morning’s episode.  
 <br><br>
-
+His off-putting and nonchalant unique musical style melted with hints of  Lo-Fi pop sounds well defines this young Belgian artist. Whether you appreciate his personality or not,  his music will propel you out of time, remolding your day. 
 </p>
 
 # Lenny Pistol's selection
@@ -53,16 +51,16 @@ _Lenny Pistol_: **"**This song has multiple secret layers. It's not the case for
 # MailTape's selection
 
 ## Lenny Pistol – Despise
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**I discovered Lenny Pistol’s music through the Luik Records label. Almost by chance, as I listened to various sounds, my ear was specifically drawn to his music. Through the often violent sounds of certain songs, his immediately seduced me. His first album, « PistilBoy » out last February, is an explosive mix of gentleness and eccentrism.**"**
 
 ## Julia Shapiro – Natural
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**It’s natural, simple and beautiful, but quite far from being simplistic. Julia Shapiro, the singer and guitar player of the group Chastity Belt, reveals her feelings, her emotions, her pains through an indie rock sonority. Often flayed and melancholic but bearing an incredible light.**"**
 
 ## daste. – Overload
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**The degree of sexiness of this song goes far beyond what we could possibly imagine. From a slight hip rocking, to the special note that will tinkle our ear. A gaze of a million words and a voice that strokes and shivers the whole of you. I shall let you enjoy this delight for yourself and will let you savor the ecstatic side effects.**"**
 
 ##  Angelo De Augustine – I Could Be Wrong 
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**It is quite by chance that I stumbled upon this song. d’Angelo De Augustine has a soft and melancholic voice.A minimalistic yet very intimate pop sound is what gives depth and sincerity to his music. As though, nothing ever really happens by chance !**"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you for listening. Much love and respect to Lenny Pistol for his selection, and to  for this gorgeous illustration. </p>
+<p id="outroduction">That's it for this morning! As always thank you for listening. Much love and respect to Lenny Pistol for his selection, and to William for this gorgeous illustration. </p>
