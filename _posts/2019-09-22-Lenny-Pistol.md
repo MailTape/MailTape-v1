@@ -55,7 +55,7 @@ _Lenny Pistol_: **"**This song has multiple secret layers. It's not the case for
 # MailTape's selection
 
 ## Lenny Pistol – Despise
-_Anaïs G_: **"**I discovered Lenny Pistol’s music through the Luik Records label. Almost by chance, as I listened to various sounds, my ear was specifically drawn to his music. Through the often violent sounds of certain songs, his immediately seduced me. His first album, « PistilBoy » out last February, is an explosive mix of gentleness and eccentrism.**"**
+_Anaïs G_: **"**I discovered Lenny Pistol’s music through the Luik Records label. Almost by chance, as I listened to various sounds, my ear was specifically drawn to his music. Through the often violent sounds of certain songs, his immediately seduced me. His first album, « Pistil Boy » out last February, is an explosive mix of gentleness and eccentrism.**"**
 
 ## Julia Shapiro – Natural
 _Anaïs G_: **"**It’s natural, simple and beautiful, but quite far from being simplistic. Julia Shapiro, the singer and guitar player of the group Chastity Belt, reveals her feelings, her emotions, her pains through an indie rock sonority. Often flayed and melancholic but bearing an incredible light.**"**
