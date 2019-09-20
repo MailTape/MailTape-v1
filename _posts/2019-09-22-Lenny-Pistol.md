@@ -30,6 +30,8 @@ track6_title: daste. - Overload
 track7_title: Angelo De Augustine - I Could Be Wrong
 episode_URL: 'http://mailta.pe/372/lenny-pistol'
 musiColor: musiColor372.png
+illustrator: William Girault
+writer: Anaïs G
 ---
 <p id="introduction">This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. Lenny Pistol will be your guide for this morning’s episode. 
   
