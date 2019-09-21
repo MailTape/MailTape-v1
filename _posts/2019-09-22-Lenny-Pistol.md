@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/372/lenny-pistol'
 musiColor: musiColor372.png
 illustrator: William Girault
 writer: Anaïs G
-image: fbPic372.png
+image: 'http://mailta.pe/img/fbPic372.png'
 description: >-
   This morning, we are entering a lovely and floating retro Sunday vibe.
   Fondling in vitamin induced subtilties, this selection of tracks will pull you
