@@ -33,6 +33,11 @@ musiColor: musiColor372.png
 illustrator: William Girault
 writer: Anaïs G
 image: fbPic372.png
+description: >-
+  This morning, we are entering a lovely and floating retro Sunday vibe.
+  Fondling in vitamin induced subtilties, this selection of tracks will pull you
+  out of this morning’s hazy fog. Lenny Pistol will be your guide for this
+  morning’s episode.
 ---
 <p id="introduction">This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. [Lenny Pistol](https://www.facebook.com/LennyPistol/) will be your guide for this morning’s episode. 
 <br><br>
