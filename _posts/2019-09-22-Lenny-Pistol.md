@@ -55,7 +55,7 @@ _Lenny Pistol_: **"**This song has multiple secret layers. It's not the case for
 ## [Lenny Pistol](https://www.instagram.com/lennypistolito/?fbclid=IwAR0IOt8VPxQeqGWRIaR5QR3FeDxqM14be7xyNg36_C8PfZykV3Ue-jgyGI0) – Despise
 _Anaïs G_: **"**I discovered Lenny Pistol’s music through the [Luik Records label](https://luikrec.bandcamp.com/). Almost by chance, as I listened to various sounds, my ear was specifically drawn to his music. Through the often violent sounds of certain songs, his immediately seduced me. His first album, [« Pistil Boy »](https://lennypistol.bandcamp.com/album/pistil-boy-ep) out last February, is an explosive mix of gentleness and eccentrism.**"**
 
-## Julia Shapiro – Natural
+## [Julia Shapiro](https://twitter.com/cool__slut?lang=fr) – Natural
 _Anaïs G_: **"**It’s natural, simple and beautiful, but quite far from being simplistic. [Julia Shapiro](https://juliashapiro.bandcamp.com/), the singer and guitar player of the group [Chastity Belt](https://chastity-belt.bandcamp.com/), reveals her feelings, her emotions, her pains through an indie rock sonority. Often flayed and melancholic but bearing an incredible light.**"**
 
 ## [daste.](https://soundcloud.com/daste-music) – Overload
