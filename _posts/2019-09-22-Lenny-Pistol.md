@@ -34,9 +34,7 @@ illustrator: William Girault
 writer: Anaïs G
 ---
 <p id="introduction">This morning, we are entering a lovely and floating retro Sunday vibe. Fondling in vitamin induced subtilties, this selection of tracks will pull you out of this morning’s hazy fog. Lenny Pistol will be your guide for this morning’s episode. 
-  
 <br><br>
-  
 His off-putting and nonchalant unique musical style melted with hints of  Lo-Fi pop sounds well defines this young Belgian artist. Whether you appreciate his personality or not,  his music will propel you out of time, remolding your day. 
 </p>
 
