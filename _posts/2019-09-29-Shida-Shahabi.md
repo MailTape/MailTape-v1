@@ -32,9 +32,11 @@ track7_title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
 track7_color: trippy
 episode_URL: 'https://mailta.pe/373/shida-shahabi/'
 ---
-<p id="introduction">Welcome back to another season of MailTape! This morning we introduce the London-based pianist and composer, [Maria Chiara Argirò](https://www.mariachiaramusic.com/), who kicks things off again with three Sunday morning tunes.
+<p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>
-Maria blends classical music, folk traditions and electronic music with her own approach to harmony and melody. Her most recent venture into electronic genres has helped create more expansive soundscapes which can be heard in her upcoming album [Hidden Seas](https://mariachiaramusic.bandcamp.com/album/hidden-seas) (released on 27th September).
+Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shahabi's debut album—Homes—released almost a year ago delves deep into explorations of intimate piano tones. Living comfortably with traces of wear and decay, its production eschews the prioritising of cleanliness, with a warm, fuzzy noise floor audible from the very first track immediately immersing the listener into this sublime yet imperfect reality—as though the whole existed beneath a layer of dust.
+<br><br>
+Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will be released on 8th November.
 </p>
 
 # Shida Shahabi's selection
