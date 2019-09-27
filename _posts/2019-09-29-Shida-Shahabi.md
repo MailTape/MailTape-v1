@@ -57,7 +57,7 @@ _Shida Shahabi_: **"**[Lotic](https://soundcloud.com/lotic)’s Power is one of 
 # MailTape's selection
 
 ## Shida Shahabi – Pretty In Plums
-_Sanjay_: **"**I first heard Shida Shahabi's music when previous MailTape guest, [Adrian of Glockenspiel](https://www.mailta.pe/342/glockenspiel/), chose one of her tracks in his selection. This track was the first I heard after that episode, and for me, it perfectly symbolises the sparse and intimate sonic explorations of her music. It has an intricate pattern looped and gently built upon with no sense of rush or obligation.**"**
+_Sanjay_: **"**I first heard Shida Shahabi's music when previous MailTape guest, [Adrian of Glockenspiel](https://www.mailta.pe/342/glockenspiel/), chose one of her tracks in his selection. This track was the first I heard after that episode and it perfectly symbolises for me the sparse and intimate sonic explorations of her music. It has an intricate pattern looped and gently built upon with no sense of rush or obligation.**"**
 
 ## Emilie Levienaise-Farrouch – Strelka
 _Sanjay_: **"**A fellow label-mate of our guest this morning, [Emilie Levienaise-Farrouch](http://emilielf.com/) elegantly weaves various nuances and textures, from classical to electronica, through her material. Like Shida, Emilie rarely relies on frills and tassels and the spacey, moody, pitch of this track exhibits her deft ability with cinematic sweeps of sound.**"**
