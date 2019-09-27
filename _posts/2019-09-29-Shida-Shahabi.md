@@ -31,6 +31,9 @@ track6_color: dreamy
 track7_title: Vanessa Wagner – Struggle For Pleasure (GAS Rework)
 track7_color: trippy
 episode_URL: 'https://mailta.pe/373/shida-shahabi/'
+description: >-
+  This morning we welcome the intimate and homespun piano of Stockholm-based
+  pianist and composer, Shida Shahabi.
 ---
 <p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>
