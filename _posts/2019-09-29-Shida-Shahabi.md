@@ -34,7 +34,7 @@ episode_URL: 'https://mailta.pe/373/shida-shahabi/'
 ---
 <p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>
-Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shahabi's debut album—Homes—released almost a year ago delves deep into explorations of intimate piano tones. Living comfortably with traces of wear and decay, its production eschews the prioritising of fussy cleanliness, with a warm, fuzzy noise floor audible from the very first track immediately immersing the listener into this sublime yet imperfect reality—as though the whole existed beneath a layer of dust.
+Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shahabi's debut album—Homes—released almost a year ago delves deep into explorations of intimate piano tones. Living comfortably with traces of wear and decay, its production eschews the prioritising of fussy cleanliness, with a warm, fuzzy noise floor audible from the very first track immediately immersing the listener into this quieter brand of assurance and imperfection—as though the whole existed beneath a layer of dust.
 <br><br>
 Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will be released on 8th November.
 </p>
