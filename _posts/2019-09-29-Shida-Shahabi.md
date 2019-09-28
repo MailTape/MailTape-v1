@@ -34,6 +34,7 @@ episode_URL: 'https://mailta.pe/373/shida-shahabi/'
 description: >-
   This morning we welcome the intimate and homespun piano of Stockholm-based
   pianist and composer, Shida Shahabi.
+guestPic: guestPic373.jpg
 ---
 <p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>
