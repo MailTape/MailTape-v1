@@ -69,7 +69,7 @@ body {
 	text-align: right;
 	font-size: 0.618rem;
 	margin: 0.5rem 0;
-	overflow: hidden;
+	// overflow: hidden; disabled to let tooltip appear (testing)
 
 	h1 {
 		font-size: 0.8rem;
@@ -459,12 +459,11 @@ article {
 	text-shadow: 0px 1px 1px rgb(56, 56, 56);
 
 	font-family: 'icomoon';
-	.transition;
 	cursor: pointer;
 
 	.transition(color,0.4s);
 
-	font-size: 2.618rem;
+	font-size: 4.218rem;
 
 	&:hover {
 		color: white;
@@ -536,7 +535,7 @@ article {
 	.transition(color);
 	.transition(background);
 	cursor: pointer;
-	color: @grey;
+	color: fadeout(@grey,10%);
 
 	.transition(color,0.4s);
 

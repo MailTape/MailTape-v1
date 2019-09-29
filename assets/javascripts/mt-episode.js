@@ -6,72 +6,10 @@ $(document).ready(
 
 		var page = $("html, body");
 
-		// TEST en cours de désactivation
-
 		$(".stretchMe").anystretch();
 
-		// permet de faire pointer tous les liens dans un nouvel onglet
-		//$('a').attr('target','_blank');
-		// désactivé, plus chiant qu'autre chose au final et les gens savent ouvrir un onglet si besoin.
-
-		// $('#bigHeader h1').flowtype({
-  //        minimum   : 100,
-  //        maximum   : 1110,
-  //        minFont   : 12,
-  //        maxFont   : 90,
-  //        fontRatio : 7 // version fixée pour tt les épisode
-  //        // fontRatio : fontRatioBigTitle // Version si on prend le cas par cas épisode
-  //        });
-
-		// enquire.register("screen and (max-width: 768px)", function() {
-		// 		$('#bigHeader h1').fitText(0.6);
-  //   	});
-
-  //   	enquire.register("screen and (min-width: 768px)", function() {
-		// 		$('#bigHeader h1').fitText(0.8);
-  //   	});
-
-
-		// enquire.register("screen and (max-width: 768px)", function() {
-		// 		$('#bigHeader h2').flowtype({
-		//          minimum   : 100,
-		//          maximum   : 768,
-		//          minFont   : 10,
-		//          maxFont   : 18,
-		//          fontRatio : 75 // A modifier au cas par cas ! -- Règle la largeur du titre
-		//          });
-  //   	});
-
-  //   	enquire.register("screen and (min-width: 768px)", function() {
-		// 		$('#bigHeader h2').flowtype({
-		//          minimum   : 100,
-		//          maximum   : 1110,
-		//          minFont   : 10,
-		//          maxFont   : 30,
-		//          fontRatio : 45 // A modifier au cas par cas ! -- Règle la largeur du titre
-		//          });
-  //   	});
-
-
-		$('#playButton').flowtype({
-		 minimum   : 500,
-		 maximum   : 1110,
-		 minFont   : 30,
-		 maxFont   : 100,
-		 fontRatio : 6, // A modifier au cas par cas ! -- Règle la largeur du titre
-		});
-
-		//  $('body').flowtype({
-		//  minimum   : 300,
-		//  maximum   : 750,
-		//  minFont   : 12,
-		//  maxFont   : 22,
-		//  fontRatio : 30, // A modifier au cas par cas ! -- Règle la largeur du titre
-		// });
-
-		$(".musicolorLabel").lettering();
+		// changer la classe css sur les éléments du player au moment du lancement pour montrer quel son est joué
 		var isPlaying=false;
-
     	function playTape () {
     		if (!isPlaying) {
 	    		isPlaying=true;
@@ -79,32 +17,21 @@ $(document).ready(
 			}
     	}
 
-   //  	$("#readMore").click(function() {
-   //  		$("#readMore").fadeOut('slow');
-   //  		page.animate({
-			// 	scrollTop: $('#player').offset().top+1
-			// }, 1000);
-   //  	});
-
-		//cas où l'user clique directement sur l'une des track au lieu du gros play
 		$(".playlist").click(function() {
 			playTape();
 		});
 
-
-		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
 		$("#playButton").click(function() {
 			playTape();
 		});
 
-		//scroll automatique si  player non visible par l'user et met aussi en avant mieux le player et l'article qui le suit.
 		$("#playButtonAsidePlaylist").click(function() {
 			playTape();
 		});
     	
 
 
-		// fixage en haut du player lorsqu'on dépasse son niveau au scroll
+		// module permettant de fixer le player en haut de l'écran si lecture en cours
 		// TODO check au début si déjà à un niveau où le player devrait être collé en haut
 		// TODO check état player. si c'est en train de play quid si: - on fait pause OU - on joue une autre track
 
@@ -243,15 +170,6 @@ $(document).ready(
 
 				$("#track"+(i+1)+"_button").prop("href", trackURL);
 			}
-
-			// else {
-			// 	console.error("/!\\"+"Track:"+(i+1)+" "+trackURL+" ERROR ! URL Vide ou ne provenant ni de soundcloud, ni de amazon. Check it ;)");
-			// 	$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
-			// 	$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");
-			// 	$("#track"+(i+1)+"_button").prop("href", trackURL);
-
-			// }
-			// 				alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! URL NOT MODIFIED !");
 
 		});
 
@@ -393,6 +311,7 @@ $("#mobile-signup-form").submit(function(e){
 		  }
 		);
 	});
+
 	$("#mobile-signup-form").keypress(function(e) {
 		    if(e.keyCode == 13) {
 		    	e.preventDefault(); 
@@ -530,7 +449,6 @@ $( document ).ajaxError(function( event, jqxhr, settings, thrownError ) {
 			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
 			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
 		}
-
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 		

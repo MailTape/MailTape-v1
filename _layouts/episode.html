@@ -1,4 +1,4 @@
-{% include head.html %} {% include topbar-subscription.html %} {% include topbar.html %}
+{% include ep-head.html %} {% include topbar-subscription.html %} {% include topbar.html %}
 
 <img src="//images.weserv.nl/?url=ssl:mailta.pe/img/{{ page.guestPic }}&w=1500&t=fit&il" style="display:none;"/>
 
@@ -6,18 +6,20 @@
 
     <div class="container">
         <div class="row">
+            
             <div class="col-md-1 col-sm-1 hidden-xs nav left">
-                {% if site.time > page.next.date %}
-                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe609;</a>
-                {% endif %}
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe609;</a>
             </div>
+           
             <div class="col-md-10 col-sm-10 col-xs-12 center">
                     <h2>EPISODE #{{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>          
             </div>
 
             <div class="col-md-1 col-sm-1 hidden-xs nav right">
-                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe60a;</a>
+                {% if site.time > page.next.date %}
+                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe60a;</a>
+                {% endif %}
             </div>
 
         </div>
@@ -25,9 +27,7 @@
         <div id="mobileHeaderControl" class="row visible-xs">
 
             <div class="col-xs-1 nav left">
-            {% if site.time > page.next.date %}
-                <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe609;</a>
-            {% endif %}
+                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe609;</a>
             </div>  
             
             <div class="col-xs-8 col-xs-offset-1 center">    
@@ -35,7 +35,9 @@
             </div>
             
             <div class="col-xs-2 nav right">
-                <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe60a;</a>
+                {% if site.time > page.next.date %}
+                    <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe60a;</a>
+                {% endif %} 
             </div>
 
         </div>
@@ -93,7 +95,7 @@
                 </li>
             </ul>
             <img src="/img/repeat.png" id="autoLoop">
-            <img src="/img/musiColor-mini-icon.png" id="musiColorMiniIcon" class="hidden-xs hidden-sm" title="To each mood, a color. Show MusiColors and learn them :)" data-toggle="tooltip" data-placement"bottom">
+            <img src="/img/musiColor-mini-icon.png" id="musiColorMiniIcon" class="hidden-xs hidden-sm"  data-toggle="tooltip" data-placement="top" title="To each mood, a color. Show MusiColors and learn them :)">
         </div>
     </div>
 </div>
@@ -121,18 +123,18 @@
         </div>
 
         <div id="supportMailTape" class="col-md-5">
-            <h1>Let's build a better internet together 💎</h1>
-            <p>MailTape is an independent non-profit art collective run by 23 volunteers united by their love for music. We are committed to offering an experience that respects you: ethical design, 100% human curation, no advertising, no external trackers.</p>
+            <h1>Dedicated to help your discover new music, since 2011 💎</h1>
+            <p>MailTape is a nonprofit art collective run by volunteers united by their love for music. We are committed to offering an experience that respects you: ethical design, 100% human curation, no ads, no external trackers.</p>
         </div>
 
         <div id="supportMailTape" class="col-md-2">
             <h1>We are volunteers ✊</h1>
-            <p>Donations are used to cover web hosting and organize live events for the community.</p>
+            <p>Your donation helps keeping Mailtape alive and improving it.</p>
         </div>
 
         <div class="col-md-2">
-            <h1>Become a supporter ❤️</h1>
-            <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" class="button" target="_blank">Donate now 👍</a>
+            <h1>Become a patron 🙌</h1>
+            <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" class="button" target="_blank" data-toggle="tooltip" data-placement="bottom" title="🤗🤗🤗">I ❤️ MailTape</a>
         </div>
 
     </div>
