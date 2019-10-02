@@ -14,8 +14,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/373/track3.mp3'
 track4_link: 'https://soundcloud.com/fatcatrecords/shida-shahabi-pretty-in-plums'
 track5_link: 'https://soundcloud.com/fatcatrecords/emilie-levienaise-farrouch-strelka'
 track6_link: 'https://soundcloud.com/jatinder-singh-durhailay/tulsi'
-track7_link: >-
-  https://soundcloud.com/infine-music/vanessa-wagner-struggle-for-pleasure-gas-version-wim-mertens
+track7_link: 'https://soundcloud.com/infine-music/vanessa-wagner-struggle-for-pleasure-gas-version-wim-mertens'
 track1_title: Mayumi Miyata – 双調調子
 track1_color: bliss
 track2_title: Lamine Konté – Dioula
