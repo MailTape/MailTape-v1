@@ -200,8 +200,20 @@ $(document).ready(
  //    	});
 
 // mini fleur musicolor
+
+		// toggle() function deprecated in jQuery 1.9. Here it is then to keep musiColor action working.
+		$.fn.toggleClick = function(){
+	    	var functions = arguments ;
+		    return this.click(function(){
+		            var iteration = $(this).data('iteration') || 0;
+		            functions[iteration].apply(this, arguments);
+		            iteration = (iteration + 1) % functions.length ;
+		            $(this).data('iteration', iteration);
+		    });
+		};
+
     	var timeoutMusiColorMiniIcon;
-    	$("#musiColorMiniIcon").toggle(function(){
+    	$("#musiColorMiniIcon").toggleClick(function(){
     			$(".icon-control").addClass("musiColorHelperVisible");
     			setTracksWidth ([1,1,1,1,1,1,1]);
 				$(".musiColorHelper").fadeIn(1000);
