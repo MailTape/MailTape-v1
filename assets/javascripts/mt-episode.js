@@ -65,9 +65,9 @@ $(document).ready(
 	    });
 
 	// connextion à l'api soundcloud
-		  SC.initialize({
-		    client_id: "5eaa5aae9b1a116f58b43027a7a2206d",
-		  });
+		SC.initialize({
+		client_id: "5eaa5aae9b1a116f58b43027a7a2206d",
+		});
 
 	// module de redimensionnement auto de la taille des tracks dans la playlist en fonction de leur durée
 		function setTracksWidth (tracksDuration) {
