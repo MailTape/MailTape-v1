@@ -1,10 +1,9 @@
 $(document).ready(
 	function() {
 
+		// chargement modules de bootstrap pour afficher les tooltip et modales
 		$('[data-toggle="tooltip"]').tooltip();
 		$('[data-toggle="popover"]').popover();
-
-		var page = $("html, body");
 
 		$(".stretchMe").anystretch();
 
@@ -28,8 +27,6 @@ $(document).ready(
 		$("#playButtonAsidePlaylist").click(function() {
 			playTape();
 		});
-    	
-
 
 		// module permettant de fixer le player en haut de l'écran si lecture en cours
 		// TODO check au début si déjà à un niveau où le player devrait être collé en haut
@@ -178,190 +175,10 @@ $(document).ready(
 		});
 
 
-// signup form validation for iris (byebye MailChimp!)
-
-$("#topbar-signup-form").submit(function(e){
-		e.preventDefault(); 
-
-		var name;
-		var email;
-		
-		var $Form = $(this),
-		name = $Form.find('input[name="topbar-name"]').val(),
-		email = $Form.find('input[name="topbar-email"]').val(),
-		url = $Form.attr('action');
-
-		console.log("data before post: "+name+" - "+email+" - "+url)
-
-		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
-		  function(data) {
-		  		//console.log("data: "+data);
-		      if(data)
-		      {
-		      	if(data=="Some fields are missing.")
-		      	{
-			      	$("#topbar-status").text("Please fill in your name and email.");
-			      	$("#topbar-status").css("color", "red");
-		      	}
-		      	else if(data=="Invalid email address.")
-		      	{
-			      	$("#topbar-status").text("Your email address is invalid.");
-			      	$("#topbar-status").css("color", "red");
-		      	}
-		      	else if(data=="Invalid list ID.")
-		      	{
-			      	$("#topbar-status").text("Your list ID is invalid.");
-			      	$("#topbar-status").css("color", "red");
-		      	}
-		      	else if(data=="Already subscribed.")
-		      	{
-			      	$("#topbar-status").text("You're already subscribed!");
-			      	$("#topbar-status").css("color", "red");
-		      	}
-		      	else
-		      	{
-			      	$("#topbar-status").text("Oh yeah "+name+"!");
-			      	$("#topbar-status").css("color", "green");
-			      	$("#topbar-subscribeButton").fadeOut('slow');
-			      	$("#mobile-subscribeButton").fadeOut('slow');
-			      	_paq.push(['trackEvent', 'newfollower', 'topbar-signup-form']);
-
-			      	setTimeout(function() {
-	    				$('#topbar-subscription-form').fadeOut('slow');
-					}, 1000);
-		      	}
-		      }
-		      else
-		      {
-		      	$("#topbar-status").text("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		      	$("#topbar-status").css("color", "red");
-		      	//alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		      }
-		  }
-		);
-	});
-	$("#topbar-signup-form").keypress(function(e) {
-		    if(e.keyCode == 13) {
-		    	e.preventDefault(); 
-				$(this).submit();
-		    }
-		});
-	$("#topbar-subscribeButton").click(function(e){
-		e.preventDefault(); 
-		$("#topbar-signup-form").submit();
-	});
-
-// same stuff for mobile form
-
-
-$("#mobile-signup-form").submit(function(e){
-		e.preventDefault(); 
-		
-		var name;
-		var email;
-
-		var $Form = $(this),
-		name = $Form.find('input[name="mobile-name"]').val(),
-		email = $Form.find('input[name="mobile-email"]').val(),
-		url = $Form.attr('action');
-
-		console.log("data before post: "+name+" - "+email+" - "+url)
-		
-		$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
-		  function(data) {
-		  	console.log("data: "+data);
-		      if(data)
-		      {
-		      	if(data=="Some fields are missing.")
-		      	{
-			      	$("#mobile-status").text("Please fill in your name and email.");
-			      	$("#mobile-status").css("color", "red");
-		      	}
-		      	else if(data=="Invalid email address.")
-		      	{
-			      	$("#mobile-status").text("Your email address is invalid.");
-			      	$("#mobile-status").css("color", "red");
-		      	}
-		      	else if(data=="Invalid list ID.")
-		      	{
-			      	$("#mobile-status").text("Your list ID is invalid.");
-			      	$("#mobile-status").css("color", "red");
-		      	}
-		      	else if(data=="Already subscribed.")
-		      	{
-			      	$("#mobile-status").text("You're already subscribed!");
-			      	$("#mobile-status").css("color", "red");
-		      	}
-		      	else
-		      	{
-			      	$("#mobile-status").text("You're now subscribed "+name+"!");
-			      	$("#mobile-status").css("color", "green");
-			      	_paq.push(['trackEvent', 'newfollower', 'mobile-signup-form']);
-
-
-			      	setTimeout(function() {
-	    				$('#mobile-subscription').fadeOut('slow');
-					}, 1000);
-		      	}
-		      }
-		      else
-		      {
-		      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		      }
-		  }
-		);
-	});
-
-	$("#mobile-signup-form").keypress(function(e) {
-		    if(e.keyCode == 13) {
-		    	e.preventDefault(); 
-				$(this).submit();
-		    }
-		});
-	$("#mobile-subscribeButton").click(function(e){
-		e.preventDefault(); 
-		$("#mobile-signup-form").submit();
-	});
-
-
-	// script de lecture des paramètre de l'url
-		function getParameterByName(name) {
-		    name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
-		    var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
-		        results = regex.exec(location.search);
-		    return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
-		}
-
-	// detection si l'user provient d'un mail
-
-		function isFromEmail(){
-			var utm_medium = getParameterByName('utm_medium');
-
-			if (utm_medium=="email") {
-				return true;
-			}
-		}
-
-	// adaptation layout si user vient du mail
-
-		if (isFromEmail()) {
-			console.log("You're coming from our mail ! Hello dear subscriber :)");
-			$('#topbar-subscription').removeClass("hidden-xs").hide();
-			var comingFromMail =true;
-
-		}
-
-// catch erreur lorsque iris (serveur mailing) est dead
-$( document ).ajaxError(function( event, jqxhr, settings, thrownError ) {
-  if ( settings.url == "https://iris.mailta.pe/subscribe.php" ) {
-    alert("Sorry, unable to subscribe. 😣 If you keep seeing this error, please contact us! > crew@mailta.pe 🙏");
-  }
-});
-
-
 // désactivé car pas certain que les gens aiment qu'on leur impose un scroll. A voir si ça influe sur les usages..
 	// // petit défilement doux et lent qui se déclenche après la lecture pour plonger l'auditeur dans la lecture du texte..
  //    	var scrolledDown=false;
+ //		var page = $("html, body");
 
  //    	$(".playlist a , #playButtonAsidePlaylist, #playButton").click(function() {
 
@@ -381,17 +198,6 @@ $( document ).ajaxError(function( event, jqxhr, settings, thrownError ) {
 	//     		scrolledDown=true;
  //    	 	}
  //    	});
-
-// zone en savoir plus en footer
-
-    	$("#footerLearnMore").click(function(){
-    		$(this).fadeOut('slow');
-			$(".footerLearnMoreArea").delay(500).fadeIn(2000);
-    	// 	page.animate({
-					// scrollTop: $(".footerLearnMoreArea").offset().top+1
-					// },5000,'easeOutBack',
-	    // 		, 100);
-    	});
 
 // mini fleur musicolor
     	var timeoutMusiColorMiniIcon;
