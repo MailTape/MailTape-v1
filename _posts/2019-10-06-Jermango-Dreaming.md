@@ -32,11 +32,10 @@ track7_color: dreamy
 guestPic: guestPic374.jpg
 episode_URL: 'https://www.mailta.pe/374/jermango-dreaming/'
 ---
-<p id="introduction">This morning, Jermango Dreaming is our guest for this episode.
+<p id="introduction">This morning, please welcome Jermango Dreaming and his popping selection as our guest for this episode. 
 <br><br>
-Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shahabi's debut album—Homes—released almost a year ago delves deep into explorations of intimate piano tones. Living comfortably with traces of wear and decay its production eschews the prioritising of fussy cleanliness. A warm and fuzzy noise floor audible from the very first track immediately immerses the listener into this quieter brand of assurance and imperfection—as though the whole existed beneath a layer of dust.
-<br><br>
-Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will be released on 8th November.
+Jermango Dreaming is the project of Jermaine Sakr, an Australian artist making dreamy pop music, groovy and laid back. 
+This selection is both melancholic and upbeat. It is pure and feels whole. With days becoming colder and shorter, use this selection to help you embrace it. It is the remedy to autumn blues, a soft musical sweater that will bring heat to your heart. Feel everything but don't forget to leave room to dance a little bit. <br><br>
 </p>
 
 # Jermango Dreaming's selection
@@ -54,16 +53,16 @@ _Jermango Dreaming_: **"**What is not to love about this track? Listening to thi
 # MailTape's selection
 
 ## Jermango Dreaming - Breeze
-_Inès_: **"**xxxx.**"**
+_Inès_: **"**I discovered Jermango Dreaming through [Hector Gachan](https://www.mailta.pe/289/hector-gachan/)'s selection, with 'I Want You', a beautiful ballad. The rest of his tracks are usually more upbeat, and this one is a perfect example. It is a breath of fresh air, a soundtrack for walks that make you feel better, a great chill song.**"**
 
 ## Shane Tyler - Lemurian Promenade
-_Inès_: **"**Signed on the same label as our guest this morning, Shane Tyler is the bassist of Gardens & Villa. This track is sunlit pop, effortlessly cool.**"**
+_Inès_: **"**Signed on the same label as our guest this morning, Shane Tyler is the bassist of Gardens & Villa. This track is sunlit pop, effortlessly cool. Great soundtrack to **"**
 
 ## Domenique Dumont - Sans cesse, mon chéri
-_Inès_: **"**The most blissful track. It feels the summer version of Jermango Dreaming's description of the Men I Trust track. So calming, like sitting  **"**
+_Inès_: **"**The most blissful track. It feels the summer version of Jermango Dreaming's description of the Men I Trust track. So calming, like sitting in front of the beach and emptying your brain.**"**
 
 ## MUNYA - Dove
 _Inès_: **"**Ahhh so much love for this track. I become a big fluffy marshmallow when I hear it. My heart melts and everything becomes pink. It feels like going through the first layer of clouds when taking off on a plane. The cutest song and perfect ending for this episode.**"**
 
 
-<p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to [Jermango Dreaming](https://www.instagram.com/shidash/) for his selection, and to [Anthony Dujardin](https://camillecelestin.com/) for his great illustration. Have a sweet sweet Sunday!</p>
+<p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to [Jermango Dreaming](https://www.facebook.com/jermangodreaming/) for his selection, and to [Anthony Dujardin](https://camillecelestin.com/) for his great illustration. Have a sweet sweet Sunday!</p>
