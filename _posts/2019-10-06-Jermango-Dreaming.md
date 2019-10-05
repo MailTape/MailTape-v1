@@ -12,9 +12,9 @@ track1_link: 'https://soundcloud.com/tasty-morsels/sensuela'
 track2_link: 'https://soundcloud.com/dinosaur-city-records/upmarket'
 track3_link: 'https://soundcloud.com/men-i-trust/numb'
 track4_link: 'https://soundcloud.com/niceguysrecords/jermango-dreaming-breeze'
-track5_link: 'https://soundcloud.com/niceguysrecords/shane-tyler-lumerian-promenade/s-13J54'
+track5_link: 'https://soundcloud.com/niceguysrecords/shane-tyler-lumerian-promenade'
 track6_link: 'https://soundcloud.com/kaiptutaiptau/sans-cesse-mon-cheri'
-track7_link: 'https://soundcloud.com/munyamusic/dove/s-13J54'
+track7_link: 'https://soundcloud.com/munyamusic/dove'
 track1_title: Column - Sensuela
 track1_color: dreamy
 track2_title: Poison Abbey - Upmarket
