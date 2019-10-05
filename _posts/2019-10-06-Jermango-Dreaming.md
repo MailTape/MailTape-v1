@@ -49,7 +49,6 @@ _Jermango Dreaming_: **"**This is the kind of song that could be played on a dan
 
 ## Men I Trust - Numb
 _Jermango Dreaming_: **"**What is not to love about this track? Listening to this is what I imagine those anti-anxiety blankets feels like wrapped around you sitting in front of a fire with your warm beverage of choice.**"**
-![guestPic374.jpg]({{site.baseurl}}/img/guestPic374.jpg)
 
 
 # MailTape's selection
