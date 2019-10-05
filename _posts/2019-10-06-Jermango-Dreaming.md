@@ -15,7 +15,7 @@ track4_link: 'https://soundcloud.com/niceguysrecords/jermango-dreaming-breeze'
 track5_link: 'https://soundcloud.com/niceguysrecords/shane-tyler-lumerian-promenade/s-13J54'
 track6_link: 'https://soundcloud.com/kaiptutaiptau/sans-cesse-mon-cheri'
 track7_link: 'https://soundcloud.com/munyamusic/dove/s-13J54'
-track1_title: Tasty Morsels - Sensuela
+track1_title: Column - Sensuela
 track1_color: dreamy
 track2_title: Poison Abbey - Upmarket
 track2_color: vibrant
