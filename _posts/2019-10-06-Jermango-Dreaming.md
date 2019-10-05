@@ -29,6 +29,8 @@ track6_title: 'Domenique Dumont - Sans cesse, mon chéri'
 track6_color: bliss
 track7_title: MUNYA - Dove
 track7_color: dreamy
+guestPic: guestPic374.jpg
+episode_URL: 'https://www.mailta.pe/374/jermango-dreaming/'
 ---
 <p id="introduction">This morning, Jermango Dreaming is our guest for this episode.
 <br><br>
@@ -47,6 +49,7 @@ _Jermango Dreaming_: **"**This is the kind of song that could be played on a dan
 
 ## Men I Trust - Numb
 _Jermango Dreaming_: **"**What is not to love about this track? Listening to this is what I imagine those anti-anxiety blankets feels like wrapped around you sitting in front of a fire with your warm beverage of choice.**"**
+![guestPic374.jpg]({{site.baseurl}}/img/guestPic374.jpg)
 
 
 # MailTape's selection
