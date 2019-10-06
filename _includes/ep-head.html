@@ -52,7 +52,6 @@
     <link rel="shortcut icon" href="/favicon.ico">
 
     <link href="/assets/stylesheets/mailtape.css" rel="stylesheet" media="screen">
-    <link href="/assets/stylesheets/archive.css" rel="stylesheet" media="screen">
 
     <!-- Page player core CSS -->
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/page-player.css" />
@@ -60,12 +59,11 @@
     <!-- soundManager.useFlashBlock: related CSS -->
     <link rel="stylesheet" type="text/css" href="/assets/stylesheets/flashblock.css" />
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script
-        src="https://code.jquery.com/jquery-1.12.4.min.js"
-        integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
-        crossorigin="anonymous">
-    </script>
+    <!-- load jquery 3.4.1 local -->
+    <script src="/assets/javascripts/vendor/jquery-3.4.1.min.js"></script>
+    
+    <!-- migration tool (to activate if any problem with jQuery3 ) -->    
+    <!-- <script src="/assets/javascripts/vendor/jquery-migrate-3.1.0.js"></script> -->
 
     <!-- soundManager API -->
      <script src="/assets/javascripts/soundmanager2-jsmin.js"></script>
@@ -102,16 +100,11 @@
     }
     </script>
 
-    <!-- dynamically-resized background image to any page or block level element. -->
-    <script type="text/javascript" src="/assets/javascripts/jquery.anystretch.min.js"></script>
-
-
     <!-- Include all compiled plugins (below), or include individual files as needed -->
    <script src="/assets/javascripts/bootstrap.min.js"></script>
    <script src="/assets/javascripts/hello.js"></script>
   
-   <script src="/assets/javascripts/jquery.easing.1.3.js"></script>
-
+<!--    <script src="/assets/javascripts/jquery.easing.1.3.js"></script> A priori plus utilisé. Désactivé pour test -->
    <script src="/assets/javascripts/mt-episode.js"></script>
    <script src="/assets/javascripts/mt-footer.js"></script>
    <script src="/assets/javascripts/mt-mailSub.js"></script>
@@ -149,43 +142,43 @@
     <script>
 
     var relatedEpisodes_numbers = [
-{% for post in site.posts %}
-    {% if site.time > post.date %}
-        "{{ post.category }}",
-    {% endif %}
-{% endfor %}
+        {% for post in site.posts %}
+            {% if site.time > post.date %}
+                "{{ post.category }}",
+            {% endif %}
+        {% endfor %}
     ];
 
     var relatedEpisodes_guestNames = [
-{% for post in site.posts %}
-    {% if site.time > post.date %}
-        "{{ post.guest_name }}",
-    {% endif %}
-{% endfor %}
+        {% for post in site.posts %}
+            {% if site.time > post.date %}
+                "{{ post.guest_name }}",
+            {% endif %}
+        {% endfor %}
     ];
 
     var relatedEpisodes_URLs = [
-{% for post in site.posts %}
-    {% if site.time > post.date %}
-        "{{ post.url }}",
-    {% endif %}
-{% endfor %}
+        {% for post in site.posts %}
+            {% if site.time > post.date %}
+                "{{ post.url }}",
+            {% endif %}
+        {% endfor %}
     ];
 
     var relatedEpisodes_guestPics = [
-    {% for post in site.posts %}
-    {% if site.time > post.date %}
-        "/img/{{ post.guestPic }}",
-    {% endif %}
-{% endfor %}
+        {% for post in site.posts %}
+            {% if site.time > post.date %}
+                "/img/{{ post.guestPic }}",
+            {% endif %}
+        {% endfor %}
     ];
 
     var relatedEpisodes_MusiColors = [
-{% for post in site.posts %}
-    {% if site.time > post.date %}
-        "/img/{{ post.musiColor }}",
-    {% endif %}
-{% endfor %}
+        {% for post in site.posts %}
+            {% if site.time > post.date %}
+                "/img/{{ post.musiColor }}",
+            {% endif %}
+        {% endfor %}
     ];
 
     </script>
@@ -198,7 +191,7 @@
     </script>
 
 
-   <!-- Matomo -->
+   <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
    <script type="text/javascript">
      var _paq = window._paq || [];
      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
