@@ -1129,13 +1129,13 @@ function PagePlayer() {
       //     // Animation complete.
       //     });
       // });
-    $( "#playButton" ).click(function(event) {
+    $( "#playButton" ).on("click",function(event) {
       pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
-//      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
+//      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].on("click",);
       $( "#playButton" ).fadeOut("slow");
     });
 
-    $( "#playButtonAsidePlaylist" ).click(function(event) {
+    $( "#playButtonAsidePlaylist" ).on("click",function(event) {
       pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
 //      pagePlayer.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0].click();
     });

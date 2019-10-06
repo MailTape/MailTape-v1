@@ -2,7 +2,7 @@ $(document).ready(
 	function() {
 	// zone en savoir plus en footer
 
-	$("#footerLearnMore").click(function(){
+	$("#footerLearnMore").on("click",function(){
 		$(this).fadeOut('slow');
 		$(".footerLearnMoreArea").delay(500).fadeIn(2000);
 	// 	page.animate({
