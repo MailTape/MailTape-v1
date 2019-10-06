@@ -5,6 +5,8 @@ $(document).ready(
 		$('[data-toggle="tooltip"]').tooltip();
 		$('[data-toggle="popover"]').popover();
 
+		$(".stretchMe").anystretch();
+
 		// changer la classe css sur les éléments du player au moment du lancement pour montrer quel son est joué
 		var isPlaying=false;
     	function playTape () {
@@ -14,15 +16,15 @@ $(document).ready(
 			}
     	}
 
-		$(".playlist").on("click",function() {
+		$(".playlist").click(function() {
 			playTape();
 		});
 
-		$("#playButton").on("click",function() {
+		$("#playButton").click(function() {
 			playTape();
 		});
 
-		$("#playButtonAsidePlaylist").on("click",function() {
+		$("#playButtonAsidePlaylist").click(function() {
 			playTape();
 		});
 
@@ -32,7 +34,7 @@ $(document).ready(
 
 	    didScroll = false;
 	    var navYposition = $('#player').offset().top;
-	    $(window).on("scroll",function() {
+	    $(window).scroll(function() {
 	    	if (isPlaying) {
 		        didScroll = true;
 		        // console.log("hauteur du player: "+$('#player').innerHeight());
@@ -56,7 +58,7 @@ $(document).ready(
 		
 
 		/* Teaser image swap function */
-	    $("#logoLink").on("hover",function () {
+	    $("#logoLink").hover(function () {
 	        $("#logo").src = '/img/Logo_Mailtape.gif';
 	    }, function () {
 	        $("#logo").src = '/img/Logo_Mailtape.png';
@@ -168,7 +170,7 @@ $(document).ready(
 
 		});
 
-	    		$(".playlist").on("click",function() {
+	    		$(".playlist").click(function() {
 			$("#playButton").fadeOut("slow");
 		});
 
@@ -178,7 +180,7 @@ $(document).ready(
  //    	var scrolledDown=false;
  //		var page = $("html, body");
 
- //    	$(".playlist a , #playButtonAsidePlaylist, #playButton").on("click",function() {
+ //    	$(".playlist a , #playButtonAsidePlaylist, #playButton").click(function() {
 
  //    	 	if (!scrolledDown && $(document).scrollTop()<100) {
 	//     	 	setTimeout(function(){
@@ -202,7 +204,7 @@ $(document).ready(
 		// toggle() function deprecated in jQuery 1.9. Here it is then to keep musiColor action working.
 		$.fn.toggleClick = function(){
 	    	var functions = arguments ;
-		    return this.on("click",function(){
+		    return this.click(function(){
 		            var iteration = $(this).data('iteration') || 0;
 		            functions[iteration].apply(this, arguments);
 		            iteration = (iteration + 1) % functions.length ;
@@ -216,7 +218,7 @@ $(document).ready(
     			setTracksWidth ([1,1,1,1,1,1,1]);
 				$(".musiColorHelper").fadeIn(1000);
 				timeoutMusiColorMiniIcon = setTimeout(function() {
-					$("#musiColorMiniIcon").trigger("click");
+					$("#musiColorMiniIcon").click();
 				},5000);
 			}, function() {
 				$(".icon-control").removeClass("musiColorHelperVisible");
@@ -265,11 +267,6 @@ $(document).ready(
 			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
 			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
 		}
-
-		// affichage des images avec module d'adaptation responsive
-		$(".stretchMe").each(function(index){
-			$(this).backstretch($(this).attr('data-stretch'));
-		});
 
 		//toDo: sccript de redimensionnement automatique des titres de sons qui pourraient etre trop long et prendre 2 lignes. Probleme vu sur mobile.
 		

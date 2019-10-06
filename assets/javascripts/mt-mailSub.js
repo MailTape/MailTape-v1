@@ -3,7 +3,7 @@ $(document).ready(
 
 		// signup form validation for iris (byebye MailChimp!)
 
-		$("#topbar-signup-form").on("submit",function(e){
+		$("#topbar-signup-form").submit(function(e){
 				e.preventDefault(); 
 
 				var name;
@@ -63,21 +63,21 @@ $(document).ready(
 				  }
 				);
 			});
-			$("#topbar-signup-form").on("keypress",function(e) {
+			$("#topbar-signup-form").keypress(function(e) {
 				    if(e.keyCode == 13) {
 				    	e.preventDefault(); 
-						$(this).trigger("submit");
+						$(this).submit();
 				    }
 				});
-			$("#topbar-subscribeButton").on("click",function(e){
+			$("#topbar-subscribeButton").click(function(e){
 				e.preventDefault(); 
-				$("#topbar-signup-form").trigger("submit");
+				$("#topbar-signup-form").submit();
 			});
 
 		// same stuff for mobile form
 
 
-		$("#mobile-signup-form").on("submit",function(e){
+		$("#mobile-signup-form").submit(function(e){
 				e.preventDefault(); 
 				
 				var name;
@@ -135,15 +135,15 @@ $(document).ready(
 				);
 			});
 
-			$("#mobile-signup-form").on("keypress",function(e) {
+			$("#mobile-signup-form").keypress(function(e) {
 				    if(e.keyCode == 13) {
 				    	e.preventDefault(); 
-						$(this).trigger("submit");
+						$(this).submit();
 				    }
 				});
-			$("#mobile-subscribeButton").on("click",function(e){
+			$("#mobile-subscribeButton").click(function(e){
 				e.preventDefault(); 
-				$("#mobile-signup-form").trigger("submit");
+				$("#mobile-signup-form").submit();
 			});
 
 
