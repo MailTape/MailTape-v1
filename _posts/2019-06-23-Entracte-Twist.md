@@ -32,7 +32,7 @@ musiColor: musiColor363.png
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track5.mp3'
 description: This morning, we take out the guitars, adjust our strings test the sound with
   the amp in boring neighbors...  And let our fingers slide so that we can wake
-  up our faithful on Sunday morning. <br><br> New-wave and post punk for your
+  up our faithful on Sunday morning. New-wave and post punk for your
   awakening?  And why not ... Entracte Twist" strays off the beaten track to
   offer us a selection worthy of the name.
 guest_color: rough
