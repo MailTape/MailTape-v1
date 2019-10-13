@@ -2,8 +2,7 @@ $(document).ready(
 	function() {
 
 		// chargement modules de bootstrap pour afficher les tooltip et modales
-		$('[data-toggle="tooltip"]').tooltip();
-		$('[data-toggle="popover"]').popover();
+		$('[data-toggle="tooltip"]').tooltip()
 
 		// changer la classe css sur les éléments du player au moment du lancement pour montrer quel son est joué
 		var isPlaying=false;
@@ -275,10 +274,10 @@ $(document).ready(
 		
 		// affichage de la nouvelle version des credits à partir de l'épisode 200
 		if ($("#illustrator").html() != "Illustrator: ") {
-			$("#credit").removeClass("hidden");
+			$("#credit").removeClass("d-none");
 		}
 		else {
-			$("#signature").removeClass("hidden");
+			$("#signature").removeClass("d-none");
 		}
 
 	}

@@ -84,7 +84,8 @@ function PagePlayer() {
       $el.removeClass('active');
       tooltip = 'Repeat Mode Off';
     }
-    $el.attr('title', tooltip).tooltip('fixTitle').parent().find('.tooltip .tooltip-inner').text(tooltip);
+    // sorry had to kill this line when upgrading to Bootstrap 4 as their tooltip js switched for popper.js. and fixTitle function is not recognized anymore. feel free to fix it :)
+    //$el.attr('title', tooltip).tooltip('fixTitle').parent().find('.tooltip .tooltip-inner').text(tooltip);
   };
 
   this.toggleAutoLoopButtonState = function($el) {

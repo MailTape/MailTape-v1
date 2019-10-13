@@ -5,18 +5,19 @@
 <div id="bigHeader" class="stretchMe notPlaying" data-stretch="//images.weserv.nl/?url=ssl:mailta.pe/img/{{ page.guestPic }}&w=1450&t=fit&il">
 
     <div class="container">
+        <!-- desktop header -->
         <div class="row">
             
-            <div class="col-md-1 col-sm-1 hidden-xs nav left">
+            <div class="col-md-1 d-none d-md-inline navArrows text-left">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe609;</a>
             </div>
            
-            <div class="col-md-10 col-sm-10 col-xs-12 center">
+            <div class="col-md-10 col-12 d-inline text-center">
                     <h2>EPISODE #{{ page.category }}<br/>SUN MORNING, {{ page.date | date: "%d %b %Y" | upcase }}</h2>
                     <h1>{{ page.guest_name }}</h1>          
             </div>
 
-            <div class="col-md-1 col-sm-1 hidden-xs nav right">
+            <div class="col-md-1 d-none d-md-inline navArrows text-right">
                 {% if site.time > page.next.date %}
                     <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe60a;</a>
                 {% endif %}
@@ -24,17 +25,18 @@
 
         </div>
 
-        <div id="mobileHeaderControl" class="row visible-xs">
+        <!-- mobile header -->
+        <div id="mobileHeaderControl" class="d-flex justify-content-between d-md-none">
 
-            <div class="col-xs-1 nav left">
+            <div class="col-1 navArrows text-left">
                 <a class="previous icomoon" href="{{page.previous.url}}" class="{{ page.previous.guest_color }}">&#xe609;</a>
             </div>  
             
-            <div class="col-xs-8 col-xs-offset-1 center">    
+            <div class="col-8 text-center">    
             <span id="playButton" class="notPlaying">&#xe602;</span>
             </div>
             
-            <div class="col-xs-2 nav right">
+            <div class="col-2 navArrows text-right">
                 {% if site.time > page.next.date %}
                     <a class="next icomoon" href="{{page.next.url}}" class="{{ page.next.guest_color }}">&#xe60a;</a>
                 {% endif %} 
@@ -47,48 +49,48 @@
 </div>
 
 <div id="player" class="notPlaying">
-    <div class="container">
-        <div class="col-md-12">
+    <div class="container d-flex">
+        <div class="col-12">
             <span id="playButtonAsidePlaylist" class="notPlaying">&#xe602;</span>
             <ul class="playlist notPlaying">
                 <li id="firstTrack" class="track1 {{ page.track1_color }}">
-                    <h1 class="tractTitle" id="track1_title_player">track1</h1>
+                    <h1 id="track1_title_player">track1</h1>
                     <a type="audio/mp3" id="track1_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track1_color }}</span>
                     </a>
                 </li>
                 <li class="track2 {{ page.track2_color }}">
-                    <h1 class="tractTitle" id="track2_title_player">track2</h1>
+                    <h1 id="track2_title_player">track2</h1>
                     <a type="audio/mp3" id="track2_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track2_color }}</span>
                     </a>
                 </li>
                 <li class="track3 {{ page.track3_color }}">
-                    <h1 class="tractTitle" id="track3_title_player">track3</h1>
+                    <h1 id="track3_title_player">track3</h1>
                     <a type="audio/mp3" id="track3_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track3_color }}</span>
                     </a>
                 </li>
                 <li class="track4 {{ page.track4_color }}">
-                    <h1 class="tractTitle" id="track4_title_player">track4</h1>
+                    <h1 id="track4_title_player">track4</h1>
                     <a type="audio/mp3" id="track4_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track4_color }}</span>
                     </a>
                 </li>
                 <li class="track5 {{ page.track5_color }}">
-                    <h1 class="tractTitle" id="track5_title_player">track5</h1>
+                    <h1 id="track5_title_player">track5</h1>
                     <a type="audio/mp3" id="track5_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track5_color }}</span>
                     </a>
                 </li>
                 <li class="track6 {{ page.track6_color }}">
-                    <h1 class="tractTitle" id="track6_title_player">track6</h1>
+                    <h1 id="track6_title_player">track6</h1>
                     <a type="audio/mp3" id="track6_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track6_color }}</span>
                     </a>
                 </li>
                 <li class="track7 {{ page.track7_color }}">
-                    <h1 class="tractTitle" id="track7_title_player">track7</h1>
+                    <h1 id="track7_title_player">track7</h1>
                     <a type="audio/mp3" id="track7_button" href="#">
                         <span class="icon-control"></span><span class="musiColorHelper">{{ page.track7_color }}</span>
                     </a>
@@ -103,9 +105,9 @@
 
 <div id="main-content" class="container main">
 
-    <div class="row hidden-sm hidden-xs" id="creditAndSupportDesktop">        
+    <div class="flex-row d-none d-lg-flex" id="creditAndSupportDesktop">        
 
-        <div id="credit" class="col-md-3">
+        <div id="credit" class="col-lg-3 d-lg-inline">
             <h1>Humans behind this episode #{{ page.category }} 👩👨</h1>
             <p>
                 {% if page.author %}
@@ -122,39 +124,40 @@
             </p>
         </div>
 
-        <div id="supportMailTape" class="col-md-5">
+        <div id="supportMailTape" class="col-lg-5 d-lg-inline">
             <h1>Dedicated to help your discover new music, since 2011 💎</h1>
             <p>MailTape is a nonprofit art collective run by volunteers united by their love for music. We are committed to offering an experience that respects you: ethical design, 100% human curation, no ads, no external trackers.</p>
         </div>
 
-        <div id="supportMailTape" class="col-md-2">
+        <div id="supportMailTape" class="col-lg-2 d-lg-inline">
             <h1>We are volunteers ✊</h1>
             <p>Your donation helps keeping Mailtape alive and improving it.</p>
         </div>
 
-        <div class="col-md-2">
+        <div class="col-lg-2 d-lg-inline">
             <h1>Become a patron 🙌</h1>
             <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" class="button" target="_blank" data-toggle="tooltip" data-placement="bottom" title="🤗🤗🤗">I ❤️ MailTape</a>
         </div>
 
     </div>
 
-    <div class="row">
+    <div class="flex-row">
 
-        <div class="col-md-8 col-md-offset-2">
+        <div class="col-lg-8 offset-lg-2">
 
             <article>
 
                 {{ content }}
-                <p style="font-style:italic" id="signature" class="hidden">{{page.author}}.</p>
+                <p style="font-style:italic" id="signature" class="d-none">{{page.author}}.</p>
 
             </article>
         </div>
+
     </div>
 
-    <div class="row visible-sm visible-xs" id="creditAndSupportMobile">        
+    <div class="flex-row d-lg-none" id="creditAndSupportMobile">        
 
-        <div id="credit" class="col-md-3">
+        <div id="credit" class=" p-2 d-block">
             <h1>Humans behind this episode #{{ page.category }} 🤗</h1>
             <p>
                 {% if page.author %}
@@ -171,50 +174,48 @@
             </p>
         </div>
 
-        <div id="supportMailTape" class="col-md-5">
-            <h1>Let's build a better internet together 💎</h1>
-            <p>MailTape is an independent non-profit art collective run by 23 volunteers united by their love for music. We are committed to offering an experience that respects you: ethical design, 100% human curation, no advertising, no external trackers.</p>
+        <div id="supportMailTape" class=" p-2 d-block">
+            <h1>Dedicated to help your discover new music, since 2011 💎</h1>
+            <p>MailTape is a nonprofit art collective run by volunteers united by their love for music. We are committed to offering an experience that respects you: ethical design, 100% human curation, no ads, no external trackers.</p>
         </div>
 
-        <div id="supportMailTape" class="col-md-2">
+        <div id="supportMailTape" class=" p-2 d-block">
             <h1>We are volunteers ✊</h1>
-            <p>Donations are used to cover web hosting and organize live events for the community.</p>
+            <p>Your donation helps keeping Mailtape alive and improving it.</p>
         </div>
 
 
-        <div class="col-md-2">
-            <h1>Become a supporter ❤️</h1>
-            <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" class="button" target="_blank">Donate now 👍</a>
+        <div class=" p-2 d-block">
+            <h1>Become a patron 🙌</h1>
+            <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" class="button" target="_blank">I ❤️ MailTape</a>
         </div>
 
     </div>
 
     <br>
-    <div class="row">
-        <div id="relatedEpisodes" class="col-md-12"> 
+
+    <div id="relatedEpisodes" class="d-flex flex-column flex-md-row"> 
 <!--             <h1>Keep listening...</h1> -->
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
-                    <a id="relatedEpisode_a_1" class="stretchMe">
-                        <h2 id="relatedEpisode_h2_1"></h2>
-                          <img id="relatedEpisode_img_1" class="img-responsive re-musiColor"/>
-                    </a>
-                </div>
+            <div class="col-lg-4 relatedEpisode {{ page.guest_color }}" > 
+                <a id="relatedEpisode_a_1" class="stretchMe">
+                    <h2 id="relatedEpisode_h2_1"></h2>
+                      <img id="relatedEpisode_img_1" class="img-fluid re-musiColor"/>
+                </a>
+            </div>
 
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
-                    <a id="relatedEpisode_a_2" class="stretchMe">
-                        <h2 id="relatedEpisode_h2_2"></h2>
-                          <img id="relatedEpisode_img_2" class="img-responsive re-musiColor"/>
-                    </a>
-                </div>
+            <div class="col-lg-4 relatedEpisode {{ page.guest_color }}" > 
+                <a id="relatedEpisode_a_2" class="stretchMe">
+                    <h2 id="relatedEpisode_h2_2"></h2>
+                      <img id="relatedEpisode_img_2" class="img-fluid re-musiColor"/>
+                </a>
+            </div>
 
-                <div class="col-md-4 relatedEpisode {{ page.guest_color }}" > 
-                    <a id="relatedEpisode_a_3" class="stretchMe">
-                        <h2 id="relatedEpisode_h2_3"></h2>
-                          <img id="relatedEpisode_img_3" class="img-responsive re-musiColor"/>
-                    </a>
-                </div>
-
-        </div>
+            <div class="col-lg-4 relatedEpisode {{ page.guest_color }}" > 
+                <a id="relatedEpisode_a_3" class="stretchMe">
+                    <h2 id="relatedEpisode_h2_3"></h2>
+                      <img id="relatedEpisode_img_3" class="img-fluid re-musiColor"/>
+                </a>
+            </div>
 
     </div>
 

@@ -11,8 +11,6 @@
  
     <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Bootstrap -->
-    <link href="/assets/stylesheets/bootstrap.min.css" rel="stylesheet" media="screen">
 
     <!-- Favicon -->
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
@@ -33,6 +31,9 @@
     <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
     <meta name="theme-color" content="#ffffff">
 
+    <link rel="shortcut icon" href="/favicon.ico">
+
+    <!-- Chargement des polices sur Google Fonts (oui c'est mal et faudra changer ça) -->
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js"></script>
 
     <script>
@@ -47,26 +48,32 @@
         });
     </script>
 
-    <script src="//connect.soundcloud.com/sdk.js"></script>
-
-    <link rel="shortcut icon" href="/favicon.ico">
-
-    <link href="/assets/stylesheets/mailtape.css" rel="stylesheet" media="screen">
-
-    <!-- Page player core CSS -->
-    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/page-player.css" />
-
-    <!-- soundManager.useFlashBlock: related CSS -->
-    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/flashblock.css" />
-
-    <!-- load jquery 3.4.1 local -->
+    <!-- load jquery 3.4.1 local and popperjs for bootstrap 4 -->
     <script src="/assets/javascripts/vendor/jquery-3.4.1.min.js"></script>
-    
+
+    <!--   <script src="/assets/javascripts/jquery.easing.1.3.js"></script> A priori plus utilisé. Désactivé pour test -->
+
     <!-- migration tool (to activate if any problem with jQuery3 ) -->    
     <!-- <script src="/assets/javascripts/vendor/jquery-migrate-3.1.0.js"></script> -->
 
-    <!-- soundManager API -->
-     <script src="/assets/javascripts/soundmanager2-jsmin.js"></script>
+
+   <!--     Chargement de l'API Soundcloud -->
+   <script src="//connect.soundcloud.com/sdk.js"></script>
+
+   <!-- soundManager API -->
+    <script src="/assets/javascripts/soundmanager2-jsmin.js"></script>
+
+    <!-- Include here bootstrap -->
+   <script src="/assets/javascripts/bootstrap/bootstrap.bundle.min.js"></script>
+
+    <!--   Include here all homemade scripts -->   
+    <script src="/assets/javascripts/hello.js"></script>
+    <script src="/assets/javascripts/mt-episode.js"></script>
+    <script src="/assets/javascripts/mt-footer.js"></script>
+    <script src="/assets/javascripts/mt-mailSub.js"></script>
+
+    <!-- Page player main script -->
+    <script src="/assets/javascripts/page-player.js"></script>
 
     <script>
     soundManager.setup({
@@ -100,18 +107,6 @@
     }
     </script>
 
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-   <script src="/assets/javascripts/bootstrap.min.js"></script>
-   <script src="/assets/javascripts/hello.js"></script>
-  
-<!--    <script src="/assets/javascripts/jquery.easing.1.3.js"></script> A priori plus utilisé. Désactivé pour test -->
-   <script src="/assets/javascripts/mt-episode.js"></script>
-   <script src="/assets/javascripts/mt-footer.js"></script>
-   <script src="/assets/javascripts/mt-mailSub.js"></script>
-
-
-    <!-- Page player main script -->
-    <script src="/assets/javascripts/page-player.js"></script>
 
     <!-- déclaration des url des tracks de la playlist -->
     <script>
@@ -192,7 +187,7 @@
 
 
    <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
-   <script type="text/javascript">
+    <script type="text/javascript">
      var _paq = window._paq || [];
      /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
      _paq.push(['trackPageView']);
@@ -204,12 +199,24 @@
        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
        g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
      })();
-   </script>
-   <noscript><p><img src="//maty.mailta.pe/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-   <!-- End Matomo Code -->
+    </script>
+    <noscript><p><img src="//maty.mailta.pe/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Matomo Code -->
 
 
+    <!-- Bootstrap -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/bootstrap/bootstrap.min.css">
     
+    <!-- Page player core CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/page-player.css" />
+
+    <!-- soundManager.useFlashBlock: related CSS -->
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/flashblock.css" />
+    
+    <!-- CSS and styling components -->    
+    <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
+
+
 </head>
 
 <body>

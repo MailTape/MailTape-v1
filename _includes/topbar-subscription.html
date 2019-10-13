@@ -1,13 +1,13 @@
 <div class="container">
-    <div class="row" id="topbar-subscription-form">
-        <div class="col-md-6 hidden-xs topbar-subscription">
+    <div class="d-none d-md-flex" id="topbar-subscription-form">
+        <div class="col-md-6 d-md-inline topbar-subscription">
             <div>
                 <h1>✌️Welcome on MailTape.</h1>
                 <h2>We release a playlist co-curated with a surprise guest each Sunday morning.💎 
                 </h2>
             </div>
         </div>
-        <div class="col-md-6 hidden-xs topbar-subscription">
+        <div class="col-md-6 d-md-inline topbar-subscription">
 <!--             <h3>👇 Subscribe, it's free and will ever be!</h3>
  -->            <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="topbar-signup-form" id="topbar-signup-form" target="_blank">
                 <input type="text" name="topbar-name" placeholder="Alex" required>
@@ -26,8 +26,11 @@
                 <div class="modal-dialog">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
                             <h3 class="modal-title">✌️Hi! We are MailTape.</h3>
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>    
+                        </div>
+
+                        <div class="modal-body">
                             <p>
                                 We release a playlist co-curated with a surprise guest each Sunday morning 💎 
                                 <br><br>
@@ -36,14 +39,16 @@
                                 ✋ We respect your privacy and will never share or sell your data.
                             </p>
                         </div>
-                        <div class="modal-body" id="mobile-subscription">
-                        <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
-                            <input type="text" name="mobile-name" placeholder="Alex" required>
-                            <input type="email" name="mobile-email" placeholder="alex@mail.com" required>
-                            <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton">Follow</button>
-                            <p id="mobile-status"></p>
-                        </form>
+                        <div class="modal-footer" id="mobile-subscription" >
+                            <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
+                                <input type="text" name="mobile-name" placeholder="Alex" required>
+                                <input type="email" name="mobile-email" placeholder="alex@mail.com" required>
+                                <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton">Follow</button>
+                                <p id="mobile-status"></p>
+                            </form>
+
                         </div>
+
                     </div>
                     <!-- /.modal-content -->
                 </div>
