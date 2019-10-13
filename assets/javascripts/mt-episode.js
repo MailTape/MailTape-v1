@@ -10,6 +10,7 @@ $(document).ready(
     		if (!isPlaying) {
 	    		isPlaying=true;
 	    		$(".notPlaying").addClass("isPlaying").removeClass("notPlaying");
+	    		$('#player').addClass("sticky-top");
 			}
     	}
 
@@ -25,33 +26,29 @@ $(document).ready(
 			playTape();
 		});
 
+
+
 		// module permettant de fixer le player en haut de l'écran si lecture en cours
 		// TODO check au début si déjà à un niveau où le player devrait être collé en haut
 		// TODO check état player. si c'est en train de play quid si: - on fait pause OU - on joue une autre track
+	
+		var navYposition = $('#player').offset().top;
+		//console.log("navYposition= "+navYposition);
 
-	    didScroll = false;
-	    var navYposition = $('#player').offset().top;
-	    $(window).on("scroll",function() {
-	    	if (isPlaying) {
-		        didScroll = true;
-		        // console.log("hauteur du player: "+$('#player').innerHeight());
-		        // console.log("position du player depuis le top :"+($('#player').offset().top));
-		    }
-	    });
-	     
-	    setInterval(function() {
-	        if ( didScroll ) {
-	            didScroll = false;
-	            
-	            if ($(document).scrollTop() >= navYposition) {
-		            $('#player').addClass("navbar-fixed-top");
-		            $('body').css("padding-top",$('#player').innerHeight());
-		        } else {
-		        	$('body').css("padding-top","");
-		            $('#player').removeClass("navbar-fixed-top");
-		        }
-	        }
-	    }, 10);
+		$(window).on("scroll",function() {
+		  var y = $(window).scrollTop();
+		  //console.log("y= "+y);
+		  if(isPlaying){
+
+			if (y > navYposition) {	
+						
+				$("#player").addClass('not-top');
+				} else {
+				$("#player").removeClass('not-top');
+				}
+
+			}
+		});
 		
 
 		/* Teaser image swap function */
