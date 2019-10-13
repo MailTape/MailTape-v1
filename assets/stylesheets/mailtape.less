@@ -63,7 +63,9 @@ body {
 	}
 }
 
-
+.tooltip-inner {
+	font-size: 0.5rem !important;
+}
 
 .topbar-subscription {
 	text-align: right;
@@ -399,7 +401,7 @@ article {
 
 
 
-	.nav {
+	.navArrows {
 		font-family: 'icomoon';
 		//padding-top: 20px;
 		font-size: 2.618rem;
@@ -437,7 +439,7 @@ article {
 
 	 	@media(max-width: 768px) {
   		
-  		padding-left: 15px !important;
+  		//padding-left: 15px !important;
 
   		}
 
@@ -487,6 +489,7 @@ article {
 	display: none;
 	text-transform: capitalize;
 	font-family: 'superspitze_groteskregular';
+	font-size: 0.7rem;
 
 }
 
@@ -497,7 +500,7 @@ article {
   cursor: pointer;
   display: inline-block;
   vertical-align: middle;
-  height: 1.618rem;
+  height: 1.518rem;
   opacity: 0.8;
 
 	&:hover {
@@ -510,8 +513,8 @@ article {
 		opacity: 1;
 	}
 
-	/* hidden on too small screen */
-	@media (max-width: 450px) {
+	/* hidden on smaller than medium (md) screen */
+	@media (max-width: 720px) {
 		display: none;
 
 	}
@@ -551,19 +554,6 @@ article {
 	&.isPlaying {display: none;}
 
 }
-
-.left {
-	text-align: left;
-}
-
-.right {
-	text-align: right;
-}
-
-.center {
-	text-align: center;
-}
-
 
 
 #lastEpisodeSeparator {
@@ -1031,7 +1021,7 @@ article {
 
 		@media only screen and (max-width: 767px) {
 			font-size: 1rem;
-			margin: 1.618rem 0 1rem 0;
+			margin: 0.618rem 0 1rem 0;
 		}
 	}
 
@@ -1145,6 +1135,7 @@ article {
 	}
 
 	a {
+		text-align: left;
 		color: none;
 		border:none;
 		padding:0;
@@ -1192,87 +1183,6 @@ article {
 
 }
 
-#footerSubscription{
-
-	margin: 0.5rem 0 3rem 0;
-	height: 2.5rem;
-	p {
-		display: inline;
-	}
-	form {
-		display: inline;
-	}
-	label {
-			font-family: 'Roboto',"Helvetica Neue",Helvetica,Arial;
-			font-weight: 300;
-		}
-
-	input {
-			font-family: 'Roboto',"Helvetica Neue",Helvetica,Arial;
-			font-weight: 300;
-			.rounded-corners;
-			margin:0 0.2rem;
-			background: white;
-			border: none;
-			padding: .2rem .5rem;
-			font-size: .6rem;
-			box-shadow: 0px 1px 1px grey;
-		}
-
-	label {
-		&.error {
-			color: red;
-			display: inline !important;
-		}
-		&.valid {display: none;}
-		display: inline;
-	}
-
-	button {
-		background: white;
-		color: &lighterGrey;
-		padding: 0.2rem .5rem;
-		font-family: 'superspitze_groteskregular';
-		font-size: .6rem;
-		text-align:center;
-		.rounded-corners;
-		margin: 0 0.2rem;
-		.transition;
-		border:none;
-		box-shadow: 0px 1px 1px grey;
-
-
-		&:hover {
-			color: rgba(237, 237, 237, 1.0000);
-			background: rgba(58, 64, 64, 1.0000);
-			cursor: pointer;
-		}
-	}
-}
-
-
-// .leftSide {
-
-// 	@media only screen and (min-width: 768px) {
-// 		font-size: 0.7em;
-// 		line-height: 1.2em;
-// 	}
-
-// 	color: fadeout(@grey,10%);
-
-// 	p {
-// 		text-align: justify;
-// 	}
-// 	font-weight: 300;
-
-// 	h2 {
-// 		margin-top:2em;
-
-// 		&:first-child{
-// 			margin-top: 0px;
-// 		}
-// 	}
-// }
 
 ul {
     padding:0;
@@ -1284,28 +1194,6 @@ ul {
 #logoFooter {
 	background: none;
 }
-
-
-
-
-// .leftSide {
-//   font-family: "rooney-web";
-//   color:@grey;
-//   font-size: 2.6em;
-
-//   }
-
-// .leftSide p {
-
-// 	h1 {
-// 	    font-weight: 500;
-// 	 }
-
-// 	h2 {
-// 	   font-weight: 500;
-//  	 }
-
-//   }
 
 
 a {
@@ -1331,7 +1219,7 @@ a {
 #player {
 
 // Réglages pour le position fixed-
-	&.navbar-fixed-top {
+	&.not-top {
 	-webkit-box-shadow: 0px 3px 10px 0px rgba(168,168,168,0.2);
 	-moz-box-shadow: 0px 3px 10px 0px rgba(168,168,168,0.2);
 	box-shadow: 0px 3px 10px 0px rgba(168,168,168,0.2);
@@ -1352,11 +1240,11 @@ a {
 
     &.isPlaying {
     	@media only screen and (min-width: 0px) and (max-width: 767px) {
-			padding: 2.8rem 0px 0.5rem;
+			padding: 2rem 0px 0.5rem;
 		}
 
 		@media only screen and (min-width: 768px) {
-			padding: 2.8rem 0px 0.3rem;
+			padding: 3.8rem 0px 0.3rem;
 		}
 		li {
 			opacity: 0.35;
@@ -1374,7 +1262,7 @@ a {
     }
 
     &.notPlaying {
-    	h1 {top:1.618rem;}
+    	h1 {top:2.618rem;}
     }
 
 }
@@ -1501,7 +1389,7 @@ a {
 			overflow: hidden;
 			@media only screen and (min-width: 0px) and (max-width: 767px) {
 				font-size: 1rem;
-				top:-3.8rem;
+				top:-2rem;
 			}
 
 			@media only screen and (min-width: 768px) {
@@ -1726,20 +1614,6 @@ a {
   margin: auto;
   opacity: 0.2;
   cursor: pointer;
-}
-
-/* TODO: Use bootstrap breakpoint variables */
-
-@media screen and (max-width: 990px) {
-  #autoLoop {
-    height: 29px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  #autoLoop {
-    height: 2em;
-  }
 }
 
 
