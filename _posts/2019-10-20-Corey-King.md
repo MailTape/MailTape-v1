@@ -28,7 +28,7 @@ Corey King: **"**ARP is an artist I discovered a couple of years ago and I'm lea
 ## [Corey King](https://corey-king.bandcamp.com/) - 3 Years
 Jules: **"****"**
 
-## Bana - Canta Cu Alma Magoada
+## Kayla Painter - All The Glimmering
 Jules: **"**[Future Bubblers 3.0](https://futurebubblers.bandcamp.com/album/future-bubblers-30)**"**
 
 ## Maud Geffray w/ Lavinia Meijer - STILL LIFE, Pt.5
