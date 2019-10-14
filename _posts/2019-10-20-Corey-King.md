@@ -31,6 +31,8 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/376/track5.mp3'
 track2_color: trippy
 track1_color: bliss
 track3_color: dreamy
+image: 'https://mailta.pe/img/fbPic376.png'
+musiColor: musiColor376.png
 ---
 <p id="introduction"> This morning, we celebrate the very last days of summer in pleasant company, with London's mysterious cumbia collective [Malphino](https://malphino.bandcamp.com/).
 <br><br>
