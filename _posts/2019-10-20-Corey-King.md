@@ -2,6 +2,25 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
+author: Jules
+illustrator: Anthony Dujardin
+writer: Jules
+category: '376'
+guest_name: Corey King
+guest_color: vibrant
+guestPic: guestPic376.jpg
+track1_title: Benny Soebardja & Lizard - Candlelight
+track2_title: 'CAN - Mary, Mary, So Contrary'
+track3_title: ARP - Fluorescences
+track4_title: Corey King - 3 Years
+track5_title: Ratomagoson - Poolside (feat. Sebastian Lopez Bustos)
+track6_title: Djrum - Sparrows
+track7_title: BEA1991 - the dream
+track6_color: trippy
+track4_color: vibrant
+track5_color: bliss
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/376/corey-king/'
 ---
 <p id="introduction"> This morning, we celebrate the very last days of summer in pleasant company, with London's mysterious cumbia collective [Malphino](https://malphino.bandcamp.com/).
 <br><br>
