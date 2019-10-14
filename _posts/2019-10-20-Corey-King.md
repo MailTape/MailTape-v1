@@ -28,11 +28,11 @@ Corey King: **"**ARP is an artist I discovered a couple of years ago and I'm lea
 ## [Corey King](https://corey-king.bandcamp.com/) - 3 Years
 Jules: **"****"**
 
-## Kayla Painter - All The Glimmering
-Jules: **"**[Future Bubblers 3.0](https://futurebubblers.bandcamp.com/album/future-bubblers-30)**"**
+## Ratomagoson - Poolside
+Jules: **"****"**
 
-## Maud Geffray w/ Lavinia Meijer - STILL LIFE, Pt.5
-Jules: **"**[STILL LIFE](https://paneuropeanrecording.bandcamp.com/album/still-life-a-tribute-to-philip-glass)**"**
+## Djrum - Sparrows
+Jules: **"****"**
 
 ## [BEA1991](https://bea1991.bandcamp.com/) - the dream
 Jules: **"**I discovered BEA1991 as she performed for the opening act of Blood Orange's concert at Élysée Montmartre in July, the same day her first album "Brand New Adult" was released. It was only her and her computer, and at some time she left the stage and started to sing while walking through the crowd. As this was her final song, she invited everyone to sit on the floor around her to share this dreamy feeling. I still feel very special when I remember this.**"**
