@@ -34,10 +34,9 @@ track3_color: dreamy
 image: 'https://mailta.pe/img/fbPic376.png'
 musiColor: musiColor376.png
 ---
-<p id="introduction"> This morning, we celebrate the very last days of summer in pleasant company, with London's mysterious cumbia collective [Malphino](https://malphino.bandcamp.com/).
+<p id="introduction"> This morning, 
 <br><br>
-Malphino's name is a combination of the original members’ respective nationalities: ‘Mal’ bridges David’s Malaysian origins with Alex’s Phillipino-‘Phino’- roots. In 2010, the two joined Japanese percussionist Yu Sato on accordion and tuba during his obscure Latin-oriented nights organized at the Haggerston, in the east of London, where they would re-imagine Latin tunes and interpret Italian film soundtracks. While the regular event gathered a small community of musicians, the initial abstract concept of Malphino, as an outer-national, mystical band coming from an imaginary tropical island, was born. 
-The collective of diaspora musicians and visual artists has also created a colourful image which complement the fantastic and playful vision created by their sound.
+
 </p>
 
 
