@@ -21,13 +21,16 @@ track4_color: vibrant
 track5_color: bliss
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/376/corey-king/'
-track3_link: 'https://soundcloud.com/mexicansummer/arp-fluorescences'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/376/track3.mp3'
 track1_link: 'https://soundcloud.com/echoocho/3-benny-soebardja-and-lizard'
 track2_link: 'https://soundcloud.com/dejka-lights/so-contrary-can'
 track4_link: 'https://soundcloud.com/coreykingofficial/3-years-1'
 track7_link: 'https://soundcloud.com/1991bea/the-dream'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/376/track6.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/376/track5.mp3'
+track2_color: trippy
+track1_color: bliss
+track3_color: bliss
 ---
 <p id="introduction"> This morning, we celebrate the very last days of summer in pleasant company, with London's mysterious cumbia collective [Malphino](https://malphino.bandcamp.com/).
 <br><br>
