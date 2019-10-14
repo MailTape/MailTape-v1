@@ -25,7 +25,7 @@ Corey King: **"**ARP is an artist I discovered a couple of years ago and I'm lea
 
 # MailTape's selection
 
-## [Malphino](https://malphino.bandcamp.com/) - The Sleep Tree
+## [Corey King](https://corey-king.bandcamp.com/) - The Sleep Tree
 Jules: **"****"**
 
 ## Bana - Canta Cu Alma Magoada
@@ -38,5 +38,5 @@ Jules: **"****"**
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to [Corey King](https://malphino.bandcamp.com/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration. </p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to [Corey King](https://corey-king.bandcamp.com/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration. </p>
 
