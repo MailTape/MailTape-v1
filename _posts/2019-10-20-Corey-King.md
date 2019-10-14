@@ -35,7 +35,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## [BEA1991](https://bea1991.bandcamp.com/) - the dream
-Jules: **"****"**
+Jules: **"**I discovered BEA1991 as she performed for the opening act of Blood Orange's concert at Élysée Montmartre in July, the same day her first album "Brand New Adult" was released. It was only her and her computer, and at some time she left the stage and started to sing while walking through the crowd. As this was her final song, she invited everyone to sit on the floor around her to share this dreamy feeling. I still feel very special when I remember this.**"**
 
 
 <p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to [Corey King](https://corey-king.bandcamp.com/) for his Sunday selections, and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's cool illustration. </p>
