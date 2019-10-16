@@ -416,7 +416,7 @@ prose:
           type: "text"
 
 # add rss feed
-gems:
-  - jekyll-feed
-url: https://mailta.pe
-repository: MailTape/MailTape.github.io
+# gems:
+#   - jekyll-feed
+# url: https://mailta.pe
+# repository: MailTape/MailTape.github.io

@@ -1635,3 +1635,52 @@ a {
 		display: inline;
 	}
 }
+
+// ARCHIVE STUFF (new version)
+
+#archivePreview {
+	background: white;
+	border: solid 0.3rem white;
+	border-radius: 3px;
+	margin-top:0.5rem;
+	.transition(all,0.2s);
+
+	h1{font-size: 1.3rem;margin-bottom:0;};
+	h2{font-size: .5rem};
+	#previewPostDescription {
+		font-size: 0.75rem;
+	}
+	#previewPostTracks {
+		font-size: 0.5rem;
+	}
+
+	-webkit-box-shadow: 0px 0px 10px 0px rgba(168,168,168,0.2);
+	-moz-box-shadow: 0px 0px 10px 0px rgba(168,168,168,0.2);
+	box-shadow: 0px 0px 10px 0px rgba(168,168,168,0.2);
+}
+
+.ar-link {
+	color: white;
+	&.rough{background: @rough;}
+	&.dreamy{background: @dreamy;}
+	&.vibrant{background: @vibrant;}
+	&.bliss{background: @bliss;}
+	&.trippy{background: @trippy;}
+
+	.transition(all,0.2s);
+
+	&:hover {
+		font-size: 1rem;
+		color: darken(white,10%);
+		text-decoration: none;
+		cursor: pointer;
+
+			&.rough{color:white; background: darken(@rough,10%);}
+			&.dreamy{color:white; background: darken(@dreamy,10%);}
+			&.vibrant{color:white; background: darken(@vibrant,10%);}
+			&.bliss{color:white; background: darken(@bliss,10%);}
+			&.trippy{color:white; background: darken(@trippy,10%);}
+
+	}
+}
+
