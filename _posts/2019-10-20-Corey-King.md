@@ -62,7 +62,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## [Djrum](https://djrum.bandcamp.com/) - Sparrows
-Jules: **"**Released in August 2018, "Portrait with Firewood" is Felix Manuel's most personal work to date. It's hard to choose a specific song from this album, as the British underground artist manages to mix his classical jazz influences with techno, ambient and dubstep sonorities to capture a broad range of emotions and feelings, from violence to pure beauty. This one seems perfect for a slow and sweet awakening.**"**
+Jules: **"**Released in August 2018, "Portrait with Firewood" is Felix Manuel's most personal work to date. It's hard to choose a specific song from this album, as the British underground artist manages to mix his classical jazz influences with techno, ambient and dubstep sonorities to capture a broad range of emotions and feelings, from violence to pure beauty. This one is perfect for a slow and sweet awakening.**"**
 
 ## BEA1991 - the dream
 Jules: **"**I discovered [BEA1991](https://bea1991.bandcamp.com/) as she performed for the opening act of Blood Orange's concert at Élysée Montmartre in July, the same day her first album "Brand New Adult" was released. It was only her and her computer, and at some time she left the stage and continued to sing while walking through the crowd. As this was her final song, she invited everyone to sit on the floor around her to share this dreamy feeling. I still feel very special when I remember this.**"**
