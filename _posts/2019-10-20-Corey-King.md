@@ -59,7 +59,7 @@ Corey King: **"**[ARP](https://arpetc.bandcamp.com/) is an artist I discovered a
 Jules: **"****"**
 
 ## [Ratomagoson](https://www.facebook.com/ratomagoson/) - Poolside (feat. Sebastián López Bustos)
-Jules: **"**This song is taken from Ratomagoson's last release "Resin". After having previously been featured on the [Future Bubblers 2.0](https://futurebubblers.bandcamp.com/album/future-bubblers-20) compilation, **"**
+Jules: **"**This song featuring saxophonist Sebastián López Bustos is taken from Ratomagoson's last release "[Resin](https://shop.nudibranchrecords.uk/album/resin)". His signature perc cuts and bass smoothly melts with synths and López's sax to create an enigmatic but blissful atmosphere.**"**
 
 ## [Djrum](https://djrum.bandcamp.com/) - Sparrows
 Jules: **"**Released in August 2018, "Portrait with Firewood" is Felix Manuel's most personal work to date. It's hard to choose a specific song from this album, as the British underground artist manages to mix his classical jazz influences with techno, ambient and dubstep sonorities to capture a broad range of emotions and feelings, from violence to pure beauty. This one is perfect for a slow and sweet awakening.**"**
