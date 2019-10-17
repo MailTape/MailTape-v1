@@ -55,7 +55,7 @@ Corey King: **"**[ARP](https://arpetc.bandcamp.com/) is an artist I discovered a
 
 # MailTape's selection
 
-## [Corey King](https://corey-king.bandcamp.com/) - 3 Years
+## Corey King - 3 Years
 Jules: **"**3 years is the time that has passed since the release of Corey King's last album "Lashes". Diverging from the indie rock sounds of his beginnings, this song creates a complex and rich universe which embodies well King's development as a more experimental songwriter and producer. **"**
 
 ## [Ratomagoson](https://www.facebook.com/ratomagoson/) - Poolside (feat. Sebastián López Bustos)
