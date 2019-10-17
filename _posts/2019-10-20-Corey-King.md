@@ -34,7 +34,7 @@ track3_color: dreamy
 image: 'https://mailta.pe/img/fbPic376.png'
 musiColor: musiColor376.png
 ---
-<p id="introduction"> This morning, we are delighted to welcome Brooklyn-based multi-instrumentist Corey King to select three inspiring Sunday morning tunes for us.
+<p id="introduction"> This morning, we are delighted to welcome Brooklyn-based multi-instrumentist [Corey King](https://corey-king.bandcamp.com/), who has just released hiw new album "A Loveless Sunken Sun", to select three inspiring Sunday morning tunes for us.
 <br><br>
 
 </p>
