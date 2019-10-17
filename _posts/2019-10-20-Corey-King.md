@@ -36,7 +36,7 @@ musiColor: musiColor376.png
 ---
 <p id="introduction"> This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The Brooklyn-based multi-instrumentist has recently released a new album, "A Loveless Sunken Sun", he describes as "a testament to the power of angst to foster growth".
 <br><br>
-
+Produced  over two years in near solitude in Brooklyn and while on the tour, the record 
 </p>
 
 
