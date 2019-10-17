@@ -56,7 +56,7 @@ Corey King: **"**[ARP](https://arpetc.bandcamp.com/) is an artist I discovered a
 # MailTape's selection
 
 ## [Corey King](https://corey-king.bandcamp.com/) - 3 Years
-Jules: **"****"**
+Jules: **"**3 years is the time that has elapsed since the release of Corey King's first album "Lashes". Diverging from the indie rock sounds of his beginnings, this song creates a complex and rich universe which embodies well King's development as a more experimental songwriter and producer. **"**
 
 ## [Ratomagoson](https://www.facebook.com/ratomagoson/) - Poolside (feat. Sebastián López Bustos)
 Jules: **"**This song featuring saxophonist Sebastián López Bustos is taken from Ratomagoson's last release "[Resin](https://shop.nudibranchrecords.uk/album/resin)". His signature perc cuts and bass smoothly melts with synths and López's sax to create an enigmatic but blissful atmosphere.**"**
