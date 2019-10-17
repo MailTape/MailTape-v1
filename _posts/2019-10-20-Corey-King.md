@@ -34,7 +34,7 @@ track3_color: dreamy
 image: 'https://mailta.pe/img/fbPic376.png'
 musiColor: musiColor376.png
 ---
-<p id="introduction"> This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The Brooklyn-based multi-instrumentist has recently released a new album "A Loveless Sunken Sun" he describes as "a testament to the power of angst to foster growth".
+<p id="introduction"> This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The Brooklyn-based multi-instrumentist has recently released a new album, "A Loveless Sunken Sun", he describes as "a testament to the power of angst to foster growth".
 <br><br>
 
 </p>
