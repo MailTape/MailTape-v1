@@ -13,7 +13,7 @@ track1_title: Benny Soebardja & Lizard - Candlelight
 track2_title: 'CAN - Mary, Mary, So Contrary'
 track3_title: ARP - Fluorescences
 track4_title: Corey King - 3 Years
-track5_title: Ratomagoson - Poolside (feat. Sebastian Lopez Bustos)
+track5_title: Ratomagoson - Poolside (feat. Sebastián López Bustos)
 track6_title: Djrum - Sparrows
 track7_title: BEA1991 - the dream
 track6_color: trippy
