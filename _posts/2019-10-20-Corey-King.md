@@ -36,7 +36,7 @@ musiColor: musiColor376.png
 ---
 <p id="introduction"> This morning, we are delighted to welcome [Corey King](https://corey-king.bandcamp.com/) to select three inspiring Sunday morning tunes for us. The New-York-based multi-instrumentist has recently released a new album, "A Loveless Sunken Sun", he describes as "a testament to the power of angst to foster growth".
 <br><br>
-Produced over two years in near solitude in Brooklyn and while on the tour, this record sees the Texas-born musician taking a more experimental route than his previous projects. Featuring synths, drum machines and programming alongside live band characteristics, King evokes the personal anxieties born during these two years that saw him facing the extremities of life in the birth of a son and the loss of his grandmother while he was touring the world.
+Produced over two years in near solitude in Brooklyn and while on the road, this record sees the Texas-born musician taking a more experimental route than his previous projects. Featuring synths, drum machines and programming alongside live band characteristics, King evokes the personal anxieties born during these two years that saw him facing the extremities of life in the birth of a son and the loss of his grandmother while he was touring the world.
 </p>
 
 
