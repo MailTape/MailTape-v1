@@ -10,7 +10,7 @@ guest_name: Run Child Run
 guest_color: vibrant
 guestPic: guestPic299.jpg
 track1_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/299/track1.mp3'
-track2_link: 'https://soundcloud.com/hughlovehugh/i-cant-figure-you-out-fvm-2-24bit-441'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/299/track2.mp3'
 track3_link: 'https://soundcloud.com/mrbongo/joyce-aldeia-de-ogum'
 track4_link: 'https://soundcloud.com/runchildrun/cant-catch-me'
 track5_link: 'https://soundcloud.com/stonesthrow/sudan-archives-come-meh-way'

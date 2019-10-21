@@ -20,7 +20,7 @@ track3_color: trippy
 track4_link: 'https://soundcloud.com/emanative/ominous-shanti'
 track4_title: Emanative - Ominous Shanti
 track4_color: vibrant
-track5_link: 'https://soundcloud.com/nowagainrecords/idris-ackamoor-and-the-pyramids-rhapsody-in-berlin-pt-1'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/271/track5.mp3'
 track5_title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 track5_color: bliss
 track6_link: 'https://soundcloud.com/naimrecs/yazz-ahmed-jamil-jamal'

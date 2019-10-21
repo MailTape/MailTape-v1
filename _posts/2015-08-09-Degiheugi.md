@@ -15,7 +15,7 @@ category: "198"
 guest_name: Degiheugi
 track1_link: "https://mailtapesounds.s3.amazonaws.com/198/track1.mp3"
 track2_link: "https://soundcloud.com/officialrjd2/420-1s"
-track3_link: "https://soundcloud.com/chineseman/02-the-reminder-chinese-man"
+track3_link: "https://mailtapesounds.s3.amazonaws.com/198/track3.mp3"
 track4_link: "https://soundcloud.com/degiheugi/betty"
 track5_link: "https://mailtapesounds.s3.amazonaws.com/198/track5.mp3"
 track6_link: "https://mailtapesounds.s3.amazonaws.com/198/track6.mp3"
