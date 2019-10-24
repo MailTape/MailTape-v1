@@ -6,7 +6,7 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 track1_link: 'https://soundcloud.com/earhornmusic/califone-sunday-noises'
 track2_link: 'https://soundcloud.com/zammuto/11-las-twelve-fold-chain'
-track3_link: 'https://soundcloud.com/efterklang/efterklang-hollow-mountain'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/254/track3.mp3'
 track4_link: 'https://soundcloud.com/offseason-records/vitamin-meathawk-feat-sandro-perri'
 track5_link: 'https://soundcloud.com/martinarnold/the-coo-coo-bird'
 track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'

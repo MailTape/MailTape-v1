@@ -10,7 +10,7 @@ track3_link: 'https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-pau
 track4_link: 'https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017'
 track5_link: 'https://soundcloud.com/les-yeux-orange/premiere-red-axes-shake-the-mind'
 track6_link: 'https://soundcloud.com/nmacraekennedy/no-condition-is-permanent-marijata'
-track7_link: 'https://soundcloud.com/world-circuit-records/mbongwana-star-malukayi-feat-konono-no1'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/322/track7.mp3'
 category: '322'
 guest_name: Nihiloxica
 guest_color: rough
