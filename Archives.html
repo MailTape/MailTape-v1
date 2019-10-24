@@ -119,10 +119,20 @@
                             <div class="px-2">
                                 <h1>{{ post.guest_name }}</h1>
                                 <h2>EPISODE #{{ post.category }} - SUN MORNING, {{ post.date | date: "%d %b %Y" | upcase }}</h2>
-                                <p class="pr-4" id="previewPostDescription">{{ post.description }}</p>
+                                <p id="previewPostDescription">{{ post.description }}</p>
                             </div>
-                            <div class="px-2 mt-auto">
-                                <p id="previewPostTracks" style="margin-bottom:0">{{ post.track1_title }} / {{ post.track2_title }} / {{ post.track3_title }} / {{ post.track4_title }} / {{ post.track5_title }} / {{ post.track6_title }} / {{ post.track7_title }}</p>
+                            <div class="px-2">
+                                <p id="previewPostTracks" style="margin-bottom:0">
+                                    <ul>
+                                        <li>{{ post.track1_title }}</li>
+                                        <li>{{ post.track2_title }}</li>
+                                        <li>{{ post.track3_title }}</li>
+                                        <li>{{ post.track4_title }}</li>
+                                        <li>{{ post.track5_title }}</li>
+                                        <li>{{ post.track6_title }}</li>
+                                        <li>{{ post.track7_title }}</li>
+                                    </ul>
+                                </p>
                             </div>
                         </div>
                     </div>
