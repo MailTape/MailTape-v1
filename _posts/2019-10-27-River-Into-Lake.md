@@ -3,6 +3,33 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 track5_link: 'https://soundcloud.com/ada_ada/chassol-birds-pt-i'
+guest_color: dreamy
+track6_link: 'https://soundcloud.com/heladonegro/2-dia'
+track7_link: 'https://soundcloud.com/memphisindustries/rozi-plain-symmetrical'
+track7_title: Rozi Plain - Symmetrical
+track7_color: dreamy
+track6_color: dreamy
+track5_title: 'Chassol – Birds, Pt. I'
+track5_color: bliss
+track6_title: Helado Negro - 2° Dia
+track4_title: 'River Into Lake - '
+track4_color: trippy
+track3_link: 'https://soundcloud.com/thundercatofficial/them-changes'
+track3_title: Thundercat - Them Changes
+track3_color: vibrant
+track2_title: Selda Bagcan - Dostum Dostum
+track2_color: bliss
+track1_color: dreamy
+track1_title: Timber Timbre - Velvet Gloves And Spit
+episode_URL: 'http://mailta.pe/377/river-into-lake/'
+image: 'https://mailta.pe/img/fbPic377.png'
+musiColor: musiColor377.png
+guestPic: guestPic377.jpg
+category: '377'
+guest_name: River Into Lake
+writer: Anaïs G
+illustrator: Camille Célestin
+author: Anaïs G
 ---
 <p id="introduction">This morning, la nature nous parle: elle nous envoute avec ces feuilles aux couleurs oranges et marrons, elle nous pousse à nous lever tôt pour aller à la recherche de champignons, de châtaignes... Et dans ce décor presque magique que la nature nous offre, la musique de River Into Lake fait des ricochets sur l'eau des ruisseaux et sur les arbres.
 <br><br>
