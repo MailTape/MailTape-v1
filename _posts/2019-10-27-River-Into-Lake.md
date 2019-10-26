@@ -2,8 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track5_link: 'https://soundcloud.com/ada_ada/chassol-birds-pt-i'
 ---
-<p id="introduction">This morning, 
+<p id="introduction">This morning, la nature nous parle: elle nous envoute avec ces feuilles aux couleurs oranges et marrons, elle nous pousse à nous lever tôt pour aller à la recherche de champignons, de châtaignes... Et dans ce décor presque magique que la nature nous offre, la musique de River Into Lake fait des ricochets sur l'eau des ruisseaux et sur les arbres.
 <br><br>
  <br><br>
 </p>
@@ -37,4 +38,3 @@ _Anaïs G_: **"** **"**
 
 
 <p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to River Into Lake for his selection, and to Camille Célestin for her great illustration. Have a sweet sweet Sunday!</p>
-
