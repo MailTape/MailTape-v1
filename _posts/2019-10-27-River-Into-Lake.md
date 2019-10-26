@@ -41,7 +41,8 @@ description: >-
 ---
 <p id="introduction">This morning, nature speaks to us: it bewitches us with its orange and brown leaves, it pushes us to get up early to go in search of mushrooms, chestnuts... And in this almost magical setting that nature offers us, the music of [River Into Lake](https://www.facebook.com/riverintolake/)ricochets on the water of streams and trees. 
 <br><br>
-On this beautiful autumn Sunday, Brussels is being honoured. Behind [River Into Lake](https://soundcloud.com/humptydumptyrecords/sets/river-into-lake-let-the-beast-out) is Boris Gronemberger, a talented multi-instrumentalist who has already collaborated with the [Girls In Hawaii](https://www.girlsinhawaii.be/), [FrançoiZ Breut](https://www.facebook.com/francoizbreut/) and V.O. What a surprise with this first album "Let The Beast Out", which promises us synthetic sounds, pop with a touch of rock as we like them!<br><br>
+On this beautiful autumn Sunday, Brussels is being honoured. Behind [River Into Lake](https://soundcloud.com/humptydumptyrecords/sets/river-into-lake-let-the-beast-out) is Boris Gronemberger, a talented multi-instrumentalist who has already collaborated with the [Girls In Ha![fbPic377.png]({{site.baseurl}}/img/fbPic377.png)
+waii](https://www.girlsinhawaii.be/), [FrançoiZ Breut](https://www.facebook.com/francoizbreut/) and V.O. What a surprise with this first album "Let The Beast Out", which promises us synthetic sounds, pop with a touch of rock as we like them!<br><br>
 </p>
 
 # River Into Lake's selection
