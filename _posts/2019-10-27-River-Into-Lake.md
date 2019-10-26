@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track5_link: 'https://soundcloud.com/ada_ada/chassol-birds-pt-i'
 guest_color: dreamy
 track6_link: 'https://soundcloud.com/heladonegro/2-dia'
@@ -55,7 +55,8 @@ _River Into Lake_: **"**I just discovered him on a friend's playlist. I really l
 _Anaïs G_: **"** **"**
 
 ## Chassol – Birds, Pt. I 
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. Transportez dans la fôret au mileu des arbres, des oiseaux.. C'est beau et léger![guestPic377.jpg]({{site.baseurl}}/img/guestPic377.jpg)
+, une caresse **"**
 
 ## Helado Negro - 2° Dia
 _Anaïs G_: **"** **"**
