@@ -33,6 +33,11 @@ author: Anaïs G
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track4.mp3'
+description: >-
+  This morning, nature speaks to us: it bewitches us with its orange and brown
+  leaves, it pushes us to get up early to go in search of mushrooms, chestnuts.
+  . . And in this almost magical setting that nature offers us, the music of
+  River Into Lake ricochets on the water of streams and trees.
 ---
 <p id="introduction">This morning, nature speaks to us: it bewitches us with its orange and brown leaves, it pushes us to get up early to go in search of mushrooms, chestnuts. . . And in this almost magical setting that nature offers us, the music of River Into Lake ricochets on the water of streams and trees. 
 <br><br>
