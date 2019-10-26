@@ -55,7 +55,7 @@ _River Into Lake_: **"**I just discovered him on a friend's playlist. I really l
 _Anaïs G_: **"** **"**
 
 ## Chassol – Birds, Pt. I 
-_Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. Transportez dans la fôret au mileu des arbres, des oiseaux.. C'est beau et léger![guestPic377.jpg]({{site.baseurl}}/img/guestPic377.jpg)
+_Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. Transportez dans la fôret au mileu des arbres, des oiseaux.. C'est beau et léger!
 , une caresse **"**
 
 ## Helado Negro - 2° Dia
