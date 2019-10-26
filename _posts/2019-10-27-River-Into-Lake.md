@@ -51,16 +51,16 @@ _River Into Lake_: **"**I just discovered him on a friend's playlist. I really l
 
 # MailTape's selection
 
-##  - 
+## River Into Lake - Dig Your Own Way
 _Anaïs G_: **"** **"**
 
-##  - 
+## Chassol – Birds, Pt. I 
 _Anaïs G_: **"** **"**
 
-##  - 
+## Helado Negro - 2° Dia
 _Anaïs G_: **"** **"**
 
-##  - 
+## Rozi Plain - Symmetrical
 _Anaïs G_: **"** **"**
 
 
