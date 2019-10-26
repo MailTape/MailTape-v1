@@ -55,16 +55,16 @@ _River Into Lake_: **"**I just discovered him on a friend's playlist. I really l
 # MailTape's selection
 
 ## River Into Lake - Dig Your Own Way
-_Anaïs G_: **"**Une chanson de 8 minutes cela peut paraitre long parfois .. Mais celle-ci fait l'exception ! Elle est tellement ponctuée de surprises auditives et de différentes musicales, que nous restons scotché face à tant de créativité et de talent. Nous ne savons pas où River Into Lake veut nous emmener à travers cette musique mais ce qui est certain c'est que nous le suivons les yeux fermés. Digne d'une bande son de la série "Stranger Things" ! **"**
+_Anaïs G_: **"**An 8-minute song can seem long sometimes. . . But this one is the exception! It is so punctuated by auditory surprises and different musicals, that we remain stuck in the face of so much creativity and talent. We don't know where River Into Lake wants to take us through this music but what is certain is that we follow them with our eyes closed. Worthy of a soundtrack from the "Stranger Things" series! **"**
 
 ## Chassol – Birds, Pt. I 
-_Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. Transportez dans la fôret au mileu des arbres et  des oiseaux. Il y a que nous et la nature.. Et la musique de Chassol. Puissante, touchante, belle, légère.. Il n'y aurais pas assez adjectif pour décrire les émotions que j'ai en écoutant cette chanson.**"**
+_Anaïs G_: **"**It's soft, majestic, as if we were in the middle of a dream. Carry in the forest in the middle of trees and birds. It's just us and nature. . . And the music of Chassol. Powerful, touching, beautiful, light. . . There wouldn't be enough adjectives to describe the emotions I have while listening to this song. **"**
 
 ## Helado Negro - 2° Dia
-_Anaïs G_: **"**C'est avec sa voix sensuelle que Helado Negro sait me charmer, musicalement parlant. Je tombe sous le charme de sa musique pop de ce chanteur venu tout droit de Brooklyn. Ce titre date d'il y a 4 ans déjà, mais je n'ai pu réister à vous le faire partager. Je vous invite à écouter son dernier opus "This Is How You Smile" sorti en début d'année.**"**
+_Anaïs G_: **"**It is with her sensual voice that Helado Negro knows how to charm me, musically speaking. I fall under the spell of his pop music by this singer who came straight from Brooklyn. This title dates back 4 years already, but I couldn't resist sharing it with you. I invite you to listen to his latest album "This Is How You Smile" released earlier this year.**"**
 
 ## Rozi Plain - Symmetrical
-_Anaïs G_: **"**L'indie folk de Rozi Plain, native de Winchester, m'a fait virevolter, m'a donné le sourire rien qu'en écoutant cette chanson. Dans son dernier opus "What A Boost" sorti en avirl dernier, elle nous offre une palette de musique incroyable en y ajoutant des notes jazzy comme le couché de soleil que je suis entrain d'admirer à l'instant. Chaleureux et subtil !**"**
+_Anaïs G_: **"**The indie folk of Rozi Plain, a Winchester native, made me spin, gave me a smile just by listening to this song. In her latest opus "What A Boost"; released last avirl, she offers us an incredible palette of music by adding jazzy notes like the sunset I'm admiring right now. Warm and subtle!**"**
 
 
 <p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to River Into Lake for his selection, and to Camille Célestin for her great illustration. Have a sweet sweet Sunday!</p>
