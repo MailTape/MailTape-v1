@@ -12,7 +12,7 @@ track6_color: dreamy
 track5_title: 'Chassol – Birds, Pt. I'
 track5_color: bliss
 track6_title: Helado Negro - 2° Dia
-track4_title: 'River Into Lake - '
+track4_title: River Into Lake - Dig Your Own Way
 track4_color: trippy
 track3_link: 'https://soundcloud.com/thundercatofficial/them-changes'
 track3_title: Thundercat - Them Changes
@@ -30,6 +30,9 @@ guest_name: River Into Lake
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track2.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track4.mp3'
 ---
 <p id="introduction">This morning, la nature nous parle: elle nous envoute avec ces feuilles aux couleurs oranges et marrons, elle nous pousse à nous lever tôt pour aller à la recherche de champignons, de châtaignes... Et dans ce décor presque magique que la nature nous offre, la musique de River Into Lake fait des ricochets sur l'eau des ruisseaux et sur les arbres.
 <br><br>
