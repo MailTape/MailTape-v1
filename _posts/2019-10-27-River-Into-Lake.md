@@ -34,9 +34,9 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track4.mp3'
 ---
-<p id="introduction">This morning, la nature nous parle: elle nous envoute avec ces feuilles aux couleurs oranges et marrons, elle nous pousse à nous lever tôt pour aller à la recherche de champignons, de châtaignes... Et dans ce décor presque magique que la nature nous offre, la musique de River Into Lake fait des ricochets sur l'eau des ruisseaux et sur les arbres.
+<p id="introduction">This morning, nature speaks to us: it bewitches us with its orange and brown leaves, it pushes us to get up early to go in search of mushrooms, chestnuts. . . And in this almost magical setting that nature offers us, the music of River Into Lake ricochets on the water of streams and trees. 
 <br><br>
- <br><br>
+On this beautiful autumn Sunday, Brussels is being honoured. Behind River Into Lake is Boris Gronemberger, a talented multi-instrumentalist who has already collaborated with the Girls In Hawaii, FrançoiZ Breut and V. O. What a surprise with this first album "Let The Beast Out", which promises us synthetic sounds, pop with a touch of rock as we like them!<br><br>
 </p>
 
 # River INto Lake's selection
@@ -55,7 +55,7 @@ _River Into Lake_: **"**I just discovered him on a friend's playlist. I really l
 # MailTape's selection
 
 ## River Into Lake - Dig Your Own Way
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**Une chanson de 8 minutes cela peut paraitre long parfois .. Mais celle-ci fait l'exception ! Elle est tellement ponctuée de surprises auditives et de différentes musicales, que nous restons scotché face à tant de créativité et de talent. Nous ne savons pas où River Into Lake veut nous emmener à travers cette musique mais ce qui est certain c'est que nous le suivons les yeux fermés. Digne d'une bande son de la série "Stranger Things" ! **"**
 
 ## Chassol – Birds, Pt. I 
 _Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. Transportez dans la fôret au mileu des arbres et  des oiseaux. Il y a que nous et la nature.. Et la musique de Chassol. Puissante, touchante, belle, légère.. Il n'y aurais pas assez adjectif pour décrire les émotions que j'ai en écoutant cette chanson.**"**
@@ -64,8 +64,7 @@ _Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. T
 _Anaïs G_: **"**C'est avec sa voix sensuelle que Helado Negro sait me charmer, musicalement parlant. Je tombe sous le charme de sa musique pop de ce chanteur venu tout droit de Brooklyn. Ce titre date d'il y a 4 ans déjà, mais je n'ai pu réister à vous le faire partager. Je vous invite à écouter son dernier opus "This Is How You Smile" sorti en début d'année.**"**
 
 ## Rozi Plain - Symmetrical
-_Anaïs G_: **"**L'indie folk de Rozi Plain, native de Winchester, m'a fait virevolter, m'a donné le sourire rien qu'en écoutant cette chanson. Dans son dernier opus "What A Boost" sorti en avirl dernier, elle nous offre une palette de musique incroyable en y ajoutant des notes jazzy comme le couché de soleil que je suis entrain d'admirer à l'instant. Chaleureux et subtil ! ![musiColor377.png]({{site.baseurl}}/img/musiColor377.png)
- **"**
+_Anaïs G_: **"**L'indie folk de Rozi Plain, native de Winchester, m'a fait virevolter, m'a donné le sourire rien qu'en écoutant cette chanson. Dans son dernier opus "What A Boost" sorti en avirl dernier, elle nous offre une palette de musique incroyable en y ajoutant des notes jazzy comme le couché de soleil que je suis entrain d'admirer à l'instant. Chaleureux et subtil !**"**
 
 
 <p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to River Into Lake for his selection, and to Camille Célestin for her great illustration. Have a sweet sweet Sunday!</p>
