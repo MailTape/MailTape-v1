@@ -17,7 +17,7 @@ track4_color: trippy
 track3_link: 'https://soundcloud.com/thundercatofficial/them-changes'
 track3_title: Thundercat - Them Changes
 track3_color: vibrant
-track2_title: Selda Bagcan - Dostum Dostum
+track2_title: Selda Bağcan - Dostum Dostum
 track2_color: bliss
 track1_color: dreamy
 track1_title: Timber Timbre - Velvet Gloves And Spit
