@@ -64,7 +64,8 @@ _Anaïs G_: **"**C'est doux, majestueux, comme si nous étions en plein rêve. T
 _Anaïs G_: **"**C'est avec sa voix sensuelle que Helado Negro sait me charmer, musicalement parlant. Je tombe sous le charme de sa musique pop de ce chanteur venu tout droit de Brooklyn. Ce titre date d'il y a 4 ans déjà, mais je n'ai pu réister à vous le faire partager. Je vous invite à écouter son dernier opus "This Is How You Smile" sorti en début d'année.**"**
 
 ## Rozi Plain - Symmetrical
-_Anaïs G_: **"**L'indie folk de Rozi Plain, native de Winchester, m'a fait virevolter, m'a donné le sourire rien qu'en écoutant cette chanson. Dans son dernier opus "What A Boost" sorti en avirl dernier, elle nous offre une palette de musique incroyable en y ajoutant des notes jazzy comme le couché de soleil que je suis entrain d'admirer à l'instant. Chaleureux et subtil !  **"**
+_Anaïs G_: **"**L'indie folk de Rozi Plain, native de Winchester, m'a fait virevolter, m'a donné le sourire rien qu'en écoutant cette chanson. Dans son dernier opus "What A Boost" sorti en avirl dernier, elle nous offre une palette de musique incroyable en y ajoutant des notes jazzy comme le couché de soleil que je suis entrain d'admirer à l'instant. Chaleureux et subtil ! ![musiColor377.png]({{site.baseurl}}/img/musiColor377.png)
+ **"**
 
 
 <p id="outroduction"> That's it for this morning. Thank you so much for joining us this Sunday. Big thank you to River Into Lake for his selection, and to Camille Célestin for her great illustration. Have a sweet sweet Sunday!</p>
