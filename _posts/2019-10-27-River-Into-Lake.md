@@ -44,7 +44,7 @@ description: >-
 On this beautiful autumn Sunday, Brussels is being honoured. Behind [River Into Lake](https://soundcloud.com/humptydumptyrecords/sets/river-into-lake-let-the-beast-out) is Boris Gronemberger, a talented multi-instrumentalist who has already collaborated with the [Girls In Hawaii](https://www.girlsinhawaii.be/), [FrançoiZ Breut](https://www.facebook.com/francoizbreut/) and V.O. What a surprise with this first album "Let The Beast Out", which promises us synthetic sounds, pop with a touch of rock as we like them!<br><br>
 </p>
 
-# River INto Lake's selection
+# River Into Lake's selection
 
 ## Timber Timbre – Velvet Gloves And Spit
 _River Into Lake_: **"**That's a song i could play first on a sunday morning to wake up slowly, drinking coffee and watching the clouds go by. This song is part of my favourite [Timber Timber's](https://www.timbertimbre.com/) album 'Sincerely , Futur Pollution'.I love it because of its synthetizers 'sounds and moods from the 80's. It brings me at the back of my parents'car, when i was a child and when we drove on a highway.**"**
