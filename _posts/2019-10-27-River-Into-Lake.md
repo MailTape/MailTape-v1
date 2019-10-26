@@ -9,7 +9,7 @@ Jermango Dreaming is the project of Jermaine Sakr, an Australian artist making d
 This selection is both melancholic and upbeat. It is pure and feels whole. With days becoming colder and shorter, use this selection to help you embrace it. It is the remedy to autumn blues, a soft musical sweater that will bring heat to your heart. Feel everything but don't forget to leave room to dance a little bit. <br><br>
 </p>
 
-# Jermango Dreaming's selection
+# River INto Lake's selection
 
 ## Column – Sensuela
 _Jermango Dreaming_: **"**Just like every song off this album, Sensuela has the ability to turn any bad/sad mood around. It has been my go-to song to get me through the loss of lovers and the death of friends. It has helped me fall asleep and encouraged me to get up and start my day.**"**
