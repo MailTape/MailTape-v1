@@ -96,6 +96,10 @@ prose:
               value: "Pierre-Julien Fieux"
             - name: "William"
               value: "William Girault"
+            - name: "Thibault"
+              value: "Thibault Daumain"
+            - name: "Julie"
+              value: "Julie Wojtczak"
       - name: "writer"
         field:
           element: "select"
