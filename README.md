@@ -1,4 +1,4 @@
-# MailTape
+# [MailTape](https://mailta.pe)
 Feed your inspiration, every Sunday morning.
 
 Each MailTape issue is the result of a collaborative work between a featured guest who curates the three first tracks, a curator who completes the selection, an illustrator and a writer.
