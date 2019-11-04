@@ -105,13 +105,53 @@
 
         <noscript>PLEASE <a href="http://www.enable-javascript.com/" target="blank">ENABLE JAVASCRIPT</a>We are verry sorry but MailTape isn't working  properly without javascript, so you need to activate it.</noscript>
 
-<!--         {% include topbar.html %}
- -->
+        <div class="container newTopbar">
+            <div class="d-flex align-content-center flex-wrap">
+                <div>
+                    <div id="preloadLogo">
+                        <img src="{{ site.baseurl }}/img/logo_MailTape.gif">
+                    </div>
+                    {% for post in site.posts %}
+                    {% if site.time > post.date %}
+
+                    <a id="logo" href="{{ post.url }}"></a>
+
+                    {% break %}
+                    {% endif %}
+                    {% endfor %}
+                
+                </div>
+                <div class="pt-1 pl-2">
+                    <h1>Welcome to MailTape</h1>
+                    <h2>A place for music lovers by music lovers</h2>
+                </div>
+                <div class="ml-auto menu pt-3">
+                    <a data-toggle="modal" href="#topLearnMoreModal">Follow</a>
+                    <a data-toggle="modal" href="#topLearnMoreModal">Donate</a>
+                    <a data-toggle="modal" href="#topLearnMoreModal">Contact</a>
+                </div>
+            </div>
+        </div>
+
          <div class="container">
 
             {% for post in site.posts %}
                 {% if site.time > post.date %}
-                    <div id="archivePreview" class="d-flex sticky-top mb-4">
+                    <div id="archivePreview" class="d-flex mb-4 notHovered">
+                        <div id="introStory">
+                            <p>
+                                Every Sunday morning, we release a music selection curated with a surprise guest.<br>
+                                MailTape is an Art project started in 2011. We do it for the love of music, our non-profit collective gathers 12 volunteers based across Paris, Orléans, London, Berlin and New Delhi. Once every six months, we throw a party.<br>
+                                Hope you enjoy the experience and discover great music.
+                            </p>
+                            <p>
+                                Cheers,<br>
+                                MailTape Crew.
+                            </p>
+                            <p>
+                                PS: If you don't want to miss our next release, you may consider following us.
+                            </p>
+                        </div>
                         <div>
                             <img src="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.guestPic }}&w=360&h=240&fit=cover&il"/><br>
                             <!-- <img id="musiColor" src="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.musiColor }}&w=360&il"/> -->
@@ -132,16 +172,13 @@
                                     <li class="{{ post.track7_color }}">{{ post.track7_title }}</li>
                                 </ul>
                             </div>
-<!--                             <div class="px-2 mt-auto">
-                                <p id="previewPostDescription">{{ post.description }}</p>
-                            </div> -->
                         </div>
                     </div>
                     {% break %}
                 {% endif %}
             {% endfor %}
 
-<!-- TODO tester catégorisation par années et mettre plus en avant les titres plutôt que la description -->
+        <!-- TODO tester catégorisation par années et m-->
             <div class="d-flex align-content-start flex-wrap"> 
                 {% for post in site.posts %}
                     {% if site.time > post.date %}  
@@ -155,6 +192,40 @@
             </div>
         </div>
 
+        <!-- Modal -->
+        <div class="modal fade" id="topLearnMoreModal" tabindex="-1" role="dialog" aria-labelledby="subModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">✌️Hi! We are MailTape.</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>    
+                    </div>
+
+                    <div class="modal-body">
+                        <p>
+                            We release a playlist co-curated with a surprise guest each Sunday morning 💎 
+                            <br><br>
+                            +16.000 music lovers subscribed to MailTape. We are a non-profit art collective run by volunteers and supported thanks to <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" target="_blank">donations</a> since 2011.
+                            <br><br>
+                            ✋ We respect your privacy and will never share or sell your data.
+                        </p>
+                    </div>
+                    <div class="modal-footer" id="mobile-subscription" >
+                        <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
+                            <input type="text" name="mobile-name" placeholder="Alex" required>
+                            <input type="email" name="mobile-email" placeholder="alex@mail.com" required>
+                            <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton">Follow</button>
+                            <p id="mobile-status"></p>
+                        </form>
+
+                    </div>
+
+                </div>
+                <!-- /.modal-content -->
+            </div>
+            <!-- /.modal-dialog -->
+        </div>
+        <!-- /.modal -->
 
 
     {% include footer.html %}
