@@ -1756,7 +1756,7 @@ a {
 		&:nth-of-type(2) {
 			margin-bottom: 0;
 		}
-		
+
 		&:nth-of-type(3) {
 			font-size: 0.7rem;
 		}
@@ -1804,6 +1804,32 @@ a {
 			&.bliss{color:white; background: darken(@bliss,10%);}
 			&.trippy{color:white; background: darken(@trippy,10%);}
 
+	}
+
+}
+
+#scrollUp {
+	position: fixed;
+	z-index: 1000;
+	right: 2rem;
+	bottom: 2rem;
+	font-size: 0.7rem;
+	cursor: pointer;
+	.transition(all,0.2s);
+	visibility: hidden;
+	opacity: 0;
+
+	svg {
+		fill:lighten(@lighterGrey, 50%);
+		.transition(all,0.2s);
+		&:hover {
+			fill: @lighterGrey;
+		}
+	}
+
+	&.showIt {
+		visibility: visible;
+		opacity: 1;
 	}
 }
 
