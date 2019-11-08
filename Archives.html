@@ -178,7 +178,7 @@
             {% endfor %}
 
         <!-- TODO tester catégorisation par années et m-->
-            <div class="d-flex align-content-start flex-wrap"> 
+            <div id="archiveLinks" class="d-flex align-content-start flex-wrap"> 
                 {% for post in site.posts %}
                     {% if site.time > post.date %}  
                         <div class="p-2">
