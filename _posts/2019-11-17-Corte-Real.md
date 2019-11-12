@@ -32,7 +32,7 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 
 # MailTape's selection
 
-## Corte Real - Pays Vaincu
+## Corte Real - Yamoussoukro (with Baptiste W. Hamon)
 Jules: **"****"**
 
 ## 
