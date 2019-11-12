@@ -35,10 +35,10 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 ## Corte Real - Pays Vaincu
 Jules: **"****"**
 
-## 
+## OHIO - Ohio
 Jules: **"****"**
 
-## 
+## Panic Girl - Himalayan Tea
 Jules: **"****"**
 
 ## The Velvet Underground - I Found A Reason
