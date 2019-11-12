@@ -8,7 +8,7 @@ writer: Jules
 category: '380'
 guest_name: Corte Real
 guest_color: dreamy
-episode_URL: 'https://mailta.pe/379/corte-real/'
+episode_URL: 'https://mailta.pe/380/corte-real/'
 ---
 <p id="introduction"> This morning, 
 <br><br>
