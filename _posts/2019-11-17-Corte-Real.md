@@ -61,7 +61,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## OHIO - Ohio
-Jules: **"****"**
+Jules: **"**"Upward, Broken, Always" is the debut record from [OHIO](https://12kmusic.bandcamp.com/album/upward-broken-always), a duo comprised of Taylor Deupree, founder and head of the New York based experimental music label 12k, and long-time label-mate and collaborator Corey Fuller. This record is born from their separate childhood memories of their home state and the eponymous track is a slowed cover of Damien Jurado’s 1999 folk song. This new version featuring vocals from Fuller and a beautiful improvisational interlude creates a melancholic, dreamy and subtle atmosphere.**"**
 
 ## The Velvet Underground - I Found A Reason
 Jules: **"**I had almost forgotten this song before Massive Attack did a cover version, as an opening to their concert in Paris last February. How could I have forgotten the voice of Lou Reed flying over the chorus and the heavenly atmosphere created by these guitar notes?**"**
