@@ -29,6 +29,7 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/380/track4.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/380/track3.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/380/track2.mp3'
 track2_color: trippy
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/380/track6.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
