@@ -1681,7 +1681,19 @@ a {
 
 	h1{font-size: 1.7rem;margin-bottom:0;};
 	h2{font-size: .5rem};
-	img {border-radius: 2px;}
+	img {
+		border-radius: 2px;
+
+		width: 360px; 
+		height: 240px; 
+		display: block;
+
+		&.lazy {
+			background-image: url('/img/loader.gif');
+	        background-repeat: no-repeat;
+	        background-position: 50% 50%;
+	    }
+	}
 
 	.arP-link {
 		color: white;

@@ -60,15 +60,17 @@
         <!-- migration tool (to activate if any problem with jQuery3 ) -->    
         <!-- <script src="/assets/javascripts/vendor/jquery-migrate-3.1.0.js"></script> -->
 
-        <!-- Include here bootstrap -->
+        <!-- bootstrap js stuff -->
         <script src="/assets/javascripts/bootstrap/bootstrap.bundle.min.js"></script>
+
+        <!-- jquery module for image preview lazyloading -->
+        <script type="text/javascript" src="/assets/javascripts/jquery.lazy.min.js"></script>
 
         <!--   Include here all homemade scripts -->   
         <script src="/assets/javascripts/hello.js"></script>
         <script src="/assets/javascripts/mt-footer.js"></script>
         <script src="/assets/javascripts/mt-mailSub.js"></script>
         <script src="/assets/javascripts/mt-archive.js"></script>
-
 
        <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
         <script type="text/javascript">
@@ -152,7 +154,7 @@
                             </p>
                         </div>
                         <div>
-                            <img src="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.guestPic }}&w=360&h=240&fit=cover&il"/><br>
+                            <img class="lazy"/><br>
                             <!-- <img id="musiColor" src="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.musiColor }}&w=360&il"/> -->
                         </div>
                         <div class="d-flex flex-column flex-nowrap">
