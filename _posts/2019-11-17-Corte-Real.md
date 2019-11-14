@@ -64,7 +64,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## The Velvet Underground - I Found A Reason
-Jules: **"**I had almost forgotten this song before Massive Attack did a cover version, as an opening to their concert in Paris last February. How could I? **"**
+Jules: **"**I had almost forgotten this song before Massive Attack did a cover version, as an opening to their concert in Paris last February. How could I forget the voice of Lou Reed flying over the chorus and the heavenly atmosphere created by these guitar notes?**"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=fr) for her brilliant illustration.</p>
