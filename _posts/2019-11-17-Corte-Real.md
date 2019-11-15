@@ -32,10 +32,11 @@ track2_color: trippy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/380/track6.mp3'
 musiColor: musiColor380.png
 ---
-<p id="introduction"> This morning, 
+<p id="introduction"> This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing where or when we will come back. Their track "Opium" was the perfect conclusion of our dreamy journey with Skinshape in [MailTape 353](https://www.mailta.pe/353/skinshape/) and the Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd.
 <br><br>
-Reference to Skinshape's episode [MailTape 353](https://www.mailta.pe/353/skinshape/)
+
 Tanguy from Corte Real
+let us be soothed by melancholic waves, invade by the salty smells and the wind of the adventure.
 </p>
 
 
