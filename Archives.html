@@ -119,7 +119,7 @@
                     {% endfor %}
                 
                 </div>
-                <div class="pt-1 pl-2">
+                <div class="pt-2 pl-2">
                     <h1>Welcome to MailTape</h1>
                     <h2>A place for music lovers by music lovers</h2>
                 </div>
@@ -135,12 +135,13 @@
 
             {% for post in site.posts %}
                 {% if site.time > post.date %}
-                    <div id="archivePreview" class="d-flex mb-4 notHovered">
+                    <div id="archivePreview" class="d-flex mb-4 getRelative">
                         <div id="introStory">
                             <p>
                                 Every Sunday morning, we release a music selection curated with a surprise guest.<br>
                                 MailTape is an Art project started in 2011. We do it for the love of music, our non-profit collective gathers 12 volunteers based across Paris, Orléans, London, Berlin and New Delhi. Once every six months, we throw a party.<br>
-                                Hope you enjoy the experience and discover great music.
+                                For each color, a mood : <span class="vibrant">vibrant</span>, <span class="bliss">bliss</span>, <span class="trippy">trippy</span>, <span class="dreamy">dreamy</span> and <span class="rough">rough</span>.
+                                Hope you enjoy and discover great music.
                             </p>
                             <p>
                                 Cheers,<br>

@@ -73,13 +73,13 @@ body {
 	margin-top: 0.5rem;
 
 	h1 {
-		font-size: 1.7rem;
+		font-size: 1.618rem;
 		margin: 0.1rem;
 		text-align:left;
 	}
 
 	h2 {
-		font-size: 1.3rem;
+		font-size: 0.618rem;
 		margin:0.1rem;
 		text-align:left;
 	}
@@ -1677,7 +1677,7 @@ a {
 #archivePreview {
 	background: white;
 	margin-top:1.7rem;
-	.transition(all,0.2s);
+	.transition(all,0.5s);
 
 	h1{font-size: 1.7rem;margin-bottom:0;};
 	h2{font-size: .5rem};
@@ -1737,8 +1737,13 @@ a {
 	//border-radius: 3px;
 	padding:0.5rem;
 
-	&.notHovered {
+	&.getRelative {
 		position:relative;
+	}
+
+	&.hideIt {
+		visibility: hidden;
+		opacity: 0;
 	}
 
 }
@@ -1751,14 +1756,6 @@ a {
 	left: 0;
 	background:  #FFFFFF;
 	.transition(all,0.5s);
-	
-	h1 {
-		font-size: 1.7rem;
-	}
-
-	h2 {
-		font-size: 1.3rem;
-	}
 
 	p {
 		font-size: 1rem;
@@ -1781,6 +1778,12 @@ a {
 		visibility: visible;
 		opacity: 1;
 	}
+
+	.rough{color: @rough;}
+	.dreamy{color: @dreamy;}
+	.vibrant{color: @vibrant;}
+	.bliss{color: @bliss;}
+	.trippy{color: @trippy;}
 
 }
 
