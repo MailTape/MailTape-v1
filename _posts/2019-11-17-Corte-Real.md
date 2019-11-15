@@ -54,7 +54,7 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 # MailTape's selection
 
 ## [Corte Real](https://www.facebook.com/corterealmusic/) - Pays Vaincu
-Jules: **"**This song is the first single from Corte Real's upcoming album. **"**
+Jules: **"**This song is the first single from Corte Real's upcoming album. Tanguy's voice and the guitar that accompanies it create a sweet and nostalgic harmony that makes you want to wake up slowly and enjoy the sun at your window.**"**
 
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Les Pommiers Envahis
 Jules: **"**We are now leaving the ocean, going up the Saint Lawrence River to land on the fresh coasts of Quebec. This is yet another brilliant artist I discovered thanks to La Souterraine. The simplicity of the music and the sad sweetness of Philémon's voice make all the beauty of this song.**"**
