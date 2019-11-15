@@ -56,8 +56,8 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 ## [Corte Real](https://www.facebook.com/corterealmusic/) - Pays Vaincu
 Jules: **"****"**
 
-## Philémon Cimon - Les Pommiers Envahis
-Jules: **"**We are now leaving the lost islands of the Pacific, going up the Saint Lawrence River to land on the fresh coasts of Quebec. [Philémon Cimon](https://philemoncimon.bandcamp.com/) is yet another artist I discovered thanks to La Souterraine. The simplicity of the music and the sad sweetness of Philémon's voice make all the beauty of this song.**"**
+## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Les Pommiers Envahis
+Jules: **"**We are now leaving the lost islands of the Pacific, going up the Saint Lawrence River to land on the fresh coasts of Quebec. This is yet another brilliant artist I discovered thanks to La Souterraine. The simplicity of the music and the sad sweetness of Philémon's voice make all the beauty of this song.**"**
 
 ## OHIO - Ohio
 Jules: **"**"Upward, Broken, Always" is the debut album from [OHIO](https://12kmusic.bandcamp.com/album/upward-broken-always), a duo comprised of Taylor Deupree, founder of the New York based experimental music label [12k](https://12kmusic.bandcamp.com/), and long-time collaborator Corey Fuller. This record is born from the separate childhood memories of their home state. The eponymous track is a slowed cover of Damien Jurado’s 1999 folk song. This new version featuring vocals from Fuller and a beautiful improvisational interlude creates a melancholic, dreamy and subtle atmosphere that will chase all the morning clouds.**"**
