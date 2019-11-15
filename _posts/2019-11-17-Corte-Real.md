@@ -48,7 +48,7 @@ Tanguy: **"**This jewel of a song would be quite welcome to awaken to on a Sunda
 ## Bert Jansch - In My Mind
 Tanguy: **"**Bert Jansch’s song bathes us into a bucolic vibe. Truth be told, I rarely listen to music upon waking, but  if it were the case I would certainly enjoy stumbling upon such a song. It makes you feel like sliding into your rubber boots and mowing the lawn, which never happens to me.**"**
 
-## Ali Daniel - La Nuit Qui Vient
+## [Ali Daniel](https://www.alidanel.fr/) - La Nuit Qui Vient
 Tanguy: **"**This one reminds me a bit of France. It radiates something quite soft that is truly beautiful. I don’t quite know why but it reminds me of the Côte d’Azur: A chair, a coffee and some waves.**"**
 
 
