@@ -30,12 +30,13 @@ $(document).ready(
 
 					// attend que l'image soit chargé pour l'afficher
 					var img = new Image();
-					img.onload = function() { $("#archivePreview").find("img").attr("src",$this.find("a").attr("data-preview-guestPic")); }
 					img.src = $this.find("a").attr("data-preview-guestPic");
+					img.onload = function() { $("#archivePreview").find("img").attr("src",img.src); }
+
 					setTimeout (function(){
-						if ($("#archivePreview").find("img").attr("src")!=$this.find("a").attr("data-preview-guestPic"))
+						if ($("#archivePreview").find("img").attr("src")!=img.src)
 							{ $("#archivePreview").find("img").attr("src",""); }
-					},10)
+					},100)
 
 					// chargement des infos de texte
 					$("#archivePreview").find("h1").text($this.find("a").attr("data-preview-h1"));
