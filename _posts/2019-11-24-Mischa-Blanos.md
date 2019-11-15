@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '381'
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
