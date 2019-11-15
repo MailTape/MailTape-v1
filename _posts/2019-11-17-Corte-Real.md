@@ -30,6 +30,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/380/track3.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/380/track2.mp3'
 track2_color: trippy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/380/track6.mp3'
+musiColor: musiColor380.png
 ---
 <p id="introduction"> This morning, 
 <br><br>
@@ -60,10 +61,10 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## OHIO - Ohio
-Jules: **"****"**
+Jules: **"**"Upward, Broken, Always" is the debut album from [OHIO](https://12kmusic.bandcamp.com/album/upward-broken-always), a duo comprised of Taylor Deupree, founder and head of the New York based experimental music label 12k, and long-time label-mate and collaborator Corey Fuller. This record is born from the separate childhood memories of their home state. The eponymous track is a slowed cover of Damien Jurado’s 1999 folk song. This new version featuring vocals from Fuller and a beautiful improvisational interlude creates a melancholic, dreamy and subtle atmosphere that will chase all the morning clouds.**"**
 
 ## The Velvet Underground - I Found A Reason
-Jules: **"****"**
+Jules: **"**I had almost forgotten this song before Massive Attack did a cover version, as an opening to their concert in Paris last February. How could I have forgotten the voice of Lou Reed flying over the chorus and the heavenly atmosphere created by these guitar notes?**"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=fr) for her brilliant illustration.</p>
