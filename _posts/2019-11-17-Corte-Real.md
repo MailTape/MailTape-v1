@@ -34,7 +34,8 @@ musiColor: musiColor380.png
 ---
 <p id="introduction"> This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing where or when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, including their track "Opium" that we already featured in our dreamy [353rd episode](https://www.mailta.pe/353/skinshape/).
 <br><br>
-I remember discovering this song on a compilation of the French & francophone pop underground label [La Souterraine](https://souterraine.biz/) and be transported to the dark, smoky tavern in the port of some island on the other side of the world.
+I remember discovering this song on a compilation of the French & francophone pop underground label [La Souterraine](https://souterraine.biz/) and be transported to the dark, smoky tavern in the port of some island on the other side of the world. 
+I am very happy 
 Tanguy from Corte Real
 let us be soothed by melancholic waves, invade by the salty smells and the wind of the adventure.
 </p>
@@ -59,7 +60,7 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 Jules: **"****"**
 
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Les Pommiers Envahis
-Jules: **"****"**
+Jules: **"**Another artist I discovered thanks to La Souterraine.**"**
 
 ## OHIO - Ohio
 Jules: **"**"Upward, Broken, Always" is the debut album from [OHIO](https://12kmusic.bandcamp.com/album/upward-broken-always), a duo comprised of Taylor Deupree, founder of the New York based experimental music label [12k](https://12kmusic.bandcamp.com/), and long-time collaborator Corey Fuller. This record is born from the separate childhood memories of their home state. The eponymous track is a slowed cover of Damien Jurado’s 1999 folk song. This new version featuring vocals from Fuller and a beautiful improvisational interlude creates a melancholic, dreamy and subtle atmosphere that will chase all the morning clouds.**"**
