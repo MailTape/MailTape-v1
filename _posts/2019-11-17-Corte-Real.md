@@ -54,7 +54,7 @@ Tanguy: **"**This one reminds me a bit of France. It radiates something quite so
 
 # MailTape's selection
 
-## Corte Real - Pays Vaincu
+## [Corte Real](https://www.facebook.com/corterealmusic/) - Pays Vaincu
 Jules: **"****"**
 
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Les Pommiers Envahis
