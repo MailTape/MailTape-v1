@@ -47,6 +47,8 @@ description: >-
   infinity of the ocean, and express joy and homesickness at the same time. This
   morning we are embarking with him, get prepared to be soothed by melancholic
   waves, overwhelmed by the sea spray and the wind of adventure!
+guestPic: guestPic380.jpg
+image: 'https://mailta.pe/img/fbPic380.png'
 ---
 <p id="introduction"> This morning, we are setting sail again at the very first light of dawn with [Corte Real](https://www.facebook.com/corterealmusic/), without knowing where or when we will come back. The Versailles-based group is finally releasing its first album "Pays Vaincus" on November 22nd, it includes the track "Opium" that we already featured in our dreamy [353rd episode](https://www.mailta.pe/353/skinshape/).
 <br><br>
