@@ -13,7 +13,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/380/track1.mp3'
 track1_title: Leonard Cohen - I Left A Woman Waiting
 track1_color: bliss
 track2_title: Bert Jansch - In My Mind
-track3_title: Ali Daniel - La Nuit Qui Vient
+track3_title: Ali Danel - La Nuit Qui Vient
 track4_title: Corte Real - Pays Vaincu
 track4_color: dreamy
 track5_title: Philémon Cimon - Les Pommiers Envahis
