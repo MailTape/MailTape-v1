@@ -22,6 +22,13 @@ track6_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track7.mp3'
 track7_title: Fennesz - We Trigger the Sun
 track6_title: Philip Glass - Vessels
+track1_color: vibrant
+track2_color: dreamy
+track3_color: bliss
+track4_color: vibrant
+track5_color: bliss
+track6_color: dreamy
+track7_color: dreamy
 ---
 <p id="introduction"> This morning, lalalala</p>
 
