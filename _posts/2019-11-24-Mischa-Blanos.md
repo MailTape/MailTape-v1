@@ -60,7 +60,7 @@ ImaCrea: **"** lalala **"**
 ImaCrea: **"** "lala**"**
 
 ## Fennesz - We Trigger the Sun
-Jules: **"** lala **"**
+ImaCrea: **"** lala **"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration.</p>
