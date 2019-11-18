@@ -27,7 +27,7 @@ track2_color: dreamy
 track3_color: bliss
 track4_color: vibrant
 track5_color: bliss
-track6_color: dreamy
+track6_color: bliss
 track7_color: dreamy
 ---
 <p id="introduction"> This morning, lalalala</p>
