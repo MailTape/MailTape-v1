@@ -7,7 +7,7 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: Daisy
 guest_name: Mischa Blanos
-guest_color: vibrant
+guest_color: bliss
 track1_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track1.mp3'
 track2_link: 'https://soundcloud.com/denovali/dictaphone-1054'
 track3_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track3.mp3'
