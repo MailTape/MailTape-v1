@@ -50,17 +50,17 @@ Mischa Blanos: **"** No need for introduction for these two astounding artists w
 
 # MailTape's selection
 
-## Mischa Blanos - Hammock On The Roof
-ImaCrea: **"** lalala**"**
+## Mischa Blanos - Two Sugar Cubes
+ImaCrea: **"** Generosity, kindness, mindfulness, this what I hear when I listen to this track by Mischa Blanos. This composition starting with a simple pattern finds its way at its own pace, as if the music was the one leading, not the composer. **"**
 
 ## Floating Points - Falaise
-ImaCrea: **"** lalala **"**
-
-## Philip Glass - Vessels
-ImaCrea: **"** "lala**"**
+ImaCrea: **"** I hear the wind far away, coming in my direction. The waves crashing on the rocks, it's almost dark and suddenly a boat appears at distance. Balancing from one side to another, danger seems close and the high tide threatens to sink the crew. People play violins on the deck and the music emanating from the instruments like vapor seems to form a glowing cloud embracing the ship. **"**
 
 ## Fennesz - We Trigger the Sun
-ImaCrea: **"** lala **"**
+ImaCrea: **"** Close your eyes and let a landscape be drawn in your dreams. Where do all these mental images come from? **"**
+
+## Philip Glass - Vessels
+ImaCrea: **"** If you're always wanted to fly, now is the moment to try. This beautiful track is from the soundtrack of Koyaanisqatsi, a film by Godfrey Reggio. Released in 1982, this movie is one of the most shocking esthetic experience I had in the last month. It's an breath taking opera-movie documenting the evolution of mankind since the electric revolution.  **"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration.</p>
