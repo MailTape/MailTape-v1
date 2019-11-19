@@ -50,7 +50,7 @@ Mischa Blanos: **"** No need for introduction for these two astounding artists w
 
 # MailTape's selection
 
-## [Mischa Blanos]((https://infine-rec.bandcamp.com/album/indoors)) - Two Sugar Cubes
+## [Mischa Blanos](https://infine-rec.bandcamp.com/album/indoors) - Two Sugar Cubes
 ImaCrea: **"** Generosity, kindness, mindfulness, this what I hear when I listen to this track by Mischa Blanos. This composition starting with a simple pattern finds its way at its own pace, as if the music was the one leading, not the composer. **"**
 
 ## [Floating Points](https://floatingpoints.bandcamp.com/album/crush) - Falaise
@@ -63,4 +63,4 @@ ImaCrea: **"** Close your eyes and let a landscape be drawn in your dreams. Wher
 ImaCrea: **"** If you've always wanted to fly, now is the moment to try. This beautiful track is from the soundtrack of [Koyaanisqatsi](https://en.wikipedia.org/wiki/Koyaanisqatsi), a film by [Godfrey Reggio](https://en.wikipedia.org/wiki/Godfrey_Reggio). Released in 1982, this movie is one of the first using timelapse. The photography directed by [Ron Fricke](https://en.wikipedia.org/wiki/Ron_Fricke) is astounding. It's been one of the most shocking esthetic experience I had in the last month. It's a breath taking opera-movie documenting the evolution of mankind since the electric revolution. It didn't age a bit and constitute a masterpiece not to miss for anyone looking to get some perspective on our all-technological life we live in now. **"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! As always thank you so much for listening. Without you, there's no MailTape. Much love and respect to [Mischa Blanos](https://mischablanos.com/) for his Sunday selections, and to Pierre-Julien Fieux for his inspiring illustration.</p>
