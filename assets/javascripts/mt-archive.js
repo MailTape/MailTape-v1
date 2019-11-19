@@ -1,6 +1,28 @@
 $(document).ready(
 	function() {
 
+		// touchscreen detection. Rollover preview panel should be disabled for these devices.
+		var hasTouchScreen = false;
+		if ("maxTouchPoints" in navigator) { 
+		    hasTouchScreen = navigator.maxTouchPoints > 0;
+		} else if ("msMaxTouchPoints" in navigator) {
+		    hasTouchScreen = navigator.msMaxTouchPoints > 0; 
+		} else {
+		    var mQ = window.matchMedia && matchMedia("(pointer:coarse)");
+		    if (mQ && mQ.media === "(pointer:coarse)") {
+		        hasTouchScreen = !!mQ.matches;
+		    } else if ('orientation' in window) {
+		        hasTouchScreen = true; // deprecated, but good fallback
+		    } else {
+		        // Only as a last resort, fall back to user agent sniffing
+		        var UA = navigator.userAgent;
+		        hasTouchScreen = (
+		            /\b(BlackBerry|webOS|iPhone|IEMobile)\b/i.test(UA) ||
+		            /\b(Android|Windows Phone|iPad|iPod)\b/i.test(UA)
+		        );
+		    }
+		}
+
 		var hoverTimer;
 		var notHoverTimer;
 		var positionArchivePreview = $('#archivePreview').offset().top;
@@ -53,56 +75,58 @@ $(document).ready(
 
 		} 
 
-		// liaison de l'action scroll au module de gestion d'affiche de la zone de preview 
-		$(window).on("scroll",function() {
-			y = $(window).scrollTop();
-			setTimeout(function(){
-				ArPrevController("scrolled");
-			},700) //on laisse le même délai que pour le mouseleave
-		});
+		if (!hasTouchScreen) {
+			// liaison de l'action scroll au module de gestion d'affiche de la zone de preview 
+			$(window).on("scroll",function() {
+				y = $(window).scrollTop();
+				setTimeout(function(){
+					ArPrevController("scrolled");
+				},700) //on laisse le même délai que pour le mouseleave
+			});
 
-		// module de gestion des infos dans le panneau de preview
-		$( ".ar-div" ).on({
-			mouseenter: function() {
+			// module de gestion des infos dans le panneau de preview
+			$( ".ar-div" ).on({
+				mouseenter: function() {
 
-				// remplissage des infos de la zone de preview en récupérant les attributs des liens
-				var $this=$(this);
-				clearTimeout(notHoverTimer);
+					// remplissage des infos de la zone de preview en récupérant les attributs des liens
+					var $this=$(this);
+					clearTimeout(notHoverTimer);
 
-				hoverTimer=setTimeout(function(){
+					hoverTimer=setTimeout(function(){
 
-					// chargement des infos titre episode, référence et playlist
-					$("#archivePreview").find("h1").text($this.find("a").attr("data-preview-h1"));
-					$("#archivePreview").find("h2").text($this.find("a").attr("data-preview-h2"));
-					$("#previewPostTracks li").each(function(i){
-						$(this).text($this.find("a").attr("data-preview-tracks"+(i+1)+"_title"));
-						$(this).attr("class",$this.find("a").attr("data-preview-tracks"+(i+1)+"_color"))
-					})
+						// chargement des infos titre episode, référence et playlist
+						$("#archivePreview").find("h1").text($this.find("a").attr("data-preview-h1"));
+						$("#archivePreview").find("h2").text($this.find("a").attr("data-preview-h2"));
+						$("#previewPostTracks li").each(function(i){
+							$(this).text($this.find("a").attr("data-preview-tracks"+(i+1)+"_title"));
+							$(this).attr("class",$this.find("a").attr("data-preview-tracks"+(i+1)+"_color"))
+						})
 
-					// chargement de la guestPic quand elle est chargé
-					var img = new Image();
-					img.src = $this.find("a").attr("data-preview-guestPic");
-					img.onload = function() { $("#archivePreview").find("img").attr("src",img.src); }
-					setTimeout (function(){
-						if ($("#archivePreview").find("img").attr("src")!=img.src)
-							{ $("#archivePreview").find("img").attr("src",""); }
-					},150)
+						// chargement de la guestPic quand elle est chargé
+						var img = new Image();
+						img.src = $this.find("a").attr("data-preview-guestPic");
+						img.onload = function() { $("#archivePreview").find("img").attr("src",img.src); }
+						setTimeout (function(){
+							if ($("#archivePreview").find("img").attr("src")!=img.src)
+								{ $("#archivePreview").find("img").attr("src",""); }
+						},150)
 
-					// déclenche l'affiche de la preview
-					ArPrevController("mouseenter");
+						// déclenche l'affiche de la preview
+						ArPrevController("mouseenter");
 
-				},150); //timeout helps prevent flickering of all the stuff when mouse navigate over the area. 
+					},150); //timeout helps prevent flickering of all the stuff when mouse navigate over the area. 
 
-			}, 
+				}, 
 
-			mouseleave: function() {
-				//console.log("div out");
-				clearTimeout(hoverTimer);
-				notHoverTimer=setTimeout(function(){
-					ArPrevController("mouseleave");
-				},700);
-			}
-		})
+				mouseleave: function() {
+					//console.log("div out");
+					clearTimeout(hoverTimer);
+					notHoverTimer=setTimeout(function(){
+						ArPrevController("mouseleave");
+					},700);
+				}
+			})
+		}
 
 		// this cuty scroll to top button :)
 		var clikedOnCuty=0

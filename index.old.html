@@ -1,0 +1,31 @@
+---
+---
+
+{% for post in site.posts %}
+{% if site.time > post.date %}
+
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>MailTape {{ post.category }} - {{ post.guest_name }}</title>
+
+    <meta property="og:title" content="MailTape {{ post.category }} - {{ post.guest_name }}" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="{{ post.episode_URL }}" />
+    <meta property="og:image" content="http://mailta.pe/img/{{ post.fbPic }}" />
+    <meta property="og:description" content="{{ post.description }}" />
+    <meta property="fb:admins" content="maximeguedj,ludovic.coutant" />
+    <meta property="fb:app_id" content="185828848128617" />
+
+    <script type="text/javascript">
+    document.location = "{{ post.url }}";
+    </script>
+  
+</head>
+
+</html>
+
+{% break %}
+{% endif %}
+{% endfor %}
