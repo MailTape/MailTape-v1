@@ -38,29 +38,29 @@ lalalalalalalala
 # Mischa Blanos' selection
 
 
-## Toshio Matsuura Group - Change
+## [Toshio Matsuura Group](https://toshiomatsuuragroup.bandcamp.com/) - Change
 Mischa Blanos: **"** For me is like waking up to reality from a dream that didn't finish, making my way through the day with heavy steps. The amazing intervention and continuation of the brass section is the melancholy state which convey that our role in life is to wake up and afterwards getting back to our deepest sleep. The drums, the bass and the synthesisers are the tip of the iceberg. They made a really beautiful version after the original track composed by Bugge Wesseltoft. **"**
 
-## Dictaphone - 105.4
+## [Dictaphone](https://dictaphonemusic.bandcamp.com/album/apr-70) - 105.4
 Mischa Blanos: **"** This original sound of mixing acoustic and electronic gives me a strong belief that music is evolving so much that we are still empowered to change the world the way we want it to be. As you can see the Ostinato (repetition) give us a strong meaning of meditation through music, something that we comprehend this but don't realised it.**"**
 
-## Mehliana (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
+## [Mehliana](https://store.nonesuch.com/mehliana-taming-the-dragon-digital-album-flac.html) (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
 Mischa Blanos: **"** No need for introduction for these two astounding artists who are playing by their own rules - that being said, new rhythm, harmonies and forms are born worldwide inspiring other artists to be off limits. Without this way of thinking, I have no idea if we can survive on a daily basis in terms of emotions. **"**
 
 
 # MailTape's selection
 
-## Mischa Blanos - Two Sugar Cubes
+## [Mischa Blanos]((https://infine-rec.bandcamp.com/album/indoors)) - Two Sugar Cubes
 ImaCrea: **"** Generosity, kindness, mindfulness, this what I hear when I listen to this track by Mischa Blanos. This composition starting with a simple pattern finds its way at its own pace, as if the music was the one leading, not the composer. **"**
 
-## Floating Points - Falaise
+## [Floating Points](https://floatingpoints.bandcamp.com/album/crush) - Falaise
 ImaCrea: **"** I hear the wind far away, coming in my direction. The waves crashing on the rocks, it's almost dark and suddenly a boat appears at distance. Balancing from one side to another, danger seems close and the high tide threatens to sink the crew. People play violins on the deck and the music emanating from the instruments like vapor seems to form a glowing cloud embracing the ship. **"**
 
-## Fennesz - We Trigger the Sun
+## [Fennesz](https://fenneszreleases.bandcamp.com/album/agora) - We Trigger the Sun
 ImaCrea: **"** Close your eyes and let a landscape be drawn in your dreams. Where do all these mental images come from? **"**
 
-## Philip Glass - Vessels
-ImaCrea: **"** If you're always wanted to fly, now is the moment to try. This beautiful track is from the soundtrack of Koyaanisqatsi, a film by Godfrey Reggio. Released in 1982, this movie is one of the most shocking esthetic experience I had in the last month. It's an breath taking opera-movie documenting the evolution of mankind since the electric revolution.  **"**
+## [Philip Glass - Vessels](https://philipglass.com/recordings/Koyaanisqatsi-09/)
+ImaCrea: **"** If you've always wanted to fly, now is the moment to try. This beautiful track is from the soundtrack of [Koyaanisqatsi](https://en.wikipedia.org/wiki/Koyaanisqatsi), a film by [Godfrey Reggio](https://en.wikipedia.org/wiki/Godfrey_Reggio). Released in 1982, this movie is one of the first using timelapse. The photography directed by [Ron Fricke](https://en.wikipedia.org/wiki/Ron_Fricke) is astounding. It's been one of the most shocking esthetic experience I had in the last month. It's a breath taking opera-movie documenting the evolution of mankind since the electric revolution. It didn't age a bit and constitute a masterpiece not to miss for anyone looking to get some perspective on our all-technological life we live in now. **"**
 
 
 <p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to Tanguy from [Corte Real](https://www.facebook.com/corterealmusic/) for his Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for her brilliant illustration.</p>
