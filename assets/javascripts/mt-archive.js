@@ -41,7 +41,7 @@ $(document).ready(
 			if (element=="mouseenter") {
 
 				if (!arPrevEpisodeInfoVisible && y > positionArchivePreview) {
-					$("#archivePreview").addClass('not-top'); //si on affiche la zone est qu'on a déjà scrollé, on a ajoute l'ombre
+					$("#archivePreview").addClass('not-top'); //si on affiche la zone et qu'on a déjà scrollé, on a ajoute l'ombre
 				}
 
 				// cache la story pour laisser apparaitre les infos épisode

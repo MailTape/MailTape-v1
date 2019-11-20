@@ -107,29 +107,19 @@
 
         <div class="container newTopbar">
             <div class="d-flex align-content-center flex-wrap">
-                <div>
-                    <div id="preloadLogo">
-                        <img src="{{ site.baseurl }}/img/logo_MailTape.gif">
-                    </div>
-                    {% for post in site.posts %}
-                    {% if site.time > post.date %}
-
-                    <a id="logo" href="{{ post.url }}"></a>
-
-                    {% break %}
-                    {% endif %}
-                    {% endfor %}
-                
-                </div>
-                <div class="pt-2 pl-2">
-                    <h1>Welcome to MailTape</h1>
-                    <h2>A place for music lovers by music lovers</h2>
-                </div>
-                <div class="ml-auto menu pt-3">
+                <div class="ml-auto w-100 pt-2 menu pt-md-3">
                     <a data-toggle="modal" href="#topLearnMoreModal">Follow</a>
                     <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" target="_blank">Donate</a>
                     <a href="mailto:crew@mailta.pe">Contact</a>
                 </div>
+                <div class="pt-3">
+                    <img src="{{ site.baseurl }}/img/logo_MailTape_static.png" style="height:3rem;">              
+                </div>
+                <div class="pt-3">
+                    <h1>Welcome to MailTape</h1>
+                    <h2>A place for music lovers by music lovers</h2>
+                </div>
+
             </div>
         </div>
 
@@ -181,7 +171,7 @@
                 {% endif %}
             {% endfor %}
 
-            <div id="archiveLinks" class="d-flex align-content-start flex-wrap"> 
+            <div id="archiveLinks" class="d-flex flex-row justify-content-md-between flex-wrap"> 
         <!-- {% capture siteTime %}{{ site.time | date: '%s' }}{% endcapture %}
                 {% capture y2019 %}{{ "2019-01-01" | date: '%s' }}{% endcapture %} -->
 
