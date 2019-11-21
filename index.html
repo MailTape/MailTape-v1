@@ -6,12 +6,12 @@
 <html>
 
     <head>
-        <title>MailTape {{ page.category }} - {{ page.guest_name }}</title>
+        <title>Welcome to MailTape - A place for music lovers by music lovers</title>
         <meta property="og:title" content="Welcome to MailTape" />
         <meta property="og:type" content="article" />
         <meta property="og:url" content="https://www.mailta.pe/" />
-        <meta property="og:image" content="TODO" />
-        <meta property="og:description" content="Find here all MailTape archives" />
+        <meta property="og:image" content="https://www.mailta.pe/img/logo_MailTape_static.png" />
+        <meta property="og:description" content="Every Sunday morning, we release a music selection curated with a guest. MailTape is an Art project started in 2011." />
      
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -43,7 +43,7 @@
         <script>
             WebFont.load({
               google: {
-                families: ['Roboto:300,500','Arima+Madurai:300']
+                families: ['Roboto:300,500','Arima+Madurai:300','Caveat:400']
               },
               custom: {
                 families: ['superspitze_groteskregular', 'icomoon'],
@@ -67,7 +67,7 @@
         <script src="/assets/javascripts/hello.js"></script>
         <script src="/assets/javascripts/mt-footer.js"></script>
         <script src="/assets/javascripts/mt-mailSub.js"></script>
-        <script src="/assets/javascripts/mt-archive.js"></script>
+        <script src="/assets/javascripts/mt-index.js"></script>
 
        <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
         <script type="text/javascript">
@@ -92,7 +92,7 @@
         
         <!-- CSS and styling components -->    
         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
-        <link rel="stylesheet" type="text/css" href="/assets/stylesheets/archives.css">
+        <link rel="stylesheet" type="text/css" href="/assets/stylesheets/index.css">
 
 
 
@@ -127,7 +127,7 @@
 
             {% for post in site.posts %}
                 {% if site.time > post.date %}
-                    <div id="archivePreview" class="mb-md-2 getRelative">
+                    <div id="archivePreview" class="mb-md-4 getRelative">
                         <div id="introStory" class="p-md-2">
                             <p>
                                 Every Sunday morning, we release a music selection curated with a guest.<br>
@@ -212,7 +212,6 @@
                             </form><br>
                             ✋ We respect your privacy and will never share or sell your data.
                         </p>
-
                     </div>
 
                 </div>
