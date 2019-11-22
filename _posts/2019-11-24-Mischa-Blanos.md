@@ -37,7 +37,7 @@ This beguiling selection inhabits that mysterious and intangible space somewhere
 
 Whenever and however you choose to emerge, Mischa has a uniquely perfect infusion of electronic and classical waiting for you - a visceral oscillation of gentle tension and catharsis, of genre and of emotion.
 
-If you can, experience Mischa performing his new EP ‘Indoors’ at the Sunset Jazz Club in Paris this Thursday.</p>
+If you can, experience Mischa performing his new EP ‘Indoors’ at the [Sunset Jazz Club in Paris this Thursday](https://www.sunset-sunside.com/2019/11/artiste/3590/6572/).</p>
 
 
 # Mischa Blanos' selection
