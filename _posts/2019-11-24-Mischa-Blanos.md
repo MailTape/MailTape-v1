@@ -31,9 +31,13 @@ track6_color: dreamy
 track7_color: bliss
 guestPic: guestPic381.jpg
 ---
-<p id="introduction"> This morning, lalalala</p>
+<p id="introduction">This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer Mischa Blanos is here to be your weightless anchor between states and realities.
 
-lalalalalalalala
+This beguiling selection inhabits that mysterious and intangible space somewhere behind your eyelids, where dancing, nameless shapes form and escape into morning mists. The skies too are breathing heavily now, waiting on reluctant sunrises and the shadow hands of clocks as they load, pixel by pixel, into focus. With closed eyes we can grasp at those final moments before the translucent becomes concrete, each defining our own balance point from which to fall upwards, sideways or back into sleep.
+
+Whenever and however you choose to emerge, Mischa has a uniquely perfect infusion of electronic and classical waiting for you - a visceral oscillation of gentle tension and catharsis, of genre and of emotion.
+
+If you can, experience Mischa performing his new EP ‘Indoors’ at the Sunset Jazz Club in Paris this Thursday.</p>
 
 
 # Mischa Blanos' selection
