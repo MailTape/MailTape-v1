@@ -29,6 +29,7 @@ track4_color: vibrant
 track5_color: bliss
 track6_color: dreamy
 track7_color: bliss
+guestPic: guestPic381.jpg
 ---
 <p id="introduction"> This morning, lalalala</p>
 
