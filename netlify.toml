@@ -1,2 +1,2 @@
 [[headers]]
-	Access-Control-Allow-Origin: https://prose.io
+	Access-Control-Allow-Origin = "https://prose.io"
