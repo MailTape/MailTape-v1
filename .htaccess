@@ -15,4 +15,3 @@ ExpiresByType image/x-icon "access 1 year"
 ExpiresDefault "access 1 month"
 </IfModule>
 # End caching block
-Header set Access-Control-Allow-Origin "https://prose.io"
