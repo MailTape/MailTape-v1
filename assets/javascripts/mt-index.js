@@ -75,6 +75,8 @@ $(document).ready(
 
 		} 
 
+		// binding scroll et mousenter mouseleave sur les liens d'archives pour lancer le module de preview
+		// fonctionne seulement sur les desktop puisque les interface tactiles ne permettent pas le rollover
 		if (!hasTouchScreen) {
 			// liaison de l'action scroll au module de gestion d'affiche de la zone de preview 
 			$(window).on("scroll",function() {
