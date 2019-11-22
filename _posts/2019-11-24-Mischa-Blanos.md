@@ -31,7 +31,7 @@ track6_color: dreamy
 track7_color: bliss
 guestPic: guestPic381.jpg
 ---
-<p id="introduction">This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer Mischa Blanos is here to be your weightless anchor between states and realities.
+<p id="introduction">This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.
 
 This beguiling selection inhabits that mysterious and intangible space somewhere behind your eyelids, where dancing, nameless shapes form and escape into morning mists. The skies too are breathing heavily now, waiting on reluctant sunrises and the shadow hands of clocks as they load, pixel by pixel, into focus. With closed eyes we can grasp at those final moments before the translucent becomes concrete, each defining our own balance point from which to fall upwards, sideways or back into sleep.
 
