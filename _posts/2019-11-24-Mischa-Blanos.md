@@ -7,7 +7,7 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 writer: Daisy
 guest_name: Mischa Blanos
-guest_color: bliss
+guest_color: dreamy
 track1_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track1.mp3'
 track2_link: 'https://soundcloud.com/denovali/dictaphone-1054'
 track3_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/381/track3.mp3'
@@ -25,7 +25,7 @@ track6_title: Fennesz - We Trigger the Sun
 track1_color: vibrant
 track2_color: dreamy
 track3_color: bliss
-track4_color: vibrant
+track4_color: dreamy
 track5_color: bliss
 track6_color: dreamy
 track7_color: bliss
