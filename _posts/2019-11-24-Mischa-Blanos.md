@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '381'
 author: ImaCrea
 illustrator: Pierre-Julien Fieux
@@ -30,6 +30,11 @@ track5_color: bliss
 track6_color: dreamy
 track7_color: bliss
 guestPic: guestPic381.jpg
+description: >-
+  This morning there's no rush to decide which side of consciousness you're on.
+  Pianist, composer and producer Mischa Blanos is here to be your weightless
+  anchor between states and realities.
+episode_URL: 'https://mailta.pe/381/mischa-blanos/'
 ---
 <p id="introduction">This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.
 
