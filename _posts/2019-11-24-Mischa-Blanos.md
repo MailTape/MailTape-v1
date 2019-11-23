@@ -35,14 +35,16 @@ description: >-
   Pianist, composer and producer Mischa Blanos is here to be your weightless
   anchor between states and realities.
 episode_URL: 'https://mailta.pe/381/mischa-blanos/'
+image: 'https://mailta.pe/img/fbPic381.png'
+musiColor: musiColor381.png
 ---
 <p id="introduction">This morning there's no rush to decide which side of consciousness you're on. Pianist, composer and producer [Mischa Blanos](https://mischablanos.com/) is here to be your weightless anchor between states and realities.
-
-This beguiling selection inhabits that mysterious and intangible space somewhere behind your eyelids, where dancing, nameless shapes form and escape into morning mists. The skies too are breathing heavily now, waiting on reluctant sunrises and the shadow hands of clocks as they load, pixel by pixel, into focus. With closed eyes we can grasp at those final moments before the translucent becomes concrete, each defining our own balance point from which to fall upwards, sideways or back into sleep.
-
-Whenever and however you choose to emerge, Mischa has a uniquely perfect infusion of electronic and classical waiting for you - a visceral oscillation of gentle tension and catharsis, of genre and of emotion.
-
-If you can, experience Mischa performing his new EP ‘Indoors’ at the [Sunset Jazz Club in Paris this Thursday](https://www.sunset-sunside.com/2019/11/artiste/3590/6572/).</p>
+  
+  This beguiling selection inhabits that mysterious and intangible space somewhere behind your eyelids, where dancing, nameless shapes form and escape into morning mists. The skies too are breathing heavily now, waiting on reluctant sunrises and the shadow hands of clocks as they load, pixel by pixel, into focus. With closed eyes we can grasp at those final moments before the translucent becomes concrete, each defining our own balance point from which to fall upwards, sideways or back into sleep.
+  
+  Whenever and however you choose to emerge, Mischa has a uniquely perfect infusion of electronic and classical waiting for you - a visceral oscillation of gentle tension and catharsis, of genre and of emotion.
+  
+  If you can, experience Mischa performing his new EP ‘Indoors’ at the [Sunset Jazz Club in Paris this Thursday](https://www.sunset-sunside.com/2019/11/artiste/3590/6572/).</p>
 
 
 # Mischa Blanos' selection
