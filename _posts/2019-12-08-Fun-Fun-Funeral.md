@@ -20,6 +20,14 @@ track3_title: Rocky Lorelei - Lily
 track3_color: dreamy
 track4_color: trippy
 track4_title: 'Fun Fun Funeral - Elba Sea '
+track6_link: 'https://soundcloud.com/atelierciseaux/promise-keeper-backfired'
+track5_link: 'https://soundcloud.com/eeramusic/christine'
+track5_title: Eera - Christine
+track5_color: dreamy
+track6_title: Promise Keepers - Backfired
+track6_color: vibrant
+episode_URL: 'http://mailta.pe/383/fun-fun-funeral'
+musiColor: musiColor383;png
 ---
 <p id="introduction">This morning 
 <br><br>
