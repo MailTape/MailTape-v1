@@ -43,13 +43,13 @@ Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will b
 # Shida Shahabi's selection
 
 ## Hejira – Joyful Mind
-_Fran & Flora_: **"**[Mayumi Miyata](https://en.wikipedia.org/wiki/Mayumi_Miyata)’s way of playing the Shō is magical and has been something I’ve listened to at home for quite a while now, such a lovely sound world to be in.**"**
+_Fran & Flora_: **"**This mantra-like tune reconnects me with the knowledge that it's the journey which is important not the destination; that it is how we conduct ourselves in each moment that counts, and not necessarily our goals. This song reminds me how we can actually create joy, and of the importance of looking after our mental health. But it's not just the message of the song that lifts and strengthens me, the whole spirit of the song fills me with happiness, and make my body and soul dance!**"**
 
 ## JS Bach – Sarabande for solo cello in D major from Suite no.6 BWV 1012 (Mike Block)
-_Fran & Flora_: **"**I have also been spinning [Lamine Konté](https://www.discogs.com/artist/1060813-Lamine-Kont%C3%A9)’s 'La Kora Du Sénégal' a lot recently at home. I love the sound texture, harmonies and the percussive qualities of the Cora.**"**
+_Fran & Flora_: **"**This track is meditative, introverted, emotional, enigmatic, contemplative and fiendishly hard to play. The trick is to make it sound easy. The rhythm is in a lilting 3/4 with an emphasis on the 2nd beat. Apparently the rhythm comes from a Moorish women's dance, but it has its roots in many sources. The chord progression is like that of a modern singer-songwriter ballad, but it was written in the early 1700’s. Everyone knows Bach invented the modern notion of Western harmony in all its wonders and complexities. I like to listen to this piece as it takes me on a different journey every time. Mike Block is an amazing cellist and teacher from Boston, MA. His CD 'Echos of Bach’ is full of stunning solo performances but this is my favourite.**"**
 
 ## Abdul Wadud – Camille
-_Fran & Flora_: **"**[Lotic](https://soundcloud.com/lotic)’s Power is one of my favourite releases from last year. I love the production and mix, super excited to see what comes next from them.**"**
+_Fran & Flora_: **"**Why do I like this? Well, no one plays like Abdul - he could improvise like no-one else and plays the shit out of the Cello. Abdul was mostly performing with different jazz outfits and solo in Chicago in the 80’s. He was doing things with the cello no-one else got close to. His style encompasses so many different influences and instruments which you can hear in his improvisations. Every time I listen to this album I hear something different, and it always makes me laugh because his playing is so cheeky and goes wherever it wants to go. No expectations or prerequisites. The heart of improvisation!**"**
 
 
 # MailTape's selection
