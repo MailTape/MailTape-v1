@@ -33,7 +33,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/382/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/382/track7.mp3'
 episode_URL: 'http://mailta.pe/382/fran-and-flora/'
 ---
-<p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
+<p id="introduction">This morning we welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg (cello) and Flora Curzon (violin), to select some Sunday morning tunes with us on MailTape.
 <br><br>
 Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shahabi's debut album—Homes—released almost a year ago delves deep into explorations of intimate piano tones. Living comfortably with traces of wear and decay its production eschews the prioritising of fussy cleanliness. A warm and fuzzy noise floor audible from the very first track immediately immerses the listener into this quieter brand of assurance and imperfection—as though the whole existed beneath a layer of dust.
 <br><br>
