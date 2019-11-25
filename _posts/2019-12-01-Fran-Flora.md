@@ -26,6 +26,12 @@ track6_title: Missy Mazzoli – Vespers for Violin
 track6_color: bliss
 track7_title: Soumik Datta – Jangal
 track7_color: trippy
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/382/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/382/track3.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/382/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/382/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/382/track7.mp3'
+episode_URL: 'https://mailta.pe/382/fran-and-flora/'
 ---
 <p id="introduction">This morning we welcome the intimate and homespun piano of Stockholm-based pianist and composer, [Shida Shahabi](https://shida-shahabi.bandcamp.com/).
 <br><br>
