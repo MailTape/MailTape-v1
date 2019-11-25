@@ -26,16 +26,16 @@ track2_link: 'https://soundcloud.com/greco-roman/tirzah-no-romance'
 ## Helvetia – Kris
 _Fun Fun Funeral_: **"**We recently discovered this song through our friend, Allan, who was driving us on tour in the UK. The whole album is great and the sound of the recording is really special.This one was often on repeat; the way it evolves from a fairly dark, melancholic song into a harmonious frenzy kept us going back to it.**"**
 
-##  – 
-_Fun Fun Funeral_: **"** **"**
+## Tirzah – No Romance
+_Fun Fun Funeral_: **"**The voice of Tirzah along with Mica Levi's production go so well together. This is such a hypnotic little ditty, with 'no romance' being repeated over and over, and a really fun beat to go with it.**"**
 
-##  – 
-_Fun Fun Funeral_: **"** **"**
+## Rocky Lorelei – Lily
+_Fun Fun Funeral_: **"**Rocky is a very special artist who creates wonderful lo-fi recordings of songs that are filled with imagination and sincerity.I like how she used rhythmic breathing in this song as a kind of drum beat, it feels really organic. The positivity in these lyrics make it a perfect song to start the day with.**"**
 
 
 # MailTape's selection
 
-## Fun Fun Funeral – 
+## Fun Fun Funeral – Elba Sea
 _Anaïs G_: **"** **"**
 
 ##  – 
