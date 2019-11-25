@@ -42,10 +42,10 @@ _Fun Fun Funeral_: **"**Rocky is a very special artist who creates wonderful lo-
 ## Fun Fun Funeral – Elba Sea
 _Anaïs G_: **"** **"**
 
-##  – 
+## Eera – Christine
 _Anaïs G_: **"** **"**
 
-##  – 
+## Promise Keepers – Backfired
 _Anaïs G_: **"** **"**
 
 ##  – 
