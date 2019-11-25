@@ -37,7 +37,7 @@ episode_URL: 'http://mailta.pe/382/fran-and-flora/'
 <br><br>
 Well known in London's experimental folk and jazz scenes, Fran and Flora acknowledge a wide range of musical influences, from Bach to Alice Coltrane by way of Shostakovitch.
 <br><br>
-Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will be released on 8th November.
+Their debut album, [Unfurl](https://www.franandflora.com/unfurl.html), was released earlier this year and they will be [on tour](https://www.franandflora.com/live.html) throughout the UK until mid-December.
 </p>
 
 # Fran & Flora's selection
