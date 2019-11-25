@@ -2,6 +2,20 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+illustrator: Camille Célestin
+writer: Anaïs G
+category: '383'
+guest_name: Fun Fun Funeral
+guest_color: dreamy
+guestPic: guestPic383.jpg
+track4_link: >-
+  https://soundcloud.com/octobertone/elba-sea?in=octobertone/sets/fun-fun-funeral-everything-is
+track1_link: 'https://soundcloud.com/helvetiaofficial/kris'
+track1_title: 'Helvetia - Kris '
+track1_color: dreamy
+track2_title: 'Tirzah - No Romance '
+track2_color: vibrant
+track2_link: 'https://soundcloud.com/greco-roman/tirzah-no-romance'
 ---
 <p id="introduction">This morning 
 <br><br>
