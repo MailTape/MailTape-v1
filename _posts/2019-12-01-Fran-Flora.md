@@ -18,7 +18,7 @@ track2_title: >-
 track2_color: dreamy
 track3_title: Abdul Wadud – Camille
 track3_color: bliss
-track4_title: Fran & Flora – Jurjuna For Leyli
+track4_title: Fran & Flora – Jurjuna for Leyli
 track4_color: dreamy
 track5_title: William Parker – For Don Cherry
 track5_color: trippy
