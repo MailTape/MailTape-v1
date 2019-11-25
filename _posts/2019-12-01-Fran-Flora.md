@@ -40,7 +40,7 @@ Mainly featuring an old Swedish upright piano as its sole instrument, Shida Shah
 Her second LP, [Shifts](https://shida-shahabi.bandcamp.com/album/shifts), will be released on 8th November.
 </p>
 
-# Shida Shahabi's selection
+# Fran & Flora's selection
 
 ## Hejira – Joyful Mind
 _Fran & Flora_: **"**This mantra-like tune reconnects me with the knowledge that it's the journey which is important not the destination; that it is how we conduct ourselves in each moment that counts, and not necessarily our goals. This song reminds me how we can actually create joy, and of the importance of looking after our mental health. But it's not just the message of the song that lifts and strengthens me, the whole spirit of the song fills me with happiness, and make my body and soul dance!**"**
