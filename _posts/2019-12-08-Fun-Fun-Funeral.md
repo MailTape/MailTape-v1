@@ -16,6 +16,10 @@ track1_color: dreamy
 track2_title: 'Tirzah - No Romance '
 track2_color: vibrant
 track2_link: 'https://soundcloud.com/greco-roman/tirzah-no-romance'
+track3_title: Rocky Lorelei - Lily
+track3_color: dreamy
+track4_color: trippy
+track4_title: 'Fun Fun Funeral - Elba Sea '
 ---
 <p id="introduction">This morning 
 <br><br>
