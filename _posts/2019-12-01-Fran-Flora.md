@@ -57,7 +57,7 @@ _Fran & Flora_: **"**Why do I like this? Well, no one plays like Abdul - he coul
 
 # MailTape's selection
 
-## Fran & Flora – Jurjuna For Leyli
+## Fran & Flora – Jurjuna for Leyli
 _Sanjay_: **"**I first heard Shida Shahabi's music when previous MailTape guest, [Adrian of Glockenspiel](https://www.mailta.pe/342/glockenspiel/), chose one of her tracks in his selection. This track was the first I heard after that episode and it perfectly symbolises for me the sparse and intimate sonic explorations of her music. It has an intricate pattern looped and gently built upon with no sense of rush or obligation.**"**
 
 ## William Parker – For Don Cherry
