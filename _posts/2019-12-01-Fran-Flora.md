@@ -22,14 +22,14 @@ track4_title: Fran & Flora – Jurjuna for Leyli
 track4_color: dreamy
 track5_title: William Parker – For Don Cherry
 track5_color: trippy
-track6_title: Missy Mazzoli – Vespers for Violin
+track6_title: Tomeka Reid Quartet – The Lone Wait
 track6_color: bliss
 track7_title: Soumik Datta – Jangal
 track7_color: trippy
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/382/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/382/track3.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/382/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/382/track6.mp3'
+track6_link: 'https://soundcloud.com/tomekareid-music/the-lone-wait'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/382/track7.mp3'
 episode_URL: 'http://mailta.pe/382/fran-and-flora/'
 guestPic: guestPic382.jpg
@@ -63,7 +63,7 @@ _Sanjay_: **"**I first heard Shida Shahabi's music when previous MailTape guest,
 ## William Parker – For Don Cherry
 _Sanjay_: **"**A label mate of our guest this morning, [Emilie Levienaise-Farrouch](http://emilielf.com/) elegantly weaves various nuances and textures, from classical to electronica, through her material. Like Shida, Emilie rarely relies on frills and tassels and the spacey, moody, pitch of this track exhibits her deft ability with cinematic sweeps of sound.**"**
 
-## Missy Mazzoli – Vespers for Violin
+## Tomeka Reid Quartet – The Lone Wait
 _Sanjay_: **"**Dreamy synths introduce 'Tulsi', a traditional herb of Ayurveda and Siddha medicine that is also used in the worship of Hindu gods Vishnu, Krishna, and Rama. Paired with swooning strings, the presence of arpeggiated sequences raise a vibrating wall of hallucinatory sound at the end of this track. A fine album from [Jatinder Singh Durhailay & David Edren](https://www.bonjoursupermarket.com/product/tape-tea-notes-jatinder-singh-durhailay-david-edren), who musically limn the effect of various teas through a mix of South Asian classical music and new age electronics.**"**
 
 ## Soumik Datta – Jangal
