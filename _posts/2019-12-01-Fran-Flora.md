@@ -70,6 +70,6 @@ _Sanjay_: **"**Dreamy synths introduce 'Tulsi', a traditional herb of Ayurveda a
 _Sanjay_: **"**Taking [Vanessa Wagner](https://vanessawagner.net/)’s originals from the 50th InFiné release, [Inland](https://soundcloud.com/infine-music/sets/vanessa-wagner-inland-versions), this is the GAS (aka [Wolfgang Voigt](https://soundcloud.com/wolfgang_voigt)) rework for Vanessa´s piano solo interpretation of [Wim Mertens](https://www.wimmertens.be/)'s 'Struggle for Pleasure'. A suitably introspective stroll for a Sunday morning...**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fran and Flora](https://www.franandflora.com/) for their Sunday selections, and to one of our newest illustrators [Julie Wojtczak](https://dribbble.com/Julie_wo) for her brilliant illustration!
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fran and Flora](https://www.franandflora.com/) for their Sunday selections, and to one of our newest illustrators [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration!
 
 And if you're eligible to vote in the UK on 12 December, [there is really only one option](https://labour.org.uk/manifesto/).</p>
