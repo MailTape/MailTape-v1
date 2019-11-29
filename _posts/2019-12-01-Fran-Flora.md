@@ -62,10 +62,10 @@ _Fran & Flora_: **"**Why do I like this? Well, no one plays like Abdul - he coul
 # MailTape's selection
 
 ## Fran & Flora – Jurjuna for Leyli
-_Sanjay_: **"**I first heard Shida Shahabi's music when previous MailTape guest, [Adrian of Glockenspiel](https://www.mailta.pe/342/glockenspiel/), chose one of her tracks in his selection. This track was the first I heard after that episode and it perfectly symbolises for me the sparse and intimate sonic explorations of her music. It has an intricate pattern looped and gently built upon with no sense of rush or obligation.**"**
+_Sanjay_: **"**Recorded at The Vortex for the LIAF festival.**"**
 
 ## William Parker – For Don Cherry
-_Sanjay_: **"**A label mate of our guest this morning, [Emilie Levienaise-Farrouch](http://emilielf.com/) elegantly weaves various nuances and textures, from classical to electronica, through her material. Like Shida, Emilie rarely relies on frills and tassels and the spacey, moody, pitch of this track exhibits her deft ability with cinematic sweeps of sound.**"**
+_Sanjay_: **"**William Parker started his musical career in early 70s playing with Don Cherry and Cecil Taylor among many others. In this dedication to Don Cherry, he plays one of the late trumpeter's side instruments, the dousn'gouni, an African guitar, accompanied by his vocalising over the top. Recorded at Somewhere There in Toronto, this track, alongside 'For Ella Parker', act as effective leavening agents to the uncompromising intensity and energy of the 50-minute title track, 'Cathedral Wisdom Light'—perfectly expressed by the artwork of the album.**"**
 
 ## Tomeka Reid Quartet – The Lone Wait
 _Sanjay_: **"**Dreamy synths introduce 'Tulsi', a traditional herb of Ayurveda and Siddha medicine that is also used in the worship of Hindu gods Vishnu, Krishna, and Rama. Paired with swooning strings, the presence of arpeggiated sequences raise a vibrating wall of hallucinatory sound at the end of this track. A fine album from [Jatinder Singh Durhailay & David Edren](https://www.bonjoursupermarket.com/product/tape-tea-notes-jatinder-singh-durhailay-david-edren), who musically limn the effect of various teas through a mix of South Asian classical music and new age electronics.**"**
