@@ -62,7 +62,7 @@ _Fran & Flora_: **"**Why do I like this? Well, no one plays like Abdul - he coul
 # MailTape's selection
 
 ## Fran & Flora – Jurjuna for Leyli
-_Sanjay_: **"**Recorded at The Vortex in London for the LIAF festival, this is a wonderfully haunting piece. Interweaving, simulataneously reverent and intelligently informed, it bears many characteristics of [Fran & Flora](https://www.franandflora.com/)'s output: otherworldly and unfussy, with a cool charm. A perfect accompaniment to early evenings.**"**
+_Sanjay_: **"**Recorded at The Vortex in London for the LIAF festival, this is a wonderfully haunting piece. Interweaving, simulataneously reverent and intelligently informed, it bears many characteristics of [Fran & Flora](https://www.franandflora.com/)'s output: otherworldly and unfussy with a cool charm. A perfect accompaniment to early evenings.**"**
 
 ## William Parker – For Don Cherry
 _Sanjay_: **"**[William Parker](https://www.williamparker.net/) started his musical career in the early 70s playing with Don Cherry and Cecil Taylor among many others. In this dedication to Don Cherry he plays one of the late trumpeter's side instruments, the dousn'gouni, an African guitar, accompanied by his vocalising over the top. Recorded at Somewhere There in Toronto this track, alongside 'For Ella Parker', act as effective leavening agents to the uncompromising intensity and energy of the 50-minute title track, 'Cathedral Wisdom Light'—perfectly expressed by the artwork of the album.**"**
