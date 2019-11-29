@@ -76,4 +76,4 @@ _Sanjay_: **"**Taken from the Urdu word for 'jungle', this is the title track fr
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fran and Flora](https://www.franandflora.com/) for their Sunday selections, and to one of our newest illustrators [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration!
 
-And if you're eligible to vote in the UK on 12 December, [there is really only one option](https://labour.org.uk/manifesto/).</p>
+And if you're eligible to vote in the UK on 12 December, [there is really only one credible option](https://labour.org.uk/manifesto/).</p>
