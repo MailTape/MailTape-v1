@@ -35,6 +35,10 @@ episode_URL: 'http://mailta.pe/382/fran-and-flora/'
 guestPic: guestPic382.jpg
 image: 'https://mailta.pe/img/fbPic382.jpg'
 musiColor: musiColor382.png
+description: >-
+  This morning we are delighted to welcome Fran and Flora, the London-based
+  string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday
+  morning tunes with us on MailTape.
 ---
 <p id="introduction">This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
 <br><br>
