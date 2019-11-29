@@ -13,8 +13,8 @@ track4_link: 'https://soundcloud.com/user-44680920/jurjuna-for-leyli'
 track1_title: Hejira – Joyful Mind
 track1_color: vibrant
 track2_title: >-
-  JS Bach – Sarabande for solo cello in D major from Suite no.6 BWV 1012 (Mike
-  Block)
+  Mike Block – Sarabande for solo cello in D major from Suite no.6 BWV 1012 (JS
+  Bach)
 track2_color: dreamy
 track3_title: Abdul Wadud – Camille
 track3_color: bliss
