@@ -71,7 +71,7 @@ _Sanjay_: **"**[William Parker](https://www.williamparker.net/) started his musi
 _Sanjay_: **"**[Tomeka Reid](https://www.tomekareid.net/) is one of my favourite cellists around today. Her composistions involve intriguingly complex textures while leaving ample room for individual expression and adventure. I love the abstract and atmospheric sound of this track, and I can't wait to listen to the new record from her quartet, [Old New](https://cuneiformrecords.bandcamp.com/album/old-new).**"**
 
 ## Soumik Datta – Jangal
-_Sanjay_: **"**Taken from the Urdu word for 'jungle', this is the title track from sarod-player [Soumik Datta](https://www.soumikdatta.com/)'s latest EP, [Jangal](https://www.soumikdatta.com/music/jangal). Resting somewhere roughly between a mellifluous sonic dance and lament, this track contains the tension and release heard throughout the EP, crescendoing into grievous rage as it progresses.**"**
+_Sanjay_: **"**Taken from the Urdu word for 'jungle', this is the title track from sarod-player [Soumik Datta](https://www.soumikdatta.com/)'s latest EP, [Jangal](https://www.soumikdatta.com/music/jangal). Resting somewhere roughly between a mellifluous sonic dance and lament, this track contains the tension and release heard throughout the EP, crescendoing into grievous rage as it unfolds.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fran and Flora](https://www.franandflora.com/) for their Sunday selections, and to one of our newest illustrators [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration!
