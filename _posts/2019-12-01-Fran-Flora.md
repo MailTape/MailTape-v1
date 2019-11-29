@@ -38,7 +38,7 @@ musiColor: musiColor382.png
 ---
 <p id="introduction">This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
 <br><br>
-Well known in London's experimental folk and jazz scenes, Fran and Flora acknowledge a wide range of musical influences, from Bach to Alice Coltrane by way of Shostakovitch. Their playing is, by turns, vibrant, mournfully expressive, and creatively imaginative.
+Well known in London's experimental folk and jazz scenes, Fran and Flora acknowledge a wide range of musical influences, from Bach to Alice Coltrane by way of Shostakovitch. Their playing is, by turns, vibrant, mournfully expressive, creatively imaginative and imbued with elegance.
 <br><br>
 Their debut album, [Unfurl](https://www.franandflora.com/unfurl.html), was released earlier this year and they will be [on tour](https://www.franandflora.com/live.html) throughout the UK until mid-December.
 </p>
