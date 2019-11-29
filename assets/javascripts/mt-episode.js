@@ -4,6 +4,22 @@ $(document).ready(
 		// chargement modules de bootstrap pour afficher les tooltip et modales
 		$('[data-toggle="tooltip"]').tooltip()
 
+
+		// module de check du chargement de l'api Soundcloud
+		var alertSC=false;
+		function checkSC(){
+			if(typeof SC !== 'undefined'){
+				return "ok";
+			}
+			else {
+				if (!alertSC){
+					$( '<div class="container"><div class="col-12 alert alert-danger" role="alert">😱 Connection to Soundcloud unavailable, some tracks may be missing. Please check your plugins (uBlock, Privatebadger, etc) and allow <strong>connect.soundcloud.com</strong> and <strong>api.soundcloud.com</strong>. Or SoundCloud server is down, <a href="https://isitdownforme.net/connect.soundcloud.com" target="_blank">check it</a>. If you keep seeing this message and don\'t know what to do, feel free to <a href="mailto:crew@mailta.pe">contact us</a>.</div></div>' ).insertAfter("#bigHeader");
+					alertSC=true;
+				}
+				return null;
+			}
+		}
+
 		// changer la classe css sur les éléments du player au moment du lancement pour montrer quel son est joué
 		var isPlaying=false;
     	function playTape () {
@@ -59,9 +75,11 @@ $(document).ready(
 	    });
 
 	// connextion à l'api soundcloud
+	if(checkSC()) {
 		SC.initialize({
 		client_id: "5eaa5aae9b1a116f58b43027a7a2206d",
 		});
+	}
 
 	// module de redimensionnement auto de la taille des tracks dans la playlist en fonction de leur durée
 		function setTracksWidth (tracksDuration) {
@@ -85,19 +103,28 @@ $(document).ready(
 			var count = tracksURL.length;
 			$.each(tracksURL,function(i,trackURL){
 				if (trackURL.search( 'soundcloud' ) != -1) {
-					SC.get('/resolve', { url: trackURL }, function(track){
+					if (checkSC()) {
+						SC.get('/resolve', { url: trackURL }, function(track){
 						
-						if (track.duration) {tracksDuration[i]=track.duration/1000;
-						//console.log("GOGO:"+track.duration/1000);
-						count--;
-						}
+							if (track.duration) {tracksDuration[i]=track.duration/1000;
+							//console.log("GOGO:"+track.duration/1000);
+							count--;
+							}
 
-						//empêche de casser le musicolor en cas de musique non récupérable en attendant de trouver un fix
-						if (count == 0) { //we got all answers (thx Bluxte!)
+							//empêche de casser le musicolor en cas de musique non récupérable en attendant de trouver un fix
+							if (count == 0) { //we got all answers (thx Bluxte!)
+								setTracksWidth(tracksDuration);
+							}
+						});
+					}
+					else {
+						// je récupère ici le cas d'erreur au-dessus dans le cas où SC n'est pas reachable
+						if (count == 0) {
 							setTracksWidth(tracksDuration);
 						}
-					});
+					}
 				}
+
 				else { // dans le cas où le fichier ne provient pas de soundcloud
 					externalAudioCount++;
 					// console.log("nombre de sons hebergés à l'extérieur: "+externalAudioCount);
@@ -133,25 +160,32 @@ $(document).ready(
 			
 		$.each(tracksURL,function(i,trackURL){
 			if (trackURL.search( 'soundcloud' ) != -1) {
-				SC.get('/resolve', { url: trackURL }, function(track,error){
+				if (checkSC()) {
+					SC.get('/resolve', { url: trackURL }, function(track,error){
 
-					if (error) {
-						console.error("/!\\"+"Track:"+(i+1)+" "+" NOT FOUND ! You gotta fix this darling ;)");
-						$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
-					}
+						if (error) {
+							console.error("/!\\"+"Track:"+(i+1)+" "+" NOT FOUND ! A curator gotta fix this!");
+							$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
+						}
 
-					else if (track.streamable == true) {
-						$("#track"+(i+1)+"_link").prop("href", "trackURL");
-						$("#track"+(i+1)+"_button").prop("href", track.stream_url+"?client_id=5eaa5aae9b1a116f58b43027a7a2206d");
-						console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
-					} 
+						else if (track.streamable == true) {
+							$("#track"+(i+1)+"_link").prop("href", "trackURL");
+							$("#track"+(i+1)+"_button").prop("href", track.stream_url+"?client_id=5eaa5aae9b1a116f58b43027a7a2206d");
+							console.log("Track:"+(i+1)+" "+track.title+" OK! (Streamable and url updated)");
+						} 
 
-					else if (track.streamable == false) {
-						console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
-							// alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
-					}
-					
-				});
+						else if (track.streamable == false) {
+							console.error("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! A curator gotta fix this!");
+								// alert("/!\\"+"Track:"+(i+1)+" "+track.title+" NOT STREAMABLE ! You gotta fix this darling ;)");
+						}
+						
+					});
+				}
+				else
+				{
+					console.error("/!\\"+"Track:"+(i+1)+" "+" CAN'T BE STREAMED BECAUSE connect.soundcloud.com not reachable ! Check your browser plugins ;)");
+					$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
+				}
 			}
 
 			else if (trackURL.search( 'amazonaws' ) != -1) {
@@ -161,7 +195,6 @@ $(document).ready(
 
 				$("#track"+(i+1)+"_button").prop("href", trackURL);
 			}
-
 		});
 
 	    		$(".playlist").on("click",function() {
