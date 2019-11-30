@@ -31,7 +31,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/382/track3.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/382/track5.mp3'
 track6_link: 'https://soundcloud.com/tomekareid-music/the-lone-wait'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/382/track7.mp3'
-episode_URL: 'http://mailta.pe/382/fran-and-flora/'
+episode_URL: 'https://mailta.pe/382/fran-and-flora/'
 guestPic: guestPic382.jpg
 image: 'https://mailta.pe/img/fbPic382.jpg'
 musiColor: musiColor382.png
