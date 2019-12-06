@@ -25,9 +25,12 @@ track5_link: 'https://soundcloud.com/eeramusic/christine'
 track5_title: Eera - Christine
 track5_color: dreamy
 track6_title: Promise Keepers - Backfired
-track6_color: vibrant
+track6_color: bliss
 episode_URL: 'http://mailta.pe/383/fun-fun-funeral'
 musiColor: musiColor383;png
+track7_link: 'https://soundcloud.com/fatcatrecords/samana-harvest-1'
+track7_color: vibrant
+track7_title: 'Samana - Harvest '
 ---
 <p id="introduction">This morning 
 <br><br>
@@ -61,4 +64,3 @@ _Anaïs G_: **"** **"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Fun Fun Funeral for their Sunday selections, and Célestin for her brilliant illustration!</p>
-
