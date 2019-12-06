@@ -32,8 +32,10 @@ track7_link: 'https://soundcloud.com/fatcatrecords/samana-harvest-1'
 track7_color: vibrant
 track7_title: 'Samana - Harvest '
 ---
-<p id="introduction">This morning 
+<p id="introduction">This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecentlife and above all to be respected as suchand according to our professions. Fortunately, we have the Fun Fun Funeral selection to soothetensions and put some balm to the heart.
 <br><br>
+Fun Fun Funeral is madness and joy. It's a multitude of mixed emotions and an incredible palette of colours. Their 
+first album "Everything Is Ok" released on October 25th is a concentrate of good mood and thesedays it feels good!  
 </p>
 
 # Fun Fun Funeral's selection
@@ -51,16 +53,18 @@ _Fun Fun Funeral_: **"**Rocky is a very special artist who creates wonderful lo-
 # MailTape's selection
 
 ## Fun Fun Funeral – Elba Sea
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**It is unlike any other, it is tinged with a joyfulpop, it allows you to escape your mind for a few moments and enter the magical world of this Franco English duo. 
+It's an eccentric brass bandthat allows us to escape and take life on the rightside!**"**
 
 ## Eera – Christine
-_Anaïs G_: **"** **"**
+_Anaïs G_: **"**Through her music, Eera teaches us to face our fears and to face them. It is with her sweet voice that the Norwegian Anna Lena Bruland aka Eera, reveals her weaknesses and counts her doubts to us, to better advance and face life but also to recover the lost confidence.**"**
 
 ## Promise Keepers – Backfired
-_Anaïs G_: **"** **"**
+_Anaïs G_:**"**Discovered in 2017 with the label Atelier Ciseaux, it is one of the songs that do not ageand above all that I can listen to over and overagain without  moderation. William Fussel aka Promise Keeper, manages to immerse us in anextreme trance and a feeling of ultimate well-being comparable to the enjoyment of the body! It's beautiful, it's hot...I don't have the words.**"**
 
-##  – 
-_Anaïs G_: **"** **"**
+## Samana – Harvest
+_Anaïs G_:
+**"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when I listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with black and white, and note architecture throughtheir first album "Ascension"; released last May. Perfect for Sunday morning full of hope.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Fun Fun Funeral for their Sunday selections, and Célestin for her brilliant illustration!</p>
