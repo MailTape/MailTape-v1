@@ -64,7 +64,8 @@ _Anaïs G_:**"**Discovered in 2017 with the label Atelier Ciseaux, it is
 
 ## Samana – Harvest
 _Anaïs G_:
-**"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when I listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with black and white, and note architecture throughtheir first album "Ascension"; released last May. Perfect for Sunday morning full of hope.**"**
+**"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when I listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with black and white, and note architecture throughtheir first album "Ascension" released last May. Perfect for Sunday morning full of hope.**"**
+
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Fun Fun Funeral for their Sunday selections, and Célestin for her brilliant illustration!</p>
