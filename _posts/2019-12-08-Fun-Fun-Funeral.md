@@ -64,5 +64,4 @@ _Anaïs G_:**"**Discovered in 2017 with the label Atelier Ciseaux, it is one of 
 _Anaïs G_: **"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when i listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with colors, black and white, and note of music architecture throught their first album "Ascension", released last May. Perfect for sunday morning full of hope.**"**
 
 
-
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Fun Fun Funeral for their Sunday selections, and Célestin for her brilliant illustration!</p>
