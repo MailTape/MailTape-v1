@@ -32,10 +32,9 @@ track7_link: 'https://soundcloud.com/fatcatrecords/samana-harvest-1'
 track7_color: vibrant
 track7_title: 'Samana - Harvest '
 ---
-<p id="introduction">This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecentlife and above all to be respected as suchand according to our professions. Fortunately, we have the Fun Fun Funeral selection to soothetensions and put some balm to the heart.
+<p id="introduction">This monring, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecent life and above al to respected as suchand according to our professions. Fortunately, we have the Fun Fun Funeral selection to soo the tensions and put some balm to the heart. 
 <br><br>
-Fun Fun Funeral is madness and joy. It's a multitude of mixed emotions and an incredible palette of colours. Their 
-first album "Everything Is Ok" released on October 25th is a concentrate of good mood and thesedays it feels good!  
+Fun Fun Funeral is madness and joy. It's a multitude of mixed emotions and an incredible palette of colours. Their firts album "Everything Is Ok" released on Ocotber 25th is a concentred of good mood and these days it feels good ! 
 </p>
 
 # Fun Fun Funeral's selection
