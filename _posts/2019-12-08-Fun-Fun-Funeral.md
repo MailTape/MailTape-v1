@@ -52,18 +52,16 @@ _Fun Fun Funeral_: **"**Rocky is a very special artist who creates wonderful lo-
 # MailTape's selection
 
 ## Fun Fun Funeral – Elba Sea
-_Anaïs G_: **"**It is unlike any other, it is tinged with a joyfulpop, it allows you to escape your mind for a few moments and enter the magical world of this Franco English duo. 
-It's an eccentric brass bandthat allows us to escape and take life on the rightside!**"**
+_Anaïs G_: **"**It is unlike any other, it is tinged with a joyfulpop, it all ows you to escape your mind for a few moments and enter the magical world of this franco-english duo. It's an eccentric brass band that allows us to escape and take the life on the right side!**"**
 
 ## Eera – Christine
 _Anaïs G_: **"**Through her music, Eera teaches us to face our fears and to face them. It is with her sweet voice that the Norwegian Anna Lena Bruland aka Eera, reveals her weaknesses and counts her doubts to us, to better advance and face life but also to recover the lost confidence.**"**
 
 ## Promise Keepers – Backfired
-_Anaïs G_:**"**Discovered in 2017 with the label Atelier Ciseaux, it is one of the songs that do not ageand above all that I can listen to over and overagain without  moderation. William Fussel aka Promise Keeper, manages to immerse us in anextreme trance and a feeling of ultimate well-being comparable to the enjoyment of the body! It's beautiful, it's hot...I don't have the words.**"**
+_Anaïs G_:**"**Discovered in 2017 with the label Atelier Ciseaux, it is one of the songs that do not ageand above all that i can listen to over and over again without moderation. William Fussel aka Promise Keeper, manages to immerse us in an extreme trance and a feeling of ultimate weel-being comparable to he enjoyment of the body. It's beautiful it's hot.. I don't have the words !**"**
 
 ## Samana – Harvest
-_Anaïs G_:
-**"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when I listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with black and white, and note architecture throughtheir first album "Ascension" released last May. Perfect for Sunday morning full of hope.**"**
+_Anaïs G_: **"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when i listen to Samana. This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with colors, black and white, and note of music architecture throught their first album "Ascension", released last May. Perfect for sunday morning full of hope.**"**
 
 
 
