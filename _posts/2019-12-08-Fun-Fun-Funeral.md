@@ -35,6 +35,7 @@ image: 'http://mailta.pe/img/fbPic383.png'
 description: "This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecent life and above al to respected as suchand according to our professions. Fortunately, we have the Fun Fun Funeral selection to soo the tensions and put some balm to the heart.\_"
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/383/track3.mp3'
 ---
+
 <p id="introduction">This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecent life and above al to respected as suchand according to our professions. Fortunately, we have the [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) selection to soo the tensions and put some balm to the heart. 
 <br><br>
 [Fun Fun Funeral](https://www.facebook.com/funfunfuneral/) is madness and joy. It's a multitude of mixed emotions and an incredible palette of colours. Their firts album "[Everything Is Ok](https://soundcloud.com/octobertone/sets/fun-fun-funeral-everything-is)" released on Ocotber 25th is a concentred of good mood and these days it feels good ! 
