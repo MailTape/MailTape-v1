@@ -26,11 +26,12 @@ track5_title: Eera - Christine
 track5_color: dreamy
 track6_title: Promise Keepers - Backfired
 track6_color: bliss
-episode_URL: 'http://mailta.pe/383/fun-fun-funeral'
-musiColor: musiColor383;png
+episode_URL: 'http://mailta.pe/383/fun-fun-funeral/'
+musiColor: musiColor383.png
 track7_link: 'https://soundcloud.com/fatcatrecords/samana-harvest-1'
 track7_color: vibrant
 track7_title: 'Samana - Harvest '
+image: 'http://mailta.pe/img/fbPic383.png'
 ---
 <p id="introduction">This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecent life and above al to respected as suchand according to our professions. Fortunately, we have the [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) selection to soo the tensions and put some balm to the heart. 
 <br><br>
