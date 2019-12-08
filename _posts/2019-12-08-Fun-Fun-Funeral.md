@@ -24,7 +24,7 @@ track6_link: 'https://soundcloud.com/atelierciseaux/promise-keeper-backfired'
 track5_link: 'https://soundcloud.com/eeramusic/christine'
 track5_title: Eera - Christine
 track5_color: dreamy
-track6_title: Promise Keepers - Backfired
+track6_title: Promise Keeper - Backfired
 track6_color: bliss
 episode_URL: 'http://mailta.pe/383/fun-fun-funeral/'
 musiColor: musiColor383.png
@@ -61,7 +61,7 @@ _Anaïs G_: **"**It is unlike any other, it is tinged with a joyfulpop, it all o
 ## Eera – Christine
 _Anaïs G_: **"**Through her music, [Eera](https://www.facebook.com/eeramusic/) teaches us to face our fears and to face them. It is with her sweet voice that the Norwegian Anna Lena Bruland aka Eera, reveals her weaknesses and counts her doubts to us, to better advance and face life but also to recover the lost confidence.**"**
 
-## Promise Keepers – Backfired
+## Promise Keeper – Backfired
 _Anaïs G_:**"**Discovered in 2017 with [the label Atelier Ciseaux](http://www.atelierciseaux.com/category/news/), it is one of the songs that do not ageand above all that i can listen to over and over again without moderation. William Fussel aka [Promise Keeper](https://atelierciseaux.bandcamp.com/album/promise-keeper-s-t), manages to immerse us in an extreme trance and a feeling of ultimate weel-being comparable to he enjoyment of the body. It's beautiful it's hot.. I don't have the words !**"**
 
 ## Samana – Harvest
