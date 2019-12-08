@@ -34,6 +34,7 @@ track7_title: 'Samana - Harvest '
 image: 'http://mailta.pe/img/fbPic383.png'
 description: "This morning, the climate is one of grumbling and discontent. Voices are being raised in the streets to try to make things happen, to have adecent life and above al to respected as suchand according to our professions. Fortunately, we have the Fun Fun Funeral selection to soo the tensions and put some balm to the heart.\_"
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/383/track3.mp3'
+author: Anaïs G
 ---
 
 
