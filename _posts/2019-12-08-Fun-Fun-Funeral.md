@@ -8,9 +8,8 @@ category: '383'
 guest_name: Fun Fun Funeral
 guest_color: dreamy
 guestPic: guestPic383.jpg
-track4_link: >-
-  https://soundcloud.com/octobertone/elba-sea?in=octobertone/sets/fun-fun-funeral-everything-is
-track1_link: 'https://soundcloud.com/helvetiaofficial/kris'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/383/track4.mp3'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/383/trac1.mp3'
 track1_title: 'Helvetia - Kris '
 track1_color: dreamy
 track2_title: 'Tirzah - No Romance '
