@@ -20,7 +20,7 @@ track3_color: dreamy
 track4_color: trippy
 track4_title: 'Fun Fun Funeral - Elba Sea '
 track6_link: 'https://soundcloud.com/atelierciseaux/promise-keeper-backfired'
-track5_link: 'https://soundcloud.com/eeramusic/christine'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/383/track5.mp3'
 track5_title: Eera - Christine
 track5_color: dreamy
 track6_title: Promise Keeper - Backfired
