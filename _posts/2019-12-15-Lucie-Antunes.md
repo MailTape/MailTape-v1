@@ -17,6 +17,12 @@ writer: PS KY
 track1_color: trippy
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/384/track4.mp3'
 track4_title: Lucie Antunes - Blue Child
+track5_link: 'https://soundcloud.com/sentimentalrave/never-asking-favours'
+track5_title: Sentimental Rave - Never Asking Favours
+track5_color: rough
+track4_color: vibrant
+track3_color: vibrant
+track2_color: dreamy
 ---
 <p id="introduction">Beautiful intro here
 </p>
