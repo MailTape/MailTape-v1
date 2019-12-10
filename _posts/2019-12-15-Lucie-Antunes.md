@@ -8,6 +8,12 @@ track2_title: Ryan Power - I Don't Want To Die
 track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/384/track1.mp3'
 track2_link: 'https://soundcloud.com/ryanpower/i-dont-want-to-die'
+category: '384'
+guest_name: Lucie Antunes
+guest_color: trippy
+author: ImaCrea
+illustrator: Thibault Daumain
+writer: PS KY
 ---
 <p id="introduction">Beautiful intro here
 </p>
