@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
-track3_link: 'https://soundcloud.com/sufjan-stevens/in-this-temple-as-in-the'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/384/track3.mp3'
 track3_title: 'Sufjan Steven - The Tallest Man, The Broadest Shoulders - part I and II'
 track2_title: Ryan Power - I Don't Want To Die
 track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
@@ -15,6 +15,7 @@ author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
 track1_color: trippy
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/384/track4.mp3'
 ---
 <p id="introduction">Beautiful intro here
 </p>
