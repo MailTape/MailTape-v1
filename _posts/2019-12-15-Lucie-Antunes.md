@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/384/track3.mp3'
-track3_title: 'Sufjan Steven - The Tallest Man, The Broadest Shoulders - part I and II'
+track3_title: 'Sufjan Steven - The Tallest Man, The Broadest Shoulders'
 track2_title: Ryan Power - I Don't Want To Die
 track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/384/track1.mp3'
@@ -16,6 +16,7 @@ illustrator: Thibault Daumain
 writer: PS KY
 track1_color: trippy
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/384/track4.mp3'
+track4_title: Lucie Antunes - Blue Child
 ---
 <p id="introduction">Beautiful intro here
 </p>
