@@ -14,6 +14,7 @@ guest_color: trippy
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
+track1_color: trippy
 ---
 <p id="introduction">Beautiful intro here
 </p>
