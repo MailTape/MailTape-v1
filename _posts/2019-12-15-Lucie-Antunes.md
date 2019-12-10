@@ -10,7 +10,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/384/track1.mp3'
 track2_link: 'https://soundcloud.com/ryanpower/i-dont-want-to-die'
 category: '384'
 guest_name: Lucie Antunes
-guest_color: trippy
+guest_color: bliss
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
@@ -20,7 +20,7 @@ track4_title: Lucie Antunes - Blue Child
 track5_link: 'https://soundcloud.com/sentimentalrave/never-asking-favours'
 track5_title: Sentimental Rave - Never Asking Favours
 track5_color: rough
-track4_color: vibrant
+track4_color: bliss
 track3_color: vibrant
 track2_color: dreamy
 ---
