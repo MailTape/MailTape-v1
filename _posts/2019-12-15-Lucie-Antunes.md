@@ -25,6 +25,10 @@ track3_color: vibrant
 track2_color: dreamy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/384/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/384/track7.mp3'
+track6_title: Sunni Colón - Strands of the Future
+track6_color: vibrant
+track7_title: Sandra Nkaké - River
+track7_color: bliss
 ---
 <p id="introduction">Beautiful intro here
 </p>
