@@ -23,8 +23,8 @@ track5_color: rough
 track4_color: bliss
 track3_color: vibrant
 track2_color: dreamy
-track6_link: 'https://soundcloud.com/sunnicolon/baby-i-dont-mind-2'
-track7_link: 'https://soundcloud.com/sandrankake/river'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/384/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/384/track7.mp3'
 ---
 <p id="introduction">Beautiful intro here
 </p>
