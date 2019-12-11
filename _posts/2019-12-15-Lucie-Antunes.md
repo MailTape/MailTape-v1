@@ -23,6 +23,8 @@ track5_color: rough
 track4_color: bliss
 track3_color: vibrant
 track2_color: dreamy
+track6_title: 'https://soundcloud.com/sunnicolon/baby-i-dont-mind-2'
+track7_title: 'https://soundcloud.com/sandrankake/river'
 ---
 <p id="introduction">Beautiful intro here
 </p>
