@@ -47,17 +47,17 @@ _Lucie Antunes_: **"**I love this artist, the Illinois album is a marvel. Beauti
 
 # MailTape's selection
 
-## [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) – Elba Sea
-_ImaCrea_: **"**It is unlike any other, it is tinged with a joyfulpop, it all ows you to escape your mind for a few moments and enter the magical world of this franco-english duo. It's an eccentric brass band that allows us to escape and take the life on the right side!**"**
+## Lucie Antunes - Blue Child
+_ImaCrea_: **"**...**"**
 
-## Eera – Christine
-_ImaCrea_: **"**Through her music, [Eera](https://www.facebook.com/eeramusic/) teaches us to face our fears and to face them. It is with her sweet voice that the Norwegian Anna Lena Bruland aka Eera, reveals her weaknesses and counts her doubts to us, to better advance and face life but also to recover the lost confidence.**"**
+## Sentimental Rave - Never Asking Favours
+_ImaCrea_: **"**...**"**
 
-## Promise Keeper – Backfired
-_ImaCrea_:**"**Discovered in 2017 with [the label Atelier Ciseaux](http://www.atelierciseaux.com/category/news/), it is one of the songs that do not ageand above all that i can listen to over and over again without moderation. William Fussel aka [Promise Keeper](https://atelierciseaux.bandcamp.com/album/promise-keeper-s-t), manages to immerse us in an extreme trance and a feeling of ultimate weel-being comparable to he enjoyment of the body. It's beautiful it's hot.. I don't have the words !**"**
+## Sunni Colón - Strands of the Future
+_ImaCrea_:**"**...**"**
 
-## Samana – Harvest
-_ImaCrea_: **"**Soft, sumptuous and hypnotic, these are the adjectives that come to mind when i listen to [Samana](https://www.samanaroad.com/samana-home). This feminine/male duo formed by Rebecca Rose Harris and Franklin Mockett plays with colors, black and white, and note of music architecture throught their first album "[Ascension](https://samana.bandcamp.com/album/ascension)", released last May. Perfect for sunday morning full of hope.**"**
+## Sandra Nkaké - River
+_ImaCrea_: **"**...**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) for their Sunday selections, and [Camille Célestin](https://www.instagram.com/bravocamo/?hl=fr) for her brilliant illustration!</p>
