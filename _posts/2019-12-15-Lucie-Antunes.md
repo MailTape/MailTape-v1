@@ -48,16 +48,16 @@ _Lucie Antunes_: **"**I love this artist, the Illinois album is a marvel. Beauti
 # MailTape's selection
 
 ## Lucie Antunes - Blue Child
-_ImaCrea_: **"**If Philip Glass and Caribou had a child, would he/she be blue? There's something in this track that's so daring in a way, this subtle way of finding balance between contemporary music and pop music. It takes generosity and hard work to be able to build such a bridge between these two worlds and it's exactly what I find Lucie Antunes is achieving in her latest album. If you have the occasion to see her live, don't hesitate a second. It's been one of the best concert I've had the chance to see/listen this year.**"**
+_ImaCrea_: **"**If Philip Glass and Caribou had a child, would he/she be blue? There's something in this track that's so daring in a way, this subtle way of achieving balance between contemporary music and pop music. It requires generosity and hard work to be able to build such a bridge between these two worlds and it's exactly what I find Lucie Antunes is achieving in her latest album. If you enjoy the occasion to go to her show, don't hesitate a second. It's been one of the best concerts I've had the chance to see/listen this year.**"**
 
 ## Sentimental Rave - Never Asking Favours
-_ImaCrea_: **"**We want beauty and lightness. But our world is at stake, it's no mistery. And this track is a reminder, it's echoing so many internal fights we are collectively enduring. It's raw, not cooked, all the music nutrient are in there. Absorb, dance and let the joy shine. This clear cut in this selection is also to remind you that MailTape is not driven by a senseless "artifical intelligence". Not a single one would have made such a choice because it's not "confortable", it's a risk that big companies like Spotify, Deezer and else can't afford. We can, because we are free and without freedom, human soul dies slowly.**"**
+_ImaCrea_: **"**We want beauty and lightness. But our world is at stake, it's no mystery. And this track serve as a reminder, it's echoing so many internal fights we are collectively enduring. It's raw, not cooked, all the music nutrient are within there. Absorb, dance and let the joy shine. This clear cut in this selection is in addition to prompt you that MailTape is undriven by a senseless "artificial intelligence". Not a single one would have selected such a track because it's not "comfortable", it's a risk that big companies like Spotify, Deezer and else can't afford. We can, because we are fully independent thanks to your donations and without freedom, human soul dies slowly.**"**
 
 ## Sunni Colón - Strands of the Future
-_ImaCrea_:**"**Now we unloaded all the fear with Sentimental Rave's cathartic sound, this track by Sunni Colón is just perfect to get into a state of flow. This guitar, these violins, gosh it gives me chills.**"**
+_ImaCrea_:**"**At this time we unloaded all the fear with Sentimental Rave's cathartic sound, this track by Sunni Colón is absolutely perfect to get into a state of flow. This guitar, these violins, gosh it gives me chills.**"**
 
 ## Sandra Nkaké - River
-_ImaCrea_: **"**Sandra Nkaké is back with a stunning album. Her voice plus the beauty of her lyrics and this birdish flute flying all around encapsulates well the global idea of this tape I feel. Well the global idea of MailTape : celebration of love and music. Thank you PS2KY for suggesting me to add this track :).**"**
+_ImaCrea_: **"**Sandra Nkaké is back with a stunning album. Her voice plus the beauty of her lyrics and this birdish flute flying all around encapsulates well the global idea of this tape I feel. Well the global idea of MailTape : celebration of love and music. Bless you PS2KY for suggesting me to add this track :).**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love to [Lucie Antunes](https://infine-rec.bandcamp.com/album/serge) for her inspiring Sunday selections, [Thibaut Daumin](https://thibaultdaumain.fr/) for his amazing illustration and PS2KY for her poetry.</p>
