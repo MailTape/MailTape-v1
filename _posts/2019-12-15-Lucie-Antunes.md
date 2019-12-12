@@ -60,4 +60,4 @@ _ImaCrea_:**"**Now we unloaded all the fear with Sentimental Rave's cathartic so
 _ImaCrea_: **"**Sandra Nkaké is back with a stunning album. Her voice plus the beauty of her lyrics and this birdish flute flying all around encapsulates well the global idea of this tape I feel. Well the global idea of MailTape : celebration of love and music. Thank you PS2KY for suggesting me to add this track :).**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Fun Fun Funeral](https://funfunfuneral.bandcamp.com/) for their Sunday selections, and [Camille Célestin](https://www.instagram.com/bravocamo/?hl=fr) for her brilliant illustration!</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love to [Lucie Antunes](https://infine-rec.bandcamp.com/album/serge) for her inspiring Sunday selections, [Thibaut Daumin](https://thibaultdaumain.fr/) for his amazing illustration and PS2KY for her poetry.</p>
