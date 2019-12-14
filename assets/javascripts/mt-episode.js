@@ -260,41 +260,43 @@ $(document).ready(
 
 	    // récupération des épisodes similaires et stockage dans un array pour sélection au hasard
 
-	    var relatedEpisodes_preselection = new Array();
+	    if (typeof relatedEpisodes_numbers[0] !== 'undefined') {
 
-	    for (var i = 0; i < relatedEpisodes_numbers.length ; i++) {
-	    	if (typeof relatedEpisodes_numbers[i] !== 'undefined') {
+		    var relatedEpisodes_preselection = new Array();
+
+		    for (var i = 0; i < relatedEpisodes_numbers.length ; i++) {
 	    		relatedEpisodes_preselection[i]=[relatedEpisodes_numbers[i],relatedEpisodes_guestNames[i],relatedEpisodes_URLs[i],relatedEpisodes_guestPics[i],relatedEpisodes_MusiColors[i]];
-	    	}
-	    }
-		
-		// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
-		function shuffle(array) {
-	 	 	var m = array.length, t, i;
+		    }
+			
+			// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
+			function shuffle(array) {
+		 	 	var m = array.length, t, i;
 
-	 	 // While there remain elements to shuffle…
-		  while (m) {
+		 	 // While there remain elements to shuffle…
+			  while (m) {
 
-		    // Pick a remaining element…
-		    i = Math.floor(Math.random() * m--);
+			    // Pick a remaining element…
+			    i = Math.floor(Math.random() * m--);
 
-		    // And swap it with the current element.
-		    t = array[m];
-		    array[m] = array[i];
-		    array[i] = t;
-		  }
+			    // And swap it with the current element.
+			    t = array[m];
+			    array[m] = array[i];
+			    array[i] = t;
+			  }
 
-		  return array;
-		}
+			  return array;
+			}
 
-		// extraction dans un array de 3 episodes relatifs parmi la preselection
-		var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 6);
+			// extraction dans un array de 3 episodes relatifs parmi la preselection
+			var relatedEpisodes_selection = shuffle(relatedEpisodes_preselection).slice(0, 6);
 
-		for (var i = 0; i < 6; i++) {
-			$("#relatedEpisode_a_"+(i+1)).attr("data-stretch","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][3]+"&w=400&t=fit&il");
-			$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
-			$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
-			$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
+			for (var i = 0; i < 6; i++) {
+				$("#relatedEpisode_a_"+(i+1)).attr("data-stretch","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][3]+"&w=400&t=fit&il");
+				$("#relatedEpisode_a_"+(i+1)).attr("href",relatedEpisodes_selection[i][2]);
+				$("#relatedEpisode_h2_"+(i+1)).html('<span class="re-hash">#'+relatedEpisodes_selection[i][0]+"&nbsp;"+"</span><br/>"+relatedEpisodes_selection[i][1]);
+				$("#relatedEpisode_img_"+(i+1)).attr("src","//images.weserv.nl/?url=ssl:www.mailta.pe"+relatedEpisodes_selection[i][4]+"&il");
+			}
+
 		}
 
 		// affichage des images avec module d'adaptation responsive
