@@ -263,7 +263,9 @@ $(document).ready(
 	    var relatedEpisodes_preselection = new Array();
 
 	    for (var i = 0; i < relatedEpisodes_numbers.length ; i++) {
-	    	relatedEpisodes_preselection[i]=[relatedEpisodes_numbers[i],relatedEpisodes_guestNames[i],relatedEpisodes_URLs[i],relatedEpisodes_guestPics[i],relatedEpisodes_MusiColors[i]];
+	    	if (relatedEpisodes_numbers[i]) {
+	    		relatedEpisodes_preselection[i]=[relatedEpisodes_numbers[i],relatedEpisodes_guestNames[i],relatedEpisodes_URLs[i],relatedEpisodes_guestPics[i],relatedEpisodes_MusiColors[i]];
+	    	}
 	    }
 		
 		// fonction shuffle utilisant the Fisher-Yates shuffle. + d'infos: http://bost.ocks.org/mike/shuffle/
