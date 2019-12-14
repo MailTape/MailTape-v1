@@ -263,7 +263,7 @@ $(document).ready(
 	    var relatedEpisodes_preselection = new Array();
 
 	    for (var i = 0; i < relatedEpisodes_numbers.length ; i++) {
-	    	if (relatedEpisodes_numbers[i]) {
+	    	if (typeof relatedEpisodes_numbers[i] !== 'undefined') {
 	    		relatedEpisodes_preselection[i]=[relatedEpisodes_numbers[i],relatedEpisodes_guestNames[i],relatedEpisodes_URLs[i],relatedEpisodes_guestPics[i],relatedEpisodes_MusiColors[i]];
 	    	}
 	    }
