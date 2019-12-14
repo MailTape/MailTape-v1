@@ -29,6 +29,8 @@ track6_title: Sunni Colón - Strands of the Future
 track6_color: vibrant
 track7_title: Sandra Nkaké - River
 track7_color: bliss
+guestPic: guestPic384.jpg
+episode_URL: 'https://mailta.pe/384/Lucie-Antunes/'
 ---
 <p id="introduction">Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?</p>
 
