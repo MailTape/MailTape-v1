@@ -30,7 +30,12 @@ track6_color: vibrant
 track7_title: Sandra Nkaké - River
 track7_color: bliss
 ---
-<p id="introduction">Beautiful intro here
+<p id="introduction">Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?
+
+Music never exits my bubble. It always remains. Creating a pace, accelerating, slowing, taming and often rewiring.
+Today’s MailTape is an ode to the current times. A pinch in the center of the palm reminding us, awaking us to the very truth we are all faced with. As the walls of illusions fall dry, as the lights dim and the candles are lit, life perceived, just as a glass bottle exploding onto marble, is shattering slowly into a mist of dusty hail. As the streets are shaking and the voices are rising, we are left with the dark matter of truth; how to carry on living life in a place where life seems to disappear? Where are the cradles of love and the bells of hopes? Where are the new streets and safety lights? Exhausted from our neck-bending routines, hiding from the shameful existence we all wished to dissipate.
+
+Today’s selection hums the voices of today. Comfort aside, just as we must stop listening to the common speech, it is time to expand our ears, clear our vision, navigate new realms and elevate from our habitual minds. A powerful and touching selection of tracks to ghost ourselves from the poison of illusions and hatred as we enter into a realm of hope wondering, as Sandra Nkaké says so well; what does it mean to be born?
 </p>
 
 # Lucie Antunes' selection
