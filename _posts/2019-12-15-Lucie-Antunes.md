@@ -38,7 +38,7 @@ description: >-
   and touching selection of tracks to ghost ourselves from the poison of
   illusions and hatred as we enter into a realm of hope wondering, as Sandra
   Nkaké says so well; what does it mean to be born?
-image: 'http://mailta.pe.img/fbPic384.png'
+image: 'https://mailta.pe/img/fbPic384.png'
 musiColor: musiColor384.png
 ---
 <p id="introduction">Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?</p>
