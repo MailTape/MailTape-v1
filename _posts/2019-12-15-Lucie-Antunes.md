@@ -31,6 +31,15 @@ track7_title: Sandra Nkaké - River
 track7_color: bliss
 guestPic: guestPic384.jpg
 episode_URL: 'https://mailta.pe/384/Lucie-Antunes/'
+description: >-
+  This selection hums the voices of today. Comfort aside, just as we must stop
+  listening to the common speech, it is time to expand our ears, clear our
+  vision, navigate new realms and elevate from our habitual minds. A powerful
+  and touching selection of tracks to ghost ourselves from the poison of
+  illusions and hatred as we enter into a realm of hope wondering, as Sandra
+  Nkaké says so well; what does it mean to be born?
+image: 'http://mailta.pe.img/fbPic384.png'
+musiColor: musiColor384.png
 ---
 <p id="introduction">Certainty is ephemeral. Noise. Make noise. In peace or with force. Convictions and needs, solutions and seeds? What must we shed, what must we feed?</p>
 
