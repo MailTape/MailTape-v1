@@ -12,28 +12,28 @@ published: false
 # An Explore's selection
 
 
-## Leonard Cohen - I Left A Woman Waiting
-Rob: **"**This jewel of a song would be quite welcome to awaken to on a Sunday morning. Spector’s music emanates sorrow, but the musical notes manage to bring some rays of light. The world would be a much better place if all would rise to the sound of this song.**"**
+## Booker T & the MGs – Soul Dressing
+Rob: **"**It’s a super slinky bossa nova slide-out-from-duvet-to-make-tea with this as your soundtrack... An amazing organ-led four piece band working in effortless groove. After listening to this I could go straight back to bed knowing the day had been well spent already.**"**
 
-## Bert Jansch - In My Mind
-Rob: **"**Bert Jansch’s song bathes us into a bucolic vibe. Truth be told, I rarely listen to music upon waking, but  if it were the case I would certainly enjoy stumbling upon such a song. It makes you feel like sliding into your rubber boots and mowing the lawn, which never happens to me.**"**
+## Steve Reich – Electric Counterpoint 1.2.3
+Rob: **"**Refreshing, cleansing, clearing any hangover from the night before. Prepares the mind for newness of thought and action. The musical detox. Green Tea, Apple and Carrot Juice – things that are good for you…. Reset reset reset. Actually ups your IQ 10 points. Let it float around you and lift you to a higher plane……**"**
 
-## [Ali Danel](https://www.alidanel.fr/) - La Nuit Qui Vient
-Rob: **"**This one reminds me a bit of France. It radiates something quite soft that is truly beautiful. I don’t quite know why but it reminds me of the Côte d’Azur: A chair, a coffee and some waves.**"**
+## Quincy Jones – Walking In Space LP
+Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. Swinging, sassy, funky. Lots of gospel overtones to bring that Sunday feeling. It will have you skipping around in your dressing gown and if it has to be one track, it’s “Killer Joe”. But really this is an album to be played from start to finish…**"**
 
 
 # MailTape's selection
 
-## An Explore - Pays Vaincu
+## An Explore - 
 Jules: **"****"**
 
-## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Les Pommiers Envahis
+## 
 Jules: **"****"**
 
-## OHIO - Ohio
+## 
 Jules: **"****"**
 
-## The Velvet Underground - I Found A Reason
+## Maksim (Resolute) - Untitled (A2)
 Jules: **"****"**
 
 
