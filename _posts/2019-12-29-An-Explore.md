@@ -2,6 +2,22 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Julie Wojtczak
+writer: Jules
+category: '386'
+guest_name: An Explore
+guest_color: bliss
+track1_title: Booker T & the MGs – Soul Dressing
+track2_title: Steve Reich – Electric Counterpoint 1.2.3
+track2_color: bliss
+track1_color: vibrant
+track3_title: Quincy Jones – Killer Joe
+track4_title: An Explore -
+track7_title: Maksim (Resolute) - Untitled (A2)
+track7_color: trippy
+track3_color: dreamy
+episode_URL: 'http://mailta.pe/386/an-explore/'
 ---
 <p id="introduction"> This morning, 
 <br><br>
