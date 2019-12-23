@@ -47,10 +47,10 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 ## [An Explore](https://anexplore.bandcamp.com/) - 
 Jules: **"****"**
 
-## 
+## [Slow Meadow](https://slowmeadow.bandcamp.com/) - 
 Jules: **"****"**
 
-## 
+## Manitoba
 Jules: **"****"**
 
 ## Maksim (Resolute) - Untitled (A2)
