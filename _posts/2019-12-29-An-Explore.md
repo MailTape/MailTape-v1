@@ -11,12 +11,12 @@ guest_color: bliss
 track1_title: Booker T & the MGs – Soul Dressing
 track2_title: Steve Reich – Electric Counterpoint 1.2.3
 track2_color: bliss
-track1_color: vibrant
+track1_color: trippy
 track3_title: Quincy Jones – Killer Joe
 track4_title: An Explore -
 track7_title: Maksim (Resolute) - Untitled (A2)
-track7_color: trippy
-track3_color: dreamy
+track7_color: dreamy
+track3_color: vibrant
 episode_URL: 'http://mailta.pe/386/an-explore/'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/386/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/386/track2.mp3'
