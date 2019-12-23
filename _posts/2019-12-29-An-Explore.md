@@ -24,7 +24,7 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 
 # MailTape's selection
 
-## An Explore - 
+## [An Explore](https://anexplore.bandcamp.com/) - 
 Jules: **"****"**
 
 ## 
@@ -37,4 +37,4 @@ Jules: **"****"**
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [An Explore] for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
