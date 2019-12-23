@@ -18,6 +18,10 @@ track7_title: Maksim (Resolute) - Untitled (A2)
 track7_color: trippy
 track3_color: dreamy
 episode_URL: 'http://mailta.pe/386/an-explore/'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/386/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/386/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/386/track3.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/386/track7.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
