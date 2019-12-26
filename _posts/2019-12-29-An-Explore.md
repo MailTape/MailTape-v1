@@ -24,6 +24,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/386/track3.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/386/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/386/track5.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/386/track4.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/386/track6.mp3'
 ---
 <p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee watching the sky behind your window. 
 <br><br>
@@ -56,7 +57,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## Maksim (Resolute) - Untitled (A2)
-Jules: **"**A damn fine coffee served with a slice of cherry pie, **"**
+Jules: **"**A damn fine coffee served with a slice of cherry pie at the same table as Dale Cooper. The silhouette of Bill Murray wandering in a japanese hotel. The sweet voices of Scarlett Johansson and Julee Cruise**"**
 
 
 <p id="outroduction">That's it for this morning and for the last MailTape's episode of the year! As always thank you so much for listening, we hope to see you again in 2020. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
