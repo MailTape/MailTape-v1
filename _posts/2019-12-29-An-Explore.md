@@ -56,8 +56,8 @@ Jules: **"****"**
 ## Manitoba - Brandon
 Jules: **"****"**
 
-## Maksim (Resolute) - Untitled (A2)
-Jules: **"**A damn fine coffee served with a slice of cherry pie at the same table as Dale Cooper. The silhouette of Bill Murray wandering in a japanese hotel. The sweet voices of Scarlett Johansson and Julee Cruise**"**
+## [Maksim](https://www.facebook.com/maksimresolute/) - Untitled (A2)
+Jules: **"**A damn fine coffee served with a slice of cherry pie at the same table as Dale Cooper. In the background, the silhouette of Bill Murray wandering in a japanese hotel. In the distance, the sweet voices of Scarlett Johansson and Julee Cruise. Everything you could dream of on a Sunday morning is in this song by Maksim, one of the artist of the NY-based vinyl only label [ALINE Brooklyn](https://www.facebook.com/alinebrooklynn/).**"**
 
 
 <p id="outroduction">That's it for this morning and for the last MailTape's episode of the year! As always thank you so much for listening, we hope to see you again in 2020. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
