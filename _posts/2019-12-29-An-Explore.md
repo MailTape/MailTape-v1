@@ -54,7 +54,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## Maksim (Resolute) - Untitled (A2)
-Jules: **"****"**
+Jules: **"**A damn fine coffee served with a slice of cherry pie, **"**
 
 
 <p id="outroduction">That's it for this morning and for the last MailTape's episode of the year! As always thank you so much for listening, we hope to see you again in 2020. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
