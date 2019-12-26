@@ -13,8 +13,8 @@ track2_title: Steve Reich – Electric Counterpoint 1.2.3
 track2_color: bliss
 track1_color: trippy
 track3_title: Quincy Jones – Killer Joe
-track4_title: An Explore -
-track7_title: Maksim (Resolute) - Untitled (A2)
+track4_title: An Explore - Small Drop (Suikinkutsu)
+track7_title: Maksim - Untitled (A2)
 track7_color: dreamy
 track3_color: vibrant
 episode_URL: 'http://mailta.pe/386/an-explore/'
@@ -25,6 +25,11 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/386/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/386/track5.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/386/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/386/track6.mp3'
+track6_color: trippy
+track6_title: Manitoba - Brandon
+track4_color: bliss
+track5_color: dreamy
+track5_title: Slow Meadow - Artificial Algorithm
 ---
 <p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee watching the sky behind your window. 
 <br><br>
