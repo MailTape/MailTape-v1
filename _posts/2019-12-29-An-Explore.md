@@ -23,7 +23,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/386/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/386/track3.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/386/track7.mp3'
 ---
-<p id="introduction"> This morning, 
+<p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee watching the sky behind your window. 
 <br><br>
 
 </p>
@@ -44,17 +44,17 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 
 # MailTape's selection
 
-## [An Explore](https://anexplore.bandcamp.com/) - 
+## [An Explore](https://anexplore.bandcamp.com/) - Small Drop (Suikinkutsu)
 Jules: **"****"**
 
-## [Slow Meadow](https://slowmeadow.bandcamp.com/) - 
+## [Slow Meadow](https://slowmeadow.bandcamp.com/) - Artificial Algorithm
 Jules: **"****"**
 
-## Manitoba
+## Manitoba - Brandon
 Jules: **"****"**
 
 ## Maksim (Resolute) - Untitled (A2)
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! As always thank you so much for listening. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
+<p id="outroduction">That's it for this morning and for the last MailTape's episode of the year! As always thank you so much for listening, we hope to see you again in 2020. Much love and respect to [An Explore](https://anexplore.bandcamp.com/) for his Sunday selections, and to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for her brilliant illustration.</p>
