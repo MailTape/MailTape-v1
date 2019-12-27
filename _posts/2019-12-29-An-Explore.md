@@ -53,7 +53,7 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 # MailTape's selection
 
 ## [An Explore](https://anexplore.bandcamp.com/) - Small Drop (Suikinkutsu)
-Jules: **"**This song is refering to 'Suikinkutsu', a Japanese garden water musical device where water dripping into a large earthenware jar onto water, creates sounds. Macdonald explains that he created a version of Suikinkutsu by purchasing a large pot and tray from a garden centre and recorded the water as it dripped into the reservoir, selecting parts where the melody of the water splashing spoke loudest. I've never been to Japan but this song almost takes me there.**"**
+Jules: **"**This song is referring to 'Suikinkutsu', a Japanese garden water musical device where water dripping into a large earthenware jar onto water, creates sounds. Macdonald explains he created a version of Suikinkutsu by purchasing a large pot and tray from a garden centre and recorded the water as it dripped into the reservoir, selecting parts where the melody of the water splashing spoke loudest. I've never been to Japan, but this song almost takes me there.**"**
 
 ## [Slow Meadow](https://slowmeadow.bandcamp.com/) - Artificial Algorithm
 Jules: **"****"**
