@@ -33,7 +33,7 @@ track5_title: Slow Meadow - Artificial Algorithm
 ---
 <p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).
 <br><br>
-
+To record "One", his five-track album released under the name of An Explore, Rob Macdonald has teamed with long time collaborator Lucy Wilkins to add violins and occasional vocal on his mix of piano and guitar melodies, electronic experimentations and field recordings.
 </p>
 
 
@@ -53,7 +53,7 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 # MailTape's selection
 
 ## [An Explore](https://anexplore.bandcamp.com/) - Small Drop (Suikinkutsu)
-Jules: **"****"**
+Jules: **"**This song is inspired by Japanese garden water musical devices ''Suikinkutsu' is where water is allowed to drip into a large earthenware jar onto water, creating beautiful sounds', explains Macdonald. 'I created a version of Suikinkutsu by purchasing a large pot and tray from a garden centre and recorded the water as it dripped into the reservoir, selecting parts where the melody of the water splashing spoke loudest'.**"**
 
 ## [Slow Meadow](https://slowmeadow.bandcamp.com/) - Artificial Algorithm
 Jules: **"****"**
