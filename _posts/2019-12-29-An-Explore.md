@@ -59,7 +59,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## Manitoba - Brandon
-Jules: **"****"**
+Jules: **"**Manitoba was Dan Snaith's original stage name, before he was forced to changed it to Caribou (and his house music alter-ego Daphni). Manitoba is also the name of a province at the centre of Canada. Taken from Snaith's first album "Start Breaking My heart", this track evokes **"**
 
 ## [Maksim](https://www.facebook.com/maksimresolute/) - Untitled (A2)
 Jules: **"**A damn fine coffee served with a slice of cherry pie at the same table as Dale Cooper. In the background, the silhouette of Bill Murray wandering in a Japanese hotel. In the distance, the enchanting voices of Scarlett Johansson and Julee Cruise. Everything you could dream of on a Sunday morning is in this untitled track from Maksim, one of the DJs revealed by the NY-based vinyl only label [ALINE Brooklyn](https://www.facebook.com/alinebrooklynn/).**"**
