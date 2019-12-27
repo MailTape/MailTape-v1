@@ -31,7 +31,7 @@ track4_color: bliss
 track5_color: dreamy
 track5_title: Slow Meadow - Artificial Algorithm
 ---
-<p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee watching the sky behind your window. 
+<p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee watching the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).
 <br><br>
 
 </p>
