@@ -56,7 +56,7 @@ Rob: **"**Everything as it should be. Beautifully played, beautifully recorded. 
 Jules: **"**This song is referring to 'Suikinkutsu', a Japanese garden water musical device where water dripping into a large earthenware jar onto water, creates sounds. Macdonald explains he created a version of Suikinkutsu by purchasing a large pot and tray from a garden centre and recorded the water as it dripped into the reservoir, selecting parts where the melody of the water splashing spoke loudest. I've never been to Japan, but this song almost takes me there.**"**
 
 ## [Slow Meadow](https://slowmeadow.bandcamp.com/) - Artificial Algorithm
-Jules: **"****"**
+Jules: **"**Taken from 'Happy Occident', Slow Meadow's third full-length album, this song is one of those we like to listen to alone, taking our time and letting our thoughts travel. With his collection of textured ambient melodies, multi-instrumentalist Matt Kidd is creating a warm place for reflection and offering us time to cure the anxiety derivative of modern life and always more present technology.**"**
 
 ## Manitoba - Brandon
 Jules: **"**Manitoba was Dan Snaith's original stage name, before he was forced to change it to [Caribou](https://caribouband.bandcamp.com/) (and his house music alter-ego Daphni). Manitoba is also the name of a province at the centre of Canada. Taken from Snaith's first album "Start Breaking My heart" released in 2001, to me this track evokes both the vast plains of Canada where the wind rushes in without any noise and the sadness of abandoned urban landscapes.**"**
