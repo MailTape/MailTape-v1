@@ -30,6 +30,7 @@ track6_title: Manitoba - Brandon
 track4_color: bliss
 track5_color: dreamy
 track5_title: Slow Meadow - Artificial Algorithm
+guestPic: guestPic386.jpg
 ---
 <p id="introduction"> This morning, it's finally time to slow down, stay awake for eternity in bed before enjoying a hot coffee contemplating the sky behind your window. Prepare for an exploratory musical morning journey with [An Explore](https://anexplore.bandcamp.com/).
 <br><br>
