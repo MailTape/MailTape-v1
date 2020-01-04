@@ -12,6 +12,16 @@ author: Anaïs G
 published: false
 track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
 track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
+track1_title: Rubin Steiner - Paradise
+track1_color: dreamy
+track2_title: Richard Dawson - Weaver
+track2_color: vibrant
+track3_title: 'Cat Power - Sun '
+track3_color: dreamy
+track4_title: Bobun Fever - Happy Banana
+track4_color: trippy
+track5_title: Lachinos - Alas Rotas
+track5_color: bliss
 ---
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chilli instead of sugar in your coffee! 
 <br><br>
