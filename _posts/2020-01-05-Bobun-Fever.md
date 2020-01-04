@@ -38,7 +38,7 @@ Bobun Fever: **"**I love the lyrics and the shiny and metal treatment of the voi
 Anaïs G: **"**From their latest EP "Bobun Fever", released in May 2019 is a concentrate of vitamins. You have to live the experience to understand it, their concert is an explosion of good humour!**"**
 
 ## La Chinos - Alas Rotas
-Anaïs G: **"** **"**
+Anaïs G: **"**Solar and psychedelic, this song is a breath of fresh air. This Franco-South American-Maghrebo-American group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
 
 ##  - 
 Anaïs G: **"** **"**
