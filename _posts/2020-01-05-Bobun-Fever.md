@@ -34,6 +34,7 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/387/bobun-fever/'
 image: 'https://mailta.pe/img/fbPic387.png'
 musiColor: musiColor387.png
+description: ''
 ---
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chilli instead of sugar in your coffee! 
 <br><br>
@@ -65,8 +66,8 @@ Anaïs G: **"**Solar and psychedelic, this song is a breath of fresh air. This F
 ## Cannibale - Do Not Love Me Too Much
 Anaïs G: **"**It's the madness of this title that seduced me. Going in all directions, from the sounds of the Caribbean and Africa, she takes us on a whirlwind ride until we can no longer stand upright. Perfect for that tropical morning!**"**
 
-##  - 
-Anaïs G: **"** **"**
+## Nubiyan Twist - Tell It To Me Slowly
+Anaïs G: **"**Nothing better than a track from the band Nubiyan Twist to close this playlist. Extract from the album "Jungle Run" released in 2019 on Strut Records, this collective of about ten musicians communicates their joy and passion through afro-beat, jazz, hip-hop, latin music... A pleasure for the ears! **"**
 
 
 <p id="outroduction"> </p>
