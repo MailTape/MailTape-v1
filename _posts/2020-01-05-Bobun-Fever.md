@@ -53,7 +53,7 @@ Anaïs G: **"**From their latest EP "Bobun Fever", released in May 2019 is a con
 ## Lachinos - Alas Rotas
 Anaïs G: **"**Solar and psychedelic, this song is a breath of fresh air. This Franco-South American-Maghrebo-American group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
 
-## Cannibale - 
+## Cannibale - Do Not Love Me Too Much
 Anaïs G: **"** **"**
 
 ##  - 
