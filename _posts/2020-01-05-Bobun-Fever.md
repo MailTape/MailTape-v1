@@ -55,7 +55,7 @@ Anaïs G: **"**From their latest EP "Bobun Fever", released in May 2019 is a con
 Anaïs G: **"**Solar and psychedelic, this song is a breath of fresh air. This Franco-South American-Maghrebo-American group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
 
 ## Cannibale - Do Not Love Me Too Much
-Anaïs G: **"** **"**
+Anaïs G: **"**It's the madness of this title that seduced me. Going in all directions, from the sounds of the Caribbean and Africa, she takes us on a whirlwind ride until we can no longer stand upright. Perfect for that tropical morning!**"**
 
 ##  - 
 Anaïs G: **"** **"**
