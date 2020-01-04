@@ -35,7 +35,7 @@ Bobun Fever: **"**I love the lyrics and the shiny and metal treatment of the voi
 # MailTape's selection
 
 ## Bobun Fever - Happy Banana
-Anaïs G: **"** **"**
+Anaïs G: **"**From their latest EP "Bobun Fever", released in May 2019 is a concentrate of vitamins. You have to live the experience to understand it, their concert is an explosion of good humour!**"**
 
 ## La Chinos - Alas Rotas
 Anaïs G: **"** **"**
