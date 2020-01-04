@@ -10,4 +10,6 @@ writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: false
+track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
+track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
 ---
