@@ -34,6 +34,12 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/387/bobun-fever/'
 image: 'https://mailta.pe/img/fbPic387.png'
 musiColor: musiColor387.png
+description: >-
+  This morning, we are optimistic, it is a new year full of hope and discovery.
+  It's one of the MailTape crew's promises, more music, always with the desire
+  to share new bands, and to love your Sunday morning. To honour the year 2020,
+  nothing better than Bobun Fever  to put chili instead of sugar in your
+  coffee!
 ---
 
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than [Bobun Fever](https://www.facebook.com/bobunfever/) to put chili instead of sugar in your coffee! 
