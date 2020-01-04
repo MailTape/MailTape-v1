@@ -12,6 +12,8 @@ author: Anaïs G
 published: false
 track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
 track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/387/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/387/track3.mp3'
 track1_title: Rubin Steiner - Paradise
 track1_color: dreamy
 track2_title: Richard Dawson - Weaver
@@ -48,7 +50,8 @@ Bobun Fever: **"**I love the lyrics and the shiny and metal treatment of the voi
 Anaïs G: **"**From their latest EP "Bobun Fever", released in May 2019 is a concentrate of vitamins. You have to live the experience to understand it, their concert is an explosion of good humour!**"**
 
 ## La Chinos - Alas Rotas
-Anaïs G: **"**Solar and psychedelic, this song is a breath of fresh air. This Franco-South American-Maghrebo-American group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
+Anaïs G: **"**![guestPic387.jpg]({{site.baseurl}}/img/guestPic387.jpg)
+Solar and psychedelic, this song is a breath of fresh air. This Franco-South American-Maghrebo-American group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
 
 ##  - 
 Anaïs G: **"** **"**
