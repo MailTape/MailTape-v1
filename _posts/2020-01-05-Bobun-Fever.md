@@ -36,9 +36,9 @@ image: 'https://mailta.pe/img/fbPic387.png'
 musiColor: musiColor387.png
 ---
 ![guestPic387.jpg]({{site.baseurl}}/img/guestPic387.jpg)
-<p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chili instead of sugar in your coffee! 
+<p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chili instead of sugar in your coffee! 
 <br><br>
-Psychedelic, explosive, causing. . . There are many other adjectives that could define Bobun Fever. Originally from Orleans, this musical hybrid takes us to their planet where celebration and sharing emotions are the order of the day. A moment of communion to be lived in concert. 
+Psychedelic, explosive, causing... There are many other adjectives that could define Bobun Fever. Originally from Orleans, this musical hybrid takes us to their planet where celebration and sharing emotions are the order of the day. A moment of communion to be lived in concert. 
 </p>
 
 
