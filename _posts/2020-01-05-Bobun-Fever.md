@@ -9,7 +9,7 @@ category: '387'
 writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
-published: false
+published: true
 track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
 track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/387/track2.mp3'
