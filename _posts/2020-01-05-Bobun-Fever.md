@@ -34,7 +34,6 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/387/bobun-fever/'
 image: 'https://mailta.pe/img/fbPic387.png'
 musiColor: musiColor387.png
-description: ''
 ---
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chilli instead of sugar in your coffee! 
 <br><br>
@@ -70,4 +69,4 @@ Anaïs G: **"**It's the madness of this title that seduced me. Going in all dire
 Anaïs G: **"**Nothing better than a track from the band Nubiyan Twist to close this playlist. Extract from the album "Jungle Run" released in 2019 on Strut Records, this collective of about ten musicians communicates their joy and passion through afro-beat, jazz, hip-hop, latin music... A pleasure for the ears! **"**
 
 
-<p id="outroduction"> </p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Bobun Fever for his first Sunday selections that 2020, and Pierre-Julien Fieux for his brilliant illustration!</p>
