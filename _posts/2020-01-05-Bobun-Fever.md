@@ -29,7 +29,7 @@ track5_title: Lachinos - Alas Rotas
 track5_color: bliss
 track6_title: Cannibale - Do Not Love Me Too Much
 track6_color: trippy
-track7_title: 'Nubiyan Twist - '
+track7_title: Nubiyan Twist - Tell It To Me Slowly
 track7_color: bliss
 episode_URL: 'http://mailta.pe/387/bobun-fever/'
 image: 'https://mailta.pe/img/fbPic387.png'
