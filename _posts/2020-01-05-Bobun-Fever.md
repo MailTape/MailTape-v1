@@ -16,6 +16,7 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/387/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/387/track3.mp3'
 track6_link: >-
   https://soundcloud.com/bornbadrecords/cannibale-do-not-love-me-too-much-from-not-easy-to-cook-lp-out-16th-november
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/387/track7.mp3'
 track1_title: Rubin Steiner - Paradise
 track1_color: dreamy
 track2_title: Richard Dawson - Weaver
@@ -28,7 +29,7 @@ track5_title: Lachinos - Alas Rotas
 track5_color: bliss
 track6_title: Cannibale - Do Not Love Me Too Much
 track6_color: trippy
-track7_title: 'https://mailtapesounds.s3.amazonaws.com/387/track7.mp3'
+track7_title: 'Nubiyan Twist - '
 track7_color: bliss
 episode_URL: 'http://mailta.pe/387/bobun-fever/'
 image: 'https://mailta.pe/img/fbPic387.png'
