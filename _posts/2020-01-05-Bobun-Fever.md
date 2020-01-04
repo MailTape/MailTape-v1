@@ -26,6 +26,8 @@ track4_title: Bobun Fever - Happy Banana
 track4_color: trippy
 track5_title: Lachinos - Alas Rotas
 track5_color: bliss
+track6_title: Cannibale - Do Not Love Me Too Much
+track6_color: trippy
 ---
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chilli instead of sugar in your coffee! 
 <br><br>
