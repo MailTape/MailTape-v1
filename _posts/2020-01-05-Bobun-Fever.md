@@ -28,6 +28,11 @@ track5_title: Lachinos - Alas Rotas
 track5_color: bliss
 track6_title: Cannibale - Do Not Love Me Too Much
 track6_color: trippy
+track7_title: 'https://mailtapesounds.s3.amazonaws.com/387/track7.mp3'
+track7_color: bliss
+episode_URL: 'http://mailta.pe/387/bobun-fever/'
+image: 'https://mailta.pe/img/fbPic387.png'
+musiColor: musiColor387.png
 ---
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to kiffer your Sunday morning. To honour the year 2020, nothing better than Bobun Fever to put chilli instead of sugar in your coffee! 
 <br><br>
