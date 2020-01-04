@@ -14,7 +14,8 @@ track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
 track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/387/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/387/track3.mp3'
-track6_link: 'https://soundcloud.com/cannibaleband/sets/not-easy-to-cook-new-album-private'
+track6_link: >-
+  https://soundcloud.com/bornbadrecords/cannibale-do-not-love-me-too-much-from-not-easy-to-cook-lp-out-16th-november
 track1_title: Rubin Steiner - Paradise
 track1_color: dreamy
 track2_title: Richard Dawson - Weaver
