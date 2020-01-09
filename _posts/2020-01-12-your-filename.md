@@ -17,6 +17,9 @@ author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_color: rough
+track4_link: 'https://soundcloud.com/viergeascendant/faire-et-refaire'
+track4_title: Ascendant Vierge - Faire et Refaire
+track4_color: rough
 ---
 ## A New Post
 
