@@ -20,7 +20,9 @@ guest_color: rough
 track4_link: 'https://soundcloud.com/viergeascendant/faire-et-refaire'
 track4_title: Ascendant Vierge - Faire et Refaire
 track4_color: rough
+guestPic: guestPic388.jpg
 ---
 ## A New Post
+![guestPic388.jpg]({{site.baseurl}}/img/guestPic388.jpg)
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
