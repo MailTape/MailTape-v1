@@ -5,7 +5,7 @@ published: false
 track1_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/388/track1.mp3'
 track2_link: 'https://soundcloud.com/ihatemodels/a1-intergalactic-emotional'
 track3_link: 'https://soundcloud.com/acloudyskye/alignment'
-track1_color: rough
+track1_color: dreamy
 track2_color: rough
 track3_color: rough
 track1_title: Grimes -  So Heavy I Fell Through the Earth (Algorithm Mix)
