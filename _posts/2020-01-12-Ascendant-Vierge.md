@@ -37,7 +37,7 @@ description: ''
 ---
 
 <p id="introduction"> 
-  This morning, we are extremely thrilled to have [ascendant vierge](https://soundcloud.com/viergeascendant) as our dear guests. This duo gathers two rebel spirits, [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) and [Paul Seul](https://soundcloud.com/paulseul). Trying to describe their music with words would only reduce it. They're courageously opening a road to a contemporary genre filled with a unique cathartic energy comparable to what Crystal Castles created 13 years ago. 
+  This morning, we are extremely thrilled to have [ascendant vierge](https://soundcloud.com/viergeascendant) as our dear guests. This duo gathers two rebel spirits, [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) and [Paul Seul](https://soundcloud.com/paulseul). Trying to describe their music with words would only reduce it. They're courageously opening a road to a contemporary genre filled with a unique cathartic energy comparable to what [Crystal Castles](https://crystalcastles.bandcamp.com/track/empathy) created 13 years ago. 
   <br><br>I see their motive similar to what I experience when I look at a piece from [Lucio Fontana](https://duckduckgo.com/?q=lucio+fontana&t=ffab&atb=v126-1&iax=images&ia=images) who's allegedly known for slicing and carving spaces right into his canvas. Such bold gesture never leave indifferent, either one hates it or loves it, there's no so-so. It's this kind of radical action which leaded me to curate this episode with (almost) only rough tracks when it used to be a kind of frontier I never dared to cross for the past 9ish years of MailTape.
   </p>
   
