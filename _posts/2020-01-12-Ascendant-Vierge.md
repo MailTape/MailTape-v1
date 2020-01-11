@@ -21,6 +21,9 @@ track4_link: 'https://soundcloud.com/viergeascendant/faire-et-refaire'
 track4_title: Ascendant Vierge - Faire et Refaire
 track4_color: rough
 guestPic: guestPic388.jpg
+track5_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/388/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/388/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/388/track7.mp3'
 ---
 
 <p id="introduction"> This morning, we are optimistic, it is a new year full of hope and discovery. It's one of the MailTape crew's promises, more music, always with the desire to share new bands, and to love your Sunday morning. To honour the year 2020, nothing better than [Bobun Fever](https://www.facebook.com/bobunfever/) to put chili instead of sugar in your coffee! 
