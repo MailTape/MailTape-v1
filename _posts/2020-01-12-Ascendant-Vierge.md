@@ -58,16 +58,16 @@ ascendant vierge: **"**We have a guilty pleasure for Dubstep and always trying t
 # MailTape's selection
 
 ## ascendant vierge - Faire et Refaire
-ImaCrea: **"**From their latest EP "[Bobun Fever](https://bobunfever.bandcamp.com/)", released in May 2019 is a concentrate of vitamins. You have to live the experience to understand it, their concert is an explosion of good humour!**"**
+ImaCrea: **"** My addiction with ascendant vierge started right from their first track "Influenceur". This is their latest track and it's still encapsulating all the energy I'm craving for when I listen to them. If you have the occasion, go to their show see them live, the chaos it ignites makes any Gilet Jaunes riot ridiculous compared to it.**"**
 
-## [Lachinos](https://www.facebook.com/LachinosMusic/) - Alas Rotas
-ImaCrea: **"**Solar and psychedelic, this song is a breath of fresh air. This franco-south american-maghrebo-american group amazes us with their exoticism but also with a nice clip explaining the uprooting in a poetic way.**"**
+## Giant Swan - Pandaemonium
+ImaCrea: **"****"**
 
-## [Cannibale](https://cannibale.bandcamp.com/album/not-easy-to-cook) - Do Not Love Me Too Much
-ImaCrea: **"**It's the madness of this title that seduced me. Going in all directions, from the sounds of the Caribbean and Africa, she takes us on a whirlwind ride until we can no longer stand upright. Perfect for that tropical morning!**"**
+## FUMU - Skinned - 01 A1 - Untitled
+ImaCrea: **"**ff**"**
 
-## Nubiyan Twist - Tell It To Me Slowly
-ImaCrea: **"**Nothing better than a track from the band Nubiyan Twist to close this playlist. Extract from the album "[Jungle Run](https://nubiyantwist.bandcamp.com/album/jungle-run)" released in 2019 on [Strut Records](http://www.strut-records.com/), this collective of about ten musicians communicates their joy and passion through afro-beat, jazz, hip-hop, latin music... A pleasure for the ears! **"**
+## Overmono - Salt Mix
+ImaCrea: **"**ff**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Bobun Fever](http://www.tricollectif.fr/bobunfever/) for his first Sunday selections that 2020, and [Pierre-Julien Fieux](https://www.pierrejulienfieux.com/) for his brilliant illustration!</p>
