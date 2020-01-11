@@ -30,10 +30,21 @@ track7_color: rough
 track5_title: Giant Swan - Pandaemonium
 track6_title: FUMU - Skinned - 01 A1 - Untitled
 track7_title: Overmono - Salt Mix
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+episode_URL: 'https://www.mailta.pe/388/ascendant-vierge/'
+image: 'https://mailta.pe/img/fbPic388.png'
+musiColor: musiColor388.png
+description: >-
+  This morning, we are extremely thrilled to have ascendant vierge as our dear
+  guests. This duo gathers two rebel spirits, Mathilde Fernandez and Paul Seul.
+  Trying to describe their music with words would only reduce it. They’re
+  courageously opening a road to a contemporary genre filled with a unique
+  cathartic energy comparable to what Crystal Castles created 13 years ago.  I
+  see their motive similar to what I experience when I look at a piece from
+  Lucio Fontana who’s allegedly known for slicing and carving spaces right into
+  his canvas. Such bold gesture never leave indifferent, either one hates it or
+  loves it, there’s no so-so. It’s this kind of radical action which leaded me
+  to curate this episode with (almost) only rough tracks. A frontier I never
+  dared to cross for the past 9ish years of MailTape.
 ---
 
 <p id="introduction"> 
