@@ -42,7 +42,7 @@ description: ''
   </p>
   
 # WORK - BUY - ENJOY
-It was all a fantasy. Jump up, shake that away of your mind, purify yourself through dance and let the music waves pump love in your blood. Every second is lived for the first and the last time, you know what's really good for you and others deep in yourself. Do what's right.
+It was all a fantasy. Jump up, shake that away off your mind, purify yourself through dance and let the music waves pump love in your veins. Every second is lived for the first and the last time, only *you* know what's really good for you and others.
 
 # ascendant vierge's selection
 
