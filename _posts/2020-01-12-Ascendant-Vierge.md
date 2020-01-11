@@ -39,9 +39,10 @@ description: ''
 <p id="introduction"> 
   This morning, we are extremely thrilled to have ascendant vierge as our dear guests. This duo gathers two rebel spirits, Mathilde Fernandez and Paul Seul. Trying to describe their music with words would only reduce it. They're courageously opening a road to a contemporary genre filled with a unique cathartic energy comparable to what Crystal Castles created 13 years ago. 
   <br><br>I see their motive similar to what I experience when I look at a piece from [Lucio Fontana](https://duckduckgo.com/?q=lucio+fontana&t=ffab&atb=v126-1&iax=images&ia=images) who's allegedly known for slicing and carving spaces right into his canvas. Such bold gesture never leave indifferent, either one hates it or loves it, there's no so-so. It's this kind of radical action which leaded me to curate this episode with (almost) only rough tracks. 
-  <br><br>"Work, buy, be happy", it was all a fantasy. Jump up, shake that away of your mind, purify yourself through dance and let the music waves pump love in your blood. Every second is lived for the first and the last time, you know what's really good for you and others deep in yourself. Do what's right.
-</p>
-
+  </p>
+  
+# WORK - BUY - ENJOY
+It was all a fantasy. Jump up, shake that away of your mind, purify yourself through dance and let the music waves pump love in your blood. Every second is lived for the first and the last time, you know what's really good for you and others deep in yourself. Do what's right.
 
 # ascendant vierge's selection
 
