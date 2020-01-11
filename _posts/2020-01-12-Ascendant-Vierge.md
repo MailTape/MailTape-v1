@@ -66,7 +66,7 @@ ImaCrea: **"**My addiction with ascendant vierge started right from their first 
 ImaCrea: **"**Virtuosity and chaos, this guys are playing with entropy here. I wonder what Rudolf Clausius would have though of it.**"**
 
 ## FUMU - Skinned - 01 A1 - Untitled
-ImaCrea: **"**Only UK has the secret to kind of vibes. Perfect drum programming melted with hectic noises and jungle spirit.**"**
+ImaCrea: **"**It seems that only UK has the secret to this kind of vibes. Perfect drum programming melted with hectic noises and jungle spirit.**"**
 
 ## Overmono - Salt Mix
 ImaCrea: **"**I missed this vibe for a while, makes me think about Mount Kimbie's beginnings...**"**
