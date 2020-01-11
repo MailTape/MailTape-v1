@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://mailtapesounds.s3.eu-west-3.amazonaws.com/388/track1.mp3'
 track2_link: 'https://soundcloud.com/ihatemodels/a1-intergalactic-emotional'
 track3_link: 'https://soundcloud.com/acloudyskye/alignment'
