@@ -61,13 +61,13 @@ ascendant vierge: **"**We have a guilty pleasure for Dubstep and always trying t
 ImaCrea: **"**My addiction with ascendant vierge started right from their first track "Influenceur". "Faire et Refaire" is their latest track and it's still encapsulating all the energy I'm craving for when I listen to them. If you have the occasion, go to their show see them live, the chaos it ignites makes any gilet jaunes riot ridiculous compared to it.**"**
 
 ## Giant Swan - Pandaemonium
-ImaCrea: **"****"**
+ImaCrea: **"**Virtuosity and chaos, this guys are playing with entropy here. I wonder what Rudolf Clausius would have though of it.**"**
 
 ## FUMU - Skinned - 01 A1 - Untitled
-ImaCrea: **"**ff**"**
+ImaCrea: **"**Only UK has the secret to kind of vibes. Perfect drum programming melted with hectic noises and jungle spirit.**"**
 
 ## Overmono - Salt Mix
-ImaCrea: **"**ff**"**
+ImaCrea: **"**I missed this vibe for a while, makes me think about Mount Kimbie's beginnings...**"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Bobun Fever](http://www.tricollectif.fr/bobunfever/) for his first Sunday selections that 2020, and [Pierre-Julien Fieux](https://www.pierrejulienfieux.com/) for his brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. We hope you enjoyed listening to this episode as much as we had crafting it. Much love and respect to [ascendant vierge](https://soundcloud.com/viergeascendant), and Julie Wojtczak for her stunning illustration!</p>
