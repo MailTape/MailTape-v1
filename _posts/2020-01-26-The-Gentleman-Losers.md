@@ -41,13 +41,13 @@ Their debut album, [Unfurl](https://www.franandflora.com/unfurl.html), was relea
 # The Gentleman Losers's selection
 
 ## Amanda Bergman – Questions
-_The Gentleman Losers_: **"**This mantra-like tune reconnects me with the knowledge that it's the journey which is important not the destination; that it is how we conduct ourselves in each moment that counts, and not necessarily our goals. This song reminds me how we can actually create joy, and of the importance of looking after our mental health. But it's not just the message of the song that lifts and strengthens me, the whole spirit of the song fills me with happiness, and make my body and soul dance!**"**
+_The Gentleman Losers_: **"**Amanda’s voice has the sense of melancolie, sadness and longing that we’re always drawn to. It has that “Scandinavian Pain”. This is the best cure for your Sunday morning headaches.**"**
 
 ## Discovery Zone – Fall Apart
-_The Gentleman Losers_: **"**This track is meditative, introverted, emotional, enigmatic, contemplative and fiendishly hard to play. The trick is to make it sound easy. The rhythm is in a lilting 3/4 with an emphasis on the 2nd beat. Apparently the rhythm comes from a Moorish women's dance, but it has its roots in many sources. The chord progression is like that of a modern singer-songwriter ballad, but it was written in the early 1700’s. Everyone knows Bach invented the modern notion of Western harmony in all its wonders and complexities. I like to listen to this piece as it takes me on a different journey every time. [Mike Block](https://www.mikeblockmusic.com/) is an amazing cellist and teacher from Boston, MA. His CD 'Echos of Bach’ is full of stunning solo performances but this is my favourite.**"**
+_The Gentleman Losers_: **"**Discovery Zone is the space cocktail of JJ Weihl of Fenster fame. As the song implies you sometimes have to let yourself fall apart in order to find out who you are. I guess this has been going on with us too. JJ’s music and visuals have a fresh perspective. Reminder for all not get stuck to one’s old habits.**"**
 
 ## El Perro Del Mar – Change of Heart
-_The Gentleman Losers_: **"**Why do I like this? Well, no one plays like Abdul - he could improvise like no-one else and plays the shit out of the Cello. Abdul was mostly performing with different jazz outfits and solo in Chicago in the 80’s. He was doing things with the cello no-one else got close to. His style encompasses so many different influences and instruments which you can hear in his improvisations. Every time I listen to this album I hear something different, and it always makes me laugh because his playing is so cheeky and goes wherever it wants to go. No expectations or prerequisites. The heart of improvisation!**"**
+_The Gentleman Losers_: **"**EPDM has early on been a big inspiration to us. Quite frankly I think this is the best pop song ever written.**"**
 
 
 # MailTape's selection
