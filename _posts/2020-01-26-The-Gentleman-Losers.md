@@ -8,6 +8,28 @@ writer: Sanjay Mistry
 category: '390'
 guest_name: The Gentleman Losers
 guest_color: dreamy
+track1_link: 'https://soundcloud.com/amandabergman/questions'
+track2_link: 'https://soundcloud.com/user-567427457/fall-apart'
+track3_link: 'https://soundcloud.com/el-perro-del-mar/change-of-heart'
+track4_link: 'https://soundcloud.com/the-gentleman-losers/always-crashing-on-the-same-wave'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/390/track5.mp3'
+track6_link: 'https://soundcloud.com/stolenbodyrecords/04-quagmire-moon'
+track7_link: 'https://soundcloud.com/jahtari_records/waqwaq-kingdom-koko-says'
+track1_title: Amanda Bergman – Questions
+track1_color: dreamy
+track2_title: Discovery Zone – Fall Apart
+track2_color: bliss
+track3_title: El Perro Del Mar – Change of Heart
+track3_color: vibrant
+track4_title: The Gentleman Losers – Always Crashing on the Same Wave
+track4_color: dreamy
+track5_title: Tunes of Negation – Tundra Erotic
+track5_color: bliss
+track6_title: Yama Warashi – Quagmire Moon
+track6_color: trippy
+track7_title: WaqWaq Kingdom – Koko Says
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/390/the-gentleman-losers/'
 ---
 <p id="introduction">This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
 <br><br>
