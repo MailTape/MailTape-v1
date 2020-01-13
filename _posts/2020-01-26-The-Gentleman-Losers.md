@@ -38,7 +38,7 @@ Well known in London's experimental folk and jazz scenes, Fran and Flora acknowl
 Their debut album, [Unfurl](https://www.franandflora.com/unfurl.html), was released earlier this year and they will be [on tour](https://www.franandflora.com/live.html) throughout the UK until mid-December.
 </p>
 
-# The Gentleman Losers's selection
+# The Gentleman Losers' selection
 
 ## Amanda Bergman – Questions
 _The Gentleman Losers_: **"**[Amanda](https://www.instagram.com/bergmanama/)’s voice has the sense of melancholy sadness and longing that we’re always drawn to. It has that “Scandinavian pain”. This is the best cure for your Sunday morning headaches.**"**
