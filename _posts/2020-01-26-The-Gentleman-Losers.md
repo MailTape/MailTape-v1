@@ -31,7 +31,7 @@ track7_title: WaqWaq Kingdom – Koko Says
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/390/the-gentleman-losers/'
 ---
-<p id="introduction">This morning we are delighted to welcome [Fran and Flora](https://www.franandflora.com/), the London-based string duo of Francesca Ter-Berg and Flora Curzon, to select some Sunday morning tunes with us on MailTape.
+<p id="introduction">This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.
 <br><br>
 Well known in London's experimental folk and jazz scenes, Fran and Flora acknowledge a wide range of musical influences, from Bach to Alice Coltrane by way of Shostakovitch. Their playing is, by turns, vibrant, mournfully expressive, creatively imaginative and imbued with elegance.
 <br><br>
