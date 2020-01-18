@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 author: Sanjay Mistry
-illustrator: Camille Célestin
+illustrator: Thibault Daumain
 writer: Sanjay Mistry
 category: '390'
 guest_name: The Gentleman Losers
