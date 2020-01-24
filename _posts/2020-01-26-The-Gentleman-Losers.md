@@ -63,7 +63,7 @@ _Sanjay_: **"**This feels like an appropriate track for the depths of winter in 
 ## Tunes of Negation – Tundra Erotic
 _Sanjay_: **"**[Tunes of Negation](https://samshackleton.bandcamp.com/album/tunes-of-negation-reach-the-endless-sea) is a new project from Shackleton, featuring [Heather Leigh](https://www.wishimage.com/), [Takumi Motokawa](http://takumimotokawa.com/), and [Raphael Meinhart](http://www.raphaelmeinhart.com/) in a world of binding rhythms where reality and imagination collide. The trio of instrumentalists conjure a mazy trajectory, as minimal wooden percussion and hand drums form a bedrock for drifting organ and synth drones and disembodied vocalisations. The drums pick up the pace with ostinato patterns and the track slips into a state of hypnotic repetition.**"**
 
-## Yama Warashi – Quagmire Moon
+## [Yama Warashi](https://www.yamawarashi.com/) – Quagmire Moon
 _Sanjay_: **"**Apparently this track is all about the moon getting pissed off with smoke from a chimney. The eclectic Bristolian sextet (whose Japanese moniker translates as a “small child-like spirit which lives in the mountains") marry Japanese folk with psych grooves and African beats that sounds like it's from another realm entirely. Bandleader Yoshino Shigihara's voice is a treat, flexing around the elastic challenges of the music, played with conviction and verve.**"**
 
 ## WaqWaq Kingdom – Koko Says
