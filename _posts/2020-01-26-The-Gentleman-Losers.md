@@ -31,6 +31,7 @@ track7_title: WaqWaq Kingdom – Koko Says
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/390/the-gentleman-losers/'
 guestPic: guestPic390.jpg
+image: 'https://mailta.pe/img/fbPic390.jpg'
 ---
 <p id="introduction">This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.
 <br><br>
