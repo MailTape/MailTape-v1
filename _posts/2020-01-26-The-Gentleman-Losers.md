@@ -33,7 +33,7 @@ episode_URL: 'http://mailta.pe/390/the-gentleman-losers/'
 ---
 <p id="introduction">This morning we are delighted to welcome brothers Samu and Ville Kuukka from Helsinki, who have been making music together as [The Gentleman Losers](https://www.gentlemanlosers.com/) since their early teens.
 <br><br>
-The Gentleman Losers encapsulate a universe of quiet musical aspirations in a breezy, effortless way. Painting vivid sonic pictures by coaxing dusty guitars, brushed drums and archive documentary music into a blissful daydream, they manage to distil their sound into a pithy pastoral hymn.
+Samu and Ville encapsulate a universe of quiet musical aspirations in a breezy, effortless way. Painting vivid sonic pictures by coaxing dusty guitars, brushed drums and archive documentary music into a blissful daydream, they manage to distil their sound into a pithy pastoral hymn.
 <br><br></p>
 
 # The Gentleman Losers' selection
