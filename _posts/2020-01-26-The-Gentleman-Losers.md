@@ -67,7 +67,7 @@ _Sanjay_: **"**[Tunes of Negation](https://samshackleton.bandcamp.com/album/tune
 _Sanjay_: **"**Apparently this track is all about the moon getting pissed off with smoke from a chimney. The eclectic Bristolian sextet (whose Japanese moniker translates as a “small child-like spirit which lives in the mountains") marry Japanese folk with psych grooves and African beats that sounds like it's from another realm entirely. Bandleader Yoshino Shigihara's voice is also a treat, flexing around the elastic challenges of the music, played with conviction and verve.**"**
 
 ## WaqWaq Kingdom – Koko Says
-_Sanjay_: **"**Taken from the Urdu word for 'jungle', this is the title track from sarod-player [Soumik Datta](https://www.soumikdatta.com/)'s latest EP, [Jangal](https://www.soumikdatta.com/music/jangal). Resting somewhere roughly between a mellifluous sonic dance and lament, this track contains the tension and release felt throughout the EP, crescendoing into grievous rage as it progresses.**"**
+_Sanjay_: **"**[Kiki Hitomi](http://kikihitomi.com/) is back with another killer project, this time produced by Shigeru Ishihara a.k.a. [DJ Scotch Egg](https://www.djscotchegg.org/).**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [The Gentleman Losers](https://www.gentlemanlosers.com/) for their Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for his brilliant illustration!</p>
