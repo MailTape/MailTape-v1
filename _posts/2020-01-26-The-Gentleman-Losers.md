@@ -49,7 +49,7 @@ Samu and Ville encapsulate a universe of quiet musical aspirations in a breezy, 
 _The Gentleman Losers_: **"**[Amanda](https://www.instagram.com/bergmanama/)’s voice has the sense of melancholy sadness and longing that we’re always drawn to. It has that “Scandinavian pain”. This is the best cure for your Sunday morning headaches.**"**
 
 ## Discovery Zone – Fall Apart
-_The Gentleman Losers_: **"**Discovery Zone is the space cocktail of JJ Weihl of Fenster fame. As the song implies you sometimes have to let yourself fall apart in order to find out who you are. I guess this has been going on with us too. JJ’s music and visuals have a fresh perspective. Reminder for all not get stuck to one’s old habits.**"**
+_The Gentleman Losers_: **"**Discovery Zone is the space cocktail of JJ Weihl of Fenster fame. As the song implies you sometimes have to let yourself fall apart in order to find out who you are. I guess this has been going on with us too. JJ’s music and visuals have a fresh perspective. Reminder for all not get stuck to ones old habits.**"**
 
 ## El Perro Del Mar – Change of Heart
 _The Gentleman Losers_: **"**[EPDM](http://www.elperrodelmar.com/) has early on been a big inspiration to us. Quite frankly I think this is the best pop song ever written.**"**
