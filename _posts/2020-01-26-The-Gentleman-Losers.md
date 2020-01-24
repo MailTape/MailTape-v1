@@ -66,4 +66,4 @@ _Sanjay_: **"**[Tomeka Reid](https://www.tomekareid.net/) is one of my favourite
 _Sanjay_: **"**Taken from the Urdu word for 'jungle', this is the title track from sarod-player [Soumik Datta](https://www.soumikdatta.com/)'s latest EP, [Jangal](https://www.soumikdatta.com/music/jangal). Resting somewhere roughly between a mellifluous sonic dance and lament, this track contains the tension and release felt throughout the EP, crescendoing into grievous rage as it progresses.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [The Gentleman Losers](https://www.gentlemanlosers.com/) for their Sunday selections, and to one of our newest illustrators [Thibault Daumain](http://thibaultdaumain.fr/) for his brilliant illustration!</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [The Gentleman Losers](https://www.gentlemanlosers.com/) for their Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for his brilliant illustration!</p>
