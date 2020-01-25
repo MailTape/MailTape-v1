@@ -67,7 +67,7 @@ _Sanjay_: **"**[Tunes of Negation](https://samshackleton.bandcamp.com/album/tune
 _Sanjay_: **"**Apparently this track is all about the moon getting pissed off with smoke from a chimney. The eclectic Bristolian sextet (whose Japanese moniker translates as a “small child-like spirit which lives in the mountains") marry Japanese folk with psych grooves and African beats that sounds like it's from another realm entirely. Bandleader Yoshino Shigihara's voice is also a treat, flexing around the elastic challenges of the music, played with conviction and verve.**"**
 
 ## WaqWaq Kingdom – Koko Says
-_Sanjay_: **"**[Kiki Hitomi](http://kikihitomi.com/) is back with another killer project, this time produced by Shigeru Ishihara a.k.a. [DJ Scotch Egg](https://www.djscotchegg.org/).**"**
+_Sanjay_: **"**[Kiki Hitomi](http://kikihitomi.com/) is back with another killer project, this time produced by Shigeru Ishihara a.k.a. [DJ Scotch Egg](https://www.djscotchegg.org/). This King Midas sound-ing track is simultaneously lighter, more psychedelic and weirder than the choppy beats and dubstepped sheets of bass of King Midas, however.**"**
 
 
 <p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [The Gentleman Losers](https://www.gentlemanlosers.com/) for their Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for his brilliant illustration!</p>
