@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+guest_name: Dharma Bum
+writer: Anaïs G
+author: Anaïs G
 ---
 
 <p id="introduction">This morning, 
