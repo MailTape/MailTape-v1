@@ -3,16 +3,41 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
-L’Essor - Biche 
 
-Grégy : This is ma lazy Sunday song. You only have to listen to the lyrics to understand why. « Passer du temps à rien faire, mais bien le faire » (nécessite traduction ?). This sentence means a lot to me. It sounds super peaceful. 
+<p id="introduction">This morning, 
+<br><br>
+</p>
 
 
-On se décide - Barbagallo
+# Dharma Bum's selection
 
-Matthieu : From Amor de Lonh, the first Barbagallo’s LP. This is a fantastic sunday mood album but focus on a broken relationship. Whatever, this is still sweet, like a perfect sunny sunday afternoon. I really enjoy this acoustic Beatles sound with the Julien’s charming voice. 
+##  Biche - L’Essor  
+_Dharma Bum_: **"**This is ma lazy Sunday song. You only have to listen to the lyrics to understand why. « Passer du temps à rien faire, mais bien le faire » (nécessite traduction ?). This sentence means a lot to me. It sounds super peaceful.**"**
 
-Grauzone - Eisbär 
+##  Barbagallo - On se décide 
+_Dharma Bum_: **"** From Amor de Lonh, the first Barbagallo’s LP. This is a fantastic sunday mood album but focus on a broken relationship. Whatever, this is still sweet, like a perfect sunny sunday afternoon. I really enjoy this acoustic Beatles sound with the Julien’s charming voice.**"**
 
-Paul : This is my winter track. Actually i didn’t knew who the band was few years ago when i rediscovered that song, but it just immediately spokes to me when i heard it, the mix between guitar/synth noise and 80’s new wave beat is very catchy.
-Short songs always make you crave for more
+##  Grauzone - Eisbär 
+_Dharma Bum_: **"**This is my winter track. Actually i didn’t knew who the band was few years ago when i rediscovered that song, but it just immediately spokes to me when i heard it, the mix between guitar/synth noise and 80’s new wave beat is very catchy. Short songs always make you crave for more.**"**
+
+
+# MailTape's selection
+
+## Dharma Bum  - 
+_Anaïs G_: **"** **"**
+
+## - 
+_Anaïs G_: **"** **"**
+
+##  - 
+_Anaïs G_: **"** **"**
+
+## - 
+_Anaïs G_: **"** **"**
+
+
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to  for his Sunday selections, and to  for his moving illustration based on a picture by [Jed Darlington-Roberts](https://jeddarlingtonroberts.com).</p>
+
+
+
+ 
