@@ -7,10 +7,15 @@ writer: Anaïs G
 author: Anaïs G
 category: '393'
 guestPic: guestPic393.jpg
+track3_link: 'https://soundcloud.com/snag-1/grauzone-eisb-r'
 track1_title: Biche - L'Essor
 track1_color: dreamy
 track2_title: Barbagallo - On se décide
 track2_color: bliss
+track3_title: Grauzone - Eisbär
+track3_color: trippy
+track4_title: 'Dharma Bum - Worship The Ease  '
+track4_color: bliss
 ---
 
 <p id="introduction">This morning, 
