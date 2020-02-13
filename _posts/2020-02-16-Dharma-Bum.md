@@ -8,7 +8,9 @@ author: Anaïs G
 category: '393'
 guestPic: guestPic393.jpg
 track1_title: Biche - L'Essor
-track1_color: bliss
+track1_color: dreamy
+track2_title: Barbagallo - On se décide
+track2_color: bliss
 ---
 
 <p id="introduction">This morning, 
