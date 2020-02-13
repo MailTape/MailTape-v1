@@ -16,6 +16,8 @@ track3_title: Grauzone - Eisbär
 track3_color: trippy
 track4_title: 'Dharma Bum - Worship The Ease  '
 track4_color: bliss
+track7_title: >-
+  https://soundcloud.com/pan-european-recording/4-je-men-souviendrai-jusqua-la?in=pan-european-recording/sets/maintenant
 ---
 
 <p id="introduction">This morning, 
