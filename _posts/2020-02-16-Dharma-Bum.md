@@ -33,6 +33,11 @@ track7_color: vibrant
 episode_URL: 'http://mailta.pe/393/dharma-bum/'
 image: 'https://mailta.pe/img/fbPic393.png'
 musiColor: musiColor393.png
+description: >-
+  This morning, it is madness that takes us, that puts us in a trance, that
+  makes us do anything, but that allows us to take things as they come and to
+  see life differently. It is this same madness that we find again this Sunday
+  with the group Dharma Bum, a measured, beautiful and energetic madness!
 ---
 
 <p id="introduction">This morning, it is madness that takes us, that puts us in a trance, that makes us do anything, but that allows us to take things as they come and to see life differently. It is this same madness that we find again this Sunday with the group [Dharma Bum](https://www.facebook.com/band.dharmabum), a measured, beautiful and energetic madness! 
