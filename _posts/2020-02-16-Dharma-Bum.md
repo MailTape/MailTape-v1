@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 guest_name: Dharma Bum
 writer: Anaïs G
 author: Anaïs G
@@ -68,4 +68,4 @@ _Anaïs G_: **"**It is on the b-side of the vinyl "[AC39 Split 7](https://soundc
 _Anaïs G_: **"**I hadn't yet listened to the track that the title had already seduced me. This was confirmed as soon as Judah Warsky started singing... So with the remix of Sarah Maison[https://soundcloud.com/sarah-maison](https://soundcloud.com/sarah-maison) that I love, it is even more sublime.**"**
 
 
-<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Dharma Bum for his Sunday selections, and to  for his moving illustration based on a picture by [Jed Darlington-Roberts](https://jeddarlingtonroberts.com).</p>
+<p id="outroduction"> That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Dharma Bum](https://soundcloud.com/dharma-bum1) for his Sunday selections, and to [Camille Célestin](https://www.instagram.com/bravocamo/) for her brilliant illustration.</p>
