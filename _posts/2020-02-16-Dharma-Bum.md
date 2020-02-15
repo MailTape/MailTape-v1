@@ -34,6 +34,8 @@ episode_URL: 'http://mailta.pe/393/dharma-bum/'
 image: 'https://mailta.pe/img/fbPic393.png'
 musiColor: musiColor393.png
 guest_color: bliss
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/393/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/393/track2.mp3'
 description: >-
   This morning, it is madness that takes us, that puts us in a trance, that
   makes us do anything, but that allows us to take things as they come and to
