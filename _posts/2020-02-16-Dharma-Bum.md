@@ -5,19 +5,34 @@ published: false
 guest_name: Dharma Bum
 writer: Anaïs G
 author: Anaïs G
+illustrator: Camille Célestin
 category: '393'
 guestPic: guestPic393.jpg
 track3_link: 'https://soundcloud.com/snag-1/grauzone-eisb-r'
+track4_link: 'https://soundcloud.com/dharma-bum1/2-worship-the-ease-1'
+track5_link: 'https://soundcloud.com/telephoneexplosion/freak-heat-waves-self-vortex'
+track6_link: 'https://soundcloud.com/atelierciseaux/b2-francois-virot-legal-rough'
+track7_link: >-
+  https://soundcloud.com/pan-european-recording/4-je-men-souviendrai-jusqua-la?in=pan-european-recording/sets/maintenant
 track1_title: Biche - L'Essor
 track1_color: dreamy
 track2_title: Barbagallo - On se décide
 track2_color: bliss
 track3_title: Grauzone - Eisbär
-track3_color: trippy
+track3_color: rough
 track4_title: 'Dharma Bum - Worship The Ease  '
 track4_color: bliss
+track5_title: Freak Heat Waves - Self Vortex
+track5_color: dreamy
+track6_title: François Virot - Legal Rough
+track6_color: trippy
 track7_title: >-
-  https://soundcloud.com/pan-european-recording/4-je-men-souviendrai-jusqua-la?in=pan-european-recording/sets/maintenant
+  Judah Warsky - Je M'en Souviendrai Jusqu'à La Fin De Ma Life (Remix Sarah
+  Maison)
+track7_color: vibrant
+episode_URL: 'http://mailta.pe/393/dharma-bum/'
+image: 'https://mailta.pe/img/fbPic393.png'
+musiColor: musiColor393.png
 ---
 
 <p id="introduction">This morning, 
