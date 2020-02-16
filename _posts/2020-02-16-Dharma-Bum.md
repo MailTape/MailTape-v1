@@ -48,6 +48,7 @@ description: >-
 The music of [Dharma Bum](https://dharmabumbum.bandcamp.com/album/deux), as strange as their name may sound, is punctuated with madness and psychedelic exoticism taking us to faraway lands. This quintet from Rouen released their EP "DEUX", last November, an incredible vitamin digest.  
 </p>
 
+![fbPic393.png]({{site.baseurl}}/img/fbPic393.png)
 
 # Dharma Bum's selection
 
