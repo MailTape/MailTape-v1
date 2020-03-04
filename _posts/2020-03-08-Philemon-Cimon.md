@@ -23,9 +23,9 @@ Philémon: **"**À ce qu'il parait, mes grand-parents maternelles écoutaient le
 
 ## Félix Leclerc - Les Dimanches
 Philémon: **"**J'adore Félix Leclerc. Tout simplement. J'en écouterais pas mal tout le temps. Cette chanson-là parle des dimanches. Et de liberté. Et de la difficulté de se sentir libre dans la société dans laquelle on vit.<br>
-"Mais c'est dimanche qu'on s'arrête
-Comme dans le creux vert d'une baie
-Et qu'on enlève son collier
+"Mais c'est dimanche qu'on s'arrête<br>
+Comme dans le creux vert d'une baie<br>
+Et qu'on enlève son collier<br>
 Pour oublier qu'on est des bêtes."<br>
 Le dimanche, c'est une possibilité de vivre, pour celui qui travaille trop. S'il décide de s'arrêter. Et à notre époque, ça veut aussi dire, s'il décide de se débrancher. Écouter de la musique, sans regarder des courriels ou instagram/fb, c'est vraiment super le fun !**"**
 
