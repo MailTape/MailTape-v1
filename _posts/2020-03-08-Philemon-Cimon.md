@@ -71,7 +71,7 @@ Jules: **"**Hand Habits wrote "wildfire" during the California Wildfires in 2017
 Jules: **"**We don't know much about this mysterious group coming from England and simply called SAULT, which has suddenly released two albums in 2019. Next to all of their hits, great mixes of new wave and indie soul, there are also slower ballads like this one, taken from their second album [7](https://saultglobal.bandcamp.com/album/7).**"**
 
 ## Helado Negro - Todo Lo Que Me Falta
-Jules: **"**This song is taken from ["This Is How You Smile"]( https://heladonegro.bandcamp.com/album/this-is-how-you-smile), Miami-born, New York-based artist Roberto Carlos Lange's sixth album. **"**
+Jules: **"**This song is taken from ["This Is How You Smile"]( https://heladonegro.bandcamp.com/album/this-is-how-you-smile), Miami-born, New York-based artist Roberto Carlos Lange's sixth album. I have a preference for his Spanish-lyrics songs, and this one is perfect for taking the time to think about what you could do today.**"**
 
 
 <p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Philémon Cimon for his wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
