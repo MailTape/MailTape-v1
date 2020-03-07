@@ -36,9 +36,8 @@ guestPic: guestPic396.jpg
 image: 'https://mailta.pe/img/fbPic396.png'
 ---
 <p id="introduction"> This morning, we are delighted to welcome Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/) to share his Sunday morning favorite songs with us.
-
 <br><br>
-
+Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes.
 </p>
 
 
@@ -62,10 +61,10 @@ Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Tout
 # MailTape's selection
 
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Latte Chumey
-Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/) I decided to listen to his fourth album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
+Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/) I decided to listen to his fourth album "PAYS" again. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
 
 ## [Kasey Johansing](https://kaceyjohansing.bandcamp.com/) - wildfire (Hand Habits cover)
-Jules: **"**Hand Habits wrote "wildfire" during the California Wildfires in 2017. https://handhabits.bandcamp.com/album/wildfire-covers**"**
+Jules: **"**Hand Habits wrote "wildfire" during the California Wildfires in 2017. Being aware of the consequences of climate change while on tour and admitting himself that being a musician and traveling the world for concerts for three quarters of the year is not the most environmentally friendly way of life, the singer-songwriter chose 5 artists to make a cover of this song for the [Wildfire compilation](https://handhabits.bandcamp.com/album/wildfire-covers), which is donating all of its profits to the Amazon Conservation Association. All of the covers are great but this one from Kasey Johansing has somthing special to me.**"**
 
 ## SAULT - Threats
 Jules: **"**https://saultglobal.bandcamp.com/album/7**"**
