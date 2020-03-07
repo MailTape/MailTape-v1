@@ -48,10 +48,10 @@ Philémon: **"**À ce qu'il parait, mes grand-parents maternelles écoutaient le
 
 ## Félix Leclerc - Les Dimanches
 Philémon: **"**J'adore Félix Leclerc. Tout simplement. J'en écouterais pas mal tout le temps. Cette chanson-là parle des dimanches. Et de liberté. Et de la difficulté de se sentir libre dans la société dans laquelle on vit.<br>
-"Mais c'est dimanche qu'on s'arrête<br>
+<i>"Mais c'est dimanche qu'on s'arrête<br>
 Comme dans le creux vert d'une baie<br>
 Et qu'on enlève son collier<br>
-Pour oublier qu'on est des bêtes."<br>
+Pour oublier qu'on est des bêtes."</i><br>
 Le dimanche, c'est une possibilité de vivre, pour celui qui travaille trop. S'il décide de s'arrêter. Et à notre époque, ça veut aussi dire, s'il décide de se débrancher. Écouter de la musique, sans regarder des courriels ou instagram/fb, c'est vraiment super le fun !**"**
 
 ## [Safia Nolin](https://safianolin.bandcamp.com/) & Pomme - Lesbian Break-Up Song
@@ -64,7 +64,7 @@ Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Tout
 Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/) I decided to listen to his fourth album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
 
 ## [Kasey Johansing](https://kaceyjohansing.bandcamp.com/) - wildfire (Hand Habits cover)
-Jules: **"**https://handhabits.bandcamp.com/album/wildfire-covers**"**
+Jules: **"**Hand Habits wrote "wildfire" during the California Wildfires in 2017. https://handhabits.bandcamp.com/album/wildfire-covers**"**
 
 ## SAULT - Threats
 Jules: **"**https://saultglobal.bandcamp.com/album/7**"**
