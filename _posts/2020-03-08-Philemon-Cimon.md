@@ -18,7 +18,7 @@ episode_URL: 'https://www.mailta.pe/396/philemon-cimon/'
 
 # Philémon Cimon's selection
 
-## Jean-Sébastien Bach - Magnificat en Ré majeur, BWV 243 : choeur "Magnificat anima mea Dominium"
+## Jean-Sébastien Bach - Magnificat En Ré Majeur (BWV 243, Choeur "Magnificat anima mea Dominium")
 Philémon: **"**À ce qu'il parait, mes grand-parents maternelles écoutaient le Magnificat le dimanche. Je me suis mis à l'écouter il y a 7 ans. Je ne sais pas comment ça se passait chez mes grand-parents, j'étais pas là à ce moment-là, mais le dimanche matin, j'aime ça écouter du Bach. En fait, j'aime beaucoup écouter Bach le matin en général. Pis cette pièce-là est joyeuse. Ça met de bonne humeur tout en étant relativement calmant. Je l'écoute à Noël aussi. Pas juste les dimanches.**"**
 
 ## Félix Leclerc - Les Dimanches
@@ -29,7 +29,7 @@ Et qu'on enlève son collier<br>
 Pour oublier qu'on est des bêtes."<br>
 Le dimanche, c'est une possibilité de vivre, pour celui qui travaille trop. S'il décide de s'arrêter. Et à notre époque, ça veut aussi dire, s'il décide de se débrancher. Écouter de la musique, sans regarder des courriels ou instagram/fb, c'est vraiment super le fun !**"**
 
-## Safia Nolin et Pomme - Lesbian Break-Up Song
+## Safia Nolin & Pomme - Lesbian Break-Up Song
 Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Toutes deux si différentes dans leur voix, mais si belles à leur façon. Il y a une légèreté et même une liberté qui sortent de leur bouche quand elles chantent. Je sais pas comment dire ça. Quand Pomme chante, mon corps se détend instantanément. Et quand Safia chante, mon corps se détend instantanément. Et je suis hypnotisé. Et je veux rester dans ce lieu. Deux lieux différents, incomparables. Mais tous deux indispensables. J'ai donc choisi cette chanson, parce que là, en plus, elles chantent ensemble. Mais ensemble ou séparément, c'est tout aussi beau. Et ce sont de grandes compositrices de chansons aussi.**"**
 
 
