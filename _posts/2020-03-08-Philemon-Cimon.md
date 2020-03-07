@@ -52,7 +52,7 @@ Et qu'on enlève son collier<br>
 Pour oublier qu'on est des bêtes."<br>
 Le dimanche, c'est une possibilité de vivre, pour celui qui travaille trop. S'il décide de s'arrêter. Et à notre époque, ça veut aussi dire, s'il décide de se débrancher. Écouter de la musique, sans regarder des courriels ou instagram/fb, c'est vraiment super le fun !**"**
 
-## Safia Nolin & Pomme - Lesbian Break-Up Song
+## [Safia Nolin](https://safianolin.bandcamp.com/) & Pomme - Lesbian Break-Up Song
 Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Toutes deux si différentes dans leur voix, mais si belles à leur façon. Il y a une légèreté et même une liberté qui sortent de leur bouche quand elles chantent. Je sais pas comment dire ça. Quand Pomme chante, mon corps se détend instantanément. Et quand Safia chante, mon corps se détend instantanément. Et je suis hypnotisé. Et je veux rester dans ce lieu. Deux lieux différents, incomparables. Mais tous deux indispensables. J'ai donc choisi cette chanson, parce que là, en plus, elles chantent ensemble. Mais ensemble ou séparément, c'est tout aussi beau. Et ce sont de grandes compositrices de chansons aussi.**"**
 
 
@@ -61,14 +61,14 @@ Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Tout
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Latte Chumey
 Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/), I decided to listen to his album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
 
-## Kasey Johansing - wildfire (Hand Habits cover)
-Jules: **"****"**
+## [Kasey Johansing](https://kaceyjohansing.bandcamp.com/) - wildfire (Hand Habits cover)
+Jules: **"**https://handhabits.bandcamp.com/album/wildfire-covers**"**
 
 ## SAULT - Threats
-Jules: **"****"**
+Jules: **"**https://saultglobal.bandcamp.com/album/7**"**
 
 ## Helado Negro - Todo Lo Que Me Falta
-Jules: **"****"**
+Jules: **"**https://heladonegro.bandcamp.com/album/this-is-how-you-smile**"**
 
 
 <p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Philémon Cimon for his wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
