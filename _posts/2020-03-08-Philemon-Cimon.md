@@ -34,6 +34,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/396/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/396/track7.mp3'
 guestPic: guestPic396.jpg
 image: 'https://mailta.pe/img/fbPic396.png'
+musiColor: musiColor396.png
 ---
 <p id="introduction"> This morning, we are delighted to welcome Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/) to share his Sunday morning favorite songs with us.
 <br><br>
