@@ -68,7 +68,7 @@ Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen
 Jules: **"**Hand Habits wrote "wildfire" during the California Wildfires in 2017. Being aware of the consequences of climate change while on tour and admitting himself that being a musician and traveling the world for concerts for three quarters of the year is not the most environmentally friendly way of life, the singer-songwriter chose 5 artists to make a cover of this song for the [Wildfire compilation](https://handhabits.bandcamp.com/album/wildfire-covers), which is donating all of its profits to the Amazon Conservation Association. All of the covers are great but this one from Kasey Johansing has somthing special to me.**"**
 
 ## SAULT - Threats
-Jules: **"**https://saultglobal.bandcamp.com/album/7**"**
+Jules: **"**We don't know much about this mysterious group coming from England and simply called SAULT, which has suddenly released two albums in 2019. Next to all of their hits, great mixes of new wave and indie soul, there are also slower ballads like this one, taken from their second album [7](https://saultglobal.bandcamp.com/album/7).**"**
 
 ## Helado Negro - Todo Lo Que Me Falta
 Jules: **"**https://heladonegro.bandcamp.com/album/this-is-how-you-smile**"**
