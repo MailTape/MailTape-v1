@@ -18,7 +18,7 @@ episode_URL: 'https://www.mailta.pe/396/philemon-cimon/'
 
 # Philémon Cimon's selection
 
-## Jean-Sébastien Bach - Magnificat En Ré Majeur (BWV 243, Choeur "Magnificat anima mea Dominium")
+## Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. "Magnificat anima mea Dominium"
 Philémon: **"**À ce qu'il parait, mes grand-parents maternelles écoutaient le Magnificat le dimanche. Je me suis mis à l'écouter il y a 7 ans. Je ne sais pas comment ça se passait chez mes grand-parents, j'étais pas là à ce moment-là, mais le dimanche matin, j'aime ça écouter du Bach. En fait, j'aime beaucoup écouter Bach le matin en général. Pis cette pièce-là est joyeuse. Ça met de bonne humeur tout en étant relativement calmant. Je l'écoute à Noël aussi. Pas juste les dimanches.**"**
 
 ## Félix Leclerc - Les Dimanches
@@ -35,16 +35,16 @@ Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Tout
 
 # MailTape's selection
 
-## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Charlevoix Ventre Infini
+## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Latte Chumey
+Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/), I decided to listen to his album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
+
+## Kasey Johansing - wildfire (Hand Habits cover)
 Jules: **"****"**
 
-## Dave Bixby / Angad Berar ?
+## SAULT - Threats
 Jules: **"****"**
 
-## 
-Jules: **"****"**
-
-## Angel Olsen / Tara Jane O'Neil ? - wildfire
+## Helado Negro - Todo Lo Que Me Falta
 Jules: **"****"**
 
 
