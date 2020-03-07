@@ -61,7 +61,7 @@ Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Tout
 # MailTape's selection
 
 ## [Philémon Cimon](https://philemoncimon.bandcamp.com/) - Latte Chumey
-Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/) I decided to listen to his album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
+Jules: **"**My favorite Philémon song remains "Les Pommiers Envahis" (go listen to [it](https://philemoncimon.bandcamp.com/track/les-pommiers-envahis)!), but as I already included it in [Corte Real's MailTape episode](https://www.mailta.pe/380/corte-real/) I decided to listen to his fourth album "PAYS" again. Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. This song talks about the sweet simplicity of everyday life, romances that bloom and fade, memories that survive the passing of time.**"**
 
 ## [Kasey Johansing](https://kaceyjohansing.bandcamp.com/) - wildfire (Hand Habits cover)
 Jules: **"**https://handhabits.bandcamp.com/album/wildfire-covers**"**
