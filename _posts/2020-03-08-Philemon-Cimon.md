@@ -32,11 +32,15 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/396/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/396/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/396/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/396/track7.mp3'
+guestPic: guestPic396.jpg
+image: 'https://mailta.pe/img/fbPic396.png'
 ---
 <p id="introduction"> This morning, 
 <br><br>
 
 </p>
+![guestPic396.jpg]({{site.baseurl}}/img/guestPic396.jpg)
+![fbPic396.png]({{site.baseurl}}/img/fbPic396.png)
 
 
 # Philémon Cimon's selection
