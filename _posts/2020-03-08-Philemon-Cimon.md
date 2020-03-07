@@ -9,6 +9,22 @@ category: '396'
 guest_name: Philémon Cimon
 guest_color: vibrant
 episode_URL: 'https://www.mailta.pe/396/philemon-cimon/'
+track1_title: >-
+  Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. "Magnificat
+  anima mea Dominium"
+track1_color: vibrant
+track2_title: Félix Leclerc - Les Dimanches
+track2_color: bliss
+track3_title: Safia Nolin & Pomme - Lesbian Break-Up Song
+track3_color: vibrant
+track4_title: Philémon Cimon - Latte Chumey
+track4_color: bliss
+track5_title: Kasey Johansing - wildfire (Hand Habits cover)
+track5_color: vibrant
+track6_title: SAULT - Threats
+track6_color: rough
+track7_title: Helado Negro - Todo Lo Que Me Falta
+track7_color: bliss
 ---
 <p id="introduction"> This morning, 
 <br><br>
