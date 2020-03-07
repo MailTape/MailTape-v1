@@ -39,8 +39,6 @@ image: 'https://mailta.pe/img/fbPic396.png'
 <br><br>
 
 </p>
-![guestPic396.jpg]({{site.baseurl}}/img/guestPic396.jpg)
-![fbPic396.png]({{site.baseurl}}/img/fbPic396.png)
 
 
 # Philémon Cimon's selection
