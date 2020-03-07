@@ -10,8 +10,8 @@ guest_name: Philémon Cimon
 guest_color: vibrant
 episode_URL: 'https://www.mailta.pe/396/philemon-cimon/'
 track1_title: >-
-  Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. "Magnificat
-  anima mea Dominium"
+  Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. Magnificat
+  anima mea Dominium
 track1_color: vibrant
 track2_title: Félix Leclerc - Les Dimanches
 track2_color: bliss
