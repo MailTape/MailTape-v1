@@ -26,6 +26,13 @@ track5_title: Kacey Johansing - wildfire (Hand Habits cover)
 track6_title: SAULT - Threats
 track7_title: Helado Negro - Todo Lo Que Me Falta
 guestPic: guestPic396.jpg
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/396/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/396/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/396/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/396/track4.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/396/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/396/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/396/track7.mp3'
 ---
 <p id="introduction"> This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).
 <br><br>
