@@ -33,6 +33,18 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/396/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/396/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/396/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/396/track7.mp3'
+description: >-
+  It took a while for Philémon Cimon’s songs to cross the Atlantic Ocean and
+  reach my ears. I discovered him with his sixth album “PAYS”. Released in May
+  2019, this album is a magnificent collection of stories rooted in Quebec
+  landscapes. Recorded between his apartment, a small church in
+  Saint-Joseph-de-la-Rive and a chapel in Port-au-Persil, in Charlevoix, these
+  songs reflect his desire to return to more acoustic, raw and authentic music.
+  The trigger was the discovery of her grandmother’s memories, a long recording
+  of around thirty hours in which she recounts her childhood. Now Philémon is
+  one of the artists I listen to the most on Sunday mornings. His voice is
+  familiar to me like the one of a childhood friend and I feel like if I too
+  have memories at Charlevoix.
 ---
 <p id="introduction"> This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).
 <br><br>
