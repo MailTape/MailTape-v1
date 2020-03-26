@@ -358,6 +358,13 @@ function PagePlayer() {
     } else {
       console.log("nonextitem");
       
+      // mis à l'arrache ici pour le moment pour tester le comportement.
+      getRandomEpisode();
+
+      setTimeout(function() {
+          pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]});
+      },3000);
+
       if (self.autoLoop()) {
         pl.handleClick({target:pl.getByClassName('playlist', 'ul')[0].getElementsByTagName('a')[0]}); // autoloop
       }
@@ -651,7 +658,8 @@ function PagePlayer() {
       thisSound = self.getSoundByObject(o);
 
       if (thisSound) {
-
+        var thisSoundLog=JSON.stringify(thisSound);
+        console.log(thisSoundLog+" le son existe!");
         // sound already exists
         self.setPageTitle(thisSound._data.originalTitle);
         if (thisSound === self.lastSound) {
@@ -678,7 +686,7 @@ function PagePlayer() {
         }
 
       } else {
-
+        console.log(thisSound+"le son va se créer");
         // create sound
         thisSound = sm.createSound({
           id:o.id,
