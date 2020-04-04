@@ -387,13 +387,13 @@ article {
 #bigHeader {
 
 	@media only screen and (min-width: 0px) and (max-width: 767px) {
-		min-height: 23rem;
-		padding-top: 9rem;
+		min-height: 75vh;
+		padding-top: 30vh;
 	}
 
 	@media only screen and (min-width: 768px) {
-		min-height: 21rem;
-		padding-top: 11.089rem;
+		min-height: 80vh;
+		padding-top: 65vh;
 	}
 
 	&.notPlaying {
@@ -404,7 +404,12 @@ article {
 		background: none;
 		z-index:5;
 	}
-	
+
+	background-image: url('/img/loader.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color:lightgray;
+
 	margin-bottom: 0.2em;
 	text-align: center;
 	font-family: superspitze_groteskregular;
