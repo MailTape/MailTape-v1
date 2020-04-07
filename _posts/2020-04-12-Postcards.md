@@ -1,6 +1,26 @@
 ---
 layout: episode
+musiColor: musiColor401.png
+image: 'https://mailta.pe/img/fbPic401.png'
+episode_URL: 'http://mailta.pe/401/postcards/'
 bigTitle_font_ratio: '6'
+track6_color: dreamy
+track5_color: bliss
+track4_color: vibrant
+track3_color: dreamy
+track2_color: trippy
+track1_color: bliss
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/401/track4.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/401/track3.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/401/track2.mp3'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/401/track1.mp3'
+guestPic: guestPic401.jpg
+guest_color: vibrant
+guest_name: Postcards
+category: '401'
+writer: Anaïs G
+illustrator: Julie Wojtczak
+author: Anaïs G
 published: false
 ---
 
