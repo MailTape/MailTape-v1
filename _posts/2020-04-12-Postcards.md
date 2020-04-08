@@ -22,7 +22,9 @@ writer: Anaïs G
 illustrator: Julie Wojtczak
 author: Anaïs G
 published: false
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/401/track5.mp3'
 track6_link: 'https://soundcloud.com/safarmusicbeirut/the-greatest-fear'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/401/track7.mp3'
 track1_title: Big Thief - Cattails
 track2_title: Animales Collective - Banshee Beat
 track3_title: Velvet Underground - Pale Blue Eyes
