@@ -58,10 +58,10 @@ Anaïs G: **"** **"**
 ## Maïa Vidal - Follow Me
 Anais G: **"** **"**
 
-## Safar - 
+## Safar - The Greatest Fear
 Anaïs G: **"** **"**
 
-##  — 
+## Georgia Mulligan — So Long
 Anaïs G: **"** **"**
 
 
