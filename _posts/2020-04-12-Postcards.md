@@ -22,6 +22,15 @@ writer: Anaïs G
 illustrator: Julie Wojtczak
 author: Anaïs G
 published: false
+track6_link: 'https://soundcloud.com/safarmusicbeirut/the-greatest-fear'
+track1_title: Big Thief - Cattails
+track2_title: Animales Collective - Banshee Beat
+track3_title: Velvet Underground - Pale Blue Eyes
+track4_title: Postcards - Light Out
+track5_title: Maïa Vidal - Follow Me
+track6_title: Safar - The Greatest Fear
+track7_title: Georgia Mulligan - So Long
+track7_color: vibrant
 ---
 
 <p id="introduction">
