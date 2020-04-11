@@ -33,6 +33,7 @@ track5_title: Maïa Vidal - Follow Me
 track6_title: Safar - The Greatest Fear
 track7_title: Georgia Mulligan - So Long
 track7_color: vibrant
+description: ''
 ---
 
 <p id="introduction">Re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "Un Jour sans fin" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed Postcards. 
@@ -58,7 +59,7 @@ Postcards: **"**The song needs no introduction... Sunday Morning would've been t
 Anaïs G: **"** **"**
 
 ## Maïa Vidal - Follow Me
-Anais G: **"** **"**
+Anais G: **"**Joy, freshness and lightness, all we need today to breathe and think about something else!**"**
 
 ## Safar - The Greatest Fear
 Anaïs G: **"** **"**
