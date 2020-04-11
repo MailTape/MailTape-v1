@@ -44,7 +44,6 @@ description: >-
   Postcards.
 ---
 
-
 <p id="introduction">This morning, re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "[Un Jour sans fin](https://fr.wikipedia.org/wiki/Un_jour_sans_fin)" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed [Postcards](https://www.postcardsmusic.com/). 
 <br><br>
 If [Postcards](https://postcardsmusic.bandcamp.com/) music could be a picture, it would look like vegetation, against a background of pastel colors with a rather minimalist style. But Postcards is also and above all a trio from Beirut composed of Julia Sabra, Marwan Tohme and Pascal Semerdjian since 2012. Their second album "[The Good Soldier](https://postcardsmusic.bandcamp.com/album/the-good-soldier)", released in early 2020, is a musical nugget, something vibrant, sublime and strong. 
