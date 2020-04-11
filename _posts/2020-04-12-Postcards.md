@@ -44,18 +44,18 @@ description: >-
   Postcards.
 ---
 
-<p id="introduction">Re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "Un Jour sans fin" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed Postcards. 
+<p id="introduction">Re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "[Un Jour sans fin](https://fr.wikipedia.org/wiki/Un_jour_sans_fin)" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed [Postcards](https://www.postcardsmusic.com/). 
 <br><br>
-If Postcards music could be a picture, it would look like vegetation, against a background of pastel colors with a rather minimalist style. But Postcards is also and above all a trio from Beirut composed of Julia Sabra, Marwan Tohme and Pascal Semerdjian since 2012. Their second album "The Good Soldier", released in early 2020, is a musical nugget, something vibrant, sublime and strong. 
+If [Postcards](https://postcardsmusic.bandcamp.com/) music could be a picture, it would look like vegetation, against a background of pastel colors with a rather minimalist style. But Postcards is also and above all a trio from Beirut composed of Julia Sabra, Marwan Tohme and Pascal Semerdjian since 2012. Their second album "[The Good Soldier](https://postcardsmusic.bandcamp.com/album/the-good-soldier)", released in early 2020, is a musical nugget, something vibrant, sublime and strong. 
 </p>
 
 
 # Postcards's selection
 
-## Big Thief - Cattails
+## [Big Thief](https://bigthief.net/) - Cattails
 Postcards: **"**One of those songs we feel we’ve known forever. Adrienne’s lyrics are always beautifully written - here she talks about death with a serenity that’s reassuring.**"**
 
-## Animal Colective - Banshee Beat
+## [Animal Colective](https://animalcollective.org/) - Banshee Beat
 Postcards: **"**A gorgeous, subtle track that builds up without ever falling into clichés. That first chord change is one of our favorite musical moments.**"**
 
 ## Velvet Underground - Pale Blue Eyes
