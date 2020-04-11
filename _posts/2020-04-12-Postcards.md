@@ -58,22 +58,22 @@ Postcards: **"**One of those songs we feel we’ve known forever. Adrienne’s l
 ## [Animal Colective](https://animalcollective.org/) - Banshee Beat
 Postcards: **"**A gorgeous, subtle track that builds up without ever falling into clichés. That first chord change is one of our favorite musical moments.**"**
 
-## Velvet Underground - Pale Blue Eyes
+## [Velvet Underground](https://fr.wikipedia.org/wiki/The_Velvet_Underground) - Pale Blue Eyes
 Postcards: **"**The song needs no introduction... Sunday Morning would've been the expected choice but this is one of our favorites VU songs, especially the fluid, never-ending guitar riff that glues the song together.**"**
 
 # MailTape's selection
 
-## Postcards - Light Out
+## [Postcards](https://www.facebook.com/postcardsmusic) - Light Out
 Anaïs G: **"**The guitar playing, the pressure rising to a crescendo and Julia's divine voice left me totally speechless. Dream-pop sublimated in different ways, oscillating between power and softness. The perfect combo!**"**
 
-## Maïa Vidal - Follow Me
+## [Maïa Vidal](https://www.facebook.com/maiavidal) - Follow Me
 Anais G: **"**Joy, freshness and lightness, all we need today to breathe and think about something else!**"**
 
-## Safar - The Greatest Fear
+## [Safar](https://soundcloud.com/safarmusicbeirut) - The Greatest Fear
 Anaïs G: **"**It's subtle, worthy of a ray of sunshine lighting up the room or of a caress made by your boyfriend/girlfriend. . . Originally from Beirut, this duo composed of Mayssa Jallad and Elie Abdelnour, offers us a stolen moment, a simple Sunday morning pleasure.**"**
 
-## Georgia Mulligan — So Long
+## [Georgia Mulligan](https://www.georgiamulligan.com/) — So Long
 Anaïs G: **"**I couldn't tell you why I set my heart on Georgia. Much more than love at first sight, I don't know if it's this particular voice, or if it's the sensitivity and strength that comes out of it that has so much more to me. A mystery, and a song featured on his latest EP "Mirror" released in September 2019, which I've been listening to over and over since because it reveals so many emotions that it would be impossible to perceive everything in one listening.**"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Postcards for her Sunday selection, to Julie for her inspiring illustration.</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Postcards](https://www.postcardsmusic.com/) for his Sunday selection, to Julie Wojtczak for her inspiring illustration.</p>
