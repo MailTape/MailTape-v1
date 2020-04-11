@@ -62,7 +62,7 @@ Anaïs G: **"** **"**
 Anais G: **"**Joy, freshness and lightness, all we need today to breathe and think about something else!**"**
 
 ## Safar - The Greatest Fear
-Anaïs G: **"** **"**
+Anaïs G: **"**It's subtle, worthy of a ray of sunshine lighting up the room or of a caress made by your boyfriend/girlfriend. . . Originally from Beirut, this duo composed of Mayssa Jallad and Elie Abdelnour, offers us a stolen moment, a simple Sunday morning pleasure.**"**
 
 ## Georgia Mulligan — So Long
 Anaïs G: **"** **"**
