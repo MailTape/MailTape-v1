@@ -55,7 +55,7 @@ If Postcards music could be a picture, it would look like vegetation, against a 
 ## Big Thief - Cattails
 Postcards: **"**One of those songs we feel we’ve known forever. Adrienne’s lyrics are always beautifully written - here she talks about death with a serenity that’s reassuring.**"**
 
-## Animale Colective - Banshee Beat
+## Animal Colective - Banshee Beat
 Postcards: **"**A gorgeous, subtle track that builds up without ever falling into clichés. That first chord change is one of our favorite musical moments.**"**
 
 ## Velvet Underground - Pale Blue Eyes
