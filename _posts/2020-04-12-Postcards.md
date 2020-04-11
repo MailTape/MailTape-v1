@@ -77,4 +77,4 @@ Anaïs G: **"**I couldn't tell you why I set my heart on Georgia. Much more than
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Postcards](https://www.postcardsmusic.com/) for his Sunday selection, to Julie Wojtczak for her inspiring illustration.</p>
-![musiColor401.png]({{site.baseurl}}/img/musiColor401.png)
+
