@@ -43,6 +43,7 @@ description: >-
   with MailTape, with a selection full of sweetness this Sunday signed
   Postcards.
 ---
+![fbPic401.png]({{site.baseurl}}/img/fbPic401.png)
 
 <p id="introduction">Re-learning to live, we are faced with that. Take a break, and enjoy what nature has to offer, and deal with a daily challenge we face with an uncertain future. In this infernal whirlwind, transformed into a remake of "[Un Jour sans fin](https://fr.wikipedia.org/wiki/Un_jour_sans_fin)" without Bill Murray and the groundhog, we adapt, we use our knowledge, we cook, we talk, we relax, we observe and above all we try to keep smiling despite the chain of announcements and information. Music, again and again with MailTape, with a selection full of sweetness this Sunday signed [Postcards](https://www.postcardsmusic.com/). 
 <br><br>
@@ -77,4 +78,3 @@ Anaïs G: **"**I couldn't tell you why I set my heart on Georgia. Much more than
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to [Postcards](https://www.postcardsmusic.com/) for his Sunday selection, to Julie Wojtczak for her inspiring illustration.</p>
-
