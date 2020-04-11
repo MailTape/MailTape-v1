@@ -65,7 +65,7 @@ Anais G: **"**Joy, freshness and lightness, all we need today to breathe and thi
 Anaïs G: **"**It's subtle, worthy of a ray of sunshine lighting up the room or of a caress made by your boyfriend/girlfriend. . . Originally from Beirut, this duo composed of Mayssa Jallad and Elie Abdelnour, offers us a stolen moment, a simple Sunday morning pleasure.**"**
 
 ## Georgia Mulligan — So Long
-Anaïs G: **"** **"**
+Anaïs G: **"**I couldn't tell you why I set my heart on Georgia. Much more than love at first sight, I don't know if it's this particular voice, or if it's the sensitivity and strength that comes out of it that has so much more to me. A mystery, and a song featured on his latest EP "Mirror" released in September 2019, which I've been listening to over and over since because it reveals so many emotions that it would be impossible to perceive everything in one listening.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us this Sunday. Much love and respect to Postcards for her Sunday selection, to Julie for her inspiring illustration.</p>
