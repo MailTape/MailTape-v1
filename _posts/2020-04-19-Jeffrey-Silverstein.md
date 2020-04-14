@@ -3,24 +3,30 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
-<p id="introduction"> This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).
+<p id="introduction"> This morning,
 <br><br>
-It took a while for Philémon Cimon's songs to cross the Atlantic Ocean and reach my ears. I discovered him with his sixth album "PAYS". Released in May 2019, this album is a magnificent collection of stories rooted in Quebec landscapes. Recorded between his apartment, a small church in Saint-Joseph-de-la-Rive and a chapel in Port-au-Persil, in Charlevoix, these songs reflect his desire to return to more acoustic, raw and authentic music. The trigger was the discovery of her grandmother’s memories, a long recording of around thirty hours in which she recounts her childhood. Now Philémon is one of the artists I listen to the most on Sunday mornings. His voice is familiar to me like the one of a childhood friend and I feel like if I too have memories at Charlevoix.
+
 </p>
 
 
-# Philémon Cimon's selection
+# Jeffrey Silverstein's selection
 
-## Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. "Magnificat anima mea Dominium"
-Philémon: **"**À ce qu'il parait, mes grand-parents maternelles écoutaient le Magnificat le dimanche. Je me suis mis à l'écouter il y a 7 ans. Je ne sais pas comment ça se passait chez mes grand-parents, j'étais pas là à ce moment-là, mais le dimanche matin, j'aime ça écouter du Bach. En fait, j'aime beaucoup écouter Bach le matin en général. Pis cette pièce-là est joyeuse. Ça met de bonne humeur tout en étant relativement calmant. Je l'écoute à Noël aussi. Pas juste les dimanches.**"**
+## Ted Lucas - It's So Easy
+Jeffrey: **"**A simple, beautiful folk song by the late Detroit Musician Ted Lucas. Ted's work had a big impact on how I approached putting together my new LP, You Become the Mountain. One of the most comforting songs and albums I've ever known.<br>
+Favorite lyrics:
+<i>"We've got to trust each other blindly<br>
+Only then will we have eyes to see<br>
+What we make of love it never comes easy<br>
+Our hearts are tempered by adversity."</i>**"**
 
-## Félix Leclerc - Les Dimanches
-Philémon: **"**J'adore Félix Leclerc. Tout simplement. J'en écouterais pas mal tout le temps. Cette chanson-là parle des dimanches. Et de liberté. Et de la difficulté de se sentir libre dans la société dans laquelle on vit.<br>
-<i>"Mais c'est dimanche qu'on s'arrête<br>
-Comme dans le creux vert d'une baie<br>
-Et qu'on enlève son collier<br>
-Pour oublier qu'on est des bêtes."</i><br>
-Le dimanche, c'est une possibilité de vivre, pour celui qui travaille trop. S'il décide de s'arrêter. Et à notre époque, ça veut aussi dire, s'il décide de se débrancher. Écouter de la musique, sans regarder des courriels ou instagram/fb, c'est vraiment super le fun !**"**
+## Michael Hurley - Knockando
+Jeffrey: **"**Michael Hurley is a living legend and I'm still blown away I get to watch him perform as often as I do in Portland. This might be the first song I ever heard of his. My buddy John Andrews (Woods, Quilt, Cut Worms, Hand Habits) turned me onto his work years ago and I've been more or less obsessed ever since.<br>
+Favorite lyrics:
+<i>"You are fire<br>
+The spirit fire<br>
+Your soul is burning good<br>
+Can you hear the cracklin' heart<br>
+Of the old pinewood"</i>**"**
 
 ## [Safia Nolin](https://safianolin.bandcamp.com/) & Pomme - Lesbian Break-Up Song
 Philémon: **"**J'adore Safia et Pomme. Ce sont des chanteuses incroyables. Toutes deux si différentes dans leur voix, mais si belles à leur façon. Il y a une légèreté et même une liberté qui sortent de leur bouche quand elles chantent. Je sais pas comment dire ça. Quand Pomme chante, mon corps se détend instantanément. Et quand Safia chante, mon corps se détend instantanément. Et je suis hypnotisé. Et je veux rester dans ce lieu. Deux lieux différents, incomparables. Mais tous deux indispensables. J'ai donc choisi cette chanson, parce que là, en plus, elles chantent ensemble. Mais ensemble ou séparément, c'est tout aussi beau. Et ce sont de grandes compositrices de chansons aussi.**"**
