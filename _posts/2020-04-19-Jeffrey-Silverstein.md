@@ -20,6 +20,16 @@ track7_color: trippy
 track6_color: bliss
 track5_color: dreamy
 track4_color: bliss
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/402/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/402/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/402/track3.mp3'
+track3_color: vibrant
+track1_color: dreamy
+track2_color: bliss
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/402/track4.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/402/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/402/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/402/track7.mp3'
 ---
 <p id="introduction"> This morning,
 <br><br>
