@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Thibault Daumain
+writer: Jules
+category: '402'
+guest_name: Jeffrey Silverstein
+guest_color: bliss
+episode_URL: 'https://www.mailta.pe/402/jeffrey-silverstein/'
 ---
 <p id="introduction"> This morning,
 <br><br>
