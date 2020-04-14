@@ -42,13 +42,13 @@ High born in another time"</i>**"**
 ## Jeffrey Silverstein -
 Jules: **"****"**
 
-## [Kacey Johansing](https://kaceyjohansing.bandcamp.com/) - wildfire (Hand Habits cover)
+## 
 Jules: **"****"**
 
-## SAULT - Threats
+## 
 Jules: **"****"**
 
-## Helado Negro - Todo Lo Que Me Falta
+## Rideau - Le Ciel, le Soleil et la Mer
 Jules: **"****"**
 
 
