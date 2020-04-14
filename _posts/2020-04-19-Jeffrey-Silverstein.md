@@ -52,4 +52,4 @@ Jules: **"****"**
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Philémon Cimon for his wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Many thanks to Jeffrey Silverstein for sharing his Sunday selections and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
