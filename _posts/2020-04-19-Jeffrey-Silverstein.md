@@ -68,16 +68,16 @@ High born in another time"</i>**"**
 # MailTape's selection
 
 ## Jeffrey Silverstein - A Dog's Age
-Jules: **"****"**
+Jules: **"**[Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/)**"**
 
 ## Angad Berar - Anjuna
-Jules: **"****"**
+Jules: **"**[Angad Berar](https://angadberar.bandcamp.com/)**"**
 
 ## Green House - Parlor Palm
-Jules: **"****"**
+Jules: **"**[Green House](https://green-house.bandcamp.com/)**"**
 
 ## Rideau - Le Ciel, le Soleil et la Mer
-Jules: **"****"**
+Jules: **"**[Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5)**"**
 
 
-<p id="outroduction">That's it for this morning! Thank you so much for joining us. Many thanks to Jeffrey Silverstein for sharing his Sunday selections and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Many thanks to [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) for sharing his Sunday selections and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
