@@ -9,6 +9,17 @@ category: '402'
 guest_name: Jeffrey Silverstein
 guest_color: bliss
 episode_URL: 'https://www.mailta.pe/402/jeffrey-silverstein/'
+track1_title: Ted Lucas - It's So Easy
+track2_title: Michael Hurley - Knockando
+track3_title: Elyse Weinberg - Houses (with Neil Young)
+track4_title: Jeffrey Silverstein - A Dog's Age
+track5_title: Angad Berar - Anjuna
+track6_title: Green House - Parlor Palm
+track7_title: 'Rideau - Le Ciel, le Soleil et la Mer'
+track7_color: trippy
+track6_color: bliss
+track5_color: dreamy
+track4_color: bliss
 ---
 <p id="introduction"> This morning,
 <br><br>
@@ -35,7 +46,7 @@ Your soul is burning good<br>
 Can you hear the cracklin' heart<br>
 Of the old pinewood"</i>**"**
 
-## Elyse Weinberg - Houses
+## Elyse Weinberg - Houses (with Neil Young)
 Jeffrey: **"**'Houses', from Late 60's song-writer Elyse Weinberg's 1968 record Elyse has since been covered by Vetiver, Dinosaur Jr. and Courtney Barnett. The original version here has Neil Young on it. The quality of her voice and the raw production quality always drew me to this one. <br>
 Favorite lyrics:
 <i>"I could never lie down in your ditch<br>
@@ -46,13 +57,13 @@ High born in another time"</i>**"**
 
 # MailTape's selection
 
-## Jeffrey Silverstein -
+## Jeffrey Silverstein - A Dog's Age
 Jules: **"****"**
 
-## 
+## Angad Berar - Anjuna
 Jules: **"****"**
 
-## 
+## Green House - Parlor Palm
 Jules: **"****"**
 
 ## Rideau - Le Ciel, le Soleil et la Mer
