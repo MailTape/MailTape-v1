@@ -77,7 +77,7 @@ Jules: **"**[Angad Berar](https://angadberar.bandcamp.com/)**"**
 Jules: **"**[Green House](https://green-house.bandcamp.com/)**"**
 
 ## Rideau - Le Ciel, le Soleil et la Mer
-Jules: **"**Taken from [Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5), a compilation of covers of Jean-Luc Le Ténia songs led by Gajeb and published on the label La Souterraine, this song is my favorite of the moment, I listen to it every morning while looking at the sky.**"**
+Jules: **"**Taken from [Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5), a compilation of covers of Jean-Luc Le Ténia songs led by Gajeb and published on the french and francophone label La Souterraine, this song is my favorite of the moment, I listen to it every morning while looking at the sky.**"**
 
 
 <p id="outroduction">That's it for this morning! Thank you so much for joining us. Many thanks to [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) for sharing his Sunday selections and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
