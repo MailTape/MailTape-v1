@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Jules
 illustrator: Thibault Daumain
 writer: Jules
@@ -35,6 +35,7 @@ description: >-
   windows. Luckily, Jeffrey Silverstein is here to guide us on a peaceful hike
   in the heart of our inner mountain. Time to lie down, breathe slowly, and
   start drawing the landscapes that will allow you to escape.
+guestPic: guestPic402.jpg
 ---
 <p id="introduction"> This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>
