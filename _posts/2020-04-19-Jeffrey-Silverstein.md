@@ -36,6 +36,7 @@ description: >-
   in the heart of our inner mountain. Time to lie down, breathe slowly, and
   start drawing the landscapes that will allow you to escape.
 guestPic: guestPic402.jpg
+musiColor: musiColor402.png
 ---
 <p id="introduction"> This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>
