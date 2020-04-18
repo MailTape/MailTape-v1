@@ -38,7 +38,7 @@ description: >-
 ---
 <p id="introduction"> This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>
-Based in Portland, Oregon, Jeffrey Silverstein has been making music for over a decade. His debut LP [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), released in April 2020, was born from those long hours spent contemplating the landscapes of the Pacific Northwest. <br>
+Based in Portland, Oregon, Jeffrey Silverstein has been making music for over a decade. His debut LP [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), released in April 2020, was born from those long hours spent contemplating the landscapes of the Pacific Northwest.<br>
 No planes in the sky, few cars to hide the rustling of the world that is around us. Despite ourselves this strange period that we're living in is an opportunity to offer our planet precious breathing, which unfortunately will not be enough. In fact, it would take the same breathing, a similar reduction in our emissions each year, to only limit the warming of our planet by the end of this century. While Jeffrey's music is celebrating nature, meditation and patience, maybe we can all use this unusual amount of time to make it a little different when we get out of our houses?
 </p>
 
