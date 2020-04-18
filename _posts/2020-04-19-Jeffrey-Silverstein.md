@@ -31,9 +31,9 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/402/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/402/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/402/track7.mp3'
 ---
-<p id="introduction"> This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
+<p id="introduction"> This morning we are still confined and condemned to look at nature behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>
-
+Based in Portland, Oregon, Jeffrey Silverstein has been making music for over a decade. His debut LP [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), released in April 2020, was born from those long hours spent contemplating the landscapes of the Pacific Northwest. Despite ourselves, this strange period we're living is offering our planet a new precious breath
 </p>
 
 
@@ -68,7 +68,7 @@ High born in another time"</i>**"**
 # MailTape's selection
 
 ## Jeffrey Silverstein - A Dog's Age
-Jules: **"**Opening [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), Jeffrey Silverstein's debut LP released in April 2020, this song is perfect for Sunday morning meditation. Since we cannot go out, Jeffrey's voice is softly inviting us to let go and merge with the mountainous landscapes of our imagination.**"**
+Jules: **"**This song opens the album [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), with Jeffrey's voice softly inviting us to let go and merge with the mountainous landscapes of our imagination. Since we cannot go out, this song is perfect for a Sunday morning meditation session.**"**
 
 ## Angad Berar - Anjuna
 Jules: **"**[Angad Berar](https://angadberar.bandcamp.com/)**"**
