@@ -77,13 +77,13 @@ High born in another time"</i>**"**
 Jules: **"**This song opens the album [You Become The Mountain](https://jeffreysilverstein.bandcamp.com/album/you-become-the-mountain), with Jeffrey's voice softly inviting us to let go and merge with the mountainous landscapes of our imagination. Since we cannot go out, this song is perfect for a Sunday morning meditation session.**"**
 
 ## Angad Berar - Anjuna
-Jules: **"**[Angad Berar](https://angadberar.bandcamp.com/)**"**
+Jules: **"**Based in Bangalore, [Angad Berar](https://angadberar.bandcamp.com/) **"**
 
 ## Green House - Parlor Palm
-Jules: **"**[Green House](https://green-house.bandcamp.com/)**"**
+Jules: **"**[Green House](https://green-house.bandcamp.com/)is the project of Los Angeles based artist Olive Ardizoni. This song is the third track from their first album “Six songs for Invisible Gardens” **"**
 
 ## Rideau - Le Ciel, le Soleil et la Mer
-Jules: **"**Taken from [Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5), a compilation of covers of Jean-Luc Le Ténia songs led by Gajeb and published on the french and francophone label La Souterraine, this song is my favorite of the moment, I listen to it every morning while looking at the sky.**"**
+Jules: **"**Taken from [Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5), a compilation of covers of Jean-Luc Le Ténia songs led by Gajeb and published on the french and francophone label La Souterraine, this song is my favorite of the moment. The emotions it gives me are mixed like my impressions of the world, between hope and nostalgia.**"**
 
 
 <p id="outroduction">That's it for this morning! Thank you so much for joining us. Many thanks to [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) for sharing his Sunday selections and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
