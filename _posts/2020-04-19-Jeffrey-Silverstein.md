@@ -80,7 +80,7 @@ Jules: **"**This song opens the album [You Become The Mountain](https://jeffreys
 Jules: **"**I really like the way this song is taking its time and leaves as much room for the multiple samples of nature sounds as for the Bangalore based composer's sonic experiments.**"**
 
 ## Green House - Parlor Palm
-Jules: **"**[Green House](https://green-house.bandcamp.com/)is the project of Los Angeles based artist Olive Ardizoni. This song is the third track from their first release “Six songs for Invisible Gardens”, an album made to help you push the walls of your living room and reconnect with your environment. Time to heal your pains and care for your plants.**"**
+Jules: **"**[Green House](https://green-house.bandcamp.com/)is the project of Los Angeles based artist Olive Ardizoni. This song is the third track from their first release “Six songs for Invisible Gardens”, an album made to help you push the walls of your living room and reconnect with your environment. Time to heal your pains and take care of your plants.**"**
 
 ## Rideau - Le Ciel, le Soleil et la Mer
 Jules: **"**Taken from [Mausolée Tape 5](https://souterraine.biz/album/mausol-e-tape-5), a compilation of covers of Jean-Luc Le Ténia songs led by Gajeb and published on the french and francophone label La Souterraine, this song is my favorite of the moment. The emotions it gives me are mixed like my impressions of the world, between hope and nostalgia.**"**
