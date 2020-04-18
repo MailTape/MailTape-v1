@@ -30,6 +30,11 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/402/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/402/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/402/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/402/track7.mp3'
+description: >-
+  This morning we are still confined and condemned to look at the sky behind our
+  windows. Luckily, Jeffrey Silverstein is here to guide us on a peaceful hike
+  in the heart of our inner mountain. Time to lie down, breathe slowly, and
+  start drawing the landscapes that will allow you to escape.
 ---
 <p id="introduction"> This morning we are still confined and condemned to look at the sky behind our windows. Luckily, [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) is here to guide us on a peaceful hike in the heart of our inner mountain. Time to lie down, breathe slowly, and start drawing the landscapes that will allow you to escape. 
 <br><br>
