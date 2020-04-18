@@ -7,7 +7,7 @@ published: false
 <br><br>
 
 </p>
-![guestPic403.jpg]({{site.baseurl}}/img/guestPic403.jpg)
+
 
 
 # Quiet Dawn's selection
