@@ -48,7 +48,7 @@ No planes in the sky, few cars to hide the rustling of the world that is around 
 
 ## Ted Lucas - It's So Easy
 Jeffrey: **"**A simple, beautiful folk song by the late Detroit Musician Ted Lucas. Ted's work had a big impact on how I approached putting together my new LP, You Become the Mountain. One of the most comforting songs and albums I've ever known.<br>
-Favorite lyrics:
+Favorite lyrics:<br>
 <i>"We've got to trust each other blindly<br>
 Only then will we have eyes to see<br>
 What we make of love it never comes easy<br>
@@ -56,7 +56,7 @@ Our hearts are tempered by adversity."</i>**"**
 
 ## Michael Hurley - Knockando
 Jeffrey: **"**Michael Hurley is a living legend and I'm still blown away I get to watch him perform as often as I do in Portland. This might be the first song I ever heard of his. My buddy John Andrews (Woods, Quilt, Cut Worms, Hand Habits) turned me onto his work years ago and I've been more or less obsessed ever since.<br>
-Favorite lyrics:
+Favorite lyrics:<br>
 <i>"You are fire<br>
 The spirit fire<br>
 Your soul is burning good<br>
@@ -65,7 +65,7 @@ Of the old pinewood"</i>**"**
 
 ## Elyse Weinberg - Houses (with Neil Young)
 Jeffrey: **"**'Houses', from Late 60's song-writer Elyse Weinberg's 1968 record Elyse has since been covered by Vetiver, Dinosaur Jr. and Courtney Barnett. The original version here has Neil Young on it. The quality of her voice and the raw production quality always drew me to this one. <br>
-Favorite lyrics:
+Favorite lyrics:<br>
 <i>"I could never lie down in your ditch<br>
 You would never want to in mine<br>
 Even if we were both well meant and<br>
