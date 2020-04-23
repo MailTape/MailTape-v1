@@ -2,6 +2,16 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+musiColor: musiColor403.png
+image: 'https://mailta.pe/img/fbPic403.png'
+episode_URL: 'http://mailta.pe/403/quiet-dawn/'
+guestPic: guestPic403.jpg
+guest_color: trippy
+guest_name: Quiet Dawn
+category: '403'
+writer: Anaïs G
+illustrator: Anthony Dujardin
+author: Anaïs G
 ---
 <p id="introduction"> This morning,
 <br><br>
