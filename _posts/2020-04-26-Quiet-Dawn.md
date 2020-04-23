@@ -47,4 +47,4 @@ Anaïs G: **"** **"**
 Anaïs G: **"** **"**
 
 
-<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and toAnthony Dujardin for this episode's stunning illustration.</p>
+<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to Anthony Dujardin for this episode's stunning illustration.</p>
