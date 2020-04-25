@@ -39,28 +39,28 @@ Through these multiple EPs, Quiet Dawn offers us each time a multitude of musica
 
 # Quiet Dawn's selection
 
-## Bugz In The Attic - Redhanded
+## [Bugz In The Attic](https://en.wikipedia.org/wiki/Bugz_in_the_Attic) - Redhanded
 Quiet Dawn: **"**I really love this track, one of my favorite from Bugz, the rhythm makes me want to dance even the morning and I'm a really bad dancer.**"**
 
 ## Ice - Reality
 Quiet Dawn: **"**I chose this track because it's my alarm clock every morning. The start of the track give me smile even if sometimes i prefer to stay in my bed. Unfortunately, I can't listen this track in the middle of the day when my wife is with me, because she doesn't like my alarm when I wake up before her, haha!**"**
 
-## Antonio Carlos Jobim - Brazil
+## [Antonio Carlos Jobim](https://fr.wikipedia.org/wiki/Antônio_Carlos_Jobim) - Brazil
 Quiet Dawn: **"**I'm in totally in love with Bossa Nova, all the album is lovely. I don't know why I love to listen to this track especially the morning but it gives off sweetness and the sunday morning when you prepare your breakfast it's cool.**"**
 
 
 # MailTape's selection
 
-## Quiet Dawn - Being
+## [Quiet Dawn](https://www.facebook.com/QuietDawn) - Being
 Anaïs G: **"**Very different from these last EPs, this one deals with human behaviours: sadness, love, anger, sex, friendship... What I like the most in "Human Being - The Short Story Of The Reed" is its ultra jazzy-groovy, almost instrumental side. A delight for the ears!**"**
 
-## Tigran Hamasyan - Vardavar
-Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this Armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
+## [Tigran Hamasyan](https://tigranhamasyan.bandcamp.com/) - Vardavar
+Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
 
-## Swarvy - Spam Grease (Feat Kiefer Schakelford)
-Anaïs G: **"**It was while re-listening to Kiefer's songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the Living Records label, is a jazzy-soul nugget that smoothes you instantly.**"**
+## [Swarvy](https://soundcloud.com/swarvy) - Spam Grease (Feat Kiefer Schakelford)
+Anaïs G: **"**It was while re-listening to [Kiefer](https://soundcloud.com/kiefdaddy)'s songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the [Leaving Records](https://leavingrecords.com/) label, is a jazzy-soul nugget that smoothes you instantly.**"**
 
-## Hania Rani - Sun 
+## [Hania Rani](https://soundcloud.com/haniarani-music) - Sun 
 Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
 
 
