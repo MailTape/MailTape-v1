@@ -34,6 +34,13 @@ track6_title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
 track6_color: dreamy
 track7_title: Hania Rani - Sun
 track7_color: vibrant
+description: >-
+  This morning, we're away from the troubles. In our bed to wander around, or on
+  our deckchair to be gilded in our garden for the lucky ones, our mind wanders
+  elsewhere to find the inner peace we need. How can you think about tomorrow
+  when it's far away or blurry? Enjoying the present moment is the best
+  resolution as well as listening to this Sunday's selection made by the artist
+  Quiet Dawn.
 ---
 <p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist [Quiet Dawn](https://quietdawn.bandcamp.com/). 
 <br><br>
