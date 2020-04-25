@@ -50,8 +50,8 @@ Anaïs G: **"** **"**
 ## Tigran Hamasyan - Vardavar
 Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this Armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
 
-## Pavane - Plumes
-Anaïs G: **"**It was at a concert that I discovered Pavane quite by chance. It was strong, beautiful, majestic and classy. I had rarely seen a concert that had transcended me so much on this kind of acoustic music mixing electro and classical. Nice association!**"**
+## Swarvy - Spam Grease (Feat Kiefer Schakelford)
+Anaïs G: **"** **"**
 
 ## Hania Rani - 
 Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
