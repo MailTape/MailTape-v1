@@ -12,20 +12,10 @@ category: '403'
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
-track1_link: ''
-track2_link: ''
-track3_link: ''
-track4_link: ''
-track5_link: ''
 track6_link: >-
   https://soundcloud.com/leavingrecords/swarvy-spam-grease-feat-keifer-shackelford
-track7_link: ''
-track1_title: ''
-track1_color: ''
-track2_title: ''
-track2_color: ''
-track3_title: ''
-track3_color: ''
+track1_title: Bugz In The Attic - Red Handed
+track1_color: bliss
 track4_title: Quiet Dawn - Being
 track4_color: trippy
 track5_title: 'Tigran Hamasyan - Vardavar '
@@ -34,7 +24,6 @@ track6_title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
 track6_color: dreamy
 track7_title: Hania Rani - Sun
 track7_color: vibrant
-description: ''
 ---
 <p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist [Quiet Dawn](https://quietdawn.bandcamp.com/). 
 <br><br>
