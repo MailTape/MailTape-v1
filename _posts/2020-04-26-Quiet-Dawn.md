@@ -45,7 +45,7 @@ Quiet Dawn: **"**I'm in totally in love with Bossa Nova, all the album is lovely
 # MailTape's selection
 
 ## Quiet Dawn - Being
-Anaïs G: **"** **"**
+Anaïs G: **"**Very different from these last EPs, this one deals with human behaviours: sadness, love, anger, sex, friendship... What I like the most in "Human Being - The Short Story Of The Reed" is its ultra jazzy-groovy, almost instrumental side. A delight for the ears!**"**
 
 ## Tigran Hamasyan - Vardavar
 Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this Armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
@@ -53,7 +53,7 @@ Anaïs G: **"**It was in the course of a conversation with a friend that I disco
 ## Swarvy - Spam Grease (Feat Kiefer Schakelford)
 Anaïs G: **"**It was while re-listening to Kiefer's songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the Living Records label, is a jazzy-soul nugget that smoothes you instantly.**"**
 
-## Hania Rani - 
+## Hania Rani - Sun 
 Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
 
 
