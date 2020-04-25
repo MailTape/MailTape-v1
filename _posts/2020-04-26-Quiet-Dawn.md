@@ -13,7 +13,7 @@ writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 ---
-<p id="introduction"> This morning,
+<p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist Quiet Dawn. 
 <br><br>
 
 </p>
@@ -34,17 +34,17 @@ Quiet Dawn: **"**I'm in totally in love with Bossa Nova, all the album is lovely
 
 # MailTape's selection
 
-##  - 
+## Quiet Dawn - Being
 Anaïs G: **"** **"**
 
-##  - 
-Anaïs G: **"** **"**
+## Tigran Hamasyan - Vardavar
+Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this Armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
 
-##  - 
-Anaïs G: **"** **"**
+## Pavane - Plumes
+Anaïs G: **"**It was at a concert that I discovered Pavane quite by chance. It was strong, beautiful, majestic and classy. I had rarely seen a concert that had transcended me so much on this kind of acoustic music mixing electro and classical. Nice association!**"**
 
-## - 
-Anaïs G: **"** **"**
+## Hania Rani - 
+Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
 
 
 <p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to Anthony Dujardin for this episode's stunning illustration.</p>
