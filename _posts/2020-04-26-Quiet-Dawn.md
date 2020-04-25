@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 musiColor: musiColor403.png
 image: 'https://mailta.pe/img/fbPic403.png'
 episode_URL: 'http://mailta.pe/403/quiet-dawn/'
@@ -12,8 +12,20 @@ category: '403'
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
+track1_link: ''
+track2_link: ''
+track3_link: ''
+track4_link: ''
+track5_link: ''
 track6_link: >-
   https://soundcloud.com/leavingrecords/swarvy-spam-grease-feat-keifer-shackelford
+track7_link: ''
+track1_title: ''
+track1_color: ''
+track2_title: ''
+track2_color: ''
+track3_title: ''
+track3_color: ''
 track4_title: Quiet Dawn - Being
 track4_color: trippy
 track5_title: 'Tigran Hamasyan - Vardavar '
@@ -22,11 +34,11 @@ track6_title: Swarvy - Spam Grease (Feat Kiefer Shackelford)
 track6_color: dreamy
 track7_title: Hania Rani - Sun
 track7_color: vibrant
+description: ''
 ---
-<p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist Quiet Dawn. 
+<p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist [Quiet Dawn](https://quietdawn.bandcamp.com/). 
 <br><br>
-Through these multiple EPs, Quiet Dawn offers us each time a multitude of musical colours. Jazz and hip hop sounds in "The First Day" and some more instrumental stuff in "Human Being - The Short Story Of The Reed", released on First Words Records in February 2018. A nice musical surprise! 
-
+Through these multiple EPs, Quiet Dawn offers us each time a multitude of musical colours. Jazz and hip hop sounds in "[The First Day](https://quietdawn.bandcamp.com/album/the-first-day)" and some more instrumental stuff in "[Human Being - The Short Story Of The Reed](https://quietdawn.bandcamp.com/album/human-being-the-short-story-of-the-reed)", released on [First Word Records](https://shop.firstwordrecords.com/) in February 2018. A nice musical surprise! 
 </p>
 
 
