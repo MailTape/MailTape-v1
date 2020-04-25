@@ -25,8 +25,8 @@ track7_color: vibrant
 ---
 <p id="introduction"> This morning, we're away from the troubles. In our bed to wander around, or on our deckchair to be gilded in our garden for the lucky ones, our mind wanders elsewhere to find the inner peace we need. How can you think about tomorrow when it's far away or blurry? Enjoying the present moment is the best resolution as well as listening to this Sunday's selection made by the artist Quiet Dawn. 
 <br><br>
+Through these multiple EPs, Quiet Dawn offers us each time a multitude of musical colours. Jazz and hip hop sounds in "The First Day" and some more instrumental stuff in "Human Being - The Short Story Of The Reed", released on First Words Records in February 2018. A nice musical surprise! 
 
-C'est à travers 
 </p>
 
 
