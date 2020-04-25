@@ -76,4 +76,4 @@ Anaïs G: **"**It was while re-listening to [Kiefer](https://soundcloud.com/kief
 Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
 
 
-<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to Anthony Dujardin for this episode's stunning illustration.</p>
+<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to [Anthony Dujardin](http://www.anthonydujardin.com/illustrations/) for this episode's stunning illustration.</p>
