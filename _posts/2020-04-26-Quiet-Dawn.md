@@ -14,10 +14,12 @@ illustrator: Anthony Dujardin
 author: Anaïs G
 track6_link: >-
   https://soundcloud.com/leavingrecords/swarvy-spam-grease-feat-keifer-shackelford
+track7_link: 'https://soundcloud.com/haniarani-music/sun?in=haniarani-music/sets/esja-2'
 track1_title: Bugz In The Attic - Red Handed
 track1_color: bliss
 track2_title: Ice - Reality
 track2_color: bliss
+track3_title: Antonio Carlos Jobim - Brazil
 track3_color: dreamy
 track4_title: Quiet Dawn - Being
 track4_color: trippy
