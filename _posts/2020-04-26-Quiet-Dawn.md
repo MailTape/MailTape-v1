@@ -14,6 +14,7 @@ illustrator: Anthony Dujardin
 author: Anaïs G
 track4_title: Quiet Dawn - Being
 track4_color: trippy
+track5_title: 'Tigran Hamasyan - Vardavar '
 track5_color: bliss
 track6_title: Pavane - Plumes
 track6_color: vibrant
