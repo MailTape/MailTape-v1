@@ -16,6 +16,9 @@ track6_link: >-
   https://soundcloud.com/leavingrecords/swarvy-spam-grease-feat-keifer-shackelford
 track1_title: Bugz In The Attic - Red Handed
 track1_color: bliss
+track2_title: Ice - Reality
+track2_color: bliss
+track3_color: dreamy
 track4_title: Quiet Dawn - Being
 track4_color: trippy
 track5_title: 'Tigran Hamasyan - Vardavar '
