@@ -43,7 +43,7 @@ musiColor: musiColor404.png
 ---
 <p id="introduction">This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
 <br><br>
-By now you might get why I invited [French Kettle Station](https://frenchkettlestation.bandcamp.com/) and why we curated only trippy tracks. I've been amazed by his work and the myriad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you experience that today.
+By now you might get why I invited [French Kettle Station](https://frenchkettlestation.bandcamp.com/) and why we curated only trippy tracks. I've been amazed by his work and the myriad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you to experience that today.
 </p>
 
 
