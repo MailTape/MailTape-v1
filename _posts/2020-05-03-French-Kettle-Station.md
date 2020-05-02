@@ -21,7 +21,7 @@ track4_title: French Kettle Station - Halocam
 track2_color: trippy
 track3_color: trippy
 track4_color: trippy
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/404/track5.mp3'
+track5_link: 'https://soundcloud.com/umor/ur110-1'
 track5_title: Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
 track5_color: trippy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/404/track6.mp3'
