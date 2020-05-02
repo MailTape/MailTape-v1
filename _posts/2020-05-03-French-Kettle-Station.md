@@ -11,7 +11,7 @@ guest_name: French Kettle Station
 guest_color: trippy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/404/track1.mp3'
 track1_title: Orior - Feels Like Summer
-track1_color: dreamy
+track1_color: trippy
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/404/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/404/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/404/track4.mp3'
