@@ -12,7 +12,15 @@ guest_color: trippy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/404/track1.mp3'
 track1_title: Orior - Feels Like Summer
 track1_color: dreamy
-track2_link: 'https://soundcloud.com/bamaoyende/bamao-yende-banda-42'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/404/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/404/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/404/track4.mp3'
+track2_title: Zazou / Bikaye / CY1 - Mangugu
+track3_title: Colleen - This Hammer Breaks
+track4_title: French Kettle Station - Halocam
+track2_color: dreamy
+track3_color: vibrant
+track4_color: trippy
 ---
 <p id="introduction"> 
 </p>
