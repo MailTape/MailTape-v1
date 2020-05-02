@@ -56,11 +56,11 @@ ImaCrea: **"**Vaporish walk by the sea. Allow me to have that colorful cocktail 
 ## Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
 ImaCrea: **"**Don't need to go the theater with such cinematic music. Landscapes of hopes and poems projected behind my eyelids. Suddenly, an image of the cosmos and the triadic structure formed by Sun, Moon and Earth. Proof distance is not an issue, we have gravity and universal attraction to keep vibrating together in space.**"**
 
-## [Swarvy](https://soundcloud.com/swarvy) - Spam Grease (Feat Kiefer Schakelford)
-ImaCrea: **"**It was while re-listening to [Kiefer](https://soundcloud.com/kiefdaddy)'s songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the [Leaving Records](https://leavingrecords.com/) label, is a jazzy-soul nugget that smoothes you instantly.**"**
+## Nicolas Jaar - Gocce
+ImaCrea: **"**Nicolas Jaar keeps experimenting and pushing further his own horizon and ours. Never repeating himself so far, this fresh new album is filled with generosity and kindness. Being so famous almost instantly, he could have kept doing the same electro sound everybody danced on a few years ago, instead he chose to stay true. Life's changing so his music too.**"**
 
-## [Hania Rani](https://soundcloud.com/haniarani-music) - Sun 
-ImaCrea: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
+## Kali Malone - Fifth Worship II 
+ImaCrea: **"**Sacred ritual for a new spiritual age. Kali Malone shows the way.**"**
 
 
 <p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to [Anthony Dujardin](http://www.anthonydujardin.com/illustrations/) for this episode's stunning illustration.</p>
