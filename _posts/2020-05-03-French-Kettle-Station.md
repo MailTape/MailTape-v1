@@ -50,17 +50,17 @@ French Kettle Station: **"**I have loved Cécile Schott since I first heard "The
 
 # MailTape's selection
 
-## [Quiet Dawn](https://www.facebook.com/QuietDawn) - Being
-Anaïs G: **"**Very different from these last EPs, this one deals with human behaviours: sadness, love, anger, sex, friendship... What I like the most in "Human Being - The Short Story Of The Reed" is its ultra jazzy-groovy, almost instrumental side. A delight for the ears!**"**
+## French Kettle Station - Halocam
+ImaCrea: **"**Vaporish walk by the sea. Allow me to have that colorful cocktail my dear and let our imagination ride with the waves. Heart goes bump bump, sunrays vibration produces pulsation. Behind me, luxurious hostels and fast food restaurants which colonized the sea shore a few decades ago are oscillating. Emptied because of the pandemic, theses giants structure of metal and glass start to crack and slowly decompose as rotten fruits from another age.**"**
 
-## [Tigran Hamasyan](https://tigranhamasyan.bandcamp.com/) - Vardavar
-Anaïs G: **"**It was in the course of a conversation with a friend that I discovered this armenian jazz pianist. It was this song that made me want to listen to more of his songs. An explosion of the senses, a patchwork of a thousand colours, that's how I could describe his music! Several facets that I can't wait to discover through these different albums...**"**
+## Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
+ImaCrea: **"**Don't need to go the theater with such cinematic music. Landscapes of hopes and poems projected behind my eyelids. Suddenly, an image of the cosmos and the triadic structure formed by Sun, Moon and Earth. Proof distance is not an issue, we have gravity and universal attraction to keep vibrating together in space.**"**
 
 ## [Swarvy](https://soundcloud.com/swarvy) - Spam Grease (Feat Kiefer Schakelford)
-Anaïs G: **"**It was while re-listening to [Kiefer](https://soundcloud.com/kiefdaddy)'s songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the [Leaving Records](https://leavingrecords.com/) label, is a jazzy-soul nugget that smoothes you instantly.**"**
+ImaCrea: **"**It was while re-listening to [Kiefer](https://soundcloud.com/kiefdaddy)'s songs that I came across this artist, producer and multi-instrumentalist, Swarvy. His album "Elderberry", released on the [Leaving Records](https://leavingrecords.com/) label, is a jazzy-soul nugget that smoothes you instantly.**"**
 
 ## [Hania Rani](https://soundcloud.com/haniarani-music) - Sun 
-Anaïs G: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
+ImaCrea: **"**Who says you need lyrics to make a song better? Hania Rani is proof of that. This pianist, composer and musician has touched me in the depths of my soul with her music that has no borders and no colour. Each note is an emotion, it's beautiful and sublime!**"**
 
 
 <p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to [Anthony Dujardin](http://www.anthonydujardin.com/illustrations/) for this episode's stunning illustration.</p>
