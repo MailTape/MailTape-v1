@@ -63,4 +63,4 @@ ImaCrea: **"**Nicolas Jaar keeps experimenting and pushing further his own horiz
 ImaCrea: **"**Sacred ritual for a new spiritual age. Kali Malone shows the way.**"**
 
 
-<p id="outroduction">That's it for this morning, thank you so much for being with us every Sunday morning! Much love and respect to Quiet Dawn for his wonderful Sunday selections, and to [Anthony Dujardin](http://www.anthonydujardin.com/illustrations/) for this episode's stunning illustration.</p>
+<p id="outroduction">That was intense. Thank you so much for being with us every Sunday morning! Much love and respect to French Kettle Station for his deep and trippy Sunday selections, and to [Thibault Daumain](thibaultdaumain.fr/) for this episode's wild illustration.</p>
