@@ -31,8 +31,14 @@ track6_title: Nicolas Jaar - Gocce
 track6_color: trippy
 track7_color: trippy
 ---
-<p id="introduction">This morning, it seems as we're entering final stage of grief : acceptance. After denial, anger, bargaining and depression, now have no choice but to accept the world as it "used to be" has forever changed. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
-  <br><br>By now you might get why I invited French Kettle Station and why we curated together only trippy tracks. I've been amazed by his work and the miryad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you experience that today.
+<p id="introduction">This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
+
+
+By now you might get why I invited French Kettle Station and why we curated together only trippy tracks. I've been amazed by his work and the myriad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you experience that today.
+
+
+
+
 </p>
 
 
