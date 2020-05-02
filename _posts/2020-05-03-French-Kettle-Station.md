@@ -22,10 +22,12 @@ track2_color: trippy
 track3_color: trippy
 track4_color: trippy
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/404/track5.mp3'
-track5_title: ' Part Time - Vertebraeker '
+track5_title: Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
 track5_color: trippy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/404/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/404/track7.mp3'
+track7_title: Kali Malone - Fifth Worship II
+track6_title: Nicolas Jaar - Gocce
 ---
 <p id="introduction"> 
 </p>
