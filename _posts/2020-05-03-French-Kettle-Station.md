@@ -9,7 +9,9 @@ writer: ImaCrea
 category: '404'
 guest_name: French Kettle Station
 guest_color: trippy
-track1_link: 'https://soundcloud.com/orior-music/feels-like-summer'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/404/track1.mp3'
+track1_title: Orior - Feels Like Summer
+track1_color: dreamy
 ---
 <p id="introduction"> 
 </p>
