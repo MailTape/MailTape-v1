@@ -30,11 +30,18 @@ track7_title: Kali Malone - Fifth Worship II
 track6_title: Nicolas Jaar - Gocce
 track6_color: trippy
 track7_color: trippy
+description: >-
+  This morning, it seems as we're entering the final stage of grief: acceptance.
+  After denial, anger, bargaining and depression, now we have no choice but to
+  accept the world as it "used to be" has changed forever. Living with
+  uncertainty may not be easy. But has it ever been different? It's always been
+  an illusion, everything is in movement and your heart is still beating. Now is
+  no time to stop the rhythm but to let go and keep dancing with the unknown.
 ---
 <p id="introduction">This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
 
 
-By now you might get why I invited French Kettle Station and why we curated only trippy tracks. I've been amazed by his work and the myriad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you experience that today.
+By now you might get why I invited [French Kettle Station](https://frenchkettlestation.bandcamp.com/) and why we curated only trippy tracks. I've been amazed by his work and the myriad of subtleties encapsulated in his compositions. Do you know that feeling when something totally new to you still manages to click inside your mind and resonates with your soul as it's ever been here, ready to be explored? Well, my hope is for you experience that today.
 </p>
 
 
@@ -52,17 +59,17 @@ French Kettle Station: **"**I have loved Cécile Schott since I first heard "The
 
 # MailTape's selection
 
-## French Kettle Station - Halocam
+## [French Kettle Station](https://frenchkettlestation.bandcamp.com/) - Halocam
 ImaCrea: **"**Vaporish walk by the sea. Allow me to have that colorful cocktail my dear and let our imagination ride with the waves. Heart goes bump bump, sunrays vibration produces pulsation. Behind me, luxurious hostels and fast food restaurants which colonized the sea shore a few decades ago are oscillating. Emptied because of the pandemic, theses giants structure of metal and glass start to crack and slowly decompose as rotten fruits from another age.**"**
 
-## Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
+## [Dustin Wong + Takako Minekawa + Good Willsmith](https://umorrex.bandcamp.com/album/exit-future-heart) - Gikanjoumonogatari
 ImaCrea: **"**Don't need to go the theater with such cinematic music. Landscapes of hopes and poems projected behind my eyelids. Suddenly, an image of the cosmos and the triadic structure formed by Sun, Moon and Earth. Proof distance is not an issue, we have gravity and universal attraction to keep vibrating together in space.**"**
 
-## Nicolas Jaar - Gocce
+## [Nicolas Jaar](https://nicolasjaar.bandcamp.com/album/cenizas) - Gocce
 ImaCrea: **"**Nicolas Jaar keeps experimenting and pushing further his own horizon and ours. Never repeating himself so far, this fresh new album is filled with generosity and kindness. Being so famous almost instantly, he could have kept doing the same electro sound everybody danced on a few years ago, instead he chose to stay true. Life's changing so his music too.**"**
 
-## Kali Malone - Fifth Worship II 
+## [Kali Malone](https://kalimalone.bandcamp.com/album/the-sacrificial-code) - Fifth Worship II 
 ImaCrea: **"**Sacred ritual for a new spiritual age. Kali Malone shows the way.**"**
 
 
-<p id="outroduction">That was intense. Thank you so much for being with us every Sunday morning! Much love and respect to French Kettle Station for his deep and trippy Sunday selections, and to [Thibault Daumain](thibaultdaumain.fr/) for this episode's wild illustration.</p>
+<p id="outroduction">That was intense. Thank you so much for being with us every Sunday morning! Much love and respect to [French Kettle Station](https://frenchkettlestation.bandcamp.com/) for his deep and trippy Sunday selections, and to [Thibault Daumain](thibaultdaumain.fr/) for this episode's wild illustration.</p>
