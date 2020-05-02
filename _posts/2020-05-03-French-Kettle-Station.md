@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
-guestPic: guestPic404b.jpg
+guestPic: guestPic404c.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
