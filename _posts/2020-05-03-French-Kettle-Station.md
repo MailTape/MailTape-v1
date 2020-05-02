@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+guestPic: guestPic404.jpg
+author: ImaCrea
+illustrator: Thibault Daumain
+writer: ImaCrea
+category: '404'
+guest_name: French Kettle Station
+guest_color: trippy
 ---
 <p id="introduction"> 
 </p>
