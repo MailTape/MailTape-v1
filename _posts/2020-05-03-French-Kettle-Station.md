@@ -37,7 +37,9 @@ description: >-
   uncertainty may not be easy. But has it ever been different? It's always been
   an illusion, everything is in movement and your heart is still beating. Now is
   no time to stop the rhythm but to let go and keep dancing with the unknown.
-episode_URL: 'https://mailta.pe/404/french-kettle-station/'
+episode_URL: 'https://www.mailta.pe/404/french-kettle-station/'
+image: 'https://mailta.pe/img/fbPic404.png'
+musiColor: musiColor404.png
 ---
 <p id="introduction">This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
 
@@ -56,7 +58,6 @@ French Kettle Station: **"**Zazou / Bikaye / CY1 sees the collaboration between 
 
 ## [Colleen](https://colleencolleen.bandcamp.com/album/captain-of-none) - 
 French Kettle Station: **"**I have loved Cécile Schott since I first heard "The Golden Morning Breaks" 10 years ago. Her earlier works were emotive instrumental works, and when she began incorporating her voice it really became something special. "This Hammer Breaks" goes so many incredible places with just voice, drums and minimal electronics. It makes me feel like I am sailing alone in the dark, venturing toward something unknown at a speed I have no control over (which is essentially how I feel just being alive).**"**
-
 
 # MailTape's selection
 
