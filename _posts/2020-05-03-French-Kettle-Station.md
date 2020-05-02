@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 guestPic: guestPic404c.jpg
 author: ImaCrea
 illustrator: Thibault Daumain
@@ -37,6 +37,7 @@ description: >-
   uncertainty may not be easy. But has it ever been different? It's always been
   an illusion, everything is in movement and your heart is still beating. Now is
   no time to stop the rhythm but to let go and keep dancing with the unknown.
+episode_URL: 'https://mailta.pe/404/french-kettle-station/'
 ---
 <p id="introduction">This morning, it seems as we're entering the final stage of grief: acceptance. After denial, anger, bargaining and depression, now we have no choice but to accept the world as it "used to be" has changed forever. Living with uncertainty may not be easy. But has it ever been different? It's always been an illusion, everything is in movement and your heart is still beating. Now is no time to stop the rhythm but to let go and keep dancing with the unknown.
 
