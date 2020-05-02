@@ -28,6 +28,8 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/404/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/404/track7.mp3'
 track7_title: Kali Malone - Fifth Worship II
 track6_title: Nicolas Jaar - Gocce
+track6_color: trippy
+track7_color: trippy
 ---
 <p id="introduction"> 
 </p>
