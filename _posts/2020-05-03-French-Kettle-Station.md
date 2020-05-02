@@ -12,6 +12,7 @@ guest_color: trippy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/404/track1.mp3'
 track1_title: Orior - Feels Like Summer
 track1_color: dreamy
+track2_link: 'https://soundcloud.com/bamaoyende/bamao-yende-banda-42'
 ---
 <p id="introduction"> 
 </p>
