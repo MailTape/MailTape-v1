@@ -18,8 +18,8 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/404/track4.mp3'
 track2_title: Zazou / Bikaye / CY1 - Mangugu
 track3_title: Colleen - This Hammer Breaks
 track4_title: French Kettle Station - Halocam
-track2_color: dreamy
-track3_color: vibrant
+track2_color: trippy
+track3_color: trippy
 track4_color: trippy
 ---
 <p id="introduction"> 
