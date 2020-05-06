@@ -16,7 +16,7 @@ $(document).ready(
 
 				console.log("data before post: "+name+" - "+email+" - "+url)
 
-				$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
+				$.post(url, {name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true"},
 				  function(data) {
 				  		//console.log("data: "+data);
 				      if(data)
@@ -90,7 +90,7 @@ $(document).ready(
 
 				console.log("data before post: "+name+" - "+email+" - "+url)
 				
-				$.post(url, {name:name, email:email,list:"2Ac42P4mkTBXOJheBtYLzQ",boolean:"true"},
+				$.post(url, {name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true"},
 				  function(data) {
 				  	console.log("data: "+data);
 				      if(data)
