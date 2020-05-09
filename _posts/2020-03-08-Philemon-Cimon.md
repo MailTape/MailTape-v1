@@ -8,23 +8,24 @@ writer: Jules
 category: '396'
 guest_name: Philémon Cimon
 guest_color: vibrant
-episode_URL: 'https://www.mailta.pe/396/philemon-cimon/'
-track1_title: >-
-  Jean-Sébastien Bach - Magnificat En Ré Majeur, BWV 243 : Choeur I. Magnificat
-  anima mea Dominium
+track1_title: Jean-Sébastien Bach - Magnificat En Ré Majeur
 track1_color: vibrant
-track2_title: Félix Leclerc - Les Dimanches
 track2_color: bliss
-track3_title: Safia Nolin & Pomme - Lesbian Break-Up Song
 track3_color: vibrant
-track4_title: Philémon Cimon - Latte Chumey
 track4_color: bliss
-track5_title: Kasey Johansing - wildfire (Hand Habits cover)
 track5_color: vibrant
-track6_title: SAULT - Threats
 track6_color: rough
-track7_title: Helado Negro - Todo Lo Que Me Falta
 track7_color: bliss
+episode_URL: 'https://mailta.pe/396/philemon-cimon/'
+image: 'https://mailta.pe/img/fbPic396.png'
+musiColor: musiColor396.png
+track2_title: Félix Leclerc - Les Dimanches
+track3_title: Safia Nolin & Pomme - Lesbian Break-Up Song
+track4_title: Philémon Cimon - Latte Chumey
+track5_title: Kacey Johansing - wildfire (Hand Habits cover)
+track6_title: SAULT - Threats
+track7_title: Helado Negro - Todo Lo Que Me Falta
+guestPic: guestPic396.jpg
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/396/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/396/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/396/track3.mp3'
@@ -32,23 +33,18 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/396/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/396/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/396/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/396/track7.mp3'
-guestPic: guestPic396.jpg
-image: 'https://mailta.pe/img/fbPic396.png'
-musiColor: musiColor396.png
 description: >-
-  This morning, we are going back to where we grew up, to the land of our
-  teenage years, with Montreal-based singer-songwriter Philémon Cimon. It took a
-  while for Philémon Cimon's songs to cross the Atlantic Ocean and reach my
-  ears. I discovered him with his sixth album "PAYS". Released in May 2019, this
-  album is a magnificent collection of stories rooted in Quebec landscapes.
-  Recorded between his apartment, a small church in Saint-Joseph-de-la-Rive and
-  a chapel in Port-au-Persil, in Charlevoix, these songs reflect his desire to
-  return to more acoustic, raw and authentic music. The trigger was the
-  discovery of her grandmother’s memories, a long recording of around thirty
-  hours in which she recounts her childhood. Now Philémon is one of the artists
-  I listen to the most on Sunday mornings. His voice is familiar to me like the
-  one of a childhood friend and I feel like if I too have memories at
-  Charlevoix.
+  It took a while for Philémon Cimon’s songs to cross the Atlantic Ocean and
+  reach my ears. I discovered him with his sixth album “PAYS”. Released in May
+  2019, this album is a magnificent collection of stories rooted in Quebec
+  landscapes. Recorded between his apartment, a small church in
+  Saint-Joseph-de-la-Rive and a chapel in Port-au-Persil, in Charlevoix, these
+  songs reflect his desire to return to more acoustic, raw and authentic music.
+  The trigger was the discovery of her grandmother’s memories, a long recording
+  of around thirty hours in which she recounts her childhood. Now Philémon is
+  one of the artists I listen to the most on Sunday mornings. His voice is
+  familiar to me like the one of a childhood friend and I feel like if I too
+  have memories at Charlevoix.
 ---
 <p id="introduction"> This morning, we are going back to where we grew up, to the land of our teenage years, with Montreal-based singer-songwriter [Philémon Cimon](https://philemoncimon.bandcamp.com/).
 <br><br>
