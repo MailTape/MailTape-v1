@@ -432,7 +432,7 @@ prose:
           type: "text"
 
 # add rss feed
-gems:
+plugins:
   - jekyll-feed
 url: https://mailta.pe
 repository: MailTape/MailTape.github.io
