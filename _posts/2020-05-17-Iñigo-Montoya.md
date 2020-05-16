@@ -17,11 +17,19 @@ writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 published: false
+track5_link: 'https://soundcloud.com/petit-fantome/je-ne-reviendrais-pas'
 track6_link: 'https://soundcloud.com/jaunejaune/la-lueur-ankierman-remix'
 track4_title: Iñigo Montoya - .E.S
 track4_color: trippy
+track5_title: petit.fantome - Je ne reviendrais pas
+track5_color: vibrant
 track6_title: Jaune - La Lueur ( Ankierman Remix)
 track6_color: trippy
+track7_title: 'Ricky Hollywood - Le sens du sens '
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/406/iñigo-montoya/'
+image: 'https://mailta.pe/img/fbPic406.png'
+musiColor: musiColor406.png
 ---
 
 <p id="introduction">This morning, 
