@@ -3,7 +3,12 @@ layout: episode
 bigTitle_font_ratio: '6'
 track3_color: rough
 track3_title: The Blood Brothers - Trash Flavored Trash
+track2_color: dreamy
+track2_title: Adrien Pallot - quatre sept
+track1_color: bliss
+track1_title: Vitesse - A Way To My Redemption
 track3_link: 'https://soundcloud.com/the-blood-brothers-official/trash-flavored-trash'
+track2_link: 'https://soundcloud.com/santerecordz/quatre_sept'
 guestPic: guestPic406.jpg
 guest_color: trippy
 guest_name: 'Iñigo Montoya '
