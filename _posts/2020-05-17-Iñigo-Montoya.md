@@ -1,6 +1,16 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
+track3_color: rough
+track3_title: The Blood Brothers - Trash Flavored Trash
+track3_link: 'https://soundcloud.com/the-blood-brothers-official/trash-flavored-trash'
+guestPic: guestPic406.jpg
+guest_color: trippy
+guest_name: 'Iñigo Montoya '
+category: '406'
+writer: Anaïs G
+illustrator: Thibault Daumain
+author: Anaïs G
 published: false
 ---
 
