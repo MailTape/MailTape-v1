@@ -7,7 +7,7 @@ track2_color: dreamy
 track2_title: Adrien Pallot - quatre sept
 track1_color: bliss
 track1_title: Vitesse - A Way To My Redemption
-track3_link: 'https://soundcloud.com/the-blood-brothers-official/trash-flavored-trash'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/406/track3.mp3'
 track2_link: 'https://soundcloud.com/santerecordz/quatre_sept'
 guestPic: guestPic406.jpg
 guest_color: trippy
@@ -30,6 +30,8 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/406/iñigo-montoya/'
 image: 'https://mailta.pe/img/fbPic406.png'
 musiColor: musiColor406.png
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/406/track1.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/406/track7.mp3'
 ---
 
 <p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution.
