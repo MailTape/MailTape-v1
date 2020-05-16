@@ -32,9 +32,9 @@ image: 'https://mailta.pe/img/fbPic406.png'
 musiColor: musiColor406.png
 ---
 
-<p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution
+<p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution.
 <br><br>
-Iñigo Montoya dont je vous parle ici n'est pas le personnage principal du film "Princess Bride" avec une moustache mais bien un groupe de musique 
+Iñigo Montoya,I'm talking about here is not the main character of the movie "Princess Bride" with a moustache but is indeed a Parisian duo composed of Quentin Convard and Pierre Plantin, and joined on stage by Louis Delorme and David Baudart. On November 15th, he unveiled their "InigEP03", signed at Echo Orange! A surprising, provocative EP with a strong message to save what's left of this planet. 
 </p>
 
 
