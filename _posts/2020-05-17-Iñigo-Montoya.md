@@ -35,21 +35,21 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/406/track4.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/406/track7.mp3'
 ---
 
-<p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution.
+<p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group [Iñigo Montoya](https://soundcloud.com/i-igo-montoya-2) to whisper in our ears its desires and its revolution.
 <br><br>
-Iñigo Montoya,I'm talking about here is not the main character of the movie "Princess Bride" with a moustache but is indeed a Parisian duo composed of Quentin Convard and Pierre Plantin, and joined on stage by Louis Delorme and David Baudart. On November 15th, he unveiled their "InigEP03", signed at Echo Orange! A surprising, provocative EP with a strong message to save what's left of this planet. 
+[Iñigo Montoya](https://inigomontoyaya.bandcamp.com/), I'm talking about here is not the main character of the movie "Princess Bride" with a moustache but is indeed a Parisian duo composed of Quentin Convard and Pierre Plantin, and joined on stage by Louis Delorme and David Baudart. On November 15th, he unveiled their "[InigEP03](https://inigomontoyaya.bandcamp.com/album/inigep03)", signed at [Echo Orange](http://www.echo-orange.fr/)! A surprising, provocative EP with a strong message to save what's left of this planet. 
 </p>
 
 
 # Iñigo Montoya's selection
 
-##  Vitesse - A way to my redemption 
+##  [Vitesse](https://en.m.wikipedia.org/wiki/Vitesse_(band)) - A Way To My Redemption 
 Iñigo Montoya: **"**We don't know who is hiding behind this band. Sometimes the singer is out of tune or the keyboard is corny, but the sweet voice and melodies are calming you down. Start the day in a warm place, put some jam on your croissant (yes, we are French) on the small table of your small kitchen with the person you love... and this perfect song.**"**
 
 ##  Adrien Pallot - Quatre Sept 
-Iñigo Montoya: **"**Adrien, a friend of us, released a beautiful ambient EP and remixed one of our song "Castration", recently. This track is beautiful if you wake up alone on a sunday morning and want to stay in bed with a book ! We tried it with « La Chute des corps » by Druon and « L’Art de perdre » by Zeniter, and it works. But it seems to work with most of the books. The idea is : this track with a story you love.**"**
+Iñigo Montoya: **"**Adrien, a friend of us, released a beautiful ambient EP and remixed one of our song "Castration", recently. This track is beautiful if you wake up alone on a sunday morning and want to stay in bed with a book ! We tried it with « La Chute des corps » by [Druon](https://fr.wikipedia.org/wiki/Maurice_Druon) and « [L’Art de perdre](https://fr.wikipedia.org/wiki/L'Art_de_perdre) » by [Zeniter](https://fr.wikipedia.org/wiki/Alice_Zeniter), and it works. But it seems to work with most of the books. The idea is : this track with a story you love.**"**
 
-##  The Blood Brothers - Trash Flavored Trash 
+##  [The Blood Brothers](https://www.thebloodbrothers.com/) - Trash Flavored Trash 
 Iñigo Montoya: **"**On Sunday, some of us are working (that's the case of Quentin), therefore a violent and hysterical track to wake up is not so bad. One of the greatest band of the 2000's by the way.**"**
 
 # MailTape's selection
