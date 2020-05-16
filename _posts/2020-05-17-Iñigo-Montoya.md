@@ -21,7 +21,7 @@ track5_link: 'https://soundcloud.com/petit-fantome/je-ne-reviendrais-pas'
 track6_link: 'https://soundcloud.com/jaunejaune/la-lueur-ankierman-remix'
 track4_title: Iñigo Montoya - .E.S
 track4_color: trippy
-track5_title: petit.fantome - Je ne reviendrais pas
+track5_title: Petit Fantome - Je ne reviendrais pas
 track5_color: vibrant
 track6_title: Jaune - La Lueur ( Ankierman Remix)
 track6_color: trippy
