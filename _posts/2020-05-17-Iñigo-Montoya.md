@@ -64,4 +64,4 @@ Anaïs G: **"**Even if I really like the original of this music, this remix is j
 Anaïs G: **"**This artist, who mixes kitsch and soul from the 70/80s with brio in her latest "Le sens du sens" released on April 10th. His world is as fascinating and crazy as this musical jewel!**"**
 
 
-<p id="outroduction"> </p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to Iñigo Montoya for their wonderful Sunday selections, and to Thibault Daumain for this episode's brilliant illustration.</p>
