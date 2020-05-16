@@ -32,8 +32,9 @@ image: 'https://mailta.pe/img/fbPic406.png'
 musiColor: musiColor406.png
 ---
 
-<p id="introduction">This morning, 
+<p id="introduction">This morning, nous sommes des super-héros du quotidien. Nous essayons de reprendre une vie plus "normal", petit à petit. Reprendre les bonnes habitudes en se protégeant et en protégeant les autres. Et pour nous accompagner dans cette nouvelle vie, rien de tel que le groupe Iñigo Montoya pour nous souffler à l'oreille ses envies et sa révolution.
 <br><br>
+
 
 </p>
 
