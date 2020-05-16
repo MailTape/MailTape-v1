@@ -54,8 +54,8 @@ Iñigo Montoya: **"**On Sunday, some of us are working (that's the case of Quent
 ## Iñigo Montoya  - .E.S
 Anaïs G: **"**A nice project that makes sense. It's quite a symbol that Iñigo Montoya wanted to get through this piece. Commit to fighting violence against women through their music, by donating the profits from this song to the Maison des femmes de Saint Denis. If you listen closely you will recognize a speech by Simone de Beauvoir and the Chilean song "un violador es tu camino" written by the Las Tesis collective.**"**
 
-## petit.fantome - Je ne reviendrais pas
-Anaïs G: **"**  **"**
+## Petit Fantôme - Je ne reviendrais pas
+Anaïs G: **"**I discovered this artist 7 years ago with her track &quot;Peio";, a sweet and peositic title. I wanted to use his music to immerse myself in that atmosphere. &quot; I won't be coming back"; is poetically electrifying, so it's perfect for this selection.**"**
 
 ## Jaune - La Lueur (Ankierman Remix)
 Anaïs G: **"**Even if I really like the original of this music, this remix is just perfect. Electrifying, raw, metallic with a nice blackness that brings out "La Lueur" in something dark.**"**
