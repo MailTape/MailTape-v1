@@ -16,7 +16,7 @@ category: '406'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-published: false
+published: true
 track5_link: 'https://soundcloud.com/petit-fantome/je-ne-reviendrais-pas'
 track6_link: 'https://soundcloud.com/jaunejaune/la-lueur-ankierman-remix'
 track4_title: Iñigo Montoya - .E.S
