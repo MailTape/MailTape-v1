@@ -54,17 +54,17 @@ Iñigo Montoya: **"**On Sunday, some of us are working (that's the case of Quent
 
 # MailTape's selection
 
-## Iñigo Montoya  - .E.S
-Anaïs G: **"**A nice project that makes sense. It's quite a symbol that Iñigo Montoya wanted to get through this piece. Commit to fighting violence against women through their music, by donating the profits from this song to the Maison des femmes de Saint Denis. If you listen closely you will recognize a speech by Simone de Beauvoir and the Chilean song "un violador es tu camino" written by the Las Tesis collective.**"**
+## [Iñigo Montoya](https://www.facebook.com/inigomontoyapark)  - .E.S
+Anaïs G: **"**A nice project that makes sense. It's quite a symbol that Iñigo Montoya wanted to get through this piece. Commit to fighting violence against women through their music, by donating the profits from this song to the Maison des femmes de Saint Denis. If you listen closely you will recognize a speech by [Simone de Beauvoir](https://fr.wikipedia.org/wiki/Simone_de_Beauvoir) and the Chilean song "[un violador es tu camino](https://fr.wikipedia.org/wiki/Un_violeur_sur_ton_chemin)" written by the Lastesis collective.**"**
 
-## Petit Fantôme - Je ne reviendrais pas
-Anaïs G: **"**I discovered this artist 7 years ago with her track &quot;Peio";, a sweet and peositic title. I wanted to use his music to immerse myself in that atmosphere. &quot; I won't be coming back"; is poetically electrifying, so it's perfect for this selection.**"**
+## [Petit Fantôme](https://soundcloud.com/petit-fantome) - Je ne reviendrais pas
+Anaïs G: **"**I discovered this artist 7 years ago with her track "Peio", a sweet and peositic title. I wanted to use his music to immerse myself in that atmosphere. &quot; I won't be coming back"; is poetically electrifying, so it's perfect for this selection.**"**
 
-## Jaune - La Lueur (Ankierman Remix)
+## [Jaune](https://soundcloud.com/jaunejaune) - La Lueur (Ankierman Remix)
 Anaïs G: **"**Even if I really like the original of this music, this remix is just perfect. Electrifying, raw, metallic with a nice blackness that brings out "La Lueur" in something dark.**"**
 
-## Ricky Holywood - Le sens du sens
-Anaïs G: **"**This artist, who mixes kitsch and soul from the 70/80s with brio in her latest "Le sens du sens" released on April 10th. His world is as fascinating and crazy as this musical jewel!**"**
+## [Ricky Hollywood](https://soundcloud.com/ricky-hollywood) - Le sens du sens
+Anaïs G: **"**This artist, who mixes kitsch and soul from the 70/80s with brio in her latest "[Le sens du sens](https://rickyhollywood.bandcamp.com/album/le-sens-du-sens)" released on April 10th. His world is as fascinating and crazy as this musical jewel!**"**
 
 
-<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to Iñigo Montoya for their wonderful Sunday selections, and to Thibault Daumain for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to [Iñigo Montoya](https://soundcloud.com/i-igo-montoya-2) for their wonderful Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
