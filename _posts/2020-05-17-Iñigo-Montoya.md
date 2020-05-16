@@ -34,8 +34,7 @@ musiColor: musiColor406.png
 
 <p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group Iñigo Montoya to whisper in our ears its desires and its revolution
 <br><br>
-
-
+Iñigo Montoya dont je vous parle ici n'est pas le personnage principal du film "Princess Bride" avec une moustache mais bien un groupe de musique 
 </p>
 
 
@@ -53,16 +52,16 @@ Iñigo Montoya: **"**On Sunday, some of us are working (that's the case of Quent
 # MailTape's selection
 
 ## Iñigo Montoya  - .E.S
-Anaïs G: **"** hymne aux femmes  **"**
+Anaïs G: **"**A nice project that makes sense. It's quite a symbol that Iñigo Montoya wanted to get through this piece. Commit to fighting violence against women through their music, by donating the profits from this song to the Maison des femmes de Saint Denis. If you listen closely you will recognize a speech by Simone de Beauvoir and the Chilean song "un violador es tu camino" written by the Las Tesis collective.**"**
 
 ## petit.fantome - Je ne reviendrais pas
-Anaïs G: **"** **"**
+Anaïs G: **"**  **"**
 
 ## Jaune - La Lueur (Ankierman Remix)
-Anaïs G: **"** **"**
+Anaïs G: **"**Even if I really like the original of this music, this remix is just perfect. Electrifying, raw, metallic with a nice blackness that brings out "La Lueur" in something dark.**"**
 
 ## Ricky Holywood - Le sens du sens
-Anaïs G: **"** album sorti le 10 avril dernier  **"**
+Anaïs G: **"**This artist, who mixes kitsch and soul from the 70/80s with brio in her latest "Le sens du sens" released on April 10th. His world is as fascinating and crazy as this musical jewel!**"**
 
 
 <p id="outroduction"> </p>
