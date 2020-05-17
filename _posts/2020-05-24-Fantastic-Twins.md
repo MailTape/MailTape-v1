@@ -1,0 +1,39 @@
+---
+layout: episode
+bigTitle_font_ratio: '6'
+published: false
+---
+<p id="introduction"> This morning, 
+<br><br>
+
+</p>
+
+
+# Fantastic Twins's selection
+
+## The Blue Nile - Easter Parade
+Saramai & Cormac: **"**Paul Buchanan has one of those voices that cut to the core and you know he means everything he is singing. The Blue Nile mainly do night-time kind of songs but Easter Parade has Sunday all over it for us. Their emotional landscapes have been a massive influence. They have a way of creating a mood and sweeping you away with it. This song is full of poetic observation, nostalgic recollections and as always with The Blue Nile, a sense of immense space - all of which we felt was apt listening for these isolationist times!**"**
+
+## LaVern Baker - Lucky Old Sun
+Saramai: **"**I got a gift of a LaVerne Baker album from my brother one Christmas and she became a staple on the stereo. Perfect Sunday morning listening and her version of Lucky Old Sun is masterful, her tone, dynamic - it's astounding. You always feel better after hearing LaVern sing.**"**
+
+## [O Emperor](https://oemperor.bandcamp.com/) - Land of the Living
+Saramai & Cormac: **"**For when Saturday night runs in Sunday morning! We are big fans of O Emperor. They are an Irish band who recently won the Choice Prize, the Irish equivalent of the Mercury awards. They have since broken up but each member is going on to do different musical things. They bring elements of krautrock, psych and funk together in a masterful way. We have often driven many miles to catch them live. This song is from a stunning record called 'In Vitreous'. Their drummer Brendan Fennessy played on one of our tracks which was a buzz for us. They were always under appreciated until they won the Choice but by that stage they had already disbanded. It's a great story and they have left a brilliant legacy. It will be exciting to see what they each get up to next.**"**
+
+
+# MailTape's selection
+
+## Perlee - Charlie's Song
+Jules: **"**With its guitar melody and soothing choirs, this song, the only one of their EP Saramai and Cormac wrote then before their move to Berlin, is a perfect glimpse into the Perlee musical world, and a good reason to get out of bed.**"**
+
+## Baxter Dury - Oscar Brown
+Jules: **"**By taking advantage of the lockdown to sort through my discography, I came back to this piece from Baxter Dury's first album "Len Parrot's Memorial Lift". Before asserting his characteristic deep and nonchalant voice on his following albums, the Englishman sang here in a soft, fragile and airy way, and I found that his voice and the female choir which accompanies him go well with the voices of Perlee.**"**
+
+## Weyes Blood - Movies
+Jules: **"**To write and compose her last album "Titanic Rising", [Weyes Blood](https://weyesblood.bandcamp.com/) drew part of her inspiration from the movie "Titanic". In this song whose intensity gradually increases, she expresses the necessary liberation from books and their beautiful ideas or the romantic love stories conveyed by movies. A strong voice calling you to make yours heard and be your own star.**"**
+
+## Lou Reed - The Kids
+Jules: **"**Sweetness and sadness put in a song, with guitar chords merging with the cries of all of our world's abandoned children.**"**
+
+
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to Saramai and Cormac from [Perlee](https://perleemusic.bandcamp.com/) for their wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration (Photo credits - Mattia Stellacci and Lena Hansen).</p>
