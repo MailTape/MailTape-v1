@@ -5,35 +5,35 @@ published: false
 ---
 <p id="introduction"> This morning, 
 <br><br>
-
+[Fantastic Twins](https://fantastictwins.bandcamp.com/)
 </p>
 
 
 # Fantastic Twins's selection
 
-## The Blue Nile - Easter Parade
-Saramai & Cormac: **"**Paul Buchanan has one of those voices that cut to the core and you know he means everything he is singing. The Blue Nile mainly do night-time kind of songs but Easter Parade has Sunday all over it for us. Their emotional landscapes have been a massive influence. They have a way of creating a mood and sweeping you away with it. This song is full of poetic observation, nostalgic recollections and as always with The Blue Nile, a sense of immense space - all of which we felt was apt listening for these isolationist times!**"**
+## Sun City Girls - Cruel And Thin
+Julienne: **"**I first discovered Sun City Girls on an Optimo Espacio “unmixed” CD ironically called “(Why Nobody Comes) Back To Mine” that was given to me 13 years ago when I left Glasgow. I used to live there and was a regular at Optimo’s Sunday club night back then and felt very sad when I left the city so that was a thoughtful cheer-up gift that became a staple in my music collection ever since. Because I liked it so much I then looked out for the discographies of all the artists and bands featured on that CD and came across so much great music. Sun City Girls were an extremely prolific band so it’s impossible to know their entire body of work. It’s also impossible to pigeonhole them into any genre (as always with great music), their music is an insanely wide and wild mosaic of sounds, weird places and rituals all brought together in a politically incorrect way that I adore. Recalling their early stage experiences confronted to an audience (of skinheads), one of the band members said “They threw sandwiches at Rick and and he was picking them up off the floor and eating them.” Guess that sums them up pretty well. I could have chosen plenty of other songs by them that I like even more but “Cruel And Thin” was the one featured on the CD and therefore kind of the 101 track for me.**"**
 
-## LaVern Baker - Lucky Old Sun
-Saramai: **"**I got a gift of a LaVerne Baker album from my brother one Christmas and she became a staple on the stereo. Perfect Sunday morning listening and her version of Lucky Old Sun is masterful, her tone, dynamic - it's astounding. You always feel better after hearing LaVern sing.**"**
+## Johnnie Frierson - Have You Been Good To Yourself
+Julienne: **"**Light In The Attic Records released this gem a few years ago and I fell in love with it instantly. It’s an album of gospel songs by Johnnie Frierson. The message is obviously very religious (Sunday mornings are for church too, aren’t they?!), Frierson was scarred by the Vietnam War where he was sent to fight as well as grieving the death of his son. So the album reflects his personal struggle and spiritual escape and that resulted in this extremely moving piece of music. To me there’s always an element of melancholy about Sundays and this album is a great journey to shed some tears.**"**
 
-## [O Emperor](https://oemperor.bandcamp.com/) - Land of the Living
-Saramai & Cormac: **"**For when Saturday night runs in Sunday morning! We are big fans of O Emperor. They are an Irish band who recently won the Choice Prize, the Irish equivalent of the Mercury awards. They have since broken up but each member is going on to do different musical things. They bring elements of krautrock, psych and funk together in a masterful way. We have often driven many miles to catch them live. This song is from a stunning record called 'In Vitreous'. Their drummer Brendan Fennessy played on one of our tracks which was a buzz for us. They were always under appreciated until they won the Choice but by that stage they had already disbanded. It's a great story and they have left a brilliant legacy. It will be exciting to see what they each get up to next.**"**
+## Latif Kahn & Don Cherry - Sangam
+Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (and any day really). Simply wonderful music. This one is from a collaboration with Indian percussionist Latif Kahn and was recorded in 1978, the quality of this record is mind blowing.**"**
 
 
 # MailTape's selection
 
-## Perlee - Charlie's Song
-Jules: **"**With its guitar melody and soothing choirs, this song, the only one of their EP Saramai and Cormac wrote then before their move to Berlin, is a perfect glimpse into the Perlee musical world, and a good reason to get out of bed.**"**
+## Fantastic Twins - 
+Jules: **"****"**
 
-## Baxter Dury - Oscar Brown
-Jules: **"**By taking advantage of the lockdown to sort through my discography, I came back to this piece from Baxter Dury's first album "Len Parrot's Memorial Lift". Before asserting his characteristic deep and nonchalant voice on his following albums, the Englishman sang here in a soft, fragile and airy way, and I found that his voice and the female choir which accompanies him go well with the voices of Perlee.**"**
+## 
+Jules: **"****"**
 
-## Weyes Blood - Movies
-Jules: **"**To write and compose her last album "Titanic Rising", [Weyes Blood](https://weyesblood.bandcamp.com/) drew part of her inspiration from the movie "Titanic". In this song whose intensity gradually increases, she expresses the necessary liberation from books and their beautiful ideas or the romantic love stories conveyed by movies. A strong voice calling you to make yours heard and be your own star.**"**
+## 
+Jules: **"****"**
 
-## Lou Reed - The Kids
-Jules: **"**Sweetness and sadness put in a song, with guitar chords merging with the cries of all of our world's abandoned children.**"**
+## 
+Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love and respect to Saramai and Cormac from [Perlee](https://perleemusic.bandcamp.com/) for their wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration (Photo credits - Mattia Stellacci and Lena Hansen).</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Julienne Dessagne, the mastermind behind [Fantastic Twins](https://fantastictwins.bandcamp.com/) for her wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
