@@ -39,7 +39,7 @@ description: >-
   others. And to accompany us in this new life, nothing like the group Iñigo
   Montoya to whisper in our ears its desires and its revolution.
 ---
-![guestPic406.jpg]({{site.baseurl}}/img/guestPic406.jpg)
+
  
 <p id="introduction">This morning, we're everyday superheroes. We're trying to get back to a more "normal" life, little by little. Resume good habits by protecting yourself and others. And to accompany us in this new life, nothing like the group [Iñigo Montoya](https://soundcloud.com/i-igo-montoya-2) to whisper in our ears its desires and its revolution.
 <br><br>
