@@ -2,6 +2,15 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Camille Célestin
+writer: Jules
+category: '407'
+guest_name: Fantastic Twins
+track1_title: Sun City Girls - Cruel And Thin
+track2_title: Johnnie Frierson - Have You Been Good To Yourself
+track3_title: Latif Kahn & Don Cherry - Sangam
+episode_URL: 'https://www.mailta.pe/407/fantastic-twins/'
 ---
 <p id="introduction"> This morning, 
 <br><br>
