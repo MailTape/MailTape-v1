@@ -11,6 +11,18 @@ track1_title: Sun City Girls - Cruel And Thin
 track2_title: Johnnie Frierson - Have You Been Good To Yourself
 track3_title: Latif Kahn & Don Cherry - Sangam
 episode_URL: 'https://www.mailta.pe/407/fantastic-twins/'
+track4_title: Fantastic Twins - The Myth Of Twinus
+track5_title: DJ LYCOX - Jam
+track5_color: dreamy
+track6_title: Giraffi Dog - The Temple Of Magatao
+track6_color: trippy
+track7_title: Perel - Die Dimension (Jayda G remix)
+track7_color: bliss
+track4_color: bliss
+track3_color: trippy
+track2_color: vibrant
+guest_color: trippy
+track1_color: dreamy
 ---
 <p id="introduction"> This morning, 
 <br><br>
