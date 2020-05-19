@@ -7,3 +7,4 @@ _site
 # Vim swap files
 *.swp
 *.swo
+_posts/.DS_Store
