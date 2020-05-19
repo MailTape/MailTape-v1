@@ -32,7 +32,7 @@ Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (
 
 # MailTape's selection
 
-## Fantastic Twins - 
+## Fantastic Twins - The Myth Of Twinus
 Jules: **"****"**
 
 ## 
@@ -41,7 +41,7 @@ Jules: **"****"**
 ## 
 Jules: **"****"**
 
-## 
+## Perel - Die Dimension (Jayda G remix)
 Jules: **"****"**
 
 
