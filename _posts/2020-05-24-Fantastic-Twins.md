@@ -42,7 +42,7 @@ Jules: **"****"**
 Jules: **"****"**
 
 ## Perel - Die Dimension (Jayda G remix)
-Jules: **"****"**
+Jules: **"**Dub version for saturday night out, Jayda G remix for sunny Sunday morning hangover**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Julienne Dessagne, the mastermind behind [Fantastic Twins](https://fantastictwins.bandcamp.com/) for her wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
