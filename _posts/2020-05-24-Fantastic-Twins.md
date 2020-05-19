@@ -23,6 +23,13 @@ track3_color: trippy
 track2_color: vibrant
 guest_color: trippy
 track1_color: vibrant
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/407/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/407/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/407/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/407/track4.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/407/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/407/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/407/track7.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
