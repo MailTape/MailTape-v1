@@ -20,7 +20,7 @@ track7_title: Perel - Die Dimension (Jayda G remix)
 track7_color: bliss
 track4_color: bliss
 track3_color: trippy
-track2_color: bliss
+track2_color: vibrant
 guest_color: trippy
 track1_color: vibrant
 ---
