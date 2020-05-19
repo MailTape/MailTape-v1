@@ -35,10 +35,10 @@ Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (
 ## Fantastic Twins - The Myth Of Twinus
 Jules: **"****"**
 
-## 
+## DJ LYCOX - Jam
 Jules: **"****"**
 
-## 
+## Giraffi Dog - The Temple Of Magatao
 Jules: **"****"**
 
 ## Perel - Die Dimension (Jayda G remix)
