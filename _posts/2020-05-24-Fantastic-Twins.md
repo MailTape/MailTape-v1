@@ -15,7 +15,7 @@ track4_title: Fantastic Twins - The Myth Of Twinus
 track5_title: upsammy - Extra Warm
 track5_color: trippy
 track6_title: Giraffi Dog - The Temple Of Magatao
-track6_color: trippy
+track6_color: rough
 track7_title: Perel - Die Dimension (Jayda G remix)
 track7_color: bliss
 track4_color: bliss
