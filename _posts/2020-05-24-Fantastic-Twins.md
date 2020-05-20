@@ -12,8 +12,8 @@ track2_title: Johnnie Frierson - Have You Been Good To Yourself
 track3_title: Latif Kahn & Don Cherry - Sangam
 episode_URL: 'https://www.mailta.pe/407/fantastic-twins/'
 track4_title: Fantastic Twins - The Myth Of Twinus
-track5_title: DJ LYCOX - Jam
-track5_color: dreamy
+track5_title: upsammy - Extra Warm
+track5_color: trippy
 track6_title: Giraffi Dog - The Temple Of Magatao
 track6_color: trippy
 track7_title: Perel - Die Dimension (Jayda G remix)
@@ -54,7 +54,7 @@ Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (
 ## Fantastic Twins - The Myth Of Twinus
 Jules: **"****"**
 
-## DJ LYCOX - Jam
+## upsammy - Extra Warm
 Jules: **"****"**
 
 ## Giraffi Dog - The Temple Of Magatao
