@@ -55,13 +55,13 @@ Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (
 Jules: **"****"**
 
 ## upsammy - Extra Warm
-Jules: **"****"**
+Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as upsammy to be released in June 2020, this **"**
 
 ## Giraffi Dog - The Temple Of Magatao
 Jules: **"****"**
 
 ## Perel - Die Dimension (Jayda G remix)
-Jules: **"**While Perel's dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by Jayda G has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sun.**"**
+Jules: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sun.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Julienne Dessagne, the mastermind behind [Fantastic Twins](https://fantastictwins.bandcamp.com/) for her wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
