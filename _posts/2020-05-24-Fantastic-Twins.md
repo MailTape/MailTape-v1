@@ -13,9 +13,9 @@ track3_title: Latif Kahn & Don Cherry - Sangam
 episode_URL: 'https://www.mailta.pe/407/fantastic-twins/'
 track4_title: Fantastic Twins - The Myth Of Twinus
 track5_title: upsammy - Extra Warm
-track5_color: trippy
+track5_color: dreamy
 track6_title: Giraffi Dog - The Temple Of Magatao
-track6_color: rough
+track6_color: trippy
 track7_title: Perel - Die Dimension (Jayda G remix)
 track7_color: bliss
 track4_color: bliss
