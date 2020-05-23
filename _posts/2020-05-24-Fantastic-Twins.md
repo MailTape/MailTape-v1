@@ -33,6 +33,17 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/407/track7.mp3'
 guestPic: guestPic407.jpg
 musiColor: musiColor407.png
 image: 'https://mailta.pe/img/fbPic407.png'
+description: >-
+  This morning, we're feeling fantastic. The days are getting longer, summer is
+  almost here and life is gradually resuming. We discover resources, qualities
+  and desires hitherto unsuspected that we now long to explore. It is with a new
+  eye that we now wish to glimpse the future, the one of a sensitive, complex
+  and caring alter-ego. Fantastic Twins is one of Julienne's alter-ego through
+  which the French, Berliner by adoption, draws a rich musical universe,
+  synthesis of various electronic influences. When I saw her play live the first
+  time, I was immediately moved by the swooping vocal textures and the melodies
+  influenced by her knowledge of dance music which results in a constant
+  oscillation between dark and light.
 ---
 <p id="introduction"> This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.
 <br><br>
