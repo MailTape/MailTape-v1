@@ -34,9 +34,9 @@ guestPic: guestPic407.jpg
 musiColor: musiColor407.png
 image: 'https://mailta.pe/img/fbPic407.png'
 ---
-<p id="introduction"> This morning, we're feeling fantastic. 
+<p id="introduction"> This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we wish to glimpse the future, the one of a sensitive and benevolent alter-ego.
 <br><br>
-[Fantastic Twins](https://fantastictwins.bandcamp.com/) 
+[Fantastic Twins](https://fantastictwins.bandcamp.com/) is one of Julienne Dessagne's alter-ego
 </p>
 
 
