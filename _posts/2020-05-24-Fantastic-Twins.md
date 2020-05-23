@@ -57,7 +57,7 @@ Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (
 ## Fantastic Twins - The Myth Of Twinus
 Jules: **"****"**
 
-## upsammy - Extra Warm
+## [upsammy](https://upsammy.bandcamp.com/) - Extra Warm
 Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as upsammy to be released in June 2020, this **"**
 
 ## Giraffi Dog - The Temple Of Magatao
