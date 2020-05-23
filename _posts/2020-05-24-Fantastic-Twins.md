@@ -31,6 +31,7 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/407/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/407/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/407/track7.mp3'
 guestPic: guestPic407.jpg
+musiColor: musiColor407.png
 ---
 <p id="introduction"> This morning, 
 <br><br>
