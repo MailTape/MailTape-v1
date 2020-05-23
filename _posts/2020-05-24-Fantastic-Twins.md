@@ -61,7 +61,7 @@ Jules: **"****"**
 Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and the sample of birdsong remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
 
 ## Giraffi Dog - The Temple Of Magatao
-Jules: **"**Love the melancholic second part of the song [Giraffi Dog](https://www.facebook.com/giraffidog/)**"**
+Jules: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
 
 ## Perel - Die Dimension (Jayda G remix)
 Jules: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
