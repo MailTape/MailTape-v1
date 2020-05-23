@@ -58,7 +58,7 @@ Julienne: **"**Anything from [Don Cherry](https://doncherry.bandcamp.com/) is th
 Jules: **"****"**
 
 ## upsammy - Extra Warm
-Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and the sample of birdsong remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
+Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and birdsonglike melodies remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
 
 ## Giraffi Dog - The Temple Of Magatao
 Jules: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
