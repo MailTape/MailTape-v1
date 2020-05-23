@@ -55,7 +55,7 @@ Julienne: **"**Anything from [Don Cherry](https://doncherry.bandcamp.com/) is th
 # MailTape's selection
 
 ## Fantastic Twins - The Myth Of Twinus
-Jules: **"****"**
+Jules: **"**This is one of Fantastic Twins' older songs but one of my favourites. After an introduction which sounds like the soundtrack of a mysterious western and takes us to the heart of an immense desert plain, Julienne Dessagne tells us the legend of two flying twins lost in the vastness of the sky.**"**
 
 ## upsammy - Extra Warm
 Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and birdsonglike melodies remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
