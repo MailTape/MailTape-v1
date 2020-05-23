@@ -61,7 +61,7 @@ Jules: **"****"**
 Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this **"**
 
 ## Giraffi Dog - The Temple Of Magatao
-Jules: **"**Love the melancholic second part of the song**"**
+Jules: **"**Love the melancholic second part of the song [Giraffi Dog](https://www.facebook.com/giraffidog/)**"**
 
 ## Perel - Die Dimension (Jayda G remix)
 Jules: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
