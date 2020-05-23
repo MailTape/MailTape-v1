@@ -34,7 +34,7 @@ guestPic: guestPic407.jpg
 musiColor: musiColor407.png
 image: 'https://mailta.pe/img/fbPic407.png'
 ---
-<p id="introduction"> This morning, 
+<p id="introduction"> This morning, we're feeling fantastic. 
 <br><br>
 [Fantastic Twins](https://fantastictwins.bandcamp.com/)
 </p>
