@@ -49,7 +49,7 @@ Julienne: **"**I first discovered Sun City Girls on an Optimo Espacio “unmixed
 Julienne: **"**Light In The Attic Records released this gem a few years ago and I fell in love with it instantly. It’s an album of gospel songs by Johnnie Frierson. The message is obviously very religious (Sunday mornings are for church too, aren’t they?!), Frierson was scarred by the Vietnam War where he was sent to fight as well as grieving the death of his son. So the album reflects his personal struggle and spiritual escape and that resulted in this extremely moving piece of music. To me there’s always an element of melancholy about Sundays and this album is a great journey to shed some tears.**"**
 
 ## Latif Kahn & Don Cherry - Sangam
-Julienne: **"**Anything from Don Cherry is the perfect soundtrack for a Sunday (and any day really). Simply wonderful music. This one is from a collaboration with Indian percussionist Latif Kahn and was recorded in 1978, the quality of this record is mind blowing.**"**
+Julienne: **"**Anything from [Don Cherry](https://doncherry.bandcamp.com/) is the perfect soundtrack for a Sunday (and any day really). Simply wonderful music. This one is from a collaboration with Indian percussionist Latif Kahn and was recorded in 1978, the quality of this record is mind blowing.**"**
 
 
 # MailTape's selection
