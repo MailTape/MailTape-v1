@@ -67,7 +67,7 @@ Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Stev
 Sanjay: **"**A peaceful and almost pastoral homage to Albert Ayler, originally composed by a master from the first generation of the AACM, Leroy Jenkins.**"**
 
 ## Anarchist Mountains – Lift
-Sanjay: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
+Sanjay: **"**Anarchist Mountains is a duet project between Jordan Christoff & Stefan Christoff. Devoid of computer sounds, screens or presets, their meditative and ambient palette of sounds uses only synthesizers, organ, various hardware effects and field recordings.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Michal Turtle for his Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
