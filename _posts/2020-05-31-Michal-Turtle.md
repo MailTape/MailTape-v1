@@ -26,9 +26,9 @@ track7_color: dreamy
 episode_URL: 'https://mailta.pe/408/michal-turtle/'
 guestPic: guestPic408.jpg
 ---
-<p id="introduction"> This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.
+<p id="introduction"> This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select some Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
 <br><br>
-[Fantastic Twins](https://fantastictwins.bandcamp.com/) is one of Julienne Dessagne's alter-ego through which the French, Berliner by adoption, draws a rich musical universe, synthesis of various electronic influences. When I saw her play live the first time, I was immediately moved by the swooping vocal textures and the melodies influenced by her knowledge of dance music which results in a constant oscillation between dark and light.
+Combining vocals with the dreamiest electro-jazz, balmy ambient dub and languid grooves, Michal Turtle's music feels entirely appropriate for these unseasonably warm and breezy days.
 </p>
 
 
