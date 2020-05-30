@@ -45,18 +45,18 @@ Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and th
 
 # MailTape's selection
 
-## Fantastic Twins - The Myth Of Twinus
-Jules: **"**This is one of [Fantastic Twins](https://fantastictwins.bandcamp.com/album/collected-twins-1)' older songs but one of my favourites. After an introduction which sounds like the soundtrack of a mysterious western and takes us to the heart of an immense desert plain, Julienne Dessagne tells us the legend of two flying twins lost in the vastness of the sky.**"**
+## Michal Turtle - Feel the Pain
+Sanjay: **"**This is one of [Fantastic Twins](https://fantastictwins.bandcamp.com/album/collected-twins-1)' older songs but one of my favourites. After an introduction which sounds like the soundtrack of a mysterious western and takes us to the heart of an immense desert plain, Julienne Dessagne tells us the legend of two flying twins lost in the vastness of the sky.**"**
 
-## upsammy - Extra Warm
-Jules: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and birdsonglike melodies remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
+## Hilsa – Wash
+Sanjay: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and birdsonglike melodies remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
 
-## Giraffi Dog - The Temple Of Magatao
-Jules: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
+## Tomeka Reid and Alexander Hawkins - Albert Ayler (His Life Was Too Short)
+Sanjay: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
 
-## Perel - Die Dimension (Jayda G remix)
-Jules: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
+## Anarchist Mountains – Lift
+Sanjay: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Julienne Dessagne, the mastermind behind [Fantastic Twins](https://fantastictwins.bandcamp.com/) for her wonderful Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration.</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Michal Turtle for his Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
 
