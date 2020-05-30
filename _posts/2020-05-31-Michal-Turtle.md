@@ -61,7 +61,7 @@ Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and th
 Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985.**"**
 
 ## Hilsa – Wash
-Sanjay: **"**Iridescent forms float in and out of focus, while hazy harmonies see-saw like the rich patterns borne in a stream's glimmer, dismantled and remade perpetually. Transportive.**"**
+Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat murky, rusty and cinematic sound. Transportive.**"**
 
 ## Tomeka Reid and Alexander Hawkins - Albert Ayler (His Life Was Too Short)
 Sanjay: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
