@@ -58,10 +58,10 @@ Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and th
 # MailTape's selection
 
 ## Michal Turtle - Feel the Pain
-Sanjay: **"**This is one of [Fantastic Twins](https://fantastictwins.bandcamp.com/album/collected-twins-1)' older songs but one of my favourites. After an introduction which sounds like the soundtrack of a mysterious western and takes us to the heart of an immense desert plain, Julienne Dessagne tells us the legend of two flying twins lost in the vastness of the sky.**"**
+Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985.**"**
 
 ## Hilsa – Wash
-Sanjay: **"**Taken from "Zoom", Thessa Torsing’s first full-length album as [upsammy](https://upsammy.bandcamp.com/) to be released in June 2020, this track makes me think of Aphex Twin's music. Its aerial tones and birdsonglike melodies remind me of long summer afternoons, with these complex drum patterns evoking the flow of a river in which we bathe under a blazing sun.**"**
+Sanjay: **"**Iridescent forms float in and out of focus, while hazy harmonies see-saw like the rich patterns borne in a stream's glimmer, dismantled and remade perpetually. Transportive.**"**
 
 ## Tomeka Reid and Alexander Hawkins - Albert Ayler (His Life Was Too Short)
 Sanjay: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
