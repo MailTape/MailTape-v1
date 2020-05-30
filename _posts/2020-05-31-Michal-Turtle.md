@@ -64,7 +64,7 @@ Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eig
 Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat hazy, rusty and cinematic sound. Transportive.**"**
 
 ## Tomeka Reid and Alexander Hawkins - Albert Ayler (His Life Was Too Short)
-Sanjay: **"**With this deep rolling bass line [Giraffi Dog](https://www.facebook.com/giraffidog/) brings us back to urban and technological landscapes, until the middle of the track which sounds like an opening towards the sky and this melancholic conclusion with its dreamy choirs and soul-stirring synths which always moves me.**"**
+Sanjay: **"**A peaceful and almost pastoral homage to Albert Ayler, originally composed by a master from the first generation of the AACM, Leroy Jenkins.**"**
 
 ## Anarchist Mountains – Lift
 Sanjay: **"**While [Perel](https://perelmusic.bandcamp.com/)'s dub version of her song "Die Dimension" is perfect for Saturday night out, this house remix by [Jayda G](https://jaydag.bandcamp.com/) has the sweetness and the rhythm you need for a slow awakening and recovering from your hangover in the sunlight.**"**
