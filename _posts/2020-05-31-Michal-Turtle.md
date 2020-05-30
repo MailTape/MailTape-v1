@@ -64,7 +64,7 @@ Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eig
 ## Hilsa – Wash
 Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat hazy, rusty and cinematic sound. Transportive.**"**
 
-## Tomeka Reid and Alexander Hawkins - Albert Ayler (His Life Was Too Short)
+## Tomeka Reid and Alexander Hawkins – Albert Ayler (His Life Was Too Short)
 Sanjay: **"**A peaceful and almost pastoral homage to Albert Ayler, originally composed by a master from the first generation of the AACM, Leroy Jenkins.**"**
 
 ## Anarchist Mountains – Lift
