@@ -24,6 +24,7 @@ track6_color: bliss
 track7_title: Anarchist Mountains – Lift
 track7_color: dreamy
 episode_URL: 'https://mailta.pe/408/michal-turtle/'
+guestPic: guestPic408.jpg
 ---
 <p id="introduction"> This morning, we're feeling fantastic. The days are getting longer, summer is almost here and life is gradually resuming. We discover resources, qualities and desires hitherto unsuspected that we now long to explore. It is with a new eye that we now wish to glimpse the future, the one of a sensitive, complex and caring alter-ego.
 <br><br>
