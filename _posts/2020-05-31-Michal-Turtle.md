@@ -47,13 +47,13 @@ Combining vocals with the dreamiest electro-jazz, balmy ambient dub and languid 
 # Michal Turtle's selection
 
 ## Gaussian Curve – Impossible Island
-Michal Turtle: **"**<alarm> For me a perfect first wake-up song. I first became aware of Gaussian Curve after I was signed to the same label, and spent many happy listening hours with them both live and on vinyl. You can hear the sunrise so clearly on this track, with early morning interjections from whatever wildlife happens to be around you.**"**
+Michal Turtle: **"**/alarm/ For me a perfect first wake-up song. I first became aware of Gaussian Curve after I was signed to the same label, and spent many happy listening hours with them both live and on vinyl. You can hear the sunrise so clearly on this track, with early morning interjections from whatever wildlife happens to be around you.**"**
 
 ## Jon Hassell – Dream Theory
-Michal Turtle: **"**<Snooze button> The ultimate snooze song. The inevitability of the minimalism is stunning, and the way it appears out of the previous track and goes on for another 6 minutes is one of the most beautiful moments I know of. Add one of the dopest baselines of all time, and slowly come to full consciousness.**"**
+Michal Turtle: **"**/Snooze button/ The ultimate snooze song. The inevitability of the minimalism is stunning, and the way it appears out of the previous track and goes on for another 6 minutes is one of the most beautiful moments I know of. Add one of the dopest baselines of all time, and slowly come to full consciousness.**"**
 
 ## Meredith Monk – Turtle Dreams (Waltz)
-Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and this is the perfect track. Soothing, beautiful and ugly all at the same time, seems to redefine what beauty is. An unrelenting ostinato organ drones through the whole piece, and with four extraordinary voices a new reality and universe is created. As it is sometimes said: “wake up and smell the coffee”.**"**
+Michal Turtle: **"**/repeat Snooze button/ Now you really have to get up, and this is the perfect track. Soothing, beautiful and ugly all at the same time, seems to redefine what beauty is. An unrelenting ostinato organ drones through the whole piece, and with four extraordinary voices a new reality and universe is created. As it is sometimes said: “wake up and smell the coffee”.**"**
 
 
 # MailTape's selection
