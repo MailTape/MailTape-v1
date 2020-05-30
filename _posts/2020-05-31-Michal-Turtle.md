@@ -38,7 +38,7 @@ description: >-
 musiColor: musiColor408.png
 image: 'https://mailta.pe/img/fbPic408.jpg'
 ---
-<p id="introduction">This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select some Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
+<p id="introduction">This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select three Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
 <br><br>
 Combining vocals with the dreamiest electro-jazz, balmy ambient dub and languid grooves, Michal Turtle's music feels entirely appropriate for these unseasonably warm and breezy days.
 </p>
