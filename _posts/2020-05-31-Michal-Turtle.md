@@ -59,7 +59,7 @@ Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and th
 # MailTape's selection
 
 ## Michal Turtle - Feel The Pain
-Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985.**"**
+Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985. Michal's tunes have a hazy fidelity, flitting nimbly between electronics and layers of hand drums.**"**
 
 ## Hilsa – Wash
 Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat hazy, rusty and cinematic sound. Transportive.**"**
