@@ -33,14 +33,14 @@ episode_URL: 'https://mailta.pe/408/michal-turtle/'
 
 # Michal Turtle's selection
 
-## Sun City Girls - Cruel And Thin
-Julienne: **"**I first discovered Sun City Girls on an Optimo Espacio “unmixed” CD ironically called “(Why Nobody Comes) Back To Mine” that was given to me 13 years ago when I left Glasgow. I used to live there and was a regular at Optimo’s Sunday club night back then and felt very sad when I left the city so that was a thoughtful cheer-up gift that became a staple in my music collection ever since. Because I liked it so much I then looked out for the discographies of all the artists and bands featured on that CD and came across so much great music. Sun City Girls were an extremely prolific band so it’s impossible to know their entire body of work. It’s also impossible to pigeonhole them into any genre (as always with great music), their music is an insanely wide and wild mosaic of sounds, weird places and rituals all brought together in a politically incorrect way that I adore. Recalling their early stage experiences confronted to an audience (of skinheads), one of the band members said “They threw sandwiches at Rick and and he was picking them up off the floor and eating them.” Guess that sums them up pretty well. I could have chosen plenty of other songs by them that I like even more but “Cruel And Thin” was the one featured on the CD and therefore kind of the 101 track for me.**"**
+## Gaussian Curve – Impossible Island
+Michal Turtle: **"**<alarm> For me a perfect first wake-up song. I first became aware of Gaussian Curve after I was signed to the same label, and spent many happy listening hours with them both live and on vinyl. You can hear the sunrise so clearly on this track, with early morning interjections from whatever wildlife happens to be around you.**"**
 
-## Johnnie Frierson - Have You Been Good To Yourself
-Julienne: **"**Light In The Attic Records released this gem a few years ago and I fell in love with it instantly. It’s an album of gospel songs by Johnnie Frierson. The message is obviously very religious (Sunday mornings are for church too, aren’t they?!), Frierson was scarred by the Vietnam War where he was sent to fight as well as grieving the death of his son. So the album reflects his personal struggle and spiritual escape and that resulted in this extremely moving piece of music. To me there’s always an element of melancholy about Sundays and this album is a great journey to shed some tears.**"**
+## Jon Hassell – Dream Theory
+Michal Turtle: **"**<Snooze button> The ultimate snooze song. The inevitability of the minimalism is stunning, and the way it appears out of the previous track and goes on for another 6 minutes is one of the most beautiful moments I know of. Add one of the dopest baselines of all time, and slowly come to full consciousness.**"**
 
-## Latif Kahn & Don Cherry - Sangam
-Julienne: **"**Anything from [Don Cherry](https://doncherry.bandcamp.com/) is the perfect soundtrack for a Sunday (and any day really). Simply wonderful music. This one is from a collaboration with Indian percussionist Latif Kahn and was recorded in 1978, the quality of this record is mind blowing.**"**
+## Meredith Monk – Turtle Dreams (Waltz)
+Michal Turtle: **"**<repeat Snooze button> Now you really have to get up, and this is the perfect track. Soothing, beautiful and ugly all at the same time, seems to redefine what beauty is. An unrelenting ostinato organ drones through the whole piece, and with four extraordinary voices a new reality and universe is created. As it is sometimes said: “wake up and smell the coffee”.**"**
 
 
 # MailTape's selection
