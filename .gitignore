@@ -8,3 +8,5 @@ _site
 *.swp
 *.swo
 _posts/.DS_Store
+
+vendor
