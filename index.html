@@ -107,6 +107,11 @@
 
         <div class="container newTopbar">
             <div class="d-flex justify-content-start flex-wrap">
+                <div class="ml-auto w-100 pt-2 menu pt-md-3">
+                    <a data-toggle="modal" href="#topLearnMoreModal">Follow</a>
+                    <a href="https://www.helloasso.com/associations/mailtape/formulaires/2/" target="_blank">Donate</a>
+                    <a href="mailto:crew@mailta.pe">Contact</a>
+                </div>
                 <div class="pt-3">
                     <img class="logo" src="{{ site.baseurl }}/img/logo_MailTape_static.png">              
                 </div>
@@ -119,28 +124,66 @@
         </div>
 
          <div class="container">
-            <div id="archivePreview" class="mb-md-4 getRelative">
-                <div id="introStory" class="p-md-2">
-                    <p>
-                        Dear community of music lovers,
-                        today we're following the <a href="https://en.wikipedia.org/wiki/Blackout_Tuesday">Blackout Tuesday</a> initiative.
 
-                        It is a day to stand up in solidarity against racism, injustice and inequality experienced by the Black community, not only in the US, but also elsewhere. France is no exception.
+            {% for post in site.posts %}
+                {% if site.time > post.date %}
+                    <div id="archivePreview" class="mb-md-4 getRelative">
+                        <div id="introStory" class="p-md-2">
+                            <p>
+                                Every Sunday morning, we release a music selection curated with a guest.<br>
+                                MailTape is an art collective started in 2011 gathering curators, illustrators and writers based across Glasgow, London, Orléans, Marseille, New Delhi, Paris and Stockholm. Once every six months, we throw a party.<br>
+                                For each color, a mood: <span class="vibrant">vibrant</span>, <span class="bliss">bliss</span>, <span class="trippy">trippy</span>, <span class="dreamy">dreamy</span> and <span class="rough">rough</span>.
+                                Hope you enjoy and discover great music.
+                            </p>
+                            <p>
+                                Cheers,<br>
+                                MailTape Crew.
+                            </p>
+                            <p>
+                                PS: If you don't want to miss our next release, you may consider <a data-toggle="modal" href="#topLearnMoreModal">following</a> us.
+                            </p>
+                        </div>
+                        <div class="d-none d-lg-flex">
+                            <div>
+                                <img src="" alt=""/>
+                                <!-- <img id="musiColor" src="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.musiColor }}&w=360&il"/> -->
+                            </div>
+                            <div class="d-flex flex-column flex-nowrap">
+                                <div class="px-2">
+                                    <h1>{{ post.guest_name }}</h1>
+                                    <h2>EPISODE #{{ post.category }} - SUN MORNING, {{ post.date | date: "%d %b %Y" | upcase }}</h2>
+                                </div>
+                                <div class="px-2 mt-auto">
+                                    <ul id="previewPostTracks">
+                                        <li class="{{ post.track1_color }}">{{ post.track1_title }}</li>
+                                        <li class="{{ post.track2_color }}">{{ post.track2_title }}</li>
+                                        <li class="{{ post.track3_color }}">{{ post.track3_title }}</li>
+                                        <li class="{{ post.track4_color }}">{{ post.track4_title }}</li>
+                                        <li class="{{ post.track5_color }}">{{ post.track5_title }}</li>
+                                        <li class="{{ post.track6_color }}">{{ post.track6_title }}</li>
+                                        <li class="{{ post.track7_color }}">{{ post.track7_title }}</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% break %}
+                {% endif %}
+            {% endfor %}
 
-                        Truth is, hate is spreading fast. And not only the Black community is victim of it. Who can still keep on and ignore that?
+            <div id="archiveLinks" class="d-flex flex-row justify-content-md-between flex-wrap"> 
+        <!-- {% capture siteTime %}{{ site.time | date: '%s' }}{% endcapture %}
+                {% capture y2019 %}{{ "2019-01-01" | date: '%s' }}{% endcapture %} -->
 
-                        Music is a universal language which has the power to gather everybody, whatever be their skin color, religion, ideas and so on. 
-
-                        Also, it's an important moment to remember that without love and diversity, there wouldn't be any music to listen to and dance on.
-
-                        So, we're shutting down our website today. It's time to reflect on the situation. There's plenty of ways to take action now.
-
-                        We'll be back tomorrow. Stronger and more motivated than ever to keep sharing with you our best music discoveries and supporting great artists.
-
-                        With love,
-                        MailTape Crew.
-                    </p>
-                </div>
+                {% for post in site.posts %}
+                    {% if site.time > post.date %}  
+                        <div class="p-2 mb-2 mb-lg-0">
+                            <div class="ar-div">       
+                                <a data-preview-guestPic="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.guestPic }}&w=360&h=240&fit=cover&il" data-preview-musiColor="//images.weserv.nl/?url=ssl:www.mailta.pe/img/{{ post.musiColor }}&w=360&il" data-preview-h1="{{ post.guest_name }}" data-preview-h2="EPISODE #{{ post.category }} - SUN MORNING, {{ post.date | date: '%d %b %Y' | upcase }}"  data-preview-tracks1_title="{{ post.track1_title }}" data-preview-tracks2_title="{{ post.track2_title }}" data-preview-tracks3_title="{{ post.track3_title }}" data-preview-tracks4_title="{{ post.track4_title }}" data-preview-tracks5_title="{{ post.track5_title }}" data-preview-tracks6_title="{{ post.track6_title }}" data-preview-tracks7_title="{{ post.track7_title }}" data-preview-tracks1_color="{{ post.track1_color }}" data-preview-tracks2_color="{{ post.track2_color }}" data-preview-tracks3_color="{{ post.track3_color }}" data-preview-tracks4_color="{{ post.track4_color }}" data-preview-tracks5_color="{{ post.track5_color }}" data-preview-tracks6_color="{{ post.track6_color }}" data-preview-tracks7_color="{{ post.track7_color }}" class="ar-link {{ post.guest_color }}" href="{{ post.url }}">{{ post.guest_name }}</a>
+                            </div>
+                        </div>
+                    {% endif %}
+                {% endfor %}
             </div>
         </div>
 
@@ -177,5 +220,8 @@
             <!-- /.modal-dialog -->
         </div>
         <!-- /.modal -->
-    </body>
-</html>
+
+
+    {% include footer.html %}
+
+
