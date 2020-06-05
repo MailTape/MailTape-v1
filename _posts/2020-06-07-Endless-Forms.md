@@ -12,7 +12,7 @@ guestPic: guestPic409.jpg
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
-Endless Forms creates ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. I recommend listening to his entire album as it plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
+Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. I recommend listening to his entire album as it plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
 </p>
 
 
