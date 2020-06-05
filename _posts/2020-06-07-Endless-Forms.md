@@ -31,7 +31,7 @@ Endless Forms: **"**When I was a teenager I used to stay up all night painting w
 # MailTape's selection
 
 ## Endless Forms – Something Will Seduce Me
-Sarah: **"**The range of tone within the voice of Endless Forms is one of my favorite things about his music. Throughout this song, there is a honey-like smoothness that shifts between softer verses and more powerful sections moving through the song's development. The intensity of the song sneaks up on you, but resolves in another moment. The lyrics are powerful here and throughout the album, and are beautifully contrasted with ethereal instrumentals for an at-the-divine-gates experience of music.**"**
+Sarah: **"**The range of expression through voice is one of my favorite things about Endless Forms music. Throughout this song, there is a honey-like smoothness that shifts between softer verses and more powerful sections, all moving with the song's development. The intensity of the song sneaks up on you, but resolves in another moment. The lyrics are powerful here and throughout the album, and are gracefully contrasted with ethereal instrumentals, giving an at-the-divine-gates experience of music.**"**
 
 ## Christelle Bofale – U Ouchea
 Sarah: **"**With Congolaise influences, Christelle Bofale creates a transportive encounter with her music. She is not shy of dissonance within her melodies, making for a striking and distinct energy in many of her songs. I  love the jazz break in this song, her guitar flourishes are effortless. Also, Christelle Bofale's shards of electric accents captivated me, they sound almost extra-terrestrial.**"**
