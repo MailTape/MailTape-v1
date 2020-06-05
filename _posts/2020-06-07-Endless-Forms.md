@@ -9,35 +9,10 @@ category: '409'
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
-track1_link: ''
-track2_link: ''
-track3_link: ''
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track1_title: ''
-track1_color: ''
-track2_title: ''
-track2_color: ''
-track3_title: ''
-track3_color: ''
-track4_title: ''
-track4_color: ''
-track5_title: ''
-track5_color: ''
-track6_title: ''
-track6_color: ''
-track7_title: ''
-track7_color: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
 ---
-<p id="introduction">This morning we welcome [Endless Forms](https://soundcloud.com/endlessforms) to select three Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
+<p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
-Combining vocals with the dreamiest electro-jazz, balmy ambient dub and languid grooves, Michal Turtle's music feels entirely appropriate for these unseasonably warm and breezy days.
+Endless Forms creates ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. I recommend listening to his entire album as it plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
 </p>
 
 
@@ -69,4 +44,3 @@ Sanjay: **"**Anarchist Mountains is a duet project between Jordan Christoff & St
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Michal Turtle for his Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
-
