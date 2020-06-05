@@ -30,16 +30,16 @@ Endless Forms: **"**When I was a teenager I used to stay up all night painting w
 
 # MailTape's selection
 
-## Endless Forms – Feel The Pain
-Sanjay: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985. Michal's tunes have a hazy fidelity, flitting nimbly between electronics and layers of hand drums.**"**
+## Endless Forms – Something Will Seduce Me
+Sarah: **"**One of my favorite things about the music of Endless Forms is the range of tone within his voice. Throughout this song, there is a honey-like smoothness that shifts between softer verses and powerful calls through the song's development. The intensity of the song sneaks up on you, but resolves in another moment. The lyrics are powerful here and throughout the album, and are beautifully contrasted with ethereal instrumentals for an at-the-divine-gates experience of music.**"**
 
-## Hilsa – Wash
-Sanjay: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat hazy, rusty and cinematic sound. Transportive.**"**
+## Christelle Bofale – U Ouchea
+Sarah: **"**With Congolaise influences, Christelle Bofale creates a transportive encounter with her music. She is not shy of dissonance within her melodies, making for a striking and distinct tone in many of her songs. I love the jazz break in this, these are effortless guitar flourishes. Also, I love Christelle Bofale's shards of electric accents through the song's development, they sound almost extra-terrestrial.**"**
 
-## Tomeka Reid and Alexander Hawkins – Albert Ayler (His Life Was Too Short)
-Sanjay: **"**A peaceful and almost pastoral homage to Albert Ayler, originally composed by a master from the first generation of the AACM, Leroy Jenkins.**"**
+## serpentwithfeet – A Comma
+Sarah: **"**The softness of serpentwithfeet's voice paired with the elegance of the piano riffs brought attention to the depth of his lyrics, which is exactly where the focus needed to be. He sings, "I'm dressing wounds I cannot see, someone else's beasts are riding me." Especially in light of the past week, this song speaks powerfully to the  insidious heaviness of our history, a past that we have only begun to confront. Despite the verse of not being able to see the wounds he dresses, serpentwithfeet also sings that, "I know this pain isn't mine, yet I feel it all the time." The gentleness of serpentwithfeet's voice creates a heavenly sound, especially with his harmonies, but these verses also carry an urgency. No longer can we let these wounds remain unseen. No longer can we let "someone else's beast" disproportionately hang onto the African-American community; it is up to everyone to confront history with the attitude of healing these chronic wounds. **"**
 
-## Anarchist Mountains – Lift
+## Nina Simone – Feelings, Montreux Jazz Festival Live (1976)
 Sanjay: **"**Anarchist Mountains is a duet project between Jordan Christoff & Stefan Christoff. Devoid of computer sounds, screens or presets, their meditative and ambient palette of sounds uses only synthesizers, organ, various hardware effects and field recordings.**"**
 
 
