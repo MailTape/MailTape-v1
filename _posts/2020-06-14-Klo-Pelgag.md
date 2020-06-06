@@ -6,34 +6,8 @@ author: Marion
 illustrator: Thibault Daumain
 writer: Marion
 category: '410'
-guest_name: ''
-guest_color: ''
-guestPic: ''
-track1_link: ''
-track2_link: ''
-track3_link: ''
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track1_title: ''
-track1_color: ''
-track2_title: ''
-track2_color: ''
-track3_title: ''
-track3_color: ''
-track4_title: ''
-track4_color: ''
-track5_title: ''
-track5_color: ''
-track6_title: ''
-track6_color: ''
-track7_title: ''
-track7_color: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+guest_name: Klô Pelgag
+guest_color: dreamy
 ---
 <p id="introduction">This morning we welcome Klô Pelgag to select three Sunday morning songs.
 <br><br>
@@ -55,16 +29,16 @@ Klô Pelgag: **"**Actually, since February, this song has been in my playlist. B
 
 # MailTape's selection
 
-## Klô Pelgag – Umami
+## [Klô Pelgag](https://klopelgag.bandcamp.com/) – Umami
 Marion: **"**When I first heard this song during the lockdown, I knew right away that it was a perfect timing. It combines innocence and melancholy at the same time, making it the perfect hymn to the present revival of freedom.**"**
 
-## Aidan Knight – Sixteen Staires
+## [Aidan Knight](https://aidanknight.bandcamp.com/album/aidan-knight) – Sixteen Staires
 Marion: **"**Aidan Knight will be back very soon with a new album and that's a really good news. This first song full of memories promises the perfect smooth atmospheres for the future.**"**
 
-## Justice Der – Age of Consent
+## [Justice Der](https://justiceder.bandcamp.com/) – Age of Consent
 Marion: **"**A peaceful tribute to New Order, whose melodies never stop being actual for the new generation.**"**
 
-## The Districts – Velour and Velcro
+## [The Districts](https://thedistrictsband.bandcamp.com/album/you-know-im-not-going-anywhere) – Velour and Velcro
 Marion: **"**The rock band puts down their guitars for a sensitive acoustic adaptation of their song. The best way to appreciate the sense of melody and the elegance of Rob Grote's voice.**"**
 
 
