@@ -11,7 +11,7 @@ guest_color: dreamy
 guestPic: guestPic409.jpg
 track1_link: 'https://soundcloud.com/mosessumney/doomed'
 track3_link: 'https://soundcloud.com/sigur-ros/sigur-ros-untitled2'
-track1_color: bliss
+track1_color: dreamy
 track4_link: 'https://soundcloud.com/endlessforms/something-will-seduce-me/s-4rxDo'
 track5_link: 'https://soundcloud.com/christellebofale/u-ouchea'
 track6_link: 'https://soundcloud.com/serpentwithfeet/a-comma'
@@ -26,6 +26,14 @@ track7_title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
 episode_URL: 'http://mailta.pe/409/Endless-Forms/'
 image: 'https://mailta.pe/img/fbpic409.png'
 musiColor: musiColor409.png
+track1_title: Moses Sumney - Doomed
+track2_title: Arcade Fire - Haiti
+track2_color: vibrant
+track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
+track3_color: rough
+track2_link: ''
+track7_link: ''
+description: ''
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
