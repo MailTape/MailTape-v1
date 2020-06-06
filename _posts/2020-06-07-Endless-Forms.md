@@ -33,10 +33,16 @@ track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
 track3_color: rough
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/409/track2.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/409/track7.mp3'
+description: >-
+  We are so excited to welcome [Endless Forms] to select a Sunday morning
+  playlist with us.Endless Forms constructs ebbs and flows of intensity through
+  his instrumentals, all as a backdrop to his intricate and powerful lyricism.
+  His entire album, _More Than Candy_, plays as an epic of self examination and
+  discovery, with each song effortlessly feeding into the next.
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
-Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. I recommend listening to his entire album as it plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
+Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. His entire album, _More Than Candy_, plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
 </p>
 
 
