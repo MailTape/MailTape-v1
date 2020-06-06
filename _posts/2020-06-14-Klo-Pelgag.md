@@ -15,7 +15,20 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/410/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/410/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/410/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/410/track6.mp3'
-track1_title: Rufus Wainwright - Cigarettes and chocolate milk
+track1_title: Rufus Wainwright - Cigarettes and Chocolate Milk
+track1_color: dreamy
+track2_title: Elliott Smith - Angeles
+track2_color: bliss
+track3_title: Georges Moustaki - Les Eaux de Mars
+track3_color: dreamy
+track4_title: Klô Pelgag - Umami
+track4_color: bliss
+track5_title: Aidan Knight - Sixteen Stares
+track5_color: vibrant
+track6_title: Justice Der - Age of Consent
+track6_color: dreamy
+track7_title: The Districts -  Velour and Velcro
+track7_color: vibrant
 ---
 <p id="introduction">This morning we welcome Klô Pelgag to select three Sunday morning songs.
 <br><br>
