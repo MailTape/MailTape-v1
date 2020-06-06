@@ -35,9 +35,9 @@ image: ''
 musiColor: ''
 description: ''
 ---
-<p id="introduction">This morning we welcome [Michal Turtle](https://soundcloud.com/music-from-memory/mfm-mix-010-michal-turtle) to select three Sunday morning tunes with us—a musician and producer who spent the heart of the 1980s making subtle, enlightened music. 
+<p id="introduction">This morning we welcome Klô Pelgag to select three Sunday morning songs.
 <br><br>
-Combining vocals with the dreamiest electro-jazz, balmy ambient dub and languid grooves, Michal Turtle's music feels entirely appropriate for these unseasonably warm and breezy days.
+Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising storyteller who tells stories with a feverish and sensitive urgency. Often described as baroque, her universe full of boldness and meticulously imaged lyrics, pushing the walls of our little apartments without any effort.  
 </p>
 
 
@@ -55,17 +55,17 @@ Klô Pelgag: **"**Actually, since February, this song has been in my playlist. B
 
 # MailTape's selection
 
-## Klô Pelgag – J'aurai les cheveux longs
-Marion: **"**Delving into the archives, ‘Return To Jeka’ brings together eight previously unreleased works recorded between 1983 and 1985. Michal's tunes have a hazy fidelity, flitting nimbly between electronics and layers of hand drums.**"**
+## Klô Pelgag – Umami
+Marion: **"**When I first heard this song during the lockdown, I knew right away that it was a perfect timing. It combines innocence and melancholy at the same time, making it the perfect hymn to the present revival of freedom.**"**
 
 ## Aidan Knight – Sixteen Staires
-Marion: **"**The electroacoustic duo of guitarist Kallie Lampel and cellist Steve Goodwin (aka Skeleton Zoo) combine hypnotic guitar loops, electroacoustic sounds and shimmering electronics to create a somewhat hazy, rusty and cinematic sound. Transportive.**"**
+Marion: **"**Aidan Knight will be back very soon with a new album and that's a really good news. This first song full of memories promises the perfect smooth atmospheres for the future.**"**
 
 ## Justice Der – Age of Consent
-Marion: **"**A peaceful and almost pastoral homage to Albert Ayler, originally composed by a master from the first generation of the AACM, Leroy Jenkins.**"**
+Marion: **"**A peaceful tribute to New Order, whose melodies never stop being actual for the new generation.**"**
 
 ## The Districts – Velour and Velcro
-Marion: **"**Anarchist Mountains is a duet project between Jordan Christoff & Stefan Christoff. Devoid of computer sounds, screens or presets, their meditative and ambient palette of sounds uses only synthesizers, organ, various hardware effects and field recordings.**"**
+Marion: **"**The rock band puts down their guitars for a sensitive acoustic adaptation of their song. The best way to appreciate the sense of melody and the elegance of Rob Grote's voice.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Michal Turtle for his Sunday selections, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love to Klô Pelgag for her selection, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
