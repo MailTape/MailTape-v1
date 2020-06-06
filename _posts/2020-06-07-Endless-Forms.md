@@ -9,8 +9,8 @@ category: '409'
 guest_name: Endless Forms
 guest_color: dreamy
 guestPic: guestPic409.jpg
-track1_link: 'https://soundcloud.com/mosessumney/doomed'
-track3_link: 'https://soundcloud.com/sigur-ros/sigur-ros-untitled2'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/409/track1.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/409/track3.mp3'
 track1_color: dreamy
 track4_link: 'https://soundcloud.com/endlessforms/something-will-seduce-me/s-4rxDo'
 track5_link: 'https://soundcloud.com/christellebofale/u-ouchea'
@@ -31,6 +31,8 @@ track2_title: Arcade Fire - Haiti
 track2_color: vibrant
 track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
 track3_color: rough
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/409/track2.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/409/track7.mp3'
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
