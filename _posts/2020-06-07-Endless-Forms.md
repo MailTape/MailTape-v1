@@ -46,7 +46,7 @@ description: >-
 
 Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. His entire album, [More Than Candy](https://soundcloud.com/endlessforms/sets/more-than-candy), plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
   
-This week has brought heaviness onto all of our shoulders. We curated this selection with the goal of giving you head space to reflect and also to heal. 
+This week has brought heaviness onto all of our shoulders. We curated this selection with the goal of giving you head space to reflect and to heal. 
 </p>
 
 
