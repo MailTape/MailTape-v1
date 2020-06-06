@@ -11,6 +11,21 @@ guest_color: dreamy
 guestPic: guestPic409.jpg
 track1_link: 'https://soundcloud.com/mosessumney/doomed'
 track3_link: 'https://soundcloud.com/sigur-ros/sigur-ros-untitled2'
+track1_color: bliss
+track4_link: 'https://soundcloud.com/endlessforms/something-will-seduce-me/s-4rxDo'
+track5_link: 'https://soundcloud.com/christellebofale/u-ouchea'
+track6_link: 'https://soundcloud.com/serpentwithfeet/a-comma'
+track6_color: bliss
+track6_title: serpentwithfeet - A Comma
+track5_color: dreamy
+track5_title: Christelle Bofale - U Ouchea
+track4_color: vibrant
+track4_title: Endless Forms - Something Will Seduce Me
+track7_color: vibrant
+track7_title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
+episode_URL: 'http://mailta.pe/409/Endless-Forms/'
+image: 'https://mailta.pe/img/fbpic409.png'
+musiColor: musiColor409.png
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
