@@ -29,6 +29,11 @@ track6_title: Justice Der - Age of Consent
 track6_color: dreamy
 track7_title: The Districts -  Velour and Velcro
 track7_color: vibrant
+guestPic: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning we welcome Klô Pelgag to select three Sunday morning songs.
 <br><br>
@@ -38,7 +43,7 @@ Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising stor
 
 # Klô Pelgag's selection
 
-## Rufus Wainwright - Cigarettes and chocolate milk
+## Rufus Wainwright - Cigarettes and Chocolate Milk
 Klô Pelgag: **"**Recently, I have created a morning playlist of carefully selected songs. Songs that would, in my opinion, perfectly embrace this particular time of day: the morning. In this playlist, this song by Rufus always makes an immediate effect on me. It makes me want to get up with my coffee and sing the (little-known) lyrics. Rufus' songs have that 'musical comedy' side, he always seems to be -on the edge of a big cliff with waves crashing on the rock, arms in the air- when he sings.**"**
 
 ## Elliot Smith - Angeles
