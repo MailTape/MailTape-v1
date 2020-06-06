@@ -38,11 +38,15 @@ description: >-
   playlist with us. Endless Forms constructs ebbs and flows of intensity through
   his instrumentals, all as a backdrop to his intricate and powerful lyricism.
   His entire album, More Than Candy, plays as an epic of self examination and
-  discovery, with each song effortlessly feeding into the next.
+  discovery, with each song effortlessly feeding into the next. This week has
+  brought heaviness onto all of our shoulders. We curated this selection with
+  the goal of giving you head space to reflect and also to heal.
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 
 Endless Forms constructs ebbs and flows of intensity through his instrumentals, all as a backdrop to his intricate and powerful lyricism. His entire album, More Than Candy, plays as an epic of self examination and discovery, with each song effortlessly feeding into the next. 
+  
+This week has brought heaviness onto all of our shoulders. We curated this selection with the goal of giving you head space to reflect and also to heal. 
 </p>
 
 
