@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: true
+published: false
 author: Sarah
 illustrator: Anthony Dujardin
 writer: Sarah
@@ -24,7 +24,7 @@ track4_title: Endless Forms - Something Will Seduce Me
 track7_color: vibrant
 track7_title: Nina Simone - Feelings (Live 1976 Montreux Jazz Festival)
 episode_URL: 'http://mailta.pe/409/Endless-Forms/'
-image: 'https://mailta.pe/img/fbpic409.png'
+image: 'https://mailta.pe/img/fbPic409.png'
 musiColor: musiColor409.png
 track1_title: Moses Sumney - Doomed
 track2_title: Arcade Fire - Haiti
