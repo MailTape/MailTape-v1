@@ -31,9 +31,6 @@ track2_title: Arcade Fire - Haiti
 track2_color: vibrant
 track3_title: 'Sigur Rós - Untitled # 2 (Fyrsta)'
 track3_color: rough
-track2_link: ''
-track7_link: ''
-description: ''
 ---
 <p id="introduction">We are so excited to welcome [Endless Forms](https://soundcloud.com/endlessforms) to select a Sunday morning playlist with us. 
 <br><br>
