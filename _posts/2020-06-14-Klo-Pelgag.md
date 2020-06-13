@@ -33,8 +33,8 @@ musiColor: musiColor410.png
 episode_URL: 'https://www.mailta.pe/410/klo-pelgag/'
 guestPic: guestPic410.jpg
 description: >-
-  This morning, we welcome Klô Pelgag for a sweet sunday morning made of
-  fantastic stories.
+  Today, we welcome Klô Pelgag for a sweet sunday morning made of fantastic
+  stories.
 image: 'https://mailta.pe/img/fbPic410.png'
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
