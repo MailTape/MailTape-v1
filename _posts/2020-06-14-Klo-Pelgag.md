@@ -37,7 +37,7 @@ image: 'https://mailta.pe/img/fbPic410.png'
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>
-Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising storyteller who tells stories with a feverish and sensitive urgency. Often described as baroque, her universe full of boldness and meticulously imaged lyrics, pushing the walls of our little apartments without any effort.</p>
+Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising artist who tells stories with a feverish and sensitive urgency. Often described as baroque, her universe full of boldness and meticulously imaged lyrics, pushing the walls of our little apartments without any effort.</p>
 
 # Klô Pelgag's selection
 
@@ -56,7 +56,7 @@ Klô Pelgag: **"**Actually, since February, this song has been in my playlist. B
 Marion: **"**When I first heard this song during the lockdown, I knew right away that it was a perfect timing. It combines innocence and melancholy at the same time, making it the perfect hymn to the present revival of freedom.**"**
 
 ## [Aidan Knight](https://aidanknight.bandcamp.com/album/aidan-knight) – Sixteen Staires
-Marion: **"**Aidan Knight will be back very soon with a new album and that's a really good news. This first song full of memories promises the perfect smooth atmospheres for the future.**"**
+Marion: **"**Aidan Knight will be back very soon with a new album and that's a really good news. This first song full of memories promises the perfect smooth atmospheres.**"**
 
 ## [Justice Der](https://justiceder.bandcamp.com/) – Age of Consent
 Marion: **"**A peaceful tribute to New Order, whose melodies never stop being perfect for every Sunday's morning haze.**"**
