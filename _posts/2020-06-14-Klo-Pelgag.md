@@ -32,8 +32,9 @@ track7_color: vibrant
 musiColor: musiColor410.png
 episode_URL: 'https://www.mailta.pe/410/klo-pelgag/'
 guestPic: guestPic410.jpg
-image: ''
-description: ''
+description: >-
+  This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select
+  three Sunday morning songs.
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>
