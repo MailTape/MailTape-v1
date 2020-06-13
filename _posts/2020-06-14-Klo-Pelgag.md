@@ -31,11 +31,13 @@ track7_title: The Districts -  Velour and Velcro
 track7_color: vibrant
 musiColor: musiColor410.png
 episode_URL: 'https://www.mailta.pe/410/klo-pelgag/'
+guestPic: guestPic410.jpg
+image: ''
+description: ''
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>
-Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising storyteller who tells stories with a feverish and sensitive urgency. Often described as baroque, her universe full of boldness and meticulously imaged lyrics, pushing the walls of our little apartments without any effort.  
-</p>
+Native of the Gaspé Peninsula in Québec, Klô Pelgag is an uncompromising storyteller who tells stories with a feverish and sensitive urgency. Often described as baroque, her universe full of boldness and meticulously imaged lyrics, pushing the walls of our little apartments without any effort.</p>
 
 # Klô Pelgag's selection
 
