@@ -33,6 +33,7 @@ musiColor: musiColor410.png
 episode_URL: 'https://www.mailta.pe/410/klo-pelgag/'
 guestPic: guestPic410.jpg
 description: This morning we welcome Klô Pelgag to select three Sunday morning songs.
+image: ''
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>
@@ -49,8 +50,6 @@ Klô Pelgag: **"**There's something about Elliott Smith's music that makes it su
 
 ## Georges Moustaki - Les eaux de Mars
 Klô Pelgag: **"**Actually, since February, this song has been in my playlist. But also the original version (Elis Regina and Tom Jobim) as well as the English version (Art Garfunkel). So I've been listening to the same song three times in a row, but I haven't got bored of them yet. Is this the point at which we see how strong our link with the artwork can be? I remember when I found out that the original version wasn't by Georges Moustaki. I was a bit disappointed then I feld in love with each of the other versions, a few years apart.**"**
-
-
 
 # MailTape's selection
 
