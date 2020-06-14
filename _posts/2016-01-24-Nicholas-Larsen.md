@@ -19,7 +19,7 @@ track2_title: Jimmy Edgar - Feel What It Is
 track2_color: bliss
 track3_title: Rejjie Snow - Blakkst Skn feat. Rae Morris
 track3_color: trippy
-track4_title: Nicholas Larsen - The Strip
+track4_title: Nicholas Larsen - I'll Remember
 track4_color: vibrant
 track5_title: Silver Firs - Signals
 track5_color: dreamy
