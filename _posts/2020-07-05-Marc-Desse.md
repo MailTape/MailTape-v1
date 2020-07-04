@@ -31,11 +31,15 @@ track7_title: Cass McCombs & Steve Gunn – Sweet Lucy
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/412/marc-desse/'
 musiColor: musiColor412.png
+illustrator: ''
+image: ''
+description: ''
 ---
-<p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
-<br><br>
-Surrounded by Gael Etienne, Requin Chagrin's guitarist and keyboardist.
-Close to French bands like Aline or Taxi Girl, his music is always romantic but never dumb </p>
+<p id="introduction">This morning, we are pleased to welcome [Marc Desse](https://www.instagram.com/marc.desse/) to select three Sunday morning songs. 
+
+Marc Desse, a French singer and musician, mixes hedonist texts with a laid-back style, creating spontaneously a warm and languid sound. If you listen carefully, you should be able to detect pretty easily some influences from bands like Aline or Taxi Girl.
+
+His last luminous songs promise an energizing and romantic album (coming soon). An album that we imagine as a declaration of love for the city, with a new track titled "Paris je t'aime" to be released in the next few days.
 
 # Marc Desse's selection
 
@@ -51,16 +55,16 @@ Marc Desse: **"**The time comes when you have to get up and find some energy to 
 # MailTape's selection
 
 ## [Marc Desse](https://www.instagram.com/marc.desse/) – On s'aime
-Marion: **"**Even if I personally think that this song can increase the atmosphere of every room by 5 degrees, it's not bluntly. It's more like a f. A big festive hug if you prefer.**"**
+Marion: **"**To start summer properly, I recommend that you listen to this song that can increase the atmosphere of any street by 5 degrees with a big cocktail and a large fan in front of you. Like a big warm hug blurring the sunny lanes.**"**
 
 ## [Sam Valdez](https://samvaldezsounds.bandcamp.com/) – Toothache
-Marion: **"**If you are familiar with Mazzy Star's mood, you should immediately feel close to Sam Valdez's voice.**"**
+Marion: **"**If you are familiar with Mazzy Star's mood, you should immediately feel attracted by Sam Valdez's voice. She's riding the same waves, with the same intensity.**"**
 
 ## [Laura Marling](https://lauramarling.bandcamp.com/) – Song For Our Daughter
-Marion: **"**Listening to Laura Marling over the years has been like listening to one's own life evolution. Starting as a small indie voice playing the ukulele, she has never stopped growing. Her latest album is like a climax, but always delicate and subtle.**"**
+Marion: **"**Listening to Laura Marling over the years has been like listening to her own life evolution. Starting as a small indie voice playing the ukulele, she has never stopped growing. Her latest album is like a climax, but always delicate and subtle.**"**
 
 ## [Cass McCombs & Steve Gunn](https://cassmccombs.bandcamp.com/) – Sweet Lucy
-Marion: **"**The rock band puts down their guitars for a sensitive acoustic adaptation of their song. The best way to appreciate the sense of melody and the elegance of Rob Grote's voice.**"**
+Marion: **"**What better than a naive and catchy melody to complete your waking up in the morning and start brewing your coffee? It' s up to you.**"**
 
 
-<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love to Klô Pelgag for her selection, and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love to Marc Desse for his  selection, and to [Noemie Dijon](https://noemiedijon.tumblr.com/) for this episode's beautiful illustration.</p>
