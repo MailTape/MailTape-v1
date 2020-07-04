@@ -53,7 +53,7 @@ Marc Desse: **"**A good Sunday morning starts smoothly. That's why I picked the 
 
 Marc Desse: **"**Sunday morning is also the time to remember the evening before and the songs you liked to dance to or just listen to. One track that's been coming up a lot lately is Boss Sweet from the Franco-American band Faux Real, which I think is really perfect. It's a real hit for me, especially the chorus and its catchy melody.**"**
 
-## Tutto va bene quando facciamo l'amore - Alex Rossi feat. Jo Wedin
+## Alex Rossi feat. Jo Wedin - Tutto va bene quando facciamo l'amore
 Marc Desse: **"**The time comes when you have to get up and find some energy to enjoy your Sunday. That's why I'm putting Alex Rossi's new album and his italo-disco hit Tutto Va Bene Quando Facciamo L'Amore at full volume in my living room which makes me happy and motivates me to go and find a spot under the sun in good company.**"**
 
 # MailTape's selection
