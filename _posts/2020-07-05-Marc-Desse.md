@@ -30,10 +30,7 @@ track6_color: bliss
 track7_title: Cass McCombs & Steve Gunn – Sweet Lucy
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/412/marc-desse/'
-illustrator: ''
-image: ''
-musiColor: ''
-description: ''
+musiColor: musiColor412.png
 ---
 <p id="introduction">This morning we welcome [Klô Pelgag](https://www.klopelgag.com/) to select three Sunday morning songs.
 <br><br>
