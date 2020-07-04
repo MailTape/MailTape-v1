@@ -38,7 +38,7 @@ image: 'https://mailta.pe/img/fbPic412.png'
 Marc Desse, a French singer and musician, mixes hedonist texts with a laid-back style, creating spontaneously a warm and languid sound. If you listen carefully, you should be able to detect pretty easily some influences from bands like Aline or Taxi Girl.
 
 His last luminous songs promise an energizing and romantic album (coming soon). An album that we imagine as a declaration of love for the city, with a new track titled "Paris je t'aime" to be released in the next few days.
-  
+   
 # Marc Desse's selection
 
 ## Frànçois Atlas & Juliette Armanet - L'invitation au voyage
