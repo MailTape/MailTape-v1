@@ -68,7 +68,7 @@ Marion: **"**If you are familiar with Mazzy Star's mood, you should immediately 
 Marion: **"**Listening to Laura Marling over the years has been like listening to her own life evolution. Starting as a small indie voice playing the ukulele, she has never stopped growing. Her latest album is like a climax, but always delicate and subtle.**"**
 
 ## [Cass McCombs & Steve Gunn](https://cassmccombs.bandcamp.com/) – Sweet Lucy
-Marion: **"**What better than a naive and catchy melody to complete your waking up in the morning and start brewing your coffee? It' s up to you.**"**
+Marion: **"**What is better than a naive and catchy melody to complete your waking up in the morning and start brewing your coffee? It's up to you.**"**
 
 
 <p id="outroduction">That's it for this morning! Thank you so much for joining us. Much love to Marc Desse for his  selection, and to [Noemie Dijon](https://noemiedijon.tumblr.com/) for this episode's beautiful illustration.</p>
