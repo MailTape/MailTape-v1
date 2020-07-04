@@ -31,9 +31,7 @@ track7_title: Cass McCombs & Steve Gunn – Sweet Lucy
 track7_color: bliss
 episode_URL: 'https://www.mailta.pe/412/marc-desse/'
 musiColor: musiColor412.png
-illustrator: ''
-image: ''
-description: ''
+image: 'https://mailta.pe/img/fbPic412.png'
 ---
 <p id="introduction">This morning, we are pleased to welcome [Marc Desse](https://www.instagram.com/marc.desse/) to select three Sunday morning songs. 
 
@@ -47,6 +45,7 @@ His last luminous songs promise an energizing and romantic album (coming soon). 
 Marc Desse: **"**A good Sunday morning starts smoothly. That's why I picked the song "L'invitation au voyage" from Baudelaire's _Les Fleurs du Mal _and set to music by Frànçois Atlas in 2018 in the form of an album with eight other poems. For me, L'invitation au voyage is one of the most beautiful duets of the last few years. The music really blows you away and the two voices blend together wonderfully.**"**
 
 ## Faux Real - Boss Sweet
+
 Marc Desse: **"**Sunday morning is also the time to remember the evening before and the songs you liked to dance to or just listen to. One track that's been coming up a lot lately is Boss Sweet from the Franco-American band Faux Real, which I think is really perfect. It's a real hit for me, especially the chorus and its catchy melody.**"**
 
 ## Tutto va bene quando facciamo l'amore - Alex Rossi feat. Jo Wedin
