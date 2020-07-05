@@ -36,6 +36,7 @@ description: >-
   This morning, we are pleased to welcome Marc Desse to select 3 Sunday morning
   songs. He's a French singer and musician, who mixes hedonist texts with a
   laid-back style, creating spontaneously a warm and languid sound.
+illustrator: Noémie Dijon
 ---
 <p id="introduction">This morning, we are pleased to welcome [Marc Desse](https://www.instagram.com/marc.desse/) to select three Sunday morning songs. 
 
