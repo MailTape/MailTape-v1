@@ -106,6 +106,10 @@ prose:
               value: "Thibault Daumain"
             - name: "Julie"
               value: "Julie Wojtczak"
+            - name: "Noémie"
+              value: "Noémie Dijon"
+            - name: "Jason"
+              value: "Jason Pridham"
       - name: "writer"
         field:
           element: "select"
