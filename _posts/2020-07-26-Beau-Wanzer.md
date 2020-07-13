@@ -8,6 +8,12 @@ writer: Sanjay Mistry
 category: '415'
 guest_name: Beau Wanzer
 guest_color: trippy
+track1_title: Brannten Schnüre – Licht
+track1_color: dreamy
+track2_title: Die Todliche Doris – Die Uber Doris (featuring David Steeves—English Version)
+track2_color: trippy
+track3_title: Thorax-Wach – Ruhe Im Karton
+track3_color: bliss
 ---
 <p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
 <br><br>
