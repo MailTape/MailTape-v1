@@ -36,7 +36,7 @@ Ana Kravanja, Samo Kutin and Iztok Koren play dozens of instruments between them
 ## Brannten Schnüre – Licht
 Beau Wanzer: **"**Sunday mornings tend to be different on a weekly basis depending on what hijinx I was getting into the previous night. For the most part, I prefer tracks that are soothing and easy on my mushy partially functioning brain. I discovered Brannten Schnüre earlier this year and have been obsessed with all of their output. It reminds me a lot of 'A Moon Lay Hidden Beneath The Cloud' (if not familiar...I suggest looking them up). Brannten Schnüre is a great mix of dark ambient, folk, and just the right amount of weirdness to keep me intrigued. Their music is beautiful and otherworldly.**"**
 
-## Die Todliche Doris – Die Uber Doris (featuring David Steeves—English Version)
+## Die Todliche Doris – Die Uber Doris (ft. David Steeves—English Version)
 Beau Wanzer: **"**My obsession with Die Todliche Doris has been a struggle throughout the years....mostly on my limited disposable income. One of the main reasons for my Die Todliche Doris infatuation is the diversity of their output, both visually and sonically. They embody this thick line between art school punk weirdos, noisy nonsense noodlings, and soothing shenanigans. I picked up this record in 2006 at a record store here in Chicago. There are two different versions of this track...one in English and the other in German. I love both, but picked the English version. I chose this track because it's something that I can put on while taking care of my Sunday morning ritual of chugging coffee and eating chicken embryos. It's a great track to zone out too.**"**
 
 ## Thorax-Wach – Ruhe Im Karton
