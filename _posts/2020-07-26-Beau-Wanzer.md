@@ -41,10 +41,10 @@ Sanjay: **"**Širom’s music is a surrealist romp, mixing minimalism and Balkan
 ## Jerusalem In My Heart – Layali Al-Rast
 Sanjay: **"**Recurring riffs maintain the steady pulse throughout this album, while wandering freely around the swales between genres. This track brings the buzuk into the foreground of a solitary landscape, as [Radwan Ghazi Moumneh](https://www.jerusaleminmyheart.com/) applies effects to alter its timbral characteristics.**"**
 
-## 75 Dollar Bill – I Was Real
+## ELLLL – HOT WHEELS
 Sanjay: **"**[75 Dollar Bill](https://75-dollar-bill.bandcamp.com/) are New York duo Rick Brown and Che Chen. Their sound feels impossible to place or summarise—not unlike the city they compose in. Circular riffs, harmonium-like drones, and a deft application of different kinds of harmonic distortion give this track (and album) a brilliant palette to dip in and out of.**"**
 
-## [Matana Roberts](http://www.matanaroberts.com/) – Her Mighty Waters Run
+## Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
 Sanjay: **"**This is from chapter four of Matana's Coin Coin project, combining written scores, improvisation, storytelling and performative theatre. This latest installment comes with backing from a new band, contributing to the already intricate weave of the previous three chapters. "Life goes on for as long as it lasts. We’ll roll the old chariot along, and we’ll all hang on behind."**"**
 
 
