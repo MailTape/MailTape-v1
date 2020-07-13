@@ -35,7 +35,7 @@ Beau Wanzer: **"**This album came into a record store I used to work at in my ea
 
 # MailTape's selection
 
-## Širom – Low Probability of a Hug
+## Beau Wanzer – Mob Boss
 Sanjay: **"**Širom’s music is a surrealist romp, mixing minimalism and Balkan folk in a way that appears to warp, warble and waver. Evoking images of twilight dances around a fire, this track teases with harmonies carefully emerging from the droning dirge created by an impressive range of instruments from each member of the trio.**"**
 
 ## Jerusalem In My Heart – Layali Al-Rast
