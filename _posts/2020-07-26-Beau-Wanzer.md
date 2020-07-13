@@ -18,6 +18,9 @@ track6_title: ELLLL – HOT WHEELS
 track6_color: trippy
 track7_title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
 track7_color: bliss
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/415/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/415/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/415/track3.mp3'
 ---
 <p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
 <br><br>
