@@ -14,6 +14,10 @@ track2_title: Die Todliche Doris – Die Uber Doris (featuring David Steeves—E
 track2_color: trippy
 track3_title: Thorax-Wach – Ruhe Im Karton
 track3_color: bliss
+track6_title: ELLLL – HOT WHEELS
+track6_color: trippy
+track7_title: Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
+track7_color: bliss
 ---
 <p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
 <br><br>
