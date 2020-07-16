@@ -25,6 +25,8 @@ track6_link: 'https://soundcloud.com/ellll/ellll-hot-wheels'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/415/track7.mp3'
 episode_URL: 'https://mailta.pe/415/beau-wanzer/'
 track4_link: 'https://soundcloud.com/mannequin-label/b1-beau-wanzer-snake-and-shake'
+track4_title: Beau Wanzer – Snake and Shake
+track4_color: trippy
 ---
 <p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
 <br><br>
@@ -46,7 +48,7 @@ Beau Wanzer: **"**This album came into a record store I used to work at in my ea
 
 # MailTape's selection
 
-## Beau Wanzer – Mob Boss
+## Beau Wanzer – Snake and Shake
 Sanjay: **"**Širom’s music is a surrealist romp, mixing minimalism and Balkan folk in a way that appears to warp, warble and waver. Evoking images of twilight dances around a fire, this track teases with harmonies carefully emerging from the droning dirge created by an impressive range of instruments from each member of the trio.**"**
 
 ## Jerusalem In My Heart – Layali Al-Rast
