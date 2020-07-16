@@ -30,6 +30,9 @@ writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 published: false
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/414/track2.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/414/track4.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/414/track6.mp3'
 ---
 <p id="introduction">This morning, 
 
