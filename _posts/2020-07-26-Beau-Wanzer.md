@@ -24,6 +24,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/415/track3.mp3'
 track6_link: 'https://soundcloud.com/ellll/ellll-hot-wheels'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/415/track7.mp3'
 episode_URL: 'https://mailta.pe/415/beau-wanzer/'
+track4_link: 'https://soundcloud.com/mannequin-label/b1-beau-wanzer-snake-and-shake'
 ---
 <p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
 <br><br>
