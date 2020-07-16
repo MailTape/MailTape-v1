@@ -10,7 +10,7 @@ guest_name: Beau Wanzer
 guest_color: trippy
 track1_title: Brannten Schnüre – Licht
 track1_color: dreamy
-track2_title: Die Todliche Doris – Die Uber Doris (featuring David Steeves—English Version)
+track2_title: Die Todliche Doris – Die Uber Doris (ft. David Steeves—English Version)
 track2_color: trippy
 track3_title: Thorax-Wach – Ruhe Im Karton
 track3_color: bliss
