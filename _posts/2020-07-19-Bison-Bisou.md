@@ -31,4 +31,35 @@ illustrator: Anthony Dujardin
 author: Anaïs G
 published: false
 ---
+<p id="introduction">This morning, 
 
+
+</p>
+
+# Bison Bisou's selection
+
+##  - 
+Bison Bisou: **"**.**"**
+
+##  -
+Bison Bisou: **"** **"** 
+
+##  - 
+Bison Bisou: **"** **"**
+
+# MailTape's selection
+
+## Bison Bisou – Peaches Forever
+Anaïs G: **"** **"**
+
+## Hidden Fees – So What
+Anaïs G: **"** **"**
+
+## Mama's Gun – Shield & Shelter
+Anaïs G: **"** Limoge découverte local rock **"**
+
+## Moon Duo  – Sleepwalker
+Anaïs G: **"** **"**
+
+
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Bison Bisou for this selection, and to Anthony for this episode's fantastic illustration.</p>
