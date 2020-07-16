@@ -41,14 +41,14 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/414/track6.mp3'
 
 # Bison Bisou's selection
 
-##  - 
-Bison Bisou: **"**.**"**
+## Jenny Hval - The Great Undressing
+Bison Bisou: **"**The way Jenny Hval criticizes capitalism and sexism is so sweet and pure. This song is one of the most clever lullabies ever. Marvelous like a never-ending-wishing dream.**"**
 
-##  -
-Bison Bisou: **"** **"** 
+## Girl Band - Shoulderblade
+Bison Bisou: **"**We expected a lot from Girl Band after listening to their music and watching their lives for a while.We weren’t disappointed when we saw their new video for Shoulderblade : after countless times seeing it, we still share the same weird shiver, out of some sort of post-industrial transe. It's the ideal song to wake up on a sunday in a dying city.**"** 
 
 ##  - 
-Bison Bisou: **"** **"**
+Bison Bisou: **"**5, 6, 7, 8 in the morning. Walking to the sunrise. Music from broken-mirror smartphone invading the streets. Wondering if you’re a god or a dog, the party was raw. You’re alone in this world like the sun in our solar system.**"**
 
 # MailTape's selection
 
@@ -65,4 +65,4 @@ Anaïs G: **"** Limoge découverte local rock **"**
 Anaïs G: **"** **"**
 
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Bison Bisou for this selection, and to Anthony for this episode's fantastic illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Bison Bisou for this selection, and to Anthony Dujardin for this episode's fantastic illustration.</p>
