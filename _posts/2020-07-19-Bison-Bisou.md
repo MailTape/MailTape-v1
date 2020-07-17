@@ -34,9 +34,9 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/414/track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/414/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/414/track6.mp3'
 ---
-<p id="introduction">This morning, nous sommes sur la route des vacances, prêt à plonger dans les vagues vétu de notre plus beau maillot de bain. Pour accompagner ces premières heures de soleil et de sable chaud sur notre corps rien de mieux que Bison Bisou pour chauffer encore plus l'atmosphère. 
-
-C'est sous ce joli nom qu'il détruit les codes et créer le contraste avec leur musique. Du rock puissant pour réveiller ton corps, et ton esprit, ce groupe (*) l'a bien compris. Une bande son accompagnantsnos matinées énergiques à courir sur la plage ou nos longues soirées d'été autour d'un feu entre amies. 
+<p id="introduction">This morning, we are on our way to the holidays, ready to dive into the waves dressed in our best swimsuit. To accompany these first hours of sunshine and warm sand on our bodies nothing better than Bison Bisou to warm up the atmosphere even more.
+  
+It is under this pretty name that he destroys the codes and creates the contrast with their music. Powerful rock to wake up your body, and your mind, Bison Bisous understands that. A soundtrack accompanying our energetic mornings running on the beach or our long summer evenings around a fire with friends.
 </p>
 
 # Bison Bisou's selection
