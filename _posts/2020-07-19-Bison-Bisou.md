@@ -53,10 +53,10 @@ Bison Bisou: **"**5, 6, 7, 8 in the morning. Walking to the sunrise. Music from 
 # MailTape's selection
 
 ## Bison Bisou – Peaches Forever
-Anaïs G: **"**Avec ce nom qui sort de l'ordinaire et leur musique détonnante, je ne pouvais pas passer à coté. Leur album "Pain & Pleasure" m'a coller à mon siège et mis une bonne claque.  **"**
+Anaïs G: **"**"Pain & Pleasure", released last October, is an album that accompanied me this winter and again throughout this confinement, during these two months. I didn't think I'd be so turned on by their music, so it was hard for me to choose just one song among the eleven, but I set my heart on Peaches Forever, which represents perfection! Sweet and energetic moments, for a Sunday morning in subdued tones!**"**
 
 ## Hidden Fees – So What
-Anaïs G: **"** Rolling stones Mick Jagger**"**
+Anaïs G: **"**A band straight out of New York, with an old school song with tunes by Mick Jagger from the Rolling Stone. Sunny and motivating to attack the week ahead! **"**
 
 ## Mama's Gun – Shield & Shelter
 Anaïs G: **"** Limoge découverte local rock **"**
