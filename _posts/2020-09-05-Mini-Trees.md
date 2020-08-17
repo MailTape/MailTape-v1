@@ -10,14 +10,14 @@ Based in Los Angeles, [Mini Trees](https://minitrees.bandcamp.com)
 
 # Mini Trees selection
 
-## Porches - Do U Wanna
+## [Porches](https://porchesmusic.com/) - Do U Wanna
 Mini Trees: **"**Porches has been on repeat for the last few months. Love their last record Ricky Music and this track is one that I keep going back to. It’s dancey and catchy and makes you a little sad; my favorite combo.**"**
 
-## Lomelda - Out There
+## [Lomelda](https://lomelda.bandcamp.com/) - Out There
 Mini Trees: **"**I’ve been revisiting this album a lot lately and this is probably my favorite track off of it. Absolutely love Lomelda’s melodies, and lyrically feels very relevant to quarantine.**"** 
 
-## Asgeir - Trust
-Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir in LA with my friend right before quarantine and we ended up backing out because of coronavirus. I'm actually not sure if the concert was canceled or not, but either way I'm sad to have missed out and have been listening to Asgeir a lot. This is a beautiful song and is a comforting listen amidst all of this.**"**
+## [Ásgeir](https://www.asgeirmusic.com/) - Trust
+Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir in LA with my friend right before quarantine and we ended up backing out because of coronavirus. I'm actually not sure if the concert was canceled or not, but either way I'm sad to have missed out and have been listening to Ásgeir a lot. This is a beautiful song and is a comforting listen amidst all of this.**"**
 
 # MailTape's selection
 
