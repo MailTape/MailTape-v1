@@ -14,10 +14,30 @@ track2_color: bliss
 track4_color: dreamy
 track3_title: Ásgeir - Trust
 track3_color: dreamy
+author: ''
+illustrator: ''
+writer: ''
+guestPic: ''
+track3_link: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track4_title: ''
+track5_title: ''
+track5_color: ''
+track6_title: ''
+track6_color: ''
+track7_title: ''
+track7_color: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
-Based in Los Angeles, [Mini Trees](https://minitrees.bandcamp.com) is the solo project of Lexi Vega. Her music is vibrant with emotional exploration. Mini Trees creates a raw lyrical atmosphere where she lays bare her experiences in a challenging and vulnerable way. Somehow, Mini Trees is able to pair this emotionally candid quality with a dreamy undercurrent. Listening to her second EP _Slip Away_ feels like walking through the galleries of her very thoughts. 
+Based in Los Angeles, [Mini Trees](https://minitrees.bandcamp.com) is the solo project of Lexi Vega. Her music is vibrant with emotional exploration. Mini Trees creates a raw lyrical atmosphere where she lays bare her experiences in a challenging and vulnerable way. Somehow, Mini Trees is able to pair this emotionally candid quality with a dreamy undercurrent. Listening to her second EP **Slip Away** feels like walking through the galleries of her very thoughts. 
 
 </p>
 
