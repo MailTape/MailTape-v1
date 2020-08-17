@@ -2,6 +2,18 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_link: 'https://soundcloud.com/porchesmusic/do-u-wanna'
+track1_color: vibrant
+category: '415'
+guest_name: Mini Trees
+guest_color: dreamy
+track1_title: Porches - Do U Wanna
+track2_link: 'https://soundcloud.com/double-double-whammy/05-out-there-1'
+track2_title: Lomelda - Out There
+track2_color: bliss
+track4_color: dreamy
+track3_title: Ásgeir - Trust
+track3_color: dreamy
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September!
 
