@@ -46,7 +46,7 @@ Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir i
 Sarah: **"**This song is part of the new EP released by Mini Trees, and I replayed it over and over as soon as I heard it. There's a hint of the Sufjan Stevens influence she talks of, but Mini Trees departs into a style completely her own. Honestly creates an absolutely mesmerizing harmony of soaring vocals backed with effortless guitar melodies. Her lyrics detail a deeply intricate emotional analysis, something that stands out about Mini Trees music as a whole. The song builds upon itself and steps down just as easily.**"**
 
 ## [Schwey](https://www.facebook.com/schweyluv/) – Elasto
-Sarah: **"**Coming off of Schwey's 2019 album, funk-infused instrumentals are striking and yet polished into this track. The intensity of the vocals and instrumentals build so naturally, Schwey creates a song you can melt into listening.**"**
+Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in June. This track is my favorite off of that collection. As always with Feng Suave, the mix starts off smooth as silk, but still manages to groove in a slightly grungy style.**"**
 
 ## [Nature TV](https://www.discogs.com/artist/3934926-Snoh-Aalegra) – Hometown
 Sarah: **"**A friend sent me this August release by Nature TV, and thank God, because I'm in love with it. Love the 70's influences and the guitar heading the way on this track. Lately, I've been going for drives late at night (for no particular reason) and this has been on my playlist. I think it's a good fit for Sunday mornings, too.**"**
