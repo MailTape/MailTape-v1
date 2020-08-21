@@ -44,8 +44,8 @@ Sarah: **"**This song is part of the new EP released by Mini Trees, and I replay
 ## [Schwey](https://www.facebook.com/schweyluv/) – Elasto
 Sarah: **"**Coming off of Schwey's 2019 album, funk-infused instrumentals are striking and yet polished into this track. The intensity of the vocals and instrumentals build so naturally, Schwey creates a song you can melt into listening.**"**
 
-## [Snoh Aalegra](https://www.discogs.com/artist/3934926-Snoh-Aalegra) – FEELS
-Sarah: **"**Retro energy and Snoh Aalegra's vocals make such a refreshing mix, it's perfect for getting yourself out of bed in the morning.**"**
+## [Nature TV](https://www.discogs.com/artist/3934926-Snoh-Aalegra) – Hometown
+Sarah: **"**A friend sent me this August release by Nature TV, and thank God, because I'm in love with it. Love the 70's influences and the guitar heading the way on this track. Lately, I've been going for drives late at night (for no particular reason) and this has been on my playlist. I think it's a good fit for Sunday mornings, too.**"**
 
 ## [TOPS](https://tops.bandcamp.com/) – I Feel Alive
 Sarah: **"**The movement on this track is absolutely contagious. Are you feeling alive on this fine Sunday morning? Are you going to dance in your bedroom? Will you have ice cream for breakfast? Will you wear mismatching socks and slide on some hardwood floors? I hope you do all of the above, and you treat yourself to a great Sunday :)**"**
