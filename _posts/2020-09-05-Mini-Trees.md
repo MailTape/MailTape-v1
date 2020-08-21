@@ -38,8 +38,8 @@ Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir i
 
 # MailTape's selection
 
-## [Floam](https://floam.bandcamp.com/) – Thinking Back
-Sarah: **"**The bossa nova groove in the beginning of this track drew me in first, and then throughout the rest of the song, Floam's guitarist does everything right. The mix on *Thinking Back* makes such an interesting balance of rock influences, modern jazz, and experimental production methods. Listen for the break  towards the end of this song, it brings the track to a whole new level. As with all of Floam's discography, Thinking Back is smooth.**"**
+## [Mini Trees](https://floam.bandcamp.com/) – Honestly
+Sarah: **"**This song is part of the new EP released by Mini Trees, and I replayed it over and over as soon as I heard it. There's a hint of the Sufjan Stevens influence she talks of, but Mini Trees departs into a style completely her own. Honestly creates an absolutely mesmerizing harmony of soaring vocals backed with effortless guitar melodies. Her lyrics detail a deeply intricate emotional analysis, something that stands out about Mini Trees music as a whole. The song builds upon itself and steps down just as easily.**"**
 
 ## [Schwey](https://www.facebook.com/schweyluv/) – Elasto
 Sarah: **"**Coming off of Schwey's 2019 album, funk-infused instrumentals are striking and yet polished into this track. The intensity of the vocals and instrumentals build so naturally, Schwey creates a song you can melt into listening.**"**
