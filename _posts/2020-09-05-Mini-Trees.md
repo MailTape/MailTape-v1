@@ -51,7 +51,7 @@ Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir i
 ## [Mini Trees](https://floam.bandcamp.com/) – Honestly
 Sarah: **"**This song is part of the new EP released by Mini Trees, and I replayed it over and over as soon as I heard it. There's a hint of the Sufjan Stevens influence she talks of, but Mini Trees departs into a style completely her own. Honestly creates an absolutely mesmerizing harmony of soaring vocals backed with effortless guitar melodies. Her lyrics detail a deeply intricate emotional analysis, something that stands out about Mini Trees music as a whole. The song builds upon itself and steps down just as easily.**"**
 
-## [Genevieve Stokes](https://www.facebook.com/schweyluv/) – Maybe Another Time
+## [Genevieve Stokes](https://www.facebook.com/schweyluv/) – Lonely And Bored
 Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in June. This track is my favorite off of that collection. As always with Feng Suave, the mix starts off smooth as silk, and keeps up this mood. The song lives in an easy-going jazz groove while also having some 1960's surfer vibes. The tone reminds me of a anesthetic dream, it doesn't feel real but feels nostalgic and familiar at the same time. Side note: there's apparently real debate on whether or not one can actually dream under anesthesia, so maybe this simile is a bit controversial. I still like the way it sounds, so I'm not going to change it. We've never strayed away from being provocative at MailTape.**"**
 
 ## [Feng Suave](https://www.discogs.com/artist/3934926-Snoh-Aalegra) – Maybe Another Time
