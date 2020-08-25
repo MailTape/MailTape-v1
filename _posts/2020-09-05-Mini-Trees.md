@@ -32,7 +32,7 @@ track7_color: vibrant
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
-Based in Los Angeles, [Mini Trees](https://minitrees.bandcamp.com) is the solo project of Lexi Vega, who previously played drums in LA's indie scene for many years. Her music is vibrant with emotional exploration, Mini Trees creates a raw lyrical atmosphere where she lays bare her experiences in a challenging and vulnerable way as she dives into all the turbulence and uncertainty of relationships. Effortlessly, Mini Trees pairs this emotionally candid quality with a dreamy undercurrent. Listening to her second EP **Slip Away** feels like walking through the galleries of her very thoughts. 
+Lexi Vega played drums in LA's indie scene for many years before emerging as an artist with her solo project, [Mini Trees](https://minitrees.bandcamp.com). Mini Trees music is vibrant with emotional exploration, Vega creates a raw lyrical atmosphere wherein experiences are laid bare in a challenging and vulnerable way. Her newest EP **Slip Away** dives into all the turbulence and uncertainty of relationships, while also striving toward themes of self acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality with a dreamy undercurrent. Listening to her second EP **Slip Away** feels like walking through the galleries of her very thoughts. 
 
 </p>
 
