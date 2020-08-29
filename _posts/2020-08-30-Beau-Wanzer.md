@@ -59,7 +59,7 @@ Beau Wanzer: **"**This album came into a record store I used to work at in my ea
 # MailTape's selection
 
 ## Beau Wanzer – Snake and Shake
-Sanjay: **"**Driven by arcane machines, this is a slinky and deeply groovy cut with a brilliant snake-hipped chugger of a bassline. **"**
+Sanjay: **"**Driven by arcane machines, this is a slinky and deeply groovy cut with a brilliant snake-hipped chugger of a bassline.**"**
 
 ## Klein – Claim It
 Sanjay: **"**[Klein](https://klein1997.bandcamp.com/) seems to conceive her existence as a waking nightmare with this fever dream of twisted wailing, breathy coughs and sped-up cackling. Not for the faint-hearted, Klein has the ability to convey an eerie and emotional story which flows like a transcendent mix—each track building on top of the previous one for a jarring impact.**"**
