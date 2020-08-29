@@ -33,7 +33,7 @@ track5_color: trippy
 ---
 <p id="introduction">Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 
 <br><br>
-A molecular biologist with a fluency with machines
+A molecular biologist who has a fluency with machines, Beau Wanzer brings the experimentation from his day job to his music with innovative experiments, splicing, and twisted knob-twiddling.
 </p>
 
 
