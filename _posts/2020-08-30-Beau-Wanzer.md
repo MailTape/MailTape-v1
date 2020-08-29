@@ -65,7 +65,7 @@ Sanjay: **"**Driven by arcane machines, this is a slinky and deeply groovy cut w
 Sanjay: **"**[Klein](https://klein1997.bandcamp.com/) seems to conceive her existence as a waking nightmare with this fever dream of twisted wailing, breathy coughs and sped-up cackling. Not for the faint-hearted, Klein has the ability to convey an eerie and emotional story which flows like a transcendent mix—each track building on top of the previous one for a jarring impact.**"**
 
 ## ELLLL – HOT WHEELS
-Sanjay: **"**I think shades of Beatrice Dillon can be heard in Cork-born, Berlin-based [ELLLL](https://soundcloud.com/ellll)'s queasy sonic atmospheres. Not least in this track with its floaty collapsed dembow rhythms and warped choral samples.**"**
+Sanjay: **"**I think shades of Beatrice Dillon can be heard in Cork-born, Berlin-based [ELLLL](https://soundcloud.com/ellll)'s queasy sonic atmospheres. Not least in this track from 'POLARBERGS' with its floaty collapsed dembow rhythms and warped choral samples.**"**
 
 ## Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
 Sanjay: **"**This is from chapter four of Matana's Coin Coin project, combining written scores, improvisation, storytelling and performative theatre. This latest installment comes with backing from a new band, contributing to the already intricate weave of the previous three chapters. "Life goes on for as long as it lasts. We’ll roll the old chariot along, and we’ll all hang on behind."**"**
