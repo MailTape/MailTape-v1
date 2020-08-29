@@ -71,4 +71,4 @@ Sanjay: **"**[75 Dollar Bill](https://75-dollar-bill.bandcamp.com/) are New York
 Sanjay: **"**This is from chapter four of Matana's Coin Coin project, combining written scores, improvisation, storytelling and performative theatre. This latest installment comes with backing from a new band, contributing to the already intricate weave of the previous three chapters. "Life goes on for as long as it lasts. We’ll roll the old chariot along, and we’ll all hang on behind."**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Širom](http://siromband.si/) for their Sunday selections, and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Beau Wanzer](https://beauwanzer.bandcamp.com/) for his Sunday selections, and to [Jason Pridham](https://camillecelestin.com/) for this episode's suitably trippy illustration.</p>
