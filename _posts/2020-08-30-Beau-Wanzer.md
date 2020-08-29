@@ -31,9 +31,9 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/415/track5.mp3'
 track5_title: Klein – Claim It
 track5_color: trippy
 ---
-<p id="introduction">This morning we welcome [Širom](http://siromband.si/) to select three eclectic Sunday morning tunes with us. They are a trio whose members stem from the regions of Prekmurje, Tolminsko and Kras. 
+<p id="introduction">Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 
 <br><br>
-Ana Kravanja, Samo Kutin and Iztok Koren play dozens of instruments between them and describe their work as “imaginary folk music”. Played live on acoustic instruments, their sounds are episodic, dreamlike voyages—qawwali-style vocals and drones mutate into free-jazz abandon, gamelan (played on pots, pans and cutlery), and secured with riviting bass sounds.
+A molecular biologist with a fluency with machines
 </p>
 
 
