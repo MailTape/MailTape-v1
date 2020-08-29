@@ -62,7 +62,7 @@ Beau Wanzer: **"**This album came into a record store I used to work at in my ea
 Sanjay: **"**Driven by arcane machines, this is a slinky and deeply groovy cut with a brilliant snake-hipped chugger of a bassline. **"**
 
 ## Klein – Claim It
-Sanjay: **"**Klein seems to conceive her existence as a waking nightmare with this fever dream of twisted wailing, breathy coughs and sped-up cackling. Not for the faint-hearted, Klein has the ability to convey an eerie and emotional story which flows like a transcendent mix—each track building on top of the previous one for a jarring impact.**"**
+Sanjay: **"**[Klein](https://klein1997.bandcamp.com/) seems to conceive her existence as a waking nightmare with this fever dream of twisted wailing, breathy coughs and sped-up cackling. Not for the faint-hearted, Klein has the ability to convey an eerie and emotional story which flows like a transcendent mix—each track building on top of the previous one for a jarring impact.**"**
 
 ## ELLLL – HOT WHEELS
 Sanjay: **"**[75 Dollar Bill](https://75-dollar-bill.bandcamp.com/) are New York duo Rick Brown and Che Chen. Their sound feels impossible to place or summarise—not unlike the city they compose in. Circular riffs, harmonium-like drones, and a deft application of different kinds of harmonic distortion give this track (and album) a brilliant palette to dip in and out of.**"**
