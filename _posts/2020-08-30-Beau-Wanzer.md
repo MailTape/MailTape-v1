@@ -68,7 +68,7 @@ Sanjay: **"**[Klein](https://klein1997.bandcamp.com/) seems to conceive her exis
 Sanjay: **"**I think shades of Beatrice Dillon can be heard in Cork-born, Berlin-based [ELLLL](https://soundcloud.com/ellll)'s queasy sonic atmospheres. Not least in this track from 'POLARBERGS' with its floaty collapsed dembow rhythms and warped choral samples.**"**
 
 ## Xao Seffcheque & Der Rest – Ja-Nein-Vielleicht
-Sanjay: **"**An oldie but an unhinged goodie. This sardonic and rollicking "**"**
+Sanjay: **"**An oldie but an unhinged goodie from [Xao Seffcheque](http://seffcheque.com/). This sardonic and rollicking track sounds like a long lost NYC no wave gem crossed with weirdo synthpop. Daft vocals, saxophone, offbeat looping rhythms and circus vibes are abundant. Was he taking the piss? Who knows.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Beau Wanzer](https://beauwanzer.bandcamp.com/) for his Sunday selections, and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
