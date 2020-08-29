@@ -59,7 +59,7 @@ Beau Wanzer: **"**This album came into a record store I used to work at in my ea
 # MailTape's selection
 
 ## Beau Wanzer – Snake and Shake
-Sanjay: **"**Širom’s music is a surrealist romp, mixing minimalism and Balkan folk in a way that appears to warp, warble and waver. Evoking images of twilight dances around a fire, this track teases with harmonies carefully emerging from the droning dirge created by an impressive range of instruments from each member of the trio.**"**
+Sanjay: **"**Driven by arcane machines, this is a slinky and deeply groovy cut with a brilliant snake-hipped chugger of a bassline. **"**
 
 ## Klein – Claim It
 Sanjay: **"**Recurring riffs maintain the steady pulse throughout this album, while wandering freely around the swales between genres. This track brings the buzuk into the foreground of a solitary landscape, as [Radwan Ghazi Moumneh](https://www.jerusaleminmyheart.com/) applies effects to alter its timbral characteristics.**"**
