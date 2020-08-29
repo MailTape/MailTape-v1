@@ -35,13 +35,13 @@ description: >-
   Welcome back to a new season of MailTape! This morning we welcome
   Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday
   morning tunes with us.
+musiColor: musiColor415.png
 image: 'https://mailta.pe/img/fbPic415.jpg'
 ---
 <p id="introduction">Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 
 <br><br>
 A molecular biologist who has a fluency with machines, Beau Wanzer brings the experimentation from his day job to his music with innovative experiments, splicing, and twisted knob-twiddling.
 </p>
-
 
 
 # Beau Wanzer's selection
