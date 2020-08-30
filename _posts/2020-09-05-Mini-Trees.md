@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: false
 track1_link: 'https://soundcloud.com/porchesmusic/do-u-wanna'
 track1_color: vibrant
-category: '415'
+category: '416'
 guest_name: Mini Trees
 guest_color: dreamy
 track1_title: Porches - Do U Wanna
@@ -29,6 +29,12 @@ track7_link: >-
   https://soundcloud.com/naturetv/hometown?in=naturetv/sets/ntv-hits-music-that-were
 track7_title: Nature TV - Hometown
 track7_color: vibrant
+illustrator: ''
+guestPic: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
