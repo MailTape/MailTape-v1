@@ -29,12 +29,7 @@ track7_link: >-
   https://soundcloud.com/naturetv/hometown?in=naturetv/sets/ntv-hits-music-that-were
 track7_title: Nature TV - Hometown
 track7_color: vibrant
-illustrator: ''
-guestPic: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+illustrator: Julie Wojtczak
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
