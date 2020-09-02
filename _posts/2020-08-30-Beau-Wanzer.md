@@ -5,7 +5,7 @@ published: true
 author: Sanjay Mistry
 illustrator: Jason Pridham
 writer: Sanjay Mistry
-category: '415'
+category: '414'
 guest_name: Beau Wanzer
 guest_color: trippy
 track1_title: Brannten Schnüre – Licht
