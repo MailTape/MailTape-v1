@@ -32,6 +32,7 @@ illustrator: Julie Wojtczak
 guestPic: guestPic416.jpg
 episode_URL: 'http://mailta.pe/415/Mini-Trees/'
 image: 'https://mailta.pe/img/fbPic416.png'
+musiColor: musiColor416.png
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
@@ -63,6 +64,6 @@ Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in J
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
-
+![musiColor416.png]({{site.baseurl}}/img/musiColor416.png)
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration.</p>
