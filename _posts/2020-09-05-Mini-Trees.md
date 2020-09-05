@@ -30,7 +30,7 @@ track7_link: >-
 track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak
-guestPic: guestPic415.jpg
+guestPic: guestPic416.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
