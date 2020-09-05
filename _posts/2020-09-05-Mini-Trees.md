@@ -63,4 +63,4 @@ Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in J
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Sympatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
 
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to [Camille Célestin](https://camillecelestin.com/) for this episode's fantastic illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration.</p>
