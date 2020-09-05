@@ -25,8 +25,7 @@ track5_link: 'https://soundcloud.com/genevieveee-567146673/lonely-and-bored'
 track5_title: Genevieve Stokes - Lonely and Bored
 track5_color: dreamy
 track4_title: Mini Trees - Honestly
-track7_link: >-
-  https://soundcloud.com/naturetv/hometown?in=naturetv/sets/ntv-hits-music-that-were
+track7_link: 'https://soundcloud.com/golden-daze/lynard-bassman-1'
 track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak
@@ -60,7 +59,7 @@ Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collect
 ## [Feng Suave](https://fengsuave.bandcamp.com/) – Maybe Another Time
 Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in June. This track is my favorite off of that collection. As always with Feng Suave, the mix starts off smooth as silk, and keeps up this mood. The song lives in an easy-going jazz groove while also having some 1960's surfer vibes. The tone reminds me of a anesthetic dream, it doesn't feel real but feels familiar at the same time. Side note: there's apparently real debate on whether or not one can actually dream under anesthesia, so maybe this simile is a bit controversial. I still like the way it sounds, so I'm not going to change it. We've never strayed away from being provocative at MailTape.**"**
 
-## [Golden Daze](https://naturetv.bandcamp.com/) – Lynard Bassman
+## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Sympatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
 
 
