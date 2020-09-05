@@ -27,7 +27,7 @@ track5_color: dreamy
 track4_title: Mini Trees - Honestly
 track7_link: >-
   https://soundcloud.com/naturetv/hometown?in=naturetv/sets/ntv-hits-music-that-were
-track7_title: Nature TV - Hometown
+track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak
 ---
