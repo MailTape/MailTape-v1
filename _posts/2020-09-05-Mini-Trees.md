@@ -62,8 +62,7 @@ Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collect
 Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in June. This track is my favorite off of that collection. As always with Feng Suave, the mix starts off smooth as silk, and keeps up this mood. The song lives in an easy-going jazz groove while also having some 1960's surfer vibes. The tone reminds me of a anesthetic dream, it doesn't feel real but feels familiar at the same time. Side note: there's apparently real debate on whether or not one can actually dream under anesthesia, so maybe this simile is a bit controversial. I still like the way it sounds, so I'm not going to change it. We've never strayed away from being provocative at MailTape.**"**
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
-Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Si![fbPic416.png]({{site.baseurl}}/img/fbPic416.png)
-mpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
+Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
 
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration.</p>
