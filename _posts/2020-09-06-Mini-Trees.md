@@ -33,6 +33,17 @@ guestPic: guestPic416.jpg
 episode_URL: 'http://mailta.pe/415/Mini-Trees/'
 image: 'https://mailta.pe/img/fbPic416.png'
 musiColor: musiColor416.png
+description: >-
+  This morning, we are thrilled to welcome Mini Trees to host the first MailTape
+  episode of September! Lexi Vega played drums in the Los Angeles indie scene
+  for many years before emerging as an artist with her solo project, Mini Trees.
+  Mini Trees music is vibrant with emotional exploration, Vega creates a raw
+  lyrical atmosphere wherein experiences are laid bare in a challenging and
+  vulnerable way. Her newest EP, Slip Away, dives into all the turbulence and
+  uncertainty of relationships, while also striving toward themes of self
+  acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality
+  with a dreamy undercurrent. Listening to her second EP **Slip Away** feels
+  like walking through the galleries of her very thoughts.
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://floam.bandcamp.com/) to host the first MailTape episode of September! 
 
@@ -64,6 +75,5 @@ Sarah: **"**Dutch group Feng Suave blessed us with a new EP, Warping Youth, in J
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
-![musiColor416.png]({{site.baseurl}}/img/musiColor416.png)
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
