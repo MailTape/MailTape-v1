@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://soundcloud.com/porchesmusic/do-u-wanna'
 track1_color: vibrant
 category: '415'
