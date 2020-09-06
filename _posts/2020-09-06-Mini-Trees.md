@@ -42,8 +42,8 @@ description: >-
   acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality
   with a dreamy undercurrent. Listening to her second EP **Slip Away** feels
   like walking through the galleries of her very thoughts.
-guestPic: guestPic416.jpg
-image: 'https://mailta.pe/img/fbPic416.png'
+image: 'https://mailta.pe/img/fbPic4166.png'
+guestPic: guestPic4166.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 
 
