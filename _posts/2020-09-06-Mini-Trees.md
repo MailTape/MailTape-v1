@@ -16,7 +16,7 @@ track3_title: Ásgeir - Trust
 track3_color: dreamy
 author: Sarah
 writer: Sarah
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/416/track3.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/415/track3.mp3'
 track4_link: 'https://soundcloud.com/minitreesband/honestly'
 track6_color: dreamy
 track6_title: Feng Suave - Maybe Another Time
@@ -42,7 +42,7 @@ description: >-
   acceptance. Effortlessly, Mini Trees pairs this emotionally candid quality
   with a dreamy undercurrent. Listening to her second EP **Slip Away** feels
   like walking through the galleries of her very thoughts.
-image: 'https://mailta.pe/img/fbPic4166.png'
+image: 'https://mailta.pe/img/fbPic415.png'
 guestPic: guestPic415.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 
