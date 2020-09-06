@@ -29,9 +29,7 @@ track7_link: 'https://soundcloud.com/golden-daze/lynard-bassman-1'
 track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak
-guestPic: guestPic416.jpg
 episode_URL: 'http://mailta.pe/415/Mini-Trees/'
-image: 'https://mailta.pe/img/fbPic416.png'
 musiColor: musiColor416.png
 description: >-
   This morning, we are thrilled to welcome Mini Trees to host the first MailTape
