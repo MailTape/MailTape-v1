@@ -35,7 +35,7 @@ description: >-
   Welcome back to a new season of MailTape! This morning we welcome
   Chicago-based woozy noodler Beau Wanzer to select three contorted Sunday
   morning tunes with us.
-musiColor: musiColor415.png
+musiColor: musiColor414.png
 image: 'https://mailta.pe/img/fbPic414.png'
 ---
 <p id="introduction">Welcome back to a new season of MailTape! This morning we welcome Chicago-based woozy noodler [Beau Wanzer](https://beauwanzer.bandcamp.com/) to select three contorted Sunday morning tunes with us. 

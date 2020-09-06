@@ -30,7 +30,7 @@ track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak
 episode_URL: 'http://mailta.pe/415/Mini-Trees/'
-musiColor: musiColor416.png
+musiColor: musiColor415.png
 description: >-
   This morning, we are thrilled to welcome Mini Trees to host the first MailTape
   episode of September! Lexi Vega played drums in the Los Angeles indie scene
