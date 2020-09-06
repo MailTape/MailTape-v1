@@ -43,7 +43,7 @@ description: >-
   with a dreamy undercurrent. Listening to her second EP **Slip Away** feels
   like walking through the galleries of her very thoughts.
 image: 'https://mailta.pe/img/fbPic4166.png'
-guestPic: guestPic4166.jpg
+guestPic: guestPic415.jpg
 ---
 <p id="introduction">This morning, we are thrilled to welcome [Mini Trees](https://minitrees.bandcamp.com) to host the first MailTape episode of September! 
 
