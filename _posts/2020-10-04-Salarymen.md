@@ -18,16 +18,16 @@ Lexi Vega played drums in the Los Angeles indie scene for many years before emer
 
 </p>
 
-# Mini Trees selection
+# Salarymen's selection
 
-## [Porches](https://porchesmusic.com/) - Do U Wanna
-Mini Trees: **"**Porches has been on repeat for the last few months. Love their last record Ricky Music and this track is one that I keep going back to. It’s dancey and catchy and makes you a little sad; my favorite combo.**"**
+## [Weyes Blood](https://porchesmusic.com/) - Andromeda
+Mini Trees: **"**Everything about this song is incredibly soothing - from the stunning vocals, to the whimsical guitars and the dreamy synths. It was actually produced by one of our other favourite artists, Foxygen. I can’t help but stop what I’m doing, and sing along to this track when it comes on. It’s beautifully reflective and well-written, and is the perfect soundtrack to a relaxing Sunday.**"**
 
-## [Lomelda](https://lomelda.bandcamp.com/) - Out There
-Mini Trees: **"**I’ve been revisiting this album a lot lately and this is probably my favorite track off of it. Absolutely love Lomelda’s melodies, and lyrically feels very relevant to quarantine.**"** 
+## [The Lemon Twigs](https://lomelda.bandcamp.com/) - Frank
+Mini Trees: **"**I have always wanted to write something about this song - it’s so eccentric, and delivers a real classic Frank Sinatra vibe. The creativity and musicianship is insane, with the whole song building up section by section. The intro sets the scene beautifully, and when the rhythm section come in at the 1:30 mark, I always get a rush of energy because its so damn good.**"** 
 
-## [Ásgeir](https://www.asgeirmusic.com/) - Trust
-Mini Trees: **"**This is also not a new song, but I was supposed to see Asgeir in LA with my friend right before quarantine and we ended up backing out because of coronavirus. I'm actually not sure if the concert was canceled or not, but either way I'm sad to have missed out and have been listening to Ásgeir a lot. This is a beautiful song and is a comforting listen amidst all of this.**"**
+## [Whitney](https://www.asgeirmusic.com/) - Golden Days
+Mini Trees: **"**This song has such beautiful instrumentation and a lovely sentiment to match - we could never get tired of listening to it. From the dreamy slide guitars to the brass section, it perfectly captures a sense of nostalgia and longing for a better time, always leaving a smile on our face.**"**
 
 # MailTape's selection
 
