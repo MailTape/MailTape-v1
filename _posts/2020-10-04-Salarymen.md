@@ -16,6 +16,7 @@ track3_color: vibrant
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/419/track2.mp3'
 track2_color: trippy
 track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
+track4_title: Salarymen - Runaway
 ---
 ## A New Post
 
