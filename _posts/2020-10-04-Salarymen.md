@@ -9,6 +9,8 @@ guest_color: vibrant
 track1_title: Weyes Blood - Andromeda
 track2_title: The Lemon Twigs - Frank
 track3_title: Whitney - Golden Days
+track1_link: 'https://soundcloud.com/subpop/weyes-blood-andromeda'
+track3_link: 'https://soundcloud.com/secretlycanadian/whitney-golden-days-1'
 ---
 ## A New Post
 
