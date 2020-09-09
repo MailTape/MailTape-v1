@@ -20,18 +20,18 @@ Lexi Vega played drums in the Los Angeles indie scene for many years before emer
 
 # Salarymen's selection
 
-## [Weyes Blood](https://porchesmusic.com/) - Andromeda
-Mini Trees: **"**Everything about this song is incredibly soothing - from the stunning vocals, to the whimsical guitars and the dreamy synths. It was actually produced by one of our other favourite artists, Foxygen. I can’t help but stop what I’m doing, and sing along to this track when it comes on. It’s beautifully reflective and well-written, and is the perfect soundtrack to a relaxing Sunday.**"**
+## [Weyes Blood](https://weyesblood.bandcamp.com/) - Andromeda
+Salarymen: **"**Everything about this song is incredibly soothing - from the stunning vocals, to the whimsical guitars and the dreamy synths. It was actually produced by one of our other favourite artists, Foxygen. I can’t help but stop what I’m doing, and sing along to this track when it comes on. It’s beautifully reflective and well-written, and is the perfect soundtrack to a relaxing Sunday.**"**
 
-## [The Lemon Twigs](https://lomelda.bandcamp.com/) - Frank
-Mini Trees: **"**I have always wanted to write something about this song - it’s so eccentric, and delivers a real classic Frank Sinatra vibe. The creativity and musicianship is insane, with the whole song building up section by section. The intro sets the scene beautifully, and when the rhythm section come in at the 1:30 mark, I always get a rush of energy because its so damn good.**"** 
+## [The Lemon Twigs](https://thelemontwigs.bandcamp.com/) - Frank
+Salarymen: **"**I have always wanted to write something about this song - it’s so eccentric, and delivers a real classic Frank Sinatra vibe. The creativity and musicianship is insane, with the whole song building up section by section. The intro sets the scene beautifully, and when the rhythm section come in at the 1:30 mark, I always get a rush of energy because its so damn good.**"** 
 
-## [Whitney](https://www.asgeirmusic.com/) - Golden Days
-Mini Trees: **"**This song has such beautiful instrumentation and a lovely sentiment to match - we could never get tired of listening to it. From the dreamy slide guitars to the brass section, it perfectly captures a sense of nostalgia and longing for a better time, always leaving a smile on our face.**"**
+## [Whitney](https://whitneychicago.bandcamp.com/) - Golden Days
+Salarymen: **"**This song has such beautiful instrumentation and a lovely sentiment to match - we could never get tired of listening to it. From the dreamy slide guitars to the brass section, it perfectly captures a sense of nostalgia and longing for a better time, always leaving a smile on our face.**"**
 
 # MailTape's selection
 
-## [Mini Trees](https://minitrees.bandcamp.com/) – Honestly
+## [Salarymen](https://salarymen.bandcamp.com/) – Honestly
 Sarah: **"**This song is part of the new EP released by Mini Trees, and I replayed it over and over as soon as I heard it. There's a hint of the Sufjan Stevens influence she talks of, but Mini Trees departs into a style completely her own. **Honestly** creates an absolutely mesmerizing harmony of soaring vocals backed with effortless guitar melodies. Her lyrics detail a deeply intricate emotional analysis, something that stands out about Mini Trees music as a whole. The song builds upon itself and steps down just as easily.**"**
 
 ## [Genevieve Stokes](https://www.facebook.com/hiigenevieve/) – Lonely And Bored
