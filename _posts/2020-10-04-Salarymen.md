@@ -19,7 +19,7 @@ track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 ---
 ## A New Post
 
-<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, this duo is absolutely dynamic, combining retro and modern vibes, . 
+<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, this duo is absolutely dynamic, combining retro and modern vibes, 
 
 Salarymen 
 
