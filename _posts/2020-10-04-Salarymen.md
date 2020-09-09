@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+category: '419'
+guest_name: Salarymen
+guest_color: vibrant
+track1_title: Weyes Blood - Andromeda
+track2_title: The Lemon Twigs - Frank
+track3_title: Whitney - Golden Days
 ---
 ## A New Post
 
