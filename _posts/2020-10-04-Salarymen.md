@@ -37,8 +37,8 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 
 # MailTape's selection
 
-## [Salarymen](https://salarymen.bandcamp.com/) – Honestly
-Sarah: **"**This song is part of the new EP released by Mini Trees, and I replayed it over and over as soon as I heard it. There's a hint of the Sufjan Stevens influence she talks of, but Mini Trees departs into a style completely her own. **Honestly** creates an absolutely mesmerizing harmony of soaring vocals backed with effortless guitar melodies. Her lyrics detail a deeply intricate emotional analysis, something that stands out about Mini Trees music as a whole. The song builds upon itself and steps down just as easily.**"**
+## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
+Sarah: **"**This song!**"**
 
 ## [Genevieve Stokes](https://www.facebook.com/hiigenevieve/) – Lonely And Bored
 Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collection hits you just as its sadness does. Through all of her harmonies and beautiful vocals, there's an angelic simplicity in Stokes' music that I didn't know I was craving. The wonderfully strange quality with songs like this is that you start to feel nostalgic for something you’ve never experienced. It’s over too soon, beautiful beautiful beautiful :)**"**
