@@ -13,6 +13,7 @@ track1_link: 'https://soundcloud.com/subpop/weyes-blood-andromeda'
 track3_link: 'https://soundcloud.com/secretlycanadian/whitney-golden-days-1'
 track1_color: vibrant
 track3_color: vibrant
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/419/track2.mp3'
 ---
 ## A New Post
 
