@@ -43,7 +43,7 @@ Dombrance: **"**When you just woke up. Still in dreamy state. You watch a bird f
 ## Dope Lemon – Hey You
 Dombrance: **"**Finally you go back to bed for a little nap. Nothing’s better than this foggy song to back in Morphee's arms. Can’t stop listening to Dope Lemon’s last album.**"**
 
-##  – 
+## Andy Shauf  – Neon Skyline
 Dombrance: **"**It’s time to prepare the breakfast. Can hear the kids laughing. Family time.
 Andy Shauf is the best song writer a the moment. Love the vibe of this song with the « McCartney bass line »  seems easy but it’s not.**"**
 
@@ -53,13 +53,13 @@ Andy Shauf is the best song writer a the moment. Love the vibe of this song with
 ## Dombrance - 
 Anaïs G: **"** **"**
 
-##
+## XXXIII - Encore Un Etrange Sentiment
 Anaïs G: **"** **"**
 
-## 
+## Fulgeance - Ensemble 
 Anaïs G: **"** **"**
 
-## 
+## Weval - 
 Anaïs G: **"** **"**
 
 
