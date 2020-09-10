@@ -22,6 +22,12 @@ track2_title: Dope Lemon - Hey You
 track2_color: dreamy
 track3_title: Andy Shauf - Neon Skyline
 track3_color: bliss
+track5_title: XXXIII - Encore Un Etrange Sentiment
+track5_color: trippy
+track6_title: 'Fulgeance - Ensemble '
+track6_color: bliss
+track7_title: 'Weval - '
+track7_color: dreamy
 ---
 </p>This morning  
 <br><br>
