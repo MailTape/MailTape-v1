@@ -29,7 +29,7 @@ track6_color: bliss
 track7_title: 'Weval - '
 track7_color: dreamy
 ---
-</p>This morning  
+</p>This morning  Dombrance politique élection soleil disco artwork sympa electro orginal 
 <br><br>
 
 </p>
@@ -37,29 +37,29 @@ track7_color: dreamy
 
 # Dombrance's selection
 
-## Pink Floyd – A Pillow Of Winds
+## [Pink Floyd](https://www.pinkfloyd.com/home.php) – A Pillow Of Winds
 Dombrance: **"**When you just woke up. Still in dreamy state. You watch a bird flying by the window with a nice coffee in your hand . David Gilmour is the god of steel guitar.**"**
 
-## Dope Lemon – Hey You
+## [Dope Lemon](https://www.dopelemon.com/) – Hey You
 Dombrance: **"**Finally you go back to bed for a little nap. Nothing’s better than this foggy song to back in Morphee's arms. Can’t stop listening to Dope Lemon’s last album.**"**
 
-## Andy Shauf  – The Neon Skyline
+## [Andy Shauf](https://andyshauf.com/)  –   Neon Skyline
 Dombrance: **"**It’s time to prepare the breakfast. Can hear the kids laughing. Family time.
 Andy Shauf is the best song writer a the moment. Love the vibe of this song with the « McCartney bass line »  seems easy but it’s not.**"**
 
 
 # MailTape's selection
 
-## Dombrance - 
+## [Dombrance](https://www.facebook.com/Dombrance) - 
 Anaïs G: **"** **"**
 
-## XXXIII - Encore Un Etrange Sentiment
+## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
 Anaïs G: **"** **"**
 
-## Fulgeance - Ensemble 
+## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
 Anaïs G: **"** **"**
 
-## Weval - 
+## [Weval](https://weval.net/#/) - 
 Anaïs G: **"** **"**
 
 
