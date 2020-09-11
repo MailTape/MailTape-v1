@@ -38,7 +38,7 @@ description: ''
 ---
 </p>This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 
 <br><br>
-Dombrance, aka Bertrand Lacombe, takes us out of our comfort zone with whimsical sounds. He confronts us with politics or rather with some important figures who have been part of the political class. From Giscard d’Estaing to Raffarin, passing by Fillon, all of them not. Whether we like it or not, we stress the originality of the musical project.
+[Dombrance](https://soundcloud.com/dombrance), aka Bertrand Lacombe, takes us out of our comfort zone with whimsical sounds. He confronts us with politics or rather with some important figures who have been part of the political class. From Giscard d’Estaing to Raffarin, passing by Fillon, all of them not. Whether we like it or not, we stress the originality of the musical project.
 </p>
 
 
@@ -70,4 +70,4 @@ Anaïs G: **"**At this point in the morning, it’s time to get out of the duvet
 Anaïs G: **"**And to finish this crazy sunday selection, we fly off with [Weval’s](https://www.facebook.com/wevalmusic) pop-electronics, taking the height to hover over and over again.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Dombrance  for his Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Dombrance](https://soundcloud.com/dombrance)  for his Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
