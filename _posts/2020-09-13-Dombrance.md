@@ -58,7 +58,7 @@ Andy Shauf is the best song writer a the moment. Love the vibe of this song with
 # MailTape's selection
 
 ## [Dombrance](https://www.facebook.com/Dombrance) - Taubira 
-Anaïs G: **"**"Taubira" ce fut comme une évidence pour moi. Lanscinante, calme et éclairé, cette ritournelle electro-disco agit sur nous comme une médicament. Et ce visuel de l'artwork de Mme Taubira en sage, version maitre yoda fait par Olivier Laude est juste incroyable!**"**
+Anaïs G: **"**“Taubira” was like an obvious thing to me. Lanscinante, calm and enlightened, this electro-disco rhythm acts on us like a drug. And this visual of Mme Taubira’s artwork in sage, yoda master version made by Olivier Laude is just amazing!**"**
 
 ## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
 Anaïs G: **"**"L'odeur de l'orage" c'est le nom de l'EP de XXXIII sur lequelle je suis tombée totalement par hasard sur le site du label Musique Large. Rien que le nom est une invitation à la curiosité. Je me suis donc laissée guider jusqu'à tomber sur "Encore Un Etrange Sentiment".C'est un peu ce que l'on ressent en l'écoutant, quelque chose d'indescriptible, une sensation bizarre.. Un ovni musical à savourer! **"**
