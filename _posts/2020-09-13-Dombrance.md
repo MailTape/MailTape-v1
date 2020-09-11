@@ -11,15 +11,13 @@ category: '416'
 illustrator: Jason Pridham
 author: Anaïs G
 published: false
-writer: ''
-track1_link: ''
-track2_link: 'https://soundcloud.com/dopelemon/hey-you'
-track3_link: 'https://soundcloud.com/andyshauf/neon-skyline'
-track4_link: ''
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/416/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/416/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/416/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/416/track4.mp3'
 track5_link: >-
   https://soundcloud.com/xxxiii-452513197/06-encore-un-etrange-sentiment?in=xxxiii-452513197/sets/lodeur-de-lorage
 track6_link: 'https://soundcloud.com/musiquelarge/fulgeance-ensemble'
-track7_link: ''
 track1_title: Pink Flyod - A Pillow Of Winds
 track1_color: dreamy
 track2_title: Dope Lemon - Hey You
@@ -34,7 +32,6 @@ track6_title: 'Fulgeance - Ensemble '
 track6_color: bliss
 track7_title: 'Weval - '
 track7_color: dreamy
-description: ''
 ---
 </p>This morning  Dombrance politique élection soleil disco artwork sympa electro orginal 
 <br><br>
