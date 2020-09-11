@@ -11,7 +11,7 @@ category: '416'
 illustrator: Jason Pridham
 author: Anaïs G
 published: true
-writer: ''
+writer: Anaïs G
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/416/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/416/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/416/track3.mp3'
@@ -34,7 +34,6 @@ track6_title: 'Fulgeance - Ensemble '
 track6_color: bliss
 track7_title: Weval - The Weight
 track7_color: vibrant
-description: ''
 ---
 </p>This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 
 <br><br>
