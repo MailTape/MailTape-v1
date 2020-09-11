@@ -52,16 +52,16 @@ Dombrance: **"**Finally you go back to bed for a little nap. Nothing’s better 
 
 ## [Andy Shauf](https://andyshauf.com/)  –   Neon Skyline
 Dombrance: **"**It’s time to prepare the breakfast. Can hear the kids laughing. Family time.
-Andy Shauf is the best song writer a the moment. Love the vibe of this song with the « McCartney bass line »  seems easy but it’s not.**"**
+[Andy Shauf](https://www.facebook.com/andyshaufmusic) is the best song writer a the moment. Love the vibe of this song with the « McCartney bass line »  seems easy but it’s not.**"**
 
 
 # MailTape's selection
 
 ## [Dombrance](https://www.facebook.com/Dombrance) - Taubira 
-Anaïs G: **"**“Taubira” was like an obvious thing to me. Lanscinante, calm and enlightened, this electro-disco rhythm acts on us like a drug. And this visual of Mme Taubira’s artwork in sage, yoda master version made by Olivier Laude is just amazing!**"**
+Anaïs G: **"**“Taubira” was like an obvious thing to me. Lanscinante, calm and enlightened, this electro-disco rhythm acts on us like a drug. And this visual of [Mme Taubira](https://fr.wikipedia.org/wiki/Christiane_Taubira)’s artwork in sage, yoda master version made by [Olivier Laude](https://www.behance.net/olivierlau1756) is just amazing!**"**
 
 ## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
-Anaïs G: **"**"L'odeur de l'orage" is the name of the XXXIII EP I came across by chance on the Musique Large label's website. The name alone is an invitation to curiosity. So I let myself be guided until I stumbled upon "Encore Un Etrange Sentiment". It's a bit like what you feel when you listen to it, something indescribable, a weird sensation... A musical owls to savour!  **"**
+Anaïs G: **"**"L'odeur de l'orage" is the name of the XXXIII EP I came across by chance on the [Musique Large](http://www.musiquelarge.com/) label's website. The name alone is an invitation to curiosity. So I let myself be guided until I stumbled upon "Encore Un Etrange Sentiment". It's a bit like what you feel when you listen to it, something indescribable, a weird sensation... A musical owls to savour!  **"**
 
 ## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
 Anaïs G: **"**At this point in the morning, it’s time to get out of the duvet to move her body. “Ensemble” is  perfect for your morning pool roll. I also recommend the compilation “[LARGE 2020](https://musiquelarge.bandcamp.com/album/large-2020)” released on the label[Musique Large](http://www.musiquelarge.com/), in which the song appears. A nice mix of dance, music and beat orchestrated by new french and international electro talents, what more can you ask for? **"**
