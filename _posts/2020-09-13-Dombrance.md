@@ -56,13 +56,13 @@ Andy Shauf is the best song writer a the moment. Love the vibe of this song with
 # MailTape's selection
 
 ## [Dombrance](https://www.facebook.com/Dombrance) - Taubira 
-Anaïs G: **"** **"**
+Anaïs G: **"**"Taubira" ce fut comme une évidence pour moi. Lanscinante, calme et éclairé, cette ritournelle electro-disco agit sur nous comme une médicament. Et ce visuel de l'artwork de Mme Taubira en sage, version maitre yoda fait par Olivier Laude est juste incroyable!**"**
 
 ## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
-Anaïs G: **"** **"**
+Anaïs G: **"**"L'odeur de l'orage" c'est le nom de l'EP de XXXIII sur lequelle je suis tombée totalement par hasard sur le site du label Musique Large. Rien que le nom est une invitation à la curiosité. Je me suis donc laissée guider jusqu'à tomber sur "Encore Un Etrange Sentiment".C'est un peu ce que l'on ressent en l'écoutant, quelque chose d'indescriptible, une sensation bizarre.. Un ovni musical à savourer! **"**
 
 ## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
-Anaïs G: **"** **"**
+Anaïs G: **"**A ce stade de la matinée, il est temps de sortir de la couette pour bouger son body."Ensemble" est donc parfaite pour votre roullement de bassin matinale. Je conseille aussi la compilation "LARGE 2020" sorti sur le label Musique Large, dans laquelle figure la chanson. Un joli mélange de danse et de beat orchestrée par de nouveaux talents electro français et internationaux, que demander de plus ?    **"**
 
 ## [Weval](https://weval.net/#/) - The Weight
 Anaïs G: **"** **"**
