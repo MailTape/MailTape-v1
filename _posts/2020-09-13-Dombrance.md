@@ -54,7 +54,7 @@ Andy Shauf is the best song writer a the moment. Love the vibe of this song with
 
 # MailTape's selection
 
-## [Dombrance](https://www.facebook.com/Dombrance) - 
+## [Dombrance](https://www.facebook.com/Dombrance) - Taubira 
 Anaïs G: **"** **"**
 
 ## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
@@ -63,7 +63,7 @@ Anaïs G: **"** **"**
 ## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
 Anaïs G: **"** **"**
 
-## [Weval](https://weval.net/#/) - 
+## [Weval](https://weval.net/#/) - The Weight
 Anaïs G: **"** **"**
 
 
