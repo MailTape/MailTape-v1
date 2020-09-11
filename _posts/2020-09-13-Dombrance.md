@@ -11,6 +11,7 @@ category: '416'
 illustrator: Jason Pridham
 author: Anaïs G
 published: false
+writer: ''
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/416/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/416/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/416/track3.mp3'
@@ -33,10 +34,11 @@ track6_title: 'Fulgeance - Ensemble '
 track6_color: bliss
 track7_title: Weval - The Weight
 track7_color: vibrant
+description: ''
 ---
-</p>This morning, on ne sait pas si c'est de la folie ou de la provocation, mais ce qui est certain c'est que l'amour de la musique, de la fete et de la politique ( oui oui vous ne revez pas, c'est possible) de notre invité, ne nous laisse pas indifférent. 
+</p>This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 
 <br><br>
-Dombrance, aka Bertrand Lacombe, nous sort de notre zone de confort avec des sons plus farfelus les un que les autres. Il nous confronte à la politique ou plutot à certains personnages importants qui ont fait partis de la classe politique. De Giscard d'Estaing à Raffarin en passant par Fillon, tous y pas. Que l'on n'aime ou pas, on souligne l'originalité du projet musical. 
+Dombrance, aka Bertrand Lacombe, takes us out of our comfort zone with whimsical sounds. He confronts us with politics or rather with some important figures who have been part of the political class. From Giscard d’Estaing to Raffarin, passing by Fillon, all of them not. Whether we like it or not, we stress the originality of the musical project.
 </p>
 
 
@@ -62,10 +64,10 @@ Anaïs G: **"**"Taubira" ce fut comme une évidence pour moi. Lanscinante, calme
 Anaïs G: **"**"L'odeur de l'orage" c'est le nom de l'EP de XXXIII sur lequelle je suis tombée totalement par hasard sur le site du label Musique Large. Rien que le nom est une invitation à la curiosité. Je me suis donc laissée guider jusqu'à tomber sur "Encore Un Etrange Sentiment".C'est un peu ce que l'on ressent en l'écoutant, quelque chose d'indescriptible, une sensation bizarre.. Un ovni musical à savourer! **"**
 
 ## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
-Anaïs G: **"**A ce stade de la matinée, il est temps de sortir de la couette pour bouger son body."Ensemble" est donc parfaite pour votre roullement de bassin matinale. Je conseille aussi la compilation "LARGE 2020" sorti sur le label Musique Large, dans laquelle figure la chanson. Un joli mélange de danse et de beat orchestrée par de nouveaux talents electro français et internationaux, que demander de plus ?    **"**
+Anaïs G: **"**A ce stade de la matinée, il est temps de sortir de la couette pour bouger son body."Ensemble" est donc parfaite pour votre roullement de bassin matinale. Je conseille aussi la compilation "LARGE 2020" sorti sur le label Musique Large, dans laquelle figure la chanson. Un joli mélange de danse, de musique et de beat orchestrée par de nouveaux talents electro français et internationaux, que demander de plus ?    **"**
 
 ## [Weval](https://weval.net/#/) - The Weight
-Anaïs G: **"** **"**
+Anaïs G: **"**Et pour finir cette folle selection du dimanche, on s'envole avec la pop-electronique de Weval en prenant de la hauteur pour planer encore et encore.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Dombrance  for his Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
