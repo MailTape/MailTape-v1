@@ -18,20 +18,21 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/416/track4.mp3'
 track5_link: >-
   https://soundcloud.com/xxxiii-452513197/06-encore-un-etrange-sentiment?in=xxxiii-452513197/sets/lodeur-de-lorage
 track6_link: 'https://soundcloud.com/musiquelarge/fulgeance-ensemble'
+track7_link: 'https://soundcloud.com/weval/the-weight-2'
 track1_title: Pink Flyod - A Pillow Of Winds
 track1_color: dreamy
 track2_title: Dope Lemon - Hey You
 track2_color: dreamy
 track3_title: Andy Shauf - Neon Skyline
 track3_color: bliss
-track4_title: 'Dombrance - '
-track4_color: bliss
+track4_title: Dombrance - Taubira
+track4_color: dreamy
 track5_title: XXXIII - Encore Un Etrange Sentiment
 track5_color: trippy
 track6_title: 'Fulgeance - Ensemble '
 track6_color: bliss
-track7_title: 'Weval - '
-track7_color: dreamy
+track7_title: Weval - The Weight
+track7_color: vibrant
 ---
 </p>This morning  Dombrance politique élection soleil disco artwork sympa electro orginal 
 <br><br>
