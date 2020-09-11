@@ -34,9 +34,9 @@ track6_color: bliss
 track7_title: Weval - The Weight
 track7_color: vibrant
 ---
-</p>This morning  Dombrance politique élection soleil disco artwork sympa electro orginal 
+</p>This morning, on ne sait pas si c'est de la folie ou de la provocation, mais ce qui est certain c'est que l'amour de la musique, de la fete et de la politique ( oui oui vous ne revez pas, c'est possible) de notre invité, ne nous laisse pas indifférent. 
 <br><br>
-
+Dombrance, aka Bertrand Lacombe, nous sort de notre zone de confort avec des sons plus farfelus les un que les autres. Il nous confronte à la politique ou plutot à certains personnages importants qui ont fait partis de la classe politique. De Giscard d'Estaing à Raffarin en passant par Fillon, tous y pas. Que l'on n'aime ou pas, on souligne l'originalité du projet musical. 
 </p>
 
 
