@@ -34,6 +34,10 @@ track6_title: 'Fulgeance - Ensemble '
 track6_color: bliss
 track7_title: Weval - The Weight
 track7_color: vibrant
+description: >-
+  This morning, we don’t know if it’s madness or provocation, but what’s certain
+  is that the love of music, party and politics (yes, you don’t dream, it’s
+  possible) of our guest, doesn’t leave us indifferent.
 ---
 </p>This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 
 <br><br>
