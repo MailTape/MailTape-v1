@@ -61,13 +61,13 @@ Andy Shauf is the best song writer a the moment. Love the vibe of this song with
 Anaïs G: **"**“Taubira” was like an obvious thing to me. Lanscinante, calm and enlightened, this electro-disco rhythm acts on us like a drug. And this visual of Mme Taubira’s artwork in sage, yoda master version made by Olivier Laude is just amazing!**"**
 
 ## [XXXIII](https://musiquelarge.bandcamp.com/album/lodeur-de-lorage) - Encore Un Etrange Sentiment
-Anaïs G: **"**"L'odeur de l'orage" c'est le nom de l'EP de XXXIII sur lequelle je suis tombée totalement par hasard sur le site du label Musique Large. Rien que le nom est une invitation à la curiosité. Je me suis donc laissée guider jusqu'à tomber sur "Encore Un Etrange Sentiment".C'est un peu ce que l'on ressent en l'écoutant, quelque chose d'indescriptible, une sensation bizarre.. Un ovni musical à savourer! **"**
+Anaïs G: **"**"L'odeur de l'orage" is the name of the XXXIII EP I came across by chance on the Musique Large label's website. The name alone is an invitation to curiosity. So I let myself be guided until I stumbled upon "Encore Un Etrange Sentiment". It's a bit like what you feel when you listen to it, something indescribable, a weird sensation... A musical owls to savour!  **"**
 
 ## [Fulgeance](https://soundcloud.com/fulgeance) - Ensemble 
-Anaïs G: **"**A ce stade de la matinée, il est temps de sortir de la couette pour bouger son body."Ensemble" est donc parfaite pour votre roullement de bassin matinale. Je conseille aussi la compilation "LARGE 2020" sorti sur le label Musique Large, dans laquelle figure la chanson. Un joli mélange de danse, de musique et de beat orchestrée par de nouveaux talents electro français et internationaux, que demander de plus ?    **"**
+Anaïs G: **"**At this point in the morning, it’s time to get out of the duvet to move her body. “Ensemble” is  perfect for your morning pool roll. I also recommend the compilation “[LARGE 2020](https://musiquelarge.bandcamp.com/album/large-2020)” released on the label[Musique Large](http://www.musiquelarge.com/), in which the song appears. A nice mix of dance, music and beat orchestrated by new french and international electro talents, what more can you ask for? **"**
 
 ## [Weval](https://weval.net/#/) - The Weight
-Anaïs G: **"**Et pour finir cette folle selection du dimanche, on s'envole avec la pop-electronique de Weval en prenant de la hauteur pour planer encore et encore.**"**
+Anaïs G: **"**And to finish this crazy sunday selection, we fly off with [Weval’s](https://www.facebook.com/wevalmusic) pop-electronics, taking the height to hover over and over again.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Dombrance  for his Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
