@@ -39,6 +39,7 @@ description: >-
   is that the love of music, party and politics (yes, you don’t dream, it’s
   possible) of our guest, doesn’t leave us indifferent.
 ---
+
 <p id="introduction">This morning, we don’t know if it’s madness or provocation, but what’s certain is that the love of music, party and politics (yes, you don’t dream, it’s possible) of our guest, doesn’t leave us indifferent. 
 <br><br>
 [Dombrance](https://soundcloud.com/dombrance), aka Bertrand Lacombe, takes us out of our comfort zone with whimsical sounds. He confronts us with politics or rather with some important figures who have been part of the political class. From [Giscard d’Estaing](https://fr.wikipedia.org/wiki/Valéry_Giscard_d%27Estaing) to [Raffarin](https://fr.wikipedia.org/wiki/Jean-Pierre_Raffarin), passing by [Fillon](https://fr.wikipedia.org/wiki/François_Fillon), all of them not. Whether we like it or not, we stress the originality of the musical project.
