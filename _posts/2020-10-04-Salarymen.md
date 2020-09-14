@@ -50,7 +50,7 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
 
 ## [Ron Rinaldi](https://www.facebook.com/hiigenevieve/) – Mexican Summer
-Sarah: **"**Love the sunshine energy in this**"**
+Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the jazz backing make such a cool mix.**"**
 
 ## [Abu Jalib (Bobby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
 Sarah: **"**Originally self released in 1974 by Bobby Wright (now Abu Jalib), this song arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC nightclubs to support his family, before two of his band members were drafted overseas, where one member was ultimately killed in action. Abu Jabib recorded this song and one other with the only remaining member, his bassist. Blood of an American is a deeply tender and yet meditative result, as Abu Jalib turns his pain into striking art.**"**
