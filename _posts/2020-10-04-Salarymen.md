@@ -49,7 +49,7 @@ Sarah: **"**The movement on this track is contagious, the piano flourish at the 
 ## [Genevieve Stokes](https://www.facebook.com/hiigenevieve/) – Lonely And Bored
 Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collection hits you just as its sadness does. Through all of her harmonies and beautiful vocals, there's an angelic simplicity in Stokes' music that I didn't know I was craving. The wonderfully strange quality with songs like this is that you start to feel nostalgic for something you’ve never experienced. It’s over too soon, beautiful beautiful beautiful :)**"**
 
-## [Abu Jalib](https://fengsuave.bandcamp.com/) – Blood Of An American
+## [Abu Jalib (Boby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
 Sarah: **"**This single was originally self-released in 1974. Boby Wright, who now goes by Abu Talib, worked as a construction worker and cab driver while moonlighting as a bandleader in New York City. After his band was torn apart by the Vietnam War—two members were drafted, one of whom was killed in action—he recorded two songs with the only remaining member, his bassist.**"**
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
