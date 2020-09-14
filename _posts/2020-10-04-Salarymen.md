@@ -49,8 +49,8 @@ Sarah: **"**The movement on this track is contagious, the piano flourish at the 
 ## [Genevieve Stokes](https://www.facebook.com/hiigenevieve/) – Lonely And Bored
 Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collection hits you just as its sadness does. Through all of her harmonies and beautiful vocals, there's an angelic simplicity in Stokes' music that I didn't know I was craving. The wonderfully strange quality with songs like this is that you start to feel nostalgic for something you’ve never experienced. It’s over too soon, beautiful beautiful beautiful :)**"**
 
-## [Abu Jalib (Boby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
-Sarah: **"**This single was originally self-released in 1974. Boby Wright, who now goes by Abu Talib, worked as a construction worker and cab driver while moonlighting as a bandleader in New York City. After his band was torn apart by the Vietnam War—two members were drafted, one of whom was killed in action—he recorded two songs with the only remaining member, his bassist.**"**
+## [Abu Jalib (Bobby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
+Sarah: **"**I found this track so meditative and striking that I needed to include it today. Originally self-released in 1974 by Boby Wright (now Abu Jalib), this song arrives as an aftermath of the pain caused by Vietnam. Jalib worked as a cab driver and would sing in NYC nightclubs for extra money. Two of his band members were drafted overseas, and one member was ultimately killed in action. Abu Jabib recorded this song and one other with the only remaining member, his bassist.**"**
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
