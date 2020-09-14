@@ -21,6 +21,8 @@ track4_color: vibrant
 track6_title: Abu Jalib - Blood Of An American
 track6_color: dreamy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
+track5_title: Ron Rinaldi - Mexican Summer
+track5_color: vibrant
 ---
 ## A New Post
 
