@@ -19,6 +19,8 @@ track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Abu Jalib - Blood Of An American
+track6_color: dreamy
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
 ---
 ## A New Post
 
