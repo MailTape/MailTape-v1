@@ -18,6 +18,7 @@ track2_color: trippy
 track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 track4_title: Salarymen - Runaway
 track4_color: vibrant
+track6_title: Abu Jalib - Blood Of An American
 ---
 ## A New Post
 
