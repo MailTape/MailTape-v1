@@ -48,11 +48,11 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 ## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
 Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
 
-## [Genevieve Stokes](https://www.facebook.com/hiigenevieve/) – Lonely And Bored
-Sarah: **"**This is a new release by Genevieve Stokes. The beauty of her collection hits you just as its sadness does. Through all of her harmonies and beautiful vocals, there's an angelic simplicity in Stokes' music that I didn't know I was craving. The wonderfully strange quality with songs like this is that you start to feel nostalgic for something you’ve never experienced. It’s over too soon, beautiful beautiful beautiful :)**"**
+## [Ron Rinaldi](https://www.facebook.com/hiigenevieve/) – Mexican Summer
+Sarah: **"**Love the sunshine energy in this**"**
 
 ## [Abu Jalib (Bobby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
-Sarah: **"**Originally self-released in 1974 by Boby Wright (now Abu Jalib), this song arrives as an aftermath of the pain caused by Vietnam. Jalib worked as a cab driver and would sing in NYC nightclubs to support his family. Two of his band members were drafted overseas, and one member was ultimately killed in action. Abu Jabib recorded this song and one other with the only remaining member, his bassist. Blood of an American is a deeply tender and yet meditative result, as Abu Jalib turns his pain into striking art.**"**
+Sarah: **"**Originally self released in 1974 by Bobby Wright (now Abu Jalib), this song arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC nightclubs to support his family, before two of his band members were drafted overseas, where one member was ultimately killed in action. Abu Jabib recorded this song and one other with the only remaining member, his bassist. Blood of an American is a deeply tender and yet meditative result, as Abu Jalib turns his pain into striking art.**"**
 
 ## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
 Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
