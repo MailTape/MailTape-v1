@@ -19,11 +19,13 @@ track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Abu Jalib - Blood Of An American
-track6_color: dreamy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
+track6_color: trippy
 track5_title: Ron Rinaldi - Mexican Summer
 track5_color: vibrant
 track5_link: 'https://soundcloud.com/needsandwants/ron-rinaldi-mexican-summer'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
+track7_title: Laraaji - Laws of Manifestation
+track7_color: dreamy
 ---
 ## A New Post
 
@@ -55,7 +57,7 @@ Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the 
 ## [Abu Jalib (Bobby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
 Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
 
-## [Golden Daze](https://goldendaze.bandcamp.com/album/simpatico) – Lynard Bassman
-Sarah: **"**This year, Golden Daze released the demos of their 2019 album, Simpatico. I rediscovered the tracks and fell in love with this one. The 70's psychedelic folk influences are a killer combination with the guitar leading us through the song's motions. I've been going for drives late at night and this has been on my playlist. It's nice in the dark, but I think it'll make a good fit for Sunday mornings, too.**"**
+## [Abu Jalib (Bobby Wright](https://goldendaze.bandcamp.com/album/simpatico) – Blood of an American
+Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
