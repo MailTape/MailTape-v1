@@ -57,7 +57,7 @@ Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the 
 ## [Abu Jalib (Bobby Wright)](https://fengsuave.bandcamp.com/) – Blood Of An American
 Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
 
-## [Abu Jalib (Bobby Wright](https://goldendaze.bandcamp.com/album/simpatico) – Blood of an American
-Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
+## [Laraaji](https://goldendaze.bandcamp.com/album/simpatico) – Laws of Manifestation
+Sarah: **"**I listen to this song every morning**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
