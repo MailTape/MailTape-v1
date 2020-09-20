@@ -19,13 +19,13 @@ track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Abu Jalib - Blood Of An American
-track6_color: trippy
+track6_color: dreamy
 track5_title: Ron Rinaldi - Mexican Summer
 track5_color: vibrant
 track5_link: 'https://soundcloud.com/needsandwants/ron-rinaldi-mexican-summer'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
 track7_title: Laraaji - Laws of Manifestation
-track7_color: dreamy
+track7_color: trippy
 ---
 ## A New Post
 
