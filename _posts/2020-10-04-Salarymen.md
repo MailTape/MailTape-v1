@@ -57,6 +57,10 @@ Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the 
 ## [Laraaji](https://fengsuave.bandcamp.com/) – Laws of Manifestation
 Sarah: **"**I listen to this song every morning.**"**
 
+Caitlin Harnett & The Pony Boys - Make You Feel Blue / 5am
+Porridge Radio - 7 Seconds
+Blitzen Trapper - Magical Thinking
+
 ## [Abu Jalib (Bobby Wright](https://atico) – Blood of an American
 Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
 
