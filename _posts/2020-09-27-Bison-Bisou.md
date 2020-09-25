@@ -2,7 +2,7 @@
 layout: episode
 episode_URL: 'http://mailta.pe/418/bison-bisou/'
 track7_color: trippy
-track7_title: Moon Duo - Sleepwalker
+track7_title: 'Map of Africa - Bone '
 bigTitle_font_ratio: '6'
 track6_color: rough
 track6_title: Mama's Gun - Shield & Shelter
@@ -16,7 +16,6 @@ track2_color: rough
 track2_title: Girl Band - Shoulderblades
 track1_color: vibrant
 track1_title: 'Jenny Hval - The Great Undressing '
-track7_link: 'https://soundcloud.com/moon-duo/moon-duo-sleepwalker'
 track5_link: 'https://soundcloud.com/lagasta/hidden-fees-lo-what'
 track3_link: 'https://soundcloud.com/prayersofficial/from-dog-to-god'
 track1_link: 'https://soundcloud.com/jennyhval/the-great-undressing-5'
