@@ -59,7 +59,7 @@ Anaïs G: **"**A band straight out of New York, with an old school song with tun
 ## [Mama's Gun](https://www.facebook.com/MamasGunMusic/) – Shield & Shelter
 Anaïs G: **"**During the auditions for "Les Inouis du Printemps de Bourges" last year at the [CCM John Lennon](https://www.facebook.com/ccmjohnlennon/) in Limoges, I discovered a band with incredible energy and a crazy universe, [Mama's Gun](https://soundcloud.com/mamas-gun-77509736). A crush that I share here!**"**
 
-## Map of Africa  – Bone
+## [Map of Africa](https://soundcloud.com/map-of-africa)  – Bone
 Anaïs G: **"**Sometimes I come across nuggets, and the Map of Africa group is one of them. A perfect sound with a touch of blues, a somewhat wandered voice and a somewhat sexy mood in the use of guitars that transcends us!**"**
 
 
