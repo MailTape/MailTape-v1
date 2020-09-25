@@ -39,7 +39,7 @@ description: >-
   elements with big guitar riffs, big sounds that tap and accompany the musical
   selection of the band Bison Bisou to warm up the atmosphere.
 ---
-<p id="introduction">
+<p id="introduction">This morning, we are in transition from remembering the warmth of our summer to the coolness of the rainy days. It's all about fighting the outside elements with big guitar riffs, big sounds that tap and accompany the musical selection of the band Bison Bisou to warm up the atmosphere.
 
 It is under this pretty name that he destroys the codes and creates the contrast with their music. Powerful rock to wake up your body, and your mind, [Bison Bisou](https://bisonbisou.bandcamp.com/) understands that. A soundtrack accompanying our energetic mornings running on the beach or our long summer evenings around a fire with friends.
 </p>
