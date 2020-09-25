@@ -27,7 +27,7 @@ category: '418'
 writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
-published: false
+published: true
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/418/track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/418/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/418/track6.mp3'
@@ -56,11 +56,11 @@ Anaïs G: **"**"Pain & Pleasure", released last October, is an album that accomp
 ## Hidden Fees – So What
 Anaïs G: **"**A band straight out of New York, with an old school song with tunes by Mick Jagger from the Rolling Stone. Sunny and motivating to attack the week ahead!**"**
 
-## Mama's Gun – Shield & Shelter
-Anaïs G: **"** Limoge découverte local rock **"**
+## [Mama's Gun](https://www.facebook.com/MamasGunMusic/) – Shield & Shelter
+Anaïs G: **"**During the auditions for "Les Inouis du Printemps de Bourges" last year at the [CCM John Lennon](https://www.facebook.com/ccmjohnlennon/) in Limoges, I discovered a band with incredible energy and a crazy universe, [Mama's Gun](https://soundcloud.com/mamas-gun-77509736). A crush that I share here!**"**
 
-## Moon Duo  – Sleepwalker
-Anaïs G: **"**  **"**
+## Map of Africa  – Bone
+Anaïs G: **"**Sometimes I come across nuggets, and the Map of Africa group is one of them. A perfect sound with a touch of blues, a somewhat wandered voice and a somewhat sexy mood in the use of guitars that transcends us!**"**
 
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Bison Bisou for this selection, and to Anthony Dujardin for this episode's fantastic illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to [Bison Bisou](https://bisonbisou.bandcamp.com/music)for this selection, and to Anthony Dujardin for this episode's fantastic illustration.</p>
