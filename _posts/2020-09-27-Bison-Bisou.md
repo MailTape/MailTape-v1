@@ -30,6 +30,11 @@ published: true
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/418/track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/418/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/418/track6.mp3'
+description: >-
+  This morning, we are in transition from remembering the warmth of our summer
+  to the coolness of the rainy days. It's all about fighting the outside
+  elements with big guitar riffs, big sounds that tap and accompany the musical
+  selection of the band Bison Bisou to warm up the atmosphere.
 ---
 <p id="introduction">This morning, we are in transition from remembering the warmth of our summer to the coolness of the rainy days. It's all about fighting the outside elements with big guitar riffs, big sounds that tap and accompany the musical selection of the band [Bison Bisou](http://bisonbisou.com/) to warm up the atmosphere.
   
