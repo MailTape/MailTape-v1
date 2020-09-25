@@ -32,20 +32,20 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/418/track2.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/418/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/418/track6.mp3'
 ---
-<p id="introduction">This morning, we are on our way to the holidays, ready to dive into the waves dressed in our best swimsuit. To accompany these first hours of sunshine and warm sand on our bodies nothing better than Bison Bisou to warm up the atmosphere even more.
+<p id="introduction">This morning, we are in transition from remembering the warmth of our summer to the coolness of the rainy days. It's all about fighting the outside elements with big guitar riffs, big sounds that tap and accompany the musical selection of the band [Bison Bisou](http://bisonbisou.com/) to warm up the atmosphere.
   
-It is under this pretty name that he destroys the codes and creates the contrast with their music. Powerful rock to wake up your body, and your mind, Bison Bisous understands that. A soundtrack accompanying our energetic mornings running on the beach or our long summer evenings around a fire with friends.
+It is under this pretty name that he destroys the codes and creates the contrast with their music. Powerful rock to wake up your body, and your mind, [Bison Bisou](https://bisonbisou.bandcamp.com/) understands that. A soundtrack accompanying our energetic mornings running on the beach or our long summer evenings around a fire with friends.
 </p>
 
 # Bison Bisou's selection
 
 ## Jenny Hval - The Great Undressing
-Bison Bisou: **"**The way Jenny Hval criticizes capitalism and sexism is so sweet and pure. This song is one of the most clever lullabies ever. Marvelous like a never-ending-wishing dream.**"**
+Bison Bisou: **"**The way [Jenny Hval](http://jennyhval.com/) criticizes capitalism and sexism is so sweet and pure. This song is one of the most clever lullabies ever. Marvelous like a never-ending-wishing dream.**"**
 
-## Girl Band - Shoulderblade
-Bison Bisou: **"**We expected a lot from Girl Band after listening to their music and watching their lives for a while.We weren’t disappointed when we saw their new video for Shoulderblade : after countless times seeing it, we still share the same weird shiver, out of some sort of post-industrial transe. It's the ideal song to wake up on a sunday in a dying city.**"** 
+## [Girl Band](https://girlband.ie/) - Shoulderblade
+Bison Bisou: **"**We expected a lot from Girl Band after listening to their music and watching their lives for a while.We weren’t disappointed when we saw their [new video for Shoulderblade](https://www.youtube.com/watch?v=xdnA7qQCF0k) : after countless times seeing it, we still share the same weird shiver, out of some sort of post-industrial transe. It's the ideal song to wake up on a sunday in a dying city.**"** 
 
-##  - 
+## Prayers - From Dog To God
 Bison Bisou: **"**5, 6, 7, 8 in the morning. Walking to the sunrise. Music from broken-mirror smartphone invading the streets. Wondering if you’re a god or a dog, the party was raw. You’re alone in this world like the sun in our solar system.**"**
 
 # MailTape's selection
