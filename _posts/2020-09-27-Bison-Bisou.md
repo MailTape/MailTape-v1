@@ -16,6 +16,7 @@ track2_color: rough
 track2_title: Girl Band - Shoulderblades
 track1_color: vibrant
 track1_title: 'Jenny Hval - The Great Undressing '
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/416/track7.mp3'
 track5_link: 'https://soundcloud.com/lagasta/hidden-fees-lo-what'
 track3_link: 'https://soundcloud.com/prayersofficial/from-dog-to-god'
 track1_link: 'https://soundcloud.com/jennyhval/the-great-undressing-5'
