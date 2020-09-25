@@ -50,11 +50,11 @@ Bison Bisou: **"**5, 6, 7, 8 in the morning. Walking to the sunrise. Music from 
 
 # MailTape's selection
 
-## Bison Bisou – Peaches Forever
-Anaïs G: **"**"Pain & Pleasure", released last October, is an album that accompanied me this winter and again throughout this confinement, during these two months. I didn't think I'd be so turned on by their music, so it was hard for me to choose just one song among the eleven, but I set my heart on Peaches Forever, which represents perfection! Sweet and energetic moments, for a Sunday morning in subdued tones!**"**
+## [Bison Bisou](https://www.facebook.com/BisonBisou) – Peaches Forever
+Anaïs G: **"**"[Pain & Pleasure](https://bisonbisou.bandcamp.com/)", released last October, is an album that accompanied me this winter and again throughout this confinement, during these two months. I didn't think I'd be so turned on by their music, so it was hard for me to choose just one song among the eleven, but I set my heart on Peaches Forever, which represents perfection! Sweet and energetic moments, for a Sunday morning in subdued tones!**"**
 
 ## Hidden Fees – So What
-Anaïs G: **"**A band straight out of New York, with an old school song with tunes by Mick Jagger from the Rolling Stone. Sunny and motivating to attack the week ahead!**"**
+Anaïs G: **"**A band straight out of New York, with an old school song with tunes by [Mick Jagger](https://fr.wikipedia.org/wiki/Mick_Jagger) from [the Rolling Stones](https://fr.wikipedia.org/wiki/The_Rolling_Stones). Sunny and motivating to attack the week ahead!**"**
 
 ## [Mama's Gun](https://www.facebook.com/MamasGunMusic/) – Shield & Shelter
 Anaïs G: **"**During the auditions for "Les Inouis du Printemps de Bourges" last year at the [CCM John Lennon](https://www.facebook.com/ccmjohnlennon/) in Limoges, I discovered a band with incredible energy and a crazy universe, [Mama's Gun](https://soundcloud.com/mamas-gun-77509736). A crush that I share here!**"**
@@ -63,4 +63,4 @@ Anaïs G: **"**During the auditions for "Les Inouis du Printemps de Bourges" las
 Anaïs G: **"**Sometimes I come across nuggets, and the Map of Africa group is one of them. A perfect sound with a touch of blues, a somewhat wandered voice and a somewhat sexy mood in the use of guitars that transcends us!**"**
 
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to [Bison Bisou](https://bisonbisou.bandcamp.com/music)for this selection, and to Anthony Dujardin for this episode's fantastic illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to [Bison Bisou](https://bisonbisou.bandcamp.com/music)for this selection, and to [Anthony Dujardin](http://www.anthonydujardin.com/illustrations/) for this episode's fantastic illustration.</p>
