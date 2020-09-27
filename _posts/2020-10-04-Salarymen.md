@@ -23,9 +23,10 @@ track6_color: trippy
 track5_title: Ron Rinaldi - Mexican Summer
 track5_color: vibrant
 track5_link: 'https://soundcloud.com/needsandwants/ron-rinaldi-mexican-summer'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 track7_title: Laraaji - Laws of Manifestation
 track7_color: dreamy
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
 ---
 ## A New Post
 
