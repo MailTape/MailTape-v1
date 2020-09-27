@@ -63,6 +63,6 @@ Blitzen Trapper - Magical Thinking
 
 
 ## [Chico Bernardes] – Me Encontrar
-Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes provides such a lovely space of music to daydream within, perfect for your dreamy Sunday morning.**"**
+Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes builds such a lovely space of music to daydream within, perfect for your dreamy Sunday morning.**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
