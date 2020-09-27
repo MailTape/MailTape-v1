@@ -49,7 +49,7 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 # MailTape's selection
 
 ## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
-Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
+Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Their use of retro synths and analogs (which, according to the band, are so wonderful but so fragile) make for a distinct spirit in their recordnings. There's also a natural feel to this release that breaks camp from the overly poolished quality we hear in so much music tooday. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
 
 ## [Ron Rinaldi](https://www.facebook.com/hiigenevieve/) – Mexican Summer
 Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the jazz backing make such a cool mix.**"**
@@ -61,7 +61,8 @@ Caitlin Harnett & The Pony Boys - Make You Feel Blue / 5am
 Porridge Radio - 7 Seconds
 Blitzen Trapper - Magical Thinking
 
-## [Abu Jalib (Bobby Wright](https://atico) – Blood of an American
-Sarah: **"**So much soul but falling so gently, Abu Jalib's Blood of An American has become a recent favorite. Originally self released in 1974 by Bobby Wright (now Abu Jalib), this track arrives as an aftermath of the wounds caused by the Vietnam War. Jalib worked as a cab driver and would sing in NYC clubs to support his family, before two of his band members were drafted overseas; where one member was ultimately killed in action. Abu Jabib recorded this song and one other with his bassist, the only remaining band member. Blood of an American is the deeply tender and yet meditative result.**"**
+
+## [Chico Bernardes] – Me Encontrar
+Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes provides such a lovely space of music to daydream within, perfect for your dreamy Sunday morning.**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
