@@ -20,13 +20,20 @@ track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Laraaji - Laws of Manifestation
 track6_color: trippy
-track5_title: Ron Rinaldi - Mexican Summer
+track5_title: Blitzen Trapper - Magical Thinking
 track5_color: vibrant
-track5_link: 'https://soundcloud.com/needsandwants/ron-rinaldi-mexican-summer'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/421/track5.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 track7_title: Chico Bernardes - Me Encontrar
 track7_color: dreamy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
+illustrator: ''
+writer: ''
+guestPic: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 ## A New Post
 
@@ -52,8 +59,8 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 ## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
 Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Their use of retro synths and analogs (which, according to the band, are so wonderful but so fragile) make for a distinct spirit in their recordnings. There's also a natural feel to this release that breaks camp from the overly poolished quality we hear in so much music tooday. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
 
-## [Ron Rinaldi](https://www.facebook.com/hiigenevieve/) – Mexican Summer
-Sarah: **"**I love the sunshine energy in this. The bossa nova accents with the jazz backing make such a cool mix.**"**
+## [Blitzen Trapper](https://www.facebook.com/hiigenevieve/) – Magical Thinking
+Sarah: **"**From Blitzen Trapper's new album, Holy Smokes Future Jokes, Magical Thinking has such a mystical energy about it. **"**
 
 ## [Laraaji](https://fengsuave.bandcamp.com/) – Laws of Manifestation
 Sarah: **"**I listen to this song every morning.**"**
