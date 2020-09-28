@@ -22,18 +22,11 @@ track6_title: Laraaji - Laws of Manifestation
 track6_color: trippy
 track5_title: Blitzen Trapper - Magical Thinking
 track5_color: vibrant
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/421/track5.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/419/track5.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/419/track7.mp3'
 track7_title: Chico Bernardes - Me Encontrar
 track7_color: dreamy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
-illustrator: ''
-writer: ''
-guestPic: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/419/track6.mp3'
 ---
 ## A New Post
 
