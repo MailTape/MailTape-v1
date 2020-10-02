@@ -30,9 +30,8 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/419/track6.mp3'
 ---
 ## A New Post
 
-<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, this duo is absolutely dynamic, combining retro and modern vibes, 
-
-Salarymen 
+<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. 
+This morning, Salarymen brings us a dynamic selection sure to energize and refresh your Sunday morning. 
 
 </p>
 
