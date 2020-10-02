@@ -20,7 +20,7 @@ track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Laraaji - Laws of Manifestation
 track6_color: trippy
-track5_title: Blitzen Trapper - Magical Thinking
+track5_title: Caitlin Harnett - Make You Feel Blue
 track5_color: vibrant
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/419/track5.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/419/track7.mp3'
@@ -51,8 +51,8 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 ## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
 Sarah: **"**The movement on this track is contagious, the piano flourish at the beginning is such a great introduction into the groove. The balance of male and female vocals that Salarymen play on is magical and dynamic. Their use of retro synths and analogs (which, according to the band, are so wonderful but so fragile) make for a distinct spirit in their recordnings. There's also a natural feel to this release that breaks camp from the overly poolished quality we hear in so much music tooday. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely captivating :)**"**
 
-## [Blitzen Trapper](https://www.facebook.com/hiigenevieve/) – Magical Thinking
-Sarah: **"**From Blitzen Trapper's new album, Holy Smokes Future Jokes, Magical Thinking has such a mystical energy about it. **"**
+## [Caitlin Harnett & The Pony Boys](https://www.facebook.com/hiigenevieve/) – Make You Feel Blue
+Sarah: **"**Salarymen introduced me to this song, and I've loved it for the past couple of months. Caitlin Harnett & The Pony Boys bring country influences to the Australian stage, infusing their music with vibrant, nostalgic energy.**"**
 
 ## [Laraaji](https://fengsuave.bandcamp.com/) – Laws of Manifestation
 Sarah: **"**I listen to this song every morning.**"**
