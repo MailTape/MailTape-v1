@@ -31,6 +31,9 @@ guestPic: guestPic419.jpg
 image: 'https://mailta.pe/img/fbPic419.png'
 musiColor: musiColor419.png
 episode_URL: 'http://mailta.pe/419/Salarymen/'
+illustrator: ''
+writer: ''
+description: ''
 ---
 ## A New Post
 
@@ -53,15 +56,15 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 # MailTape's selection
 
 ## [Salarymen](https://salarymen.bandcamp.com/) – Runaway
-Sarah: **"**The piano flourish is such a great introduction into the vibrant on the track. The balance of male and female vocals that Salarymen play on is magical and dynamic. Their use of retro synths and analogs (which, according to the band, are so wonderful but so fragile) make for a distinct spirit in their recordings. There's a natural feel to this release that breaks camp from the overly polished quality we hear in so much music tooday. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely contagious :)**"**
+Sarah: **"**The piano flourish at Runaway's beginning is such a great introduction into the track's vibrance. The use of retro synths and analogs (which, according to the band, are "so wonderful but so fragile") frame Salarymen's distinctive recording spirit. There's a natural feel to this release that survived production, giving us Runaway's not-overly-polished groove. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely contagious :)**"**
 
 ## [Caitlin Harnett & The Pony Boys](https://www.facebook.com/hiigenevieve/) – Make You Feel Blue
-Sarah: **"**Salarymen introduced me to this song, and I've been in love with it for the past couple of months. Caitlin Harnett & The Pony Boys bring country influences to the Australian stage, infusing their music with vibrant, nostalgic energy.**"**
+Sarah: **"**Salarymen introduced me to this song, and I've been in love with it for the past couple of months. Caitlin Harnett & The Pony Boys bring country influences to the Australian stage, with such playful and yet nostalgic flourish.**"**
 
 ## [Laraaji](https://fengsuave.bandcamp.com/) – Laws of Manifestation
-Sarah: **"**I listen to this song every morning.**"**
+Sarah: **"**I listen to this song every morning, and I now know all the words, even the sequence of sounds at the end. I highly recommend learning them, as I am immediately put into a fantastic mood for the rest of my day with each listen. The celestial zira/mbira instrumentals in the background elevate the track into a walking daydream. The laws of manifestation really are on your side this fine Sunday :)**"**
 
 ## [Chico Bernardes] – Me Encontrar
-Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes builds such a lovely space of music to daydream within, perfect for your dreamy Sunday morning.**"**
+Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Brazilian folk artist Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes builds such a lovely and calming space of music to woolgather within, perfect for your Sunday morning.**"**
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Mini Trees for her daydream selection, and to Julie Wo for this episode's fantastic illustration. Happy September!</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Salarymen for this electric selection, you were such a joy to welcome to MailTape. Thank you to Pierre-Julien Fieux for this episode's FANTASTIC illustration. Happy October!</p>
