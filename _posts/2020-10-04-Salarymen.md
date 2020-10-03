@@ -31,9 +31,8 @@ guestPic: guestPic419.jpg
 image: 'https://mailta.pe/img/fbPic419.png'
 musiColor: musiColor419.png
 episode_URL: 'http://mailta.pe/419/Salarymen/'
-illustrator: ''
-writer: ''
-description: ''
+illustrator: Pierre-Julien Fieux
+writer: Sarah
 ---
 ## A New Post
 
