@@ -27,6 +27,10 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/419/track7.mp3'
 track7_title: Chico Bernardes - Me Encontrar
 track7_color: dreamy
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/419/track6.mp3'
+guestPic: guestPic419.jpg
+image: 'https://mailta.pe/img/fbPic419.png'
+musiColor: musiColor419.png
+episode_URL: 'http://mailta.pe/419/Salarymen/'
 ---
 ## A New Post
 
@@ -56,11 +60,6 @@ Sarah: **"**Salarymen introduced me to this song, and I've loved it for the past
 
 ## [Laraaji](https://fengsuave.bandcamp.com/) – Laws of Manifestation
 Sarah: **"**I listen to this song every morning.**"**
-
-Caitlin Harnett & The Pony Boys - Make You Feel Blue / 5am
-Porridge Radio - 7 Seconds
-Blitzen Trapper - Magical Thinking
-
 
 ## [Chico Bernardes] – Me Encontrar
 Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes builds such a lovely space of music to daydream within, perfect for your dreamy Sunday morning.**"**
