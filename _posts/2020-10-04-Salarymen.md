@@ -38,7 +38,7 @@ writer: Sarah
 
 <p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. 
   
-This morning, Salarymen brings us a dynamic selection sure to energize and refresh your Sunday morning.
+This morning, Salarymen brings us a dynamic selection sure to energize and refresh your Sunday morning. 
 
 </p>
 
@@ -67,4 +67,4 @@ Sarah: **"**I listen to this song every morning, and I now know all the words, e
 ## [Chico Bernardes](https://chicobernardes.bandcamp.com/album/chico-bernardes) – Me Encontrar
 Sarah: **"**So much soul in this track but falling so gently, the power in this song snuck up on me. Brazilian folk artist Chico Bernardes laces his swaying instrumentals with the most marked verses. I've been contemplating over "perdido, no mundo em que eu nasci," meaning I am lost in the world I was born in. Chico Bernardes builds such a lovely and calming space of music to woolgather within, perfect for your Sunday morning.**"**
 
-<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Salarymen for this electric selection, you were such a joy to welcome to MailTape. Thank you to Pierre-Julien Fieux for this episode's FANTASTIC illustration. Happy October!</p>
+<p id="outroduction">That's all for this morning! Thank you so much for listening with us. Thank you to Salarymen for this electric selection, you were such a joy to welcome to MailTape. Thank you to [Pierre-Julien Fieux](https://pierrejulienfieux.com/) for this episode's FANTASTIC illustration. Happy October!</p>
