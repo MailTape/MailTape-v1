@@ -33,12 +33,16 @@ musiColor: musiColor419.png
 episode_URL: 'http://mailta.pe/419/Salarymen/'
 illustrator: Pierre-Julien Fieux
 writer: Sarah
+description: >-
+  We are delighted  to welcome Salarymen to host the first MailTape episode of
+  October! Based in Sydney, Salarymen effortlessly blends retro influences into
+  their music, never scraping on their own authentic sound. Salarymen brings to
+  MailTape a dynamic selection sure to energize and refresh your Sunday
+  morning.
 ---
 ## A New Post
 
-<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. 
-  
-This morning, Salarymen brings us a dynamic selection sure to energize and refresh your Sunday morning. 
+<p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. Salarymen brings to MailTape a dynamic selection sure to energize and refresh your Sunday morning. 
 
 </p>
 
