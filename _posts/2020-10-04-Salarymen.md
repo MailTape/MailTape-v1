@@ -37,11 +37,8 @@ description: >-
   We are delighted  to welcome Salarymen to host the first MailTape episode of
   October! Based in Sydney, Salarymen effortlessly blends retro influences into
   their music, never scraping on their own authentic sound. Salarymen brings to
-  MailTape a dynamic selection sure to energize and refresh your Sunday
-  morning.
+  MailTape a dynamic selection sure to energize and refresh your Sunday morning.
 ---
-## A New Post
-
 <p id="introduction">We are delighted  to welcome [Salarymen](https://salarymen.bandcamp.com/) to host the first MailTape episode of October! Based in Sydney, Salarymen effortlessly blends retro influences into their music, never scraping on their own authentic sound. Salarymen brings to MailTape a dynamic selection sure to energize and refresh your Sunday morning. 
 
 </p>
@@ -63,7 +60,7 @@ Salarymen: **"**This song has such beautiful instrumentation and a lovely sentim
 Sarah: **"**The piano flourish at Runaway's beginning is the perfect introduction into the vibrance of the track. The use of retro synths and analogs (which, according to the band, are "so wonderful but so fragile") shape Salarymen's distinctive recording spirit. There's a natural feel to this release that survived production, giving us Runaway's not-overly-polished groove. Not only was this authenticity the goal of Salarymen, it's also part of their striking charm. Listening to the guitar at the end had me dancing around my bedroom, the energy here is absolutely contagious :)**"**
 
 ## [Caitlin Harnett & The Pony Boys](https://caitlinharnett.bandcamp.com/music) – Make You Feel Blue
-Sarah: **"**Salarymen introduced me to this song, and I've been in love with it for the past couple of months. Caitlin Harnett & The Pony Boys bring country influences to the Australian stage, with such playful and yet nostalgic flourish. The romantic imagery in the lyrics always make me smile.**"**
+Sarah: **"**Salarymen introduced me to this song, and I've been in love with it for the past couple of months. Caitlin Harnett & The Pony Boys bring country influences to the Australian stage, with such playful and yet nostalgic flourish. The romantic imagery in the lyrics always makes me smile.**"**
 
 ## [Laraaji](https://laraajimusic.bandcamp.com/) – Laws of Manifestation
 Sarah: **"**I listen to this song every morning, and I now know all the words, even the sequence of sounds at the end. Highly recommend learning them, as I am immediately put into a fantastic mood for the rest of the day with each listen. The celestial zira/mbira instrumentals in the background elevate the track into a walking daydream. The laws of manifestation really are on your side this fine Sunday :)**"**
