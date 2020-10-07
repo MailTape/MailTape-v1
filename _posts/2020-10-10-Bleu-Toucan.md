@@ -2,10 +2,17 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track6_title: 'Paradis - Hémisphère '
+track5_title: Café Lanai - Lanai
+track4_color: dreamy
+track4_title: Bleu Toucan - Le Hublot
+track3_color: bliss
+track3_title: Benny Sings - Sunny Afternoon
 track2_color: vibrant
 track2_title: 'TEED - Don''t you forget about me '
 track1_color: dreamy
 track1_title: Sébastien Tellier - Love
+track5_link: 'https://soundcloud.com/yourcafelanai/lanai'
 track2_link: 'https://soundcloud.com/t-e-e-d/dont-you-forget-about-me-1'
 guestPic: guestPic420.jpg
 guest_color: dreamy
