@@ -2,6 +2,15 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_color: dreamy
+track1_title: Sébastien Tellier - Love
+guestPic: guestPic420.jpg
+guest_color: dreamy
+guest_name: Bleu Toucan
+category: '420'
+writer: Anaïs G
+illustrator: Camille Célestin
+author: Anaïs G
 ---
 <p id="introduction">This morning 
 <br><br>
