@@ -2,6 +2,8 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track2_color: vibrant
+track2_title: 'TEED - Don''t you forget about me '
 track1_color: dreamy
 track1_title: Sébastien Tellier - Love
 guestPic: guestPic420.jpg
