@@ -29,6 +29,7 @@ writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
 ---
+![musiColor420.png]({{site.baseurl}}/img/musiColor420.png)
 <p id="introduction">This morning 
 <br><br>
 
