@@ -49,16 +49,16 @@ Bleu Toucan: **"**Because it looks like a ray of sunlight passing over a flight 
 
 # MailTape's selection
 
-## Bleu Toucan – 
+## Bleu Toucan – Le Hublot
+Anaïs G: **"** Découvert il y a 5 ans avec leur salade de fruits et surtout l'un de leur titre "Ananas". Depuis j'ai suivi le groupe, leur évolution et je n'ai jamais été déçut. Universalis est leur dernier EP sorti en date et ma préféré est "le hublot" **"**
+
+## Café Lanai – Lanai
+Anaïs G: **"**Ce titre est une caresse, un rêve, quelque chose de subtil, de doux. Une médidation musicale, elle permet de couper avec le monde qui nous entoure et ce plonger dans une transe indescriptible ! **"**
+
+## Paradis – Hémisphère
 Anaïs G: **"** **"**
 
-##  – 
-Anaïs G: **"** **"**
-
-##  – 
-Anaïs G: **"** **"**
-
-##  – 
+## Février – La montagne
 Anaïs G: **"** **"**
 
 
