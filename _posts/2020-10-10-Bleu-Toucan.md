@@ -6,6 +6,7 @@ track2_color: vibrant
 track2_title: 'TEED - Don''t you forget about me '
 track1_color: dreamy
 track1_title: Sébastien Tellier - Love
+track2_link: 'https://soundcloud.com/t-e-e-d/dont-you-forget-about-me-1'
 guestPic: guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
