@@ -2,7 +2,14 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+musiColor: musiColor420.png
+image: 'https://mailta.pe/img/fbPic420.png'
+episode_URL: 'http://mailta.pe/420/bleu-toucan/'
+track7_color: bliss
+track7_title: Février - La montagne
+track6_color: bliss
 track6_title: 'Paradis - Hémisphère '
+track5_color: dreamy
 track5_title: Café Lanai - Lanai
 track4_color: dreamy
 track4_title: Bleu Toucan - Le Hublot
