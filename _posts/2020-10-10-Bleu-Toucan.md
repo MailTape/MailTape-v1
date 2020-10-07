@@ -11,14 +11,14 @@ published: false
 
 # Bleu Toucan's selection
 
-##  – 
-Bleu Toucan: **"** **"**
+## Sébastien Tellier – Love
+Bleu Toucan: **"**A sweet instrumental music, just to make your mind feel good. Wake him up with no rush, with love and kindness. It extend that cocoon feeling you have when you are in your bed under the blanket, and brings a positive wave.**"**
 
-## – 
-Bleu Toucan: **"** **"**
+## TEED – Don’t you forget about me
+Bleu Toucan: **"**Another wonderful and very sweet song. TEED has a very sweet and detached voice that is extremely pleasant. A kind of nonchalance that goes very well with the morning. Then the switch song at the end of the track make it become a more groovy track that helps you finish emerging and makes you want to live something nice even on Sundays.**"**
 
-##  – 
-Bleu Toucan: **"** **"**
+## Benny Sings – Sunny Afternoon
+Bleu Toucan: **"**Because it looks like a ray of sunlight passing over a flight of swallows and then through the half-closed blinds to come and lick a bowl of latte on the kitchen table.**"**
 
 
 # MailTape's selection
