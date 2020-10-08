@@ -33,6 +33,11 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/420/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/420/track4.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/420/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/420/track7.mp3'
+description: >-
+  This morning, we fly away, we take to the open sea, to faraway places where
+  the heat reigns supreme. We're not alone to accompany us on this journey, it's
+  in good company with the Bleu Toucan group that we're going to have a good
+  time.
 ---
 
 <p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the [Bleu Toucan](https://soundcloud.com/bleutoucan) group that we're going to have a good time.
