@@ -30,9 +30,9 @@ illustrator: Camille Célestin
 author: Anaïs G
 ---
 
-<p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the Bleu Toucan group that we're going to have a good time.
+<p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the [Bleu Toucan](https://soundcloud.com/bleutoucan) group that we're going to have a good time.
 <br><br>
-Bleu Toucan, here is not a species of bird living in South America (although it does exist) but a music band. This Parisian duo composed of Léo and Manu unveils a French pop music where emotions are king and joy spreads in profusion.
+[Bleu Toucan](https://www.facebook.com/bleutoucan/), here is not a species of bird living in South America (although it does exist) but a music band. This Parisian duo composed of Léo and Manu unveils a French pop music where emotions are king and joy spreads in profusion.
 </p>
 
 
@@ -63,4 +63,4 @@ Anaïs G: **"**In 2014, I started listening to the Parisian band composed of Sim
 Anaïs G: **"**It was while listening to the artists from the Profil de Face label, that Février appeared in my listening suggestions. For the arrival of rainy and cold days, the music of February is perfect to warm hearts.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Bleu Toucan for his Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Bleu Toucan](https://soundcloud.com/bleutoucan) for his Sunday selections and to [Camille Célestin](https://www.instagram.com/bravocamo/) for this episode's brilliant illustration.</p>
