@@ -19,8 +19,8 @@ track2_color: vibrant
 track2_title: 'TEED - Don''t you forget about me '
 track1_color: dreamy
 track1_title: Sébastien Tellier - Love
-track5_link: 'https://soundcloud.com/yourcafelanai/lanai'
-track2_link: 'https://soundcloud.com/t-e-e-d/dont-you-forget-about-me-1'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/420/track5.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/420/track2.mp3'
 guestPic: guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
@@ -28,6 +28,11 @@ category: '420'
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/420/track1.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/420/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/420/track4.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/420/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/420/track7.mp3'
 ---
 
 <p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the [Bleu Toucan](https://soundcloud.com/bleutoucan) group that we're going to have a good time.
