@@ -32,8 +32,7 @@ author: Anaïs G
 
 <p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the Bleu Toucan group that we're going to have a good time.
 <br><br>
- 
-
+Bleu Toucan, here is not a species of bird living in South America (although it does exist) but a music band. This Parisian duo composed of Léo and Manu unveils a French pop music where emotions are king and joy spreads in profusion.
 </p>
 
 
