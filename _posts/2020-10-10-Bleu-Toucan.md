@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 musiColor: musiColor420.png
 image: 'https://mailta.pe/img/fbPic420.png'
 episode_URL: 'http://mailta.pe/420/bleu-toucan/'
