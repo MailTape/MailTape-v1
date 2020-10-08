@@ -30,7 +30,7 @@ illustrator: Camille Célestin
 author: Anaïs G
 ---
 
-<p id="introduction">This morning 
+<p id="introduction">This morning, we fly away, we take to the open sea, to faraway places where the heat reigns supreme. We're not alone to accompany us on this journey, it's in good company with the Bleu Toucan group that we're going to have a good time.
 <br><br>
 
 </p>
