@@ -57,10 +57,10 @@ Anaïs G: **"**Discovered 5 years ago with their "Salade de Fruits" EP and my fa
 Anaïs G: **"**This title is a caress, a dream, something subtle, sweet. A musical meditation, allowing us to cut with the world around us and plunge into an indescribable trance!**"**
 
 ## Paradis – Hémisphère
-Anaïs G: **"** **"**
+Anaïs G: **"**In 2014, I started listening to the Parisian band composed of Simon Mény and Pierre Rousseau, with their EP "Couleurs Primaires". Their song "Keep it to yourself" was a musical favorite. So I got interested in this duo by listening to their old EPs, and that's how I came across "Hémisphère". French pop, mixed with house and deep house that sticks well to this Sunday morning playlist.**"**
 
 ## Février – La montagne
-Anaïs G: **"**Musique ambiance soirée chaleur montagne  **"**
+Anaïs G: **"**It was while listening to the artists from the Profil de Face label, that Février appeared in my listening suggestions. For the arrival of rainy and cold days, the music of February is perfect to warm hearts.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Bleu Toucan for his Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
