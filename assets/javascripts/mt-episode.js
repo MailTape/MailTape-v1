@@ -314,9 +314,9 @@ $(document).ready(
 			$("#signature").removeClass("d-none");
 		}
 
-		$(".commento-logo-container").ready(
-		{
+		setTimeout (function(){
 			$(".commento-logo-container").hide();
-		});
+		},3000);
+
 	}
 );
