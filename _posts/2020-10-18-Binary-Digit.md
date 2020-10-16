@@ -23,6 +23,7 @@ track5_title: Skee Mask - Muk FM
 track6_title: EOD - Express
 track7_title: chris††† - より良い場所
 episode_URL: 'http://www.mailta.pe/421/binary-digit/'
+guestPic: guestPic421.jpg
 ---
 <p id="introduction"> This morning, 
 <br><br>
