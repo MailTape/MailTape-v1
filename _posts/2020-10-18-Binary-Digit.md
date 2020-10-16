@@ -34,19 +34,19 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
-
+[Binary Digit](https://binarydigit.bandcamp.com/)
 </p>
 
 
 # Binary Digit's selection
 
 ## DMX Krew - 100 Tears
-Binary Digit: **"**First track is from DMX Krew who have blessed us with thousands of gems over the years. This one could give you that mellow synth lift you need on a sunday morning.**"**
+Binary Digit: **"**First track is from [DMX Krew](https://dmxkrew.bandcamp.com/) who have blessed us with thousands of gems over the years. This one could give you that mellow synth lift you need on a sunday morning.**"**
 
 ## Datassette - When I'm Gone (w/ Mücha)
-Binary Digit: **"**I ran into Datassette music about 10 years ago and have been a massive fan ever since. His sound is so unique and everything about the melodies, rythmics and harmonies in his works is amazing. This track from his last release should fit every mornings of the week.**"**
+Binary Digit: **"**I ran into [Datassette](https://datassette.bandcamp.com/) music about 10 years ago and have been a massive fan ever since. His sound is so unique and everything about the melodies, rythmics and harmonies in his works is amazing. This track from his last release should fit every mornings of the week.**"**
 
-## Bot1500 - P8.1
+## [Bot1500](https://bot1500.bandcamp.com/) - P8.1
 Binary Digit: **"**Last track already !? So here is one that could work great if you haven't sleep yet on this sunday morning.**"**
 
 
@@ -59,10 +59,10 @@ Jules: **"**the best way to describe his music **"**
 Jules: **"****"**
 
 ## EOD - Express
-Jules: **"****"**
+Jules: **"**[EOD](https://eodtracks.bandcamp.com/)**"**
 
 ## chris††† - より良い場所
-Jules: **"****"**
+Jules: **"**[chris†††](https://christtt.bandcamp.com/)**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Binary Digit for his acid wonderful Sunday selections, and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Binary Digit](https://binarydigit.bandcamp.com/) for his wonderful acid Sunday selections, and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
