@@ -34,7 +34,7 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 image: 'https://mailta.pe/img/fbPic421.png'
 musiColor: musiColor421.png
 ---
-<p id="introduction"> This morning, the alarm clock tastes sour, that kind of unpleasant sensation at first glance but which you get used to, before asking for more.  
+<p id="introduction"> This morning, the alarm clock tastes sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more.  
 <br><br>
 [Binary Digit](https://binarydigit.bandcamp.com/)
 </p>
