@@ -34,7 +34,7 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 image: 'https://mailta.pe/img/fbPic421.png'
 musiColor: musiColor421.png
 ---
-<p id="introduction"> This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes right to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
+<p id="introduction"> This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
 <br><br>
 [Binary Digit](https://binarydigit.bandcamp.com/)
 </p>
