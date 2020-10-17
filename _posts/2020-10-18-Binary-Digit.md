@@ -33,6 +33,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
 image: 'https://mailta.pe/img/fbPic421.png'
 musiColor: musiColor421.png
+description: ''
 ---
 <p id="introduction"> This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
 <br><br>
@@ -58,10 +59,10 @@ Binary Digit: **"**Last track already !? So here is one that could work great if
 Jules: **"**It was hard for me to choose just one track from [Binary Digit](https://binarydigit.bandcamp.com/). I lied down on my bed and meticulously went through his discography once again, from the most famous tracks like ["Tape Brunch](https://www.youtube.com/watch?v=s_Ma0MUl5io&ab_channel=ballacid) to his [last mixtape](https://binarydigit.bandcamp.com/album/summer-tape-vol-iii), an ode to his many summers spent in Grenoble. But ultimately "Sensitive Acid Boy", with its subtle blend of acid, techno and synthwave that gives me goose bumps every time, sounded like the best way to describe his music.**"**
 
 ## Skee Mask - Muk FM
-Jules: **"**We needed at least another unclassifiable genious music producer to continue our morning journey. With its multiple influences floating between jungle, breakbeat, techno and ambient, Bryan Müller's project opens new doors to electronic music with each new EP. This song is taken from [Skee Mask](https://www.facebook.com/skeemaskiliantape)'s first album "Compro" released in May 2018.**"**
+Jules: **"**We needed at least another unclassifiable genious music producer to continue our morning journey. With its multiple influences floating between jungle, breakbeat, techno and ambient, Bryan Müller's project opens new doors to electronic music with each new EP. This song is taken from [Skee Mask](https://www.facebook.com/skeemaskiliantape)'s first album "Compro" released in May 2018, another food for your mind.**"**
 
 ## EOD - Express
-Jules: **"**[EOD](https://eodtracks.bandcamp.com/)**"**
+Jules: **"**Time to wake up slowly, grab your cup of coffee, and consider going outside. This song from the Norwegian producer [EOD](https://eodtracks.bandcamp.com/) has a catchy rhythm but soft and warm melodies that make it perfect for autumn mornings. The acid part always gives me the dose of energy I need to properly start the day.**"**
 
 ## chris††† - より良い場所
 Jules: **"**[chris†††](https://christtt.bandcamp.com/)**"**
