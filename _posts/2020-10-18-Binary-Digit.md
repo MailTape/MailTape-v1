@@ -58,7 +58,7 @@ Binary Digit: **"**Last track already !? So here is one that could work great if
 Jules: **"**It was hard for me to choose just one track from [Binary Digit](https://binarydigit.bandcamp.com/). I lied down on my bed and meticulously went through his discography once again, from the most famous tracks like ["Tape Brunch](https://www.youtube.com/watch?v=s_Ma0MUl5io&ab_channel=ballacid) to his [last mixtape](https://binarydigit.bandcamp.com/album/summer-tape-vol-iii), an ode to his many summers spent in Grenoble. But ultimately "Sensitive Acid Boy", with its subtle blend of acid, techno and synthwave that gives me goose bumps every time, sounded like the best way to describe his music.**"**
 
 ## Skee Mask - Muk FM
-Jules: **"**[Skee Mask](https://www.facebook.com/skeemaskiliantape)**"**
+Jules: **"**We needed at least another unclassifiable genious music producer to continue our morning journey. With its multiple influences floating between jungle, breakbeat, techno and ambient, Bryan Müller's project opens new doors to electronic music with each new EP. This song is taken from [Skee Mask](https://www.facebook.com/skeemaskiliantape)'s first album "Compro" released in May 2018.**"**
 
 ## EOD - Express
 Jules: **"**[EOD](https://eodtracks.bandcamp.com/)**"**
