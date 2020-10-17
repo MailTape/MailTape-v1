@@ -36,7 +36,7 @@ musiColor: musiColor421.png
 ---
 <p id="introduction"> This morning, the alarm clock tastes acid and sour, that kind of unpleasant sensation at first glance but which you eventually get used to, before asking for more. [Binary Digit](https://binarydigit.bandcamp.com/)'s selection goes straight to the point, somewhere between this unexpected ray of sunshine that pierces a gray autumn sky and the cold of winter that comes under our covers to tickle our feet.
 <br><br>
-The same image always comes to mind when I try to describe [Binary Digit](https://binarydigit.bandcamp.com/)'s music. I have this vision that seems to come from a dream, I see a dance floor plunged into darkness and crossed at regular intervals by rays of colored light where dancers move energetically to the sound of bass rythms tears slowly roll down their cheeks. Like techno clubs' anthems, the high bpm immediatly catches you but the Grenoble-based producer's music has something stronger to offer than a physical influence. 
+The same image always comes to mind when I try to describe [Binary Digit](https://binarydigit.bandcamp.com/)'s music. I have this vision that seems to come from a dream, I see a dance floor plunged into darkness and crossed at regular intervals by rays of colored light where dancers move energetically to the sound of bass rythms tears slowly roll down their cheeks. Like techno clubs' anthems, the high bpm immediatly catches you but the Grenoble-based producer's music has something stronger to offer than a physical influence: an acid and restless melancholy that will move your mind and hit you straight in the guts.
 </p>
 
 
