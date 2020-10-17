@@ -65,7 +65,7 @@ Jules: **"**We needed at least another unclassifiable genious music producer to 
 Jules: **"**Time to wake up slowly, grab your cup of coffee, and consider going outside. This song from the Norwegian producer [EOD](https://eodtracks.bandcamp.com/) has a catchy rhythm but soft and warm melodies that make it perfect for autumn mornings. The acid part always gives me the dose of energy I need to properly start the day.**"**
 
 ## chris††† - より良い場所
-Jules: **"**[chris†††](https://christtt.bandcamp.com/)**"**
+Jules: **"**I only discovered [chris†††](https://christtt.bandcamp.com/)'s music recently. Although he has already released several albums, little information is available on this producer from Pittsburgh who names his songs in Japanese. Apparently this one means "Best Place" and it seems to me that this vaporwave melody is all you need to feel safe and sound in any place.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Binary Digit](https://binarydigit.bandcamp.com/) for his wonderful acid Sunday selections, and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
