@@ -31,6 +31,7 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/421/track4.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/421/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
+image: 'https://mailta.pe/img/fbPic421.png'
 ---
 <p id="introduction"> This morning, 
 <br><br>
