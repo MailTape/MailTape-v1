@@ -8,6 +8,8 @@ episode_URL: 'http://mailta.pe/423/scherazade/'
 track7_title: Space Captain - Secret Garden
 track6_color: bliss
 track6_title: The Marias - I Don't Know You
+track5_color: dreamy
+track5_title: Genevieve Arti - Hot Mess
 track4_color: vibrant
 track4_title: 'Schérazade - Philantrhope '
 track3_color: trippy
@@ -18,6 +20,7 @@ track1_color: dreamy
 track1_title: Nick Hakim - Let It Out
 track7_link: 'https://soundcloud.com/spacecaptainofficial/secret-garden'
 track6_link: 'https://soundcloud.com/themarias/i-dont-know-you-1'
+track5_link: 'https://soundcloud.com/genevieveartadi/hot-mess'
 track3_link: 'https://soundcloud.com/silas70/flash-and-the-pan-waiting-for'
 track1_link: 'https://soundcloud.com/enhakim/let-it-out-1'
 guestPic: guestPic423.jpg
