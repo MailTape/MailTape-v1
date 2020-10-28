@@ -10,14 +10,14 @@ published: false
 
 # JW Francis's selection
 
-## [Rejjie Snow](https://rejjiesnow.bandcamp.com/) - Egyptian Luvr
-JW Francis: **"**Such a groovy beat that you can't help but move to, I love how Rejjie's vocals effortlessly glide over the track and the hook by Dana Williams is killer. Always my go to tune in any mood. The beat was also produced by Kaytranada who I’m a huge fan of, his drums are always so tight and the chords are so soulful and jazzy. Super excited for his new material to come out.**"**
+## [Ash Soul, Inc.](https://rejjiesnow.bandcamp.com/) - I Do Love You
+JW Francis: **"**The whole POINT of music is to communicate feelings that can't be expressed in words. The two biggest areas we have trouble verbalizing are 'hurt' and 'love,' and they're so often intermingled. This track is a smooth Sunday morning gem that says a lot more than "I do love you. I really really do love you" in a beautiful way. I can't recommend it enough. 10/10.**"**
 
-## [Raveena](https://raveenamusic.bandcamp.com/) - Close 2 U
-JW Francis: **"**Such a beautiful song, the instrumentation is so gentle and raw that it fits her intimate vocals perfectly; the song itself doesn’t have many layers or changes but for me it suits the vibe. This track always reminds me of my partner in the best possible way and just lounging in the sun surrounded by greenery. I really love all of Raveenas’ material, it all has such a laid-back, melancholic and relaxed feel to it.**"** 
+## [Ruru](https://raveenamusic.bandcamp.com/) - I Forgot
+JW Francis: **"**I don't know much about Ruru except that she is from the Philippines and she makes music that I'm obsessed with. I've been living with this song in particular for a while now. Sometimes you have to make a tradeoff between interesting chords and a strong melody, but this song has both PLUS a backbeat that immediately draws you in. 10/10.**"** 
 
-## [Oscar Jerome](https://oscarjerome.bandcamp.com/) - Misty Head / Sunny Street
-JW Francis: **"**I love everything Oscar produces but this one stands out in-particular to me. The drums and bass are so tightly locked in together. 4:04 onwards is pure feel and groove, I couldn't tell you how many times I've played it on repeat. One of my favourites for sure. I actually saw a live version of this on YouTube and it really blew my mind, such an amazingly tight group of musicians, hopefully I’ll be able to enjoy Oscar live at some point in the near future.**"**
+## [Kaitlyn Aurelias Smith](https://oscarjerome.bandcamp.com/) - Stratus
+JW Francis: **"**I was first introduced to this song while I was horizontal on the ground looking up at the sky. My friend Mark Brathwaite said 'hold on a minute' and put this on. How to describe this track? I feel like I am decomposing. I feel like I am the waves washing up on a shore, but also the sand that is being molded by the waves (which is also me). Groundless and grounding. 10/10.**"**
 
 # MailTape's selection
 
