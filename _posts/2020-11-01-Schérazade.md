@@ -5,11 +5,12 @@ published: false
 musiColor: musiColor423.png
 image: 'https://mailta.pe/img/fbPic423.png'
 episode_URL: 'http://mailta.pe/423/scherazade/'
+track7_color: vibrant
 track7_title: Space Captain - Secret Garden
 track6_color: bliss
 track6_title: The Marias - I Don't Know You
 track5_color: dreamy
-track5_title: Genevieve Arti - Hot Mess
+track5_title: Genevieve Artadi - Hot Mess
 track4_color: vibrant
 track4_title: 'Schérazade - Philantrhope '
 track3_color: trippy
