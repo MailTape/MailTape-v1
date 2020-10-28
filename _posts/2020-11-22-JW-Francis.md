@@ -3,6 +3,35 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
-## A New Post
+<p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
+  
+  Two days ago, JWestern released his debut EP, [Just People](https://jwesternn.bandcamp.com/releases). Full of velvet vocals, jazz riffs, and spiraling pockets of layered instrumentals, the EP moves through the many modes of relationships and the space they take up in our heads. Based in Leeds, JWestern is influenced by an array of jazz and neo-soul musicians, clearly evident by the stretches of jazz riffs and grooves in his own songs:)
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# JW Francis's selection
+
+## [Rejjie Snow](https://rejjiesnow.bandcamp.com/) - Egyptian Luvr
+JW Francis: **"**Such a groovy beat that you can't help but move to, I love how Rejjie's vocals effortlessly glide over the track and the hook by Dana Williams is killer. Always my go to tune in any mood. The beat was also produced by Kaytranada who I’m a huge fan of, his drums are always so tight and the chords are so soulful and jazzy. Super excited for his new material to come out.**"**
+
+## [Raveena](https://raveenamusic.bandcamp.com/) - Close 2 U
+JW Francis: **"**Such a beautiful song, the instrumentation is so gentle and raw that it fits her intimate vocals perfectly; the song itself doesn’t have many layers or changes but for me it suits the vibe. This track always reminds me of my partner in the best possible way and just lounging in the sun surrounded by greenery. I really love all of Raveenas’ material, it all has such a laid-back, melancholic and relaxed feel to it.**"** 
+
+## [Oscar Jerome](https://oscarjerome.bandcamp.com/) - Misty Head / Sunny Street
+JW Francis: **"**I love everything Oscar produces but this one stands out in-particular to me. The drums and bass are so tightly locked in together. 4:04 onwards is pure feel and groove, I couldn't tell you how many times I've played it on repeat. One of my favourites for sure. I actually saw a live version of this on YouTube and it really blew my mind, such an amazingly tight group of musicians, hopefully I’ll be able to enjoy Oscar live at some point in the near future.**"**
+
+# MailTape's selection
+
+## [JWestern](https://jwesternn.bandcamp.com/releases) – Let's Disappear
+Sarah: **"**JWestern's entire [new EP](https://jwesternn.bandcamp.com/album/just-people-ep) made it tough to choose just one track, but I kept coming back to this one. Its slowed down groove highlights JWestern's layering, gradually enough to be appreciated properly. Smooth and soft vocals backed up with the jazz bassline and guitar riffs feel like an embrace, an entire atmosphere of instrumental ebbs and flows. This track felt the most natural to write for JWestern, and the most authentic to his experience. His EP may be entitled [Just People](https://jwesternn.bandcamp.com/album/just-people-ep), but JWestern's honesty with relating the many swells of relationships make the experiences feel more profound than just that.**"**
+
+## [Jenny Penkin](https://jennypenkin.bandcamp.com/) – Born Last Night
+Sarah: **"**Feel the movement in this one :)! Jenny Penkin takes on a journey of sound, brushing funk, jazz, and neo-soul. The sliding synths and the funk bassline deliver psychedelic dream energy. Aerial vocals shrouding the percussives make the song feel ethereal.**"**
+
+## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
+Sarah: **"**Lady Wray's previous discography (**Get Ready**, [Piece of Me](https://ladywray.bandcamp.com/album/piece-of-me-b-w-come-on-in)) solidified a signature 1970's swaying soul influence. Last week's release keeps with her retro inspirations but this track transcends into something godly. The plunging piano bass laced with Lady Wray's voice and the celestial chorus combine into an almost religious energy. So smooth and so powerful.**"**
+
+## [Ex-Olympian](https://exolympian.bandcamp.com/) – Taste of Love (San Giorio di Susa)
+Sarah: **"**Ex-Olympian's new album, [Afterlife](https://exolympian.bandcamp.com/album/afterlife), is a medley of soul and jazz influences given new meaning in their modern context. The album as a whole serves as a playground for combining contemporary sampling and soul roots. The brass section in this song with the bassline engineer a vintage feel, one that Ex-Olympian plays around with for the track. 
+Listen for the xylophone at the end :)**"**
+
+<p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
