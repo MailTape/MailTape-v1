@@ -66,4 +66,4 @@ Anaïs G: **"** **"**
 Anaïs G: **"** **"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Binary Digit](https://binarydigit.bandcamp.com/) for his wonderful acid Sunday selections, and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's suitably trippy illustration.</p>
+<p id="outroduction"> </p>
