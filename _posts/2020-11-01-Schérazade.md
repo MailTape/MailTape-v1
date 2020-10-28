@@ -47,22 +47,22 @@ Schérazade: **"**To wake up Nicely i listen this wonderful interlude but actual
 ## LA Priest - What Moves
 Schérazade: **"**What a better day than Sunday to listen the new album of La Priest (Gene) I saw him on live in Paris he was alone with his instruments it was my best show ever for sure. I really like his music , it's very experimental a particular pop, and he's one of the best guitar player for me.**"**
 
-## Flash & the pan Waiting for the sun
+## Flash & The Pan - Waiting for the sun
 Schérazade: **"**This music help me do some homework, i do listen this track since i was teenager i really like to dance on it also. So Let's dance!**"**
 
 
 # MailTape's selection
 
-##  -
+## Schérazade - Philanthrope
 Anaïs G: **"** **"**
 
-##  - 
+## Genevieve Artidi - Hot Mess
 Anaïs G: **"** **"**
 
-##  - 
+## The Marias - I Don't Know You
 Anaïs G: **"** **"**
 
-##  - 
+## Space Captain - 
 Anaïs G: **"** **"**
 
 
