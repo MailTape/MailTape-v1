@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: 'Ash Soul, Inc. - I Do Love You'
+track1_color: bliss
+track2_title: Ruru - I Forgot
+track3_title: Kaitlyn Aurelias Smith - Stratus
+track3_color: dreamy
+track2_color: trippy
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
