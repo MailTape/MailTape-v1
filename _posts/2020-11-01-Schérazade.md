@@ -19,7 +19,7 @@ track2_color: bliss
 track2_title: La Priest - What Moves
 track1_color: dreamy
 track1_title: Nick Hakim - Let It Out
-track7_link: 'https://soundcloud.com/spacecaptainofficial/secret-garden'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/423/track7.mp3'
 track6_link: 'https://soundcloud.com/themarias/i-dont-know-you-1'
 track5_link: 'https://soundcloud.com/genevieveartadi/hot-mess'
 track3_link: 'https://soundcloud.com/silas70/flash-and-the-pan-waiting-for'
