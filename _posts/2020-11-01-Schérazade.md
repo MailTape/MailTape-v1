@@ -23,7 +23,7 @@ track7_link: 'https://soundcloud.com/spacecaptainofficial/secret-garden'
 track6_link: 'https://soundcloud.com/themarias/i-dont-know-you-1'
 track5_link: 'https://soundcloud.com/genevieveartadi/hot-mess'
 track3_link: 'https://soundcloud.com/silas70/flash-and-the-pan-waiting-for'
-track1_link: 'https://soundcloud.com/enhakim/let-it-out-1'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/423/track1.mp3'
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
@@ -31,6 +31,7 @@ category: '423'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
 ---
 <p id="introduction"> 
   
