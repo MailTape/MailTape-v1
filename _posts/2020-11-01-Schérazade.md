@@ -56,7 +56,7 @@ Schérazade: **"**This music help me do some homework, i do listen this track si
 ## Schérazade - Philanthrope
 Anaïs G: **"** **"**
 
-## Genevieve Artidi - Hot Mess
+## Genevieve Artadi - Hot Mess
 Anaïs G: **"** **"**
 
 ## The Marias - I Don't Know You
