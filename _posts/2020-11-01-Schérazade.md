@@ -35,9 +35,8 @@ track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
 ---
 <p id="introduction">This morning, we send each other love, we hug each other through our masks, we send each other kisses through our windows. You try to forget the dull days, the sad news and concentrate on memories of holidays, of moments spent surrounded by friends or family. To accompany us in this quest for the inner sun, we have the voice of [Schérazade](https://www.facebook.com/scherazadeofficiel).
-  
 <br><br>
-
+It is through flushes of love that we find [Schérazade](https://www.instagram.com/scherazade_officiel/). A sincere, committed, sensual and fun music.. The best cocktail to make for a successful Sunday morning!
 </p>
 
 
