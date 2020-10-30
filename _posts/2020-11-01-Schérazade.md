@@ -68,4 +68,4 @@ Anaïs G: **"**When you listen to their music, you want to stop time. To curl up
 Anaïs G: **"**Slow down the pace, take time, get back to basics. The Space Captain song is an ode to slow life, so let's do the same on this Sunday morning.**"**
 
 
-<p id="outroduction"> </p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Schérazade](https://www.facebook.com/scherazadeofficiel) for her Sunday selections and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration. </p>
