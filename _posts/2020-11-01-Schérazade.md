@@ -55,11 +55,11 @@ Schérazade: **"**This music help me do some homework, i do listen this track si
 
 # MailTape's selection
 
-## Schérazade - Philanthrope
-Anaïs G: **"**It was while listening to "Pink Flamingo" that I discovered Scherazade. Her voice seduced me, mixing such strength and incredible sensitivity, that one remains speechless in the face of this talent. A multifaceted artist, who released an album in February this year, "Asile Exquis". An EP that we would listen to a bit like an open book, perfect for this second confinement.**"**
+## [Schérazade](https://www.instagram.com/scherazade_officiel/) - Philanthrope
+Anaïs G: **"**It was while listening to "[Pink Flamingo](https://www.youtube.com/watch?v=CwlGzDQPDHU)" that I discovered Scherazade. Her voice seduced me, mixing such strength and incredible sensitivity, that one remains speechless in the face of this talent. A multifaceted artist, who released an album in February this year, "Asile Exquis". An EP that we would listen to a bit like an open book, perfect for this second confinement.**"**
 
-## Genevieve Artadi - Hot Mess
-Anaïs G: **"**Hot Mess is a bit like a crush. It’s soft, light, sensual...Genevieve mixes styles: a little destructured and electronic sometimes with a r’n’b and jazzy side assumed. With her speechless voice she will take us into an imaginary where it is good to live!**"**
+## [Genevieve Artadi](https://www.facebook.com/genevieveartadi) - Hot Mess
+Anaïs G: **"**Hot Mess is a bit like a crush. It’s soft, light, sensual... Genevieve mixes styles: a little destructured and electronic sometimes with a r’n’b and jazzy side assumed. With her speechless voice she will take us into an imaginary where it is good to live!**"**
 
 ## The Marias - I Don't Know You
 Anaïs G: **"**When you listen to their music, you want to stop time. To curl up in the sheets with our lover and enjoy a sexy vibe to indulge in the pleasure of the flesh...Their soul psychedelic, wraps us in tissue paper, an exquisite sensation, full of surprise and charm.**"**
