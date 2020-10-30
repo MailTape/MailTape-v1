@@ -43,13 +43,13 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
 
 # Schérazade's selection
 
-## Nick Hakim - Let it out 
+## [Nick Hakim](https://nickhakim.com/) - Let it out 
 Schérazade: **"**To wake up Nicely i listen this wonderful interlude but actually this is also my sunday album for sure.I love this artist that i discover recently, the flow the instrumental, this strange psyché feeling i mean i love everything. I really love my sunday vibe on Nick.**"**
 
-## LA Priest - What Moves
+## [LA Priest](https://www.facebook.com/trulylapriest) - What Moves
 Schérazade: **"**What a better day than Sunday to listen the new album of La Priest (Gene) I saw him on live in Paris he was alone with his instruments it was my best show ever for sure. I really like his music , it's very experimental a particular pop, and he's one of the best guitar player for me.**"**
 
-## Flash & The Pan - Waiting for the sun
+## [Flash and The Pan](https://fr.wikipedia.org/wiki/Flash_and_the_Pan) - Waiting for the sun
 Schérazade: **"**This music help me do some homework, i do listen this track since i was teenager i really like to dance on it also. So Let's dance!**"**
 
 
