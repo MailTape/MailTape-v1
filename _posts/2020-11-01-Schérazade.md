@@ -34,7 +34,7 @@ author: Anaïs G
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
 ---
-<p id="introduction"> 
+<p id="introduction"> Ce matin, on s'envoit du love, on se fait des calins à travers nos masques, on s'envoit des bisous à travers nos fenêtres. On essaie d'oublier les jours maussades, les informations tristes et on se concentre sur des souvenirs de vacances, de moments passés entouré de ses amies ou de sa famille. Pour nous accompagner dans cette quête du soleil intérieur, nous avons la voix de Schérazade. 
   
 <br><br>
 
