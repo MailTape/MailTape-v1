@@ -12,7 +12,7 @@ track6_title: The Marias - I Don't Know You
 track5_color: dreamy
 track5_title: Genevieve Artadi - Hot Mess
 track4_color: vibrant
-track4_title: 'Schérazade - Philantrhope '
+track4_title: 'Schérazade - Philanthrope '
 track3_color: trippy
 track3_title: 'Flash and The Pan - Waiting For A Train '
 track2_color: bliss
@@ -32,6 +32,7 @@ writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
 ---
 <p id="introduction"> 
   
