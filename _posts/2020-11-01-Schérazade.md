@@ -56,7 +56,7 @@ Schérazade: **"**This music help me do some homework, i do listen this track si
 # MailTape's selection
 
 ## Schérazade - Philanthrope
-Anaïs G: **"** **"**
+Anaïs G: **"**It was while listening to "Pink Flamingo" that I discovered Scherazade. Her voice seduced me, mixing such strength and incredible sensitivity, that one remains speechless in the face of this talent. A multifaceted artist, who released an album in February this year, "Asile Exquis". An EP that we would listen to a bit like an open book, perfect for this second confinement.**"**
 
 ## Genevieve Artadi - Hot Mess
 Anaïs G: **"** **"**
