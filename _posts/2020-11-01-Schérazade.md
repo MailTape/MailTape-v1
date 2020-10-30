@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 musiColor: musiColor423.png
 image: 'https://mailta.pe/img/fbPic423.png'
 episode_URL: 'http://mailta.pe/423/scherazade/'
@@ -33,6 +33,7 @@ illustrator: Thibault Daumain
 author: Anaïs G
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
+description: ''
 ---
 <p id="introduction">This morning, we send each other love, we hug each other through our masks, we send each other kisses through our windows. You try to forget the dull days, the sad news and concentrate on memories of holidays, of moments spent surrounded by friends or family. To accompany us in this quest for the inner sun, we have the voice of [Schérazade](https://www.facebook.com/scherazadeofficiel).
 <br><br>
