@@ -40,6 +40,7 @@ description: >-
   surrounded by friends or family. To accompany us in this quest for the inner
   sun, we have the voice of Schérazade.
 ---
+![guestPic423.jpg]({{site.baseurl}}/img/guestPic423.jpg)
 
 <p id="introduction">This morning, we send each other love, we hug each other through our masks, we send each other kisses through our windows. You try to forget the dull days, the sad news and concentrate on memories of holidays, of moments spent surrounded by friends or family. To accompany us in this quest for the inner sun, we have the voice of [Schérazade](https://www.facebook.com/scherazadeofficiel).
 <br><br>
