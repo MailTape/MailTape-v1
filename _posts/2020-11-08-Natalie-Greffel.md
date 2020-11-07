@@ -36,7 +36,7 @@ musiColor: musiColor424.png
 image: 'https://mailta.pe/img/fbPic424.png'
 ---
 <p id="introduction">
-  
+  This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.
 </p>
 
 # Natalie Greffel's selection
@@ -51,18 +51,17 @@ Natalie Greffel: **"**This Danish trio, offers me soo much space to not think, b
 Natalie Greffel: **"**I just love Bossa Nova and have listened alot to Bossa Nova in the morning, this is one of the unrecognized founders and piorneers of Bossa Nova, a black gay man called Johnny Alf. I want to listen more to him since I recently read about him.**"**
 
 # MailTape's selection
-![fbPic424.png]({{site.baseurl}}/img/fbPic424.png)
 
 ## Natalie Greffel - Toquei
-ImaCrea: **"**xx**"**
+ImaCrea: **"**When I discovered [Natalie Greffel](https://nataliegreffel.bandcamp.com)'s album Para Todos, I felt a "madeleine de Proust" moment. Her delicate bossa nova music brought me back souvenirs of my childhood listening to music from Brazil in the car with my parents on our way to the beach on summer holidays. It's such a pleasure to see this genre reactivated nowadays. Natalie's tour de force here is in being able to actualize it in 2020's and in no falling into nostalgic kitsch repetitiveness.**"**
 
-## Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine version)
-ImaCrea: **"**xx**"**
+## [Deborah Dery](https://backl.ink/62040721) - Spring Can Really Hang You Up The Most (cover)(quarantine version)
+ImaCrea: **"**Smooth waves from Tel Aviv under the lockdown. Beautiful rare gem here.**"**
 
-## Emel - The Man Who Sold the World 
-ImaCrea: **"**xx**"**
+## [Emel](https://emel.bandcamp.com) - The Man Who Sold the World 
+ImaCrea: **"**We keep on with another beautiful voice here coming from New York. Make sure to listen to her full album, exceptionnal work here.**"**
 
-## Teno Afrika - Lerato La Bass
-ImaCrea: **"**xx**"**
+## [Teno Afrika](https://tenoafrika.bandcamp.com/album/amapiano-selections) - Lerato La Bass
+ImaCrea: **"**A fun and groovy beat in pure amapiano style. Funky fresh from South of Africa. Move that body yes!**"**
 
-<p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
+<p id="outroduction">That's it for this morning! Much respect to Natalie Greffel for this inspiring selection and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her stunning illustration. See you all next time, have a great week, everyone! And go use our new comment section, share your thoughts, reactions, poems... with us!</p>
