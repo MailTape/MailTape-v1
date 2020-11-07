@@ -32,6 +32,8 @@ track4_color: vibrant
 track5_color: dreamy
 track6_color: bliss
 track7_color: trippy
+musiColor: musiColor424.png
+image: 'https://mailta.pe/img/fbPic424.png'
 ---
 <p id="introduction">
   
@@ -49,6 +51,7 @@ Natalie Greffel: **"**This Danish trio, offers me soo much space to not think, b
 Natalie Greffel: **"**I just love Bossa Nova and have listened alot to Bossa Nova in the morning, this is one of the unrecognized founders and piorneers of Bossa Nova, a black gay man called Johnny Alf. I want to listen more to him since I recently read about him.**"**
 
 # MailTape's selection
+![fbPic424.png]({{site.baseurl}}/img/fbPic424.png)
 
 ## Natalie Greffel - Toquei
 ImaCrea: **"**xx**"**
