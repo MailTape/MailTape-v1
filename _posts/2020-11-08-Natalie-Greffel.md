@@ -50,16 +50,16 @@ Natalie Greffel: **"**I just love Bossa Nova and have listened alot to Bossa Nov
 
 # MailTape's selection
 
-## 
-ImaCrea: **"**Natalie Greffel - Toquei**"**
+## Natalie Greffel - Toquei
+ImaCrea: **"**xx**"**
 
-## 
-ImaCrea: **"**Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine version)**"**
+## Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine version)
+ImaCrea: **"**xx**"**
 
-## 
-ImaCrea: **"**Emel - The Man Who Sold the World **"**
+## Emel - The Man Who Sold the World 
+ImaCrea: **"**xx**"**
 
-## 
-ImaCrea: **"**Teno Afrika - Lerato La Bass**"**
+## Teno Afrika - Lerato La Bass
+ImaCrea: **"**xx**"**
 
 <p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
