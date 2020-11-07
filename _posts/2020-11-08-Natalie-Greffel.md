@@ -44,7 +44,7 @@ image: 'https://mailta.pe/img/fbPic424.png'
 ## Donny Hathaway - A Song for You
 Natalie Greffel: **"**I've consciously and actively been thinking about the practices of love lately and how within that, trust is the foundation of intimacy. This has lead me down paths of looking for rituals and ceremonious way of creating a culture and practice of trust beginning with the self. This song almost painfully reminds me to wake up remembering to take time to listen, support, honor and be encouraging towards myself. But most impotantly, to say "I love you" to myself.**"**
 
-## Kasper Staub Trio - People Who Love Each Other
+## [Kasper Staub Trio](https://kasperstaubtrio.tumblr.com/) - People Who Love Each Other
 Natalie Greffel: **"**This Danish trio, offers me soo much space to not think, but instead lose myself into wordless simplicity. And I emotionally feel very quietly stimulated by the impressions they offer.**"** 
 
 ## Johnny Alf - Rapaz de BEM
