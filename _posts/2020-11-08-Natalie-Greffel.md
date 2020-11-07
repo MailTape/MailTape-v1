@@ -2,6 +2,28 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track2_link: 'https://soundcloud.com/kasperstaubtrio/people-who-love-each-other'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/424/track5.mp3'
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/424/track1.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/424/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/424/track4.mp3'
+author: ImaCrea
+writer: ImaCrea
+category: '424'
+guest_name: Natalie Greffel
+guest_color: vibrant
+track1_title: Donny Hathaway - A Song for You
+track2_title: Kasper Staub Trio - People Who Love Each Other
+track3_title: Johnny Alf - Rapaz de BEM
+track4_title: Natalie Greffel - Toquei
+track5_title: >-
+  Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine
+  version)
+track6_title: 'Emel - The Man Who Sold the World '
+track7_title: Teno Afrika - Lerato La Bass
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/424/track6.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/424/track7.mp3'
+episode_URL: 'https://mailta.pe/424/Natalie-Greffel/'
 ---
 <p id="introduction">
   
