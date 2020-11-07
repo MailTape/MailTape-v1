@@ -25,6 +25,13 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/424/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/424/track7.mp3'
 episode_URL: 'https://mailta.pe/424/Natalie-Greffel/'
 guestPic: guestPic424.jpg
+track1_color: bliss
+track2_color: dreamy
+track3_color: vibrant
+track4_color: vibrant
+track5_color: vibrant
+track6_color: bliss
+track7_color: trippy
 ---
 <p id="introduction">
   
