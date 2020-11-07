@@ -64,4 +64,4 @@ ImaCrea: **"**We keep on with another beautiful voice here coming from New York.
 ## [Teno Afrika](https://tenoafrika.bandcamp.com/album/amapiano-selections) - Lerato La Bass
 ImaCrea: **"**A fun and groovy beat in pure amapiano style. Funky fresh from South of Africa. Move that body yes!**"**
 
-<p id="outroduction">That's it for this morning! Much respect to Natalie Greffel for this inspiring selection and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her stunning illustration. See you all next time, have a great week, everyone! And go use our new comment section, share your thoughts, reactions, poems... with us!</p>
+<p id="outroduction">That's it for this morning! Much respect to [Natalie Greffel](https://nataliegreffel.bandcamp.com) for this inspiring selection and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her stunning illustration. See you all next time, have a great week, everyone! And go use our new comment section, share your thoughts, reactions, poems... with us!</p>
