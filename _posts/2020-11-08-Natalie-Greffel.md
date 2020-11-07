@@ -24,6 +24,7 @@ track7_title: Teno Afrika - Lerato La Bass
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/424/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/424/track7.mp3'
 episode_URL: 'https://mailta.pe/424/Natalie-Greffel/'
+guestPic: guestPic424.jpg
 ---
 <p id="introduction">
   
