@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track2_link: 'https://soundcloud.com/kasperstaubtrio/people-who-love-each-other'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/424/track5.mp3'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/424/track1.mp3'
