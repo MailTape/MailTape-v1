@@ -16,8 +16,7 @@ track1_title: Donny Hathaway - A Song for You
 track2_title: Kasper Staub Trio - People Who Love Each Other
 track3_title: Johnny Alf - Rapaz de BEM
 track4_title: Natalie Greffel - Toquei
-track5_title: >-
-  Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine
+track5_title: Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quarantine
   version)
 track6_title: 'Emel - The Man Who Sold the World '
 track7_title: Teno Afrika - Lerato La Bass
@@ -34,6 +33,7 @@ track6_color: bliss
 track7_color: trippy
 musiColor: musiColor424.png
 image: 'https://mailta.pe/img/fbPic424.png'
+illustrator: Meriam Kharbat
 ---
 <p id="introduction">
   This morning, we're serving you a comfy episode. A selection curated with great care for a chill morning at home spent alone or with your loved ones sipping a warm hot chocolate. From blues, to bossa nova, Bowie's vibes and amapiano, we're honored to share this episode with [Natalie Greffel](https://nataliegreffel.bandcamp.com/) as our dear guest.
