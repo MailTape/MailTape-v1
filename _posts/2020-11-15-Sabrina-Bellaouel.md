@@ -40,7 +40,10 @@ musiColor: musiColo425.png
 # Sabrina Bellaouel's selection
 
 ## Jill Scott - Show Me
-Sabrina Bellaouel: **"****"**
+Sabrina Bellaouel: **"**A dose of my favorite singer. No one writes about love like she does. Here she speaks about confidence. I would have liked to write this song:<br>
+<i>"You show me your exterior, I need<br>
+To see your interior, I need<br>
+To be absolutely clear wit cha</i>**"**
 
 ## Steve Reich - Electric Counterpoint III. Fast
 Sabrina Bellaouel: **"****"**
