@@ -26,7 +26,7 @@ episode_URL: 'https://www.mailta.pe/425/sabrina-bellaouel/'
 ---
 <p id="introduction"> This morning, 
 <br><br>
-
+[Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)
 </p>
 
 
@@ -45,16 +45,16 @@ Sabrina Bellaouel: **"****"**
 # MailTape's selection
 
 ## Sabrina Bellaouel - Nasser
-Jules: **"****"**
+Jules: **"**[Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)**"**
 
 ## Yak - Kaepora
-Jules: **"****"**
+Jules: **"**[Yak](https://yaksound.bandcamp.com/)**"**
 
-## Soap Kills - Cheftak
-Jules: **"****"**
+## Soapkills - Cheftak
+Jules: **"**[Soapkills](https://soapkills.bandcamp.com/)**"**
 
 ## DJ Lycox - Red Lights
-Jules: **"****"**
+Jules: **"**[Príncipe](https://principediscos.bandcamp.com/)**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Binary Digit](https://binarydigit.bandcamp.com/) for his wonderful acid Sunday selections, and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/) for her moving Sunday selections, and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
