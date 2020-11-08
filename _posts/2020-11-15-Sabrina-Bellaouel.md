@@ -46,10 +46,10 @@ To see your interior, I need<br>
 To be absolutely clear wit cha</i>**"**
 
 ## Steve Reich - Electric Counterpoint III. Fast
-Sabrina Bellaouel: **"****"**
+Sabrina Bellaouel: **"**Pat Metheny playing the guitar is divine. Perfect for having a shower, doing your make-up, getting dressed and taking the metro. I feel like I'm part of a whole when I listen to it.**"**
 
 ## Alfonzo Hunter - Just The Way (Remix)
-Sabrina Bellaouel: **"****"**
+Sabrina Bellaouel: **"**It's my older sister's favorite song. I bonded to this song as a teenager. She reminds me of Wednesday afternoons with my older sisters and their friends at the municipal swimming pool and also the evenings when they brought me to the Main Jaune.**"**
 
 
 # MailTape's selection
