@@ -31,6 +31,8 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/425/track6.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/425/track7.mp3'
 musiColor: musiColo425.png
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/425/track3.mp3'
+guestPic: guestPic425.jpg
+image: 'https://mailta.pe/img/fbPic425.png'
 ---
 <p id="introduction"> This morning, 
 <br><br>
