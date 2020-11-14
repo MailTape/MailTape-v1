@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track7_title: DJ Lycox - Red Lights
 track7_color: bliss
 track6_color: vibrant
