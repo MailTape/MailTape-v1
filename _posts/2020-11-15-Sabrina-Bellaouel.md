@@ -58,7 +58,7 @@ Sabrina Bellaouel: **"**It's my older sister's favorite song. I bonded to this s
 # MailTape's selection
 
 ## Sabrina Bellaouel - Nasser
-Jules: **"**[Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)**"**
+Jules: **"**This track opens the EP "We Don't Need To Be Ennemies". First, a whirlwind of dreamy choirs, then, alongside [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)'s voice and the speeches of Nasser, a techno beat that is both catchy and threatening. The dashed hopes of Pan-Africanism put into music.**"**
 
 ## Yak - Kaepora
 Jules: **"**[Yak](https://yaksound.bandcamp.com/)**"**
