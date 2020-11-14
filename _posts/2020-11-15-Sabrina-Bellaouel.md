@@ -36,7 +36,7 @@ image: 'https://mailta.pe/img/fbPic425.png'
 ---
 <p id="introduction"> This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share a sensitive selection of her favorite Sunday morning tunes with us.
 <br><br>
-[Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)
+2 years after her first album "Illusions" released in 2017,Sabrina Bellaouel is back with a new EP released on InFiné. Leaving for a moment her original RnB influences with [We Don't Need To Be Ennemies](https://sabrinabellaouel.bandcamp.com/album/we-don-t-need-to-be-enemies), she embarks on new horizons where the sweetness of the choirs meets the dark bass of techno rhythms. 
 </p>
 
 
