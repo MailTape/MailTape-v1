@@ -67,7 +67,7 @@ Jules: **"**What else is there to say? This track by Sheffield-based Producer, D
 Jules: **"**We're back to the camp of sweetness with this classic from the Lebanese group [Soapkills](https://soapkills.bandcamp.com/) who offers us a perfect mix of trip-hop and traditional Arabic sounds, carried by Yasmine Hamdan's vibrant voice.**"**
 
 ## DJ Lycox - Red Lights
-Jules: **"**[Príncipe](https://principediscos.bandcamp.com/)**"**
+Jules: **"**I discovered [Príncipe Discos](https://principediscos.bandcamp.com/) at the beginning of the year and since then I remain captivated by each record they release. DJ Lycox is one of the headliners of the Lisbon-based record label. Each time I listen to his EP "Kizas do Ly", from which this track is taken, I have the impression of discovering sounds coming from unknown horizons, synthesizing South American and African influences with percussions shaking up the codes of electronic music, and of being at a musical turning point between history and the future.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/) for her moving Sunday selections, and much respect to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
