@@ -8,6 +8,9 @@ track2_title: Ruru - I Forgot
 track3_title: Kaitlyn Aurelias Smith - Stratus
 track3_color: dreamy
 track2_color: trippy
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/426/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/426/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/426/track3.mp3'
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
