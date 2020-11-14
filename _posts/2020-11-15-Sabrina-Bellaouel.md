@@ -34,7 +34,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/425/track3.mp3'
 guestPic: guestPic425.jpg
 image: 'https://mailta.pe/img/fbPic425.png'
 ---
-<p id="introduction"> This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to select 
+<p id="introduction"> This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share her sensitive selection of three Sunday morning tunes with us.
 <br><br>
 [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)
 </p>
