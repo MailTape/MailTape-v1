@@ -33,6 +33,19 @@ musiColor: musiColo425.png
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/425/track3.mp3'
 guestPic: guestPic425.jpg
 image: 'https://mailta.pe/img/fbPic425.png'
+description: >-
+  This morning, we are delighted to welcome Franco-Algerian singer and producer,
+  Sabrina Bellaouel, to share a sensitive selection of her favorite Sunday
+  morning tunes with us. 2 years after her first album "Illusions" released in
+  2017,Sabrina Bellaouel is back with a new EP released on InFiné. Leaving for a
+  moment her original RnB influences with "We Don't Need To Be Ennemies", she
+  embarks on new horizons where the sweetness of the choirs meets the dark bass
+  of techno rhythms. And as we follow the producer on this journey full of
+  different emotions, it is a sensitive and rich breathing that remains in our
+  ears. Showing once again that her music is unclassifiable, Sabrina Bellaouel
+  has recently made a comeback on the traces of RnB in a dreamlike style and
+  beyond musical borders with her latest track "The Build Up" from her future EP
+  "Libra".
 ---
 <p id="introduction"> This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to share a sensitive selection of her favorite Sunday morning tunes with us.
 <br><br>
@@ -58,10 +71,10 @@ Sabrina Bellaouel: **"**It's my older sister's favorite song. I bonded to this s
 # MailTape's selection
 
 ## Sabrina Bellaouel - Nasser
-Jules: **"**This track opens the EP "We Don't Need To Be Ennemies". First, a whirlwind of dreamy choirs, then, alongside [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)'s voice and the speeches of Nasser, a techno beat that is both catchy and threatening. The dashed hopes of Pan-Africanism put into music.**"**
+Jules: **"**This track opens the EP "We Don't Need To Be Ennemies". First, a whirlwind of dreamy choirs, then, alongside [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)'s voice and Nasser's political speeches, a techno beat that is both catchy and threatening. The dashed hopes of Pan-Africanism put into music.**"**
 
 ## Yak - Kaepora
-Jules: **"**What else is there to say? This track by Sheffield-based Producer, DJ and drums and percussions master, [Yak](https://yaksound.bandcamp.com/), says it all, this rythm is the shot you need in the morning.**"**
+Jules: **"**What else is there to say? This track by Sheffield-based Producer, DJ and drums and percussions master, [Yak](https://yaksound.bandcamp.com/), says it all, this rhythm is the shot you need in the morning.**"**
 
 ## Soapkills - Cheftak
 Jules: **"**We're back to the camp of sweetness with this classic from the Lebanese group [Soapkills](https://soapkills.bandcamp.com/) who offers us a perfect mix of trip-hop and traditional Arabic sounds, carried by Yasmine Hamdan's vibrant voice.**"**
