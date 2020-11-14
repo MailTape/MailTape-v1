@@ -5,7 +5,7 @@ published: false
 track7_title: DJ Lycox - Red Lights
 track7_color: bliss
 track6_color: vibrant
-track6_title: Soap Kills - Cheftak
+track6_title: Soapkills - Cheftak
 track5_title: Yak - Kaepora
 track5_color: trippy
 track4_title: Sabrina Bellaouel - Nasser
@@ -34,7 +34,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/425/track3.mp3'
 guestPic: guestPic425.jpg
 image: 'https://mailta.pe/img/fbPic425.png'
 ---
-<p id="introduction"> This morning, 
+<p id="introduction"> This morning, we are delighted to welcome Franco-Algerian singer and producer, [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/), to select 
 <br><br>
 [Sabrina Bellaouel](https://sabrinabellaouel.bandcamp.com/)
 </p>
