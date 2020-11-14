@@ -64,7 +64,7 @@ Jules: **"**This track opens the EP "We Don't Need To Be Ennemies". First, a whi
 Jules: **"**What else is there to say? This track by Sheffield-based Producer, DJ and drums and percussions master, [Yak](https://yaksound.bandcamp.com/), says it all, this rythm is the shot you need in the morning.**"**
 
 ## Soapkills - Cheftak
-Jules: **"**[Soapkills](https://soapkills.bandcamp.com/)**"**
+Jules: **"**We're back to the camp of sweetness with this classic from the Lebanese group [Soapkills](https://soapkills.bandcamp.com/) who offers us a perfect mix of trip-hop and traditional Arabic sounds, carried by Yasmine Hamdan's vibrant voice.**"**
 
 ## DJ Lycox - Red Lights
 Jules: **"**[Príncipe](https://principediscos.bandcamp.com/)**"**
