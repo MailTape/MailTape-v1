@@ -34,7 +34,7 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. There's this beautiful intertwining of deeply nostalgic confrontations with himself and the music he uses to express this, which I found comforting in its optimism.**"**
 
 ## [Jenny Penkin](https://jennypenkin.bandcamp.com/) – Born Last Night
-Sarah: **"**Trying to find pockets of peace in my day! Yesterday, I took a bite out of a very nice peach and it was enough. When appreciated properly, little moments of levity can carry an entire day, and sometimes, this is fantastic to remember, especially when listening to good music like this :) I hope the -- and the break toward the end bring you as much joy as they brought me. **"**
+Sarah: **"**Trying to find pockets of peace everyday:) Yesterday, I took a bite out of a very nice peach and it was enough. When appreciated properly, little moments of levity can carry smiles , and sometimes, this is fantastic to remember, especially when listening to good music like this :) I hope the -- and the break toward the end bring you as much joy as they brought me. **"**
 
 ## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
 Sarah: **"** **"**
