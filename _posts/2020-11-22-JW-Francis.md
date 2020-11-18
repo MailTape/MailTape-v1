@@ -11,6 +11,7 @@ track2_color: trippy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/426/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/426/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/426/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/426/track4.mp3'
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
@@ -30,7 +31,7 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 
 # MailTape's selection
 
-## [JWestern](https://jwesternn.bandcamp.com/releases) – Let's Disappear
+## [JW Francis](https://jwesternn.bandcamp.com/releases) – I'm Down, Whatever
 Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. There's this beautiful intertwining of deeply nostalgic confrontations with himself and the music he uses to express this, which I found comforting in its optimism.**"**
 
 ## [Jenny Penkin](https://jennypenkin.bandcamp.com/) – Born Last Night
