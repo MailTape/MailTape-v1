@@ -31,16 +31,15 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 # MailTape's selection
 
 ## [JWestern](https://jwesternn.bandcamp.com/releases) – Let's Disappear
-Sarah: **"**JWestern's entire [new EP](https://jwesternn.bandcamp.com/album/just-people-ep) made it tough to choose just one track, but I kept coming back to this one. Its slowed down groove highlights JWestern's layering, gradually enough to be appreciated properly. Smooth and soft vocals backed up with the jazz bassline and guitar riffs feel like an embrace, an entire atmosphere of instrumental ebbs and flows. This track felt the most natural to write for JWestern, and the most authentic to his experience. His EP may be entitled [Just People](https://jwesternn.bandcamp.com/album/just-people-ep), but JWestern's honesty with relating the many swells of relationships make the experiences feel more profound than just that.**"**
+Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. There's this beautiful intertwining of deeply nostalgic confrontations with himself and the music **"**
 
 ## [Jenny Penkin](https://jennypenkin.bandcamp.com/) – Born Last Night
-Sarah: **"**Feel the movement in this one :)! Jenny Penkin takes on a journey of sound, brushing funk, jazz, and neo-soul. The sliding synths and the funk bassline deliver psychedelic dream energy. Aerial vocals shrouding the percussives make the song feel ethereal.**"**
+Sarah: **"**Trying to find pockets of peace in my day! Since doing this, I've found that the search for such pockets makes normal moments more special:) Yesterday, I took a bite out of a very nice peach and it was enough. When appreciated properly, little moments of levity can carry an entire day, and sometimes, this is fantastic to remember, especially when listening to good music like this :) When I heard this song, I closed my eyes and thought, oh yes. **"**
 
 ## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
-Sarah: **"**Lady Wray's previous discography (**Get Ready**, [Piece of Me](https://ladywray.bandcamp.com/album/piece-of-me-b-w-come-on-in)) solidified a signature 1970's swaying soul influence. Last week's release keeps with her retro inspirations but this track transcends into something godly. The plunging piano bass laced with Lady Wray's voice and the celestial chorus combine into an almost religious energy. So smooth and so powerful.**"**
+Sarah: **"** **"**
 
 ## [Ex-Olympian](https://exolympian.bandcamp.com/) – Taste of Love (San Giorio di Susa)
-Sarah: **"**Ex-Olympian's new album, [Afterlife](https://exolympian.bandcamp.com/album/afterlife), is a medley of soul and jazz influences given new meaning in their modern context. The album as a whole serves as a playground for combining contemporary sampling and soul roots. The brass section in this song with the bassline engineer a vintage feel, one that Ex-Olympian plays around with for the track. 
-Listen for the xylophone at the end :)**"**
+Sarah: **"**Songs like this gift us the wonderful opportunity to forget ourselves. Ourselves and the ticking and the trembling of our lives, the heaviness nested on our shoulders, even our acceptance of such realities. We slip away from all of it. For a moment, we leave these areas of pressure and stark reality for greener pastures of romantic thinking, where every tedious feature of our lives might be poetry instead. Listen to these instrumentals and sink into the flowers of your mind (that, luckily, have been there the entire time).**"**
 
 <p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
