@@ -14,6 +14,7 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/426/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/426/track4.mp3'
 track4_title: 'JW Francis - I''m Down, Whatever'
 track4_color: bliss
+track7_color: bliss
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
