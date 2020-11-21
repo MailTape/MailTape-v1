@@ -48,7 +48,7 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. The deeply nostalgic confrontations with himself are beautifully intertwined with the music JW Francis uses to express them, which I found comforting in its optimism. Talking to JW about this track made me more fascinated with it, especially as he expressed that in this track, he felt the most free.**"**
 
 ## [Elan Noon](https://jennypenkin.bandcamp.com/) – Modern Blues
-Sarah: **"**This track comes from Elan Noon's new album, Colour Story. I hope the balanced jazz progression and the  of these jazz progressionI hope the -- and the break toward the end bring you as much joy as they brought me.**"**
+Sarah: **"**This track comes from Elan Noon's fantastic new album, Colour Story. Chord and melody dissonance comes into play throughout the album in such an engaging ensemble of sound. The calculated dissonace in this track, like many of the album's others, is carefully and gracefully threaded with Keenan Mittag-Degala's velvet vocals. The balance of guitar dissonance, gentle synths, and hazy vocals bring out such sweet and spiraling harmonies.**"**
 
 ## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
 Sarah: **"** **"**
