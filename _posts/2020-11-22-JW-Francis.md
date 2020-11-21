@@ -28,6 +28,20 @@ musiColor: musiColor426.png
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/426/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/426/track5.mp3'
 track6_link: 'https://soundcloud.com/mokinamusic/orfeu-1'
+image: 'https://mailta.pe/img/fbPic426.png'
+track6_title: Mokina - Orfeu
+track7_title: lyam. - Pretty Pretty
+track5_title: Elan Noon - Honeyrose
+guest_name: JW Francis
+description: >-
+  This morning, we are delighted to welcome JW Francis to MailTape for a
+  playlist of flowing instrumentals and gentle melodies to ease into your Sunday
+  morning. Two weeks ago, JW Francis released his full album, describing it as
+  the introduction to himself. Full of unique guitar melodies, striking lyrics,
+  and an engaging melange of sampling, the album makes a little world of JW's
+  self reflections, a proper introduction to what walking around his brain must
+  be like.  This carefully curated episode gifts you a space of musical comfort
+  to meditate and let your mind wander.
 ---
 <p id="introduction">This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
   Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
