@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: 'Ash Soul, Inc. - I Do Love You'
 track1_color: bliss
 track2_title: Ruru - I Forgot
