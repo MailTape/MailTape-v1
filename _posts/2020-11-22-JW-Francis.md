@@ -18,6 +18,13 @@ track7_color: bliss
 track6_color: trippy
 track5_color: dreamy
 guestPic: guestPic426.jpg
+category: '426'
+writer: Sarah
+illustrator: Camille Célestin
+author: Sarah
+guest_color: vibrant
+episode_URL: 'http://mailta.pe/426/JW-Francis/'
+musiColor: musiColor426.png
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
