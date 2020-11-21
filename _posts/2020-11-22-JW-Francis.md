@@ -27,8 +27,10 @@ episode_URL: 'http://mailta.pe/426/JW-Francis/'
 musiColor: musiColor426.png
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/426/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/426/track5.mp3'
+track6_link: 'https://soundcloud.com/mokinamusic/orfeu-1'
 ---
-<p id="introduction">This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
+<p id="introduction">This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
+  Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
 </p>
 
 # JW Francis's selection
@@ -45,15 +47,15 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 # MailTape's selection
 
 ## [JW Francis](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy) – I'm Down, Whatever
-Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. The deeply nostalgic confrontations with himself are beautifully intertwined with the music JW Francis wraps them around. Talking to JW about this track made me more fascinated with it, especially as he expressed that in this track, he felt the most free.**"**
+Sarah: **"**Listening over the new album, [We Share A Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. The deeply nostalgic confrontations with himself are beautifully intertwined with the music JW Francis wraps them around. Talking to JW about this track made me more fascinated with it, especially as he expressed that in this track, he felt the most free.**"**
 
 ## [Elan Noon](https://elannoon.bandcamp.com/) – Honeyrose
-Sarah: **"**This track comes from Elan Noon's fantastic new album, Colour Story. Chord and melody dissonance comes into play throughout the album in such an engaging ensemble of sound. The calculated dissonace in this track, like many of the album's others, is carefully and gracefully threaded with Keenan Mittag-Degala's velvet vocals. The balance of guitar dissonance, gentle synths, and hazy vocals bring out such sweet and spiraling harmonies.**"**
+Sarah: **"**This track comes from Elan Noon's fantastic new album, [Colour Story](https://elannoon.bandcamp.com/album/colour-story). Chord and melody dissonance comes into play throughout the album in such an engaging ensemble of sound. The calculated dissonace in this track, like many of the album's others, is carefully and gracefully threaded with Keenan Mittag-Degala's velvet vocals. The balance of guitar dissonance, gentle synths, and hazy vocals bring out such sweet and spiraling harmonies.**"**
 
-## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
-Sarah: **"** **"**
+## [Mokina](https://ladywray.bandcamp.com/) – Orfeu
+Sarah: **"**The bossa nova in the beginning of this track caught my ear, especially this contagious singing. Put me in such a fantastic mood:) The electronic development later on thorougly surprised me, and maybe it will surprise you, too :) Love this mesh between genres done so seamlessly.**"**
 
 ## [lyam.](https://exolympian.bandcamp.com/) – Pretty Pretty
 Sarah: **"**Songs like this track by Indonesian artist [lyam.](https://gabegabetapes.bandcamp.com/track/oh-neverland) gift us the wonderful opportunity to forget ourselves. Ourselves and the ticking and the trembling of our lives, the heaviness nested on our shoulders, even our acceptance of such realities. With these bubbling basslines, mellow guitar strums, and soft falling vocals, we slip away from all of it. For a moment, we leave these areas of pressure and stark reality for greener pastures of romantic thinking, where every tedious feature of our lives might be poetry instead. Listen to these instrumentals and sink into the flowers of your mind (that, luckily, have been there the entire time).**"**
 
-<p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
+<p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JW Francis](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy) for his fresh meditative selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's **stellar** illustration, such a gift!! Until next time, and remember, MailTape loves you ;)</p>
