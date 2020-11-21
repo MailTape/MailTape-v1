@@ -28,11 +28,7 @@ musiColor: musiColor426.png
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/426/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/426/track5.mp3'
 ---
-<p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
-  
-Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy). Full of unique guitar melodies, 
-  
-  , and spiraling pockets of layered instrumentals, the EP moves through the many modes of relationships and the space they take up in our heads. Based in Leeds, JWestern is influenced by an array of jazz and neo-soul musicians, clearly evident by the stretches of jazz riffs and grooves in his own songs:)
+<p id="introduction">This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
 </p>
 
 # JW Francis's selection
@@ -58,6 +54,6 @@ Sarah: **"**This track comes from Elan Noon's fantastic new album, Colour Story.
 Sarah: **"** **"**
 
 ## [lyam.](https://exolympian.bandcamp.com/) – Pretty Pretty
-Sarah: **"**Songs like this track by Indonesian artist lyam. gift us the wonderful opportunity to forget ourselves. Ourselves and the ticking and the trembling of our lives, the heaviness nested on our shoulders, even our acceptance of such realities. With these bubbling basslines, mellow guitar strums, and soft falling vocals, we slip away from all of it. For a moment, we leave these areas of pressure and stark reality for greener pastures of romantic thinking, where every tedious feature of our lives might be poetry instead. Listen to these instrumentals and sink into the flowers of your mind (that, luckily, have been there the entire time).**"**
+Sarah: **"**Songs like this track by Indonesian artist [lyam.](https://gabegabetapes.bandcamp.com/track/oh-neverland) gift us the wonderful opportunity to forget ourselves. Ourselves and the ticking and the trembling of our lives, the heaviness nested on our shoulders, even our acceptance of such realities. With these bubbling basslines, mellow guitar strums, and soft falling vocals, we slip away from all of it. For a moment, we leave these areas of pressure and stark reality for greener pastures of romantic thinking, where every tedious feature of our lives might be poetry instead. Listen to these instrumentals and sink into the flowers of your mind (that, luckily, have been there the entire time).**"**
 
 <p id="outroduction">That's it for this morning! We hope you enjoyed listening with us :) Thank you to [JWestern](https://jwesternn.bandcamp.com/releases) for his neo-soul smooooth selection, we loved welcoming you to MailTape! Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's stunning illustration, you have outdone yourself once again:) See you all next time, have a great week, everyone!</p>
