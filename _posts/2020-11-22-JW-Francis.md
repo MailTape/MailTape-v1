@@ -30,7 +30,9 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/426/track5.mp3'
 ---
 <p id="introduction">This Sunday morning is all about revived retro grooves:) [JWestern](https://jwesternn.bandcamp.com/releases) hits MailTape with a dynamite neo-soul selection to get us moving. 
   
-  Two days ago, JWestern released his debut EP, [Just People](https://jwesternn.bandcamp.com/releases). Full of velvet vocals, jazz riffs, and spiraling pockets of layered instrumentals, the EP moves through the many modes of relationships and the space they take up in our heads. Based in Leeds, JWestern is influenced by an array of jazz and neo-soul musicians, clearly evident by the stretches of jazz riffs and grooves in his own songs:)
+Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy). Full of unique guitar melodies, 
+  
+  , and spiraling pockets of layered instrumentals, the EP moves through the many modes of relationships and the space they take up in our heads. Based in Leeds, JWestern is influenced by an array of jazz and neo-soul musicians, clearly evident by the stretches of jazz riffs and grooves in his own songs:)
 </p>
 
 # JW Francis's selection
@@ -49,7 +51,7 @@ JW Francis: **"**I was first introduced to this song while I was horizontal on t
 ## [JW Francis](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy) – I'm Down, Whatever
 Sarah: **"**Listening over the new album, We Share A Similar Joy, I was struck by the overwhelmingly genuine presence JW Francis has in his songwriting. The deeply nostalgic confrontations with himself are beautifully intertwined with the music JW Francis wraps them around. Talking to JW about this track made me more fascinated with it, especially as he expressed that in this track, he felt the most free.**"**
 
-## [Elan Noon](https://jennypenkin.bandcamp.com/) – Honeyrose
+## [Elan Noon](https://elannoon.bandcamp.com/) – Honeyrose
 Sarah: **"**This track comes from Elan Noon's fantastic new album, Colour Story. Chord and melody dissonance comes into play throughout the album in such an engaging ensemble of sound. The calculated dissonace in this track, like many of the album's others, is carefully and gracefully threaded with Keenan Mittag-Degala's velvet vocals. The balance of guitar dissonance, gentle synths, and hazy vocals bring out such sweet and spiraling harmonies.**"**
 
 ## [Lady Wray](https://ladywray.bandcamp.com/) – Storms
