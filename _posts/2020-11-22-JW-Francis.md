@@ -43,7 +43,7 @@ description: >-
   be like.  This carefully curated episode gifts you a space of musical comfort
   to meditate and let your mind wander.
 ---
-<p id="introduction">This morning, we are delighted to welcome JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
+<p id="introduction">This morning, we are delighted to welcome ray of sunshine JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
   Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
 </p>
 
