@@ -5,7 +5,7 @@ published: true
 track1_title: 'Ash Soul, Inc. - I Do Love You'
 track1_color: bliss
 track2_title: Ruru - I Forgot
-track3_title: Kaitlyn Aurelias Smith - Stratus
+track3_title: Kaitlyn Aurelia Smith - Stratus
 track3_color: dreamy
 track2_color: trippy
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/426/track1.mp3'
