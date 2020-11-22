@@ -55,7 +55,7 @@ JW Francis: **"**The whole POINT of music is to communicate feelings that can't 
 ## [Ruru](https://rutheday.bandcamp.com/) - I Forgot
 JW Francis: **"**I don't know much about Ruru except that she is from the Philippines and she makes music that I'm obsessed with. I've been living with this song in particular for a while now. Sometimes you have to make a tradeoff between interesting chords and a strong melody, but this song has both PLUS a backbeat that immediately draws you in. 10/10.**"** 
 
-## [Kaitlyn Aurelias Smith](https://kaitlynaureliasmith.bandcamp.com/) - Stratus
+## [Kaitlyn Aurelia Smith](https://kaitlynaureliasmith.bandcamp.com/) - Stratus
 JW Francis: **"**I was first introduced to this song while I was horizontal on the ground looking up at the sky. My friend Mark Brathwaite said 'hold on a minute' and put this on. How to describe this track? I feel like I am decomposing. I feel like I am the waves washing up on a shore, but also the sand that is being molded by the waves (which is also me). Groundless and grounding. 10/10.**"**
 
 # MailTape's selection
