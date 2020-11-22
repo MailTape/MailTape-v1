@@ -44,7 +44,7 @@ description: >-
   to meditate and let your mind wander.
 ---
 <p id="introduction">This morning, we are delighted to welcome ray of sunshine JW Francis to MailTape for a playlist of flowing instrumentals and gentle melodies to ease into your Sunday morning. 
-  Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections, a proper introduction to what walking around his brain must be like.  This carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
+  Two weeks ago, JW Francis released his full album, [We Share a Similar Joy](https://jwfrancis.bandcamp.com/album/we-share-a-similar-joy), describing it as the introduction to himself. Full of unique guitar melodies, striking lyrics, and an engaging melange of sampling, the album makes a little world of JW's self reflections. It is truly a proper introduction to what walking around his brain must be like.  The following carefully curated episode gifts you a space of musical comfort to meditate and let your mind wander. 
 </p>
 
 # JW Francis's selection
@@ -67,7 +67,7 @@ Sarah: **"**Listening over the new album, [We Share A Similar Joy](https://jwfra
 Sarah: **"**This track comes from Elan Noon's fantastic new album, [Colour Story](https://elannoon.bandcamp.com/album/colour-story). Chord and melody dissonance comes into play throughout the album in such an engaging ensemble of sound. The calculated dissonace in this track, like many of the album's others, is carefully and gracefully threaded with Keenan Mittag-Degala's velvet vocals. The balance of guitar dissonance, gentle synths, and hazy vocals bring out such sweet and spiraling harmonies.**"**
 
 ## [Mokina](https://ladywray.bandcamp.com/) – Orfeu
-Sarah: **"**The bossa nova in the beginning of this track caught my ear, especially this contagious singing. Put me in such a fantastic mood:) The electronic development later on thorougly surprised me, and maybe it will surprise you, too :) Love this mesh between genres done so seamlessly.**"**
+Sarah: **"**The bossa nova in the beginning of this track caught my ear, especially this contagious singing. The energy put me in such a fantastic mood. The electronic development later on thorougly surprised me, and maybe it will surprise you, too :) Love this mesh between genres done so seamlessly.**"**
 
 ## [lyam.](https://exolympian.bandcamp.com/) – Pretty Pretty
 Sarah: **"**Songs like this track by Indonesian artist [lyam.](https://gabegabetapes.bandcamp.com/track/oh-neverland) gift us the wonderful opportunity to forget ourselves. Ourselves and the ticking and the trembling of our lives, the heaviness nested on our shoulders, even our acceptance of such realities. With these bubbling basslines, mellow guitar strums, and soft falling vocals, we slip away from all of it. For a moment, we leave these areas of pressure and stark reality for greener pastures of romantic thinking, where every tedious feature of our lives might be poetry instead. Listen to these instrumentals and sink into the flowers of your mind (that, luckily, have been there the entire time).**"**
