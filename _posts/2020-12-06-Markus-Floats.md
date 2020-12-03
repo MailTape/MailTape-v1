@@ -15,6 +15,21 @@ track4_link: 'https://soundcloud.com/constellation-records/markus-floats-forward
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/428/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/428/track6.mp3'
 track7_link: 'https://soundcloud.com/schloom/down-for-double'
+track1_title: Ma$e (ft. Billy Lawrence) – Love U So
+track1_color: vibrant
+track2_title: Change – Hold Tight
+track2_color: bliss
+track3_title: Kashif – Baby Don’t Break Your Baby’s Heart
+track3_color: vibrant
+track4_title: Markus Floats – Forward Always
+track4_color: trippy
+track5_title: Bill Withers – Grandma's Hands
+track5_color: dreamy
+track6_title: Gino Soccio – Try it Out
+track6_color: trippy
+track7_title: Cubie Burke – Down for Double
+track7_color: vibrant
+episode_URL: 'https://mailta.pe/428/markus-floats/'
 ---
 <p id="introduction">This morning we welcome Montréal-based producer, sound artist and audio/visual performer, [T. Gowdy](http://www.t-g0wd-y.org/), to select three exquisitely textured Sunday morning tunes with us. 
 <br><br>
