@@ -8,6 +8,13 @@ writer: Sanjay Mistry
 category: '428'
 guest_name: Markus Floats
 guest_color: bliss
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/428/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/428/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/428/track3.mp3'
+track4_link: 'https://soundcloud.com/constellation-records/markus-floats-forward-always'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/428/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/428/track6.mp3'
+track7_link: 'https://soundcloud.com/schloom/down-for-double'
 ---
 <p id="introduction">This morning we welcome Montréal-based producer, sound artist and audio/visual performer, [T. Gowdy](http://www.t-g0wd-y.org/), to select three exquisitely textured Sunday morning tunes with us. 
 <br><br>
@@ -29,7 +36,7 @@ Markus Floats: **"**Mmm, listen to this groove though. Kashif is one of those fr
 
 # MailTape's selection
 
-## Markus Floats – Therapy With Colour
+## Markus Floats – Forward Always
 Sanjay: **"**One of my favourite releases this year. Each of the five songs on the EP has a distinct vibe but the whole feels like a cathartic antidote to technical biases endemic to digital production of most electronic music. This track begins the EP with lightly peppered pads and a low drone slowing rising up over a persistent and sinister pulse.**"**
 
 ## Le fruit vert – Qu'en pense le sablier?
