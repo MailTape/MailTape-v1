@@ -32,13 +32,13 @@ Markus Floats: **"**Mmm, listen to this groove though. Kashif is one of those fr
 ## Markus Floats – Therapy With Colour
 Sanjay: **"**One of my favourite releases this year. Each of the five songs on the EP has a distinct vibe but the whole feels like a cathartic antidote to technical biases endemic to digital production of most electronic music. This track begins the EP with lightly peppered pads and a low drone slowing rising up over a persistent and sinister pulse.**"**
 
-## Bill Withers – Grandma's Hands
+## Le fruit vert – Qu'en pense le sablier?
 Sanjay: **"**I selected one of [Isnaj Dui](https://katie-english.net/)'s (Katie English) tracks on [Loscil's MailTape](https://www.mailta.pe/277/loscil/) selection back in September 2017. Here, Katie combines field recordings and sampling alongside her trademark concert and bass flutes and dulcimer. Unstable textures, dissonant harmonic structures and throbbing basslines create a soundscape that is at once serene and grating.**"**
 
-## Gino Soccio – Try it Out
+## Bill Withers – Grandma's Hands
 Sanjay: **"**This is the ominously-titled closing track from previous MailTape guest [Félicia Atkinson](https://www.mailta.pe/294/felicia-atkinson/)'s latest release, 'Everything Evaporate'. Félicia seems to create the illusion that all of the instrumentation is floating, decontextualized, and untethered to any structure. Until the lingering tones converge into a warm embrace of rippling harmonies engulfed in a comforting sea of hiss.**"**
 
-## Kali Malone – Litanic Cloth Wrung
+## Gino Soccio – Try it Out
 Sanjay: **"**An intensely meditative dream of a piece from [Kali Malone](https://kalimalone.com/)'s album, 'The Sacrificial Code'. Soft, breathy warbles and minor-key melodies materialise in slow motion—cascading gently with metronomic precision.**"**
 
 
