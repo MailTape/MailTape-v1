@@ -31,6 +31,7 @@ track7_title: Cubie Burke – Down for Double
 track7_color: vibrant
 episode_URL: 'https://mailta.pe/428/markus-floats/'
 guestPic: guestPic428.jpg
+image: 'https://mailta.pe/img/fbPic428.png'
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
