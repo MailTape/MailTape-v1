@@ -31,9 +31,9 @@ track7_title: Cubie Burke – Down for Double
 track7_color: vibrant
 episode_URL: 'https://mailta.pe/428/markus-floats/'
 ---
-<p id="introduction">This morning we welcome Montréal-based producer, sound artist and audio/visual performer, [T. Gowdy](http://www.t-g0wd-y.org/), to select three exquisitely textured Sunday morning tunes with us. 
+<p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
-Tim's audio/visual performances have featured at Mutek (Montréal and Barcelona) and Spektrum (Berlin), alongside his ongoing work as an in-demand producer/engineer with over fifty album credits to date, including Suuns (Secretly Canadian), Ensemble (Fat Cat) and Ada Lea (Saddle Creek) to name just a few.
+Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space Drones Club and bass player in a number of bands, Markus isn't constrained by a single style post-punk to Afrofuturism, and experimental electronica artist under the moniker Markus Floats. 
 </p>
 
 
