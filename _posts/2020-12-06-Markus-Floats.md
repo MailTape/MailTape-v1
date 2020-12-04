@@ -33,7 +33,7 @@ episode_URL: 'https://mailta.pe/428/markus-floats/'
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
-Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single style post-punk to Afrofuturism, and experimental electronica artist under the moniker Markus Floats. 
+Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
 </p>
 
 
