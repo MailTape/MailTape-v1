@@ -63,7 +63,7 @@ Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones througho
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
 ## Gino Soccio – Try it Out
-Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! 'Try It Out' also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
+Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! 'Try It Out' also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer, Erma Shaw.**"**
 
 ## Cubie Burke – Down for Double
 Sanjay: **"**An intensely meditative dream of a piece from [Kali Malone](https://kalimalone.com/)'s album, 'The Sacrificial Code'. Soft, breathy warbles and minor-key melodies materialise in slow motion—cascading gently with metronomic precision.**"**
