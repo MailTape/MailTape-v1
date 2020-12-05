@@ -69,4 +69,4 @@ Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked 
 Sanjay: **"**An intensely meditative dream of a piece from [Kali Malone](https://kalimalone.com/)'s album, 'The Sacrificial Code'. Soft, breathy warbles and minor-key melodies materialise in slow motion—cascading gently with metronomic precision.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [T. Gowdy](http://www.t-g0wd-y.org/) for his Sunday selections and to [Noémie Dijon](https://noemiedijon.tumblr.com/) for this episode's brilliant illustration.</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
