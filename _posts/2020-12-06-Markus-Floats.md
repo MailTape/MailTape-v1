@@ -58,7 +58,7 @@ Markus: **"**Mmm, listen to this groove though. Kashif is one of those freaks th
 # MailTape's selection
 
 ## Markus Floats – Forward Always
-Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album'reiterates many of the sounds, textures and timbres heard previously.**"**
+Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album' reiterates many of the sounds, textures and timbres heard previously.**"**
 
 ## Bill Withers – Grandma's Hands
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
