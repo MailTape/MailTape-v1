@@ -63,7 +63,7 @@ Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones througho
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
 ## Gino Soccio – Try it Out
-Sanjay: **"**This is the ominously-titled closing track from previous MailTape guest [Félicia Atkinson](https://www.mailta.pe/294/felicia-atkinson/)'s latest release, 'Everything Evaporate'. Félicia seems to create the illusion that all of the instrumentation is floating, decontextualized, and untethered to any structure. Until the lingering tones converge into a warm embrace of rippling harmonies engulfed in a comforting sea of hiss.**"**
+Sanjay: **"**A horn-laden wiggler from the early 80s, 'Try It Out' featured a salacious trumpet solo from Roger Walls and vocals by Memphis singer Erma Shaw.**"**
 
 ## Cubie Burke – Down for Double
 Sanjay: **"**An intensely meditative dream of a piece from [Kali Malone](https://kalimalone.com/)'s album, 'The Sacrificial Code'. Soft, breathy warbles and minor-key melodies materialise in slow motion—cascading gently with metronomic precision.**"**
