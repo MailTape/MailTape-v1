@@ -57,7 +57,7 @@ Markus: **"**Mmm, listen to this groove though. Kashif is one of those freaks th
 # MailTape's selection
 
 ## Markus Floats – Forward Always
-Sanjay: **"**One of my favourite releases this year. Each of the five songs on the EP has a distinct vibe but the whole feels like a cathartic antidote to technical biases endemic to digital production of most electronic music. This track begins the EP with lightly peppered pads and a low drone slowing rising up over a persistent and sinister pulse.**"**
+Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album'reiterates many of the sounds, textures and timbres heard previously.**"**
 
 ## Bill Withers – Grandma's Hands
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
