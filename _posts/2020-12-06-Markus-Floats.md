@@ -67,7 +67,7 @@ Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is
 Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! This track also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
 
 ## Cubie Burke – Down for Double
-Sanjay: **"**An intensely meditative dream of a piece from [Kali Malone](https://kalimalone.com/)'s album, 'The Sacrificial Code'. Soft, breathy warbles and minor-key melodies materialise in slow motion—cascading gently with metronomic precision.**"**
+Sanjay: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
