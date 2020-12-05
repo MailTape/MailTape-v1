@@ -35,6 +35,7 @@ image: 'https://mailta.pe/img/fbPic428.png'
 description: >-
   This morning we welcome Markus Floats to select three snake-hipped Sunday
   morning tunes with us on MailTape.
+musiColor: musiColor428.png
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
