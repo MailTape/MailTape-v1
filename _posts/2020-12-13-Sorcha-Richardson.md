@@ -2,6 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+illustrator: Jason Pridham
+category: '429'
+guest_name: Sorcha Richardson
+guest_color: vibrant
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
