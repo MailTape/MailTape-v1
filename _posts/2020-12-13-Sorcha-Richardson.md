@@ -27,11 +27,11 @@ Sorcha: **"**I just heard this today and have listened 4 times already. I'll pro
 
 # MailTape's selection
 
-## [MPL](https://www.mplofficiel.fr) - Wagon-Wagon
-Sarah: **"**From the first notes and this fabulous chorus, it's a journey beginning. And then this song becomes your partner of a moment that leaves you like a accompanied child in transit in an airport, lost and ready to reach out to anyone. On Sundays, when it seems that you have in front of you both too much time, and at the same time not enough before the sun sets again, it is this kind of love story that takes you on board and declare “may the day not be the one you will regret not having spent.**"**
+## [Sorcha Richardson](https://www.mplofficiel.fr) - Wagon-Wagon
+Sarah: **"**Sorcha has such a striking way of describing the world around her.**"**
 
-## [Arthur H](https://www.arthur-h.net) - Paris la Silencieuse
-Sarah: **"**Used to taking trains, used to continuing the journey of the TGV that arrived at Paris Gare de Lyon with music to slip into the arms of a tumultuous city. The perfect sequel to Wagon Wagon is played with Arthur H. A guru at the same level than MPL’s Arthur.**"**
+## [Porridge Radio](https://www.arthur-h.net) - Paris la Silencieuse
+Sarah: **"**This band got me through this year. 7 Seconds stands out as a more gentle release, following the band's tracks **Sweet** from January and March's **Circling** (you should consider checking those out, too ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. I find this punk rock clash with sweet 80's pop so captivating :) hope you like the energy as much as I did.**"**
 
 ## [Mildlife](https://mildlife.com.au) - How Long Does It Take
 Sarah: **"**This is a big allegory of a post-MPL listening, but without the lyrics. Go through such different layers, from a sweet melancholy towards a desire to clap foots and head that sets in without you realizing it to end with an inexorable desire to run in the street with your mouth open, catching flies and not regret it.**"**
