@@ -7,6 +7,7 @@ illustrator: Jason Pridham
 category: '429'
 guest_name: Sorcha Richardson
 guest_color: vibrant
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/429/track1.mp3'
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
