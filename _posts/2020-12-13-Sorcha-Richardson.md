@@ -9,7 +9,7 @@ guest_name: Sorcha Richardson
 guest_color: vibrant
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/429/track1.mp3'
 track3_link: 'https://soundcloud.com/boymeetseuphoria/take-me-where-your-heart-is-2'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/429/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/429/track2.mp3'
 track3_color: dreamy
 track2_color: bliss
 track1_color: vibrant
