@@ -18,6 +18,22 @@ track1_title: Pillow Queens - Liffey
 track3_title: Q - Take Me Where Your Heart Is
 track4_title: 'Sorcha Richardson - '
 track4_color: bliss
+track5_color: vibrant
+track6_color: bliss
+track7_color: dreamy
+writer: ''
+guestPic: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
