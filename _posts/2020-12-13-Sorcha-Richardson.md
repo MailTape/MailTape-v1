@@ -24,12 +24,14 @@ track7_color: dreamy
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/429/track4.mp3'
 writer: Sarah
 guestPic: guestPic429.jpg
+image: 'https://mailta.pe/img/fbPic429.png'
+musiColor: musiColor429.png
+episode_URL: 'http://mailta.pe/429/Sorcha-Richardson'
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
   Then, we must know how to let the music speak for itself and step aside, to contemplate. Atypical voices, slow constructions, all the luxuriousness of a world which, as winter allows it, seems to take a break to regenerate and mutate for the better.
 </p>
-
 
 # Sorcha Richardson's selection
 
