@@ -21,6 +21,7 @@ track4_color: bliss
 track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/429/track4.mp3'
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
@@ -42,7 +43,7 @@ Sorcha: **"**I just heard this today and have listened 4 times already. I'll pro
 # MailTape's selection
 
 ## [Sorcha Richardson](https://www.mplofficiel.fr) - Twisting The Knife
-Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. I am always so striken by Sorcha's songwriting; she dissects the ties between us with tremendous attention and care. I still think of the kerosene arrows sent by a lover's glance:) She describes her world with brutal tenderness, in this track and all through her album, First Prize Bravery.**"**
+Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of the kerosene arrows sent by a lover's glance:) She describes her world with brutal tenderness, in this track and all through her album, First Prize Bravery.**"**
 
 ## [Porridge Radio](https://www.arthur-h.net) - Paris la Silencieuse
 Sarah: **"**Porridge Radio got me through this year. 7 Seconds stands out as a more gentle release, following the band's tracks **Sweet** from January and March's **Circling** (you should consider checking those out, too ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. I find this punk rock clash with sweet 80's pop so captivating :) hope you like the energy as much as I did.**"**
