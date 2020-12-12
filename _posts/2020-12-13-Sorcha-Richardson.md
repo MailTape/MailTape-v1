@@ -28,6 +28,9 @@ image: 'https://mailta.pe/img/fbPic429.png'
 musiColor: musiColor429.png
 episode_URL: 'http://mailta.pe/429/Sorcha-Richardson'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/429/track5.mp3'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/429/track7.mp3'
+track7_title: Michael Nau - Rides Through The Morning
+track5_title: Porridge Radio - 7 Seconds
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
@@ -56,8 +59,8 @@ Sarah: **"**Porridge Radio's album Every Bad got me through the year. This stand
 ## [Mildlife](https://mildlife.com.au) - How Long Does It Take
 Sarah: **"**This is a big allegory of a post-MPL listening, but without the lyrics. Go through such different layers, from a sweet melancholy towards a desire to clap foots and head that sets in without you realizing it to end with an inexorable desire to run in the street with your mouth open, catching flies and not regret it.**"**
 
-## [Leng Bian](https://www.mplofficiel.fr) - My Girl, My Love (unmastered)
-Sarah: **"**Finishing off today with this beautiful number by Leng Bian. The harp is mesmerizing, I love how authentic this unmastered version sounds. So much elegance, really nice:)**"**
+## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
+Sarah: **"**I wish my whole life could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
 
 <p id="outroduction">Beauty has to stop, sorry! Hope you’ve enjoyed it, as to see this day as new, bright and shiny one. Thank you to MPL [Ma Pauvre Lucette] for this selection full of sensibility and yet, a perfect mirror of Sundays as protected into some chaotic outer world. Thank you to [Thibault Daumain](http://thibaultdaumain.fr) for his great and colored interpretation from a neon-sourced picture of [Xavier Lours](http://xavierlours.fr).
   <br><br>
