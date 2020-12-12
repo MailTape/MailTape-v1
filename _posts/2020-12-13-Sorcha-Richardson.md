@@ -31,6 +31,8 @@ track5_link: 'https://mailtapesounds.s3.amazonaws.com/429/track5.mp3'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/429/track7.mp3'
 track7_title: Michael Nau - Rides Through The Morning
 track5_title: Porridge Radio - 7 Seconds
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/429/track6.mp3'
+track6_title: Molly Parden - Who Are We Kiddin'
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
