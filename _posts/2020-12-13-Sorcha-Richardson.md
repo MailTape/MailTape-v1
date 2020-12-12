@@ -16,7 +16,7 @@ track1_color: vibrant
 track2_title: Adrianne Lenker - Anything
 track1_title: Pillow Queens - Liffey
 track3_title: Q - Take Me Where Your Heart Is
-track4_title: 'Sorcha Richardson - '
+track4_title: Sorcha Richardson - Twisting The Knife
 track4_color: bliss
 track5_color: vibrant
 track6_color: bliss
