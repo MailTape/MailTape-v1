@@ -27,6 +27,13 @@ guestPic: guestPic429.jpg
 image: 'https://mailta.pe/img/fbPic429.png'
 musiColor: musiColor429.png
 episode_URL: 'http://mailta.pe/429/Sorcha-Richardson'
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+description: ''
 ---
 <p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
   <br><br>
@@ -47,7 +54,7 @@ Sorcha: **"**I just heard this today and have listened 4 times already. I'll pro
 # MailTape's selection
 
 ## [Sorcha Richardson](https://www.mplofficiel.fr) - Twisting The Knife
-Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her album, First Prize Bravery.**"**
+Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her debut album, First Prize Bravery.**"**
 
 ## [Porridge Radio](https://www.arthur-h.net) - 7 Seconds
 Sarah: **"**Porridge Radio's album Every Bad got me through the year. The single 7 Seconds, stands out as a more gentle release, as compared to the band's tracks Sweet, Circling, and Give/Take (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. I find this punk rock clash with sweet 80's pop so captivating :) hope you like the energy as much as I did.**"**
@@ -56,7 +63,7 @@ Sarah: **"**Porridge Radio's album Every Bad got me through the year. The single
 Sarah: **"**This is a big allegory of a post-MPL listening, but without the lyrics. Go through such different layers, from a sweet melancholy towards a desire to clap foots and head that sets in without you realizing it to end with an inexorable desire to run in the street with your mouth open, catching flies and not regret it.**"**
 
 ## [Leng Bian](https://www.mplofficiel.fr) - My Girl, My Love (unmastered)
-Sarah: **"**End with all the beauty of MPL, of the words, of the flow which has the leisure to put vocoder in while the prior talent does not require the slightest pinch. Once the song is over, everything will indeed go M-I-E /better/ during the day.**"**
+Sarah: **"**Finishing off today with this beautiful number by Leng Bian. The harp is mesmerizing, I love how authentic this unmastered version sounds. So much elegance, really nice:)**"**
 
 <p id="outroduction">Beauty has to stop, sorry! Hope you’ve enjoyed it, as to see this day as new, bright and shiny one. Thank you to MPL [Ma Pauvre Lucette] for this selection full of sensibility and yet, a perfect mirror of Sundays as protected into some chaotic outer world. Thank you to [Thibault Daumain](http://thibaultdaumain.fr) for his great and colored interpretation from a neon-sourced picture of [Xavier Lours](http://xavierlours.fr).
   <br><br>
