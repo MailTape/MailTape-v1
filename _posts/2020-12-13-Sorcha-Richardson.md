@@ -45,8 +45,8 @@ Sorcha: **"**I just heard this today and have listened 4 times already. I'll pro
 ## [Sorcha Richardson](https://www.mplofficiel.fr) - Twisting The Knife
 Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her album, First Prize Bravery.**"**
 
-## [Porridge Radio](https://www.arthur-h.net) - Paris la Silencieuse
-Sarah: **"**Porridge Radio got me through this year. 7 Seconds stands out as a more gentle release, following the band's tracks **Sweet** from January and March's **Circling** (you should consider checking those out, too ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. I find this punk rock clash with sweet 80's pop so captivating :) hope you like the energy as much as I did.**"**
+## [Porridge Radio](https://www.arthur-h.net) - 7 Seconds
+Sarah: **"**Porridge Radio's album Every Bad got me through the year. The single 7 Seconds, stands out as a more gentle release, as compared to the band's tracks Sweet, Circling, and Give/Take (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. I find this punk rock clash with sweet 80's pop so captivating :) hope you like the energy as much as I did.**"**
 
 ## [Mildlife](https://mildlife.com.au) - How Long Does It Take
 Sarah: **"**This is a big allegory of a post-MPL listening, but without the lyrics. Go through such different layers, from a sweet melancholy towards a desire to clap foots and head that sets in without you realizing it to end with an inexorable desire to run in the street with your mouth open, catching flies and not regret it.**"**
