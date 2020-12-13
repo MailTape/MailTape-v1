@@ -33,6 +33,10 @@ track7_title: Michael Nau - Rides Through The Morning
 track5_title: Porridge Radio - 7 Seconds
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/429/track6.mp3'
 track6_title: Molly Parden - Who Are We Kiddin'
+description: >-
+  This morning, we wanted to give you plenty to daydream about. What else are
+  Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection
+  to steady you for any kind of week that may lay ahead.
 ---
 <p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
 </p>
