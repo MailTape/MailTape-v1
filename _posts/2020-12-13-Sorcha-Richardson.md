@@ -58,8 +58,8 @@ Sarah: **"**I love the fluttering of piano that tiptoes through this track, step
 ## [Porridge Radio](https://www.arthur-h.net) - 7 Seconds
 Sarah: **"**Porridge Radio's album Every Bad got me through the year. This stands out as a more gentle release in comparison to thhe ablum's tracks Sweet, Circling, and Give/Take (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. The punk rock clashing with sweet 80's pop is so captivating :) hope you like the energy as much as I did.**"**
 
-## [Mildlife](https://mildlife.com.au) - How Long Does It Take
-Sarah: **"**This is a big allegory of a post-MPL listening, but without the lyrics. Go through such different layers, from a sweet melancholy towards a desire to clap foots and head that sets in without you realizing it to end with an inexorable desire to run in the street with your mouth open, catching flies and not regret it.**"**
+## [Molly Parden](https://mildlife.com.au) - Who Are We Kiddin'
+Sarah: **"**I daydream about this bassline, and maybe you will now, too :)**"**
 
 ## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
 Sarah: **"**I wish my whole life could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
