@@ -26,6 +26,7 @@ $(document).ready(
 		var hoverTimer;
 		var notHoverTimer;
 		var positionArchivePreview = $('#archivePreview').offset().top;
+		var width = window.innerWidth;
 
 		// ajout d'un petit soleil à côté du dernier épisode en date pour mieux le repérer
 		var firstEpisodeArtist = $(".ar-link").first().html();
@@ -37,40 +38,44 @@ $(document).ready(
 		// module de gestion d'affichage de la zone archivePreview
 		var arPrevEpisodeInfoVisible = false;
 		function ArPrevController(element){
+			width = window.innerWidth;
+			if (width > 992) {
 
-			if (element=="mouseenter") {
+				if (element=="mouseenter") {
 
-				if (!arPrevEpisodeInfoVisible && y > positionArchivePreview) {
-					$("#archivePreview").addClass('not-top'); //si on affiche la zone et qu'on a déjà scrollé, on a ajoute l'ombre
+					if (!arPrevEpisodeInfoVisible && y > positionArchivePreview) {
+						$("#archivePreview").addClass('not-top'); //si on affiche la zone et qu'on a déjà scrollé, on a ajoute l'ombre
+					}
+
+					// cache la story pour laisser apparaitre les infos épisode
+					$("#introStory").removeClass("showIt").addClass("hideIt");
+					$("#archivePreview").removeClass("getRelative").addClass("sticky-top");
+					arPrevEpisodeInfoVisible=true;
+
 				}
 
-				// cache la story pour laisser apparaitre les infos épisode
-				$("#introStory").removeClass("showIt").addClass("hideIt");
-				$("#archivePreview").removeClass("getRelative").addClass("sticky-top");
-				arPrevEpisodeInfoVisible=true;
-
-			}
-
-			if (element=="mouseleave") {
-				// affiche à nouveau la story par-dessus les infos épisode lorsqu'on est en mesure de pouvoir voir la story
-				if (y < positionArchivePreview) {
-					$("#introStory").removeClass("hideIt").addClass("showIt"); 
-					$("#archivePreview").removeClass("sticky-top").addClass("getRelative");
-					arPrevEpisodeInfoVisible=false;
-				}
-			}
-
-			if (element=="scrolled") {
-				if (arPrevEpisodeInfoVisible) {
+				if (element=="mouseleave") {
 					// affiche à nouveau la story par-dessus les infos épisode lorsqu'on est en mesure de pouvoir voir la story
 					if (y < positionArchivePreview) {
 						$("#introStory").removeClass("hideIt").addClass("showIt"); 
 						$("#archivePreview").removeClass("sticky-top").addClass("getRelative");
-						$("#archivePreview").removeClass('not-top'); //on enlève l'ombre
 						arPrevEpisodeInfoVisible=false;
 					}
-					else {$("#archivePreview").addClass('not-top');} //on ajoute l'ombre
 				}
+
+				if (element=="scrolled") {
+					if (arPrevEpisodeInfoVisible) {
+						// affiche à nouveau la story par-dessus les infos épisode lorsqu'on est en mesure de pouvoir voir la story
+						if (y < positionArchivePreview) {
+							$("#introStory").removeClass("hideIt").addClass("showIt"); 
+							$("#archivePreview").removeClass("sticky-top").addClass("getRelative");
+							$("#archivePreview").removeClass('not-top'); //on enlève l'ombre
+							arPrevEpisodeInfoVisible=false;
+						}
+						else {$("#archivePreview").addClass('not-top');} //on ajoute l'ombre
+					}
+				}
+
 			}
 
 		} 
