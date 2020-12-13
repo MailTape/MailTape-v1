@@ -41,29 +41,29 @@ track6_title: Molly Parden - Who Are We Kiddin'
 
 # Sorcha Richardson's selection
 
-## [Pillow Queens](https://soundcloud.com/clarayse) - Liffey
+## [Pillow Queens](https://pillowqueens.bandcamp.com/album/in-waiting-2) - Liffey
 Sorcha: **"**My favourite song from the wonderful debut album from Pillow Queens. It's full of intensity and emotion, and feels so rooted in Dublin. The whole song feels like it's balancing on a knife edge, ready to come crashing down at any moment, and somehow when the wave does crash it fades away like a gente lullaby. Those beautiful layered vocals at the end swim around my head for the rest of the day.**"**
 
-## [Adrianne Lenker](https://philemoncimon.bandcamp.com) - Anything
+## [Adrianne Lenker](https://adriannelenker.bandcamp.com/) - Anything
 Sorcha: **"**I don't think I've ever heard an Adrianne Lenker song and not fallen in love with it. The guitars in this always make me think of sunlight reflecting on the water's surface of a lake. It's so calming and hypnotic and always ends too soon.**"** 
 
-## [Q](https://thousand1000.bandcamp.com) - Take Me Where Your Heart Is
+## [Q](https://soundcloud.com/boymeetseuphoria) - Take Me Where Your Heart Is
 Sorcha: **"**I just heard this today and have listened 4 times already. I'll probably go and learn it on guitar tomorrow. I love the simplicity and restraint and the repetitive nature of it all. A song that fits almost any mood.**"**
 
 # MailTape's selection
 
-## [Sorcha Richardson](https://www.mplofficiel.fr) - Twisting The Knife
+## [Sorcha Richardson](https://sorcharichardson.bandcamp.com/) - Twisting The Knife
 Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her debut album, First Prize Bravery.**"**
 
-## [Porridge Radio](https://www.arthur-h.net) - 7 Seconds
-Sarah: **"**Porridge Radio's album Every Bad got me through the year. This stands out as a more gentle release in comparison to thhe ablum's tracks Sweet, Circling, and Give/Take (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. The punk rock clashing with sweet 80's pop is so captivating :) hope you like the energy as much as I did.**"**
+## [Porridge Radio](https://porridgeradio.bandcamp.com/) - 7 Seconds
+Sarah: **"**Porridge Radio's album [Every Bad](https://porridgeradio.bandcamp.com/album/every-bad) got me through the year. This stands out as a more gentle release in comparison to the ablum's tracks [Sweet](https://porridgeradio.bandcamp.com/album/every-bad), [Circling](https://porridgeradio.bandcamp.com/album/every-bad), and [Give/Take](https://porridgeradio.bandcamp.com/album/every-bad) (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. The punk rock clashing with sweet 80's pop is so captivating :) hope you like the energy as much as I did.**"**
 
-## [Molly Parden](https://mildlife.com.au) - Who Are We Kiddin'
-Sarah: **"**A good friend played this in the car and now I daydream about this bassline. Maybe you will, too :)**"**
+## [Molly Parden](https://mildlife.com.au) - These Are The Times
+Sarah: **"**A good friend played this in the car and I listened to it for days afterward. Maybe you will, too :) Love the brass breakdown towards the end, all guided by Molly Parden's aerial vocals, another thing to dream about.**"**
 
 ## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
 Sarah: **"**I wish my whole life could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
 
-<p id="outroduction">Beauty has to stop, sorry! Hope you’ve enjoyed it, as to see this day as new, bright and shiny one. Thank you to MPL [Ma Pauvre Lucette] for this selection full of sensibility and yet, a perfect mirror of Sundays as protected into some chaotic outer world. Thank you to [Thibault Daumain](http://thibaultdaumain.fr) for his great and colored interpretation from a neon-sourced picture of [Xavier Lours](http://xavierlours.fr).
+<p id="outroduction"> Thank you for listening with us :) Thank you to Sorcha for joining us and to Jason for this gorgeous illustration! 
   <br><br>
-  Listen to silence before it burns out.</p>
+ </p>
