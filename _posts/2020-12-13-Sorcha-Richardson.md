@@ -34,7 +34,7 @@ track5_title: Porridge Radio - 7 Seconds
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/429/track6.mp3'
 track6_title: Molly Parden - Who Are We Kiddin'
 ---
-<p id="introduction"> Do you feel that this Sunday, winter is approaching so strongly that we must now wear an extra layer of clothes? We do too. To avoid sinking into the gray, we invited [MPL [Ma Pauvre Lucette]](https://www.mplofficiel.fr/) to add a more harmonious, more colorful layer, softer to the ears than the sound of wood breaking due to the cold, warmer than the anonymity of swaddled faces.
+<p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you before any kind of week that may lay before you. 
   <br><br>
   Then, we must know how to let the music speak for itself and step aside, to contemplate. Atypical voices, slow constructions, all the luxuriousness of a world which, as winter allows it, seems to take a break to regenerate and mutate for the better.
 </p>
