@@ -34,9 +34,7 @@ track5_title: Porridge Radio - 7 Seconds
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/429/track6.mp3'
 track6_title: Molly Parden - Who Are We Kiddin'
 ---
-<p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you before any kind of week that may lay before you. 
-  <br><br>
-  Then, we must know how to let the music speak for itself and step aside, to contemplate. Atypical voices, slow constructions, all the luxuriousness of a world which, as winter allows it, seems to take a break to regenerate and mutate for the better.
+<p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
 </p>
 
 # Sorcha Richardson's selection
@@ -53,17 +51,17 @@ Sorcha: **"**I just heard this today and have listened 4 times already. I'll pro
 # MailTape's selection
 
 ## [Sorcha Richardson](https://sorcharichardson.bandcamp.com/) - Twisting The Knife
-Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her debut album, First Prize Bravery.**"**
+Sarah: **"**I love the fluttering of piano that tiptoes through this track, stepping in and out of the grounding guitar line. Sorcha's songwriting always strikes me; she dissects the ties between us with tremendous attention and care. I still think of kerosene arrows:) She describes her world with brutal tenderness, in this track and all through her debut album, [First Prize Bravery](https://sorcharichardson.bandcamp.com/album/first-prize-bravery).**"**
 
 ## [Porridge Radio](https://porridgeradio.bandcamp.com/) - 7 Seconds
 Sarah: **"**Porridge Radio's album [Every Bad](https://porridgeradio.bandcamp.com/album/every-bad) got me through the year. This stands out as a more gentle release in comparison to the ablum's tracks [Sweet](https://porridgeradio.bandcamp.com/album/every-bad), [Circling](https://porridgeradio.bandcamp.com/album/every-bad), and [Give/Take](https://porridgeradio.bandcamp.com/album/every-bad) (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. The punk rock clashing with sweet 80's pop is so captivating :) hope you like the energy as much as I did.**"**
 
 ## [Molly Parden](https://mildlife.com.au) - These Are The Times
-Sarah: **"**A good friend played this in the car and I listened to it for days afterward. Maybe you will, too :) Love the brass breakdown towards the end, all guided by Molly Parden's aerial vocals, another thing to dream about.**"**
+Sarah: **"**A good friend played this in the car and I listened to it for days afterward. Maybe you will, too :) Love the brass breakdown towards the end guided by Molly Parden's aerial vocals, something to dream about :)**"**
 
 ## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
-Sarah: **"**I wish my whole life could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
+Sarah: **"**I wish my whole day could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
 
-<p id="outroduction"> Thank you for listening with us :) Thank you to Sorcha for joining us and to Jason for this gorgeous illustration! 
+<p id="outroduction"> T.S. Eliot said he measured his life out in coffee spoons, I imagine I measure mine in MailTape episodes. Thank you for listening with us and taking some of your Sunday morning moments to daydream :) Thank you to Sorcha for joining us with this selection and to Jason for this gorgeous illustration! 
   <br><br>
  </p>
