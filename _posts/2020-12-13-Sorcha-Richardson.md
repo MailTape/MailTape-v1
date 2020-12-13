@@ -59,7 +59,7 @@ Sarah: **"**I love the fluttering of piano that tiptoes through this track, step
 Sarah: **"**Porridge Radio's album Every Bad got me through the year. This stands out as a more gentle release in comparison to thhe ablum's tracks Sweet, Circling, and Give/Take (which I recommend checking out as well ;)). 7 Seconds is rough and and strong and delicate all at the same time, a hypnotic mesh of hard-hitting lyrics, heavy guitar backups, and 80's synths. The punk rock clashing with sweet 80's pop is so captivating :) hope you like the energy as much as I did.**"**
 
 ## [Molly Parden](https://mildlife.com.au) - Who Are We Kiddin'
-Sarah: **"**I daydream about this bassline, and maybe you will now, too :)**"**
+Sarah: **"**A good friend played this in the car and now I daydream about this bassline. Maybe you will, too :)**"**
 
 ## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
 Sarah: **"**I wish my whole life could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
