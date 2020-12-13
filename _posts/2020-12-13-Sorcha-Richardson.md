@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sarah
 illustrator: Jason Pridham
 category: '429'
@@ -38,7 +38,7 @@ description: >-
   Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection
   to steady you for any kind of week that may lay ahead.
 ---
-<p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? Sorcha Richardson joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
+<p id="introduction"> This morning, we wanted to give you plenty to daydream about. What else are Sundays for? [Sorcha Richardson](https://sorcharichardson.bandcamp.com/album/first-prize-bravery) joins us with a varied and thoughtful selection to steady you for any kind of week that may lay ahead.
 </p>
 
 # Sorcha Richardson's selection
@@ -66,6 +66,5 @@ Sarah: **"**A good friend played this in the car and I listened to it for days a
 ## [Michael Nau](https://www.mplofficiel.fr) - Rides Through The Morning
 Sarah: **"**I wish my whole day could be backed up by the drumline and folk chorus in this track. There's something so rumbling and yet dreamy about these progressions, it feels timeless.**"**
 
-<p id="outroduction"> T.S. Eliot said he measured his life out in coffee spoons, I imagine I measure mine in MailTape episodes. Thank you for listening with us and taking some of your Sunday morning moments to daydream :) Thank you to Sorcha for joining us with this selection and to Jason for this gorgeous illustration! 
-  <br><br>
+<p id="outroduction"> T.S. Eliot said he measured his life out in coffee spoons, I imagine I measure mine in MailTape episodes. Thank you for listening with us and taking some of your Sunday morning moments to daydream :) Thank you to [Sorcha](https://sorcharichardson.bandcamp.com/album/first-prize-bravery) for joining us with this selection and thank you to [Jason](https://www.instagram.com/grancharismo/?hl=en) for this gorgeous illustration!
  </p>
