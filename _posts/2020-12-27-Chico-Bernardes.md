@@ -17,7 +17,6 @@ track1_title: Harry Nilsson – Miss Butter's Lament
 Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
 </p>
 
-
 # Chico Bernardes's selection
 
 ## Harry Nilsson – Miss Butter's Lament
@@ -29,10 +28,9 @@ Chico: **"**It was outstanding when I heard Molly Drake for the first time. It g
 ## Maria Bethânia – Olhe o Tempo Passando
 Chico: **"**I really love Maria Bethânia's voice, and this song has such beautiful arrangements. The lyrics talk about the heartbreaking aspect of time flying while the lover waits for the other one that won't come back. Classic story, everybody been there, I guess. Really enjoy this record, " A Tua Presença", from 1971.**"**
 
-
 # MailTape's selection
 
-## Markus Floats – Forward Always
+## Chico Bernardes – Forward Always
 Sarah: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album' reiterates many of the sounds, textures and timbres heard previously.**"**
 
 ## Bill Withers – Grandma's Hands
