@@ -44,7 +44,7 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 
 # MailTape's selection
 
-## Bonnie Banane – 
+## Bonnie Banane – Flash
 Anaïs G: **"** **"**
 
 ## Myth Sizer – 
