@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+musiColor: musiColor430.png
+image: 'http://mailta.pe/img/fbPic430.png'
+episode_URL: 'http://mailta.pe/430/bonnie-banane/'
+track7_color: dreamy
+track7_title: Ichon - Aujourd'hui
+track7_link: 'https://soundcloud.com/ichon-music/aujourdhui'
 guestPic: guetsPic430.jpg
 guest_color: trippy
 guest_name: Bonnie Banane
