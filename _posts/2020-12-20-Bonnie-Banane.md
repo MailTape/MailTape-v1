@@ -5,9 +5,17 @@ published: false
 musiColor: musiColor430.png
 image: 'http://mailta.pe/img/fbPic430.png'
 episode_URL: 'http://mailta.pe/430/bonnie-banane/'
-track7_color: dreamy
+track7_color: bliss
 track7_title: Ichon - Aujourd'hui
+track6_color: dreamy
+track6_title: Muddy Monk
+track5_color: vibrant
+track5_title: 'Myth Syzer - Je suis venu te dire que je m''en vais '
+track4_color: dreamy
+track4_title: Bonnie Banane - Flash
 track7_link: 'https://soundcloud.com/ichon-music/aujourdhui'
+track6_link: 'https://soundcloud.com/muddymonk/laventura'
+track5_link: 'https://soundcloud.com/syzermusik/je-suis-venu-te-dire-que-je-men-vais'
 guestPic: guetsPic430.jpg
 guest_color: trippy
 guest_name: Bonnie Banane
