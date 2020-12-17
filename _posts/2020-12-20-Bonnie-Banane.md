@@ -30,7 +30,7 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 
 # MailTape's selection
 
-##  – 
+## Bonnie Banane – 
 Anaïs G: **"** **"**
 
 ##  – 
@@ -39,7 +39,7 @@ Anaïs G: **"** **"**
 ##  – 
 Anaïs G: **"** **"**
 
-##  – 
+## Ichon – Aujourd'hui
 Anaïs G: **"** **"**
 
 
