@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+guestPic: guetsPic430.jpg
+guest_color: trippy
+guest_name: Bonnie Banane
+category: '430'
+writer: Anaïs G
+illustrator: Thibault Daumain
+author: Anaïs G
 ---
 
 <p id="introduction">This morning we welcome 
