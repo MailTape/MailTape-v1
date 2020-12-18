@@ -57,7 +57,7 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 # MailTape's selection
 
 ## Bonnie Banane – Flash
-Anaïs G: **"** **"**
+Anaïs G: **"** J'ai découvert Bonnie Banane, avec la chanson"L'Appétit". J'ai tout de suite été absorbé par sa manière de chanter et son style très particulier qui fait qu'on ne peut l'oublier. Après il y a eu aussi ses featuring avec Chassol "Feu au Lac" ainsi que Myth Sizer & Ichon "Le Code". Sur son premier album "Sexy Planet",sorti en novembre dernier, je découvre une Bonnie Banane à fleur de peau, enervé, joyeuse mais toujours dans son style un peu décalé et provoquant comme on aime.**"**
 
 ## Myth Sizer – Je suis venu te dire que je m'en vais 
 Anaïs G: **"** **"**
