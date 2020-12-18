@@ -8,7 +8,7 @@ episode_URL: 'http://mailta.pe/430/bonnie-banane/'
 track7_color: bliss
 track7_title: Ichon - Aujourd'hui
 track6_color: dreamy
-track6_title: Muddy Monk
+track6_title: Muddy Monk - L'Aventura
 track5_color: vibrant
 track5_title: 'Myth Syzer - Je suis venu te dire que je m''en vais '
 track4_color: dreamy
@@ -27,6 +27,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/430/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/430/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/430/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/430/track4.mp3'
+track1_title: Mononeon – I'm a raggedy bitch but my heart is amazing
 ---
 
 <p id="introduction">This morning we welcome 
