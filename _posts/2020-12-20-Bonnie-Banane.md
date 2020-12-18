@@ -23,6 +23,10 @@ category: '430'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/430/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/430/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/430/track3.mp3'
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/430/track4.mp3'
 ---
 
 <p id="introduction">This morning we welcome 
@@ -58,5 +62,3 @@ Anaïs G: **"** **"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for his Sunday selections and to  for this episode's brilliant illustration!</p>
-
-
