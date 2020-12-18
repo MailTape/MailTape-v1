@@ -35,7 +35,9 @@ track3_title: Take 6 – He never sleeps
 track3_color: vibrant
 ---
 
-<p id="introduction">This morning we welcome 
+<p id="introduction">This morning, on pense à l'arrivé de Noel, des achats dans des magasins bondés, de ces repas interminables autour d'une dinde et de nombreuses buches, de ces indigestions et du fameux bouton que l'on fait sauter en fin de soirée... Heureusement pour te détendre pendant ses préparatifs, Bonnie Banane nous a confectionné une playlist à la hauteur de ses fêtes!
+
+Bonnie Banane, un ovni de la scène R&B alternatif française. Elle nous dévoile un premier album "Sexy Planet", sorti le 13 novembre dernier, à la hauteur ce que l'on pouvait imaginé ! 
 <br><br>
 
 </p>
