@@ -35,11 +35,10 @@ track3_title: Take 6 – He never sleeps
 track3_color: vibrant
 ---
 
-<p id="introduction">This morning, on pense à l'arrivé de Noel, des achats dans des magasins bondés, de ces repas interminables autour d'une dinde et de nombreuses buches, de ces indigestions et du fameux bouton que l'on fait sauter en fin de soirée... Heureusement pour te détendre pendant ses préparatifs, Bonnie Banane nous a confectionné une playlist à la hauteur de ses fêtes!
+<p id="introduction">This morning, we think about Christmas, shopping in crowded stores, those endless meals around a turkey and many logs, indigestion and the famous button that you pop at the end of the evening . . . Fortunately to relax during its preparations, Bonnie Banana has made a playlist worthy of her parties!
 
-Bonnie Banane, un ovni de la scène R&B alternatif française. Elle nous dévoile un premier album "Sexy Planet", sorti le 13 novembre dernier, à la hauteur ce que l'on pouvait imaginé ! 
 <br><br>
-
+Bonnie Banane, a ufo from the French alternative R&B scene. She unveils her first album “Sexy Planet”, released on November 13th, to the extent that we could have imagined!
 </p>
 
 # Bonnie Banane's selection
@@ -57,7 +56,7 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 # MailTape's selection
 
 ## Bonnie Banane – Flash
-Anaïs G: **"** J'ai découvert Bonnie Banane, avec la chanson"L'Appétit". J'ai tout de suite été absorbé par sa manière de chanter et son style très particulier qui fait qu'on ne peut l'oublier. Après il y a eu aussi ses featuring avec Chassol "Feu au Lac" ainsi que Myth Sizer & Ichon "Le Code". Sur son premier album "Sexy Planet",sorti en novembre dernier, je découvre une Bonnie Banane à fleur de peau, enervée, joyeuse mais toujours dans son style un peu décalé et provoquant comme on aime.**"**
+Anaïs G: **"**I discovered Bonnie Banana, with the song "L'Appétit". I was immediately absorbed by his way of singing and his very particular style which makes it impossible to forget him. Then there were also his featuring with Chassol "Feu au Lac" and Myth Syzer & Ichon "Le Code". On her debut album "Sexy Planet", released last November, I discovered a Bonnie Banana on the edge of her skin, angry, joyful but always in her slightly offbeat and provocative style as we like it.**"**
 
 ## Myth Syzer – Je suis venu te dire que je m'en vais 
 Anaïs G: **"**Surprenant, c'est le mot qui m'est venu quand j'ai entendu cette reprise de Gainsbourg. Bien sûr, l'original est inégalable mais Myth Syzer arrive à donner un coup de peps à cette chanson merveilleuse avec brio, qui lui redonne une nouvelle jeunesse.**"**
@@ -69,4 +68,4 @@ Anaïs G: **"**C'est en réecoutant son EP "Première Ride" que je découvris ce
 Anaïs G: **"**J'aime beaucoup la musique et le personnage mais quand je suis tombée sur son dernier album "Pour de vrai", sorti en septembre dernier, je fus juste transcendé et sans mot face à autant de beauté.Une pépite musical pleine de sincérité, de vérité et de sensibilité masculine que l'on aime tant! **"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for his Sunday selections and to  for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for her Sunday selections and to Thibalut Daumain for this episode's brilliant illustration!</p>
