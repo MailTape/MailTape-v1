@@ -59,13 +59,13 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 Anaïs G: **"**I discovered Bonnie Banana, with the song "L'Appétit". I was immediately absorbed by his way of singing and his very particular style which makes it impossible to forget him. Then there were also his featuring with Chassol "Feu au Lac" and Myth Syzer & Ichon "Le Code". On her debut album "Sexy Planet", released last November, I discovered a Bonnie Banana on the edge of her skin, angry, joyful but always in her slightly offbeat and provocative style as we like it.**"**
 
 ## Myth Syzer – Je suis venu te dire que je m'en vais 
-Anaïs G: **"**Surprenant, c'est le mot qui m'est venu quand j'ai entendu cette reprise de Gainsbourg. Bien sûr, l'original est inégalable mais Myth Syzer arrive à donner un coup de peps à cette chanson merveilleuse avec brio, qui lui redonne une nouvelle jeunesse.**"**
+Anaïs G: **"**Surprising is the word that came to me when I heard this Gainsbourg cover. Of course, the original is unbeatable but Myth Syzer manages to give a boost to this wonderful song with brio, which gives it a new youth.**"**
 
 ## Muddy Monk – L'aventura
-Anaïs G: **"**C'est en réecoutant son EP "Première Ride" que je découvris ce son. Une ballade savoureuse, pleine de poésie et de legereté. Parfait pour la période qui nous attend! **"**
+Anaïs G: **"**It's while listening again to his EP "Première Ride" that I discovered this sound. A tasty ballad, full of poetry and lightness. Perfect for the time ahead!**"**
 
 ## Ichon – Aujourd'hui
-Anaïs G: **"**J'aime beaucoup la musique et le personnage mais quand je suis tombée sur son dernier album "Pour de vrai", sorti en septembre dernier, je fus juste transcendé et sans mot face à autant de beauté.Une pépite musical pleine de sincérité, de vérité et de sensibilité masculine que l'on aime tant! **"**
+Anaïs G: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for her Sunday selections and to Thibalut Daumain for this episode's brilliant illustration!</p>
