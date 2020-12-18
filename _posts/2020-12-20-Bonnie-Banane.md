@@ -68,4 +68,4 @@ Anaïs G: **"**It's while listening again to his EP "[Première Ride](https://mu
 Anaïs G: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!!**"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Bonnie Banane](https://bonniebanane.bandcamp.com/releases) for her Sunday selections and to Thibault Daumain for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Bonnie Banane](https://bonniebanane.bandcamp.com/releases) for her Sunday selections and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration!</p>
