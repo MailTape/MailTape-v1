@@ -57,16 +57,16 @@ It's totally made for the morning.This one is when you haven't slept all night.A
 # MailTape's selection
 
 ## Bonnie Banane – Flash
-Anaïs G: **"** J'ai découvert Bonnie Banane, avec la chanson"L'Appétit". J'ai tout de suite été absorbé par sa manière de chanter et son style très particulier qui fait qu'on ne peut l'oublier. Après il y a eu aussi ses featuring avec Chassol "Feu au Lac" ainsi que Myth Sizer & Ichon "Le Code". Sur son premier album "Sexy Planet",sorti en novembre dernier, je découvre une Bonnie Banane à fleur de peau, enervé, joyeuse mais toujours dans son style un peu décalé et provoquant comme on aime.**"**
+Anaïs G: **"** J'ai découvert Bonnie Banane, avec la chanson"L'Appétit". J'ai tout de suite été absorbé par sa manière de chanter et son style très particulier qui fait qu'on ne peut l'oublier. Après il y a eu aussi ses featuring avec Chassol "Feu au Lac" ainsi que Myth Sizer & Ichon "Le Code". Sur son premier album "Sexy Planet",sorti en novembre dernier, je découvre une Bonnie Banane à fleur de peau, enervée, joyeuse mais toujours dans son style un peu décalé et provoquant comme on aime.**"**
 
-## Myth Sizer – Je suis venu te dire que je m'en vais 
-Anaïs G: **"** **"**
+## Myth Syzer – Je suis venu te dire que je m'en vais 
+Anaïs G: **"**Surprenant, c'est le mot qui m'est venu quand j'ai entendu cette reprise de Gainsbourg. Bien sûr, l'original est inégalable mais Myth Syzer arrive à donner un coup de peps à cette chanson merveilleuse avec brio, qui lui redonne une nouvelle jeunesse.**"**
 
 ## Muddy Monk – L'aventura
-Anaïs G: **"** **"**
+Anaïs G: **"**C'est en réecoutant son EP "Première Ride" que je découvris ce son. Une ballade savoureuse, pleine de poésie et de legereté. Parfait pour la période qui nous attend! **"**
 
 ## Ichon – Aujourd'hui
-Anaïs G: **"** **"**
+Anaïs G: **"**J'aime beaucoup la musique et le personnage mais quand je suis tombée sur son dernier album "Pour de vrai", sorti en septembre dernier, je fus juste transcendé et sans mot face à autant de beauté.Une pépite musical pleine de sincérité, de vérité et de sensibilité masculine que l'on aime tant! **"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for his Sunday selections and to  for this episode's brilliant illustration!</p>
