@@ -65,7 +65,8 @@ Anaïs G: **"**Surprising is the word that came to me when I heard this Gainsbou
 Anaïs G: **"**It's while listening again to his EP "Première Ride" that I discovered this sound. A tasty ballad, full of poetry and lightness. Perfect for the time ahead!**"**
 
 ## Ichon – Aujourd'hui
-Anaïs G: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!**"**
+Anaïs G: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!![musiColor430.png]({{site.baseurl}}/img/musiColor430.png)
+**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Bonnie Banane for her Sunday selections and to Thibalut Daumain for this episode's brilliant illustration!</p>
