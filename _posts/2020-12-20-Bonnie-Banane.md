@@ -27,7 +27,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/430/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/430/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/430/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/430/track4.mp3'
-track1_title: Mononeon – I'm a raggedy bitch but my heart is amazing
+track1_title: MonoNeon – I'm a raggedy bitch but my heart is amazing
 track1_color: bliss
 track2_title: Brigitte Bardot – C'est rigolo
 track2_color: trippy
