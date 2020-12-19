@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 musiColor: musiColor430.png
 image: 'http://mailta.pe/img/fbPic430.png'
 episode_URL: 'http://mailta.pe/430/bonnie-banane/'
@@ -33,6 +33,11 @@ track2_title: Brigitte Bardot – C'est rigolo
 track2_color: trippy
 track3_title: Take 6 – He never sleeps
 track3_color: vibrant
+description: >-
+  This morning, we think about Christmas, shopping in crowded stores, those
+  endless meals around a turkey and many logs, indigestion and the famous button
+  that you pop at the end of the evening...Fortunately to relax during its
+  preparations, Bonnie Banane has made a playlist worthy of her parties!
 ---
 
 <p id="introduction">This morning, we think about Christmas, shopping in crowded stores, those endless meals around a turkey and many logs, indigestion and the famous button that you pop at the end of the evening...Fortunately to relax during its preparations, [Bonnie Banane](https://bonniebanane.bandcamp.com/album/sexy-planet) has made a playlist worthy of her parties!
