@@ -39,7 +39,6 @@ description: >-
   that you pop at the end of the evening...Fortunately to relax during its
   preparations, Bonnie Banane has made a playlist worthy of her parties!
 ---
-![fbPic430.png]({{site.baseurl}}/img/fbPic430.png)
 
 <p id="introduction">This morning, we think about Christmas, shopping in crowded stores, those endless meals around a turkey and many logs, indigestion and the famous button that you pop at the end of the evening...Fortunately to relax during its preparations, [Bonnie Banane](https://bonniebanane.bandcamp.com/album/sexy-planet) has made a playlist worthy of her parties!
 
