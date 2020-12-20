@@ -16,7 +16,7 @@ track4_title: Bonnie Banane - Flash
 track7_link: 'https://soundcloud.com/ichon-music/aujourdhui'
 track6_link: 'https://soundcloud.com/muddymonk/laventura'
 track5_link: 'https://soundcloud.com/syzermusik/je-suis-venu-te-dire-que-je-men-vais'
-guestPic: guetsPic430.jpg
+guestPic: guestPic430.jpg
 guest_color: trippy
 guest_name: Bonnie Banane
 category: '430'
