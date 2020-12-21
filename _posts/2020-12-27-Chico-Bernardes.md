@@ -14,6 +14,9 @@ track1_title: Harry Nilsson – Miss Butter's Lament
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/431/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/431/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/431/track3.mp3'
+track1_color: vibrant
+track2_color: dreamy
+track3_color: bliss
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
