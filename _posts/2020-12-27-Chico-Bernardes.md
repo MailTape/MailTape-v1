@@ -36,10 +36,10 @@ Chico: **"**I really love Maria Bethânia's voice, and this song has such beauti
 
 # MailTape's selection
 
-## Chico Bernardes – Forward Always
+## Chico Bernardes – Em Meu Lugar
 Sarah: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album' reiterates many of the sounds, textures and timbres heard previously.**"**
 
-## Bill Withers – Grandma's Hands
+## Gabor Szabo – San Franciscan Nights
 Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
 ## Gino Soccio – Try it Out
