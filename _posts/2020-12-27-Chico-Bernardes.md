@@ -17,6 +17,9 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/431/track3.mp3'
 track1_color: vibrant
 track2_color: dreamy
 track3_color: bliss
+track4_link: 'https://mailtapesounds.s3.amazonaws.com/431/track4.mp3'
+track4_title: Chico Bernardes - Em Meu Lugar
+track4_color: dreamy
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
@@ -42,8 +45,8 @@ Sarah: **"**With recurrent tumbling notes and angular drawn-out drones throughou
 ## Gabor Szabo – San Franciscan Nights
 Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
-## Gino Soccio – Try it Out
-Sarah: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! This track also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
+## Gábor Szabó – Half The Day Is The Night
+Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic releases by Hungarian guitarist Gábor Szabó. I love how this song intertwines rolling samba and traditional Hungarian **"**
 
 ## Cubie Burke – Down for Double
 Sarah: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
