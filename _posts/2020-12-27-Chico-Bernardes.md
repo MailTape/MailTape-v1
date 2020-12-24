@@ -26,6 +26,7 @@ track5_title: Elan Noon - Modern Blues
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/431/track7.mp3'
 track7_title: Gábor Szabó - San Franciscan Nights
 track7_color: vibrant
+track6_color: dreamy
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
