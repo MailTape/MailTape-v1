@@ -20,6 +20,9 @@ track3_color: bliss
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/431/track4.mp3'
 track4_title: Chico Bernardes - Em Meu Lugar
 track4_color: dreamy
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/431/track5.mp3'
+track5_color: bliss
+track5_title: Elan Noon - Modern Blues
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
@@ -48,7 +51,7 @@ Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is 
 ## Gábor Szabó – Half The Day Is The Night
 Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic releases by Hungarian guitarist Gábor Szabó. I love how this song intertwines rolling samba and traditional Hungarian **"**
 
-## Cubie Burke – Down for Double
+## Gábor Szabó – San Franciscan Nights
 Sarah: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
 
 
