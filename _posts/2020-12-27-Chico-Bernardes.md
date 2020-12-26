@@ -27,6 +27,10 @@ track7_link: 'https://mailtapesounds.s3.amazonaws.com/431/track7.mp3'
 track7_title: Gábor Szabó - San Franciscan Nights
 track7_color: vibrant
 track6_color: dreamy
+image: 'https://mailta.pe/img/fbPic431.png'
+musiColor: musiColor431.png
+episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
+guestPic: guestPic431.jpg
 ---
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. We are thrilled 
 <br><br>
@@ -58,5 +62,6 @@ Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic
 ## Gábor Szabó – San Franciscan Nights
 Sarah: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
 
+![guestPic431.jpg]({{site.baseurl}}/img/guestPic431.jpg)
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
