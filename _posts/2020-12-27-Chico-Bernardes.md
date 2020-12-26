@@ -31,8 +31,11 @@ image: 'https://mailta.pe/img/fbPic431.png'
 musiColor: musiColor431.png
 episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
 guestPic: guestPic431.jpg
+track6_link: ''
+track6_title: ''
+description: ''
 ---
-<p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. We are thrilled 
+<p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that We are thrilled 
 <br><br>
 Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
 </p>
@@ -51,7 +54,7 @@ Chico: **"**I really love Maria Bethânia's voice, and this song has such beauti
 # MailTape's selection
 
 ## Chico Bernardes – Em Meu Lugar
-Sarah: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album' reiterates many of the sounds, textures and timbres heard previously.**"**
+Sarah: **"**Chico wrote this song in the beginning of this year, sitting alone with his guitar at the top one of Portugal's hotel buildings. Em Meu Lugar, meaning In My Place, describes how all of Chico's thoughts live within him, which include the people he loves, his memories, and his experiences of emotion. All of it together molds his inner world, one that travels wherever he does. The song recognizes his immediate solitude but also takes comfort in the world within him. Speaking to Chico about the song's production, the track takes on an entirely new significance during its recording experience. The soaring instrumentals and striking harmonies made up by the violins, violas, trumpets, and clarinets were all recorded remotely by each musician during quarantine, patched together to form this seamless composite of sound. Wonderful :)**"**
 
 ## Elan Noon – Modern Blues
 Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
@@ -61,7 +64,5 @@ Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic
 
 ## Gábor Szabó – San Franciscan Nights
 Sarah: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
-
-![guestPic431.jpg]({{site.baseurl}}/img/guestPic431.jpg)
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
