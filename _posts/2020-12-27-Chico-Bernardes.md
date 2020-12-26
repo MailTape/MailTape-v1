@@ -34,7 +34,7 @@ guestPic: guestPic431.jpg
 track6_title: Piry Reis - Chão Vermelho
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/431/track6.mp3'
 ---
-<p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that We are thrilled 
+<p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving this year, we take comfort in the music that has buoyed us through this strange time to be alive.
 <br><br>
 Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
 </p>
@@ -53,15 +53,15 @@ Chico: **"**I really love Maria Bethânia's voice, and this song has such beauti
 # MailTape's selection
 
 ## Chico Bernardes – Em Meu Lugar
-Sarah: **"**Chico wrote this song in the beginning of this year, sitting alone with his guitar at the top one of Portugal's hotel buildings. Em Meu Lugar, meaning In My Place, describes how all of Chico's thoughts live within him, including the people he loves, his memories, and his experiences of emotion. All of it together molds his inner world, one that travels wherever he does. The song recognizes his immediate solitude but also takes comfort in the world within him. Speaking to Chico about the song's production, the track takes on an entirely new significance during its recording experience. The soaring instrumentals and striking harmonies made up by the violins, trumpets, violas, and clarinets were all recorded remotely by each musician during Brazil's quarantine, patched together to form this seamless composite of sound. Wonderful :)**"**
+Sarah: **"**Chico told me he wrote this song in the beginning of 2020, sitting alone with his guitar at the top one of Portugal's hotel buildings. **Em Meu Lugar**, meaning **In My Place**, describes how all of Chico's thoughts live within him, making a world of the people he loves, his memories, and his experiences of emotion. This inner world is one that travels wherever he does. The song recognizes his immediate solitude but also takes comfort in the company within him. Speaking to Chico about the song's production, the track takes on an entirely new significance during its recording experience. The soaring instrumentals and striking harmonies made up by the violins, trumpets, violas, and clarinets were all recorded remotely by each musician during Brazil's quarantine, patched together to form this seamless composite of sound. Wonderful :)**"**
 
 ## Elan Noon – Modern Blues
-Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
+Sarah: **"**The first track on Elan Noon's album Colour Story. I love the guitar riffs that roll through the periphery of this one, the melody is a bit jarring. The brass transition halfway along the track deepens the mood of the track, thoroughly establishing the mood of modern blues. A go-to track for reflecting.**"**
 
-## [Piry Reis](https://piri.bandcamp.com/) – Half The Day Is The Night
-Sarah: **"**This track comes from the 1970 debut album of Brazilian guitarist Piry Reis (known on this album as Piri), called "Vocês Querem Mate?”. I love the track's comfort and even dynamic tangling with dissonance. This song and the entire album features Brazilian folk traditions of bossa and samba patterned with the psychedelic influences of the 1970’s in the most delightful way :)**"**
+## [Piry Reis](https://piri.bandcamp.com/) – Chão Vermelho
+Sarah: **"**This track comes from the 1970 debut album of Brazilian guitarist Piry Reis (known on this album as Piri), called "Vocês Querem Mate?”. The conversation between the flute and vocals is captivating, as is the track's comfort and even dynamic tangling with melodic dissonance. This song and the entire album features Brazilian folk traditions of bossa and samba patterned with the psychedelic influences of the 1970’s in the most delightful way.**"**
 
 ## Gábor Szabó – San Franciscan Nights
-Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic releases by Hungarian guitarist Gábor Szabó. I love how this song intertwines rolling samba and traditional Hungarian **"**
+Sarah: **"**This track departs from Gábor Szabó's typical instrumental release, which maybe makes it more striking. First released by The Animals, I prefer Gábor Szabó's 1968 cover of San Franciscan Nights, especially for Szabó's soloing and guitar accents weaving around the vocals of the California Dreamers. It still has so much of the protest aspect intended in the original release, including the track's ominous set of interlude chords that starkly contrast the later melody. A vibrant song to end the last MailTape episode of 2020.**"**
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning, and for the year! Thank you for taking the time to listen this Sunday morning. It was a delight to welcome [Chico Bernardes](https://chicobernardes.bandcamp.com/) for a thoughtful and vibrant Sunday selection. Thank you to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration! Happy New Year from MailTape to you :)</p>
