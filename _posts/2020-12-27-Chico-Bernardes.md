@@ -31,9 +31,7 @@ image: 'https://mailta.pe/img/fbPic431.png'
 musiColor: musiColor431.png
 episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
 guestPic: guestPic431.jpg
-track6_link: ''
-track6_title: ''
-description: ''
+track6_title: Piry Reis - Chão Vermelho
 ---
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that We are thrilled 
 <br><br>
