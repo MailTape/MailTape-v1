@@ -54,15 +54,15 @@ Chico: **"**I really love Maria Bethânia's voice, and this song has such beauti
 # MailTape's selection
 
 ## Chico Bernardes – Em Meu Lugar
-Sarah: **"**Chico wrote this song in the beginning of this year, sitting alone with his guitar at the top one of Portugal's hotel buildings. Em Meu Lugar, meaning In My Place, describes how all of Chico's thoughts live within him, which include the people he loves, his memories, and his experiences of emotion. All of it together molds his inner world, one that travels wherever he does. The song recognizes his immediate solitude but also takes comfort in the world within him. Speaking to Chico about the song's production, the track takes on an entirely new significance during its recording experience. The soaring instrumentals and striking harmonies made up by the violins, violas, trumpets, and clarinets were all recorded remotely by each musician during quarantine, patched together to form this seamless composite of sound. Wonderful :)**"**
+Sarah: **"**Chico wrote this song in the beginning of this year, sitting alone with his guitar at the top one of Portugal's hotel buildings. Em Meu Lugar, meaning In My Place, describes how all of Chico's thoughts live within him, including the people he loves, his memories, and his experiences of emotion. All of it together molds his inner world, one that travels wherever he does. The song recognizes his immediate solitude but also takes comfort in the world within him. Speaking to Chico about the song's production, the track takes on an entirely new significance during its recording experience. The soaring instrumentals and striking harmonies made up by the violins, trumpets, violas, and clarinets were all recorded remotely by each musician during Brazil's quarantine, patched together to form this seamless composite of sound. Wonderful :)**"**
 
 ## Elan Noon – Modern Blues
 Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
-## Gábor Szabó – Half The Day Is The Night
-Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic releases by Hungarian guitarist Gábor Szabó. I love how this song intertwines rolling samba and traditional Hungarian **"**
+## Piry Reis – Half The Day Is The Night
+Sarah: **"**This track comes from the 1970 debut album of Brazilian guitarist Piry Reis (known on this album as Piri), called "Vocês Querem Mate?”. I love the track's comfort and even dynamic tangling with dissonance. This song and the entire album features Brazilian folk traditions of bossa and samba patterned with the psychedelic influences of the 1970’s in the most delightful way :)**"**
 
 ## Gábor Szabó – San Franciscan Nights
-Sarah: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
+Sarah: **"**This track comes off of the 1968 album Dreams, one of many fantastic releases by Hungarian guitarist Gábor Szabó. I love how this song intertwines rolling samba and traditional Hungarian **"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
