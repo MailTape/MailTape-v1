@@ -32,6 +32,7 @@ musiColor: musiColor431.png
 episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
 guestPic: guestPic431.jpg
 track6_title: Piry Reis - Chão Vermelho
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/431/track6.mp3'
 ---
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that We are thrilled 
 <br><br>
@@ -57,7 +58,7 @@ Sarah: **"**Chico wrote this song in the beginning of this year, sitting alone w
 ## Elan Noon – Modern Blues
 Sarah: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
-## Piry Reis – Half The Day Is The Night
+## [Piry Reis](https://piri.bandcamp.com/) – Half The Day Is The Night
 Sarah: **"**This track comes from the 1970 debut album of Brazilian guitarist Piry Reis (known on this album as Piri), called "Vocês Querem Mate?”. I love the track's comfort and even dynamic tangling with dissonance. This song and the entire album features Brazilian folk traditions of bossa and samba patterned with the psychedelic influences of the 1970’s in the most delightful way :)**"**
 
 ## Gábor Szabó – San Franciscan Nights
