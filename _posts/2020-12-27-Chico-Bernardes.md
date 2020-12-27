@@ -33,7 +33,15 @@ episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
 guestPic: guestPic431.jpg
 track6_title: Piry Reis - Chão Vermelho
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/431/track6.mp3'
-description: ''
+description: >-
+  The last Sunday morning of 2020 has arrived, and so does our last MailTape
+  episode of this year. For our reflections and sighs that accompany leaving
+  this year, we take comfort in the music that has buoyed us through this
+  strange time to be alive. We are thrilled that Brazilian
+  multi-instrumentalist, singer, and songwriter Chico Bernardes joins us for our
+  year's last episode.  Studying classical guitar and in the process of
+  releasing a second album, Chico levels a carefully curated selection to give
+  you another breath of musical beauty in 2020.
 ---
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving this year, we take comfort in the music that has buoyed us through this strange time to be alive.
   
