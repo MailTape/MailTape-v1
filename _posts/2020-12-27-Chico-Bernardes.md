@@ -38,18 +38,18 @@ description: ''
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving this year, we take comfort in the music that has buoyed us through this strange time to be alive.
   
   
-We are thrilled that Brazilian multi-instrumentalist, singer, and songwriter Chico Bernardes joins us for our year's last episode.  Studying classical guitar and in the process of releasing a second album, Chico levels a carefully curated selection to give you another breath of musical beauty in 2020. 
+We are thrilled that Brazilian multi-instrumentalist, singer, and songwriter [Chico Bernardes](https://chicobernardes.bandcamp.com/) joins us for our year's last episode.  Studying classical guitar and in the process of releasing a second album, Chico levels a carefully curated selection to give you another breath of musical beauty in 2020. 
 </p>
 
 # Chico Bernardes's selection
 
-## Harry Nilsson – Miss Butter's Lament
+## [Harry Nilsson](https://harrynilsson.com/) – Miss Butter's Lament
 Chico: **"**I got in touch with Nilsson's work a few years ago, when a friend of my father showed me the "Nilsson Sings Newman" record, and I loved it, spent lots of days listening on repeat. This song I chose from "Nilsson Sessions 1967-1968" has this beautiful and inspiring arrangement that I really enjoy to hear.**"**
 
-## Molly Drake – I Remember
+## [Molly Drake](https://mollydrake.bandcamp.com/album/molly-drake) – I Remember
 Chico: **"**It was outstanding when I heard Molly Drake for the first time. It got me to rethink about the technical aspects of a recording. The way her voice and piano sound on old tape hiss is so nostalgic. I'm a big fan of Nick Drake as well, both of them share some special beauty with simplicity, which is something I search for in my songs.**"**
 
-## Maria Bethânia – Olhe o Tempo Passando
+## [Maria Bethânia](https://www.allmusic.com/artist/maria-beth%C3%A2nia-mn0000573410/biography) – Olhe o Tempo Passando
 Chico: **"**I really love Maria Bethânia's voice, and this song has such beautiful arrangements. The lyrics talk about the heartbreaking aspect of time flying while the lover waits for the other one that won't come back. Classic story, everybody been there, I guess. Really enjoy this record, " A Tua Presença", from 1971.**"**
 
 # MailTape's selection
