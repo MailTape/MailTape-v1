@@ -36,7 +36,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/431/track6.mp3'
 ---
 <p id="introduction">The last Sunday morning of 2020 has arrived, and so does our last MailTape episode of this year. For our reflections and sighs that accompany leaving this year, we take comfort in the music that has buoyed us through this strange time to be alive.
 <br><br>
-Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
+Brazilian multi-instrumentalist and songwriter Chico Bernardes joins us for our year's last episode. Studying classical guitar and in the process of releasing a second album, Chico levels a carefully curated selection to give you another breath of musical beauty in 2020.
 </p>
 
 # Chico Bernardes's selection
