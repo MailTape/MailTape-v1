@@ -28,7 +28,7 @@ published: false
 </p>
 
 
-# Danse Muique Rhône-Alpes's selection
+# Danse Musique Rhône-Alpes's selection
 
 ## Tachycardie – 
 DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufologist Jimmy Guieu is for French Ufology.A Versatile genius and a pathological workaholic.And just as Jimmy Guieu concerning his wardrobe, JB Geoffroy has a very elegant approach towards life.**"**
@@ -36,16 +36,17 @@ DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufol
 ##  – 
 DMRA: **"** **"**
 
-## – 
-DMRA: **"** **"**
+## Laurel Halo – Koinos
+DMRA: **"**Excerpt from the DUST album, in which Halo collaborates with many different artists.
+In this track, we can sense Elie Keszler’s ghostly presence, imposing but soft and precise.The two artistic dimensions, Halo’s and Kesler’s, meet in a very nice manner here, making the « experimental pop music experience » possible in a way, and especially on Sundays.**"**
 
 
 # MailTape's selection
 
-##  – 
+## Danse Musique Rhône-Alpes – Spiritisme et nouvelles technologies
 Anaïs G: **"** **"**
 
-##  – 
+## Tite – Zhang
 Anaïs G: **"** **"**
 
 ##  – 
