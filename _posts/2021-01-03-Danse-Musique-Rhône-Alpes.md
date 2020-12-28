@@ -1,6 +1,24 @@
 ---
 layout: episode
+musiColor: musiColor432.png
+image: 'https://mailta.pe/img/fbPic432.png'
+episode_URL: 'http://mailta.pe/432/danse-musique-rhone-alpes/'
 bigTitle_font_ratio: '6'
+track4_color: trippy
+track4_title: 'Dance Musique Rhône-Alpes - Spiritisme & nouvelles technologies '
+track3_color: trippy
+track3_title: Laurel Halo - Koinos
+track1_color: trippy
+track1_title: Tachycardie -  D'humeur à savoir
+track4_link: 'https://soundcloud.com/danse-musique-rhone-alpes/10-spiritisme-mtrdigit-v1'
+track2_link: >-
+  https://soundcloud.com/pan_hq/nts-x-pan-w-beatrice-dillon-lucy-railton-23-march-2020
+track1_link: 'https://soundcloud.com/ujnsq/dhumeur-a-savoir'
+guestPic: guestPic432.jpg
+guest_name: Dance Musique Rhône-Alpes
+category: '432'
+writer: Anaïs G
+author: Anaïs G
 published: false
 ---
 
