@@ -12,8 +12,8 @@ published: false
 
 # Danse Muique Rhône-Alpes's selection
 
-##  – 
-DMRA: **"** **"**
+## Tachycardie – 
+DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufologist Jimmy Guieu is for French Ufology.A Versatile genius and a pathological workaholic.And just as Jimmy Guieu concerning his wardrobe, JB Geoffroy has a very elegant approach towards life.**"**
 
 ##  – 
 DMRA: **"** **"**
