@@ -25,9 +25,9 @@ author: Anaïs G
 published: false
 ---
 
-<p id="introduction">This morning 
+<p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter en cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses pour à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
 <br><br>
-
+Pour ce premier dimanche de cette année 2021, je suis accompagnée de Danse Musique Rhône-Alpes, afin de vous faire sortir de votre lit. 
 </p>
 
 
@@ -50,12 +50,12 @@ In this track, we can sense Elie Keszler’s ghostly presence, imposing but soft
 Anaïs G: **"** **"**
 
 ## Tite – Zhang
+Anaïs G: **"** Tite aka Nicolas Villebrun, a été  **"**
+
+## Maud Geffray – In the Wild 
 Anaïs G: **"** **"**
 
-##  – 
-Anaïs G: **"** **"**
-
-##  – 
+## Louisaaah – 
 Anaïs G: **"** **"**
 
 
