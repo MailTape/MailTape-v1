@@ -7,7 +7,7 @@ bigTitle_font_ratio: '6'
 track5_color: trippy
 track5_title: Tite - Zhang
 track4_color: trippy
-track4_title: 'Dance Musique Rhône-Alpes - Spiritisme & nouvelles technologies '
+track4_title: 'Dance Musique Rhône-Alpes - Spiritisme et nouvelles technologies '
 track3_color: trippy
 track3_title: Laurel Halo - Koinos
 track1_color: trippy
@@ -23,6 +23,11 @@ category: '432'
 writer: Anaïs G
 author: Anaïs G
 published: false
+guest_color: trippy
+track2_title: 'Raime - Some Things Can Happen, Just Like This'
+track2_color: dreamy
+track6_title: 'Maud Geffray - '
+track7_title: 'Louisaaah - '
 ---
 
 <p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter pour cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
