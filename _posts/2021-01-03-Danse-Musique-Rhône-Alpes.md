@@ -7,7 +7,7 @@ bigTitle_font_ratio: '6'
 track5_color: trippy
 track5_title: Tite - Zhang
 track4_color: trippy
-track4_title: 'Dance Musique Rhône-Alpes - Spiritisme et nouvelles technologies '
+track4_title: 'Danse Musique Rhône-Alpes - Spiritisme et nouvelles technologies '
 track3_color: trippy
 track3_title: Laurel Halo - Koinos
 track1_color: trippy
@@ -24,10 +24,14 @@ published: false
 guest_color: trippy
 track6_link: >-
   https://soundcloud.com/pan-european-recording/in-the-wild?in=pan-european-recording/sets/maud-geffray-1994
+track7_link: >-
+  https://soundcloud.com/mixmag-1/premiere-louisahhh-trap?in=louisahhh/sets/a-trap-ive-built-raar008
 track2_title: 'Raime - Some Things Can Happen, Just Like This'
 track2_color: dreamy
-track6_title: 'Maud Geffray - '
-track7_title: 'Louisaaah - '
+track6_title: Maud Geffray - In the wild
+track6_color: vibrant
+track7_title: Louisahhh - Trap
+track7_color: rough
 ---
 
 <p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter pour cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
@@ -62,7 +66,7 @@ Anaïs G: **"** Tite aka Nicolas Villebrun, a été  **"**
 ## Maud Geffray – In the Wild 
 Anaïs G: **"** **"**
 
-## Louisaaah – 
+## Louisahhh – Trap
 Anaïs G: **"** **"**
 
 
