@@ -14,8 +14,6 @@ track1_color: trippy
 track1_title: Tachycardie -  D'humeur à savoir
 track5_link: 'https://soundcloud.com/trax-magazine/premiere-tite-zhang-fragil-musique'
 track4_link: 'https://soundcloud.com/danse-musique-rhone-alpes/10-spiritisme-mtrdigit-v1'
-track2_link: >-
-  https://soundcloud.com/pan_hq/nts-x-pan-w-beatrice-dillon-lucy-railton-23-march-2020
 track1_link: 'https://soundcloud.com/ujnsq/dhumeur-a-savoir'
 guestPic: guestPic432.jpg
 guest_name: Dance Musique Rhône-Alpes
@@ -24,6 +22,8 @@ writer: Anaïs G
 author: Anaïs G
 published: false
 guest_color: trippy
+track6_link: >-
+  https://soundcloud.com/pan-european-recording/in-the-wild?in=pan-european-recording/sets/maud-geffray-1994
 track2_title: 'Raime - Some Things Can Happen, Just Like This'
 track2_color: dreamy
 track6_title: 'Maud Geffray - '
