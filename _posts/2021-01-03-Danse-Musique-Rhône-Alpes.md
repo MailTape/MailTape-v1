@@ -61,13 +61,13 @@ In this track, we can sense Elie Keszler’s ghostly presence, imposing but soft
 Anaïs G: **"**Bien que son nom ai attirée mon attention c'est sa musique qui m'a laissé sans voix. Un ovni musical, capharnaum joyeux et ce vent bizarre qui nous entraine dans cet EP "Shit Forest"  **"**
 
 ## Tite – Zhang
-Anaïs G: **"**Comme une chorégraphie de danse contemporaine, comme nous pouvons le voir dans le clip, c'est energique et dé-structuré. Le contraste entre l'élégance et la beauté des gestes et cette musique industriel et froide nous transporte dans un monde parralèle où la violence n'est que douceur.**"**
+Anaïs G: **"**Like a contemporary dance choreography, as we can see in the music video, it’s energetic and unstructured. The contrast between the elegance and beauty of the gestures and this industrial and cold music transports us into a parral world where violence is nothing but sweetness.**"**
 
 ## Maud Geffray – In the Wild 
-Anaïs G: **"**Ambiance Kubrick avec Maud Geffray. ça tombe bien, car le titre "In the wild" que j'ai sélectionné, est extrait de l'EP-film "1994". Un bijoux musical lunaire, qui dépasse tout ce que l'on peut imaginer, qui vaut le détour!**"**
+Anaïs G: **"**Kubrick atmosphere with Maud Geffray. That’s good, because the title “In the wild” that I selected, is taken from the EP-film “1994. ” A lunar musical jewel, which surpasses anything imaginable, which is worth the detour! **"**
 
 ## Louisahhh – Trap!
-Anaïs G: **"**Une certaine intensité et puissance que l'on retrouve dans les compositions de Louisahh qui nous fait aimer sa musique sans oublier ce coté industriel assumée. Une fin de sélection violente afin d'être bien réveillé en ce dimanche.**"**
+Anaïs G: **"**A certain intensity and power that can be found in Louisahh’s compositions that makes us love his music without forgetting the assumed industrial side. A violent end of selection in order to be well awake this Sunday.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Danse Musique Rhône-Alpes for his Sunday selections and to for this episode's brilliant illustration!</p>
