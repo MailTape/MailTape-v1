@@ -58,17 +58,16 @@ In this track, we can sense Elie Keszler’s ghostly presence, imposing but soft
 # MailTape's selection
 
 ## Danse Musique Rhône-Alpes – Spiritisme et nouvelles technologies
-Anaïs G: **"** **"**
+Anaïs G: **"**Bien que son nom ai attirée mon attention c'est sa musique qui m'a laissé sans voix. Un ovni musical, capharnaum joyeux et ce vent bizarre qui nous entraine dans cet EP "Shit Forest"  **"**
 
 ## Tite – Zhang
-Anaïs G: **"** Tite aka Nicolas Villebrun, a été  **"**
+Anaïs G: **"**Comme une chorégraphie de danse contemporaine, comme nous pouvons le voir dans le clip, c'est energique et dé-structuré. Le contraste entre l'élégance et la beauté des gestes et cette musique industriel et froide nous transporte dans un monde parralèle où la violence n'est que douceur.**"**
 
 ## Maud Geffray – In the Wild 
-Anaïs G: **"** **"**
+Anaïs G: **"**Ambiance Kubrick avec Maud Geffray. ça tombe bien, car le titre "In the wild" que j'ai sélectionné, est extrait de l'EP-film "1994". Un bijoux musical lunaire, qui dépasse tout ce que l'on peut imaginer, qui vaut le détour!**"**
 
 ## Louisahhh – Trap!
-
-Anaïs G: **"** **"**
+Anaïs G: **"**Une certaine intensité et puissance que l'on retrouve dans les compositions de Louisahh qui nous fait aimer sa musique sans oublier ce coté industriel assumée. Une fin de sélection violente afin d'être bien réveillé en ce dimanche.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Danse Musique Rhône-Alpes for his Sunday selections and to for this episode's brilliant illustration!</p>
