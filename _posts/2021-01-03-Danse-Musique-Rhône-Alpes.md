@@ -16,7 +16,7 @@ track5_link: 'https://soundcloud.com/trax-magazine/premiere-tite-zhang-fragil-mu
 track4_link: 'https://soundcloud.com/danse-musique-rhone-alpes/10-spiritisme-mtrdigit-v1'
 track1_link: 'https://soundcloud.com/ujnsq/dhumeur-a-savoir'
 guestPic: guestPic432.jpg
-guest_name: Dance Musique Rhône-Alpes
+guest_name: Danse Musique Rhône-Alpes
 category: '432'
 writer: Anaïs G
 author: Anaïs G
