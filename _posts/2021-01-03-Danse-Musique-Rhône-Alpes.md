@@ -20,7 +20,7 @@ guest_name: Danse Musique Rhône-Alpes
 category: '432'
 writer: Anaïs G
 author: Anaïs G
-published: false
+published: true
 guest_color: trippy
 track6_link: >-
   https://soundcloud.com/pan-european-recording/in-the-wild?in=pan-european-recording/sets/maud-geffray-1994
