@@ -25,7 +25,7 @@ author: Anaïs G
 published: false
 ---
 
-<p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter en cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses pour à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
+<p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter pour cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
 <br><br>
 Pour ce premier dimanche de cette année 2021, je suis accompagnée de Danse Musique Rhône-Alpes, afin de vous faire sortir de votre lit. 
 </p>
@@ -36,8 +36,10 @@ Pour ce premier dimanche de cette année 2021, je suis accompagnée de Danse Mus
 ## Tachycardie – 
 DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufologist Jimmy Guieu is for French Ufology.A Versatile genius and a pathological workaholic.And just as Jimmy Guieu concerning his wardrobe, JB Geoffroy has a very elegant approach towards life.**"**
 
-##  – 
-DMRA: **"** **"**
+## RAIME - Some Things Can Happen, Just Like This
+DMRA: **"**A British duet that I discovered by chance, and which EP « am I using content or is content using me » has followed me through as many Sundays as my sober self can remember.
+This record has a very smooth groove, warm and comforting melodic presence, but is nevertheless digging in a field filled with 3D printed plastic trees. 
+I am not yet very clear about this but it seems the drummer Valentina Magaletti is involved in this project, which makes it even more interesting, even though I prefer not to know exactly what’s what, and who’s who, and when it occurred.**"**
 
 ## Laurel Halo – Koinos
 DMRA: **"**Excerpt from the DUST album, in which Halo collaborates with many different artists.
@@ -59,4 +61,4 @@ Anaïs G: **"** **"**
 Anaïs G: **"** **"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love toDanse Musique Rhône-Alpes for his Sunday selections and to for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Danse Musique Rhône-Alpes for his Sunday selections and to for this episode's brilliant illustration!</p>
