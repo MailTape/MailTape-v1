@@ -34,9 +34,9 @@ track7_title: Louisahhh - Trap
 track7_color: rough
 ---
 
-<p id="introduction">This morning, nous sommes ENFIN 2021. Que pouvons-nous nous souhaiter pour cette année ? La santé, déjà celle qui est primordial par rapport aux autres mais surtout la réouverture de tous ses lieux de culture, de la musique et de l'evenementiel... Et bien évidement pleins de belles choses à tous ceux qui nous suivent, en espérant vous surprendre, vous étonner et vous faire plaisir encore chaque dimanche. 
+<p id="introduction">This morning, it is FINAL 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events. . . And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
 <br><br>
-Pour ce premier dimanche de cette année 2021, je suis accompagnée de Danse Musique Rhône-Alpes, afin de vous faire sortir de votre lit. 
+For this first Sunday of 2021, I am accompanied by Danse Musique Rhône-Alpes, to get you out of bed.
 </p>
 
 
