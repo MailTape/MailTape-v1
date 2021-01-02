@@ -2,7 +2,7 @@
 layout: episode
 musiColor: musiColor432.png
 image: 'https://mailta.pe/img/fbPic432.png'
-episode_URL: 'http://mailta.pe/432/danse-musique-rhone-alpes/'
+episode_URL: 'http://mailta.pe/432/danse-musique-rhône-alpes/'
 bigTitle_font_ratio: '6'
 track5_color: trippy
 track5_title: Tite - Zhang
