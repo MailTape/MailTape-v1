@@ -44,19 +44,19 @@ description: >-
 
 <p id="introduction">This morning, it is FINAL 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events. . . And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
 <br><br>
-For this first Sunday of 2021, I am accompanied by Danse Musique Rhône-Alpes, to get you out of bed.
+For this first Sunday of 2021, I am accompanied by [Danse Musique Rhône-Alpes](https://soundcloud.com/danse-musique-rhone-alpes), to get you out of bed.
 </p>
 
 
 # Danse Musique Rhône-Alpes's selection
 
 ## Tachycardie – D'humeur à savoir
-DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufologist Jimmy Guieu is for French Ufology.A Versatile genius and a pathological workaholic.And just as Jimmy Guieu concerning his wardrobe, JB Geoffroy has a very elegant approach towards life.**"**
+DMRA: **"**Tachycardie is (as far as I’m concerned) for music what French ufologist [Jimmy Guieu](https://fr.wikipedia.org/wiki/Jimmy_Guieu) is for French Ufology. A Versatile genius and a pathological workaholic. And just as Jimmy Guieu concerning his wardrobe, Jean-Baptiste Geoffroy has a very elegant approach towards life.**"**
 
 ## RAIME - Some Things Can Happen, Just Like This
-DMRA: **"**A British duet that I discovered by chance, and which EP « am I using content or is content using me » has followed me through as many Sundays as my sober self can remember.This record has a very smooth groove, warm and comforting melodic presence, but is nevertheless digging in a field filled with 3D printed plastic trees. I am not yet very clear about this but it seems the drummer Valentina Magaletti is involved in this project, which makes it even more interesting, even though I prefer not to know exactly what’s what, and who’s who, and when it occurred.**"**
+DMRA: **"**A British duet that I discovered by chance, and which EP « am I using content or is content using me » has followed me through as many Sundays as my sober self can remember.This record has a very smooth groove, warm and comforting melodic presence, but is nevertheless digging in a field filled with 3D printed plastic trees. I am not yet very clear about this but it seems the drummer [Valentina Magaletti](https://valentinamagaletti.com/) is involved in this project, which makes it even more interesting, even though I prefer not to know exactly what’s what, and who’s who, and when it occurred.**"**
 
-## Laurel Halo – Koinos
+## [Laurel Halo](https://soundcloud.com/laurelhalo) – Koinos
 DMRA: **"**Excerpt from the DUST album, in which Halo collaborates with many different artists. In this track, we can sense Elie Keszler’s ghostly presence, imposing but soft and precise.The two artistic dimensions, Halo’s and Kesler’s, meet in a very nice manner here, making the « experimental pop music experience » possible in a way, and especially on Sundays.**"**
 
 
