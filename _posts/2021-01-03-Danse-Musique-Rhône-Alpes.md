@@ -55,7 +55,7 @@ DMRA: **"**Excerpt from the DUST album, in which Halo collaborates with many dif
 # MailTape's selection
 
 ## Danse Musique Rhône-Alpes – Spiritisme et nouvelles technologies
-Anaïs G: **"**Bien que son nom ai attirée mon attention c'est sa musique qui m'a laissé sans voix. Un ovni musical, capharnaum joyeux et ce vent bizarre qui nous entraine dans cet EP "Shit Forest"  **"**
+Anaïs G: **"**Her name first aroused my curiosity. It's afterwards, listening to his EP "Shit Forest" released on the Kythibong label, that I was drawn into a strange universe between film and video games. Loup Gangloff is a musical UFO all by himself. He was part of the Deux Boules Vanille group before going solo. This "Shit Forest" that he suggests we listen to is simply a reflection of our current society. A nice shit, a cheerful mess, indispensable for your evenings during your next curfew!**"**
 
 ## Tite – Zhang
 Anaïs G: **"**Like a contemporary dance choreography, as we can see in the music video, it’s energetic and unstructured. The contrast between the elegance and beauty of the gestures and this industrial and cold music transports us into a parral world where violence is nothing but sweetness.**"**
