@@ -66,7 +66,7 @@ DMRA: **"**Excerpt from the DUST album, in which Halo collaborates with many dif
 Anaïs G: **"**Her name first aroused my curiosity. It's afterwards, listening to his EP "[Shit Forest](https://kythibong.bandcamp.com/album/shit-forest)" released on the [Kythibong](https://www.kythibong.org/) label, that I was drawn into a strange universe between film and video games. Loup Gangloff is a musical UFO all by himself. He was part of the [Deux Boules Vanille](http://2boulesvanille.com/) group before going solo. This "Shit Forest" that he suggests we listen to is simply a reflection of our current society. A nice shit, a cheerful mess, indispensable for your evenings during your next curfew!**"**
 
 ## [Tite](https://www.facebook.com/djtite1) – Zhang
-Anaïs G: **"**Like a contemporary dance choreography, as we can see in the music video, it’s energetic and unstructured. The contrast between the elegance and beauty of the gestures and this industrial and cold music transports us into a parral world where violence is nothing but sweetness.**"**
+Anaïs G: **"**Like a contemporary dance choreography, as we can see in the [music video](https://www.youtube.com/watch?v=Bt0kyb7LSFU), it’s energetic and unstructured. The contrast between the elegance and beauty of the gestures and this industrial and cold music transports us into a parral world where violence is nothing but sweetness.**"**
 
 ## [Maud Geffray](https://soundcloud.com/maudgeffray) – In the Wild 
 Anaïs G: **"**Kubrick atmosphere with Maud Geffray. That’s good, because the title “In the wild” that I selected, is taken from the EP-film “[1994](https://soundcloud.com/pan-european-recording/sets/maud-geffray-1994)” A lunar musical jewel, which surpasses anything imaginable, which is worth the detour! **"**
