@@ -40,6 +40,7 @@ description: >-
   reopening of all its places of culture, music and events. . . And of course
   full of beautiful things to all those who follow us, hoping to surprise you,
   amaze you and please you again every Sunday.
+illustrator: Jason Pridham
 ---
 
 <p id="introduction">This morning, it is FINAL 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events... And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
