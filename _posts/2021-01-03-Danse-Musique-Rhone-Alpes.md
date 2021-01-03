@@ -35,7 +35,7 @@ track7_color: rough
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/432/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/432/track3.mp3'
 description: >-
-  This morning, it is FINAL 2021. What can we wish for this year? Health,
+  This morning, it is FINALLY 2021. What can we wish for this year? Health,
   already the most important one compared to the others but above all the
   reopening of all its places of culture, music and events. . . And of course
   full of beautiful things to all those who follow us, hoping to surprise you,
@@ -43,7 +43,7 @@ description: >-
 illustrator: Jason Pridham
 ---
 
-<p id="introduction">This morning, it is FINAL 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events... And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
+<p id="introduction">This morning, it is FINALLY 2021. What can we wish for this year? Health, already the most important one compared to the others but above all the reopening of all its places of culture, music and events... And of course full of beautiful things to all those who follow us, hoping to surprise you, amaze you and please you again every Sunday.
 <br><br>
 For this first Sunday of 2021, I am accompanied by [Danse Musique Rhône-Alpes](https://soundcloud.com/danse-musique-rhone-alpes), to get you out of bed.
 </p>
