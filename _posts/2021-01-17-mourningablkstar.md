@@ -31,7 +31,7 @@ track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
 guestPic: guestPic434.jpg
 ---
-<p id="introduction"> This morning, we're honored to introduce you to [Mourning [A] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us. No matter what. We know these are tough times, we're with you and you know what? Let's dance and shake our troubles away!
+<p id="introduction"> This morning, we're honored to introduce you to [Mourning [A] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us. No matter what. Let's dance and shake our troubles away!
 </p>
 
 
