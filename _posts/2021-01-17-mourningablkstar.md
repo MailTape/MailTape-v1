@@ -69,5 +69,5 @@ ImaCrea: **"**Back to today with this protest song, the combat is not finished y
 ImaCrea: **"**And you know what's the best weapon? Love and fearless dance moves! Move that body, let it shake far away all the tension locked down in your muscles and spine for the past months. Choose light, abandon darkness.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [DJ Lycox](https://www.facebook.com/dlycox/) for his Sunday selections, and many thanks to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to the whole beautiful family of [Mourning [A] BLKstar] for their Sunday selection, and many thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's polaroidish illustration!</p>
 
