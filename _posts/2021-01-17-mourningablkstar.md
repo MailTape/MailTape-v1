@@ -31,14 +31,14 @@ track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
 guestPic: guestPic434.jpg
 ---
-<p id="introduction"> sdd
+<p id="introduction"> This morning, we're honored to introduce you to Mourning [A] BLKstar, a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us. No matter what. We know these are tough times, we're with you and you know what? Let's dance and shake our troubles away!
 </p>
 
 
 # Mourning [A] BLKstar's selection
 
 ## Kokoroko - Ti-de
-Theresa May (Trumpet) of Mourning [A] BLKstar: **"**Sunday mornings in my household are the most chill and reserved for staying in bathrobes all day. After sleeping in, my boyfriend and I have freshly ground coffee and a late brunch before slowly diving into our to-do lists. The perfect soundtrack for a chill yet productive Sunday undoubtedly includes Ti-de by Kokoroko. The groove starts with all the essentials; bass, percussion/drums, keys, and ethereal guitar, followed by the hypnotic melody presented by the horn section. Nearing the end of the song we are then treated with calming vocals, after which I hit the repeat button. This tune is on their 2019 album release titled “Kokoroko” and is about 6 minutes of pure magic. --**"**
+Theresa May (Trumpet) of Mourning [A] BLKstar: **"**Sunday mornings in my household are the most chill and reserved for staying in bathrobes all day. After sleeping in, my boyfriend and I have freshly ground coffee and a late brunch before slowly diving into our to-do lists. The perfect soundtrack for a chill yet productive Sunday undoubtedly includes Ti-de by Kokoroko. The groove starts with all the essentials; bass, percussion/drums, keys, and ethereal guitar, followed by the hypnotic melody presented by the horn section. Nearing the end of the song we are then treated with calming vocals, after which I hit the repeat button. This tune is on their 2019 album release titled “Kokoroko” and is about 6 minutes of pure magic.**"**
 
 ## Pablo Amor - whutitseemz
 RA Washington (electronics) of Mourning [A] BLKstar: **"**The entire record bangs, the beats and the lyrics are completely fire. We bump this at the blk sonix lab all the time, hidden gem of last year**"**
