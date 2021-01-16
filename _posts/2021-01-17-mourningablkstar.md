@@ -31,7 +31,7 @@ track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
 guestPic: guestPic434.jpg
 ---
-<p id="introduction"> This morning, we're honored to introduce you to [Mourning [A] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
+<p id="introduction"> This morning, we're honored to introduce you to [Mourning \[A\] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
 </p>
 
 
@@ -63,11 +63,11 @@ ImaCrea: **"**I can't remember how many times I played their album since I disco
 ImaCrea: **"**Back to the 70's in Nigeria. One beautiful gem from afropop movement combined with progressive rock vibes. 50 years later, the vibe is still here and my guts can very well feel it. One doesn't need a time machine when we have art.**"**
 
 ## SAULT - Bow feat Michael Kiwanuka 
-ImaCrea: **"**Back to today with this protest song, the combat is not finished yet. In fact, we need to stay alert and keep pushing more than ever. It's about time to make fascists affraid again. We got rights!**"**
+ImaCrea: **"**Back to today with this protest song, the combat is not finished yet. In fact, we need to stay alert and keep pushing more than ever. It's about time to make fascists afraid again. We got rights!**"**
 
 ## Chanel Tres - unfinished business 
 ImaCrea: **"**And you know what's the best weapon? Love and fearless dance moves! Move that body, let it shake far away all the tension locked down in your muscles and spine for the past months. Choose light, abandon darkness.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to the whole beautiful family of [Mourning [A] BLKstar] for their Sunday selection, and many thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's polaroidish illustration!</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to the whole beautiful family of [Mourning \[A\] BLKstar](https://mourningablkstar.com/) for their Sunday selection, and many thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's polaroidish illustration!</p>
 
