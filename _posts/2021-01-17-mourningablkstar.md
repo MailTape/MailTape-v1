@@ -31,7 +31,7 @@ track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
 guestPic: guestPic434.jpg
 episode_URL: 'https://mailta.pe/434/mourningablkstar/'
-image: 'https://mailta.pe/img/fbPic434.jpg'
+image: 'https://mailta.pe/img/fbPic434.png'
 musiColor: musiColor434.jpg
 description: >-
   This morning, we're honored to introduce you to Mourning [A] BLKstar, a
