@@ -16,6 +16,10 @@ track1_title: Kokoroko - Ti-de
 track2_title: Pablo Amor - whutitseemz
 track3_title: Beverly Glenn-Copeland - Winter Astral
 track4_title: 'Mourning [A] BLKstar - Be'
+track1_color: dreamy
+track2_color: rough
+track3_color: trippy
+track4_color: bliss
 ---
 <p id="introduction"> sdd
 </p>
