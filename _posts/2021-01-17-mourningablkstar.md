@@ -34,17 +34,17 @@ Pete Saudek (guitar & keys) of Mourning [A] BLKstar: **"**This song creates a po
 
 # MailTape's selection
 
-## [DJ Lycox](https://www.facebook.com/dlycox/) - Solteiro
-Jules: **"**Like for other PRÍNCIPE's producers, we find in Lycox's music his kuduro and kizomba influences, as well as these crazy and complex percussions which made me discover a new way of dancing, more physical. But beyond that, he stands out with its aerial and melancholic melodies that have something special and which make you want to escape too. And right now we absolutely need it.**"**
+## Mourning [A] BLKstar - Be
+ImaCrea: **"**...**"**
 
-## Anz - Loos In Twos (NRG)
-Jules: **"**With this track opening her last EP released last September, the Manchester-based DJ and producer [Anz](https://anzdj.bandcamp.com/) delivers a sequence of kicks and drums as well suited for the dancefloors as to liven up your morning exercise.**"**
+## ..
+ImaCrea: **"**..**"**
 
-## Azu Tiwaline - Terremer
-Jules: **"**Let's calm down now, it's time to dive to the bottom of the ocean or, failing that, its bathtub. Here the percussions of the Tunisian producer [Azu Tiwaline](https://azutiwaline.bandcamp.com/) are slower and have a hypnotizing effect that takes us somewhere between the sea and the desert, between shadow and light.**"**
+## ..
+ImaCrea: **"**//**"**
 
-## Beatrice Dillon - Workaround Two
-Jules: **"**Drums, more drums, always drums. Here the work of the UK-based rhythm-obsessive musician and DJ [Beatrice Dillon](https://beatricedillon.bandcamp.com/) perfectly combines with Laurel Halo's vocals as well as acoustic samples from a wide range of guests to embark you on an innovative trip.**"**
+## ..
+ImaCrea: **"**..**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [DJ Lycox](https://www.facebook.com/dlycox/) for his Sunday selections, and many thanks to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration!</p>
