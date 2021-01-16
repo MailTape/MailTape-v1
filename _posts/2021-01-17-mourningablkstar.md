@@ -13,9 +13,7 @@ track1_link: 'https://mailtapesounds.s3.amazonaws.com/434/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/434/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/434/track3.mp3'
 ---
-<p id="introduction"> This morning, we are delighted to welcome Parisian-based DJ and producer [DJ Lycox](https://www.facebook.com/dlycox/) to share with us a Sunday morning selection full of energy. No excuses to sleep in!
-<br><br>
-My first encounter with DJ Lycox's music was like an electric shock, when I first listened to his EP ["Kizas do Ly"](https://principediscos.bandcamp.com/album/kizas-do-ly). Like the other artists of the Lisbon-based record label PRÍNCIPE, the Portuguese producer made me discover melodies, rhythms that I didn't know well and that I thought I didn't like. The same applies for this selection which overflows with energy and cannot leave indifferent: you have to dare to go beyond your first reactions to discover all the richness and the complexity of Lycox's musical universe.
+<p id="introduction"> sdd
 </p>
 
 
