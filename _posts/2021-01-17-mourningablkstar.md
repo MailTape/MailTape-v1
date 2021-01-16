@@ -12,6 +12,10 @@ track4_link: 'https://soundcloud.com/mourningablkstar/be'
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/434/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/434/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/434/track3.mp3'
+track1_title: Kokoroko - Ti-de
+track2_title: Pablo Amor - whutitseemz
+track3_title: Beverly Glenn-Copeland - Winter Astral
+track4_title: 'Mourning [A] BLKstar - Be'
 ---
 <p id="introduction"> sdd
 </p>
