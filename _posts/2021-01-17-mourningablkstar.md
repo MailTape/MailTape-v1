@@ -25,6 +25,10 @@ track5_title: Monomono - The World Might Fall Over
 track5_color: vibrant
 track6_title: 'SAULT - Bow feat Michael Kiwanuka '
 track6_color: vibrant
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/434/track6.mp3'
+track7_title: 'Chanel Tres  - unfinished business '
+track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
+track7_color: dreamy
 ---
 <p id="introduction"> sdd
 </p>
