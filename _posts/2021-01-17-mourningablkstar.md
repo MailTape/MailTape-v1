@@ -29,6 +29,7 @@ track6_link: 'https://mailtapesounds.s3.amazonaws.com/434/track6.mp3'
 track7_title: 'Chanel Tres  - unfinished business '
 track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
+guestPic: guestPic434.jpg
 ---
 <p id="introduction"> sdd
 </p>
