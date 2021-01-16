@@ -30,6 +30,15 @@ track7_title: 'Chanel Tres  - unfinished business '
 track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy
 guestPic: guestPic434.jpg
+episode_URL: 'https://mailta.pe/434/mourningablkstar/'
+image: 'https://mailta.pe/img/fbPic434.jpg'
+musiColor: musiColor434.jpg
+description: >-
+  This morning, we're honored to introduce you to Mourning [A] BLKstar, a
+  fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy
+  selection made with care for a delicious Sunday at home. Click on play, close
+  your eyes and let the music speak to your spirit. Music is, has always been,
+  and will ever be what unites us.
 ---
 <p id="introduction"> This morning, we're honored to introduce you to [Mourning \[A\] BLKstar](https://mourningablkstar.com/), a fantastic band formed by RA Washington from Cleveland, Ohio. A soulful jazzy selection made with care for a delicious Sunday at home. Click on play, close your eyes and let the music speak to your spirit. Music is, has always been, and will ever be what unites us.
 </p>
