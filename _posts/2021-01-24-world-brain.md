@@ -2,6 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/435/track1.mp3'
+track2_link: 'https://soundcloud.com/pilarzeta/clouds-to-remember'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/435/track3.mp3'
+track4_link: 'https://soundcloud.com/mondecerveau/network'
 ---
 <p id="introduction"> ...
 </p>
