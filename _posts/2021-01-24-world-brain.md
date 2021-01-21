@@ -5,7 +5,7 @@ published: false
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/435/track1.mp3'
 track2_link: 'https://soundcloud.com/pilarzeta/clouds-to-remember'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/435/track3.mp3'
-track4_link: 'https://soundcloud.com/mondecerveau/network'
+track4_link: 'https://soundcloud.com/mondecerveau/hypertext-2'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/435/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/435/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/435/track6.mp3'
@@ -32,7 +32,7 @@ World Brain: **"**A band formed in the 80's by two Japanese women, playing organ
 
 # MailTape's selection
 
-## World Brain - Network
+## World Brain - Hypertext
 ImaCrea: **"**//**"**
 
 ## Yves Tumor - Strawberry Privilege 
