@@ -18,7 +18,7 @@ track6_title: Future Islands - Born in a War
 track7_title: Wardown - Lorem Ipsum
 track6_color: bliss
 track7_color: dreamy
-track5_color: trippy
+track5_color: bliss
 track4_color: dreamy
 track3_color: trippy
 track2_color: dreamy
