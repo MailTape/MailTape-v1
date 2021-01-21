@@ -27,6 +27,7 @@ guest_name: World Brain
 category: '435'
 writer: Daisy
 author: ImaCrea
+illustrator: Anthony Dujardin
 ---
 <p id="introduction"> ...
 </p>
