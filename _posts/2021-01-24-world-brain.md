@@ -9,6 +9,24 @@ track4_link: 'https://soundcloud.com/mondecerveau/hypertext-2'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/435/track7.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/435/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/435/track6.mp3'
+track1_title: Chaz Jenkel - I can get over it (if you can get over here)
+track2_title: Pilar Zeta - Clouds to Remember
+track3_title: Syzygys - Fauna Grotesque
+track4_title: World Brain - Hypertext
+track5_title: Yves Tumor - Strawberry Privilege
+track6_title: Future Islands - Born in a War
+track7_title: Wardown - Lorem Ipsum
+track6_color: bliss
+track7_color: dreamy
+track5_color: trippy
+track4_color: dreamy
+track3_color: trippy
+track2_color: dreamy
+track1_color: vibrant
+guest_name: World Brain
+category: '435'
+writer: Daisy
+author: ImaCrea
 ---
 <p id="introduction"> ...
 </p>
