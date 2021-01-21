@@ -7,6 +7,8 @@ track2_link: 'https://soundcloud.com/pilarzeta/clouds-to-remember'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/435/track3.mp3'
 track4_link: 'https://soundcloud.com/mondecerveau/network'
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/435/track7.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/435/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/435/track6.mp3'
 ---
 <p id="introduction"> ...
 </p>
@@ -33,10 +35,10 @@ World Brain: **"**A band formed in the 80's by two Japanese women, playing organ
 ## World Brain - Network
 ImaCrea: **"**//**"**
 
-## xx
+## Yves Tumor - Strawberry Privilege 
 ImaCrea: **"**//**"**
 
-## xx 
+## Future Islands - Born in a War
 ImaCrea: **"**//**"**
 
 ## Wardown - 07 Lorem Ipsum 
