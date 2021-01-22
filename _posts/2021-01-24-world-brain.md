@@ -28,6 +28,7 @@ category: '435'
 writer: Daisy
 author: ImaCrea
 illustrator: Anthony Dujardin
+guestPic: guestPic435.jpg
 ---
 <p id="introduction"> ...
 </p>
@@ -65,6 +66,3 @@ ImaCrea: **"**//**"**
 
 
 <p id="outroduction">//</p>
-
-
-
