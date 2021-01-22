@@ -57,7 +57,7 @@ World Brain: **"**A band formed in the 80's by two Japanese women, playing organ
 # MailTape's selection
 
 ## World Brain - Hypertext
-ImaCrea: **"**//**"**
+ImaCrea: **"**As I stumbled upon [World Brain's album](https://worldbrain.bandcamp.com/album/peer-2-peer) recently there was something instantly familiar with his sound. Un je ne sais quoi. I quickly entered in loop mode and for a couple of weeks, his mellow ethereal pop and sometime ironic and funny sound cheered me up with ease and lightness. I finally remembered that he had a track selected by [Musique Chienne in episode 296](https://www.mailta.pe/296/musique-chienne/)... three years ago (!) What a delicious flashback. I chose Hypertext for its super nostalgic feeling of freedom back to the beginnings of the internet. When making a random search on Yahoo! was all there was to do and it was damn fun and generous. There was no money involved, in a way everybody was there just for the sake of sharing something genuine without any back thoughts. **"**
 
 ## Yves Tumor - Strawberry Privilege 
 ImaCrea: **"**//**"**
