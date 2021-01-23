@@ -65,8 +65,7 @@ ImaCrea: **"**Big fan of Yves Tumor since their debut album. This track is from 
 ## Future Islands - Born in a War
 ImaCrea: **"**Sam Sam Sam! Their could be corona out there but till Future Islands keep releasing new music, we're saved. This track encompass their unique sound without falling into a pale copy. It's hard to keep pushing after such a gem as "Seasons" and I find in this one new details I never heard before. A magnificient flow showing the full vitality of the band and how passionate they are about carving the future of pop music.**"**
 
-## Wardown - 07 Lorem Ipsum 
-ImaCrea: **"**//**"**
+## Wardown - Lorem Ipsum 
+ImaCrea: **"**Like an old photograph found in a drawer years after. What have we done during all this time? Where are we going to? What if there was no answer? No direction? Breathe in... Breathe out. It's ok. Let the meditation takes you where it has to.**"**
 
-
-<p id="outroduction">//</p>
+<p id="outroduction"></p>
