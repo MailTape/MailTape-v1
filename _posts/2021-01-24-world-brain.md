@@ -57,13 +57,13 @@ World Brain: **"**A band formed in the 80's by two Japanese women, playing organ
 # MailTape's selection
 
 ## World Brain - Hypertext
-ImaCrea: **"**As I stumbled upon [World Brain's album](https://worldbrain.bandcamp.com/album/peer-2-peer) recently there was something instantly familiar with his sound. Un je ne sais quoi. I quickly entered in loop mode and for a couple of weeks, his mellow ethereal pop and sometime ironic and funny sound cheered me up with ease and lightness. I finally remembered that he had a track selected by [Musique Chienne in episode 296](https://www.mailta.pe/296/musique-chienne/)... three years ago (!) What a delicious flashback. I chose Hypertext for its super nostalgic feeling of freedom back to the beginnings of the internet. When making a random search on Yahoo! was all there was to do and it was damn fun and generous. There was no money involved, in a way everybody was there just for the sake of sharing something genuine without any back thoughts. **"**
+ImaCrea: **"**As I stumbled upon [World Brain's album](https://worldbrain.bandcamp.com/album/peer-2-peer) recently there was something instantly familiar with his sound. Un je ne sais quoi. I quickly entered in loop mode and for a couple of weeks, his mellow ethereal pop and sometime ironic and funny sound cheered me up with ease and lightness. I finally remembered that he had a track selected by [Musique Chienne in episode 296](https://www.mailta.pe/296/musique-chienne/)... three years ago (!) What a delicious flashback. I chose Hypertext for its super nostalgic feeling of freedom back to the beginnings of the internet. When making a random search on Yahoo! was all there was to do and it was damn fun and generous. There was no money involved, in a way most of what could be found was there just for the sake of sharing knowledge or anything authentic without any hidden agenda.**"**
 
 ## Yves Tumor - Strawberry Privilege 
-ImaCrea: **"**//**"**
+ImaCrea: **"**Big fan of Yves Tumor since their debut album. This track is from their [latest album](https://yves-tumor.bandcamp.com/album/heaven-to-a-tortured-mind) and it's an absolute gem of beauty. I feel like flying when listening to it.**"**
 
 ## Future Islands - Born in a War
-ImaCrea: **"**//**"**
+ImaCrea: **"**Sam Sam Sam! Their could be corona out there but till Future Islands keep releasing new music, we're saved. This track encompass their unique sound without falling into a pale copy. It's hard to keep pushing after such a gem as "Seasons" and I find in this one new details I never heard before. A magnificient flow showing the full vitality of the band and how passionate they are about carving the future of pop music.**"**
 
 ## Wardown - 07 Lorem Ipsum 
 ImaCrea: **"**//**"**
