@@ -68,4 +68,4 @@ ImaCrea: **"**Sam Sam Sam! Their could be corona out there but till Future Islan
 ## Wardown - Lorem Ipsum 
 ImaCrea: **"**Like an old photograph found in a drawer years after. What have we done during all this time? Where are we going to? What if there was no answer? No direction? Breathe in... Breathe out. It's ok. Let the meditation takes you where it has to.**"**
 
-<p id="outroduction"></p>
+<p id="outroduction">That’s it for this morning! Thanks for being with us. Drop us a poem or anything you'd like to share with us in comments, we'd appreciate it a lot. Much love to World Brain for his Sunday selection, to Daisy for her inspiring introduction and to Anthony for the stunning illustration. Peace.</p>
