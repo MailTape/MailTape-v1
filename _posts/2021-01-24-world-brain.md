@@ -38,9 +38,9 @@ description: >-
   signals hold secrets to be unravelled, spilling all around us and across the
   sky of an animated reality in pastel-perfect colours.
 ---
-<p id="introduction">This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.
+<p id="introduction">This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.<br><br>
 
-Almost edible and not quite imaginary, let’s stay by the stream of information awhile, sipping from big drinks of cosmic nostalgia and discreetly dancing to holographic sounds. In this temporary utopia, time is elastic and bodies etheric, an encyclopedic theatre of future memory inhabiting an unquantifiable aqueous plain.
+Almost edible and not quite imaginary, let’s stay by the stream of information awhile, sipping from big drinks of cosmic nostalgia and discreetly dancing to holographic sounds. In this temporary utopia, time is elastic and bodies etheric, an encyclopedic theatre of future memory inhabiting an unquantifiable aqueous plain.<br><br>
 
 Artificial stars blink their sentience and fade at the flick of a switch. World Brain has more transmissions to make across these material plains. Do stay connected… the pleasure in sampling our universal state of digital becoming with you has been all ours.
 </p>
