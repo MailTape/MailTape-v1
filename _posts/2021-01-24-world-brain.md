@@ -37,6 +37,7 @@ description: >-
   beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty
   signals hold secrets to be unravelled, spilling all around us and across the
   sky of an animated reality in pastel-perfect colours.
+guest_color: dreamy
 ---
 <p id="introduction">This morning, some delicious morsels of sonic data have found their way to us, beamed directly from the mind of World Brain (or Lucas Ufo IRL). These nifty signals hold secrets to be unravelled, spilling all around us and across the sky of an animated reality in pastel-perfect colours.<br><br>
 
