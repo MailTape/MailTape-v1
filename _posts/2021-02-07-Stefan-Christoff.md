@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sanjay Mistry
+illustrator: Jason Pridham
+writer: Sanjay Mistry
+category: '437'
+guest_name: Stefan Christoff
+guest_color: dreamy
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
