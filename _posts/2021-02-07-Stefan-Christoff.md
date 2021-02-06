@@ -29,7 +29,7 @@ track6_color: trippy
 track7_title: Talvin Singh & Niladri Kumar – Ananta
 track7_color: bliss
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/437/track7.mp3'
-episode_URL: 'http://mailta.pe/437/stefan-christoff/'
+episode_URL: 'https://mailta.pe/437/stefan-christoff/'
 description: >-
   This morning we welcome Stefan Christoff to select three groovy Sunday morning
   tunes with us on MailTape.
