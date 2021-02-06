@@ -60,7 +60,7 @@ Sanjay: **"**Girona-based producer and composer Fernando Corona, also known as [
 Sanjay: **"**[Sibusile Xaba's music](https://sibusilexaba.bandcamp.com/album/ngiwu-shwabada) has been on regular rotation since I first came across his work in the wet summer of 2017. Like the great Philip Tabane, Sibusile mixes fragmented lines with repeated phrases over Thabang Tabane's drums. Accompanied by his vocal style that is part-dreamscaping and part ancestral invocation. If you've got even more time on your hands, listen to [his MailTape episode from August 2017](https://www.mailta.pe/275/sibusile-xaba/).**"**
 
 ## Talvin Singh & Niladri Kumar – Ananta
-Sanjay: **"**A beautifully lilting piece from Talvin Singh and Niladri Kumar's album, Together, which I find difficult to believe was released a decade ago!**"**
+Sanjay: **"**A beautifully lilting piece from Talvin Singh and Niladri Kumar's album, Together, which I now find difficult to believe was released a decade ago!**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
