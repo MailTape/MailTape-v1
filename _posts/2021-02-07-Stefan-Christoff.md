@@ -55,7 +55,7 @@ Stefan Christoff: **"**Sharing this oud/piano duet with [Sam Shalabi](https://ww
 ## Murcof – Underwater Lament
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
 
-## Gino Soccio – Try it Out
+## Sibusile Xaba – Wampona
 Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! This track also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
 
 ## Cubie Burke – Down for Double
