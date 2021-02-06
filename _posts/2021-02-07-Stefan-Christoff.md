@@ -8,6 +8,16 @@ writer: Sanjay Mistry
 category: '437'
 guest_name: Stefan Christoff
 guest_color: dreamy
+track1_title: Nyathela ft. Luqua – TNS
+track1_color: bliss
+track2_title: DEMO FEST – Into the Night
+track2_color: trippy
+track3_title: >-
+  Thomas Mapfumo – Haruna from 'Spirits To Bite Our Ears: The Singles Collection
+  1977–1986'
+track3_color: dreamy
+track4_title: Sam Shalabi & Stefan Christoff  – Elephantine
+track4_color: dreamy
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
