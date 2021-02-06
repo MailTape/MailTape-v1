@@ -59,7 +59,7 @@ Stefan Christoff: **"**Sharing this oud/piano duet with [Sam Shalabi](https://ww
 Sanjay: **"**Girona-based producer and composer Fernando Corona, also known as [Murcof](https://www.murcof.com/), has announced his first release—'The Alias Sessions', a collaboration with Brazilian choreographer [Guilherme Botelho](https://www.alias-cie.com/en/)—on the Leaf label since 2016. More abstract than many of his previous works, I love the diaphanous atmosphere in this track, incorporating exquisite sound design with ghostly samples and non-tonal sounds.**"**
 
 ## Sibusile Xaba – Wampona
-Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! This track also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
+Sanjay: **"**Sibusile's music has been on regular rotation since I first came across his work in the wet summer of 2017.**"**
 
 ## Talvin Singh & Niladri Kumar – Ananta
 Sanjay: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
