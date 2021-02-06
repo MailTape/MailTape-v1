@@ -24,7 +24,10 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/437/track3.mp3'
 track4_link: 'https://mailtapesounds.s3.amazonaws.com/437/track4.mp3'
 track5_link: 'https://soundcloud.com/murcof/underwater-lament-full-version'
 track5_title: Murcof – Underwater Lament
-track5_color: trippy
+track5_color: bliss
+track6_link: 'https://soundcloud.com/sibusilexaba/wampona'
+track6_title: Sibusile Xaba – Wampona
+track6_color: trippy
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
