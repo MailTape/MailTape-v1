@@ -59,7 +59,7 @@ Stefan Christoff: **"**Sharing this oud/piano duet with [Sam Shalabi](https://ww
 Sanjay: **"**Girona-based producer and composer Fernando Corona, also known as [Murcof](https://www.murcof.com/), has announced his first release—'The Alias Sessions', a collaboration with Brazilian choreographer [Guilherme Botelho](https://www.alias-cie.com/en/)—on the Leaf label since 2016. More abstract than many of his previous works, I love the diaphanous atmosphere in this track, incorporating exquisite sound design with ghostly samples and non-tonal sounds.**"**
 
 ## Sibusile Xaba – Wampona
-Sanjay: **"**Sibusile Xaba's music has been on regular rotation since I first came across his work in the wet summer of 2017. Like the great Philip Tabane, Sibusile mixes fragmented lines with repeated phrases over Thabang Tabana's drums, accompanied by his vocal style that is part dreamscaping and part ancestral invocation. Check out [his MailTape episode from August 2017](https://www.mailta.pe/275/sibusile-xaba/).**"**
+Sanjay: **"**[Sibusile Xaba's music](https://sibusilexaba.bandcamp.com/album/ngiwu-shwabada) has been on regular rotation since I first came across his work in the wet summer of 2017. Like the great Philip Tabane, Sibusile mixes fragmented lines with repeated phrases over Thabang Tabana's drums, accompanied by his vocal style that is part dreamscaping and part ancestral invocation. Check out [his MailTape episode from August 2017](https://www.mailta.pe/275/sibusile-xaba/).**"**
 
 ## Talvin Singh & Niladri Kumar – Ananta
 Sanjay: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
