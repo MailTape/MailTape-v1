@@ -32,9 +32,9 @@ track7_title: Talvin Singh & Niladri Kumar – Ananta
 track7_color: bliss
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/437/track7.mp3'
 ---
-<p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
+<p id="introduction">This morning we welcome [Stefan Christoff](https://soundcloud.com/spirodon) to select three groovy Sunday morning tunes with us on MailTape. 
 <br><br>
-Markus Lake is a musician in Montréal/Tiohtià꞉ke's thriving independent music scene. A co-founder of DIY space 'Drones Club' and bass player in a number of bands, Markus isn't constrained by a single genre or style. At home in post-punk as well as Afrofuturism, he currently makes experimental electronica under the moniker, Markus Floats. 
+Stefan Christoff is a musician, journalist and activist living in Montréal. He is a founding member of the [Howl! arts collective](https://www.facebook.com/HowlArts/?ref=page_internal) and also hosts [Free City Radio on CKUT FM](https://ckut.ca/en/content/free-city-radio), a weekly program exploring local and global struggles for social justice from an artistic perspective. Stefan has also has released many albums of music, including two piano/oud duet albums with [Sam Shalabi](https://www.musicworks.ca/sam-shalabi-and-evolution-global-aesthetic).  
 </p>
 
 
