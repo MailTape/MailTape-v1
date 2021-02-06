@@ -30,6 +30,7 @@ track6_title: Sibusile Xaba – Wampona
 track6_color: trippy
 track7_title: Talvin Singh & Niladri Kumar – Ananta
 track7_color: bliss
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/437/track7.mp3'
 ---
 <p id="introduction">This morning we welcome [Markus Floats](https://markusfloats.bandcamp.com/) to select three snake-hipped Sunday morning tunes with us on MailTape. 
 <br><br>
