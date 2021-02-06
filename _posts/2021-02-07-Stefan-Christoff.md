@@ -63,4 +63,4 @@ Sanjay: **"**[Sibusile Xaba's music](https://sibusilexaba.bandcamp.com/album/ngi
 Sanjay: **"**A beautifully lilting piece from Talvin Singh and Niladri Kumar's album, Together, which I now find difficult to believe was released a decade ago!**"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Stefan Christoff](https://soundcloud.com/spirodon) for his generous Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration!</p>
