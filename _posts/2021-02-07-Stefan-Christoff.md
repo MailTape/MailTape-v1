@@ -12,9 +12,7 @@ track1_title: Nyathela ft. Luqua – TNS
 track1_color: bliss
 track2_title: DEMO FEST – Into the Night
 track2_color: trippy
-track3_title: >-
-  Thomas Mapfumo – Haruna from 'Spirits To Bite Our Ears: The Singles Collection
-  1977–1986'
+track3_title: Thomas Mapfumo – Haruna
 track3_color: dreamy
 track4_title: Sam Shalabi & Stefan Christoff  – Elephantine
 track4_color: dreamy
