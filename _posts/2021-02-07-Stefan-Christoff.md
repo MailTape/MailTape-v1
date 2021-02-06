@@ -61,7 +61,7 @@ Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is
 ## Sibusile Xaba – Wampona
 Sanjay: **"**A horn-laden wiggler from the early 80s, and wow, that fat plucked dust-raising bassline, too! This track also featured a salacious trumpet solo from Roger Walls and feelgood vocals by Memphis singer Erma Shaw.**"**
 
-## Cubie Burke – Down for Double
+## Talvin Singh & Niladri Kumar – Ananta
 Sanjay: **"**Rounding off this week's playlist with some more bouncin' boogie beats in the form of another killer early 80s one-off jam from Keni Burke's brother, Cubie.**"**
 
 
