@@ -30,7 +30,7 @@ Stefan Christoff: **"**I remember first hearing about Thomas Mapfumo in detail w
 # MailTape's selection
 
 ## Sam Shalabi & Stefan Christoff  – Elephantine
-Sanjay: **"**With recurrent tumbling notes and angular drawn-out drones throughout, Markus somehow manages to keep this track sounding like a pleasant walk in open habitat. Different arpeggios work against one another, as this final track on 'Third Album' reiterates many of the sounds, textures and timbres heard previously.**"**
+Stefan Christoff: **"**Sharing this oud/piano duet with Sam Shalabi, which we recorded at La Sala Rossa concert hall in the morning, we worked with some friends to set-up a recording situation and worked on releasing this track on the album Flying Street on a community level, it is out on vinyl. I remember the conversations with Sam around this piece, the musical scales are rooted in Nubian music and I loved playing the same note in two octaves, along to the driving melody of the oud, two notes striking accents on the piano while the oud plays. Sam is a great person, I feel lucky to have gotten to know Sam and to have collaborated over the years. Our collaborations first were really driven within the context of a series of local concerts we worked on in the city to support Palestinian human rights and the global Boycott, Divestment and Sanctions (BDS) movement. It has taken time but at the grassroots level, within artistic networks and amongst cultural workers, there is growing support for the BDS movement, as rooted in the example of the way that sanctions and boycotts did help the liberation struggle against apartheid in South Africa. On a personal level I have learned so much from Sam, both musically and also personally, just how to sustain a meaningful, honest and chill presence in a difficult world, thank you Sam.**"**
 
 ## Bill Withers – Grandma's Hands
 Sanjay: **"**The late Bill Withers needs no introduction; suffice to say this is my favourite non-romantic love song.**"**
@@ -43,4 +43,3 @@ Sanjay: **"**Rounding off this week's playlist with some more bouncin' boogie be
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Markus Floats](https://markusfloats.bandcamp.com/) for his Sunday selections and to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for this episode's brilliant illustration!</p>
-
