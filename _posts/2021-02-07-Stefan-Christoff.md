@@ -71,4 +71,4 @@ Sanjay: **"**A beautifully lilting piece from [Talvin Singh](https://www.instagr
 delectably spliced and diced in post-production.**"**
 
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Stefan Christoff](https://soundcloud.com/spirodon) for his generous Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration!</p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Stefan Christoff](https://soundcloud.com/spirodon) for his generous Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration, based on a photograph by Nick Schofield.</p>
