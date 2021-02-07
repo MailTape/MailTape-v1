@@ -33,6 +33,9 @@ episode_URL: 'https://mailta.pe/437/stefan-christoff/'
 description: >-
   This morning we welcome Stefan Christoff to select three groovy Sunday morning
   tunes with us on MailTape.
+guestPic: guestPic437.jpg
+image: 'https://mailta.pe/img/fbPic437.png'
+musiColor: musiColor437.png
 ---
 <p id="introduction">This morning we welcome [Stefan Christoff](https://soundcloud.com/spirodon) to select three groovy Sunday morning tunes with us on MailTape. 
 <br><br>
