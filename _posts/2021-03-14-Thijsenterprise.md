@@ -24,9 +24,9 @@ Besides this, I discover something new every time I play this song. The song lea
 Thijsenterprise: **"**Peter Evans can do it all. From playing a jazz standard to completely going nuts into free jazz-electro mode. Is that a word even? Man, he can do so much... I guess he can play “Body and Soul” and change tires of a car at the same time, all while he is circular breathing.
 This song has been on my mind since it came out in 2011. The first part is rough; not only for Sunday mornings. But when you reach the second part you might feel relieved. This repetitive melody asks you something, doesn’t it? What does it ask you? This tune has been challenging me in many aspects. In my playing, composing, and in my life. I hope it challenges you, too.**"**
 
-## [Jameszoo](https://www.facebook.com/Take6Official/) – Fluke
+## [Jameszoo](https://www.facebook.com/Take6Official/) – Flake
 Thijsenterprise: **"**Although my own music can’t be really considered “electronic,” I have a few names on my radar who inspire me immensely. Fellow Dutchie Jameszoo is one of them. His album Fool on Brainfeeder is big time. Talking ‘bout non-conventional song structures and composing!
-“Fluke” is a perfect opener for the album. And a perfect opener for an early morning, too. I love how it starts: unorganized, with several elements, that come and go later during the song. Bird sounds, lasers, percussion, and after a while that extremely catchy synth melody. This is enviable good. It makes me want to go straight to the music lab to brew something new!**"**
+“Flake” is a perfect opener for the album. And a perfect opener for an early morning, too. I love how it starts: unorganized, with several elements, that come and go later during the song. Bird sounds, lasers, percussion, and after a while that extremely catchy synth melody. This is enviable good. It makes me want to go straight to the music lab to brew something new!**"**
 
 # MailTape's selection
 
