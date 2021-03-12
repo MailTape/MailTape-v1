@@ -9,31 +9,8 @@ track1_title: Tom Zé - Toc
 track2_title: Peter Evans - Chorales
 track3_title: Jameszoo - Flake
 track1_color: vibrant
-author: ''
-illustrator: ''
-writer: ''
-category: ''
-guest_name: ''
-guest_color: ''
-guestPic: ''
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track2_color: ''
-track3_color: ''
-track4_title: ''
-track4_color: ''
-track5_title: ''
-track5_color: ''
-track6_title: ''
-track6_color: ''
-track7_title: ''
-track7_color: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+track2_color: trippy
+track3_color: trippy
 ---
 
 <p id="introduction">For this special occasion, I want to focus on something that really inspires me but I rarely talk about: songs without a traditional form. I’d like to talk about non-conventional song structures across different genres: bossa-nova, jazz & electronic music.
