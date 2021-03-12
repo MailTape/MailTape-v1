@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_link: 'https://mailtapesounds.s3.amazonaws.com/442/track1.mp3'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/442/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/442/track3.mp3'
 ---
 
 <p id="introduction">For this special occasion, I want to focus on something that really inspires me but I rarely talk about: songs without a traditional form. I’d like to talk about non-conventional song structures across different genres: bossa-nova, jazz & electronic music.
@@ -41,4 +44,3 @@ Sarah: **"**I love the music and the character very much but when I came across 
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Bonnie Banane](https://bonniebanane.bandcamp.com/releases) for her Sunday selections and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration!</p>
-
