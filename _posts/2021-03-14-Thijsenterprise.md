@@ -5,6 +5,9 @@ published: false
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/442/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/442/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/442/track3.mp3'
+track1_title: Tom Zé - Toc
+track2_title: Peter Evans - Chorales
+track3_title: Jameszoo - Flake
 ---
 
 <p id="introduction">For this special occasion, I want to focus on something that really inspires me but I rarely talk about: songs without a traditional form. I’d like to talk about non-conventional song structures across different genres: bossa-nova, jazz & electronic music.
