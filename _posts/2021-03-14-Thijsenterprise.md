@@ -30,9 +30,11 @@ guest_color: vibrant
 guestPic: guestPic422.jpg
 image: 'https://mailta.pe/img/fbPic422.png'
 musiColor: musiColor422.png
+track7_link: 'https://soundcloud.com/gabor-szabo-official/fire-dance-1'
+track7_title: Gábor Szabó - Fire Dance
 ---
 
-<p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper. <br><br>
+<p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Rahsaan Roland Kirk, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper. <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas. <br><br>
   In short, we are delighted to welcome Thijsenterprise to MailTape for a Sunday morning selection of tracks that explore non-traditional structures, each inspirations to Thijsenterprise in his life and projects. 
 <br><br>
@@ -68,7 +70,7 @@ Rahsaan Kirk
 half the day is the night https://soundcloud.com/gabor-szabo-official/half-the-day-is-the-night
 
 ## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Half The Day Is The Night
-Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, all of it tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó is absolutely effortless, this whole track moves like silk.**"**
+Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
 
 
 <p id="outroduction">That's all for this morning, we hope you enjoyed it as much as we did! As always, thank you so much for joining us. A million thanks to [Thijsenterprise](https://bonniebanane.bandcamp.com/releases) for his fascinating selections and to our fantastic [Camille Célestin](http://thibaultdaumain.fr/) for this episode's illustration!</p>
