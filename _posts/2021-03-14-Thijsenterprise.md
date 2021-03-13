@@ -39,14 +39,14 @@ Thijsenterprise: **"**Although my own music can’t be really considered “elec
 
 # MailTape's selection
 
-## Thijsenterprise – Flash
+## Thijsenterprise – Never Stop Jumping Fences
 Sarah: **"**I discovered Bonnie Banane, with the song "[L'Appétit](https://www.youtube.com/watch?v=xMbMJE0D4Dk)". I was immediately absorbed by his way of singing and his very particular style which makes it impossible to forget him. Then there were also his featuring with Chassol "[Feu au Lac](https://www.youtube.com/watch?v=jwKyMtTn30w)" and Myth Syzer & Ichon "[Le Code](https://www.youtube.com/watch?v=NCV2YZOffJM)". On her debut album "[Sexy Planet](https://bonniebanane.bandcamp.com/album/sexy-planet)", released last November, I discovered a Bonnie Banane on the edge of her skin, angry, joyful but always in her slightly offbeat and provocative style as we like it.**"**
 
 ## [Myth Syzer](http://mythsyzer.fr/) – Je suis venu te dire que je m'en vais 
 Sarah: **"**Surprising is the word that came to me when I heard this Gainsbourg cover. Of course, the original is unbeatable but Myth Syzer manages to give a boost to this wonderful song with brio, which gives it a new youth.**"**
 
-## [Muddy Monk](https://muddy-monk.bandcamp.com/) – L'aventura
-Sarah: **"**It's while listening again to his EP "[Première Ride](https://muddy-monk.bandcamp.com/)" that I discovered this sound. A tasty ballad, full of poetry and lightness. Perfect for the time ahead!**"**
+## [Triorität](https://muddy-monk.bandcamp.com/) – Bonopo
+Sarah: **"**So many layers in this one, feels like a floating dream of synths and jazz piano.**"**
 
 ## [Ichon](https://www.facebook.com/yannichonmusic)– Aujourd'hui
 Sarah: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!!**"**
