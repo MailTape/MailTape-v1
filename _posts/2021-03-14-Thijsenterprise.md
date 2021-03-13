@@ -17,8 +17,10 @@ track4_title: Thijsenterprise - Never Stop Jumping Fences
 track6_link: 'https://soundcloud.com/trioritat/bonopo'
 track5_color: trippy
 track6_color: trippy
-track7_title: Triorität - Bonopo
-track6_title: Danalogue - Gull Communion
+track6_title: Triorität - Bonopo
+track5_link: 'https://soundcloud.com/scrimshire/theme-for-us-feat-joshua'
+track5_title: Scrimshire - Theme For Us
+track7_color: vibrant
 ---
 
 <p id="introduction">For this special occasion, I want to focus on something that really inspires me but I rarely talk about: songs without a traditional form. I’d like to talk about non-conventional song structures across different genres: bossa-nova, jazz & electronic music.
