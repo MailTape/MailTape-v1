@@ -68,7 +68,7 @@ Rahsaan Kirk
 half the day is the night https://soundcloud.com/gabor-szabo-official/half-the-day-is-the-night
 
 ## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Half The Day Is The Night
-Sarah: **"**This one comes off of my favorite Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; it's a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, both tied into soft-swaying samba movements paired with ever-evolving jazz structures. Szabó is absolutely effortless, this whole track moves like silk.**"**
+Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, contributing to the psychedelic music experimentation of the 1960's, all of it tied into soft-swaying samba movements that evolve underlying jazz structures. Szabó is absolutely effortless, this whole track moves like silk.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Bonnie Banane](https://bonniebanane.bandcamp.com/releases) for her Sunday selections and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration!</p>
