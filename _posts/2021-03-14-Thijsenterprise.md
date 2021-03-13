@@ -22,16 +22,17 @@ track5_link: 'https://soundcloud.com/scrimshire/theme-for-us-feat-joshua'
 track5_title: Scrimshire - Theme For Us
 track7_color: vibrant
 guest_name: Thijsenterprise
-category: '422'
+category: '442'
 illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
 guest_color: vibrant
 guestPic: guestPic422.jpg
-image: 'https://mailta.pe/img/fbPic422.png'
+image: 'https://mailta.pe/img/fbPic442.png'
 musiColor: musiColor422.png
 track7_link: 'https://soundcloud.com/gabor-szabo-official/fire-dance-1'
 track7_title: Gábor Szabó - Fire Dance
+description: 'http://mailta.pe/442/'
 ---
 
 <p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Rahsaan Roland Kirk, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper. <br><br>
@@ -71,6 +72,10 @@ half the day is the night https://soundcloud.com/gabor-szabo-official/half-the-d
 
 ## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Half The Day Is The Night
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
+
+![musiColor442.png]({{site.baseurl}}/img/musiColor442.png)
+![fbPic442.png]({{site.baseurl}}/img/fbPic442.png)
+![guestPic442.jpg]({{site.baseurl}}/img/guestPic442.jpg)
 
 
 <p id="outroduction">That's all for this morning, we hope you enjoyed it as much as we did! As always, thank you so much for joining us. A million thanks to [Thijsenterprise](https://bonniebanane.bandcamp.com/releases) for his fascinating selections and to our fantastic [Camille Célestin](http://thibaultdaumain.fr/) for this episode's illustration!</p>
