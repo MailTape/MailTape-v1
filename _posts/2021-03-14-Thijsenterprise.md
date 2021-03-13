@@ -30,7 +30,7 @@ guest_color: vibrant
 guestPic: guestPic422.jpg
 image: 'https://mailta.pe/img/fbPic442.png'
 musiColor: musiColor442.png
-track7_link: 'https://soundcloud.com/gabor-szabo-official/ferris-wheel'
+track7_link: 'https://mailtapesounds.s3.amazonaws.com/442/track7.mp3'
 track7_title: Gábor Szabó - Ferris Wheel
 episode_URL: 'http://mailta.pe/442/Thijsenterprise/'
 ---
