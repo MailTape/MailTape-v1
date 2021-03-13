@@ -73,9 +73,4 @@ half the day is the night https://soundcloud.com/gabor-szabo-official/half-the-d
 ## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Half The Day Is The Night
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
 
-![musiColor442.png]({{site.baseurl}}/img/musiColor442.png)
-![fbPic442.png]({{site.baseurl}}/img/fbPic442.png)
-![guestPic442.jpg]({{site.baseurl}}/img/guestPic442.jpg)
-
-
 <p id="outroduction">That's all for this morning, we hope you enjoyed it as much as we did! As always, thank you so much for joining us. A million thanks to [Thijsenterprise](https://bonniebanane.bandcamp.com/releases) for his fascinating selections and to our fantastic [Camille Célestin](http://thibaultdaumain.fr/) for this episode's illustration!</p>
