@@ -30,6 +30,11 @@ Time and time again these tunes have served as inspiration on many aspects of my
 [Bonnie Banane](https://www.facebook.com/bonniebananemusique), a ufo from the French alternative R&B scene. She unveils her first album “[Sexy Planet](https://bonniebanane.bandcamp.com/album/sexy-planet)”, released on November 13th, to the extent that we could have imagined!
 </p>
 
+![musiColor422.png]({{site.baseurl}}/img/musiColor422.png)
+![guestPic422.jpg]({{site.baseurl}}/img/guestPic422.jpg)
+![fbPic422.png]({{site.baseurl}}/img/fbPic422.png)
+
+
 # Thijsenterprise's selection
 
 ## [Tom Zé](https://www.facebook.com/TheMonoNeon/) – Toc
