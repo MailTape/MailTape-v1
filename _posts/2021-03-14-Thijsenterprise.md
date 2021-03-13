@@ -32,11 +32,10 @@ image: 'https://mailta.pe/img/fbPic422.png'
 musiColor: musiColor422.png
 ---
 
-<p id="introduction">This morning, we welcome Thijsenterprise to MailTape for a selection of carefully chosen tracks that cross into non-traditional forms. Thijsenterprise is a solo project based in Barcelona, headed by Dutch saxaphonist, beatmaker, and composer Reinier Thijs. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Thijsenterprise does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
-  As a beatmaker, saxophonist, and composer myself, it’s an interesting topic. These are musical ideas and possibilities I already like to use but would like to dive into even deeper for future projects.
-Time and time again these tunes have served as inspiration on many aspects of my life, and they continue to inspire me. I hope the music will do the same to people reading this.
+<p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper.<br><br>
+  It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.<br><br>
+  In short, we are delighted to welcome Thijsenterprise to MailTape for a Sunday morning selection of tracks that explore non-traditional structures, each inspirations to Thijsenterprise in his life and projects. 
 <br><br>
-[Bonnie Banane](https://www.facebook.com/bonniebananemusique), a ufo from the French alternative R&B scene. She unveils her first album “[Sexy Planet](https://bonniebanane.bandcamp.com/album/sexy-planet)”, released on November 13th, to the extent that we could have imagined!
 </p>
 
 
@@ -65,7 +64,9 @@ Sarah: **"**Surprising is the word that came to me when I heard this Gainsbourg 
 ## [Triorität](https://muddy-monk.bandcamp.com/) – Bonopo
 Sarah: **"**So many layers in this one, feels like a floating dream of synths and jazz piano.**"**
 
-## [Ichon](https://www.facebook.com/yannichonmusic)– Aujourd'hui
+Rahsaan Kirk 
+
+## [Xero Slingsby](https://www.facebook.com/yannichonmusic)– Aujourd'hui
 Sarah: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!!**"**
 
 
