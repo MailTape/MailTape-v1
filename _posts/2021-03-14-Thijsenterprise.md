@@ -65,9 +65,10 @@ Sarah: **"**Surprising is the word that came to me when I heard this Gainsbourg 
 Sarah: **"**So many layers in this one, feels like a floating dream of synths and jazz piano.**"**
 
 Rahsaan Kirk 
+half the day is the night https://soundcloud.com/gabor-szabo-official/half-the-day-is-the-night
 
-## [Xero Slingsby](https://www.facebook.com/yannichonmusic)– Aujourd'hui
-Sarah: **"**I love the music and the character very much but when I came across her latest album “Pour de vrai”, released last September, I was just transcended and wordless in the face of so much beauty. A musical nugget full of sincerity, truth and masculine sensitivity that we love so much!!**"**
+## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Half The Day Is The Night
+Sarah: **"**This one comes off of my favorite Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; it's a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, both tied into soft-swaying samba movements paired with ever-evolving jazz structures. Szabó is absolutely effortless, this whole track moves like silk.**"**
 
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Bonnie Banane](https://bonniebanane.bandcamp.com/releases) for her Sunday selections and to [Thibault Daumain](http://thibaultdaumain.fr/) for this episode's brilliant illustration!</p>
