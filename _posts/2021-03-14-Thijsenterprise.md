@@ -29,10 +29,10 @@ writer: Sarah
 guest_color: vibrant
 guestPic: guestPic422.jpg
 image: 'https://mailta.pe/img/fbPic442.png'
-musiColor: musiColor422.png
+musiColor: musiColor442.png
 track7_link: 'https://soundcloud.com/gabor-szabo-official/fire-dance-1'
 track7_title: Gábor Szabó - Fire Dance
-description: 'http://mailta.pe/442/'
+episode_URL: 'http://mailta.pe/442/Thijsenterprise/'
 ---
 
 <p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Rahsaan Roland Kirk, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper. <br><br>
