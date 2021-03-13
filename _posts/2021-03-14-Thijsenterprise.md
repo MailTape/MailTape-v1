@@ -32,8 +32,8 @@ image: 'https://mailta.pe/img/fbPic422.png'
 musiColor: musiColor422.png
 ---
 
-<p id="introduction">For this special occasion, I want to focus on something that really inspires me but I rarely talk about: songs without a traditional form. I’d like to talk about non-conventional song structures across different genres: bossa-nova, jazz & electronic music.
-As a beatmaker, saxophonist, and composer myself, it’s an interesting topic. These are musical ideas and possibilities I already like to use but would like to dive into even deeper for future projects.
+<p id="introduction">This morning, we welcome Thijsenterprise to MailTape for a selection of carefully chosen tracks that cross into non-traditional forms. Thijsenterprise is a solo project based in Barcelona, headed by Dutch saxaphonist, beatmaker, and composer Reinier Thijs. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Thijsenterprise does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
+  As a beatmaker, saxophonist, and composer myself, it’s an interesting topic. These are musical ideas and possibilities I already like to use but would like to dive into even deeper for future projects.
 Time and time again these tunes have served as inspiration on many aspects of my life, and they continue to inspire me. I hope the music will do the same to people reading this.
 <br><br>
 [Bonnie Banane](https://www.facebook.com/bonniebananemusique), a ufo from the French alternative R&B scene. She unveils her first album “[Sexy Planet](https://bonniebanane.bandcamp.com/album/sexy-planet)”, released on November 13th, to the extent that we could have imagined!
