@@ -70,7 +70,7 @@ Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lah
 Sarah: **"**Love this rendition of Ain't No Sunshine, it's a bit darker and more ominious in the most enticing way. Rahsaan Kirk's flute playing turns the track into a different world.**"**
 
 ## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
-Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) The organ currents that lead, layer, and also clash are so wonderfully grounded against the organic percussions. The whhiirling wonderland of synths forgets any notion of time. I love the jazz percussion breaks by the midpoint,**"**
+Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) The organ currents that lead, layer, and then clash just as easily are grounded against the balance of organic percussions. The whirling wonderland of synths and chimes makes me forget any notion of time. The jazz percussion breaks by the midpoint are just as surprising as the piano takeover.**"**
 
 ## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Ferris Wheel
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, [Dreams](https://lightintheattic.net/releases/6556-dreams) (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
