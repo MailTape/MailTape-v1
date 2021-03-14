@@ -32,7 +32,7 @@ guestPic: guestPic442.jpg
 image: 'https://mailta.pe/img/fbPic442.png'
 musiColor: musiColor442.png
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/442/track7.mp3'
-track7_title: Gábor Szabó - Ferris Wheel
+track7_title: Gábor Szabó - Fire Dance
 episode_URL: 'http://mailta.pe/442/Thijsenterprise/'
 description: >-
   We are delighted to welcome Thijsenterprise to MailTape for a Sunday morning
@@ -72,7 +72,7 @@ Sarah: **"**Love this refreshing rendition of Bill Withers' [Ain't No Sunshine](
 ## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
 Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) Organ currents lead and layer over each other, before clashing just as easily in a delightful heap of sound. This whole interaction is textured and grounded against the balance of organic percussion. The whirling wonderland of synths and chimes makes me forget any notion of time, as I imagine it may for you, too. The jazz percussion breaks by the midpoint are just as surprising as the piano takeover that brings us to the track's end.**"**
 
-## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Ferris Wheel
+## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Fire Dance
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, [Dreams](https://lightintheattic.net/releases/6556-dreams) (1968). Such a phenomenal jazz-crossover; the album is a kaleidoscope of sound: Southeast Asian folk riffs melt together with Szabó's traditional Hungarian influences, all tied into soft-swaying samba movements that rock against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
 
 <p id="outroduction">That's all for this morning, we hope you enjoyed it as much as we did! As always, thank you for spending your Sunday with us. A million thanks to [Thijsenterprise](https://thijsenterprise.bandcamp.com/album/lahringen) for his fascinating selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
