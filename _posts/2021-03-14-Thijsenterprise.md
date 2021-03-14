@@ -63,10 +63,11 @@ Thijsenterprise: **"**Although my own music can’t be really considered “elec
 # MailTape's selection
 
 ## [Thijsenterprise](https://thijsenterprise.bandcamp.com/) – Never Stop Jumping Fences
-Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). Reinier recorded loops before improvising over them.**"**
+Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it tremendously difficult to choose just one of these tracks,  There’s so much energy in this percussion and bass line, it gives so much room for these fantastic saxophone movements. The improvisations are entirely unpredictable, Thijsenterprise glides from riif to riff so seamlessly. 
+**"**
 
 ## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
-Sarah: **"**Love this**"**
+Sarah: **"**Love this rendition of Ain't No Sunshine, it's a bit darker and more ominious in the most enticing way. Rahsaan Kirk's flute playing turns the track into a different world.**"**
 
 ## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
 Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) The organ currents that lead, layer, and also clash are so wonderfully grounded against the organic percussions. The whhiirling wonderland of synths forgets any notion of time. I love the jazz percussion breaks by the midpoint,**"**
