@@ -69,7 +69,7 @@ Sarah: **"**Reinier recorded loops before improvising over them.**"**
 Sarah: **"**Love this**"**
 
 ## [Triorität](https://muddy-monk.bandcamp.com/) – Bonopo
-Sarah: **"**So many layers in this one, feels like a floating dream of synths and jazz piano.**"**
+Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) The organ currents that lead, layer, and also clash are so wonderfully grounded against the organic percussions. The whhiirling wonderland of synths forgets any notion of time. I love the jazz percussion breaks by the midpoint,**"**
 
 ## [Gábor Szabó](https://www.facebook.com/yannichonmusic)– Ferris Wheel
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, Dreams (1968). Such a phenomenal jazz-crossover; the album is a kaleidescope of sound: Szabó's traditional Hungarian influences melt together with Southeast Asian folk riffs, tied into soft-swaying samba movements against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
