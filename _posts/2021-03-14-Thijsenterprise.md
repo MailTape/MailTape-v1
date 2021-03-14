@@ -40,10 +40,10 @@ description: >-
   to Thijsenterprise in his life and projects.
 ---
 
-<p id="introduction">[Thijsenterprise](https://thijsenterprise.bandcamp.com/) is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about music released by [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
+<p id="introduction">
+  This morning, we are delighted to welcome Thijsenterprise to MailTape for a Sunday selection that explores non-traditional structures in music, each inspiring to Thijsenterprise in his life and projects.<br><br> 
+  [Thijsenterprise](https://thijsenterprise.bandcamp.com/) is Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about the discographies of [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas. <br><br>
-  This morning, we are delighted to welcome Thijsenterprise to MailTape for a Sunday selection that explores non-traditional structures, each inspiring to Thijsenterprise in his life and projects. 
-<br><br>
 </p>
 
 
