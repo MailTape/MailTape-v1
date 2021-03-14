@@ -63,7 +63,7 @@ Thijsenterprise: **"**Although my own music can’t be really considered “elec
 
 # MailTape's selection
 
-## [Thijsenterprise](https://thijsenterprise.bandcamp.com/) – Never Stop Jumping Fences
+## [Thijsenterprise](https://thijsenterprise.bandcamp.com/) – El Arriero
 Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it tremendously difficult to choose just one of these tracks, as each release from this album is a sort of fingerprint for Reinier's improvisation, and each one holds something unique within it. The energy and stability in this percussion and bassline opens up the space for these saxophone movements, which affords Reinier the opportunity to take risks in where he leads the track. The improvisations are entirely unpredictable, Reinier glides from riif to riff so seamlessly.**"**
 
 ## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
