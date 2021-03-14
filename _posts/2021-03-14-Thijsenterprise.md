@@ -41,7 +41,7 @@ description: >-
 
 <p id="introduction">Thijsenterprise is the solo project of Dutch saxaphonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of Benjamin Herman John Coltrane, Rahsaan Roland Kirk, Xero Slingsby, and Pharoah Sanders, Reinier also is passionate about music from the likes of The Lounge Lizards, Knxledge, Nate Smith, and Robert Glasper. <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas. <br><br>
-  In short, we are delighted to welcome Thijsenterprise to MailTape for a Sunday morning selection of tracks that explore non-traditional structures, each inspirations to Thijsenterprise in his life and projects. 
+  This morning, we are delighted to welcome Thijsenterprise to MailTape for a Sunday selection of tracks that explore non-traditional structures, each inspirations to Thijsenterprise in his life and projects. 
 <br><br>
 </p>
 
