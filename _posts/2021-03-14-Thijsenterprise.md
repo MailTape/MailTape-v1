@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_link: 'https://mailtapesounds.s3.amazonaws.com/442/track1.mp3'
 track2_link: 'https://mailtapesounds.s3.amazonaws.com/442/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/442/track3.mp3'
@@ -27,7 +27,7 @@ illustrator: Camille Célestin
 author: Sarah
 writer: Sarah
 guest_color: vibrant
-guestPic: guestPic422.jpg
+guestPic: guestPic442.jpg
 image: 'https://mailta.pe/img/fbPic442.png'
 musiColor: musiColor442.png
 track7_link: 'https://mailtapesounds.s3.amazonaws.com/442/track7.mp3'
