@@ -11,9 +11,10 @@ track3_title: Jameszoo - Flake
 track1_color: vibrant
 track2_color: trippy
 track3_color: trippy
-track4_link: 'https://soundcloud.com/rucksack_records/b2-never-stop-jumping-fences'
+track4_link: >-
+  https://soundcloud.com/rucksack_records/thijsenterprise-el-arriero-gato-barbieri
 track4_color: vibrant
-track4_title: Thijsenterprise - Never Stop Jumping Fences
+track4_title: Thijsenterprise - El Arriero
 track6_link: 'https://soundcloud.com/trioritat/bonopo'
 track5_color: trippy
 track6_color: trippy
@@ -63,8 +64,7 @@ Thijsenterprise: **"**Although my own music can’t be really considered “elec
 # MailTape's selection
 
 ## [Thijsenterprise](https://thijsenterprise.bandcamp.com/) – Never Stop Jumping Fences
-Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it tremendously difficult to choose just one of these tracks,  There’s so much energy in this percussion and bass line, it gives so much room for these fantastic saxophone movements. The improvisations are entirely unpredictable, Thijsenterprise glides from riif to riff so seamlessly. 
-**"**
+Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it tremendously difficult to choose just one of these tracks, as each release from this album is a sort of fingerprint for Reinier's improvisation, and each one holds something unique within it. The energy and stability in this percussion and bassline opens up the space for these saxophone movements, which affords Reinier the opportunity to take risks in where he leads the track. The improvisations are entirely unpredictable, Reinier glides from riif to riff so seamlessly.**"**
 
 ## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
 Sarah: **"**Love this rendition of Ain't No Sunshine, it's a bit darker and more ominious in the most enticing way. Rahsaan Kirk's flute playing turns the track into a different world.**"**
