@@ -18,7 +18,7 @@ track6_link: 'https://soundcloud.com/trioritat/bonopo'
 track5_color: trippy
 track6_color: trippy
 track6_title: Triorität - Bonopo
-track5_link: 'https://soundcloud.com/rahsaanrolandkirk/rahsaan-roland-kirk-aint-no'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/442/track5.mp3'
 track5_title: Rahsaan Roland Kirk - Ain't No Sunshine
 track7_color: vibrant
 guest_name: Thijsenterprise
