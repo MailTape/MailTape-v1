@@ -63,7 +63,7 @@ Thijsenterprise: **"**Although my own music can’t be really considered “elec
 # MailTape's selection
 
 ## Thijsenterprise – Never Stop Jumping Fences
-Sarah: **"**I discovered Bonnie Banane, with the song "[L'Appétit](https://www.youtube.com/watch?v=xMbMJE0D4Dk)". I was immediately absorbed by his way of singing and his very particular style which makes it impossible to forget him. Then there were also his featuring with Chassol "[Feu au Lac](https://www.youtube.com/watch?v=jwKyMtTn30w)" and Myth Syzer & Ichon "[Le Code](https://www.youtube.com/watch?v=NCV2YZOffJM)". On her debut album "[Sexy Planet](https://bonniebanane.bandcamp.com/album/sexy-planet)", released last November, I discovered a Bonnie Banane on the edge of her skin, angry, joyful but always in her slightly offbeat and provocative style as we like it.**"**
+Sarah: **"**Reinier recorded loops before improvising over them.**"**
 
 ## [Rahsaan Roland Kirk](http://mythsyzer.fr/) – Ain't No Sunshine
 Sarah: **"**Love this**"**
