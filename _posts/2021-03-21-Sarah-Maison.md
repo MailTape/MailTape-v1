@@ -21,7 +21,7 @@ track2_title: Nana Mouskouri - La Place Vide
 
 # Sarah Maison's selection
 
-##  – 
+## Majida El Roumi - Matharak Bi Albi
 Sarah Maison: **"**Lebanese singer Majida El Roumi, sings "nothing fills your place in my heart", I love everything in this song, the arrangements, violins, percussions, MIDI synths, her magic voice. When I was a kid my mum listened a lot to Oum Kalthoum and Farid El Atrache, I think this is when I fell in love with the emotive violins, flutes, arabic rhythmics and the singing devotion to the loved one. In the car we had Cheb Mami's K7 "Meli Meli" my passion for 90's synth sounds comes from here.**"**
 
 ##  – 
@@ -48,9 +48,9 @@ Anaïs G : **"** **"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Our love to Sarah Maison for their wonderful Sunday selections and to  for this episode's inspiring illustration.</p>
 
-1) Majida El Roumi - Matharak Bi Albi
+1) 
 
-2) Nana Mouskouri - La Place Vide : https://www.youtube.com/watch?v=QuiTxajD8AU
+
 
 
 
