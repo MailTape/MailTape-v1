@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Jason Pridham
+category: '443'
+guest_name: Sarah Maison
+guest_color: vibrant
+guestPic: guestPic443.jpg
+track1_link: 'https://soundcloud.com/majidaelroumi/majida-matrahak-bi-albi'
 ---
 <p id="introduction">This morning 
 <br><br>
