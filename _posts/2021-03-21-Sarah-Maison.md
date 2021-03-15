@@ -9,6 +9,7 @@ guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: guestPic443.jpg
 track1_link: 'https://soundcloud.com/majidaelroumi/majida-matrahak-bi-albi'
+track1_color: vibrant
 ---
 <p id="introduction">This morning 
 <br><br>
