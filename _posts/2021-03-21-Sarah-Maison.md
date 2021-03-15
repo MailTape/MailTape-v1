@@ -3,6 +3,38 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
+<p id="introduction">This morning 
+<br><br>
+
+</p>
+
+# Sarah Maison's selection
+
+##  – 
+Sarah Maison: **"** **"**
+
+##  – 
+Sarah Maison: **"** **"**
+
+## – 
+Sarah Maison: **"** **"**
+
+
+# MailTape's selection
+
+## Sarah Maison  – 
+Anaïs G: **"** **"**
+
+##  – 
+Anaïs G: **"** **"**
+
+##  – 
+Anaïs G: **"** **"**
+
+##  – 
+Anaïs G : **"** **"**
+
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Our love to Sarah Maison for their wonderful Sunday selections and to  for this episode's inspiring illustration.</p>
 
 1) Majida El Roumi - Matharak Bi Albi : https://www.youtube.com/watch?v=83VQBONAZuY
 Lebanese singer Majida El Roumi, sings "nothing fills your place in my heart", I love everything in this song, the arrangements, violins, percussions, MIDI synths, her magic voice. When I was a kid my mum listened a lot to Oum Kalthoum and Farid El Atrache, I think this is when I fell in love with the emotive violins, flutes, arabic rhythmics and the singing devotion to the loved one. In the car we had Cheb Mami's K7 "Meli Meli" my passion for 90's synth sounds comes from here.
