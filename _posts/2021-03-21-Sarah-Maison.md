@@ -10,6 +10,9 @@ guest_color: vibrant
 guestPic: guestPic443.jpg
 track1_link: 'https://soundcloud.com/majidaelroumi/majida-matrahak-bi-albi'
 track1_color: vibrant
+track3_color: bliss
+track2_color: vibrant
+track2_title: Nana Mouskouri - La Place Vide
 ---
 <p id="introduction">This morning 
 <br><br>
@@ -50,5 +53,4 @@ Anaïs G : **"** **"**
 2) Nana Mouskouri - La Place Vide : https://www.youtube.com/watch?v=QuiTxajD8AU
 
 
-3) Bob Azzam - Mon Amour : https://www.youtube.com/watch?v=4UKGhP7olnc
 
