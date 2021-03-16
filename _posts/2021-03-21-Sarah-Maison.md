@@ -15,7 +15,19 @@ track2_color: vibrant
 track2_title: Nana Mouskouri - La Place Vide
 track1_title: Majida El Roumi - Matharak Bi Albi
 track3_title: Bob Azzam - Mon Amour
-track4_title: 'Sarah Maison - '
+track4_title: Sarah Maison - L'Été
+track4_color: bliss
+track5_title: Léonie Pernet feat Hanaa Ouassim - Auaati
+track5_color: vibrant
+track6_title: 'Altin Gün - Ordunun Dereleri   '
+track6_color: bliss
+track7_title: 'Cyril Cyril - Al Boustane '
+track7_color: trippy
+episode_URL: 'http://mailta.pe/443/sarah-maison/'
+image: 'https://mailta.pe/img/fbPic443.png'
+musiColor: musiColor443.png
+track7_link: 'https://soundcloud.com/cyril-cyril-music/al-boustane'
+track4_link: 'https://soundcloud.com/sarah-maison/lete-1'
 ---
 <p id="introduction">This morning 
 <br><br>
@@ -40,13 +52,13 @@ Sarah Maison: **"**This song is perfect for waking up and have hope in the futur
 ## Sarah Maison  – L'été
 Anaïs G: **"** **"**
 
-## Altin Gün – Ordunun Dereleri
-Anaïs G: **"** **"**
-
 ## Léonie Pernet – Auaati
-Anaïs G: **"** **"**
+Anaïs G: **"** coup de coeur à l'ancienne  **"**
 
-##  – 
-Anaïs G : **"** **"**
+## Altin Gün – Ordunun Dereleri
+Anaïs G: **"** Nouvel album Yol **"**
+
+## Cyril Cyril – Al Boustane
+Anaïs G : **"** nouveau titre **"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Our love to Sarah Maison for their wonderful Sunday selections and to  for this episode's inspiring illustration.</p>
