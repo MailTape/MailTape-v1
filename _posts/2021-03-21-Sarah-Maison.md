@@ -37,23 +37,16 @@ Sarah Maison: **"**This song is perfect for waking up and have hope in the futur
 
 # MailTape's selection
 
-## Sarah Maison  – 
+## Sarah Maison  – L'été
 Anaïs G: **"** **"**
 
-##  – 
+## Altin Gün – Ordunun Dereleri
 Anaïs G: **"** **"**
 
-##  – 
+## Léonie Pernet – Auaati
 Anaïs G: **"** **"**
 
 ##  – 
 Anaïs G : **"** **"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Our love to Sarah Maison for their wonderful Sunday selections and to  for this episode's inspiring illustration.</p>
-
-
-
-
-
-
-
