@@ -28,6 +28,10 @@ image: 'https://mailta.pe/img/fbPic443.png'
 musiColor: musiColor443.png
 track7_link: 'https://soundcloud.com/cyril-cyril-music/al-boustane'
 track4_link: 'https://soundcloud.com/sarah-maison/lete-1'
+track2_link: 'https://mailtapesounds.s3.amazonaws.com/443/track2.mp3'
+track3_link: 'https://mailtapesounds.s3.amazonaws.com/443/track3.mp3'
+track5_link: 'https://mailtapesounds.s3.amazonaws.com/443/track5.mp3'
+track6_link: 'https://mailtapesounds.s3.amazonaws.com/443/track6.mp3'
 ---
 <p id="introduction">This morning 
 <br><br>
