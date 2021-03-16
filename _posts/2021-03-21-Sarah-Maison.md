@@ -56,7 +56,7 @@ Sarah Maison: **"**This song is perfect for waking up and have hope in the futur
 ## Sarah Maison  – L'été
 Anaïs G: **"** **"**
 
-## Léonie Pernet – Auaati
+## Léonie Pernet feat Hanaa Ouassim – Auaati
 Anaïs G: **"** coup de coeur à l'ancienne  **"**
 
 ## Altin Gün – Ordunun Dereleri
