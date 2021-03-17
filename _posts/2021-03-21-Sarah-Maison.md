@@ -54,15 +54,15 @@ Sarah Maison: **"**This song is perfect for waking up and have hope in the futur
 # MailTape's selection
 
 ## Sarah Maison  – L'été
-Anaïs G: **"**La première fois que j'ai entendu Sarah Maison, c'était avec son morceau "Western Arabisant" sur la compilation OUF du label La Souterraine. Hypnotisant à souhait! En mars 2018, à la sortie de son EP éponyme, elle m'a fait danser sur son titre "Muzul" avec sa particularité de rayonner et de ramener le soleil. Justement son dernier EP "Soleils", sorti le 19 mars dernier, est une bouffée d'air frais et le rayon de soleil que l'on attendait dans nos vies depuis un an.**"**
+Anaïs G: **"**The first time I heard Sarah Maison was with her track "Western Arabisant" on the OUF compilation of the label La Souterraine. Hypnotic as can be! In March 2018, when her self-titled EP was released, she had me dancing to her track "Muzul" with her particular brand of radiance and bringing the sunshine. His latest EP "Soleils", released on March 19th, is a breath of fresh air and the ray of sunshine we've been waiting for in our lives for a year.**"**
 
 ## Léonie Pernet feat Hanaa Ouassim – Auaati
-Anaïs G: **"**Boulversant, poétique et engagée, cette musique est d'une beauté incroyable. J'ai découvert ce morceau à la sortie de l'album de Léonie Pernet "Crave". Un mélange des sonorités qui peut surprendre et mais aussi des ambiances différentes qui se confrontent. Un équilibre parfait pour cette magnifique chanson.**"**
+Anaïs G: **"**Dismissing, poetic and engaging, this music is incredibly beautiful. I discovered this song at the release of Léonie Pernet’s “Crave” album. A mix of sounds that can surprise and different atmospheres that confront each other. A perfect balance for this beautiful song.**"**
 
 ## Altin Gün – Ordunun Dereleri
-Anaïs G: **"** J'ai découvert le groupe Altin Gün lors de leur passage aux Transmusicales de Rennes en 2017. Il mélange des sonorités pop et folk au psyché turc ce qui donne ce groove à leur musique. Leur dernier EP "Yol", sorti en février dernier, promet des surprises et pépites musicales comme "Ordunun Dereleri" jouant avec les synthés avec une ambiance mystique. **"**
+Anaïs G: **"**I discovered the group Altin Gün during their stay at the Transmusicales de Rennes in 2017. It mixes pop and folk sounds to the Turkish psyche which gives that groove to their music. Their latest EP “Yol”, released last February, promises surprises and musical nuggets like “Ordunun Dereleri” playing with synths in a mystical atmosphere.**"**
 
 ## Cyril Cyril – Al Boustane
-Anaïs G : **"** nouveau titre **"**
+Anaïs G : **"**Cyril Cyril is a duo from Geneva, that I knew with their track "Sayyara" from their first album "Certaine Ruines", released on Born Bad Records. Cyril Cyril, it's different emotions with each song. Their music gives off a kind of trance almost immediate when you listen to it, you go from smiles to tears, from hope to worry... All this led by psychedelic sounds and a lot of percussions that make the borders explode. Their latest album "Yallah Mickey Mouse" brings all this together and more with mystical and indescribable aspects. You have to listen to it to believe it!**"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Our love to Sarah Maison for their wonderful Sunday selections and to  for this episode's inspiring illustration.</p>
