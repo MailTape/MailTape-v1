@@ -33,9 +33,9 @@ track3_link: 'https://mailtapesounds.s3.amazonaws.com/443/track3.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/443/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/443/track6.mp3'
 ---
-<p id="introduction">This morning 
+<p id="introduction">This morning, we leave in the sun with a one-way trip to the Eastern countries. The beauty of language, culture and scenery. . . In this episode, Sarah Maison will bring back some sunshine to our homes and apartments while waiting for better days. 
 <br><br>
-
+With her incredible aura and pop with Arabic sounds, Sarah Maison looks like a muse or summer goddess. In her latest EP, released on March 19, she offers us a moment of fullness and warmth. A capsule of happiness in this world after plunged into a long infinite sleep.
 </p>
 
 # Sarah Maison's selection
