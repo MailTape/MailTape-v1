@@ -43,7 +43,7 @@ With her incredible aura and pop with Arabic sounds, Sarah Maison looks like a m
 ## Majida El Roumi - Matharak Bi Albi
 Sarah Maison: **"**Lebanese singer Majida El Roumi, sings "nothing fills your place in my heart", I love everything in this song, the arrangements, violins, percussions, MIDI synths, her magic voice. When I was a kid my mum listened a lot to Oum Kalthoum and Farid El Atrache, I think this is when I fell in love with the emotive violins, flutes, arabic rhythmics and the singing devotion to the loved one. In the car we had Cheb Mami's K7 "Meli Meli" my passion for 90's synth sounds comes from here.**"**
 
-##  – 
+## Nana Mouskouri – La Place Vide
 Sarah Maison: **"**Adaptation in french of "The Empty Place" composed by Burt Bacharach, I often sing it in the morning, it's very pleasant to sing. I am a big fan of 60's french pop. I like the intensity of Nana's interpretation, she sings her life, she gives so much emotions.**"**
 
 ## Bob Azzam - Mon Amour
