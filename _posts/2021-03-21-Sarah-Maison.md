@@ -32,6 +32,10 @@ track2_link: 'https://mailtapesounds.s3.amazonaws.com/443/track2.mp3'
 track3_link: 'https://mailtapesounds.s3.amazonaws.com/443/track3.mp3'
 track5_link: 'https://mailtapesounds.s3.amazonaws.com/443/track5.mp3'
 track6_link: 'https://mailtapesounds.s3.amazonaws.com/443/track6.mp3'
+description: >-
+  This morning, we leave in the sun with a one-way trip to the Eastern
+  countries. The beauty of language, culture and scenery... In this episode,
+  Sarah Maison will bring back some sunshine to our homes and apartments while.
 ---
 <p id="introduction">This morning, we leave in the sun with a one-way trip to the Eastern countries. The beauty of language, culture and scenery. . . In this episode, [Sarah Maison](https://sarahmaison.bandcamp.com/) will bring back some sunshine to our homes and apartments while waiting for better days. 
 <br><br>
