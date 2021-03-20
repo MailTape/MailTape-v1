@@ -42,7 +42,7 @@ description: >-
 With her incredible aura and pop with Arabic sounds, Sarah Maison looks like a muse or summer goddess. In her latest EP "Soleils", released on March 19, she offers us a moment of fullness and warmth. A capsule of happiness in this world after plunged into a long infinite sleep.
 </p>
 
-# Sarah Maison's selection![fbPic443.png]({{site.baseurl}}/img/fbPic443.png)
+# Sarah Maison's selection
 
 
 ## [Majida El Roumi](https://fr.wikipedia.org/wiki/Majida_El_Roumi) - Matharak Bi Albi
