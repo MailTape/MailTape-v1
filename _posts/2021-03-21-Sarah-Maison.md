@@ -42,7 +42,8 @@ description: >-
 With her incredible aura and pop with Arabic sounds, Sarah Maison looks like a muse or summer goddess. In her latest EP "Soleils", released on March 19, she offers us a moment of fullness and warmth. A capsule of happiness in this world after plunged into a long infinite sleep.
 </p>
 
-# Sarah Maison's selection
+# Sarah Maison's selection![fbPic443.png]({{site.baseurl}}/img/fbPic443.png)
+
 
 ## [Majida El Roumi](https://fr.wikipedia.org/wiki/Majida_El_Roumi) - Matharak Bi Albi
 Sarah Maison: **"**Lebanese singer Majida El Roumi, sings "nothing fills your place in my heart". I love everything in this song, the arrangements, violins, percussions, MIDI synths, her magic voice. When I was a kid my mum listened a lot to Oum Kalthoum and Farid El Atrache. I think this is when I fell in love with the emotive violins, flutes, arabic rhythmics and the singing devotion to the loved one. In the car we had [Cheb Mami](https://fr.wikipedia.org/wiki/Cheb_Mami)'s K7 "[Meli Meli](https://www.youtube.com/watch?v=B14g-a29GNU&t=10s)" my passion for 90's synth sounds comes from here.**"**
