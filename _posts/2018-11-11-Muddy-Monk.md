@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/de-barjorak/holy-dirty-intimacy-shorter'
 track2_link: 'https://soundcloud.com/okoebombo/naked-life'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/331/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/331/track3.mp3'
 track4_link: 'https://soundcloud.com/muddymonk/drift'
 track7_link: 'https://soundcloud.com/brownswood/abusey-junction'
 category: '331'
@@ -15,7 +15,7 @@ writer: Manon
 guest_color: dreamy
 episode_URL: 'http://mailta.pe/331/Muddy-Monk/'
 track5_link: 'https://soundcloud.com/miel2montagne/pourquoipas'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/331/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/331/track6.mp3'
 track2_title: Oko Ebombo - Naked Life
 track2_color: vibrant
 track1_color: rough

@@ -14,13 +14,13 @@ track6_color: vibrant
 track7_color: dreamy
 category: "169"
 guest_name: Elliot Moss
-track1_link: "https://mailtapesounds.s3.amazonaws.com/169/track1.mp3"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/169/track2.mp3"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/169/track3.mp3"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/169/track4.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/169/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/169/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/169/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/169/track4.mp3"
 track5_link: "https://soundcloud.com/adultjazz/am-gone"
 track6_link: "https://soundcloud.com/nickandnoahsing/open-for-consideration-single"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/169/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/169/track7.mp3"
 track1_title: " Apparat - Out Of Sight "
 track2_title: "Mitski - I Will"
 track3_title: "Francesca Belmonte - Stole"

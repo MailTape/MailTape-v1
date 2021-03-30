@@ -6,7 +6,7 @@ track2_link: 'https://soundcloud.com/tasty-morsels/teen-sex'
 track3_link: 'https://soundcloud.com/ojard/les-machines-parlantes'
 track1_title: Ricky Hollywood - Prie Pour Moi
 track2_title: Infinite Bisous - Teen Sex
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/252/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/252/track4.mp3'
 track4_title: Juliette Armanet - L'Amour En Solitaire
 track3_title: Ojard - Les Machines Parlantes
 category: '252'
@@ -21,7 +21,7 @@ track2_color: dreamy
 track3_color: dreamy
 track4_color: bliss
 episode_URL: 'http://mailta.pe/252/Juliette-Armanet/'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/252/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/252/track1.mp3'
 track7_link: 'https://soundcloud.com/eskimorecordings/antenna-love66'
 track7_title: Antenna - Love 66
 track6_link: 'https://soundcloud.com/ssurfing/hit-the-spot-original-mix'

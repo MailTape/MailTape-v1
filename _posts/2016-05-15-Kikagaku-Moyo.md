@@ -30,7 +30,7 @@ track6_link: "https://soundcloud.com/heavenlyrecordings/move-with-the-season-1?i
 track6_title: "Temples - Move With The Seasons"
 track5_title: "Fil Bo Riva - Like Eye Did"
 track6_color: vibrant
-track7_link: "https://mailtapesounds.s3.amazonaws.com/217/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/217/track7.mp3"
 track7_title: "Reptile Youth - Keep On Moving"
 description: "This morning, enjoy a walk through the mind with a psyche selection by our guest of the week, Kikagaku Moyo. It's time to stop and think."
 guest_color: dreamy

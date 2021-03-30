@@ -9,11 +9,11 @@ category: '227'
 guest_name: Psychic Ills
 guest_color: dreamy
 guestPic: guestPic227.jpg
-track1_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/227/track1.mp3'
-track2_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/227/track2.mp3'
-track3_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/227/track3.mp3'
-track7_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/227/track7.mp3'
-track4_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/227/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track3.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track7.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track4.mp3'
 track5_link: 'https://soundcloud.com/burgerrecords/gap-dream-greater-find'
 track6_link: 'https://soundcloud.com/klangstof/we-are-your-receiver-1'
 track1_title: Kris Kristofferson - Sunday Morning Coming Down

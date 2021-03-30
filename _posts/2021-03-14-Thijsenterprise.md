@@ -2,9 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/442/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/442/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/442/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track3.mp3'
 track1_title: Tom Zé - Toc
 track2_title: Peter Evans - Chorales
 track3_title: Jameszoo - Flake
@@ -19,7 +19,7 @@ track6_link: 'https://soundcloud.com/trioritat/bonopo'
 track5_color: trippy
 track6_color: trippy
 track6_title: Triorität - Bonopo
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/442/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track5.mp3'
 track5_title: Rahsaan Roland Kirk - Ain't No Sunshine
 track7_color: vibrant
 guest_name: Thijsenterprise
@@ -31,7 +31,7 @@ guest_color: vibrant
 guestPic: guestPic442.jpg
 image: 'https://mailta.pe/img/fbPic442.png'
 musiColor: musiColor442.png
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/442/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track7.mp3'
 track7_title: Gábor Szabó - Fire Dance
 episode_URL: 'http://mailta.pe/442/Thijsenterprise/'
 description: >-

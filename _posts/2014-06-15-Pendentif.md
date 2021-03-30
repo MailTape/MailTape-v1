@@ -15,13 +15,13 @@ track7_color: bliss
 category: "145"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
-track1_link: "https://mailtapesounds.s3.amazonaws.com/145/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track1.mp3"
 track2_link: "https://soundcloud.com/brainfeeder/matthewdavid-in-my-world"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/145/track3.mp3"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/145/track4.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track4.mp3"
 track5_link: "https://soundcloud.com/turksandcaicos/cars-outside"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/145/track6.mp3"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/145/track7.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track7.mp3"
 track1_title: "Blood Orange - You're Not Good Enough"
 track2_title: "Matthewdavid - In My World"
 track3_title: "Rhye - 3 Days"

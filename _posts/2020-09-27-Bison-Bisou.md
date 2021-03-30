@@ -16,7 +16,7 @@ track2_color: rough
 track2_title: Girl Band - Shoulderblades
 track1_color: vibrant
 track1_title: 'Jenny Hval - The Great Undressing '
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/416/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track7.mp3'
 track5_link: 'https://soundcloud.com/lagasta/hidden-fees-lo-what'
 track3_link: 'https://soundcloud.com/prayersofficial/from-dog-to-god'
 track1_link: 'https://soundcloud.com/jennyhval/the-great-undressing-5'
@@ -28,9 +28,9 @@ writer: Anaïs G
 illustrator: Anthony Dujardin
 author: Anaïs G
 published: true
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/418/track2.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/418/track4.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/418/track6.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/418/track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/418/track4.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/418/track6.mp3'
 image: 'https://mailta.pe/img/fbPic418.png'
 musiColor: musiColor418.png
 description: >-

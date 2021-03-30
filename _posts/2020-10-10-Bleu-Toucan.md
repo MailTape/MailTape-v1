@@ -19,8 +19,8 @@ track2_color: vibrant
 track2_title: 'TEED - Don''t you forget about me '
 track1_color: dreamy
 track1_title: Sébastien Tellier - Love
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/420/track5.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/420/track2.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track5.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track2.mp3'
 guestPic: guestPic420.jpg
 guest_color: dreamy
 guest_name: Bleu Toucan
@@ -28,11 +28,11 @@ category: '420'
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/420/track1.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/420/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/420/track4.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/420/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/420/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track1.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track4.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/420/track7.mp3'
 description: >-
   This morning, we fly away, we take to the open sea, to faraway places where
   the heat reigns supreme. We're not alone to accompany us on this journey, it's

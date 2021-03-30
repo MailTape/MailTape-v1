@@ -8,11 +8,11 @@ writer: Sanjay Mistry
 category: '369'
 guest_name: Maria Chiara Argirò
 guest_color: bliss
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/369/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/369/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/369/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/369/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/369/track5.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/369/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/369/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/369/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/369/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/369/track5.mp3'
 track6_link: 'https://soundcloud.com/manana-cuba/manana-003-1-to-earthv4-carvery-mastered'
 track7_link: 'https://soundcloud.com/pan_hq/lifted-rose-31-pan-85'
 track1_title: 'Jon Hopkins – Emerald Rush '

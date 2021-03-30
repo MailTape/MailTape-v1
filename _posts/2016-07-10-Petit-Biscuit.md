@@ -2,10 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/224/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/224/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/224/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/224/track2.mp3'
 track3_link: 'https://soundcloud.com/destinedclassic/take-a-chance-ft-little-dragon'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/224/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/224/track4.mp3'
 illustrator: Camille Célestin
 writer: PS KY
 author: Dimitri
@@ -19,11 +19,11 @@ track1_color: bliss
 track2_title: Mura Masa - ...Girl
 track3_title: Flume - Take A Chance (ft. Little Dragon)
 track5_link: ' https://soundcloud.com/opald/france'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/224/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/224/track6.mp3'
 track4_title: Petit Biscuit - Sunset Lover
 track6_title: VOLO - Shine
 track5_title: Opal - France
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/224/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/224/track7.mp3'
 track7_title: Polo & Pan - Nanä
 track7_color: trippy
 track3_color: vibrant

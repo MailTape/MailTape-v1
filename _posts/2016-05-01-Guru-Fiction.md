@@ -10,11 +10,11 @@ bigTitle_font_ratio: "6"
 guestPic: guestPic215.jpg
 track1_link: "https://soundcloud.com/stonesthrow/silk-rhodes-pains"
 track2_link: "https://soundcloud.com/adam-morrison-1217/vulfpeck-fugue-state-02-1612"
-track3_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/215/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/215/track3.mp3"
 track4_link: "https://soundcloud.com/gurufiction/california-1"
 track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
 track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/215/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/215/track7.mp3"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy
 track2_title: "Vulfpeck - 1612"

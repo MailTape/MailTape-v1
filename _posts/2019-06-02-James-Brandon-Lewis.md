@@ -24,11 +24,11 @@ track7_title: 'Casimir Liberski, Tyshawn Sorey & Thomas Morgan – Evanescence I
 track7_color: dreamy
 track7_link: 'https://soundcloud.com/dalang-records/evanescence-i'
 track5_link: 'https://soundcloud.com/bk-music-pr/najwa-wadada-leo-smith'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/360/track4.mp3'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/360/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/360/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/360/track3.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/360/track6.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/360/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/360/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/360/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/360/track3.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/360/track6.mp3'
 episode_URL: 'http://mailta.pe/360/james-brandon-lewis/'
 description: >-
   This morning we are pleased to welcome saxophonist and composer, James Brandon

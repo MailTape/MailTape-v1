@@ -12,8 +12,8 @@ track4_color: bliss
 track5_color: rough
 track6_color: dreamy
 track7_color: rough
-track1_link: "https://mailtapesounds.s3.amazonaws.com/188/track1.mp3"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/188/track2.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/188/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/188/track2.mp3"
 track3_link: "https://soundcloud.com/stampthewax/premiere-infamous-boogieman-revenge-tactics"
 track4_link: "https://soundcloud.com/xlr8r/project-pablo-the-feeling"
 track5_link: "https://soundcloud.com/foulandsunk/fulbert-night-ride"

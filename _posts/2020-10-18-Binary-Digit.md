@@ -24,13 +24,13 @@ track6_title: EOD - Express
 track7_title: chris††† - より良い場所
 episode_URL: 'http://www.mailta.pe/421/binary-digit/'
 guestPic: guestPic421.jpg
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/421/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/421/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/421/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/421/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/421/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/421/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/421/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/421/track7.mp3'
 image: 'https://mailta.pe/img/fbPic421.png'
 musiColor: musiColor421.png
 description: >-

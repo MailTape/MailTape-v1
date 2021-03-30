@@ -7,13 +7,13 @@ category: '119'
 guest_name: My Summer Bee
 guest_color: vibrant
 guestPic: guestPic119.jpg
-track1_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track1.mp3'
-track2_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track2.mp3'
-track3_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track3.mp3'
-track4_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track4.mp3'
-track5_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track5.mp3'
-track6_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track6.mp3'
-track7_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/119/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/119/track7.mp3'
 track1_title: Brenton Wood - Gimme Little Sign
 track2_title: Metronomy - Everything Goes My Way
 track3_title: The Child of Love - Fly

@@ -7,13 +7,13 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 guest_name: Yellow Days
 guest_color: bliss
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/279/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/279/track1.mp3'
 track2_link: 'https://soundcloud.com/dummymag/aldous-rh-u-and-me'
 track3_link: 'https://soundcloud.com/madeinm/goodday'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/279/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/279/track4.mp3'
 track5_link: 'https://soundcloud.com/oliverpalfreyman/females'
 track6_link: 'https://soundcloud.com/burgerrecords/mattiel-count-your-blessings-1'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/279/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/279/track7.mp3'
 track1_title: Run DMT - Romantic
 track1_color: trippy
 track2_title: Aldous RH - U and ME

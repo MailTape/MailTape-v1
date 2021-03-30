@@ -11,7 +11,7 @@ guest_color: bliss
 track1_link: 'https://soundcloud.com/sixdegreesrecords/chamber-music'
 track2_link: 'https://soundcloud.com/jean-charles-agou/kanakassi-soriba-kouyate'
 track3_link: 'https://soundcloud.com/giorgi-amiranashvili/james-brown-this-is-a-mans'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/317/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/317/track4.mp3'
 track5_link: 'https://soundcloud.com/muphuwa/mdidi'
 track6_link: 'https://soundcloud.com/linochiusa/miriam-makeba-liwawechi'
 track7_link: 'https://soundcloud.com/olly-barnett/sona-jobarteh-saya'

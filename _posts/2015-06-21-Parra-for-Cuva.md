@@ -17,7 +17,7 @@ track4_link: "https://soundcloud.com/mailtape/parra-for-cuva-majourefeat-casey-k
 guestPic: guestPic191.jpg
 track1_link: "https://soundcloud.com/leahjasmine/balmorhea-bowsprit"
 track2_link: "https://soundcloud.com/opncow/a-la-modeliste-bonobo-remix"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/191/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track3.mp3"
 track5_link: "https://soundcloud.com/mailtape/glenn-astro-computerkiller"
 track6_link: "https://soundcloud.com/yoannfeynman/television"
 track7_link: "https://soundcloud.com/brainfeeder/thundercat-them-changes"

@@ -13,12 +13,12 @@ track6_color: bliss
 track7_color: vibrant
 category: "198"
 guest_name: Degiheugi
-track1_link: "https://mailtapesounds.s3.amazonaws.com/198/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/198/track1.mp3"
 track2_link: "https://soundcloud.com/officialrjd2/420-1s"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/198/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/198/track3.mp3"
 track4_link: "https://soundcloud.com/degiheugi/betty"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/198/track5.mp3"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/198/track6.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/198/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/198/track6.mp3"
 track7_link: "https://soundcloud.com/filsunique/mygirls"
 track1_title: " Jorge Ben Jor - Oba, la vem ela "
 track2_title: "RJD2 - 420"

@@ -8,13 +8,13 @@ guest_name: Nicolas Jaar
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic3.jpg
-track1_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track1.mp3"
-track2_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track2.mp3"
-track3_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track3.mp3"
-track4_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track4.mp3"
-track5_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track5.mp3"
-track6_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track6.mp3"
-track7_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/3/track7.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track4.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/3/track7.mp3"
 track1_title: "The Electric Prunes - Holy Are You"
 track1_color: trippy
 track2_title: "Al Green - Simply Beautiful"

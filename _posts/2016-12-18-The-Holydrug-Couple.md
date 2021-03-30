@@ -10,14 +10,14 @@ category: '239'
 track1_link: 'https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde'
 track2_link: 'https://soundcloud.com/arcocorintio/coronada'
 track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/239/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/239/track5.mp3'
 track3_title: Valesuchi - Golosynth
 track3_color: dreamy
 track1_title: Nicolas Godin - Widerstehe Doch Der Sünde
 track2_title: Arco Corintio - Coronada
 track2_color: dreamy
 track1_color: trippy
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/239/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/239/track7.mp3'
 track6_link: 'https://soundcloud.com/stampthewax/phil-stroud-flow-stw-premiere'
 guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple - Concorde

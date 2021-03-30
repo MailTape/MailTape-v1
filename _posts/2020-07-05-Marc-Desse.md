@@ -8,13 +8,13 @@ category: '412'
 guest_name: Marc Desse
 guest_color: bliss
 guestPic: guestPic412.jpg
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/412/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/412/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/412/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/412/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/412/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/412/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/412/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/412/track7.mp3'
 track1_title: Frànçois Atlas & Juliette Armanet - L'invitation au voyage
 track1_color: bliss
 track2_title: Faux Real - Boss Sweet

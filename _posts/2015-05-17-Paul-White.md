@@ -13,8 +13,8 @@ track5_color: bliss
 track6_color: trippy
 track7_color: bliss
 track1_link: "https://soundcloud.com/themediawerm/georgia-anne-muldrow-run-away"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/186/track2.mp3"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/186/track3.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/186/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/186/track3.mp3"
 category: "186"
 guest_name: Paul White
 track1_title: "Georgia Anne Muldrow - Run Away"
@@ -22,8 +22,8 @@ track2_title: "Bob Marley - Three Little Birds"
 track3_title: "Tame Impala - Be Above It"
 track4_link: "https://soundcloud.com/paulwhitebeats/running-on-a-rainy-day-paul"
 track5_link: "https://soundcloud.com/platform/eska-heroes-villains-boiler-room-debuts"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/186/track6.mp3"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/186/track7.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/186/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/186/track7.mp3"
 track4_title: "Paul White - Running On A Rainy Day (Seagull Mansion live)"
 track5_title: "ESKA - Heroes & Villains"
 track6_title: "James Clarke - Mystery Movement"

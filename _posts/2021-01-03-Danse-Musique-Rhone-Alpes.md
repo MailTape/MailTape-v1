@@ -32,8 +32,8 @@ track6_title: Maud Geffray - In the wild
 track6_color: vibrant
 track7_title: Louisahhh - Trap
 track7_color: rough
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/432/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/432/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track3.mp3'
 description: >-
   This morning, it is FINALLY 2021. What can we wish for this year? Health,
   already the most important one compared to the others but above all the

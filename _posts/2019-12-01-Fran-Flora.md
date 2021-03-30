@@ -26,11 +26,11 @@ track6_title: Tomeka Reid Quartet – The Lone Wait
 track6_color: bliss
 track7_title: Soumik Datta – Jangal
 track7_color: trippy
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/382/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/382/track3.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/382/track5.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track3.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track5.mp3'
 track6_link: 'https://soundcloud.com/tomekareid-music/the-lone-wait'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/382/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track7.mp3'
 episode_URL: 'https://www.mailta.pe/382/fran-flora/'
 guestPic: guestPic382.jpg
 image: 'https://mailta.pe/img/fbPic382.jpg'

@@ -10,7 +10,7 @@ guest_name: Eric Chenaux
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/martinarnold/stain-ballad'
 track2_link: 'https://soundcloud.com/allisoncameronmusic/tree-ferns-1-live-performance-by-wiek-hijmans'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/313/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track3.mp3'
 track4_link: 'https://soundcloud.com/constellation-records/eric-chenaux-theres-our-love'
 track5_link: 'https://soundcloud.com/footfalls-records/karma-lata'
 track6_link: 'https://soundcloud.com/melodie64/marisa-anderson-into-the-light'

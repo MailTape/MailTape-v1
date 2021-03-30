@@ -13,7 +13,7 @@ category: '335'
 track5_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
 track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
 track6_link: 'https://soundcloud.com/eclecticldn/iamddb-more'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/335/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track4.mp3'
 track1_title: Triplego – Cali (feat Prince Waly)
 track1_color: dreamy
 track2_title: Terrenoire – Le Silence

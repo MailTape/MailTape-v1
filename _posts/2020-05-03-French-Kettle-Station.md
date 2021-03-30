@@ -9,12 +9,12 @@ writer: ImaCrea
 category: '404'
 guest_name: French Kettle Station
 guest_color: trippy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/404/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track1.mp3'
 track1_title: Orior - Feels Like Summer
 track1_color: trippy
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/404/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/404/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/404/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track4.mp3'
 track2_title: Zazou / Bikaye / CY1 - Mangugu
 track3_title: Colleen - This Hammer Breaks
 track4_title: French Kettle Station - Halocam
@@ -24,8 +24,8 @@ track4_color: trippy
 track5_link: 'https://soundcloud.com/umor/ur110-1'
 track5_title: Dustin Wong + Takako Minekawa + Good Willsmith - Gikanjoumonogatari
 track5_color: trippy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/404/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/404/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/404/track7.mp3'
 track7_title: Kali Malone - Fifth Worship II
 track6_title: Nicolas Jaar - Gocce
 track6_color: trippy

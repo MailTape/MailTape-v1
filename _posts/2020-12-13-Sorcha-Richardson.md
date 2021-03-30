@@ -7,9 +7,9 @@ illustrator: Jason Pridham
 category: '429'
 guest_name: Sorcha Richardson
 guest_color: vibrant
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/429/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track1.mp3'
 track3_link: 'https://soundcloud.com/boymeetseuphoria/take-me-where-your-heart-is-2'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/429/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track2.mp3'
 track3_color: dreamy
 track2_color: bliss
 track1_color: vibrant
@@ -21,17 +21,17 @@ track4_color: bliss
 track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/429/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track4.mp3'
 writer: Sarah
 guestPic: guestPic429.jpg
 image: 'https://mailta.pe/img/fbPic429.png'
 musiColor: musiColor429.png
 episode_URL: 'http://mailta.pe/429/Sorcha-Richardson'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/429/track5.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/429/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track7.mp3'
 track7_title: Michael Nau - Rides Through The Morning
 track5_title: Porridge Radio - 7 Seconds
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/429/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track6.mp3'
 track6_title: Molly Parden - These Are The Times
 description: >-
   This morning, we wanted to give you plenty to daydream about. What else are

@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '358'
 guest_name: Siêm Folknomade
 guest_color: bliss
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/358/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/358/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/358/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/358/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/358/track5.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track5.mp3'
 track6_link: 'https://soundcloud.com/lilithai/lilith-ai-native-tongue'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/358/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track7.mp3'
 track1_title: Ry x – Bound
 track1_color: dreamy
 track2_title: Maii Waleed – يوم الاتنين

@@ -23,10 +23,10 @@ category: '430'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/430/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/430/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/430/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/430/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track4.mp3'
 track1_title: MonoNeon – I'm a raggedy bitch but my heart is amazing
 track1_color: bliss
 track2_title: Brigitte Bardot – C'est rigolo

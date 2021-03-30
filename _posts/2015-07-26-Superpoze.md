@@ -13,10 +13,10 @@ track6_color: vibrant
 track7_color: trippy
 category: "196"
 guest_name: Superpoze
-track1_link: "https://mailtapesounds.s3.amazonaws.com/196/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/196/track1.mp3"
 track2_link: "https://soundcloud.com/dreamkoala/saturn-boy"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/196/track3.mp3"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/196/track4.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/196/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/196/track4.mp3"
 track5_link: "https://soundcloud.com/felix-laband/felix-laband-squeeze-the-trigger"
 track6_link: "https://soundcloud.com/wearehusbands/laurent-garnier-the-rise-the-fall-of-the-donkey-dog_husbands-remix"
 track7_link: "https://soundcloud.com/zeroflexx/arcade-funke"

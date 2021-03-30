@@ -5,10 +5,10 @@ published: true
 category: '245'
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/tasty-morsels/h-hunt-rice-wine'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/245/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/245/track2.mp3'
 track3_link: 'https://soundcloud.com/andrevitch/haroumi-hosono-1989'
 track4_link: 'https://soundcloud.com/tasty-morsels/life-you'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/245/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/245/track5.mp3'
 track6_link: 'https://soundcloud.com/crackirecords/04-me-nage-a-trois-conditional'
 track7_link: 'https://soundcloud.com/benjamin_munoz/anchors'
 track1_title: h hunt - rice wine

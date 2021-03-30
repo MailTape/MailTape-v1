@@ -27,9 +27,9 @@ track3_color: vibrant
 category: '352'
 episode_URL: 'http://mailta.pe/352/Miel-de-Montagne'
 guest_color: dreamy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%201.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%202.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/352/Track%203.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%201.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%202.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/Track%203.mp3'
 guestPic: guestPic352.jpg
 image: https://mailta.pe/img/fbPic352.png
 musiColor: musiColor352.png

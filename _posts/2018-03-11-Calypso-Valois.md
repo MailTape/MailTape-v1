@@ -6,12 +6,12 @@ category: '303'
 guest_name: Calypso Valois
 guest_color: vibrant
 track1_link: 'https://soundcloud.com/jean-philippe-sylvestre/05-tude-op-25-no-11-vent'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/303/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/303/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/303/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/303/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/303/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/303/track7.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track7.mp3'
 writer: ImaCrea
 author: Manon
 illustrator: William Girault

@@ -9,11 +9,11 @@ guest_color: vibrant
 track1_title: Weyes Blood - Andromeda
 track2_title: The Lemon Twigs - Frank
 track3_title: Whitney - Golden Days
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/419/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track1.mp3'
 track3_link: 'https://soundcloud.com/secretlycanadian/whitney-golden-days-1'
 track1_color: dreamy
 track3_color: vibrant
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/419/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track2.mp3'
 track2_color: trippy
 track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
 track4_title: Salarymen - Runaway
@@ -22,11 +22,11 @@ track6_title: Laraaji - Laws of Manifestation
 track6_color: trippy
 track5_title: Caitlin Harnett - Make You Feel Blue
 track5_color: vibrant
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/419/track5.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/419/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track7.mp3'
 track7_title: Chico Bernardes - Me Encontrar
 track7_color: dreamy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/419/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track6.mp3'
 guestPic: guestPic419.jpg
 image: 'https://mailta.pe/img/fbPic419.png'
 musiColor: musiColor419.png

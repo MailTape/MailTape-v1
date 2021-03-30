@@ -9,12 +9,12 @@ category: '410'
 guest_name: Klô Pelgag
 guest_color: dreamy
 track7_link: 'https://soundcloud.com/the-districts/velour-and-velcro-acoustic'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/410/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/410/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/410/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/410/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/410/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/410/track6.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track6.mp3'
 track1_title: Rufus Wainwright - Cigarettes and Chocolate Milk
 track1_color: dreamy
 track2_title: Elliott Smith - Angeles

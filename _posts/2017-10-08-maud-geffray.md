@@ -31,7 +31,7 @@ track5_color: bliss
 track6_link: 'https://soundcloud.com/gang_signs/03-prequel'
 track6_title: Gang Signs — Prequel
 track6_color: bliss
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/281/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track2.mp3'
 writer: Louise
 description: >-
   Today's MailTape is a rollercoaster of emotions and feelings melted in

@@ -8,10 +8,10 @@ bigTitle_font_ratio: '7'
 guestPic: guestPic201.jpg
 track1_link: 'https://soundcloud.com/bleutoucan/lafree'
 track2_link: 'https://soundcloud.com/jimmyedgar/feel-what-it-is'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/201/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/201/track4.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track4.mp3'
 track5_link: 'https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/201/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track6.mp3'
 track7_link: 'https://soundcloud.com/frankey-official/frankey-sandrino-acamar'
 track1_title: Bleu Toucan - LA feat. Vendredi sur Mer
 track1_color: vibrant

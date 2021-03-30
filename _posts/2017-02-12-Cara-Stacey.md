@@ -8,7 +8,7 @@ track3_link: 'https://soundcloud.com/waver-music/aphelion'
 track4_link: 'https://soundcloud.com/kitrecords/cara-stacey-dark-matter-kr13'
 track5_link: 'https://soundcloud.com/strut/malombo-jazz-makers-hleziphi'
 track6_link: 'https://soundcloud.com/sons-of-kemet/sons-of-kemet-adonias-lullaby'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/247/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track7.mp3'
 category: '247'
 author: Sanjay Mistry
 illustrator: Isabelle Escande

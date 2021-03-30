@@ -20,7 +20,7 @@ track3_link: 'https://soundcloud.com/hiteharris/anats-lament'
 track4_link: 'https://soundcloud.com/julie-kjaer/3-1'
 track4_title: Julie Kjær – 3/1
 track4_color: bliss
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/280/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track5.mp3'
 track5_title: Trish Clowes – Chorale
 track5_color: dreamy
 track6_link: 'https://soundcloud.com/outstandingsound/new-by-hear-in-now'

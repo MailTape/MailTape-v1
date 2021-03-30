@@ -8,13 +8,13 @@ writer: Jules
 category: '333'
 guest_name: Fit of Body
 guest_color: bliss
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/333/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/333/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/333/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track3.mp3'
 track4_link: 'https://soundcloud.com/2mrecords/fit-of-body-black-box-no-cops-2mr-037'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/333/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track5.mp3'
 track6_link: 'https://soundcloud.com/vynehall/movements-chapter-iii'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/333/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track7.mp3'
 track1_title: C. Memi + Neo Matisse - Dream's Dream
 track1_color: rough
 track2_title: Love Letters - Co-Locate

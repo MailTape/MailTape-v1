@@ -8,12 +8,12 @@ writer: Jules
 category: '364'
 guest_name: Bobby Oroza
 guest_color: vibrant
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/364/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track1.mp3'
 track2_link: 'https://soundcloud.com/user-786202860/gloria-ann-taylor-world-thats-not-real'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/364/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track4.mp3'
 track5_link: 'https://soundcloud.com/jonahyano/nervous-feat-badbadnotgood'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/364/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/364/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track7.mp3'
 track1_title: 'Chico Buarque - Olê, Olá'
 track2_title: Gloria Ann Taylor - World That’s Not Real
 track3_title: Johnnie Frierson - Have You Been Good To Yourself
@@ -29,7 +29,7 @@ track1_color: dreamy
 track2_color: vibrant
 track3_color: rough
 episode_URL: 'https://www.mailta.pe/364/bobby-oroza/'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/364/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track3.mp3'
 description: >-
   This morning, whether on sunny beaches, palm groves or lush oases, or just
   enjoying a fine breakfast in your bed, allow yourself to be soothed by a

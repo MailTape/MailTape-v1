@@ -13,7 +13,7 @@ track2_link: 'https://soundcloud.com/betaskroz/nine-inch-nails-28-ghosts-iv'
 track3_link: 'https://soundcloud.com/ninja-tune/sarathy-korwar-bismillah-1'
 track4_link: 'https://soundcloud.com/oiseaux-tempete/alaan-i-dont-know-what-or-why'
 track5_link: 'https://soundcloud.com/christinavantzou/laurie-fullmix-v1-200315-01'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/292/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/292/track6.mp3'
 track7_link: 'https://soundcloud.com/constellation-records/jerusalem-in-my-heart-7ebr-el-3oyoun'
 track1_title: Lichens – Heilagur Draugur
 track1_color: bliss

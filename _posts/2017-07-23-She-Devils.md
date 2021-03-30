@@ -15,15 +15,15 @@ track3_title: 'Guy''s# - When You Call Me'
 track1_color: trippy
 track2_color: vibrant
 track3_color: trippy
-track4_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/270/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track4.mp3'
 track4_title: She-Devils - Darling
 track4_color: bliss
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/270/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track5.mp3'
 track5_title: Yellow Days - That Easy
 track5_color: bliss
 track6_title: Mons Vi - Want Me Too
 track6_link: 'https://soundcloud.com/mons-vi/want-me-too'
-track7_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/270/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track7.mp3'
 track7_title: ' Tabu Ley Rochereau - Hafi Deo '
 track7_color: vibrant
 track6_color: bliss

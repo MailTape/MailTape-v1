@@ -6,9 +6,9 @@ author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
 track7_link: 'https://soundcloud.com/jacquestransversal/jacques-tout-est-magnifique'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/223/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track6.mp3'
 track5_link: 'https://soundcloud.com/beatsbycarter/ride-slow-preview-lease-purchase-info-full-beat-pack-in-description'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/223/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track4.mp3'
 track4_title: Fatima Yamaha - Half Moon Rising
 track5_title: Carter Black - Ride Slow
 track7_title: Jacques - Tout Est Magnifique
@@ -18,9 +18,9 @@ image: https://mailta.pe/img/fbPic223.png
 musiColor: musiColor223.png
 guest_name: Fatima Yamaha
 category: '223'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/223/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/223/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/223/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track3.mp3'
 track1_title: Belmer - Bioroid
 track2_title: Seymour Bits - Seymour Cray
 track3_title: Donnie - Wubbo Ockels

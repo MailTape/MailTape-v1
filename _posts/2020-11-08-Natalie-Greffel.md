@@ -3,10 +3,10 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 track2_link: 'https://soundcloud.com/kasperstaubtrio/people-who-love-each-other'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/424/track5.mp3'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/424/track1.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/424/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/424/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track5.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track1.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track4.mp3'
 author: ImaCrea
 writer: ImaCrea
 category: '424'
@@ -20,8 +20,8 @@ track5_title: Deborah Dery - Spring Can Really Hang You Up The Most (cover)(quar
   version)
 track6_title: 'Emel - The Man Who Sold the World '
 track7_title: Teno Afrika - Lerato La Bass
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/424/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/424/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track7.mp3'
 episode_URL: 'https://mailta.pe/424/Natalie-Greffel/'
 guestPic: guestPic424.jpg
 track1_color: bliss

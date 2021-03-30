@@ -14,12 +14,12 @@ track6_color: bliss
 track7_color: rough
 category: "135"
 guest_name: Blitz The Ambassador
-track1_link: "https://mailtapesounds.s3.amazonaws.com/135/track1.mp3"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/135/track2.mp3"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/135/track3.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/135/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/135/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/135/track3.mp3"
 track4_link: "https://soundcloud.com/jakarta-records/blitz-the-ambassador-make-you"
 track5_link: "https://soundcloud.com/annapaulk/brigitte-bardot-la-madrague"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/135/track6.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/135/track6.mp3"
 track7_link: "https://soundcloud.com/redsoul/simba-jaywalking-redsoul-remix"
 track1_title: "Bob James - Nautilus"
 track2_title: Electric Wire Hustle – Waters

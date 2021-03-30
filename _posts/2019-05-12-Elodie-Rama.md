@@ -25,10 +25,10 @@ track6_color: vibrant
 track6_title: 'Rosie Lowe - Pharoah  '
 track5_title: Celeste - Summer feat Jeshi
 track5_color: dreamy
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%202.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%203.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%205.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/357/Track%206.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%202.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%203.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%205.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/357/Track%206.mp3'
 guestPic: guestPic357.jpg
 episode_URL: 'http://mailta.pe/357/Elodie-Rama'
 image: 'https://mailta.pe/img/fbPic357.png'

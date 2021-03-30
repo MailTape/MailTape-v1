@@ -25,11 +25,11 @@ track4_title: Bonnie Banane - Statue
 track5_title: ShyGirl - Want More
 track6_title: LAFAWNDAH - All That She Wants (Ace of Base cover)
 track7_title: D.K. - Play On
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/225/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/225/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track2.mp3'
 track3_link: 'https://soundcloud.com/lala-ace-667/jessica-jones'
 track4_link: 'https://soundcloud.com/bonniebanane/statue'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/225/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track5.mp3'
 track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
 track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
 description: a nostalgic jaunt through the 90’s with Bonnie Banane !

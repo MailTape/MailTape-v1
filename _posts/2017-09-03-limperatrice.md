@@ -35,7 +35,7 @@ description: >-
   swaying more gently in the dark. L'Impératrice is here to help us close out
   the summer, in the soft shadows of a long expected sunrise.
 track2_color: vibrant
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/276/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/276/track2.mp3'
 track4_link: 'https://soundcloud.com/l-imperatrice/l-imperatrice_agitations-tropicales'
 ---
 <p id="introduction">This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise. As a glowing haze settles and the lights come up, this disco is slipping into slow motion, a living nostalgia for the endless poolside midnights.</p>

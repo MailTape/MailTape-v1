@@ -9,7 +9,7 @@ category: '380'
 guest_name: Corte Real
 guest_color: dreamy
 episode_URL: 'https://mailta.pe/380/corte-real/'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/380/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track1.mp3'
 track1_title: Leonard Cohen - I Left A Woman Waiting
 track1_color: bliss
 track2_title: Bert Jansch - In My Mind
@@ -22,14 +22,14 @@ track6_title: OHIO - Ohio
 track6_color: dreamy
 track7_title: The Velvet Underground - I Found A Reason
 track7_color: bliss
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/380/track5.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/380/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track7.mp3'
 track3_color: bliss
 track4_link: 'https://soundcloud.com/corterealofficial/pays-vaincu'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/380/track3.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/380/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track2.mp3'
 track2_color: trippy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/380/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track6.mp3'
 musiColor: musiColor380.png
 description: >-
   This morning, we are setting sail again at the very first light of dawn with

@@ -15,13 +15,13 @@ track7_color: bliss
 category: "141"
 guest_name: Jesper Ryom
 guestPic: guestPic141.jpg
-track1_link: "https://mailtapesounds.s3.amazonaws.com/141/track1.mp3"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/141/track2.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/141/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/141/track2.mp3"
 track3_link: "https://soundcloud.com/fortromeau/her-dream"
 track4_link: "https://soundcloud.com/jesper-ryom/viewpoint?in=jesper-ryom/sets/syvsover"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/141/track5.mp3"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/141/track6.mp3"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/141/track7.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/141/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/141/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/141/track7.mp3"
 track1_title: "Your Friend - Tame One"
 track2_title: "The War on Drugs - Red Eyes"
 track3_title: "Fort Romeau - Her Dream"

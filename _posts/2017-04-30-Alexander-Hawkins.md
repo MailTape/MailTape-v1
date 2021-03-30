@@ -5,8 +5,8 @@ published: true
 track1_link: 'https://soundcloud.com/brmuse/02-ritual-rubbin'
 track2_link: 'https://soundcloud.com/elaine_mitchener/06-watching-the-rituals'
 track3_link: 'https://soundcloud.com/non-possumus-1/ballade-no-1-in-g-minor-op-23'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/258/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/258/track5.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/258/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/258/track5.mp3'
 track6_link: 'https://soundcloud.com/alarm-will-sound/particularly-competitive'
 track7_link: 'https://soundcloud.com/howlarts/wire-tones-beyond-injustice'
 author: Sanjay Mistry

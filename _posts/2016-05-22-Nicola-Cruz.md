@@ -8,9 +8,9 @@ writer: ImaCrea
 category: '218'
 guest_name: Nicola Cruz
 guest_color: dreamy
-track1_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/218/track1.mp3'
-track2_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/218/track2.mp3'
-track3_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/218/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track3.mp3'
 track4_link: 'https://soundcloud.com/nicolacruz/05-prender-el-alma'
 track5_link: >-
   https://soundcloud.com/tait_00/future-islands-seasons-waiting-on-you-badbadnotgood-reinterpretation

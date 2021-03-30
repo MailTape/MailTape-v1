@@ -165,7 +165,7 @@ $(document).ready(
 
 						if (error) {
 							console.error("/!\\"+"Track:"+(i+1)+" "+" NOT FOUND ! A curator gotta fix this!");
-							$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
+							$("#track"+(i+1)+"_button").prop("href", "https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3");
 						}
 
 						else if (track.streamable == true) {
@@ -184,11 +184,11 @@ $(document).ready(
 				else
 				{
 					console.error("/!\\"+"Track:"+(i+1)+" "+" CAN'T BE STREAMED BECAUSE connect.soundcloud.com not reachable ! Check your browser plugins ;)");
-					$("#track"+(i+1)+"_button").prop("href", "https://s3.eu-west-3.amazonaws.com/mailtapesounds/missingTrack.mp3");
+					$("#track"+(i+1)+"_button").prop("href", "https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3");
 				}
 			}
 
-			else if (trackURL.search( 'amazonaws' ) != -1) {
+			else if (trackURL.search( 'mtsounds' ) != -1) {
 				$("#track"+(i+1)+"_link").removeAttr("href").removeAttr("target").removeAttr("onclick");
 				$("#track"+(i+1)+"_link").addClass("linkNotAvailable");
 				$("#track"+(i+1)+"_link").attr("title","Sorry, link not available on SoundCloud :(");

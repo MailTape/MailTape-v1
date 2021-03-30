@@ -18,11 +18,11 @@ image: https://mailta.pe/img/fbPic197.jpg
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon/"
 track1_link: "https://soundcloud.com/nicolas-perdereau/floating-points-myrtle-avenue"
-track2_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/197/track2.m4a"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track2.m4a"
 track3_link: "https://soundcloud.com/ghostly/gold-panda-reprise"
 track5_link: "https://soundcloud.com/limonadierofficial/nicholas-larsen-the-strip"
 track6_link: "https://soundcloud.com/blhaz/wasted-time"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/197/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track7.mp3"
 track4_link: "https://soundcloud.com/trashlagoon/01-marouki-knows"
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"

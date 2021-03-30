@@ -9,12 +9,12 @@ category: '307'
 guest_name: Gaelynn Lea
 guest_color: vibrant
 track1_link: 'https://soundcloud.com/jerree-small/60-words-for-water'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/307/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/307/track2.mp3'
 track3_link: 'https://soundcloud.com/the-charlie-parr/01-gospel-plow-1'
 track4_link: 'https://soundcloud.com/gaelynn-lea/bound-by-a-thread'
 track5_link: 'https://soundcloud.com/dianecluck/sara'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/307/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/307/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/307/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/307/track7.mp3'
 track1_title: Jerree Small – 60 Words For Water
 track1_color: bliss
 track2_title: 'The Decemberists – Angel, Won''t You Call Me?'

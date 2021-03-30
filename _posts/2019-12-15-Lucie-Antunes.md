@@ -2,11 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/384/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track3.mp3'
 track3_title: 'Sufjan Steven - The Tallest Man, The Broadest Shoulders'
 track2_title: Ryan Power - I Don't Want To Die
 track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/384/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track1.mp3'
 track2_link: 'https://soundcloud.com/ryanpower/i-dont-want-to-die'
 category: '384'
 guest_name: Lucie Antunes
@@ -15,7 +15,7 @@ author: ImaCrea
 illustrator: Thibault Daumain
 writer: PS KY
 track1_color: trippy
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/384/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track4.mp3'
 track4_title: Lucie Antunes - Blue Child
 track5_link: 'https://soundcloud.com/sentimentalrave/never-asking-favours'
 track5_title: Sentimental Rave - Never Asking Favours
@@ -23,8 +23,8 @@ track5_color: rough
 track4_color: bliss
 track3_color: vibrant
 track2_color: dreamy
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/384/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/384/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track7.mp3'
 track6_title: Sunni Colón - Strands of the Future
 track6_color: vibrant
 track7_title: Sandra Nkaké - River

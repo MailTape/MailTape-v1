@@ -12,10 +12,10 @@ author: Anaïs G
 published: true
 track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
 track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/387/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/387/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track3.mp3'
 track6_link: 'https://soundcloud.com/bornbadrecords/cannibale-do-not-love-me-too-much-from-not-easy-to-cook-lp-out-16th-november'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/387/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track7.mp3'
 track1_title: Rubin Steiner - Paradise
 track1_color: dreamy
 track2_title: Richard Dawson - Weaver

@@ -30,7 +30,7 @@ track4_title: Rachel Dadd - Strike Our Scythes
 track5_title: Julia Jacklin - Leadlight
 track5_color: vibrant
 track6_title: Pain-Noir - L'arme
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/226/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/226/track5.mp3'
 track6_color: vibrant
 writer: Louise
 description: >-

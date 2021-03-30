@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '319'
 guest_name: Les Graciés
 guest_color: trippy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/319/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/319/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/319/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/319/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/319/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/319/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/319/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/319/track4.mp3'
 track5_link: 'https://soundcloud.com/hausu-mountain/homonyms'
 track6_link: 'https://soundcloud.com/eande/valerie-elysia-x'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/319/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/319/track7.mp3'
 track1_title: Joni Mitchell – Hejira
 track1_color: dreamy
 track2_title: Al Jarreau – Brite 'N' Sunny Babe

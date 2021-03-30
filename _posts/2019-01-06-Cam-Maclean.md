@@ -25,10 +25,10 @@ track6_link: 'https://soundcloud.com/westermanmusicuk/outside-sublime?in=westerm
 track5_link: 'https://soundcloud.com/belmontwitch/romperlo'
 track4_link: 'https://soundcloud.com/atelierciseaux/01-sunshine-2?in=atelierciseaux/sets/ac41-cam-maclean-wait-for-love-1'
 category: '339'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%201.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%202.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%203.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/339/Track%207.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/339/Track%201.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/339/Track%202.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/339/Track%203.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/339/Track%207.mp3'
 guestPic: guestPic339.jpg
 description: >-
   This morning, we are embarking on a year filled with joy, love and surprises.

@@ -28,10 +28,10 @@ image: 'https://mailta.pe/img/fbPic443.png'
 musiColor: musiColor443.png
 track7_link: 'https://soundcloud.com/cyril-cyril-music/al-boustane'
 track4_link: 'https://soundcloud.com/sarah-maison/lete-1'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/443/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/443/track3.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/443/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/443/track6.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track3.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track6.mp3'
 description: >-
   This morning, we leave in the sun with a one-way trip to the Eastern
   countries. The beauty of language, culture and scenery... In this episode,

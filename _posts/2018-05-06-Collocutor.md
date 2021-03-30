@@ -11,9 +11,9 @@ guest_color: dreamy
 track1_link: 'https://soundcloud.com/nawarecordings/03-tawazon-i-balance'
 track2_link: 'https://soundcloud.com/adityaprakash/asato-ma-aditya-prakash'
 track3_link: 'https://soundcloud.com/stampthewax/hermeto-pascoal-grupo-vice-versa-danca-do-paje-stw-premiere'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/311/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track4.mp3'
 track6_link: 'https://soundcloud.com/lucyjostevens/birdsong-tabla-compo-2'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/311/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track5.mp3'
 track1_title: 'Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن'
 track1_color: bliss
 track2_title: Aditya Prakash Ensemble – Untruth to Truth
@@ -29,7 +29,7 @@ track6_color: dreamy
 track7_title: Cecil Taylor Quartet – African Violets
 track7_color: trippy
 episode_URL: 'http://mailta.pe/311/collocutor/'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/311/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track7.mp3'
 guestPic: guestPic311.jpg
 musiColor: musiColor311.png
 image: https://mailta.pe/img/fbPic311.jpg

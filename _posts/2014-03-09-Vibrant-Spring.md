@@ -18,7 +18,7 @@ guest_name: Vibrant Spring
 track1_title: "Willis Earl Beal - Coming Through (feat. Cat Power)"
 track1_link: "https://soundcloud.com/keeganscu/coming-through-featuring-cat"
 track2_title: "KID WISE - Hope"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/131/track2.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/131/track2.mp3"
 track3_title: "GLITCHES - RGB (VIMES Remix)"
 track3_link: "https://soundcloud.com/vimes/glitches-rgb-vimesremix"
 track4_link: "https://soundcloud.com/pierre_msd/georgio-a-tous-les-coups-2014"
@@ -26,9 +26,9 @@ track4_title: "Georgio - A Tous les Coups"
 track5_link: "https://soundcloud.com/paradyserecords/flyte-we-are-the-rain"
 track5_title: "Flyte - We Are the Rain"
 track6_title: "Horse Feathers - Curs in the Weeds (oddlogic refix)"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/131/track6.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/131/track6.mp3"
 track7_title: "Yinyues - Zing Wezé Mama"
-track7_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/131/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/131/track7.mp3"
 author: MailTape Crew
 guestPic: guestPic131.jpg
 musiColor: musiColor131.png

@@ -16,8 +16,8 @@ category: "142"
 guest_name: Grey Reverend
 track1_link: "https://soundcloud.com/zo-lamoureux/nina-simone-i-loves-you-porgy"
 track2_link: "https://soundcloud.com/rockcandydiva/today-tom-scott"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/142/track3.mp3"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/142/track4.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/142/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/142/track4.mp3"
 track3_title: "Dusty Springfield - Just A Little loving"
 track1_title: "Nina Simone - I Loves You Porgy"
 track2_title: "Tom Scott - Today "
@@ -28,7 +28,7 @@ track5_link: "https://soundcloud.com/fatcatrecords/mice-parade-nights-wave"
 track6_link: "https://soundcloud.com/long-arm/sleepsafe"
 track6_title: "Long Arm - Sleepsafe"
 track7_title: "Sixto Rodriguez - Inner City Blues"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/142/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/142/track7.mp3"
 guestPic: guestPic142.jpg
 image: https://mailta.pe/img/fbPic142.jpg
 musiColor: musiColor142.png

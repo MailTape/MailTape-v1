@@ -16,10 +16,10 @@ track3_title: Thomas Mapfumo – Haruna
 track3_color: dreamy
 track4_title: Sam Shalabi & Stefan Christoff  – Elephantine
 track4_color: dreamy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/437/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/437/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/437/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/437/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track4.mp3'
 track5_link: 'https://soundcloud.com/murcof/underwater-lament-full-version'
 track5_title: Murcof – Underwater Lament
 track5_color: dreamy
@@ -28,7 +28,7 @@ track6_title: Sibusile Xaba – Wampona
 track6_color: trippy
 track7_title: Talvin Singh & Niladri Kumar – Ananta
 track7_color: bliss
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/437/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track7.mp3'
 episode_URL: 'https://mailta.pe/437/stefan-christoff/'
 description: >-
   This morning we welcome Stefan Christoff to select three groovy Sunday morning

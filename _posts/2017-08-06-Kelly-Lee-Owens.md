@@ -14,8 +14,8 @@ image: https://mailta.pe/img/fbPic272.png
 musiColor: musiColor272.png
 track4_link: 'https://soundcloud.com/smalltownsupersound/kelly-lee-owens-anxi-ft-jenny-hval'
 track2_link: 'https://soundcloud.com/pitstation4-1/tt4'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/272/track3.mp3'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/272/track1.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track1.mp3'
 track2_title: Cocteau Twins - Wax & Wane
 track3_title: Aphex Twin - Acrid Avid Jam Shred
 track1_title: 'Alice Coltrane - Journey In Satchidananda '

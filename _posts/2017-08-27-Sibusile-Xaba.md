@@ -12,7 +12,7 @@ track1_link: 'https://soundcloud.com/nono-nkoane-1/nomad'
 track2_link: 'https://soundcloud.com/nduduzo-makhathini-1/king-fela'
 track3_link: 'https://soundcloud.com/itai-hakim/ni-songo-gela'
 track4_link: 'https://soundcloud.com/sibusile-xaba/ukukhanya-kwa-dr-philip-tabane'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/275/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/275/track5.mp3'
 track6_link: 'https://soundcloud.com/bokani-dyer/8-recess/'
 track7_link: 'https://soundcloud.com/miryamsolomon/b1-magnolia/'
 track1_title: Nono Nkoane — Nomad

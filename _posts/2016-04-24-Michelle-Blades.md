@@ -8,7 +8,7 @@ guest_name: Michelle Blades
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic214.jpg
-track1_link: "https://mailtapesounds.s3.amazonaws.com/214/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track1.mp3"
 track2_link: "https://soundcloud.com/caracolin/victor-jara-te-recuerdo-amanda"
 track3_link: "https://soundcloud.com/cyclo-raquette/automne"
 track4_link: "https://soundcloud.com/midnightspecialrecords/michelle-blades-polylust-03-watch-me-stray-mstd"

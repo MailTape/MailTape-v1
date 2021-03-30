@@ -30,9 +30,9 @@ guest_name: River Into Lake
 writer: Anaïs G
 illustrator: Camille Célestin
 author: Anaïs G
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track2.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/377/Track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/377/Track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/377/Track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/377/Track4.mp3'
 description: >-
   This morning, nature speaks to us: it bewitches us with its orange and brown
   leaves, it pushes us to get up early to go in search of mushrooms, chestnuts.

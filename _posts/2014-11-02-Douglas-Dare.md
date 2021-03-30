@@ -15,9 +15,9 @@ track7_color: rough
 category: "158"
 guest_name: Douglas Dare
 guestPic: guestPic158.jpg
-track1_link: "https://mailtapesounds.s3.amazonaws.com/158/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track1.mp3"
 track2_link: "https://soundcloud.com/modernlove/violence"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/158/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track3.mp3"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
 image: https://mailta.pe/img/fbPic158.jpg
 musiColor: musiColor158.png
@@ -27,11 +27,11 @@ track3_title: "Buke and Gase - Seam Esteem"
 track4_title: "Douglas Dare - Caroline"
 track4_link: "https://soundcloud.com/douglas-dare/caroline"
 track5_title: "Joy! - Utopia"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/missingTrack.mp3"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/158/track7.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track7.mp3"
 track7_title: "Audion Feat Troels Abrahamsen - Dem Howl"
 track6_title: "Hans Berg - Tucan Fever"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/158/track6.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track6.mp3"
 description: "This morning, discover Douglas Dare. Douglas Dare grew up in the small coastal town of Bridport in South West England. Encouraged by his mother, a piano teacher, he began composing music at a very young age. He inspired us a dark and rough tape with with a few bright spots. Hope you'll like it."
 ---
 

@@ -8,9 +8,9 @@ writer: Sanjay Mistry
 category: '328'
 guest_name: Mary Lattimore
 guest_color: dreamy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/328/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/328/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/328/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/328/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/328/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/328/track3.mp3'
 track4_link: 'https://soundcloud.com/ghostly/mary-lattimore-hello-from-the-edge-of-the-earth'
 track5_link: 'https://soundcloud.com/aine-o-dwyer/tremor'
 track6_link: 'https://soundcloud.com/fluid-radio/orla-wren-the-cup-of'

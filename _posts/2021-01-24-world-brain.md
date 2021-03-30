@@ -2,13 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/435/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/435/track1.mp3'
 track2_link: 'https://soundcloud.com/pilarzeta/clouds-to-remember'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/435/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/435/track3.mp3'
 track4_link: 'https://soundcloud.com/mondecerveau/hypertext-2'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/435/track7.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/435/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/435/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/435/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/435/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/435/track6.mp3'
 track1_title: Chaz Jenkel - I can get over it (if you can get over here)
 track2_title: Pilar Zeta - Clouds to Remember
 track3_title: Syzygys - Fauna Grotesque

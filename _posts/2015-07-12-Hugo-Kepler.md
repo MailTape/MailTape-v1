@@ -11,11 +11,11 @@ track4_color: dreamy
 track5_color: bliss
 track6_color: vibrant
 track7_color: rough
-track1_link: "https://mailtapesounds.s3.amazonaws.com/194/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track1.mp3"
 track2_link: "https://soundcloud.com/kdhx/william-tyler-we-cant-go-home"
-track3_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/194/Mon+Nom.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/Mon+Nom.mp3"
 track5_link: "https://soundcloud.com/mailtape/samay-in-and-out"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/194/track6.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track6.mp3"
 track7_link: "https://soundcloud.com/tilman/tilman-eruption-klamauk"
 track1_title: "John Grant - You don't have to"
 track4_link: "https://soundcloud.com/mailtape/hugo-kepler-senza-mon-amour"

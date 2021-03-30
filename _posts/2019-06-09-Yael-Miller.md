@@ -35,8 +35,8 @@ description: >-
   against multiple inequalities... Whether gentle or strong, frail or assertive,
   there must be no differences. Our guest this Sunday to this need to defend his
   values.
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/361/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/361/Track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/Track3.mp3'
 image: fbPic361.png
 ---
 

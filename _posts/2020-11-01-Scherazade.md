@@ -19,11 +19,11 @@ track2_color: bliss
 track2_title: La Priest - What Moves
 track1_color: dreamy
 track1_title: Nick Hakim - Let It Out
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/423/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track7.mp3'
 track6_link: 'https://soundcloud.com/themarias/i-dont-know-you-1'
 track5_link: 'https://soundcloud.com/genevieveartadi/hot-mess'
 track3_link: 'https://soundcloud.com/silas70/flash-and-the-pan-waiting-for'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/423/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track1.mp3'
 guestPic: guestPic423.jpg
 guest_color: vibrant
 guest_name: Schérazade
@@ -31,8 +31,8 @@ category: '423'
 writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/423/track4.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/423/track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track2.mp3'
 description: >-
   This morning, we send each other love, we hug each other through our masks, we
   send each other kisses through our windows. You try to forget the dull days,

@@ -7,15 +7,15 @@ writer: ImaCrea
 category: "6"
 guest_name: La Fine Équipe
 guestPic: guestPic6.jpg
-track1_link: "https://mailtapesounds.s3.amazonaws.com/6/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/6/track1.mp3"
 track1_title: "Stevie Wonder - Living for the Ciry"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/6/track2.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/6/track2.mp3"
 track2_title: "Amon Tobin - Slowly"
 track4_link: "https://soundcloud.com/philip-lawson-1/cavatina-stanley-myers-arr"
 track3_title: "Madvillain - Figaro"
 track4_title: "John Williams - Cavatina"
 track5_title: "Thundercat - For Love I Come"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/6/track5.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/6/track5.mp3"
 track6_link: "https://soundcloud.com/theaspirinsformychildren/tafmc-cutter-2010"
 track6_title: "Aspirin's For My Children - Cutter"
 track7_link: "https://soundcloud.com/greenlabelsound/classixx-feat-karl-dixon-into"
@@ -31,7 +31,7 @@ track6_color: trippy
 track7_color: bliss
 track3_color: rough
 guest_color: rough
-track3_link: "https://s3.eu-west-3.amazonaws.com/mailtapesounds/6/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/6/track3.mp3"
 illustrator: William Girault
 ---
 <p id="introduction">This morning, [La Fine Équipe](https://www.facebook.com/lafineequipebeats/) are off to a great start with Stevie Wonder who lights up our bedroom early in the morning as the first sunbeams. Off to take a shower listening to Amon Tobin, water dripping from the shower head in slow-motion and our skin feels every drop of it. Time passes, we don't know since how long we have been under the hot water stream. Back to reality, Madvillain sets his rythmn, his flow, it's time to brew some coffee.</p>

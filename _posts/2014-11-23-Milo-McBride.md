@@ -15,7 +15,7 @@ track7_color: bliss
 category: "161"
 guest_name: Milo McBride
 track1_link: "https://soundcloud.com/wildkatzmusic/john-waters"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/161/track2.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/161/track2.mp3"
 track3_link: "https://soundcloud.com/ministerakins/holycommunion"
 track4_link: "https://soundcloud.com/milomcbride/03-clism"
 track5_link: "https://soundcloud.com/burgerrecords/david-vandervelde-where-are-you"

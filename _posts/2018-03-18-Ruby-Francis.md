@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/304/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/304/track2.mp3'
 track1_title: Solo Smith —  Still In Love
 track2_title: Lion Babe — Honey Dew
 track4_title: Ruby Francis — Fall Asleep
@@ -14,7 +14,7 @@ track2_color: vibrant
 track7_color: vibrant
 track6_link: 'https://soundcloud.com/itswayi/wayi-the-way-i-am'
 track7_link: 'https://soundcloud.com/kingprincessmusic/sunburn'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/304/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/304/track4.mp3'
 track6_title: WAYI — The Way I Am
 track6_color: dreamy
 track5_link: 'https://soundcloud.com/stillwoozy/goodiebag'
@@ -31,7 +31,7 @@ guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestpic304ter.jpg
 track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/304/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/304/track3.mp3'
 description: >-
   This morning, we welcome London-based singer/songwriter, Ruby Francis, to
   collaborate with us on MailTape. Merging R&B, 80s & 90s soundscapes and

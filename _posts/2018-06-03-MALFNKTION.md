@@ -8,7 +8,7 @@ writer: Sanjay Mistry
 category: '315'
 guest_name: MALFNKTION
 guest_color: trippy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/315/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track1.mp3'
 track2_link: 'https://soundcloud.com/emancipator/09-bat-country-1'
 track3_link: 'https://soundcloud.com/natasha-lobova/anderson-paak-malibu-16-the-dreamer-feat-talib-kweli-timan-family-choir'
 track4_link: 'https://soundcloud.com/souletiquette/malfnktion-zoya-be-free'

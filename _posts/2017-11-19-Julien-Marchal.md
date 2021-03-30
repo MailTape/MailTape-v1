@@ -13,8 +13,8 @@ track1_title: Novo Amor & Ed Tullett - Faux
 track2_link: 'https://soundcloud.com/robot-koch/christian-loeffler-mare-robot-koch-remix-1'
 track3_link: 'https://soundcloud.com/authorsrecording/these-words-are-everything'
 track4_link: 'https://soundcloud.com/julienmarchal/xxi-final-master-4424'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/287/track7.mp3'
-track5_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/287/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track5.mp3'
 track7_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
 track2_title: ' Christian Loeffler - Mare (Robot Koch Remix) '
 track3_title: Jonwayne - These Words Are Everything

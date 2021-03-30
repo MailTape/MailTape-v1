@@ -12,7 +12,7 @@ track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase
 track2_link: "https://soundcloud.com/flairs/12-bus"
 track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
 track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/203/track5.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/203/track5.mp3"
 track6_link: "https://soundcloud.com/vedetttobogganrecords/09-tuer-les-gens"
 track7_link: "https://soundcloud.com/la_souterraine/o-mon-echo-2015"
 track1_title: "Ricky Hollywood - Parti dans le Passé(Athanase Granson edit)"

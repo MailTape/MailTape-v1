@@ -12,10 +12,10 @@ illustrator: Jason Pridham
 author: Anaïs G
 published: true
 writer: Anaïs G
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/416/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/416/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/416/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/416/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track4.mp3'
 track5_link: >-
   https://soundcloud.com/xxxiii-452513197/06-encore-un-etrange-sentiment?in=xxxiii-452513197/sets/lodeur-de-lorage
 track6_link: 'https://soundcloud.com/musiquelarge/fulgeance-ensemble'

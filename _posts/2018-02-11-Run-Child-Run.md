@@ -9,13 +9,13 @@ category: '299'
 guest_name: Run Child Run
 guest_color: vibrant
 guestPic: guestPic299.jpg
-track1_link: 'https://s3.eu-west-3.amazonaws.com/mailtapesounds/299/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/299/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/299/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/299/track2.mp3'
 track3_link: 'https://soundcloud.com/mrbongo/joyce-aldeia-de-ogum'
 track4_link: 'https://soundcloud.com/runchildrun/cant-catch-me'
 track5_link: 'https://soundcloud.com/stonesthrow/sudan-archives-come-meh-way'
 track6_link: 'https://soundcloud.com/principles-of-geometry/les-princes-des-villes-principles-of-geometrys-guillaume-teyssiers-les-princes-des-villes'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/299/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/299/track7.mp3'
 track1_title: Solange - Rise
 track2_title: Hugh - I Can't Figure Out
 track3_title: Joyce - Aldeia de Ogum

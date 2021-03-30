@@ -10,10 +10,10 @@ track4_color: vibrant
 track3_color: dreamy
 track2_color: trippy
 track1_color: bliss
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/401/track4.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/401/track3.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/401/track2.mp3'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/401/track1.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track4.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track1.mp3'
 guestPic: guestPic401.jpg
 guest_color: vibrant
 guest_name: Postcards
@@ -22,9 +22,9 @@ writer: Anaïs G
 illustrator: Julie Wojtczak
 author: Anaïs G
 published: true
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/401/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track5.mp3'
 track6_link: 'https://soundcloud.com/safarmusicbeirut/the-greatest-fear'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/401/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track7.mp3'
 track1_title: Big Thief - Cattails
 track2_title: Animal Collective - Banshee Beat
 track3_title: Velvet Underground - Pale Blue Eyes

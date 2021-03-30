@@ -9,9 +9,9 @@ category: '434'
 guest_name: 'Mourning [A] BLKstar'
 guest_color: vibrant
 track4_link: 'https://soundcloud.com/mourningablkstar/be'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/434/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/434/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/434/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track3.mp3'
 track1_title: Kokoroko - Ti-de
 track2_title: Pablo Amor - whutitseemz
 track3_title: Beverly Glenn-Copeland - Winter Astral
@@ -20,12 +20,12 @@ track1_color: dreamy
 track2_color: rough
 track3_color: trippy
 track4_color: bliss
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/434/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track5.mp3'
 track5_title: Monomono - The World Might Fall Over
 track5_color: vibrant
 track6_title: 'SAULT - Bow feat Michael Kiwanuka '
 track6_color: vibrant
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/434/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track6.mp3'
 track7_title: 'Chanel Tres  - unfinished business '
 track7_link: 'https://soundcloud.com/channeltres/unfinished-business'
 track7_color: dreamy

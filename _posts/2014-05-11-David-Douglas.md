@@ -17,9 +17,9 @@ guest_name: David Douglas
 guestPic: guestPic140.jpg
 track1_link: "https://soundcloud.com/aleko205/franz-schubert-piano-trio-in-e"
 track2_link: "https://soundcloud.com/handsometours-com/midlake-acts-of-man"
-track3_link: "https://mailtapesounds.s3.amazonaws.com/140/track3.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/140/track3.mp3"
 track4_link: "https://soundcloud.com/daviddouglasmusic/california-poppy"
-track5_link: "https://mailtapesounds.s3.amazonaws.com/140/track5.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/140/track5.mp3"
 track6_link: "https://soundcloud.com/mister-gavin/kind-of-love-original-mix"
 track7_link: "https://soundcloud.com/turksandcaicos/nice-n-slow"
 track1_title: "Franz Schubert - Piano Trio In E-Flat"

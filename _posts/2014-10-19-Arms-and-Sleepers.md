@@ -14,10 +14,10 @@ track6_color: vibrant
 track7_color: bliss
 category: "156"
 guest_name: Arms and Sleepers
-track1_link: "https://mailtapesounds.s3.amazonaws.com/156/track1.mp3"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/156/track2.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/156/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/156/track2.mp3"
 track3_link: "https://soundcloud.com/throttleclark/unfurla"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/156/track4.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/156/track4.mp3"
 track5_link: "https://soundcloud.com/paulwhitebeats/where-you-gonna-go-andres-remix"
 track7_link: "https://soundcloud.com/oldtoy/fountains"
 track6_link: "https://soundcloud.com/sam-kogon/wake-up-your-kids"

@@ -15,9 +15,9 @@ category: "195"
 guest_name: Crackazat
 guestPic: guestPic195.jpg
 track1_link: "https://soundcloud.com/skalpelmusic/skalpel-sculpture-skalpel"
-track2_link: "https://mailtapesounds.s3.amazonaws.com/195/track2.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/195/track2.mp3"
 track3_link: "https://soundcloud.com/stampthewax/typesun-the-pl"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/195/track4.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/195/track4.mp3"
 track5_link: "https://soundcloud.com/eliescobar/the-formula?in=eliescobar/sets/up-all-night-digital-version"
 track7_link: "https://soundcloud.com/kartell/sg-lewis-no-less-kartell-remix-1"
 track6_link: "https://soundcloud.com/delusionsofgrandeur/uffe-like-you-mean-it-delusions-of-grandeur-96kbps?in=delusionsofgrandeur/sets/uffe-like-you-mean-it-ep"

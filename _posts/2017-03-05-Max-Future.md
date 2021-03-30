@@ -12,7 +12,7 @@ track1_link: 'https://soundcloud.com/b_u_b_u/m-e-d-cant-hold-on'
 track2_link: 'https://soundcloud.com/from-go-to-whoa-blog/tame-impala-prototype-outkast'
 track3_link: 'https://soundcloud.com/tigersushirecords/nothing-gold-12inch-mix'
 track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/250/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track5.mp3'
 track6_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
 track1_color: rough
 track2_title: Tame Impala - Prototype (Outkast Cover)

@@ -22,13 +22,13 @@ track2_title: "Jono McCleery - Ballade"
 track3_title: "Grey Reverend - Nightingale"
 guestPic: guestPic146.jpg
 episode_URL: "http://mailta.pe/146/Grandbrothers/"
-track4_link: "https://mailtapesounds.s3.amazonaws.com/146/track4.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/146/track4.mp3"
 track4_title: "Grandbrothers - Notbrause"
 track5_link: "https://soundcloud.com/bureau-1/ulrich-schnauss-mark-peters-1"
 track5_title: "Ulrich Schnauss & Mark Peters - Das Volk Hat Keine Seele"
-track6_link: "https://mailtapesounds.s3.amazonaws.com/146/track6.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/146/track6.mp3"
 track6_title: "Junip - Walking Lightly"
-track7_link: "https://mailtapesounds.s3.amazonaws.com/146/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/146/track7.mp3"
 track7_title: "alt-J - Hunger Of The Pine"
 musiColor: musiColor146.png
 image: https://mailta.pe/img/fbPic146.jpg

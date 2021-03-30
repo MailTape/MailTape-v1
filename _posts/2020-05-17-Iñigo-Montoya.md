@@ -7,7 +7,7 @@ track2_color: dreamy
 track2_title: Adrien Pallot - quatre sept
 track1_color: bliss
 track1_title: Vitesse - A Way To My Redemption
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/406/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/406/track3.mp3'
 track2_link: 'https://soundcloud.com/santerecordz/quatre_sept'
 guestPic: guestPic406.jpg
 guest_color: trippy
@@ -30,9 +30,9 @@ track7_color: dreamy
 episode_URL: 'http://mailta.pe/406/iñigo-montoya/'
 image: 'https://mailta.pe/img/fbPic406.png'
 musiColor: musiColor406.png
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/406/track1.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/406/track4.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/406/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/406/track1.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/406/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/406/track7.mp3'
 description: >-
   This morning, we're everyday superheroes. We're trying to get back to a more
   "normal" life, little by little. Resume good habits by protecting yourself and

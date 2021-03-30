@@ -11,7 +11,7 @@ guest_color: vibrant
 track1_link: 'https://soundcloud.com/besh0_0/mahraba-maleem-mahmoud-ghania-with-pharoah-sanders'
 track1_title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
 track1_color: bliss
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/271/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track2.mp3'
 track2_title: Sun Ra - Sleeping Beauty
 track2_color: dreamy
 track3_link: 'https://soundcloud.com/ofob-jazzhead/johnny-dyani-witchdoctors-son-magwaza'
@@ -20,7 +20,7 @@ track3_color: trippy
 track4_link: 'https://soundcloud.com/emanative/ominous-shanti'
 track4_title: Emanative - Ominous Shanti
 track4_color: vibrant
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/271/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track5.mp3'
 track5_title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 track5_color: bliss
 track6_link: 'https://soundcloud.com/naimrecs/yazz-ahmed-jamil-jamal'

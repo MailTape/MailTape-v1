@@ -27,16 +27,16 @@ track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
 guestPic: guestPic363.jpg
 track1_color: dreamy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/Track1.mp3'
 musiColor: musiColor363.png
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/Track5.mp3'
 description: This morning, we take out the guitars, adjust our strings test the sound with
   the amp in boring neighbors...  And let our fingers slide so that we can wake
   up our faithful on Sunday morning. New-wave and post punk for your
   awakening?  And why not ... Entracte Twist" strays off the beaten track to
   offer us a selection worthy of the name.
 guest_color: rough
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/363/Track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/Track7.mp3'
 image: fbPic363.png
 ---
 <p id="introduction"> This morning, we take out the guitars, adjust our strings test the sound with the amp in boring neighbors...  And let our fingers slide so that we can wake up our faithful on Sunday morning.

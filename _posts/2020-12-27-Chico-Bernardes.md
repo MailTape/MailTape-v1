@@ -11,19 +11,19 @@ guest_color: bliss
 track3_title: Maria Bethânia – Olhe o Tempo Passando
 track2_title: Molly Drake – I Remember
 track1_title: Harry Nilsson – Miss Butter's Lament
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/431/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/431/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/431/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track3.mp3'
 track1_color: vibrant
 track2_color: dreamy
 track3_color: bliss
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/431/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track4.mp3'
 track4_title: Chico Bernardes - Em Meu Lugar
 track4_color: dreamy
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/431/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track5.mp3'
 track5_color: bliss
 track5_title: Elan Noon - Modern Blues
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/431/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track7.mp3'
 track7_title: Gábor Szabó - San Franciscan Nights
 track7_color: vibrant
 track6_color: dreamy
@@ -32,7 +32,7 @@ musiColor: musiColor431.png
 episode_URL: 'http://mailta.pe/431/Chico-Bernardes/'
 guestPic: guestPic431.jpg
 track6_title: Piry Reis - Chão Vermelho
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/431/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/431/track6.mp3'
 description: >-
   The last Sunday morning of 2020 has arrived, and so does our last MailTape
   episode of this year. For our reflections and sighs that accompany leaving

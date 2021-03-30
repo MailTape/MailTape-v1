@@ -9,7 +9,7 @@ category: '284'
 guest_name: Cassie Kinoshi
 guest_color: dreamy
 track1_link: 'https://soundcloud.com/kirankai/snug'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/284/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track2.mp3'
 track3_link: 'https://soundcloud.com/oscarjerome/oscar-jerome-you-take-me'
 track4_link: 'https://soundcloud.com/cassie-kinoshi/the-dream-keeper'
 track5_link: 'https://soundcloud.com/convivomusic/invisible-dedicated-to-trayvon'

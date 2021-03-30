@@ -25,11 +25,11 @@ track7_title: Anarchist Mountains – Lift
 track7_color: dreamy
 episode_URL: 'https://mailta.pe/408/michal-turtle/'
 guestPic: guestPic408.jpg
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/408/track2.mp3'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/408/track3.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/408/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track4.mp3'
 track5_link: 'https://soundcloud.com/youngbloods/wash'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/408/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track6.mp3'
 track7_link: 'https://soundcloud.com/brokenfragments/anarchist-mountains-lift'
 description: >-
   This morning we welcome Michal Turtle to select some Sunday morning tunes with

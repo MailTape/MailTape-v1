@@ -9,7 +9,7 @@ category: '344'
 guest_name: Tomemitsu
 guest_color: dreamy
 track2_link: 'https://soundcloud.com/igetrvng/harald-grosskopf-synthesist'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%203.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%203.mp3'
 track4_link: 'https://soundcloud.com/tomemitsu/i-shatter-the-magnetic-fields'
 track4_color: dreamy
 track3_color: bliss
@@ -28,8 +28,8 @@ track3_title: João Gilberto - Chega de Saudade
 track2_color: trippy
 track2_title: Harald Grosskopf - Synthesist
 track1_title: Sam Cooke and The Soul Stirrers - Christ it All
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%201.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/344/Track%205.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%201.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/344/Track%205.mp3'
 guestPic: guestPic344.jpg
 image: https://mailta.pe/img/fbPic344.png
 description: >-

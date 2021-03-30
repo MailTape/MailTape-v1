@@ -8,11 +8,11 @@ writer: Sanjay Mistry
 category: '390'
 guest_name: The Gentleman Losers
 guest_color: dreamy
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/390/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track1.mp3'
 track2_link: 'https://soundcloud.com/user-567427457/fall-apart'
 track3_link: 'https://soundcloud.com/el-perro-del-mar/change-of-heart'
 track4_link: 'https://soundcloud.com/the-gentleman-losers/always-crashing-on-the-same-wave'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/390/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track5.mp3'
 track6_link: 'https://soundcloud.com/stolenbodyrecords/04-quagmire-moon'
 track7_link: 'https://soundcloud.com/jahtari_records/waqwaq-kingdom-koko-says'
 track1_title: Amanda Bergman – Questions

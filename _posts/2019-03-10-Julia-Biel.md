@@ -23,10 +23,10 @@ track6_color: dreamy
 track7_title: Keyvan Chemirani & Pandit Anindo Chatterjee – Bhairavi
 track7_color: bliss
 episode_URL: 'http://mailta.pe/348/julia-biel/'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/348/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/348/track2.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/348/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/348/track5.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track5.mp3'
 track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgiving-war-1'
 track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
 track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'

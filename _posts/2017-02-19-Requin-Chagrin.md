@@ -8,7 +8,7 @@ guest_name: Requin Chagrin
 guest_color: vibrant
 track2_link: 'https://soundcloud.com/kommode/patient'
 track3_link: 'https://soundcloud.com/kranky/mj-guider-lit-negative'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/248/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/248/track4.mp3'
 track7_link: 'https://soundcloud.com/vundabar/darla'
 track1_title: Barbagallo - Nouveau Sidobre
 track1_color: bliss

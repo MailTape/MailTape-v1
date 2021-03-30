@@ -23,14 +23,14 @@ category: '425'
 guest_name: Sabrina Bellaouel
 guest_color: vibrant
 episode_URL: 'https://www.mailta.pe/425/sabrina-bellaouel/'
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/425/track1.mp3'
-track2_link: 'https://mailtapesounds.s3.amazonaws.com/425/track2.mp3'
-track4_link: 'https://mailtapesounds.s3.amazonaws.com/425/track4.mp3'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/425/track5.mp3'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/425/track6.mp3'
-track7_link: 'https://mailtapesounds.s3.amazonaws.com/425/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track7.mp3'
 musiColor: musiColo425.png
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/425/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/425/track3.mp3'
 guestPic: guestPic425.jpg
 image: 'https://mailta.pe/img/fbPic425.png'
 description: >-

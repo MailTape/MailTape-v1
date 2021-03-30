@@ -16,7 +16,7 @@ track3_title: Ásgeir - Trust
 track3_color: dreamy
 author: Sarah
 writer: Sarah
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/415/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track3.mp3'
 track4_link: 'https://soundcloud.com/minitreesband/honestly'
 track6_color: dreamy
 track6_title: Feng Suave - Maybe Another Time

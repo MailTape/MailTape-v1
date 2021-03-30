@@ -12,7 +12,7 @@ track1_link: 'https://soundcloud.com/kranky/dedekind-cut-tahoe'
 track2_link: 'https://soundcloud.com/fatcatrecords/shida-shahabi-abisme'
 track3_link: 'https://soundcloud.com/ancient-colours/field-and-woodland-strewn-the'
 track4_link: 'https://soundcloud.com/glockenspiel-music/the-endless-road-1'
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/342/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/342/track5.mp3'
 track7_link: 'https://soundcloud.com/musicofmaisha/welcome-to-a-new-welcome'
 track1_title: Dedekind Cut – Tahoe
 track1_color: dreamy
@@ -29,7 +29,7 @@ track6_color: dreamy
 track7_title: Maisha – Welcome To A New Welcome
 track7_color: trippy
 episode_URL: 'http://mailta.pe/342/glockenspiel/'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/342/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/342/track6.mp3'
 guestPic: guestPic342.jpg
 image: https://mailta.pe/img/fbPic342.jpg
 musiColor: musiColor342.png

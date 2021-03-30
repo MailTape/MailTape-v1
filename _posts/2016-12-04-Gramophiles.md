@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://soundcloud.com/stoopkidsofficial/velvet-slide-ft-jo'
 track2_link: 'https://soundcloud.com/soundway-records/izem-agua-viva'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/237/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/237/track3.mp3'
 track4_link: 'https://soundcloud.com/gramophiles/tamborito-gramophiles-edit-4'
 author: Maxime
 writer: Maxime
@@ -20,7 +20,7 @@ track4_color: vibrant
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track5_link: 'https://mailtapesounds.s3.amazonaws.com/237/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/237/track5.mp3'
 track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
 track5_color: rough
 track6_color: trippy

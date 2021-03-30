@@ -7,9 +7,9 @@ illustrator: Camille Célestin
 writer: PS KY
 category: '260'
 guest_name: Ménage à Trois
-track1_link: 'https://mailtapesounds.s3.amazonaws.com/260/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/260/track1.mp3'
 track2_link: 'https://soundcloud.com/june/lost-area-dj-sprinkles-empty'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/260/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/260/track3.mp3'
 track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 track3_title: Dream Lovers - For Belgian Friends
 track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)

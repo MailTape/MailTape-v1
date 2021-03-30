@@ -7,10 +7,10 @@ category: '285'
 guest_name: Federico Durand
 track1_link: 'https://soundcloud.com/naturebliss/meil-aiaaarne-tanavas'
 track2_link: 'https://soundcloud.com/room40/chihei-hatakeyama-starlight'
-track3_link: 'https://mailtapesounds.s3.amazonaws.com/285/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track3.mp3'
 track4_link: 'https://soundcloud.com/federicodurand/sin-titulo'
 track5_link: 'https://soundcloud.com/chapelierfou/muance-oracle'
-track6_link: 'https://mailtapesounds.s3.amazonaws.com/285/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track5.mp3'
 track7_link: 'https://soundcloud.com/ghostly/geotic-sunspell-1'
 guestPic: guestPic285b.jpg
 track1_color: bliss
