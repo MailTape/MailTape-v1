@@ -11,9 +11,9 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track2.mp3'
 track3_link: 'https://soundcloud.com/vagelisvgls/lena-platonos-markos'
 track1_link: 'https://soundcloud.com/anikainvada/i-go-to-sleep'
 track4_link: 'https://soundcloud.com/mansfield-tya/une-danse-de-mauvais-gout-feat'
-track6_link: 'https://soundcloud.com/olaszmidt/ola-szmidt-c-tacile-afferent-master'
-track5_link: 'https://soundcloud.com/orange-twin-records/sibylle-baier-tonight-1'
-track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
+track5_link: 'https://soundcloud.com/olaszmidt/ola-szmidt-c-tacile-afferent-master'
+track7_link: 'https://soundcloud.com/tygapaw/in-their-fear-they-plotted-1'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
 ---
 <p id="introduction">ddd</p>
 
