@@ -7,6 +7,13 @@ illustrator: Meriam Kharbat
 writer: PS KY
 category: '445'
 guest_name: Mansfield.TYA
+track2_link: 'https://soundcloud.com/erykah-she-ill-badu/e-badu-i-been-goin-thru-it-all-420-mix'
+track3_link: 'https://soundcloud.com/vagelisvgls/lena-platonos-markos'
+track1_link: 'https://soundcloud.com/anikainvada/i-go-to-sleep'
+track4_link: 'https://soundcloud.com/mansfield-tya/une-danse-de-mauvais-gout-feat'
+track6_link: 'https://soundcloud.com/olaszmidt/ola-szmidt-c-tacile-afferent-master'
+track5_link: 'https://soundcloud.com/orange-twin-records/sibylle-baier-tonight-1'
+track7_link: 'https://soundcloud.com/hollyherndon/frontier'
 ---
 <p id="introduction">ddd</p>
 
