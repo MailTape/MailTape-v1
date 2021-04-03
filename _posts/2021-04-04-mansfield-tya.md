@@ -30,6 +30,9 @@ track5_color: dreamy
 track6_color: trippy
 track7_color: rough
 guestPic: guestPic445.jpg
+image: 'https://mailta.pe/img/fbPic445.png'
+musiColor: musiColor445.png
+episode_URL: 'https://mailta.pe/445/MansfieldTYA/'
 ---
 <p id="introduction">ddd</p>
 
