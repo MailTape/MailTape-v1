@@ -63,16 +63,16 @@ Like many women she is not recognized at her true value.**"**
 
 # MailTape's selection
 
-## Mansfield.TYA - Une Danse de Mauvais Goût (feat. Odezenne)
+## [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) - Une Danse de Mauvais Goût (feat. Odezenne)
 ImaCrea: **"**vvv**"**
 
-## Ola Szmidt - C Tactile Afferent
+## [Ola Szmidt](https://olaszmidt.bandcamp.com/track/c-tactile-afferent) - C Tactile Afferent
 ImaCrea: **"**vvv"**"**
 
-## Holly Herndon - Frontier
+## [Holly Herndon](https://hollyherndon.bandcamp.com/album/proto) - Frontier
 ImaCrea: **"**vvv**"**
 
-## TYGAPAW - In Their Fear They Plotted Her Destruction 
+## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
 ImaCrea: **"**vvv**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their fantastic Sunday selections and to xxx for this episode's xxxx illustration :)</p>
