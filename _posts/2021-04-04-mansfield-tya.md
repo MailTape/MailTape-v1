@@ -68,13 +68,13 @@ Like many women she is not recognized at her true value.**"**
 # MailTape's selection
 
 ## [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) - Une Danse de Mauvais Goût (feat. Odezenne)
-ImaCrea: **"**vvv**"**
+ImaCrea: **"**The more I listen to their album *Monument Ordinaire* released lastly, the more I get addicted to it. It came progressively, wasn't an "instant crush" I'd say but now it's going to be one my favorites of the year. Lyrics are well written and feels like a new wave in the french music scene. A breath of reinvigorating air, poetry that make you wanna live fully. In our trouble times this is a true sign of courageousness only great art warriors are capable of.**"**
 
 ## [Ola Szmidt](https://olaszmidt.bandcamp.com/track/c-tactile-afferent) - C Tactile Afferent
-ImaCrea: **"**vvv"**"**
+ImaCrea: **"**As hope should be cultivated like our most precious flowers, this meditative track by Ola Smizdt builds the perfect warm and caring atmosphere we all preciously need to keep staying in the light with our loved ones."**"**
 
 ## [Holly Herndon](https://hollyherndon.bandcamp.com/album/proto) - Frontier
-ImaCrea: **"**vvv**"**
+ImaCrea: **"****"**
 
 ## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
 ImaCrea: **"**vvv**"**
