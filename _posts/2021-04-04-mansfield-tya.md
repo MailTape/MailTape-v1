@@ -14,6 +14,13 @@ track4_link: 'https://soundcloud.com/mansfield-tya/une-danse-de-mauvais-gout-fea
 track5_link: 'https://soundcloud.com/olaszmidt/ola-szmidt-c-tacile-afferent-master'
 track7_link: 'https://soundcloud.com/tygapaw/in-their-fear-they-plotted-1'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
+track1_title: Anika - I Go To Sleep
+track2_title: Erykah Badu - I Been Going Thru It All
+track3_title: Lenas Platos - Markos
+track4_title: Mansfield.TYA - Une Danse de Mauvais Goût (feat. Odezenne)
+track5_title: Ola Szmidt - C Tactile Afferent
+track6_title: Holly Herndon - Frontier
+track7_title: TYGAPAW - In Their Fear They Plotted Her Destruction
 ---
 <p id="introduction">ddd</p>
 
