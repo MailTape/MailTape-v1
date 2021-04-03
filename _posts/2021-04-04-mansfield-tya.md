@@ -21,6 +21,14 @@ track4_title: Mansfield.TYA - Une Danse de Mauvais Goût (feat. Odezenne)
 track5_title: Ola Szmidt - C Tactile Afferent
 track6_title: Holly Herndon - Frontier
 track7_title: TYGAPAW - In Their Fear They Plotted Her Destruction
+guest_color: bliss
+track1_color: trippy
+track2_color: trippy
+track3_color: bliss
+track4_color: bliss
+track5_color: dreamy
+track6_color: trippy
+track7_color: rough
 ---
 <p id="introduction">ddd</p>
 
