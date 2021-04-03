@@ -74,9 +74,9 @@ ImaCrea: **"**The more I listen to their album *Monument Ordinaire* released las
 ImaCrea: **"**As hope should be cultivated like our most precious flowers, this meditative track by Ola Smizdt builds the perfect warm and caring atmosphere we all preciously need to keep staying in the light with our loved ones."**"**
 
 ## [Holly Herndon](https://hollyherndon.bandcamp.com/album/proto) - Frontier
-ImaCrea: **"****"**
+ImaCrea: **"**Holly Herndon is known for experimenting with music borders. Using artificial intelligence to craft generated voices and playing with instruments or her own making, she demonstrates in her latest album *Proto*, and particularly in this track, her ability in shaping powerful mental landscapes. This one inspires me the soundtrack of a desirable future where technology has finally found its place in a utopian realm governed by nature. Big thank's to Miro for the discovery.**"**
 
 ## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
-ImaCrea: **"**vvv**"**
+ImaCrea: **"**Back to earth, back to Detroit. Crisis after crisis, we won't fall into their trap. We should not feel guilty for their mistakes. Love is the only way, we know it. There's no doubt. Dance, dance, dance, no matter what.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their trippy Sunday selections and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her hazy punchy illustration :)</p>
