@@ -33,6 +33,12 @@ guestPic: guestPic445.jpg
 image: 'https://mailta.pe/img/fbPic445.png'
 musiColor: musiColor445.png
 episode_URL: 'https://mailta.pe/445/Mansfield-TYA/'
+description: >-
+  This morning, we welcome Mansfield.TYA, a surprisingly raw music duo from
+  Nantes. Their music will both illuminate and sometimes somber your journey.
+  With their sensitive and sensible songs composed of accessible yet very dense
+  lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic
+  sounds.
 ---
 <p id="introduction">This morning, we welcome [Mansfield.TYA](https://mansfieldtya.bandcamp.com/), a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.</p>
 
@@ -91,4 +97,6 @@ ImaCrea: **"**Holly Herndon is known for experimenting with music borders. Using
 ## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
 ImaCrea: **"**Back to earth, back to Detroit. Tygapaw delivers here the right punch we might need to remember a simple truth. Love is the only way. There's no doubt. Dance, dance, dance, no matter what.**"**
 
-<p id="outroduction">That's all for this morning! Thank you so much for being with us. It's already been a year of lockdowns, covid, and distancing. A vaccine won't save us all. For that we'll need more than a bit of chemistry and biology. We'll need hope, courage, and love. You can count on us to be here with you every Sunday morning. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their trippy Sunday selections and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her hazy punchy illustration :)</p>
+<p id="outroduction">That's all for this morning! Thank you so much for being with us. It's already been a year of lockdowns, covid, and distancing. A vaccine won't save us all. For that we'll need more than a bit of chemistry and biology. We'll need hope, courage, and love. You can count on us to be here with you every Sunday morning.
+  
+<br><br>So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their trippy Sunday selections and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her hazy punchy illustration :)</p>
