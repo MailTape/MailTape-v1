@@ -79,4 +79,4 @@ ImaCrea: **"**vvv**"**
 ## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
 ImaCrea: **"**vvv**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their fantastic Sunday selections and to xxx for this episode's xxxx illustration :)</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their trippy Sunday selections and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her hazy punchy illustration :)</p>
