@@ -34,9 +34,7 @@ image: 'https://mailta.pe/img/fbPic445.png'
 musiColor: musiColor445.png
 episode_URL: 'https://mailta.pe/445/Mansfield-TYA/'
 ---
-<p id="introduction">This morning, we welcome Mansfield.TYA
-<br><br>
-Mansfield.TYA is a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.</p>
+<p id="introduction">This morning, we welcome [Mansfield.TYA](https://mansfieldtya.bandcamp.com/), a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.</p>
 
 You never left. You? You were always present. Somewhere around, or down below, behind the window, elbow on the counter, underneath the covers, in the mist of the plaid.
 
