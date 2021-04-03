@@ -34,7 +34,19 @@ image: 'https://mailta.pe/img/fbPic445.png'
 musiColor: musiColor445.png
 episode_URL: 'https://mailta.pe/445/Mansfield-TYA/'
 ---
-<p id="introduction">ddd</p>
+<p id="introduction">This morning, we welcome Mansfield.TYA
+<br><br>
+Mansfield.TYA is a surprisingly raw music duo from Nantes. Their music will both illuminate and sometimes somber your journey. With their sensitive and sensible songs composed of accessible yet very dense lyrics, Mansfield.TYA will take you on a poetic journey bathed in electronic sounds.</p>
+
+You never left. You? You were always present. Somewhere around, or down below, behind the window, elbow on the counter, underneath the covers, in the mist of the plaid.
+
+You never failed. No, you? You always tried something, something else, something new, something dark or even something blurry. You never let yourself down, you always rose, somehow, somewhere.
+
+And these days, I watch you. And each day, you wake, you move, you go, you try, endlessly, fearlessly.
+
+In these difficult times, as our faces are masked and our hopes gently jostled, today’s selection brings rays of consolation, magnifying our states and pacifying our moods.
+
+Yet, we must not try so hard it seems. As existing seems a challenge, acceptance seems keys. Acceptance of the inevitable. Of our paths. Of our states. Today’s selection probably won’t make you forget the uneasy feelings currently inhabiting all of us, but maybe, just as it did for me, it will move you, shifting some elements, to continue on this troubled and gruesome path we call life. 
 
 # Mansfield.TYA's selection
 
