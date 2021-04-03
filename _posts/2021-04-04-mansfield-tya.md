@@ -34,7 +34,7 @@ track7_color: rough
 
 # Mansfield.TYA's selection
 
-## [Anika](https://anika.bandcamp.com/album/anika) - I go to sleep
+## [Anika](https://anika.bandcamp.com/album/anika) - I Go To Sleep
 Mansfield.TYA: **"**Also sung by The pretenders, and originally written and composed by Ray Davies for the Kinks, I like the versatility of this song.
 And particularly the version of Anika.
 With her beautiful deep voice that reminds Nico, and recorded with Beak, only that.
@@ -48,7 +48,7 @@ For her dark and intimate side too.
 To be imaginative.
 It seems precious to me at the moment.**"**
 
-## [Erykah Badu](https://en.wikipedia.org/wiki/Erykah_Badu) - I been going thru it all
+## [Erykah Badu](https://en.wikipedia.org/wiki/Erykah_Badu) - I Been Going Thru It All
 Mansfield.TYA: **"**I am totally stupid with this track.
 It's Odezenne who play it at parties and when I hear it I want to bang my head into a concrete wall.
 I love Erykah Badu Beyond, but I must admit that I was stunned to hear her mixing with Trap.
