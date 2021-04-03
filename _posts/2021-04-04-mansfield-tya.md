@@ -77,6 +77,6 @@ ImaCrea: **"**As hope should be cultivated like our most precious flowers, this 
 ImaCrea: **"**Holly Herndon is known for experimenting with music borders. Using artificial intelligence to craft generated voices and playing with instruments or her own making, she demonstrates in her latest album *Proto*, and particularly in this track, her ability in shaping powerful mental landscapes. This one inspires me the soundtrack of a desirable future where technology has finally found its place in a utopian realm governed by nature. Big thank's to Miro for the discovery.**"**
 
 ## [TYGAPAW](https://tygapaw.bandcamp.com/) - In Their Fear They Plotted Her Destruction 
-ImaCrea: **"**Back to earth, back to Detroit. Crisis after crisis, we won't fall into their trap. We should not feel guilty for their mistakes. Love is the only way, we know it. There's no doubt. Dance, dance, dance, no matter what.**"**
+ImaCrea: **"**Back to earth, back to Detroit. Love is the only way, we know it. There's no doubt. Dance, dance, dance, no matter what. Do what you have to do, you're beautiful and we need you.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Mansfield.TYA](https://mansfieldtya.bandcamp.com/) for their trippy Sunday selections and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for her hazy punchy illustration :)</p>
