@@ -32,7 +32,7 @@ track7_color: rough
 guestPic: guestPic445.jpg
 image: 'https://mailta.pe/img/fbPic445.png'
 musiColor: musiColor445.png
-episode_URL: 'https://mailta.pe/445/MansfieldTYA/'
+episode_URL: 'https://mailta.pe/445/Mansfield-TYA/'
 ---
 <p id="introduction">ddd</p>
 
