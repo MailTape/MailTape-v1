@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '447'
+guest_name: Curved Light
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track1.mp3'
 ---
 
 <p id="introduction">
