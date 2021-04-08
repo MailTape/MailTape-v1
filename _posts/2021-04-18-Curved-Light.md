@@ -8,6 +8,11 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track1.mp3'
 track1_title: Alice Coltrane - Hare Krishna
 track2_link: 'https://soundcloud.com/vhphan/ride-on-time-single-version'
 track2_title: Tatsuro Yamashita - Ride On Time
+track3_link: 'https://soundcloud.com/user5684243/robin-guthrie-and-harold-budd-snowfall'
+track3_title: Robin Guthrie & Harold Budd - Snowfall
+track3_color: dreamy
+track2_color: vibrant
+track1_color: bliss
 ---
 
 <p id="introduction">
