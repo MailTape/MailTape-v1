@@ -5,6 +5,7 @@ published: false
 category: '447'
 guest_name: Curved Light
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track1.mp3'
+track1_title: Alice Coltrane - Hare Krishna
 ---
 
 <p id="introduction">
