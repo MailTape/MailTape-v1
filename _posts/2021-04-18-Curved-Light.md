@@ -20,11 +20,13 @@ track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
 track5_link: 'https://soundcloud.com/dawnchorusandtheinfalliblesea/liberamente'
-track5_title: Dawn Chorus and the Infallible Sea - Liberamente
+track5_title: 36 & awakened souls - Take Me By The Hand
 ---
 
 <p id="introduction">
-  This morning, we embrace the abstract in the ambient. 
+  This morning, we embrace the abstract in the ambient. The tracks in the following playlist reach for some kind of emptiness within us, offering a sense of peace as an olive branch. let the tightly folded laundry of your thoughts unravel, let them wave in the wind of these synthesizers. 
+  peace can be so elusive, sometimes we forget it is a goal. 
+  this sunday morning, we encourage you to breathe in and breathe out, to listen 
   delighted to welcome [Thijsenterprise](https://thijsenterprise.bandcamp.com/) to MailTape for a Sunday selection that explores non-traditional structures in music, each inspiring to Thijsenterprise in his life and projects.<br><br> 
   [Thijsenterprise](https://thijsenterprise.bandcamp.com/) is Dutch saxophonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about the discographies of [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxwledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, punk, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
@@ -47,8 +49,8 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 ## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
 Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
 
-## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
-Sarah: **"**Love this refreshing rendition of Bill Withers' [Ain't No Sunshine](https://www.youtube.com/watch?v=CICIOJqEb5c). Rahsaan Kirk's flute and orchestra brings the track into a different world. It's darker and more ominous than the original in the most enticing way :)**"**
+## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Take Me By The Hand
+Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness). There's such peace iin this album. **"**
 
 ## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
 Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) Organ currents lead and layer over each other, before clashing just as easily in a delightful heap of sound. This whole interaction is textured and grounded against the balance of organic percussion. The whirling wonderland of synths and chimes makes me forget any notion of time, as I imagine it may for you, too. The jazz percussion breaks by the midpoint are just as surprising as the piano takeover that brings us to the track's end.**"**
