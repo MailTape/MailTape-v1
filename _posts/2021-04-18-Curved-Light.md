@@ -19,8 +19,9 @@ track4_color: dreamy
 track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
-track5_link: 'https://soundcloud.com/dawnchorusandtheinfalliblesea/liberamente'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track5.mp3'
 track5_title: 36 & awakened souls - Take Me By The Hand
+guest_color: bliss
 ---
 
 <p id="introduction">
@@ -33,7 +34,7 @@ track5_title: 36 & awakened souls - Take Me By The Hand
 </p>
 
 
-# Thijsenterprise's selection
+# Curved Light's selection
 
 ## [Alice Coltrane](https://tomze.bandcamp.com/) – Hare Krishna (Universal Consciousness, 1971)
 Curved Light: **"**I love all the complementing textures of this piece. If you only knew that the ensemble for this free jazz record included two simultaneous drummers and a string quartet, you'd never expect to hear a piece so sublime and transcendent, jubilant and ecstatic - a perfect way to rise with the sun.**"**
@@ -49,8 +50,11 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 ## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
 Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
 
-## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Take Me By The Hand
-Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness). There's such peace iin this album. **"**
+## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
+Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness). 
+vocal textures 
+ambient soundscape to embrace
+such peace in this album.**"**
 
 ## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
 Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) Organ currents lead and layer over each other, before clashing just as easily in a delightful heap of sound. This whole interaction is textured and grounded against the balance of organic percussion. The whirling wonderland of synths and chimes makes me forget any notion of time, as I imagine it may for you, too. The jazz percussion breaks by the midpoint are just as surprising as the piano takeover that brings us to the track's end.**"**
