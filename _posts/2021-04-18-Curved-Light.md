@@ -20,7 +20,7 @@ track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track5.mp3'
-track5_title: 36 & awakened souls - Take Me By The Hand
+track5_title: 36 & awakened souls - Past Self
 guest_color: bliss
 ---
 
