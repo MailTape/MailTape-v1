@@ -22,6 +22,7 @@ track7_color: bliss
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track5.mp3'
 track5_title: 36 & awakened souls - Past Self
 guest_color: bliss
+musiColor: musiColor447.png
 ---
 
 <p id="introduction">
@@ -32,7 +33,6 @@ guest_color: bliss
   [Thijsenterprise](https://thijsenterprise.bandcamp.com/) is Dutch saxophonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about the discographies of [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxwledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, punk, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
 </p>
-
 
 # Curved Light's selection
 
