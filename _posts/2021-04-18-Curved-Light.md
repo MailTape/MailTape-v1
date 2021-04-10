@@ -14,6 +14,7 @@ track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
 track4_link: 'https://soundcloud.com/curvedlight/dream-sequence-edit'
+track4_title: Curved Light - Dream Sequence
 ---
 
 <p id="introduction">
