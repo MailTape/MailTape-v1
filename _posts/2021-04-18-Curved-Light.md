@@ -19,6 +19,8 @@ track4_color: dreamy
 track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
+track5_link: 'https://soundcloud.com/dawnchorusandtheinfalliblesea/liberamente'
+track5_title: Dawn Chorus and the Infallible Sea - Liberamente
 ---
 
 <p id="introduction">
