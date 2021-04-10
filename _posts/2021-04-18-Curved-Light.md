@@ -15,6 +15,7 @@ track2_color: vibrant
 track1_color: bliss
 track4_link: 'https://soundcloud.com/curvedlight/dream-sequence-edit'
 track4_title: Curved Light - Dream Sequence
+track4_color: dreamy
 ---
 
 <p id="introduction">
@@ -39,9 +40,7 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 # MailTape's selection
 
 ## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
-Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. 
-
-This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it difficult to choose just one of these tracks, as each release from this album is part of the fingerprint for Reinier's improvisation, and each holds something unique within it. The energy and stability in this percussion and bassline open up the space for saxophone movements to breathe, each spreading out onto the track and turning into the glue giving the bass and percussion purpose. This kind of openness in the track also affords Reinier the opportunity to take risks in where he leads the track. The improvisations deliver these explorations, as they are entirely unpredictable, and Reinier glides from riff to riff so seamlessly.**"**
+Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
 
 ## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
 Sarah: **"**Love this refreshing rendition of Bill Withers' [Ain't No Sunshine](https://www.youtube.com/watch?v=CICIOJqEb5c). Rahsaan Kirk's flute and orchestra brings the track into a different world. It's darker and more ominous than the original in the most enticing way :)**"**
