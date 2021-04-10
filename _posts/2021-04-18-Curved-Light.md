@@ -13,10 +13,12 @@ track3_title: Robin Guthrie & Harold Budd - Snowfall
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
+track4_link: 'https://soundcloud.com/curvedlight/dream-sequence-edit'
 ---
 
 <p id="introduction">
-  This morning, we are delighted to welcome [Thijsenterprise](https://thijsenterprise.bandcamp.com/) to MailTape for a Sunday selection that explores non-traditional structures in music, each inspiring to Thijsenterprise in his life and projects.<br><br> 
+  This morning, we embrace the abstract in the ambient. 
+  delighted to welcome [Thijsenterprise](https://thijsenterprise.bandcamp.com/) to MailTape for a Sunday selection that explores non-traditional structures in music, each inspiring to Thijsenterprise in his life and projects.<br><br> 
   [Thijsenterprise](https://thijsenterprise.bandcamp.com/) is Dutch saxophonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about the discographies of [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxwledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
   It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, punk, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
 </p>
@@ -36,7 +38,9 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 # MailTape's selection
 
 ## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
-Sarah: **"**This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it difficult to choose just one of these tracks, as each release from this album is part of the fingerprint for Reinier's improvisation, and each holds something unique within it. The energy and stability in this percussion and bassline open up the space for saxophone movements to breathe, each spreading out onto the track and turning into the glue giving the bass and percussion purpose. This kind of openness in the track also affords Reinier the opportunity to take risks in where he leads the track. The improvisations deliver these explorations, as they are entirely unpredictable, and Reinier glides from riff to riff so seamlessly.**"**
+Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. 
+
+This track comes off of Thijsenterprise's latest album release, [Lahringen](https://thijsenterprise.bandcamp.com/album/lahringen). I found it difficult to choose just one of these tracks, as each release from this album is part of the fingerprint for Reinier's improvisation, and each holds something unique within it. The energy and stability in this percussion and bassline open up the space for saxophone movements to breathe, each spreading out onto the track and turning into the glue giving the bass and percussion purpose. This kind of openness in the track also affords Reinier the opportunity to take risks in where he leads the track. The improvisations deliver these explorations, as they are entirely unpredictable, and Reinier glides from riff to riff so seamlessly.**"**
 
 ## [Rahsaan Roland Kirk](https://artsfuse.org/208908/jazz-appreciation-rahsaan-roland-kirk-a-musical-force-field/) – Ain't No Sunshine
 Sarah: **"**Love this refreshing rendition of Bill Withers' [Ain't No Sunshine](https://www.youtube.com/watch?v=CICIOJqEb5c). Rahsaan Kirk's flute and orchestra brings the track into a different world. It's darker and more ominous than the original in the most enticing way :)**"**
