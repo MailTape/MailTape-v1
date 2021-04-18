@@ -47,8 +47,8 @@ Curved Light: **"**Clearly, the popularity of this song, and city pop as a whole
 
 ## [Robin Guthrie](https://www.facebook.com/Jameszoomitchel/), Harold Budd – Flake
 Curved Light: **"**This one is probably a better pick for a dreary Sunday morning, or after a late Saturday night. Its slow-moving current and masterful restraint lends itself to moody introspection, as expected of these brilliant artists - I could just listen to this one over and over.**"**
+![guestPic447.jpg]({{site.baseurl}}/img/guestPic447.jpg)
 
-![fbPic447.png]({{site.baseurl}}/img/fbPic447.png)
 
 
 # MailTape's selection
