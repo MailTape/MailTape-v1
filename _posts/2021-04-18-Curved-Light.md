@@ -45,7 +45,7 @@ writer: Sarah
 <p id="introduction">
   This morning, we embrace the abstract in the ambient: the otherworldly and the primal. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these melodies. This Sunday morning, peace is no longer quite so elusive, it exhales in these rhythms before us. 
    <br><br>
-  The pleasure is ours to welcome [Curved Light](https://curvedlight.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
+  The pleasure is ours to welcome [Curved Light](https://curvedlight.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Austin, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
 </p>
 
 # Curved Light's selection
