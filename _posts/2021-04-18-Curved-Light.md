@@ -35,7 +35,7 @@ description: >-
   primal. The tracks in the following playlist reach for any lingering emptiness
   sitting within us, offering a moment of calm and exhale. Press play and let
   your thoughts unravel like folded laundry, let them breathe and wave in the
-  wind of these synthesizers. This Sunday morning, peace is no longer quite so
+  wind of these melodies. This Sunday morning, peace is no longer quite so
   elusive, it breathes in these rhythms before us. 
 author: Sarah
 illustrator: Camille Célestin
