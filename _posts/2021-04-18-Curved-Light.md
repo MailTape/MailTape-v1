@@ -31,16 +31,19 @@ track6_title: Mytron & Ofofo - Lebanese Red Bird
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track7.mp3'
 track7_title: YOM - Celebration
 description: >-
-  This morning, we embrace the abstract in the ambient: the other-wordly, the
-  primal. The tracks in the following playlist reach for the lingering emptiness
-  that can take seat within us, offering a moment of calm and exhale. Press play
-  and let your thoughts unravel like folded laundry, let them breathe and wave
-  in the wind of these synthesizers. This Sunday morning, peace is no longer
-  quite so elusive, it breathes in these rhythms before us.
+  This morning, we embrace the abstract in the ambient: the otherworldly and the
+  primal. The tracks in the following playlist reach for any lingering emptiness
+  sitting within us, offering a moment of calm and exhale. Press play and let
+  your thoughts unravel like folded laundry, let them breathe and wave in the
+  wind of these synthesizers. This Sunday morning, peace is no longer quite so
+  elusive, it breathes in these rhythms before us. 
+author: Sarah
+illustrator: Camille Célestin
+writer: Sarah
 ---
 
 <p id="introduction">
-  This morning, we embrace the abstract in the ambient: the other-wordly, the primal. The tracks in the following playlist reach for the lingering emptiness that can sit within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
+  This morning, we embrace the abstract in the ambient: the other-wordly and the primal. The tracks in the following playlist reach for any lingering emptiness sitting within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
    <br><br>
   The pleasure is ours to welcome [Curved Light](https://curvedlight.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
 </p>
