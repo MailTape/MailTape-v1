@@ -50,7 +50,7 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 
 # MailTape's selection
 
-## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
+## [Curved Light](https://thijsenterprise.bandcamp.com/) – One Moment In The Sun
 Sarah: **"**Expansive and yet minimal, this track brings Curved Light the most peace from all of his discography. 
 Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
 
