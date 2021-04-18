@@ -30,10 +30,17 @@ track6_link: 'https://soundcloud.com/multiculti/mytron-ofofo-lebanese-red-bird-m
 track6_title: Mytron & Ofofo - Lebanese Red Bird
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track7.mp3'
 track7_title: YOM - Celebration
+description: >-
+  This morning, we embrace the abstract in the ambient: the other-wordly, the
+  primal. The tracks in the following playlist reach for the lingering emptiness
+  that can take seat within us, offering a moment of calm and exhale. Press play
+  and let your thoughts unravel like folded laundry, let them breathe and wave
+  in the wind of these synthesizers. This Sunday morning, peace is no longer
+  quite so elusive, it breathes in these rhythms before us.
 ---
 
 <p id="introduction">
-  This morning, we embrace the abstract in the ambient: the other-wordly, the primal. The tracks in the following playlist reach for the lingering emptiness that can take seat within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
+  This morning, we embrace the abstract in the ambient: the other-wordly, the primal. The tracks in the following playlist reach for the lingering emptiness that can sit within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
    <br><br>
   The pleasure is ours to welcome [Curved Light](https://curvedlight.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
 </p>
@@ -58,7 +65,7 @@ Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of p
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness), this track's vocal texturing reaches into celestial expressions. Love the embrace of this ambient soundscape. Such subtle calm in this one, as well as the whole album.**"**
 
 ## [Mytron & Ofofo](https://multiculti.bandcamp.com/album/ceremony) – Red Bird
-Sarah: **"**Off of Myton & Ofofo's 2018 [Ceremony](https://multiculti.bandcamp.com/album/ceremony) album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
+Sarah: **"**Off of Myton & Ofofo's 2018 [Ceremony](https://multiculti.bandcamp.com/album/ceremony) album, this track never fails to groooove. Love the pairing of these tribal percussions with the bouncing synths. Mytron & Ofofo cultivate such an engaging meld of psychedelic and club beats, you might put this one on repeat :)**"**
 
 ## [YOM](https://komosrecords.bandcamp.com/album/celebration)– Celebration
 Sarah: **"**This track comes off Paris-based YOM's newly released album, [Celebration](https://komosrecords.bandcamp.com/album/celebration). Full of classical and jazz reflections, YOM pushes tracks into spiritual planes. Love the spiraling melodies in this track. Magical :)**"**
