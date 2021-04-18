@@ -28,12 +28,8 @@ episode_URL: 'http://mailta.pe/447/Curved-Light/'
 guestPic: guestPic447.jpg
 track6_link: 'https://soundcloud.com/multiculti/mytron-ofofo-lebanese-red-bird-mc040'
 track6_title: Mytron & Ofofo - Lebanese Red Bird
-author: ''
-illustrator: ''
-writer: ''
-track7_link: ''
-track7_title: ''
-description: ''
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/447/track7.mp3'
+track7_title: YOM - Celebration
 ---
 
 <p id="introduction">
