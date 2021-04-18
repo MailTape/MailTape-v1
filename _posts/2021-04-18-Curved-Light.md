@@ -29,12 +29,9 @@ guestPic: guestPic447.jpg
 ---
 
 <p id="introduction">
-  This morning, we embrace the abstract in the ambient. The tracks in the following playlist reach for some kind of emptiness within us, offering a sense of peace as an olive branch. let the tightly folded laundry of your thoughts unravel, let them wave in the wind of these synthesizers. 
-  peace can be so elusive, sometimes we forget it is a goal. 
-  this sunday morning, we encourage you to breathe in and breathe out, to listen 
-  delighted to welcome [Thijsenterprise](https://thijsenterprise.bandcamp.com/) to MailTape for a Sunday selection that explores non-traditional structures in music, each inspiring to Thijsenterprise in his life and projects.<br><br> 
-  [Thijsenterprise](https://thijsenterprise.bandcamp.com/) is Dutch saxophonist, beatmaker, and composer Reinier Thijs, currently based in Barcelona. Immersed in the world of jazz and the likes of [Benjamin Herman](https://www.facebook.com/BenjaminHermanOfficial/), [John Coltrane](https://www.johncoltrane.com/), [Xero Slingsby](https://www.leedsinspired.co.uk/blog/who-xero-slingsby), and [Pharoah Sanders](https://pharoahsanders.wordpress.com/), Reinier also is passionate about the discographies of [The Lounge Lizards](https://www.discogs.com/artist/79333-Lounge-Lizards), [Knxwledge](https://knxwledge.bandcamp.com/), [Nate Smith](http://www.natesmithmusic.com/), and [Robert Glasper](https://www.robertglasper.com/). <br><br>
-  It's this range of influence that not only informs the content of Thijsenterprise's music, but also his musical freedom. Pulling inspiration from bossa nova, electronic music, punk, jazz, and hip hop, Reinier does not find himself constrained to any one genre, leaning into tracks of non-conventional form in each of his albums' arenas.
+  This morning, we embrace the abstract in the ambient: the other-wordly, the primal. The tracks in the following playlist reach for the lingering emptiness that can take seat within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
+   <br><br>
+  The pleasure is ours to welcome [Curved Light](https://thijsenterprise.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
 </p>
 
 # Curved Light's selection
