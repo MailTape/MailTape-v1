@@ -42,7 +42,7 @@ Curved Light: **"**I love all the complementing textures of this piece. If you o
 ## [Tatsuro Yamashita](http://www.peterevanstrumpet.com/) – Ride on Time (Ride on Time, 1980)
 Curved Light: **"**Clearly, the popularity of this song, and city pop as a whole, resonates so deeply with our current times. It so earnestly captures a feeling of nostalgia, yet was created as an artificial response to yesterday's pop - and now, we're rediscovering it through algorithms and other newly disseminated forms. Still, there's a reason this song remains relevant - it's a banger and really just gets ya movin'.**"**
 
-## [Robin Guthrie](https://www.facebook.com/Jameszoomitchel/), Harold Budd – Flake
+## [Robin Guthrie](https://www.facebook.com/Jameszoomitchel/), Harold Budd – Snowfall
 Curved Light: **"**This one is probably a better pick for a dreary Sunday morning, or after a late Saturday night. Its slow-moving current and masterful restraint lends itself to moody introspection, as expected of these brilliant artists - I could just listen to this one over and over.**"**
 
 # MailTape's selection
