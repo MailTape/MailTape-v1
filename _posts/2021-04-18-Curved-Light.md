@@ -61,7 +61,7 @@ Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of p
 ## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness), this track's vocal texturing reaches into celestial expressions. Love the embrace of this ambient soundscape. Such subtle calm in this one, as well as the whole album.**"**
 
-## [Mytron & Ofofo](https://trioritaet.bandcamp.com/album/alg0) – Red Bird
+## [Mytron & Ofofo](https://multiculti.bandcamp.com/album/ceremony) – Red Bird
 Sarah: **"**Off of Myton & Ofofo's 2018 Ceremony album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
 
 ## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Fire Dance
