@@ -59,7 +59,7 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 # MailTape's selection
 
 ## [Curved Light](https://curvedlight.bandcamp.com/) – One Moment in the Sun
-Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of peace and healing, especially to [Curved Light](https://curvedlight.bandcamp.com/) themself. Recorded during tumultuous times, the track served as a space for Curved Light to make their own moment of tranquility. The track's evolving arrangements of snyths wash over us like currents of sun rays. The analog synth halfway through must be what plants sound like when they think about growing tall :)**"**
+Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of peace and healing, especially to [Curved Light](https://curvedlight.bandcamp.com/) themself. Recorded during tumultuous times, the track served as a space for Curved Light to craft their own moment of tranquility. The track's evolving arrangements of snyths wash over like currents of sun rays. The analog synth halfway through must be what plants sound like when they think about growing tall :)**"**
 
 ## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness), this track's vocal texturing reaches into celestial expressions. Love the embrace of this ambient soundscape. Such subtle calm in this one, as well as the whole album.**"**
