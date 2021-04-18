@@ -31,7 +31,7 @@ guestPic: guestPic447.jpg
 <p id="introduction">
   This morning, we embrace the abstract in the ambient: the other-wordly, the primal. The tracks in the following playlist reach for the lingering emptiness that can take seat within us, offering a moment of calm and exhale. Press play and let your thoughts unravel like folded laundry, let them breathe and wave in the wind of these synthesizers. This Sunday morning, peace is no longer quite so elusive, it breathes in these rhythms before us. 
    <br><br>
-  The pleasure is ours to welcome [Curved Light](https://thijsenterprise.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
+  The pleasure is ours to welcome [Curved Light](https://curvedlight.bandcamp.com/) to MailTape for a carefully curated selection that strives for introspective, transcendent, and even ethereal forms. Based in Atlanta, Curved Light releases music that border fourth world and psychedelic expressions of electronic and new age music.
 </p>
 
 # Curved Light's selection
@@ -59,4 +59,4 @@ Sarah: **"**So many layers in this one, it feels like a floating dream of synths
 ## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Fire Dance
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, [Dreams](https://lightintheattic.net/releases/6556-dreams) (1968). Such a phenomenal jazz-crossover; the album is a kaleidoscope of sound: Southeast Asian folk riffs melt together with Szabó's traditional Hungarian influences, all tied into soft-swaying samba movements that rock against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
 
-<p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://thijsenterprise.bandcamp.com/album/lahringen) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
+<p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://curvedlight.bandcamp.com/) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
