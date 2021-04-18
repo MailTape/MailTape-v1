@@ -52,15 +52,15 @@ Curved Light: **"**This one is probably a better pick for a dreary Sunday mornin
 # MailTape's selection
 
 ## [Curved Light](https://curvedlight.bandcamp.com/) – One Moment in the Sun
-Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of peace and healing, especially to Curved Light himself. Recorded during tumultuous times, the track served as a space for Curved Light to make his own moment of tranquility. The track's evolving arrangements of snyths wash over us like currents of sun rays. The analog synth halfway through must be what plants sound like when they think about growing tall :)**"**
+Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of peace and healing, especially to [Curved Light](https://curvedlight.bandcamp.com/) themself. Recorded during tumultuous times, the track served as a space for Curved Light to make their own moment of tranquility. The track's evolving arrangements of snyths wash over us like currents of sun rays. The analog synth halfway through must be what plants sound like when they think about growing tall :)**"**
 
 ## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness), this track's vocal texturing reaches into celestial expressions. Love the embrace of this ambient soundscape. Such subtle calm in this one, as well as the whole album.**"**
 
 ## [Mytron & Ofofo](https://multiculti.bandcamp.com/album/ceremony) – Red Bird
-Sarah: **"**Off of Myton & Ofofo's 2018 Ceremony album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
+Sarah: **"**Off of Myton & Ofofo's 2018 [Ceremony](https://multiculti.bandcamp.com/album/ceremony) album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
 
 ## [YOM](https://komosrecords.bandcamp.com/album/celebration)– Celebration
-Sarah: **"**This track comes off Paris-based YOM's newly released album, Celebration. Full of classical and jazz forms, the album pushes tracks into spiritual planes. The spiraling melodies in this track seem extra-worldly. Beautiful :)**"**
+Sarah: **"**This track comes off Paris-based YOM's newly released album, [Celebration](https://komosrecords.bandcamp.com/album/celebration). Full of classical and jazz reflections, YOM pushes tracks into spiritual planes. Love the spiraling melodies in this track. Magical :)**"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://curvedlight.bandcamp.com/) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
