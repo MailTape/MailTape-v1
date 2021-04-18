@@ -45,10 +45,14 @@ Curved Light: **"**Clearly, the popularity of this song, and city pop as a whole
 ## [Robin Guthrie](https://www.facebook.com/Jameszoomitchel/), Harold Budd – Flake
 Curved Light: **"**This one is probably a better pick for a dreary Sunday morning, or after a late Saturday night. Its slow-moving current and masterful restraint lends itself to moody introspection, as expected of these brilliant artists - I could just listen to this one over and over.**"**
 
+![fbPic447.png]({{site.baseurl}}/img/fbPic447.png)
+
+
 # MailTape's selection
 
 ## [Curved Light](https://thijsenterprise.bandcamp.com/) – El Arriero
-Sarah: **"**Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
+Sarah: **"**Expansive and yet minimal, this track brings Curved Light the most peace from all of his discography. 
+Ethereal. experimental, minimal, analog, psychedeloc. synth art. evolving arrangements.**"**
 
 ## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness). 
