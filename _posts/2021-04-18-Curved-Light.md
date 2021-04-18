@@ -13,8 +13,8 @@ track3_title: Robin Guthrie & Harold Budd - Snowfall
 track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
-track4_link: 'https://soundcloud.com/curvedlight/dream-sequence-edit'
-track4_title: Curved Light - Dream Sequence
+track4_link: 'https://soundcloud.com/curvedlight/one-moment-in-the-sun'
+track4_title: Curved Light - One Moment in the Sun
 track4_color: vibrant
 track5_color: dreamy
 track6_color: vibrant
