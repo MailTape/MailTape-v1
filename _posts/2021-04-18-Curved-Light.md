@@ -28,6 +28,12 @@ episode_URL: 'http://mailta.pe/447/Curved-Light/'
 guestPic: guestPic447.jpg
 track6_link: 'https://soundcloud.com/multiculti/mytron-ofofo-lebanese-red-bird-mc040'
 track6_title: Mytron & Ofofo - Lebanese Red Bird
+author: ''
+illustrator: ''
+writer: ''
+track7_link: ''
+track7_title: ''
+description: ''
 ---
 
 <p id="introduction">
@@ -55,8 +61,8 @@ Sarah: **"**Expansive and yet minimal, this track brings a tremendous sense of p
 ## [36 & awakened souls](https://pitp.bandcamp.com/album/the-other-side-of-darkness) – Past Self
 Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp.bandcamp.com/album/the-other-side-of-darkness), this track's vocal texturing reaches into celestial expressions. Love the embrace of this ambient soundscape. Such subtle calm in this one, as well as the whole album.**"**
 
-## [Triorität](https://trioritaet.bandcamp.com/album/alg0) – Bonopo
-Sarah: **"**So many layers in this one, it feels like a floating dream of synths and jazz piano :) Organ currents lead and layer over each other, before clashing just as easily in a delightful heap of sound. This whole interaction is textured and grounded against the balance of organic percussion. The whirling wonderland of synths and chimes makes me forget any notion of time, as I imagine it may for you, too. The jazz percussion breaks by the midpoint are just as surprising as the piano takeover that brings us to the track's end.**"**
+## [Mytron & Ofofo](https://trioritaet.bandcamp.com/album/alg0) – Red Bird
+Sarah: **"**Off of Myton & Ofofo's 2018 Ceremony album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
 
 ## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Fire Dance
 Sarah: **"**This one comes off of my favorite Gábor Szabó album, [Dreams](https://lightintheattic.net/releases/6556-dreams) (1968). Such a phenomenal jazz-crossover; the album is a kaleidoscope of sound: Southeast Asian folk riffs melt together with Szabó's traditional Hungarian influences, all tied into soft-swaying samba movements that rock against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
