@@ -65,6 +65,6 @@ Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp
 Sarah: **"**Off of Myton & Ofofo's 2018 Ceremony album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
 
 ## [YOM](https://komosrecords.bandcamp.com/album/celebration)– Celebration
-Sarah: **"**Love the spiraling melodies in this track, they guide us into a plane of spiritual reflection. The track's minimal and classical tones make these harmonies seem extra worldly. Beautiful :)**"**
+Sarah: **"**This track comes off Paris-based YOM's newly released album, Celebration. Full of classical and jazz forms, the album pushes tracks into spiritual planes. The spiraling melodies in this track seem extra-worldly. Beautiful :)**"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://curvedlight.bandcamp.com/) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
