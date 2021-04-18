@@ -64,7 +64,7 @@ Sarah: **"**Coming off the 2021 album, [The Other Side of Darkness](https://pitp
 ## [Mytron & Ofofo](https://multiculti.bandcamp.com/album/ceremony) – Red Bird
 Sarah: **"**Off of Myton & Ofofo's 2018 Ceremony album, this track never fails to groooove. Love the pairing of these tribal percussions withh these bouncing synths. Mytron & Ofofo cultivate a meld of psychedlic and club beats, you might put this one on repeat :)**"**
 
-## [Gábor Szabó](https://www.discogs.com/artist/22851-Gabor-Szabo)– Fire Dance
-Sarah: **"**This one comes off of my favorite Gábor Szabó album, [Dreams](https://lightintheattic.net/releases/6556-dreams) (1968). Such a phenomenal jazz-crossover; the album is a kaleidoscope of sound: Southeast Asian folk riffs melt together with Szabó's traditional Hungarian influences, all tied into soft-swaying samba movements that rock against African drums and the ever-evolving jazz structures that underlay them. Szabó's guitar effortlessly glides along the song's development, this whole track moves like silk.**"**
+## [YOM](https://komosrecords.bandcamp.com/album/celebration)– Celebration
+Sarah: **"**Love the spiraling melodies in this track, they guide us into a plane of spiritual reflection. The track's minimal and classical tones make these harmonies seem extra worldly. Beautiful :)**"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://curvedlight.bandcamp.com/) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
