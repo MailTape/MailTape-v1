@@ -50,4 +50,4 @@ Anaïs G: **"** **"**
 ## – 
 Anaïs G: **"** **"**
 
-<p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to [Curved Light](https://curvedlight.bandcamp.com/) for his introspective and blissful selections and to our fantastic [Camille Célestin](https://camillecelestin.com/) for this episode's illustration!</p>
+<p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to Northwest for his introspective and blissful selections and to our fantastic Julie Who for this episode's illustration!</p>
