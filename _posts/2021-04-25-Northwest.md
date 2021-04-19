@@ -4,7 +4,6 @@ bigTitle_font_ratio: '6'
 published: false
 ---
 
-
 ![guestPic448.jpg]({{site.baseurl}}/img/guestPic448.jpg)
 
 <p id="introduction">
