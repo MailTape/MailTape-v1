@@ -2,6 +2,19 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Julie Wojtczak
+writer: Anaïs G
+category: '448'
+guest_name: Northwest
+guest_color: vibrant
+guestPic: guestPic448.jpg
+track2_title: Joni Mitchell - I Don't Know Where I Stand
+track2_color: vibrant
+track3_title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
+track3_color: dreamy
+track1_title: Daniel Rossen - Saint Nothing
+track1_color: vibrant
 ---
 
 <p id="introduction">
