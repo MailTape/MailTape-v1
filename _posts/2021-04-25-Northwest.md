@@ -15,6 +15,8 @@ track3_title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
 track3_color: dreamy
 track1_title: Daniel Rossen - Saint Nothing
 track1_color: vibrant
+track4_title: 'Northwest - '
+track4_color: vibrant
 ---
 
 <p id="introduction">
