@@ -9,8 +9,7 @@ published: false
 
 <p id="introduction">
   This morning,
-   <br><br>
- 
+   <br><br> 
 </p>
 
 # Northwest's selection
