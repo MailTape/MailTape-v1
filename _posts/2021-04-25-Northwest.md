@@ -24,6 +24,13 @@ track5_color: dreamy
 track6_link: 'https://soundcloud.com/fleetfoxes/for-a-week-or-two'
 track6_title: Fleet Foxes - For A Week Or Two
 track6_color: vibrant
+track7_link: >-
+  https://soundcloud.com/foxtrottfoxtrott/intuition?in=foxtrottfoxtrott/sets/foxtrott-meditations-i
+track7_title: 'Foxtrott - Intuition '
+track7_color: vibrant
+episode_URL: 'http://mailta.pe/448/northwest/'
+image: 'https://mailta.pe/fbPic448.jpg'
+musiColor: musiColor448
 ---
 
 <p id="introduction">
