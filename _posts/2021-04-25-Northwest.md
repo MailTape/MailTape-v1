@@ -35,6 +35,7 @@ musiColor: musiColor448
 
 <p id="introduction">
   This morning,
+  
    <br><br>Northwest is a London duo composed of Mariuca García-Lomas, the band’s singer and visual artist, but also Ignacio Simón, the composer and producer who magnifies the sounds of their music. It is with them that we will spend our Sunday morning.
 </p>
 
