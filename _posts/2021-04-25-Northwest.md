@@ -52,16 +52,16 @@ Northwest: **"**This song is mindblowing. It's basically two completely differen
 
 # MailTape's selection
 
-##  –
-Anaïs G: **"** **"**
+## Northwest – All Of a Sudden
+Anaïs G: **"**Northwest ce fut une surprise musicale comme j'en connais très peu. J'ai d'abord été séduite par l'univers très artistique, contemporain et aérien de ce duo londonien. Les photos de la chanteuse Mariuca García-Lomas, des clichés en noir et blanc, jouant avec les mouvements et la transparence, en passant par les artworks qui sont comme des tableaux où l'abstrait est maître. Et bien sûr, à l'écoute de leur premier et double album sorti succesivement en 2018 avec I et fin 2019 avec II, on comprend ce jeu d'ombre et de lumière entre les deux EP. Si il ne fallait en choisir qu'une, mon coeur a choisi "All of a Sudden". Elle m'a transpercé au plus profond de moi avec des notes de piano subtilement bien placé et un degrès d'émotion que la chanteuse maîtrise à la perfection sans tombé dans le too much.Les deux volumes de l’album homonyme, qui sont sorti chez Temple Arts, que je recommande vivement les yeux fermés.**"**
 
-##  – 
-Anaïs G: **"** **"**
+## Cat Power – Sea Of Love
+Anaïs G: **"**Un titre figurant sur le cinquième album de reprise "The Covers Records", sorti en 2000. J'aurai pu en choisir une autre mais celle-ci m'a donné des frissons à la première écoute. C'est une reprise de la chanson "Sea Of Love" de Philips Baptiste et George Khoury, sorti dn 1959.**"**
 
-##  – 
-Anaïs G: **"** **"**
+## Fleet Foxes – For A Week Or Two
+Anaïs G: **"**Orchestral, lumineux et aérien, ce titre décrit bien leur album "Shore" sorti en 2020. Une surprise lyrique, boulversante et pleine d'émotions qui transparé dans ce titre avec en prime le chant des oiseaux, signe de sérénité et de calme.**"**
 
-## – 
+## Foxtrott – Intuition
 Anaïs G: **"** **"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to Northwest for his introspective and blissful selections and to our fantastic Julie Who for this episode's illustration!</p>
