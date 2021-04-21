@@ -35,7 +35,7 @@ musiColor: musiColor448
 
 <p id="introduction">
   This morning,
-   <br><br> Northwest, c'est un duo londonien composé de Mariuca García-Lomas, la chanteuse et artiste visuelle du groupe, mais aussi de Ignacio Simón, le compositeur et producteur qui magnifie les sonorités de leur musique. C'est avec eux que nous allons passer notre dimanche matin. 
+   <br><br>Northwest is a London duo composed of Mariuca García-Lomas, the band’s singer and visual artist, but also Ignacio Simón, the composer and producer who magnifies the sounds of their music. It is with them that we will spend our Sunday morning.
 </p>
 
 # Northwest's selection
@@ -53,15 +53,15 @@ Northwest: **"**This song is mindblowing. It's basically two completely differen
 # MailTape's selection
 
 ## Northwest – All Of a Sudden
-Anaïs G: **"**Northwest ce fut une surprise musicale comme j'en connais très peu. J'ai d'abord été séduite par l'univers très artistique, contemporain et aérien de ce duo londonien. Les photos de la chanteuse Mariuca García-Lomas, des clichés en noir et blanc, jouant avec les mouvements et la transparence, en passant par les artworks qui sont comme des tableaux où l'abstrait est maître. Et bien sûr, à l'écoute de leur premier et double album sorti succesivement en 2018 avec I et fin 2019 avec II, on comprend ce jeu d'ombre et de lumière entre les deux EP. Si il ne fallait en choisir qu'une, mon coeur a choisi "All of a Sudden". Elle m'a transpercé au plus profond de moi avec des notes de piano subtilement bien placé et un degrès d'émotion que la chanteuse maîtrise à la perfection sans tombé dans le too much.Les deux volumes de l’album homonyme, qui sont sorti chez Temple Arts, que je recommande vivement les yeux fermés.**"**
+Anaïs G: **"**Northwest was a musical surprise like I know very little. I was first seduced by the very artistic, contemporary and airy world of this London duo. Photos of singer Mariuca García -Lomas, black and white shots, playing with movement and transparency, passing by the artworks that are like paintings where the abstract is master. And of course, listening to their first and double album released successively in 2018 with I and at the end of 2019 with II, we understand this play of shadow and light between the two EPs. If I had to choose only one, my heart chose “All of a Sudden. ” It pierced me deep inside with subtly well placed piano notes and a degree of emotion that the singer masters to perfection without falling into too much. The two volumes of the eponymous album, which were released by Temple Arts, which I highly recommend with my eyes closed.**"**
 
 ## Cat Power – Sea Of Love
-Anaïs G: **"**Un titre figurant sur le cinquième album de reprise "The Covers Records", sorti en 2000. J'aurai pu en choisir une autre mais celle-ci m'a donné des frissons à la première écoute. C'est une reprise de la chanson "Sea Of Love" de Philips Baptiste et George Khoury, sorti dn 1959.**"**
+Anaïs G: **"**A track featured on the fifth cover album “The Covers Records”, released in 2000. I could have picked another one, but this one gave me the chills at first listening. It is a cover of the 1959 song “Sea Of Love” by Philips Baptiste and George Khoury. **"**
 
 ## Fleet Foxes – For A Week Or Two
-Anaïs G: **"**Orchestral, lumineux et aérien, ce titre décrit bien leur album "Shore" sorti en 2020. Une surprise lyrique, boulversante et pleine d'émotions qui transparé dans ce titre avec en prime le chant des oiseaux, signe de sérénité et de calme.**"**
+Anaïs G: **"**Orchestral, luminous and airy, this title describes well their album “Shore” released in 2020. A lyrical surprise, upsetting and full of emotions that shone through in this title with as bonus the singing of birds, a sign of serenity and calm.**"**
 
 ## Foxtrott – Intuition
-Anaïs G: **"**J'aime l'univers de Marie-Hélène Delorme aka Foxtrott. Cette productrice et beatmakers montréalaise, nous emmène dans des sonorités différentes à travers l'album "Méditation",sorti en 2018.Trois phases pour s'acclimater. J'ai adoré "Take Me Im Here" voguant entre pop et hip-hop, mais aussi "Intuition" avec cette voix puissante et douce à la fois, toujours mélant des sons électro, tout ça dans une atmophère soul.**"**
+Anaïs G: **"**I love the world of Marie-Hélène Delorme aka Foxtrott. This Montreal producer and beatmakers, takes us into different sounds through the album “Méditation”, released in 2018. Three phases to acclimatize. I loved “Take Me Im Here” sailing between pop and hip-hop, but also “Intuition” with that powerful and soft voice, always mixing electro sounds, all in a soul atmosphere.**"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to Northwest for his introspective and blissful selections and to our fantastic Julie Who for this episode's illustration!</p>
