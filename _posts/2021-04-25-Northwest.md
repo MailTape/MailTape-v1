@@ -20,7 +20,7 @@ track4_color: vibrant
 track4_link: 'https://soundcloud.com/thisisnorthwest/all-of-a-sudden'
 track5_link: 'https://soundcloud.com/eileen-rico/cat-power-sea-of-love'
 track5_title: Cat Power - Sea Of Love
-track5_color: dreamy
+track5_color: bliss
 track6_link: 'https://soundcloud.com/fleetfoxes/for-a-week-or-two'
 track6_title: Fleet Foxes - For A Week Or Two
 track6_color: vibrant
