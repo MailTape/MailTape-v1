@@ -34,6 +34,11 @@ musiColor: musiColor448
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track3.mp3'
+description: >-
+  This morning,we enter into a contemplative meditation. We enter into a kind of
+  emotional trance, taking with us contemporary music, aerial, even lyrical. We
+  are no longer in control of our body, our movements lead us to the Northwest
+  playlist.
 ---
 
 <p id="introduction">
