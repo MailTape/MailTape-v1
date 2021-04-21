@@ -35,7 +35,7 @@ musiColor: musiColor448
 
 <p id="introduction">
   This morning,
-   <br><br> 
+   <br><br> Northwest, c'est un duo londonien composé de Mariuca García-Lomas, la chanteuse et artiste visuelle du groupe, mais aussi de Ignacio Simón, le compositeur et producteur qui magnifie les sonorités de leur musique. C'est avec eux que nous allons passer notre dimanche matin. 
 </p>
 
 # Northwest's selection
