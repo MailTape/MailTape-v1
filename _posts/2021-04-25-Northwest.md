@@ -15,7 +15,7 @@ track3_title: Nancy Sinatra & Lee Hazlewood - Some Velvet Morning
 track3_color: dreamy
 track1_title: Daniel Rossen - Saint Nothing
 track1_color: vibrant
-track4_title: Northwest - All of a sudden
+track4_title: Northwest - All Of a Sudden
 track4_color: vibrant
 track4_link: 'https://soundcloud.com/thisisnorthwest/all-of-a-sudden'
 track5_link: 'https://soundcloud.com/eileen-rico/cat-power-sea-of-love'
