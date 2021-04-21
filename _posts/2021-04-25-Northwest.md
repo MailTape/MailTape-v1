@@ -62,6 +62,6 @@ Anaïs G: **"**Un titre figurant sur le cinquième album de reprise "The Covers 
 Anaïs G: **"**Orchestral, lumineux et aérien, ce titre décrit bien leur album "Shore" sorti en 2020. Une surprise lyrique, boulversante et pleine d'émotions qui transparé dans ce titre avec en prime le chant des oiseaux, signe de sérénité et de calme.**"**
 
 ## Foxtrott – Intuition
-Anaïs G: **"** **"**
+Anaïs G: **"**J'aime l'univers de Marie-Hélène Delorme aka Foxtrott. Cette productrice et beatmakers montréalaise, nous emmène dans des sonorités différentes à travers l'album "Méditation",sorti en 2018.Trois phases pour s'acclimater. J'ai adoré "Take Me Im Here" voguant entre pop et hip-hop, mais aussi "Intuition" avec cette voix puissante et douce à la fois, toujours mélant des sons électro, tout ça dans une atmophère soul.**"**
 
 <p id="outroduction">That's all for this morning! Thank you for spending your Sunday with us. Thank you to Northwest for his introspective and blissful selections and to our fantastic Julie Who for this episode's illustration!</p>
