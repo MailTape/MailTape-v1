@@ -31,6 +31,9 @@ track7_color: vibrant
 episode_URL: 'http://mailta.pe/448/northwest/'
 image: 'https://mailta.pe/fbPic448.jpg'
 musiColor: musiColor448
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/448/track3.mp3'
 ---
 
 <p id="introduction">
