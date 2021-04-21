@@ -18,9 +18,9 @@ track1_color: vibrant
 track4_title: Northwest - All of a sudden
 track4_color: vibrant
 track4_link: 'https://soundcloud.com/thisisnorthwest/all-of-a-sudden'
-track5_link: 'https://soundcloud.com/topsss/colder-closer'
-track5_title: Tops - Colder & Closer
-track5_color: bliss
+track5_link: 'https://soundcloud.com/eileen-rico/cat-power-sea-of-love'
+track5_title: Cat Power - Sea Of Love
+track5_color: dreamy
 ---
 
 <p id="introduction">
