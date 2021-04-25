@@ -41,9 +41,9 @@ description: >-
   playlist.
 ---
 <p id="introduction">
-  This morning,we enter into a contemplative meditation. A kind of emotional trance, composed of contemporary music, aerial and even lyrical. We are no longer in control of our body, our movements lead us to [Northwest's](https://www.facebook.com/thisisnorthwest) playlist.
+  This morning,we enter into a contemplative meditation. A kind of emotional trance, composed of contemporary music, aerial and even lyrical. We are no longer in control of our body, our movements lead us to [Northwest's](https://thisisnorthwest.bandcamp.com/) playlist.
   
-   <br><br>[Northwest](https://soundcloud.com/thisisnorthwest) is a London duo composed of Mariuca García-Lomas, the band’s singer and visual artist, but also Ignacio Simón, the composer and producer who magnifies the sounds of their music. It is with them that we will spend our Sunday morning.
+   <br><br>[Northwest](https://thisisnorthwest.bandcamp.com/) is a London duo composed of Mariuca García-Lomas, the band’s singer and visual artist, but also Ignacio Simón, the composer and producer who magnifies the sounds of their music. It is with them that we will spend our Sunday morning.
 </p>
 
 # Northwest's selection
