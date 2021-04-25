@@ -40,8 +40,6 @@ description: >-
   are no longer in control of our body, our movements lead us to the Northwest
   playlist.
 ---
-![fbPic448.png]({{site.baseurl}}/img/fbPic448.png)
-
 <p id="introduction">
   This morning,we enter into a contemplative meditation. We enter into a kind of emotional trance, taking with us contemporary music, aerial, even lyrical. We are no longer in control of our body, our movements lead us to the [Northwest](https://www.facebook.com/thisisnorthwest) playlist.
   
