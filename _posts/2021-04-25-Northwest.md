@@ -59,7 +59,7 @@ Northwest: **"**This song is mindblowing. It's basically two completely differen
 
 # MailTape's selection
 
-## Northwest – All Of a Sudden
+## [Northwest](https://thisisnorthwest.bandcamp.com/) – All Of a Sudden
 Anaïs G: **"**[Northwest](https://thisisnorthwest.bandcamp.com/) was a musical surprise like I know very little. I was first seduced by the very artistic, contemporary and airy world of this London duo. Photos of singer Mariuca García -Lomas, black and white shots, playing with movement and transparency, passing by the artworks that are like paintings where the abstract is master. And of course, listening to their first and double album released successively in 2018 with "[I](https://thisisnorthwest.bandcamp.com/album/i)" and at the end of 2019 with "[II](https://thisisnorthwest.bandcamp.com/album/ii)", we understand this play of shadow and light between the two EPs. If I had to choose only one, my heart chose “All of a Sudden. ” It pierced me deep inside with subtly well placed piano notes and a degree of emotion that the singer masters to perfection without falling into too much. The two volumes of the eponymous album, which were released by Temple Arts, which I highly recommend with my eyes closed.**"**
 
 ## [Cat Power](https://www.catpowermusic.com/) – Sea Of Love
