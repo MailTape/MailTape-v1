@@ -52,7 +52,7 @@ description: >-
 Northwest: **"**Daniel Rossen is part of the band [Grizzly Bear](http://grizzly-bear.net/) and many people aren't aware of his great solo project.This particular song has a beautiful melody and harmonies between his voice, the piano and the arrangements.Perfect music for a sunday morning. **"**
 
 ## [Joni Mitchell](https://jonimitchell.com/) - I Don't Know where I stand
-Northwest: **"**This song is part of Joni's second studio album: "[Clouds]"(https://fr.wikipedia.org/wiki/Clouds_(album_de_Joni_Mitchell)). It's a folk album, but it's so much more, it's weird. The harmonies are strange and mysterious and completely post-genre (example of this in minute 2:50 of the song).She produced most of the album herself and painted the artwork (she's an incredible visual artist too). **"**
+Northwest: **"**This song is part of Joni's second studio album: [Clouds](https://fr.wikipedia.org/wiki/Clouds_(album_de_Joni_Mitchell)). It's a folk album, but it's so much more, it's weird. The harmonies are strange and mysterious and completely post-genre (example of this in minute 2:50 of the song).She produced most of the album herself and painted the artwork (she's an incredible visual artist too). **"**
 
 ## [Nancy Sinatra](https://fr.wikipedia.org/wiki/Nancy_Sinatra) & [Lee Hazlewood](https://fr.wikipedia.org/wiki/Lee_Hazlewood) - Some Velvet Morning
 Northwest: **"**This song is mindblowing. It's basically two completely different songs with different tempos in one, and they switch from one to another like it's no big deal. Amazing.**"**
