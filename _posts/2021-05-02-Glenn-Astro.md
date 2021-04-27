@@ -10,6 +10,10 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track4.mp3'
+track1_title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
+track2_title: Ross - Swallow your dreams
+track3_title: Erika de Casier - The Flow
+track4_title: Glenn Astro - MoStLy GhOsTlY
 ---
 
 <p id="introduction">
@@ -31,13 +35,13 @@ Glenn Ross: **"**  **"**
 ## Glenn Astro - MoStLy GhOsTlY
 ImaCrea: **"**xxx**"**
 
-## [Cat Power](https://www.catpowermusic.com/) – Sea Of Love
+## xxx
 ImaCrea: **"**xxx**"**
 
-## [Fleet Foxes](https://www.fleetfoxes.co/shore/record-shore-day-eu) – For A Week Or Two
+## xxx
 ImaCrea: **"**xxx**"**
 
-## [Foxtrott](https://foxtrott.bandcamp.com/) – Intuition
+## xxx
 ImaCrea: **"**xxx**"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Northwest](https://thisisnorthwest.bandcamp.com/)for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
