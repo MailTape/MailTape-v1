@@ -14,6 +14,10 @@ track1_title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
 track2_title: Ross - Swallow your dreams
 track3_title: Erika de Casier - The Flow
 track4_title: Glenn Astro - MoStLy GhOsTlY
+track1_color: vibrant
+track2_color: bliss
+track3_color: dreamy
+track4_color: trippy
 ---
 
 <p id="introduction">
