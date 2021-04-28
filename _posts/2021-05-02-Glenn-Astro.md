@@ -18,8 +18,9 @@ track1_color: vibrant
 track2_color: bliss
 track3_color: dreamy
 track4_color: vibrant
-track5_link: 'https://soundcloud.com/slow-dance-2/crimewave-barcode'
 track5_title: Crimewave - Barcode
+track7_link: 'https://soundcloud.com/slow-dance-2/crimewave-barcode'
+track5_link: 'https://soundcloud.com/luke-vibert/batter-bits'
 ---
 
 <p id="introduction">
