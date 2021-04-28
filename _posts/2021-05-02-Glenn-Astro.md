@@ -6,9 +6,9 @@ author: ImaCrea
 illustrator: Meriam Kharbat
 category: '449'
 guest_name: Glenn Astro
-track1_link: 'https://soundcloud.com/amaarae/sad-girlz-luv-money-feat-moliy'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track2.mp3'
-track3_link: 'https://soundcloud.com/erikacasier/the-flow'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track4.mp3'
 track1_title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
 track2_title: Ross - Swallow your dreams
@@ -20,7 +20,7 @@ track3_color: dreamy
 track4_color: trippy
 track5_title: Luke Vibert - Batter Bits
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track7.mp3'
-track5_link: 'https://soundcloud.com/luke-vibert/batter-bits'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track5.mp3'
 track7_title: Khalab & M'berra Ensemble - Skit Guit
 track6_title: Kelly Lee Owens - My Own
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track6.mp3'
