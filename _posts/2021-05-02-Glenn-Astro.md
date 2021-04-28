@@ -8,7 +8,7 @@ category: '449'
 guest_name: Glenn Astro
 track1_link: 'https://soundcloud.com/amaarae/sad-girlz-luv-money-feat-moliy'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track2.mp3'
-track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track3.mp3'
+track3_link: 'https://soundcloud.com/erikacasier/the-flow'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track4.mp3'
 track1_title: Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy)
 track2_title: Ross - Swallow your dreams
