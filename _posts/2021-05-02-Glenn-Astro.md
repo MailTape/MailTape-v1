@@ -17,7 +17,7 @@ track4_title: Glenn Astro - MoStLy GhOsTlY
 track1_color: vibrant
 track2_color: bliss
 track3_color: dreamy
-track4_color: vibrant
+track4_color: trippy
 track5_title: Luke Vibert - Batter Bits
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track7.mp3'
 track5_link: 'https://soundcloud.com/luke-vibert/batter-bits'
