@@ -18,12 +18,15 @@ track1_color: vibrant
 track2_color: bliss
 track3_color: dreamy
 track4_color: vibrant
-track5_title: Crimewave - Barcode
+track5_title: Luke Vibert - Batter Bits
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track7.mp3'
 track5_link: 'https://soundcloud.com/luke-vibert/batter-bits'
 track7_title: Khalab & M'berra Ensemble - Skit Guit
 track6_title: Kelly Lee Owens - My Own
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track6.mp3'
+track7_color: bliss
+track6_color: dreamy
+track5_color: trippy
 ---
 
 <p id="introduction">
