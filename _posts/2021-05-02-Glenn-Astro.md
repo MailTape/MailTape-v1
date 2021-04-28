@@ -17,7 +17,9 @@ track4_title: Glenn Astro - MoStLy GhOsTlY
 track1_color: vibrant
 track2_color: bliss
 track3_color: dreamy
-track4_color: trippy
+track4_color: vibrant
+track5_link: 'https://soundcloud.com/slow-dance-2/crimewave-barcode'
+track5_title: Crimewave - Barcode
 ---
 
 <p id="introduction">
