@@ -19,8 +19,11 @@ track2_color: bliss
 track3_color: dreamy
 track4_color: vibrant
 track5_title: Crimewave - Barcode
-track7_link: 'https://soundcloud.com/slow-dance-2/crimewave-barcode'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track7.mp3'
 track5_link: 'https://soundcloud.com/luke-vibert/batter-bits'
+track7_title: Khalab & M'berra Ensemble - Skit Guit
+track6_title: Kelly Lee Owens - My Own
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/449/track6.mp3'
 ---
 
 <p id="introduction">
