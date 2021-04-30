@@ -48,13 +48,13 @@ Glenn Ross: **"**  **"**
 ## Glenn Astro - MoStLy GhOsTlY
 ImaCrea: **"**xxx**"**
 
-## xxx
+## Luke Vibert - Batter Bits
 ImaCrea: **"**xxx**"**
 
-## xxx
+## Kelly Lee Owens - My Own
 ImaCrea: **"**xxx**"**
 
-## xxx
+## Khalab & M'berra Ensemble - Skit Guit
 ImaCrea: **"**xxx**"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Northwest](https://thisisnorthwest.bandcamp.com/)for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
