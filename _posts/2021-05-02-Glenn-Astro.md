@@ -37,10 +37,12 @@ description: >-
   colorful selection curated by Glenn Astro. Time to get out of the loop
   darling!
 guest_color: trippy
+guestPic: guestpic449.png
 ---
 
 <p id="introduction">This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic, and joyful vibes as we start our trip with a colorful selection curated by [Glenn Astro](https://glennastro.bandcamp.com "Glenn's bandcamp"). Time to get out of the loop darling!
 </p>
+
 
 # Glenn Astro's selection
 
