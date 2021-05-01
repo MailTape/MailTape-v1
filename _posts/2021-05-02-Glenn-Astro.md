@@ -28,9 +28,15 @@ track7_color: bliss
 track6_color: dreamy
 track5_color: trippy
 writer: ImaCrea
+guest_color: ''
+guestPic: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 
-<p id="introduction">
+<p id="introduction">This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic and joyful vibes this morning as we start our trip with a colorful selection curated by Glenn Astro.
 </p>
 
 # Glenn Astro's selection
