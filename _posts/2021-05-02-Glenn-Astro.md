@@ -36,7 +36,7 @@ musiColor: ''
 description: ''
 ---
 
-<p id="introduction">This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic and joyful vibes this morning as we start our trip with a colorful selection curated by Glenn Astro.
+<p id="introduction">This morning, let's have some actively collected intuitions distilled from love. Experimental, mystic and joyful vibes as we start our trip with a colorful selection curated by Glenn Astro. Time to get out of the loop darling!
 </p>
 
 # Glenn Astro's selection
