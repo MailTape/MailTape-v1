@@ -48,15 +48,15 @@ Glenn Ross: **"**I love the whole album. But what an opening song this is! Those
 # MailTape's selection
 
 ## Glenn Astro - MoStLy GhOsTlY
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Love Glenn Astro's latest album, [Homespun](https://glennastro.bandcamp.com/album/homespun), and especially this intriguing track. Feel like I'm in an old detective movie but with strange trippy moving textures in the background. Been years I've been following his work and it never disappoints.**"**
 
 ## Luke Vibert - Batter Bits
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Influence by the great bass developed in Glenn Astro's track, the name of Luke Vibert came to mind spontaneously. Another great artist always full of surprises and pushing his limits in every new release. What a pleasure to find this new track recently.**"**
 
 ## Kelly Lee Owens - My Own
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Smooth and delicate track by Kelly for the tiring collective moment we're going through. A good reminder about the importance of caring for each other and oneself with deep sincerity. Thank you, Kelly.**"**
 
 ## Khalab & M'berra Ensemble - Skit Guit
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**World is vast, beautiful, and diverse. Who needs to go to Mars when such poetry surrounds us?**"**
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Northwest](https://thisisnorthwest.bandcamp.com/)for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
+<p id="outroduction">That's it for this morning. Take great care, share the love. Much love to [Glenn Astro](https://glennastro.bandcamp.com)for his inspring Sunday selections and to Meriam Kherbat for her dear illustration!</p>
