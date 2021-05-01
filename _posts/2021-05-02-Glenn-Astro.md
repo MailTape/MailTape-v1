@@ -35,13 +35,15 @@ track5_color: trippy
 # Glenn Astro's selection
 
 ## Amaarae - SAD GIRLZ LUV MONEY (feat. Moliy) 
-Glenn Ross: **"** **"**
+Glenn Ross: **"**A dear friend of mine recommended to check out Amaarae’s album when it came out last year, since then I haven’t stopped listening to it. At least a few songs from that record daily. Weirdly, SAD GIRLZ LUV MONEY has a very sunday’ish feel to me, works any other day as well, obviously. Amaarae’s voice is so hypnotizing and catching, on top of that the beats on that whole record are amazing, as well. **"**
 
 ## Ross - Swallow your dreams 
-Glenn Ross: **"**  **"**
+Glenn Ross: **"**Found out about this one purely by accident while scrolling through my Instagram feed and this popped up in some random video, I instantly recognized the guitar riff that I knew from Blackalicious’ If I may but there were more instruments and parts coming in. 
+
+I’ve listened to If I may, and Blackalicious in general, during my teenage years so much but never assumed that track in particular uses a sample, thought it was an original guitar riff they recorded for that track along with the singing in the chorus (pre internet and who sampled days haha). Anyhow, a few clicks and a discogs seller later, the record was on the way to my home. It’s strange how the original also has made me appreciate the If I may version even more. Well, here you go, two morning listening recommendations in one.**"**
 
 ## Erika de Casier - The Flow 
-Glenn Ross: **"**  **"**
+Glenn Ross: **"**I love the whole album. But what an opening song this is! Those wavey synth noise effects in the intro, followed up by ultra smooth percussions and pads. Everything is so minimal and sparse, vocal parts coming in and dropping out again...excellent. Essential Sunday morning listen, for sure.**"**
 
 # MailTape's selection
 
