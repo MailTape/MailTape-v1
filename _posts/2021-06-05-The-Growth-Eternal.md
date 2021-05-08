@@ -10,6 +10,9 @@ author: Sarah
 track1_title: Jon Bap - Born Into This
 track2_title: Led Zeppelin - When the Levee Breaks
 track3_title: Erykah Badu - Other Side of the Game
+track1_color: trippy
+track2_color: vibrant
+track3_color: bliss
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for a selection of soulful and psychedelic tracks to draw you out of bed this morning :) Based in New York City, [79.5](https://79point5.bandcamp.com) is headed by vocalist and pianist Kate Mattison. The group’s releases tread into spaces of jazz, disco, rock, and funk; making straightforward descriptions of the group difficult to put into words :) 
 <br><br>
