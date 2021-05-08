@@ -18,7 +18,9 @@ track4_title: The Growth Eternal -
 track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
+musiColor: musiColor454.png
 ---
+![musiColor454.png]({{site.baseurl}}/img/musiColor454.png)
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for a selection of soulful and psychedelic tracks to draw you out of bed this morning :) Based in New York City, [79.5](https://79point5.bandcamp.com) is headed by vocalist and pianist Kate Mattison. The group’s releases tread into spaces of jazz, disco, rock, and funk; making straightforward descriptions of the group difficult to put into words :) 
 <br><br>
 79.5's rousing selections, carefully chosen for you, are songs frozen in time: immune to the rushing world around us and taking tender root within our hearts.</p>
@@ -49,4 +51,3 @@ Sarah: **"**The drums in this!! 79.5 describes this track as a goodbye to an ex 
 Sarah: **"**Recently heard this track sampled on a [Kelly Finnigan](https://kellyfinnigan.bandcamp.com/album/the-tales-people-tell) release and was delighted :) There's such robust nostalgia in songs like this; time never changes them. You remember exactly where you were when you first heard it, and for the three minutes that it plays, it's like you never left.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [79.5](https://79point5.bandcamp.com/) for their fantastic Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's psychedelic illustration :)</p>
-
