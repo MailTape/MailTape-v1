@@ -55,9 +55,9 @@ ImaCrea: **«**Mathilde Fernandez keeps extending the horizon of her musical ter
 ImaCrea: **«**Talking about sincerity and desire, I thought about another woman putting it all on stage, Maria Violenza. Another kind of energy, the kind able to break the mirror of our illusions. When there's *no future*, there's present and whoever better than punks can wake us up?**»**
 
 ## [Daniel Schmidt](https://recitalprogram.bandcamp.com/album/in-my-arms-many-flowers) - In My Arms, Many Flowers
-ImaCrea: **«**Master of gamelan from legendary Mills College, in California. This one dates back from 1978 and is a live recording coming from a recent album issued by Recital.**»**
+ImaCrea: **«**Master and maker of gamelan from legendary Mills College, in California. This one dates back from 1978 and is a live recording coming from a recent album issued by Recital. I can only recommend the full album for an exceptionnal sound bathing session.**»**
 
 ## Deena Abdelwahed - Lila Fi Tounes
-ImaCrea: **«**xxx**»**
+ImaCrea: **«**Deena's music has been sitting in my listening list for years but only till recently I could start to grasp her music. And what a rewarding experience. If you don't get it instantly, try to pass that frustration and keep retrying from time to time ;)**»**
 
 <p id="outroduction">That's the end of the journey folks, and what a journey ! Take great care, share the love. Much love to [BIENSÜRE]((https://www.facebook.com/biensurebiensure)) for their rainbow Sunday selection and to Thibaut Daumain for the lovely illustration, created from an infrared photograhy of [Xavier Lours](http://xavierlours.fr/gallery/bands) !</p>
