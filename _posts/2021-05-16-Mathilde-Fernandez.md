@@ -49,10 +49,10 @@ Mathilde Fernandez: **«**I love this girl, she reminds me the real punks like N
 # MailTape's selection
 
 ## [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) - Fard
-ImaCrea: **«**xxx**»**
+ImaCrea: **«**Mathilde Fernandez keeps extending the horizon of her musical territory. Fard comes from her new EP to come "Sensible", a courageous collection of gems all filled with her deeply sincere energy and her unique voice. I find this track sounds especially well with the strange era we've been living in for more than a year now. There's something in it which captures the tragic aspect of our human imperfections while transcending it with hope and courageous love. Exactly what I needed to keep it up.**»**
 
 ## Maria Violenza - La Ballade de l'Indifférence
-ImaCrea: **«**xxx**»**
+ImaCrea: **«**Talking about sincerity and desire, I thought about another woman putting it all on stage, Maria Violenza. Another kind of energy, the kind that break the mirror of our illusions. When there's no future, there's present and whoever better than punks can wake us up?**»**
 
 ## Daniel Schmidt - In My Arms, Many Flowers
 ImaCrea: **«**xxx**»**
