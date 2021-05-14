@@ -13,6 +13,8 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track2.mp3'
 track4_link: 'https://soundcloud.com/mathilde-fernandez/fard-prod-in-progress'
 writer: ImaCrea
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track7.mp3'
 ---
 
 <p id="introduction">ccc</p>
