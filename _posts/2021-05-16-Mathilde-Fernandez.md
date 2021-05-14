@@ -15,6 +15,20 @@ writer: ImaCrea
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track7.mp3'
+track2_title: Nuova Compagnia di Canto Popolare - 2 coro delle lavendaire 1998
+track1_title: 'Mansfield TYA - Ni Morte, Ni Connue'
+track3_title: Zinda Reinhardt - Troumli
+track4_title: Mathilde Fernandez - Fard
+track5_title: Maria Violenza - La Ballade de l'Indifférence
+track6_title: 'Daniel Schmidt - In My Arms, Many Flowers'
+track7_title: Deena Abdelwahed - Lila Fi Tounes
+track1_color: vibrant
+track2_color: bliss
+track3_color: rough
+track4_color: bliss
+track5_color: rough
+track6_color: dreamy
+track7_color: vibrant
 ---
 
 <p id="introduction">ccc</p>
