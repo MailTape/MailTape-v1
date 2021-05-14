@@ -40,10 +40,10 @@ track7_color: vibrant
 Mathilde Fernandez: **«**This is from their new album; I have always loved the writting of Julia Lanoe, she's excellent. I am such a fan since her project "Sexy Sushi" all her texts find a way to touch my heart, in their violence or in their beauty and justness ( je sais pas si ça se dit comme ça... :-/ )**»**
 
 
-## Nuova Compagnia di Canto Popolare - 2 coro delle lavendaire 1998
+## [Nuova Compagnia di Canto Popolare](http://www.nccp.it/) - 2 coro delle lavendaire 1998
 Mathilde Fernandez: **«**Nothing better to start the day with a very powerful rythm and sun vibes. This musical project has begun in Napoli in the late 60's in the goal to research and spread the traditional and ancient music from south italy. They sing old songs that haven't survived, using ancient manuscrits and using forgotter music instruments.**»**
 
-## Zinda Reinhardt - Troumli
+## [Zinda Reinhardt](https://zindareinhardt.bandcamp.com/) - Troumli
 Mathilde Fernandez: **«**I love this girl, she reminds me the real punks like Nina Hagen, she sings in "Sintikès" language from est europe, the tongue of her ancestors; Her musical project is very unique.**»**
 
 # MailTape's selection
@@ -51,11 +51,11 @@ Mathilde Fernandez: **«**I love this girl, she reminds me the real punks like N
 ## [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) - Fard
 ImaCrea: **«**Mathilde Fernandez keeps extending the horizon of her musical territory. Fard comes from her new EP to come "Sensible", a courageous collection of gems all filled with her deeply sincere energy and her unique voice. I find this track sounds especially well with the strange era we've been living in for more than a year now. There's something in it which captures the tragic aspect of our human imperfections while transcending it with hope and courageous love. Exactly what I needed to keep it up.**»**
 
-## Maria Violenza - La Ballade de l'Indifférence
-ImaCrea: **«**Talking about sincerity and desire, I thought about another woman putting it all on stage, Maria Violenza. Another kind of energy, the kind that break the mirror of our illusions. When there's no future, there's present and whoever better than punks can wake us up?**»**
+## [Maria Violenza](https://kakakidsrecords.bandcamp.com/album/scirocco) - La Ballade de l'Indifférence
+ImaCrea: **«**Talking about sincerity and desire, I thought about another woman putting it all on stage, Maria Violenza. Another kind of energy, the kind able to break the mirror of our illusions. When there's *no future*, there's present and whoever better than punks can wake us up?**»**
 
-## Daniel Schmidt - In My Arms, Many Flowers
-ImaCrea: **«**xxx**»**
+## [Daniel Schmidt](https://recitalprogram.bandcamp.com/album/in-my-arms-many-flowers) - In My Arms, Many Flowers
+ImaCrea: **«**Master of gamelan from legendary Mills College, in California. This one dates back from 1978 and is a live recording coming from a recent album issued by Recital.**»**
 
 ## Deena Abdelwahed - Lila Fi Tounes
 ImaCrea: **«**xxx**»**
