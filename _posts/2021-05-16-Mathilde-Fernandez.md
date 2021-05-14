@@ -31,7 +31,7 @@ track6_color: dreamy
 track7_color: vibrant
 ---
 
-<p id="introduction">ccc</p>
+<p id="introduction">This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).</p>
 
 
 # Mathilde Fernandez's selection
@@ -60,4 +60,4 @@ ImaCrea: **«**Master and maker of gamelan from legendary Mills College, in Cali
 ## Deena Abdelwahed - Lila Fi Tounes
 ImaCrea: **«**Deena's music has been sitting on my listening list for years but only till recently I could start to grasp her music. And what a rewarding experience. If you don't get it instantly, try to pass that frustration and keep retrying from time to time ;)**»**
 
-<p id="outroduction">That's the end of the journey folks, and what a journey ! Take great care, share the love. Much love to [BIENSÜRE]((https://www.facebook.com/biensurebiensure)) for their rainbow Sunday selection and to Thibaut Daumain for the lovely illustration, created from an infrared photograhy of [Xavier Lours](http://xavierlours.fr/gallery/bands) !</p>
+<p id="outroduction">That's all for this morning folks! Take great care, share the love. Amour pour [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) for her eclectic Sunday selection and to Thibaut Daumain for his illustration based on a photograhy by the great [Estelle Hannia](https://www.estellehanania.com)!</p>
