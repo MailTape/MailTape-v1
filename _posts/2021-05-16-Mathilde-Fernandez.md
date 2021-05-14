@@ -60,4 +60,4 @@ ImaCrea: **«**Master and maker of gamelan from legendary Mills College, in Cali
 ## Deena Abdelwahed - Lila Fi Tounes
 ImaCrea: **«**Deena's music has been sitting on my listening list for years but only till recently I could start to grasp her music. And what a rewarding experience. If you don't get it instantly, try to pass that frustration and keep retrying from time to time ;)**»**
 
-<p id="outroduction">That's all for this morning folks! Take great care, share the love. Amour pour [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) for her eclectic Sunday selection and to Thibaut Daumain for his illustration based on a photograhy by the great [Estelle Hannia](https://www.estellehanania.com)!</p>
+<p id="outroduction">That's all for this morning folks! Take great care, share the love. Amour pour [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) for her eclectic Sunday selection and to [Thibaut Daumain](https://thibaultdaumain.fr/) for his illustration based on a photography by the great [Estelle Hannia](https://www.estellehanania.com)!</p>
