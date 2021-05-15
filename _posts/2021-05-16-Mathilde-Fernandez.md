@@ -29,6 +29,7 @@ track4_color: bliss
 track5_color: rough
 track6_color: dreamy
 track7_color: vibrant
+guestPic: guestPic451.jpg
 ---
 
 <p id="introduction">This morning, we're glad to have [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) with us, this time to share her inspiration gravitating around her solo project. Last time, our [episode 388](https://mailta.pe/388/ascendant-vierge/) featured her duo with [Paul Seul](https://soundcloud.com/paulseul) : [Ascendant Vierge](https://soundcloud.com/viergeascendant).</p>
