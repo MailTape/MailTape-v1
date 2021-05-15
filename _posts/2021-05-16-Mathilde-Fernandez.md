@@ -32,7 +32,7 @@ track7_color: vibrant
 guestPic: guestPic451.jpg
 musiColor: musiColor451.png
 episode_URL: 'https://www.mailta.pe/451/mathilde-fernandez/'
-image: 'https://mailta.pe/img/fbPic451..png'
+image: 'https://mailta.pe/img/fbPic451.png'
 description: >-
   This morning, we're glad to have Mathilde Fernandez with us, this time to
   share her inspiration gravitating around her solo project. Last time, our
