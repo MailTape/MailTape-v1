@@ -6,7 +6,7 @@ author: ImaCrea
 illustrator: Thibault Daumain
 category: '451'
 guest_name: Mathilde Fernandez
-guest_color: rough
+guest_color: bliss
 track3_link: 'https://soundcloud.com/8-5/troumli-reinhardt-zinda'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/451/track2.mp3'
