@@ -43,8 +43,9 @@ description: >-
 
 # Mathilde Fernandez's selection
 
-## [Mansfield TYA](https://www.instagram.com/chaama_z/) - Ni Morte, Ni Connue
+## [Mansfield TYA](https://mansfieldtya.bandcamp.com/) - Ni Morte, Ni Connue
 Mathilde Fernandez: **«**This is from their new album; I have always loved the writing of Julia Lanoe, she's excellent. I am such a fan since her project "Sexy Sushi" all her texts find a way to touch my heart, in their violence or their beauty and justness.**»**
+ImaCrea: **«**If you like Mansfield TYA, you might wanna check our [episode 445](https://www.mailta.pe/445/mansfield-tya/) featuring them ;)**»**
 
 
 ## [Nuova Compagnia di Canto Popolare](http://www.nccp.it/) - 2 coro delle lavendaire 1998
