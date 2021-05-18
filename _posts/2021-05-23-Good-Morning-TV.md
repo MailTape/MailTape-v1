@@ -10,6 +10,9 @@ guestPic: guestPic452
 track1_link: 'https://soundcloud.com/leavingrecords/surface-to-air-missive-time-being'
 track1_title: Surface To Air Missive - Time Being
 track1_color: bliss
+track2_link: 'https://soundcloud.com/artfeynman/im-gonna-miss-your-world'
+track2_title: Art Feynman - I'm Gonna Miss Your World
+track2_color: trippy
 ---
 
 Surface to air Missive - Time being
