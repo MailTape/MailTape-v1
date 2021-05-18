@@ -20,6 +20,9 @@ track3_color: dreamy
 track4_link: 'https://soundcloud.com/geographierecs/insomniac'
 track4_color: dreamy
 track4_title: 'Good Morning TV - '
+track7_title: 'Poni Hoax - Tropical Suite : Sao Paulo '
+track7_color: vibrant
+track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
 ---
 
 Surface to air Missive - Time being
