@@ -2,6 +2,14 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Julie Wojtczak
+writer: Anaïs G
+guest_name: Good Morning TV
+guestPic: guestPic452
+track1_link: 'https://soundcloud.com/leavingrecords/surface-to-air-missive-time-being'
+track1_title: Surface To Air Missive - Time Being
+track1_color: bliss
 ---
 
 Surface to air Missive - Time being
