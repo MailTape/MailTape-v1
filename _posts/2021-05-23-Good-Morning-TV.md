@@ -23,6 +23,8 @@ track4_title: 'Good Morning TV - '
 track7_title: 'Poni Hoax - Tropical Suite : Sao Paulo '
 track7_color: vibrant
 track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
+track5_title: 'Melody''s Echo Chamber - Crystallized '
+track5_color: bliss
 ---
 
 Surface to air Missive - Time being
