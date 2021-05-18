@@ -16,6 +16,10 @@ track2_color: trippy
 track3_link: >-
   https://soundcloud.com/modernefusion/ryuichi-sakamoto-merry-christmas-mr-lawrence
 track3_title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+track3_color: dreamy
+track4_link: 'https://soundcloud.com/geographierecs/insomniac'
+track4_color: dreamy
+track4_title: 'Good Morning TV - '
 ---
 
 Surface to air Missive - Time being
