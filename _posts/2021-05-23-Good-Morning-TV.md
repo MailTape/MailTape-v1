@@ -46,10 +46,10 @@ Good Morning TV: ** **This is the kind of song everyone feels it has been writte
 # MailTape's selection
 
 ## Good Morning TV - Insomnia
-Anaïs G: **** C'est en texturant le son, que Bérénice Deloire arrive à dégager ce nom tout particulier que nous retrouvons quand nous écoutant Good Morning Tv. Un coté quelque peu psychédélique,qui ressemble beaucoup au shoegaze. En attendant de pouvoir écouter leur album "Small Talk", qui sortira en juin sous le label Géographie, on savoure ce son chill à max pour un dimanche coocooning.****
+Anaïs G: **** It is by texturing the sound, that Bérénice Deloire manages to identify this very special name that we find when we listen to Good Morning Tv. A somewhat psychedelic side, which is very similar to the shoegaze. While waiting to be able to listen to their album “Small Talk”, which will be released in June under the label Géographie, let’s savour this chill-to-max sound for a cocooning Sunday. ****
 
 ## Melody's Echoe Chamber - Shiram
-Anaïs G: **** J'ai découvert cette artiste en 2012 avec la sortie de son premier album éponyme. Une ambiance psychédélique, intimiste, doux et pastel avec des titres comme "I Follow You" ou encore "Crystillised", qui sont incroyable! Son second opus "Bon Voyage" est sorti en 2018, chez Domino Records co et Fat Possum Records. Cette fois-ci Melody's Echoe Chamber a misé sur les riff de guitare en plus du coté psychédélique ce qui donne un coté rock très appéciable à sa musique. "Shiram" est mon coup de coeur de de deuxième EP !****
+Anaïs G: **** I discovered this artist in 2012 with the release of her first self-titled album. A psychedelic, intimate, soft and pastel atmosphere with songs like “I Follow You” or “Crystillised”, which are amazing! His second opus “Bon Voyage” was released in 2018 by Domino Records co and Fat Possum Records. This time -Here Melody’s Echoe Chamber bet on guitar riffs in addition to the psychedelic side which gives a very nice rock side to his music. “Shiram” is my favorite of the second EP! ****
 
 ## Laventure - Give
 Anaïs G: **** Groupe strasbourgeois ****
