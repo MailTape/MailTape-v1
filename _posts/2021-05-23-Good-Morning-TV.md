@@ -46,15 +46,13 @@ Good Morning TV: ** **This is the kind of song everyone feels it has been writte
 ## Good Morning TV - Insomnia
 Anaïs G: **** ****
 
-## Melody's Echoe Chamber - Crystallised
-Anaïs G: **** ****
+## Melody's Echoe Chamber - Shiram
+Anaïs G: **** J'ai découvert cette artiste en 2012 avec la sortie de son premier album éponyme. Une ambiance psychédélique, intimiste, doux et pastel avec des titres comme "I Follow You" ou encore "Crystillised", qui sont incroyable! Son second opus "Bon Voyage" est sorti en 2018, chez Domino Records co et Fat Possum Records. Cette fois-ci Melody's Echoe Chamber a misé sur les riff de guitare en plus du coté psychédélique ce qui donne un coté rock très appéciable à sa musique. "Shiram" est mon coup de coeur de de deuxième EP !****
 
 ##  - 
 Anaïs G: **** ****
 
 ## Poni Hoax - Tropical Suite: São Paulo
-Anaïs G: **** ****
+Anaïs G: **** Je me devais de terminer cette plylist par un titre du meilleur groupe de rock français des annnées 2000, Poni Hoax. Plus qu'un groupe, leurs chansons ont résonnés dans notre tête comme le titre "Antibodies" et d'autres. C'est donc un hommage aux membres de ce groupe mais surtout au chanteur Nicolas Ker, qui nous a quitté cette semaine. Cette balade issus de leur album ****
 
 <p id="outroduction">That's all for this morning folks! Take great care, share the love. Amour pour [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) for her eclectic Sunday selection and to [Thibaut Daumain](https://thibaultdaumain.fr/) for his illustration based on a photography by the great [Estelle Hannia](https://www.estellehanania.com)!</p>
-
-
