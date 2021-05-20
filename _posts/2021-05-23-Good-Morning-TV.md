@@ -49,7 +49,7 @@ Anaïs G: **** C'est en texturant le son, que Bérénice Deloire arrive à déga
 ## Melody's Echoe Chamber - Shiram
 Anaïs G: **** J'ai découvert cette artiste en 2012 avec la sortie de son premier album éponyme. Une ambiance psychédélique, intimiste, doux et pastel avec des titres comme "I Follow You" ou encore "Crystillised", qui sont incroyable! Son second opus "Bon Voyage" est sorti en 2018, chez Domino Records co et Fat Possum Records. Cette fois-ci Melody's Echoe Chamber a misé sur les riff de guitare en plus du coté psychédélique ce qui donne un coté rock très appéciable à sa musique. "Shiram" est mon coup de coeur de de deuxième EP !****
 
-## Laventure - 
+## Laventure - Give
 Anaïs G: **** ****
 
 ## Poni Hoax - Tropical Suite: São Paulo
