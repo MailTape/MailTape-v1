@@ -50,7 +50,7 @@ Anaïs G: **** C'est en texturant le son, que Bérénice Deloire arrive à déga
 Anaïs G: **** J'ai découvert cette artiste en 2012 avec la sortie de son premier album éponyme. Une ambiance psychédélique, intimiste, doux et pastel avec des titres comme "I Follow You" ou encore "Crystillised", qui sont incroyable! Son second opus "Bon Voyage" est sorti en 2018, chez Domino Records co et Fat Possum Records. Cette fois-ci Melody's Echoe Chamber a misé sur les riff de guitare en plus du coté psychédélique ce qui donne un coté rock très appéciable à sa musique. "Shiram" est mon coup de coeur de de deuxième EP !****
 
 ## Laventure - Give
-Anaïs G: **** ****
+Anaïs G: **** Groupe strasbourgeois ****
 
 ## Poni Hoax - Tropical Suite: São Paulo
 Anaïs G: **** Je me devais de terminer cette plylist par un titre du meilleur groupe de rock français des annnées 2000, Poni Hoax. Plus qu'un groupe, leurs chansons ont résonnés dans notre tête comme le titre "Antibodies" et d'autres. C'est donc un hommage aux membres de ce groupe mais surtout au chanteur Nicolas Ker, qui nous a quitté cette semaine. Cette balade issus de leur album "Tropical Suite" sortie en 2017, chez Pan European Records, nous fait planer dans une stratosphère. ****
