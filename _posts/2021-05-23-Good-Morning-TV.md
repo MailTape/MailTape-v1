@@ -27,6 +27,7 @@ track5_title: 'Melody''s Echo Chamber - Crystallized '
 track5_color: bliss
 track6_title: Laventure - Give
 track6_color: dreamy
+track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
 ---
 <p id="introduction">This morning,</p>
 
