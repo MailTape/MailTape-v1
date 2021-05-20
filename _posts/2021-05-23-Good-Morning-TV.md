@@ -25,6 +25,8 @@ track7_color: vibrant
 track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
 track5_title: 'Melody''s Echo Chamber - Crystallized '
 track5_color: bliss
+track6_title: Laventure - Give
+track6_color: dreamy
 ---
 <p id="introduction">This morning,</p>
 
