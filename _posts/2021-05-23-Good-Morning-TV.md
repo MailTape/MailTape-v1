@@ -19,18 +19,18 @@ track3_title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 track3_color: dreamy
 track4_link: 'https://soundcloud.com/geographierecs/insomniac'
 track4_color: dreamy
-track4_title: 'Good Morning TV - '
-track7_title: 'Poni Hoax - Tropical Suite : Sao Paulo '
+track4_title: Good Morning TV - Insomnia
+track7_title: 'Poni Hoax - Tropical Suite : São Paulo '
 track7_color: vibrant
 track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
-track5_title: 'Melody''s Echo Chamber - Crystallized '
+track5_title: Melody's Echo Chamber - Shiram
 track5_color: bliss
 track6_title: Laventure - Give
 track6_color: dreamy
 track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
 ---
-
-<p id="introduction">This morning,</p>
+<p id="introduction">This morning, on retrouve une vie à peu près normal. On peut prévoir d'aller bruncher au restaurant du coin, ou d'aller rejoindre des copains au bar en bas de chez nous et profiter de chaques moments que la vie nous donne. C'est avec cet optimiste exacerbé que nous avons laissé le groupe  </p>
+Good Morning TV géré la playlist de ce dimanche. 
 
 
 # Good Morning TV's selection
