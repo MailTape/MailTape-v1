@@ -31,7 +31,7 @@ track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 
   
-<br> </br>
+<br> <br>
 Good Morning TV, no, it’s not the name of an American series or the new trendy movie, but a music band. 4 years after the release of their first EP, the band is back with the single “Insomniac” from their upcoming album “Small Talk”.
 
 </p>
@@ -63,4 +63,4 @@ Anaïs G: ****  A bit like Connan Mockasin or Mac Demarco, this Strasbourg duo a
 ## Poni Hoax - Tropical Suite: São Paulo
 Anaïs G: **"**I had to finish this plylist with a title by the best French rock band of the 2000s, Poni Hoax. More than a band, their songs resonated in our minds like the title “Antibodies” and others. So it’s a tribute to the members of this band but especially to the singer Nicolas Ker, who left us this week. This walk from their album “Tropical Suite” released in 2017, by Pan European Records, makes us hover in a stratosphere.**"**
 
-<p id="outroduction"></p>
+<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to Good Morning TV for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
