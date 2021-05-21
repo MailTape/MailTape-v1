@@ -47,7 +47,7 @@ Good Morning TV: **"**This is the kind of song everyone feels it has been writte
 
 # MailTape's selection
 
-## Good Morning TV - Insomnia
+## Good Morning TV - Insomniac
 Anaïs G: **"**It is by texturing the sound, that Bérénice Deloire manages to identify this very special name that we find when we listen to Good Morning Tv. A somewhat psychedelic side, which is very similar to the shoegaze. While waiting to be able to listen to their album “Small Talk”, which will be released in June under the label Géographie, let’s savour this chill-to-max sound for a cocooning Sunday.**"**
 
 ## Melody's Echoe Chamber - Shiram
