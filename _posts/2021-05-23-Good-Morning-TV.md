@@ -29,6 +29,7 @@ track6_title: Laventure - Give
 track6_color: dreamy
 track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
 ---
+![guestPic452.jpg]({{site.baseurl}}/img/guestPic452.jpg)
 <p id="introduction">This morning,</p>
 
 
