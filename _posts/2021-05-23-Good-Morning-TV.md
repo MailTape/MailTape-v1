@@ -6,7 +6,7 @@ author: Anaïs G
 illustrator: Julie Wojtczak
 writer: Anaïs G
 guest_name: Good Morning TV
-guestPic: guestPic452
+guestPic: guestPic452.jpg
 track1_link: 'https://soundcloud.com/leavingrecords/surface-to-air-missive-time-being'
 track1_title: Surface To Air Missive - Time Being
 track1_color: bliss
@@ -19,15 +19,21 @@ track3_title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 track3_color: dreamy
 track4_link: 'https://soundcloud.com/geographierecs/insomniac'
 track4_color: dreamy
-track4_title: Good Morning TV - Insomnia
+track4_title: Good Morning TV - Insomniac
 track7_title: 'Poni Hoax - Tropical Suite : São Paulo '
 track7_color: vibrant
 track7_link: 'https://soundcloud.com/pan-european-recording/poni-hoax-tropical-suite-sao'
-track5_title: Melody's Echo Chamber - Shiram
+track5_title: Melody's Echo Chamber - Shirim
 track5_color: bliss
 track6_title: Laventure - Give
 track6_color: dreamy
 track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
+category: '452'
+guest_color: dreamy
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/452/track5.mp3'
+episode_URL: 'http://mailta.pe/452/good-morning-tv/'
+image: https//mailta.pe/img/fbPic452.png
+musiColor: musiColor452
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 
   
