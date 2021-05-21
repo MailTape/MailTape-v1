@@ -33,7 +33,6 @@ track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
   
 <br> <br>
 Good Morning TV, no, it’s not the name of an American series or the new trendy movie, but a music band. 4 years after the release of their first EP, the band is back with the single “Insomniac” from their upcoming album “Small Talk”.
-
 </p>
 
 # Good Morning TV's selection
