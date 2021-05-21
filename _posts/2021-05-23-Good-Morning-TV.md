@@ -59,8 +59,7 @@ Good Morning TV: **"**This is the kind of song everyone feels it has been writte
 Anaïs G: **"**It is by texturing the sound, that Bérénice Deloire manages to identify this very special name that we find when we listen to Good Morning Tv. A somewhat psychedelic side, which is very similar to the shoegaze. While waiting to be able to listen to their album “Small Talk”, which will be released in June under the label Géographie, let’s savour this chill-to-max sound for a cocooning Sunday.**"**
 
 ## Melody's Echoe Chamber - Shirim
-Anaïs G: **"**I discovered this artist in 2012 with the release of her first self-titled album. A psychedelic, intimate, soft and pastel atmosphere with songs like “I Follow You” or “Crystilliz![musiColor452.png]({{site.baseurl}}/img/musiColor452.png)
-ed”, which are amazing! His second opus “Bon Voyage” was released in 2018 by Domino Records co and Fat Possum Records. This time -Here Melody’s Echoe Chamber bet on guitar riffs in addition to the psychedelic side which gives a very nice rock side to his music. “Shirim” is my favorite of the second EP!**"**
+Anaïs G: **"**I discovered this artist in 2012 with the release of her first self-titled album. A psychedelic, intimate, soft and pastel atmosphere with songs like “I Follow You” or “Crystillized”, which are amazing! His second opus “Bon Voyage” was released in 2018 by Domino Records co and Fat Possum Records. This time -Here Melody’s Echoe Chamber bet on guitar riffs in addition to the psychedelic side which gives a very nice rock side to his music. “Shirim” is my favorite of the second EP!**"**
 
 ## Laventure - Give
 Anaïs G: ****  A bit like Connan Mockasin or Mac Demarco, this Strasbourg duo amazes us and transports us into their off-the-wall world and their style glow-fi. Hypnotized by their music and their music video “Give”, this band is a great discovery and to follow urgently! ****
