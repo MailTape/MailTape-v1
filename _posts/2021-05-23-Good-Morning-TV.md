@@ -29,10 +29,10 @@ track6_title: Laventure - Give
 track6_color: dreamy
 track6_link: 'https://soundcloud.com/ingrid-laventure/give-mstrd'
 ---
-<p id="introduction">This morning, on retrouve une vie à peu près normal. On peut prévoir d'aller bruncher au restaurant du coin, ou d'aller rejoindre des copains au bar en bas de chez nous et profiter de chaques moments que la vie nous donne. C'est avec cet optimiste exacerbé que nous avons laissé le groupe  </p>
-Good Morning TV géré la playlist de ce dimanche. 
+<p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday.  </p>
 
-Good Morning TV 
+
+Good Morning TV, no, it’s not the name of an American series or the new trendy movie, but a music band. 4 years after the release of their first EP, the band is back with the single “Insomniac” from their upcoming album “Small Talk. ”
 
 # Good Morning TV's selection
 
