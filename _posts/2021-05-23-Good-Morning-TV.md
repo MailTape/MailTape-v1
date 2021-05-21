@@ -59,4 +59,4 @@ Anaïs G: **** Groupe strasbourgeois ****
 ## Poni Hoax - Tropical Suite: São Paulo
 Anaïs G: **"**I had to finish this plylist with a title by the best French rock band of the 2000s, Poni Hoax. More than a band, their songs resonated in our minds like the title “Antibodies” and others. So it’s a tribute to the members of this band but especially to the singer Nicolas Ker, who left us this week. This walk from their album “Tropical Suite” released in 2017, by Pan European Records, makes us hover in a stratosphere.**"**
 
-<p id="outroduction">That's all for this morning folks! Take great care, share the love. Amour pour [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) for her eclectic Sunday selection and to [Thibaut Daumain](https://thibaultdaumain.fr/) for his illustration based on a photography by the great [Estelle Hannia](https://www.estellehanania.com)!</p>
+<p id="outroduction"></p>
