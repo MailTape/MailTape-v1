@@ -37,7 +37,7 @@ musiColor: musiColor452
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 
 <br> <br>
-Good Morning TV, no, it’s not the name of an American series or the new trendy movie, but a music band. 4 years after the release of their first EP, the band is back with the single “Insomniac” from their upcoming album “Small Talk”.
+[Good Morning TV](https://geographie.bandcamp.com/track/insomniac), no, it’s not the name of an American series or the new trendy movie, but a music band. 4 years after the release of their first EP, the band is back with the single “[Insomniac](https://geographie.bandcamp.com/album/small-talk)” from their upcoming album “Small Talk”.
 </p>
 
 # Good Morning TV's selection
