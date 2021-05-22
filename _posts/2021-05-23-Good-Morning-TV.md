@@ -50,7 +50,7 @@ Good Morning TV: **"**That song stuck with me every morning of the first quarant
 Good Morning TV: **"**I like this song because it’s both immediate and complex. Writing a simple song on which everybody can dance to and anybody can sing isn’t an easy job. It’s also a kind of « love song », in a very unique and discreet way.**"**
 
 
-## Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
+## [Ryuichi Sakamoto](http://sitesakamoto.com/) - Merry Christmas Mr. Lawrence
 Good Morning TV: **"**This is the kind of song everyone feels it has been written for them. There’s such parsimony in the melody, such refinement in the interpretation that you almost fear breaking it by listening too loud. Officially it goes on 5’31, but it could well last days, years even. It’s a perfect song that wakes you up softly and then, without warning, puts you back to sleep. It’s a perfect song to wake up softly and then, without warning, fall back to sleep.**"**
 
 # MailTape's selection
