@@ -46,7 +46,7 @@ musiColor: musiColor452
 Good Morning TV: **"**That song stuck with me every morning of the first quarantine here, which almost literally was a month of Sundays… I loved the strangely calm energy of it, the perfect amount of energy to do nothing but sip coffee, sunbathing on the ledge of my kitchen window. Always warding off the boredom with unexpected structures and melodies, and filling the mind with comforting thoughts.**"**
 
 
-## Art Feynman - I'm Gonna Miss Your World
+## [Art Feynman](https://artfeynman.bandcamp.com/) - I'm Gonna Miss Your World
 Good Morning TV: **"**I like this song because it’s both immediate and complex. Writing a simple song on which everybody can dance to and anybody can sing isn’t an easy job. It’s also a kind of « love song », in a very unique and discreet way.**"**
 
 
