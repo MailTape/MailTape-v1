@@ -32,7 +32,7 @@ category: '452'
 guest_color: dreamy
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/452/track5.mp3'
 episode_URL: 'http://mailta.pe/452/good-morning-tv/'
-image: https//mailta.pe/img/fbPic452.png
+image: 'https://mailta.pe/img/fbPic452.png'
 musiColor: musiColor452
 ---
 <p id="introduction">This morning, we’re back to a pretty normal life. We can plan to have brunches at the local restaurant, or join some friends at the bar downstairs and enjoy every moment that life gives us. It is with this exaggerated optimism that we left the group Good Morning TV ran the playlist this Sunday. 
