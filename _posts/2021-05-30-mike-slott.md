@@ -11,6 +11,7 @@ illustrator: Thibault Daumain
 writer: ImaCrea
 guest_name: Mike Slott
 guest_color: dreamy
+track4_link: 'https://soundcloud.com/mikeslott/4-mike-slott-keep-me-here-precise-master-v2'
 ---
 <p id="introduction">xxx
 </p>
@@ -33,16 +34,16 @@ Good Morning TV: **"**I had to include a track from my brother Luke’s piano al
 
 # MailTape's selection
 
-## [Good Morning TV](https://soundcloud.com/good-morning-tv) - Insomniac
-Anaïs G: **"**It is by texturing the sound, that Bérénice Deloire manages to identify this very special name that we find when we listen to Good Morning Tv. A somewhat psychedelic side, which is very similar to the shoegaze. While waiting to be able to listen to their album “[Small Talk](https://geographie.bandcamp.com/album/small-talk)”, which will be released in June under [the label Géographie](https://geographie.bandcamp.com/), let’s savour this chill-to-max sound for a cocooning Sunday.**"**
+## xx
+ImaCrea: **"**xx**"**
 
-## Melody's Echoe Chamber - Shirim
-Anaïs G: **"**I discovered this artist in 2012 with the release of her first [self-titled album](https://melodysechochamber.bandcamp.com/album/melodys-echo-chamber). A psychedelic, intimate, soft and pastel atmosphere with songs like “[I Follow You](https://www.youtube.com/watch?v=v29I0srhPwg)” or “[Crystillized](https://www.youtube.com/watch?v=sfy0_vhfb-s)”, which are amazing! His second opus “[Bon Voyage] (https://melodysechochamber.bandcamp.com/album/bon-voyage)” was released in 2018 by [Domino Records](https://www.dominomusic.com/fr) co and [Fat Possum Records](https://fatpossum.com/). This time -Here Melody’s Echoe Chamber bet on guitar riffs in addition to the psychedelic side which gives a very nice rock side to his music. “Shirim” is my favorite of the second EP!**"**
+## xx
+ImaCrea: **"**xxx**"**
 
-## [Laventure](https://laventure.bandcamp.com/) - Give
-Anaïs G: **"**A bit like [Connan Mockasin](https://connanmockasin.bandcamp.com/) or [Mac DeMarco](https://www.mac-demarco.com/), this Strasbourg duo amazes us and transports us into their off-the-wall world and their style glow-fi. Hypnotized by their music and their music video “[Give](https://www.youtube.com/watch?v=uWa1IeUMq0U)”, this band is a great discovery and to follow urgently!**"**
+## xx
+ImaCrea: **"**xxx**"**
 
-## [Poni Hoax](https://ponihoax.bandcamp.com/) - Tropical Suite: São Paulo
-Anaïs G: **"**I had to finish this plylist with a title by the best French rock band of the 2000s, Poni Hoax. More than a band, their songs resonated in our minds like the title “[Antibodies](https://www.youtube.com/watch?v=hYeh7AnwbUY)” and others. So it’s a tribute to the members of this band but especially to the singer [Nicolas Ker](https://fr.wikipedia.org/wiki/Nicolas_Ker), who left us this week. This walk from their album “[Tropical Suite](https://ponihoax.bandcamp.com/album/tropical-suite)” released in 2017, by [Pan European Records](http://paneuropeanrecording.com/), makes us hover in a stratosphere.**"**
+## xx
+ImaCrea: **"**xxx**"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Good Morning TV](https://soundcloud.com/good-morning-tv) for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
