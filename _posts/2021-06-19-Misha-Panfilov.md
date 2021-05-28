@@ -22,13 +22,13 @@ Instead of the fleeting nature of night skies, LEYA offers us eternal dream scap
 # Misha Panfilov's selection
 
 ## [Tim Hill](https://praisedog.bandcamp.com/) – Payador
-Misha Panfilov: **"**dog is one of the best bands in NYC - close friends to us and beautiful people. They were central at The Glove (RIP) and lived under the floor of our old spot The Wallet (also RIP), like literally dug into the dirt and built a room and lived down there. REAL OGS WILL REMEMBER THE LEYA + DOG TOUR IN 2018.**"**
+Misha Panfilov: **"**The wonderful Tim Hill charms the listener with his melancholic melodies, dreamy lyrics, and original approach to sound recording.**"**
 
 ## [Jeffrey Silverstein](https://anaroxanne.bandcamp.com/album/because-of-a-flower-2) – Door At The Top of Your Head
-Misha Panfilov: **"**We love this nighttime chiller - a sensuous at-home kind of feeling, maybe a good vibe for driving in the rain or making extended eye contact with someone across a room? This is a weird pick on a record so draped in minimal landscaping - it has a beat and moves in this hazy way while everything else on the EP is more deconstructed. To us it’s like a revelation that we’re all a little bit the same, playing to the austere in our days, slipping into something a little more comfortable in the dark.**"**
+Misha Panfilov: **"**Jeffrey Silverstein's spacy guitars and velvety voice plunge you into an ocean of pleasant oblivion.**"**
 
 ## [Barry Walker Jr](https://martelo.bandcamp.com/) – Shoulda Zenith
-Misha Panfilov: **"**A special track with such a strong connection between the two of them - seamless waves of syncopation punctuate the whole thing. We’re obviously late but this is still so under-sung.**"**
+Misha Panfilov: **"**Barry Walker Jr, the master of contemporary pedal steel guitar, on his latest album takes the cosmic country to its limits and boldly steps into the territory of the avant-garde.**"**
 
 # MailTape's selection
 
@@ -46,4 +46,3 @@ Sarah: **"**This last track comes off of Desire Marea's 2020 album, [Desire](htt
 
 <p id="outroduction">That's all for this morning, but we hope you carry this dreamscape energy throughout your week :) As always, thank you for taking the time to listen. It was a joy and pleasure to welcome [LEYA](https://leya.bandcamp.com/) for this eclectic and engaging Sunday selection. A thousand thanks and bravos to [Thibault Daumain](https://www.instagram.com/thibaultdaumain/?hl=en) for this episode's stunning illustration.
 </p>
-
