@@ -15,6 +15,13 @@ track4_link: 'https://soundcloud.com/mikeslott/4-mike-slott-keep-me-here-precise
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/453/track7.mp3'
+track1_color: dreamy
+track2_color: dreamy
+track3_color: bliss
+track4_color: dreamy
+track5_color: bliss
+track6_color: trippy
+track7_color: dreamy
 ---
 <p id="introduction">xxx
 </p>
