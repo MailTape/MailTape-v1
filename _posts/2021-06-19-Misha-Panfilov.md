@@ -21,13 +21,13 @@ Instead of the fleeting nature of night skies, LEYA offers us eternal dream scap
 
 # Misha Panfilov's selection
 
-## [dog](https://praisedog.bandcamp.com/) – to depths descend
+## [Tim Hill](https://praisedog.bandcamp.com/) – Payador
 Misha Panfilov: **"**dog is one of the best bands in NYC - close friends to us and beautiful people. They were central at The Glove (RIP) and lived under the floor of our old spot The Wallet (also RIP), like literally dug into the dirt and built a room and lived down there. REAL OGS WILL REMEMBER THE LEYA + DOG TOUR IN 2018.**"**
 
-## [Ana Roxanne ](https://anaroxanne.bandcamp.com/album/because-of-a-flower-2) – Camille
+## [Jeffrey Silverstein](https://anaroxanne.bandcamp.com/album/because-of-a-flower-2) – Door At The Top of Your Head
 Misha Panfilov: **"**We love this nighttime chiller - a sensuous at-home kind of feeling, maybe a good vibe for driving in the rain or making extended eye contact with someone across a room? This is a weird pick on a record so draped in minimal landscaping - it has a beat and moves in this hazy way while everything else on the EP is more deconstructed. To us it’s like a revelation that we’re all a little bit the same, playing to the austere in our days, slipping into something a little more comfortable in the dark.**"**
 
-## [Pa Salieu](https://martelo.bandcamp.com/) – My Family ft BackRoad Gee 
+## [Barry Walker Jr](https://martelo.bandcamp.com/) – Shoulda Zenith
 Misha Panfilov: **"**A special track with such a strong connection between the two of them - seamless waves of syncopation punctuate the whole thing. We’re obviously late but this is still so under-sung.**"**
 
 # MailTape's selection
