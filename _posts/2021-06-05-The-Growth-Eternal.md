@@ -19,6 +19,7 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
 musiColor: musiColor454.png
+track1_link: 'https://soundcloud.com/astronautico/jon-bap-born-into-this'
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for a selection of soulful and psychedelic tracks to draw you out of bed this morning :) Based in New York City, [79.5](https://79point5.bandcamp.com) is headed by vocalist and pianist Kate Mattison. The group’s releases tread into spaces of jazz, disco, rock, and funk; making straightforward descriptions of the group difficult to put into words :) 
 <br><br>
