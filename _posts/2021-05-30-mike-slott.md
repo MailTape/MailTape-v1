@@ -28,7 +28,7 @@ guestPic: guestPic453.jpg
   
   Being one the founder of [LuckyMe](https://www.luckyme.net), the legendary record label which released, among other great artists, the first [Hudson Mohawke](https://hudsonmohawke.bandcamp.com/) record. Mike released last year [Vignettes](https://mikeslott.bandcamp.com/album/vignettes-2), a great inner cinematic experience.
   
-  This morning's episode sounds like the perfect soundtrack for drifting out and letting your mind see the beauty right at the corner of your street. No need to travel to the other side of the planet, just put your headphones on and let's go.</p>
+  Open the door, put your headphones on, and press play. No need to travel to the other side of the planet. Let's go.</p>
 
 # Mike Slott's selection
 
