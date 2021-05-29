@@ -26,9 +26,9 @@ guestPic: guestPic453.jpg
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by Mike Slott who made us an honor to accept our invitation. 
   
-  Being one the founder of LuckyMe, the legendary record label which released, among other great artists, the first Hudson Mohawke record. Mike released last year Vignettes, a great inner cinematic experience filled with ambient sounds but with composed from an electronic perspective.
+  Being one the founder of LuckyMe, the legendary record label which released, among other great artists, the first Hudson Mohawke record. Mike released last year Vignettes, a great inner cinematic experience filled with ambient sounds but composed from an electronic perspective.
   
-  This morning's episode sounds like the perfect soundtrack for drifting out and letting your mind see beauty right at the corner of your street. No need to travel to the other side of the planet, just put your headphones on and let's go.</p>
+  This morning's episode sounds like the perfect soundtrack for drifting out and letting your mind see the beauty right at the corner of your street. No need to travel to the other side of the planet, just put your headphones on and let's go.</p>
 
 # Mike Slott's selection
 
@@ -49,15 +49,15 @@ Good Morning TV: **"**I had to include a track from my brother Luke’s piano al
 # MailTape's selection
 
 ## Mike Slott - Keep Me Here
-ImaCrea: **"**Mike Slott's latest album, Vignettes, was released on March 2020. A month we all remember here in France as the moment when COVID-19 entered in our life. I remember very vividly walking in deserted streets while we were under lockdown and listening to this track. It got me into a meditative state every walks, helping me soften my spirit as times were full of uncertainty. A perfect album to go for a walk with a camera and let oneself drift.**"**
+ImaCrea: **"**Mike Slott's latest album, Vignettes, was released in March 2020. A month we all remember here in France as the moment when COVID-19 entered our life. I remember very vividly walking in deserted streets while we were under lockdown and listening to this track. It got me into a meditative state every walks, helping me soften my spirit as times were full of uncertainty. A perfect album to go for a walk with a camera and let oneself drift.**"**
 
 ## Leya - Wave
-ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light... Leya has the secret to recreate almost spiritual moment while being firmly connected with the roughness of life in our decaying modern times.**"**
+ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light... Leya has the secret to recreate an almost spiritual moment while being firmly connected with the roughness of life in our decaying modern times.**"**
 
 ## Leon Vynehall - Ecce! Ego!
-ImaCrea: **"**Slowly back to reality, you realize the building was an old factory. Big machines covered with rust, mechanical engines stopped in time and meters of cables on the floor. Leon is a very dear soul to my heart. One of the first live concert I experienced randomly as I was living in Berlin, a very special and beautiful souvenir. I kept listening to his music since then. Master of textures and layers, always redefining boundaries of electronic music. He released lastly a new album "Rare Forever". A great masterpiece not to miss.**"**
+ImaCrea: **"**Slowly back to reality, you realize the building was an old factory. Big machines covered with rust, mechanical engines stopped in time, and meters of cables on the floor. Master of textures and layers, Leon Vynehall keeps pushing the borders of electronic music. He released lastly a new album "Rare Forever". A great masterpiece not to miss.**"**
 
 ## PDP III - Calendar of Days
-ImaCrea: **"**Still walking with us? Here's another one I enjoy listening on a Sunday when I go for a walk to immerge my eyes in the beauty of everyday life. Deeply immersive ambient track released by the great people at Shelter Press. PDP III is the reunion of Britton Powell, Lucy Railton and Brian Leeds (Huerco S). Yes...**"**
+ImaCrea: **"**Still walking with us? Here's another one I enjoy listening to on a Sunday when I go for a walk to immerse my eyes in the beauty of everyday life. This deeply immersive ambient track was released by the great people at Shelter Press. PDP III is the reunion of Britton Powell, Lucy Railton, and Brian Leeds (Huerco S). Yes...**"**
 
 <p id="outroduction">That's it for this morning. Don't hesitate to share with us how your walk was in our comment section :). As always, thank you so much for being with us. Much love to [Mike Slott](https://soundcloud.com/good-morning-tv) for his Sunday selections and to Thibault Daumain for this vivid portrait!</p>
