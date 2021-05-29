@@ -24,8 +24,11 @@ track6_color: trippy
 track7_color: dreamy
 guestPic: guestPic453.jpg
 ---
-<p id="introduction">xxx
-</p>
+<p id="introduction">This morning, let's go for a walk outside. We're joined by Mike Slott who made us an honor to accept our invitation. 
+  
+  Being one the founder of LuckyMe, the legendary record label which released, among other great artists, the first Hudson Mohawke record. Mike released last year Vignettes, a great inner cinematic experience filled with ambient sounds but with composed from an electronic perspective.
+  
+  This morning's episode sounds like the perfect soundtrack for drifting out and letting your mind see beauty right at the corner of your street. No need to travel to the other side of the planet, just put your headphones on and let's go.</p>
 
 # Mike Slott's selection
 
@@ -57,4 +60,4 @@ ImaCrea: **"**Slowly back to reality, you realize the building was an old factor
 ## PDP III - Calendar of Days
 ImaCrea: **"**Still walking with us? Here's another one I enjoy listening on a Sunday when I go for a walk to immerge my eyes in the beauty of everyday life. Deeply immersive ambient track released by the great people at Shelter Press. PDP III is the reunion of Britton Powell, Lucy Railton and Brian Leeds (Huerco S). Yes...**"**
 
-<p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Good Morning TV](https://soundcloud.com/good-morning-tv) for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
+<p id="outroduction">That's it for this morning. Don't hesitate to share with us how your walk was in our comment section :). As always, thank you so much for being with us. Much love to [Mike Slott](https://soundcloud.com/good-morning-tv) for his Sunday selections and to Thibault Daumain for this vivid portrait!</p>
