@@ -24,9 +24,9 @@ track6_color: trippy
 track7_color: dreamy
 guestPic: guestPic453.jpg
 ---
-<p id="introduction">This morning, let's go for a walk outside. We're joined by Mike Slott who made us an honor to accept our invitation. 
+<p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   
-  Being one the founder of LuckyMe, the legendary record label which released, among other great artists, the first Hudson Mohawke record. Mike released last year Vignettes, a great inner cinematic experience filled with ambient sounds but composed from an electronic perspective.
+  Being one the founder of [LuckyMe](https://www.luckyme.net), the legendary record label which released, among other great artists, the first [Hudson Mohawke](https://hudsonmohawke.bandcamp.com/) record. Mike released last year [Vignettes](https://mikeslott.bandcamp.com/album/vignettes-2), a great inner cinematic experience.
   
   This morning's episode sounds like the perfect soundtrack for drifting out and letting your mind see the beauty right at the corner of your street. No need to travel to the other side of the planet, just put your headphones on and let's go.</p>
 
