@@ -23,6 +23,23 @@ track5_color: bliss
 track6_color: trippy
 track7_color: dreamy
 guestPic: guestPic453.jpg
+track1_title: Sam Gendel - Sustain
+track2_title: Huerco S - A Sea of Love
+track3_title: Luke Slott - The Keeper of Secrets
+track4_title: Mike Slott - Keep Me Here
+track5_title: Leya - Wave
+track6_title: Leon Vynehall - Ecce! Ego!
+track7_title: PDP III - Calendar of Days
+image: 'https://mailta.pe/img/fbPic453.png'
+musiColor: musiColor453.png
+description: >-
+  This morning, let's go for a walk outside. We're joined by Mike Slott who made
+  us an honor to accept our invitation.  Being one the founder of LuckyMe, the
+  legendary record label which released, among other great artists, the first
+  Hudson Mohawke record. Mike released last year Vignettes, a great inner
+  cinematic experience.  Open the door, put your headphones on, and press play.
+  No need to travel to the other side of the planet. Let's go.
+episode_URL: 'https://mailta.pe/453/Mike-Slott/'
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   
