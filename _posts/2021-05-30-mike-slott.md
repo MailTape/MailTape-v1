@@ -46,15 +46,15 @@ Good Morning TV: **"**I had to include a track from my brother Luke’s piano al
 # MailTape's selection
 
 ## Mike Slott - Keep Me Here
-ImaCrea: **"**xx**"**
+ImaCrea: **"**Mike Slott's latest album, Vignettes, was released on March 2020. A month we all remember here in France as the moment when COVID-19 entered in our life. I remember very vividly walking in deserted streets while we were under lockdown and listening to this track. It got me into a meditative state every walks, helping me soften my spirit as times were full of uncertainty. A perfect album to go for a walk with a camera and let oneself drift.**"**
 
 ## Leya - Wave
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light... Leya has the secret to recreate almost spiritual moment while being firmly connected with the roughness of life in our decaying modern times.**"**
 
 ## Leon Vynehall - Ecce! Ego!
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Slowly back to reality, you realize the building was an old factory. Big machines covered with rust, mechanical engines stopped in time and meters of cables on the floor. Leon is a very dear soul to my heart. One of the first live concert I experienced randomly as I was living in Berlin, a very special and beautiful souvenir. I kept listening to his music since then. Master of textures and layers, always redefining boundaries of electronic music. He released lastly a new album "Rare Forever". A great masterpiece not to miss.**"**
 
 ## PDP III - Calendar of Days
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Still walking with us? Here's another one I enjoy listening on a Sunday when I go for a walk to immerge my eyes in the beauty of everyday life. Deeply immersive ambient track released by the great people at Shelter Press. PDP III is the reunion of Britton Powell, Lucy Railton and Brian Leeds (Huerco S). Yes...**"**
 
 <p id="outroduction">That's it for this morning. As always, thank you so much for joining us. Much love to [Good Morning TV](https://soundcloud.com/good-morning-tv) for her Sunday selections and to Julie Wojtczak for this episode's brilliant illustration! </p>
