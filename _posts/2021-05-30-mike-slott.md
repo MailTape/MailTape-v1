@@ -72,6 +72,6 @@ Master of textures and layers, Leon Vynehall keeps pushing the borders of electr
 ## [PDP III](https://shelterpress.bandcamp.com/album/pilled-up-on-a-couple-of-doves) - Calendar of Days
 ImaCrea: **"**Still walking with us? Here's another one I enjoy listening to on a Sunday when I go for a walk to immerse my eyes in the beauty of everyday life.
 
-This deeply immersive ambient track was released by the great people at Shelter Press. PDP III is the reunion of Britton Powell, Lucy Railton, and Brian Leeds (Huerco S). Yes...**"**
+This deeply immersive ambient track was released by the great people at [Shelter Press](https://shelter-press.com/). PDP III is the reunion of [Britton Powell](https://catchwaveltd.bandcamp.com/album/if-anything-is-ep), [Lucy Railton](https://lucyrailton.bandcamp.com/music), and [Brian Leeds](https://brianleeds.bandcamp.com/) (Huerco S). Yes...**"**
 
 <p id="outroduction">That's it for this morning. Don't hesitate to share with us how your walk was in our comment section :). As always, thank you so much for being with us. Much love to [Mike Slott](https://soundcloud.com/good-morning-tv) for his Sunday selections and to Thibault Daumain for this vivid portrait!</p>
