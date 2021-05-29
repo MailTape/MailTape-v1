@@ -62,10 +62,7 @@ I remember very vividly walking in deserted streets while we were under lockdown
 A perfect album to go for a walk with a camera and let oneself drift.**"**
 
 ## [Leya](https://leya.bandcamp.com/album/flood-dream) - Wave
-ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light... 
-
-
-Leya has the secret to recreate an almost spiritual moment while being firmly connected with the roughness of life in our decaying modern times.**"**
+ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light...**"**
 
 ## [Leon Vynehall](https://leonvynehall.bandcamp.com/album/rare-forever) - Ecce! Ego!
 ImaCrea: **"**Slowly back to reality, you realize the building was an old factory. Big machines covered with rust, mechanical engines stopped in time, and meters of cables on the floor. 
