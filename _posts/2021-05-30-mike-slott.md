@@ -27,7 +27,7 @@ track1_title: Sam Gendel - Sustain
 track2_title: Huerco S - A Sea of Love
 track3_title: Luke Slott - The Keeper of Secrets
 track4_title: Mike Slott - Keep Me Here
-track5_title: Leya - Wave
+track5_title: LEYA - Wave
 track6_title: Leon Vynehall - Ecce! Ego!
 track7_title: PDP III - Calendar of Days
 image: 'https://mailta.pe/img/fbPic453.png'
