@@ -34,9 +34,9 @@ image: 'https://mailta.pe/img/fbPic453.png'
 musiColor: musiColor453.png
 description: >-
   This morning, let's go for a walk outside. We're joined by Mike Slott who made
-  us an honor to accept our invitation.  Being one the founder of LuckyMe, the
-  legendary record label which released, among other great artists, the first
-  Hudson Mohawke record. Mike released last year Vignettes, a great inner
+  us an honor to accept our invitation.  Being one of the founders of LuckyMe,
+  the legendary record label which released, among other great artists, the
+  first Hudson Mohawke record. Mike released last year Vignettes, a great inner
   cinematic experience.  Open the door, put your headphones on, and press play.
   No need to travel to the other side of the planet. Let's go.
 episode_URL: 'https://mailta.pe/453/Mike-Slott/'
