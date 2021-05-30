@@ -65,7 +65,7 @@ I put together a ‘mike meditation’ playlist of music that for me helps magni
 
 
 ## [Luke Slott](https://lukeslott.bandcamp.com/) - The Keeper of Secrets
-Good Morning TV: **"**I had to include a track from my brother Luke’s piano album. He released two solo piano volumes a few years back and for me they are a perfect compliment to any Sunday morning. 
+Mike Slott: **"**I had to include a track from my brother Luke’s piano album. He released two solo piano volumes a few years back and for me they are a perfect compliment to any Sunday morning. 
 
 Truly you could pick any of the tracks across the two albums. They transport me back to when we were younger and I would hearing him composing these songs note by note. Timeless music for a Sunday. Highly recommend checking out both solo piano albums. **"**
 
@@ -78,7 +78,7 @@ I remember very vividly walking in deserted streets while we were under lockdown
 
 A perfect album to go for a walk with a camera and let oneself drift.**"**
 
-## [Leya](https://leya.bandcamp.com/album/flood-dream) - Wave
+## [LEYA](https://leya.bandcamp.com/album/flood-dream) - Wave
 ImaCrea: **"**Let's keep walking. There's a sun ray coming from a crack into an abandoned building. Attracted by the mysterious light, you try to find a way to enter. Inside, a majestic chandelier hangs. An ethereal voice coming from nowhere, you look at the ceiling. Dust flying in the air reflects light...**"**
 
 ## [Leon Vynehall](https://leonvynehall.bandcamp.com/album/rare-forever) - Ecce! Ego!
