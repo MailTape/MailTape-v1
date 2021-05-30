@@ -43,7 +43,7 @@ episode_URL: 'https://mailta.pe/453/Mike-Slott/'
 ---
 <p id="introduction">This morning, let's go for a walk outside. We're joined by [Mike Slott](https://mikeslott.bandcamp.com) who made us an honor to accept our invitation. 
   
-  Being one the founder of [LuckyMe](https://www.luckyme.net), the legendary record label which released, among other great artists, the first [Hudson Mohawke](https://hudsonmohawke.bandcamp.com/) record. Mike released last year [Vignettes](https://mikeslott.bandcamp.com/album/vignettes-2), a great inner cinematic experience.
+  Being one of the founders of [LuckyMe](https://www.luckyme.net), the legendary record label which released, among other great artists, the first [Hudson Mohawke](https://hudsonmohawke.bandcamp.com/) record. Mike released last year [Vignettes](https://mikeslott.bandcamp.com/album/vignettes-2), a great inner cinematic experience.
   
   Open the door, put your headphones on, and press play. No need to travel to the other side of the planet. Let's go.</p>
 
