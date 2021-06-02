@@ -23,7 +23,8 @@ track1_link: 'https://soundcloud.com/astronautico/jon-bap-born-into-this'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track3.mp3'
 ---
-<p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for a selection of soulful and psychedelic tracks to draw you out of bed this morning :) Based in New York City, [79.5](https://79point5.bandcamp.com) is headed by vocalist and pianist Kate Mattison. The group’s releases tread into spaces of jazz, disco, rock, and funk; making straightforward descriptions of the group difficult to put into words :) 
+<p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
+  Releases create worlds of experimental music, with influences stemming from blues, electronic, and ambient music; making straightforward descriptions of the group difficult to put into words :) 
   
   new spaces of harmonies 
   melting into the film of these structures 
