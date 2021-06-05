@@ -14,7 +14,7 @@ track1_color: trippy
 track2_color: vibrant
 track3_color: bliss
 track4_color: bliss
-track4_title: The Growth Eternal -
+track4_title: The Growth Eternal - VII. Ghalani
 track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
@@ -22,11 +22,17 @@ musiColor: musiColor454.png
 track1_link: 'https://soundcloud.com/astronautico/jon-bap-born-into-this'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track3.mp3'
+guestPic: guestPic454.jpg
+image: 'https://mailta.pe/img/fbPic454.png'
+episode_URL: 'http://mailta.pe/454/The-Growth-Eternal/'
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
   The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now growing into more spiritual expanses. 
 <br><br>
 </p>
+
+![guestPic454.jpeg]({{site.baseurl}}/img/guestPic454.jpeg)
+![fbPic454.png]({{site.baseurl}}/img/fbPic454.png)
 
 # The Growth Eternal's selection
 
