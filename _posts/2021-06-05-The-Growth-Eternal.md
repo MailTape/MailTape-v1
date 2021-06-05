@@ -25,6 +25,15 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track3.mp3'
 guestPic: guestPic454.jpg
 image: 'https://mailta.pe/img/fbPic454.png'
 episode_URL: 'http://mailta.pe/454/The-Growth-Eternal/'
+guest_color: dreamy
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+description: ''
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
   The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now growing into more spiritual expanses. 
@@ -45,7 +54,7 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 # MailTape's selection
 
 ## [The Growth Eternal](https://thegrowtheternal.bandcamp.com/)  – VII. Ghalani
-Sarah: **"**Looking over his albums, Byron describes feeling special closeness to this one from the album Bass Tone Paintings. **"**
+Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. The intention behind The Growth Eternal's music is especially evident in this song. Byron explains first that his own name is translated to "barnyard."  **"**
 
 ## [Lynda Dawn](https://lyndadawn.bandcamp.com/) [Mndsgn](https://mndsgn.bandcamp.com/) Remix – Fonk Street
 Sarah: **"**Obsessed with this track's progression, it spins Lynda Dawn's [original](https://lyndadawn.bandcamp.com/album/at-first-light) (charming in its own right) funk-psychedelic track into something cosmic and haunting, especially once [Mndsgn](https://mndsgn.bandcamp.com/) isolates Dawn's celestial vocals. The bass deepens the background's comeback and makes the return of sound even more powerful. This track's chosen color is trippy for a reason ;)"**"**
