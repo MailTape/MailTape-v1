@@ -31,9 +31,6 @@ episode_URL: 'http://mailta.pe/454/The-Growth-Eternal/'
 <br><br>
 </p>
 
-![guestPic454.jpeg]({{site.baseurl}}/img/guestPic454.jpeg)
-![fbPic454.png]({{site.baseurl}}/img/fbPic454.png)
-
 # The Growth Eternal's selection
 
 ## Jon Bap - Born Into This
