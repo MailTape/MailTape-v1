@@ -24,7 +24,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track3.mp3'
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
-  The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. Unexpected spaces are created through complex harmonies and the bodings of instruments. 
+  The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now growing into more spiritual expanses. 
 <br><br>
 </p>
 
@@ -41,8 +41,8 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 
 # MailTape's selection
 
-## [The Growth Eternal](https://thegrowtheternal.bandcamp.com/)  – Predictions
-Sarah: **"**This track is the namesake for 79.5's 2018 album, [Predictions](https://79point5.bandcamp.com/album/predictions). As 79.5 explains, this track was cut live to tape, capturing the magic of live performance. The beginning sets us off with such a flowing soul in these chords and verses, a whole mood is created effortlessly. The spiraling flute takes the track to new heights, leaning the track into the psychedelic expressions of the 70's.**"**
+## [The Growth Eternal](https://thegrowtheternal.bandcamp.com/)  – VII. Ghalani
+Sarah: **"**Looking over his albums, Byron describes feeling special closeness to this one from the album Bass Tone Paintings. **"**
 
 ## [Lynda Dawn](https://lyndadawn.bandcamp.com/) [Mndsgn](https://mndsgn.bandcamp.com/) Remix – Fonk Street
 Sarah: **"**Obsessed with this track's progression, it spins Lynda Dawn's [original](https://lyndadawn.bandcamp.com/album/at-first-light) (charming in its own right) funk-psychedelic track into something cosmic and haunting, especially once [Mndsgn](https://mndsgn.bandcamp.com/) isolates Dawn's celestial vocals. The bass deepens the background's comeback and makes the return of sound even more powerful. This track's chosen color is trippy for a reason ;)"**"**
