@@ -64,4 +64,4 @@ Sarah: **"**So much levity in this Senegalese track, despite the steady jazz rhy
 ## [Sam Gendel](https://samgendel.bandcamp.com/album/satin-doll) – Goodbye Pork Pie Hat
 Sarah: **"**When describing his grounding in jazz, Byron described how upon hearing a certain arrangement of Ellington's In A Sentimental Mood, in a magical brush of influence, he fell deeply in love with music.  **"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [79.5](https://79point5.bandcamp.com/) for their fantastic Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's psychedelic illustration :)</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [The Eternal Growth](https://thegrowtheternal.bandcamp.com/) for their delightful Sunday selections and to [Noémie](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration :)</p>
