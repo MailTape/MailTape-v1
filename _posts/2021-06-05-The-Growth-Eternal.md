@@ -53,13 +53,13 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 ## [The Growth Eternal](https://thegrowtheternal.bandcamp.com/)  – VII. Ghalani
 Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. The name _Byron_ translates to _barnyard_ in old English, which is _Ghalani_ in Swahili. The song speaks to the power of language and its entanglement with colonialism and history as a whole. The chant in the second part of the song follows a Buddhist mantra structure, repeating over and over again " ----." **"**
 
-## [Lynda Dawn](https://lyndadawn.bandcamp.com/) [Mndsgn](https://mndsgn.bandcamp.com/) Remix – Fonk Street
+## [Nailah Hunter](https://nailahhunter.bandcamp.com/) – Talk Show Host
 Sarah: **"**Obsessed with this track's progression, it spins Lynda Dawn's [original](https://lyndadawn.bandcamp.com/album/at-first-light) (charming in its own right) funk-psychedelic track into something cosmic and haunting, especially once [Mndsgn](https://mndsgn.bandcamp.com/) isolates Dawn's celestial vocals. The bass deepens the background's comeback and makes the return of sound even more powerful. This track's chosen color is trippy for a reason ;)"**"**
 
-## [79.5](https://79point5.bandcamp.com/) [Tall Black Guy](https://tallblackguy.bandcamp.com/?search_item_id=3287062061&search_item_type=b&search_match_part=%3F&search_page_id=1659098101&search_page_no=1&search_rank=2&search_sig=a0425670910d90f25c51b7cba90bc21b) Bounce Remix – Terrorize My Heart
+## [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) – Mouhamodou Lo and His Children
 Sarah: **"**The drums in this!! 79.5 describes this track as a goodbye to an ex lover-- where after leaving, all she wanted was to dance. This remix certainly feels like an homage to that state of mind, the vocals flow together like silk and the synth movement is absolutely contagious. Love the pause and attention paid to the flute accents, such a cool melding of sound. **"**
 
-## [James & Bobby Purify](https://www.discogs.com/artist/391184-James-Bobby-Purify) – I Don't Want to Have to Wait
+## [Sam Gendel](https://samgendel.bandcamp.com/album/satin-doll) – Goodbye Pork Pie Hat
 Sarah: **"**Recently heard this track sampled on a [Kelly Finnigan](https://kellyfinnigan.bandcamp.com/album/the-tales-people-tell) release and was delighted :) There's such robust nostalgia in songs like this; time never changes them. You remember exactly where you were when you first heard it, and for the three minutes that it plays, it's like you never left.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [79.5](https://79point5.bandcamp.com/) for their fantastic Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's psychedelic illustration :)</p>
