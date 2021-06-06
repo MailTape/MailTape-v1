@@ -56,7 +56,7 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. The name _Byron_ translates to _barnyard_ in old English, which is _Ghalani_ in Swahili. The song speaks to the power of language and its entanglement with colonialism and history as a whole. The chant in the second part of the song follows a Buddhist mantra structure, repeating over and over again " ----." **"**
 
 ## [Nailah Hunter](https://nailahhunter.bandcamp.com/) – Talk Show Host
-Sarah: **"**Obsessed with this track's progression, it spins Lynda Dawn's [original](https://lyndadawn.bandcamp.com/album/at-first-light) (charming in its own right) funk-psychedelic track into something cosmic and haunting, especially once [Mndsgn](https://mndsgn.bandcamp.com/) isolates Dawn's celestial vocals. The bass deepens the background's comeback and makes the return of sound even more powerful. This track's chosen color is trippy for a reason ;)"**"**
+Sarah: **"**So enchanted by this sortie from Nailah Hunter's latest EP, Quietude. As always, her vocals are silky and perfectly set against the harp's melodies. Stunning vocal harmonies toward the end."**"**
 
 ## [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) – Mouhamodou Lo and His Children
 Sarah: **"**The drums in this!! 79.5 describes this track as a goodbye to an ex lover-- where after leaving, all she wanted was to dance. This remix certainly feels like an homage to that state of mind, the vocals flow together like silk and the synth movement is absolutely contagious. Love the pause and attention paid to the flute accents, such a cool melding of sound. **"**
