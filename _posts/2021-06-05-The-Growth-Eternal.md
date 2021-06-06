@@ -31,6 +31,8 @@ track5_title: Nailah Hunter - Talk Show Host
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track5.mp3'
 track7_title: Sam Gendel - Goodbye Pork Pie Hat
 track6_title: Wau Wau Collectif - Mouhamodou Lo and His Children
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track6.mp3'
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
   The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now pushing into more spiritual expanses. 
