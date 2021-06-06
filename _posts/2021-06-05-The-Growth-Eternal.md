@@ -53,15 +53,15 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 # MailTape's selection
 
 ## [The Growth Eternal](https://thegrowtheternal.bandcamp.com/)  – VII. Ghalani
-Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. The name _Byron_ translates to _barnyard_ in old English, which is _Ghalani_ in Swahili. The song speaks to the power of language and its entanglement with colonialism and history as a whole. The chant in the second part of the song follows a Buddhist mantra structure, repeating over and over again " ----." **"**
+Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. As he explains, the name _Byron_ translates to _barnyard_ in old English, which is _Ghalani_ in Swahili. The song speaks to the power of language in our reality and its deep entanglement with history. The chant in the second part of the song follows a Buddhist mantra structure, repeating over and over again " ----." **"**
 
 ## [Nailah Hunter](https://nailahhunter.bandcamp.com/) – Talk Show Host
-Sarah: **"**So enchanted by Nailah Hunter's latest EP, Quietude. As always, her vocals are silky and perfectly set against the harp's melodies. Stunning vocal harmonies build toward the end, wonderful."**"**
+Sarah: **"**So enchanted by Nailah Hunter's latest EP, Quietude. As always, her vocals are silky and set perfectly against the harp's melodies. Stunning vocal harmonies build toward the end, an entire space is created :)"**"**
 
 ## [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) – Mouhamodou Lo and His Children
-Sarah: **"**So much levity in this Senegalese track, despite the steady jazz rhythm and deep grounding lead vocals. I love the childrens' voices, and the carries of light synth that lace through the track. Somehow, there's also a hint of classic folk music in the light melodies :) The entire album is a wonderful project and listen from front to back, cannot recommend enough.**"**
+Sarah: **"**So much levity in this Senegalese track, despite the steady jazz rhythm and deep grounding lead vocals. I love the childrens' voices, and the carries of light synth that lace throughout the track. Somehow, there's also a hint of classic folk music in the light melodies :) The entire album is a wonderful listen from front to back, cannot recommend enough.**"**
 
 ## [Sam Gendel](https://samgendel.bandcamp.com/album/satin-doll) – Goodbye Pork Pie Hat
-Sarah: **"**When describing his grounding in jazz, Byron described how, upon hearing a magical arrangement of Ellington's In A Sentimental Mood, he fell deeply in love with music, and has not looked back since then. I was reminded of Sam Gendel's Satin Doll album (2020), where Gendel revises many jazz standards in an experimental sweep.**"**
+Sarah: **"**When describing his grounding in jazz, Byron describes how, upon hearing a magical arrangement of Ellington's In A Sentimental Mood, he fell deeply in love with music, and has not looked back since then. I was reminded of Sam Gendel's Satin Doll album (2020), where Gendel evolves many jazz standards with an experimental sweep. Hearing Mingus' classic revised in this nearly psychedelic manner is such a fantastic reminder of the versatility of music **"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [The Eternal Growth](https://thegrowtheternal.bandcamp.com/) for their delightful Sunday selections and to [Noémie](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration :)</p>
