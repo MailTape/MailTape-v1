@@ -33,6 +33,9 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track4.mp3'
 <br><br>
 </p>
 
+![guestPic454.jpg]({{site.baseurl}}/img/guestPic454.jpg)
+
+
 # The Growth Eternal's selection
 
 ## Jon Bap - Born Into This
