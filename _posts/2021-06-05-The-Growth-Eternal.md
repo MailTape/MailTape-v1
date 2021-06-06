@@ -56,12 +56,12 @@ The Growth Eternal: **"**My mom used to play Baduizm -every-single-time- that we
 Sarah: **"**Looking over his albums, Byron feels special closeness to this track from Bass Tone Paintings. The name _Byron_ translates to _barnyard_ in old English, which is _Ghalani_ in Swahili. The song speaks to the power of language and its entanglement with colonialism and history as a whole. The chant in the second part of the song follows a Buddhist mantra structure, repeating over and over again " ----." **"**
 
 ## [Nailah Hunter](https://nailahhunter.bandcamp.com/) – Talk Show Host
-Sarah: **"**So enchanted by this sortie from Nailah Hunter's latest EP, Quietude. As always, her vocals are silky and perfectly set against the harp's melodies. Stunning vocal harmonies toward the end."**"**
+Sarah: **"**So enchanted by Nailah Hunter's latest EP, Quietude. As always, her vocals are silky and perfectly set against the harp's melodies. Stunning vocal harmonies build toward the end, wonderful."**"**
 
 ## [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) – Mouhamodou Lo and His Children
-Sarah: **"**The drums in this!! 79.5 describes this track as a goodbye to an ex lover-- where after leaving, all she wanted was to dance. This remix certainly feels like an homage to that state of mind, the vocals flow together like silk and the synth movement is absolutely contagious. Love the pause and attention paid to the flute accents, such a cool melding of sound. **"**
+Sarah: **"**So much levity in this Senegalese track, despite the steady jazz rhythm and deep grounding lead vocals. I love the childrens' voices, and the carries of light synth that lace through the track. Somehow, there's also a hint of classic folk music in the light melodies :) The entire album is a wonderful project and listen from front to back, cannot recommend enough.**"**
 
 ## [Sam Gendel](https://samgendel.bandcamp.com/album/satin-doll) – Goodbye Pork Pie Hat
-Sarah: **"**Recently heard this track sampled on a [Kelly Finnigan](https://kellyfinnigan.bandcamp.com/album/the-tales-people-tell) release and was delighted :) There's such robust nostalgia in songs like this; time never changes them. You remember exactly where you were when you first heard it, and for the three minutes that it plays, it's like you never left.**"**
+Sarah: **"**When describing his grounding in jazz, Byron described how upon hearing a certain arrangement of Ellington's In A Sentimental Mood, in a magical brush of influence, he fell deeply in love with music.  **"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [79.5](https://79point5.bandcamp.com/) for their fantastic Sunday selections and to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's psychedelic illustration :)</p>
