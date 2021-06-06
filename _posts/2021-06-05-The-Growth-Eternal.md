@@ -29,7 +29,7 @@ guest_color: dreamy
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track4.mp3'
 ---
 <p id="introduction">This Sunday, we welcome [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) to MailTape for an eclectic collection to jumpstart your morning :) Based in Los Angeles, [The Growth Eternal](https://thegrowtheternal.bandcamp.com/) is headed by multi-instrumentalist Byron Crenshaw. 
-  The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now growing into more spiritual expanses. 
+  The Growth Eternal pushes into new worlds of experimental music, melting the film of traditional song structures. In carefully complex harmonies, The Growth Eternal creates unexpected spaces to step through. Each album is crafted with intention, now pushing into more spiritual expanses. 
 <br><br>
 </p>
 
