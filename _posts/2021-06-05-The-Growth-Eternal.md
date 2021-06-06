@@ -62,6 +62,6 @@ Sarah: **"**So enchanted by Nailah Hunter's latest EP, Quietude. As always, her 
 Sarah: **"**So much levity in this Senegalese track, despite the steady jazz rhythm and deep grounding lead vocals. I love the childrens' voices, and the carries of light synth that lace through the track. Somehow, there's also a hint of classic folk music in the light melodies :) The entire album is a wonderful project and listen from front to back, cannot recommend enough.**"**
 
 ## [Sam Gendel](https://samgendel.bandcamp.com/album/satin-doll) – Goodbye Pork Pie Hat
-Sarah: **"**When describing his grounding in jazz, Byron described how upon hearing a certain arrangement of Ellington's In A Sentimental Mood, in a magical brush of influence, he fell deeply in love with music.  **"**
+Sarah: **"**When describing his grounding in jazz, Byron described how, upon hearing a magical arrangement of Ellington's In A Sentimental Mood, he fell deeply in love with music, and has not looked back since then. I was reminded of Sam Gendel's Satin Doll album (2020), where Gendel revises many jazz standards in an experimental sweep.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [The Eternal Growth](https://thegrowtheternal.bandcamp.com/) for their delightful Sunday selections and to [Noémie](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration :)</p>
