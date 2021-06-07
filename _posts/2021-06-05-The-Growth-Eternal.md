@@ -19,7 +19,7 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: trippy
 musiColor: musiColor454.png
-track1_link: 'https://soundcloud.com/astronautico/jon-bap-born-into-this'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/454/track3.mp3'
 guestPic: guestPic454.jpg
