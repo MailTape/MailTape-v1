@@ -23,6 +23,9 @@ track6_title: François Virot - Cascade Kisses
 track6_color: vibrant
 track7_title: Phern - Pause Clope
 track7_color: trippy
+episode_URL: 'http://mailta.pe/455/hélène-barbier/'
+image: 'https://mailta.pe/img/fbPic455.png'
+musiColor: musiColor455.png
 ---
 <p id="introduction">This morning
   <br><br>
