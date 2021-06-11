@@ -2,6 +2,18 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Camille Célestin
+writer: Anaïs G
+category: '455'
+guest_name: Hélène Barbier
+guest_color: dreamy
+guestPic: guestPic455
+track1_title: Carole King - Beautiful
+track1_color: vibrant
+track2_title: Jack Name- Sacred Place
+track2_color: dreamy
+track3_title: Paolo Conte- Sparring Partner
 ---
 <p id="introduction">This morning
   <br><br>
