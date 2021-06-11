@@ -35,13 +35,3 @@ Anaïs G: **"****"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [The Eternal Growth](https://thegrowtheternal.bandcamp.com/) for the delightful Sunday selections and to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration :)</p>
 
- : Carole King - Beautiful (Official Audio)
-
-
-Jack Name- Sacred Place: Jack Name - Sacred Place (Official Video)
-
-
-: Sparring Partner
-
-
-Pièces jointes
