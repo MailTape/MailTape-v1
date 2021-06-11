@@ -14,6 +14,13 @@ track1_color: vibrant
 track2_title: Jack Name- Sacred Place
 track2_color: dreamy
 track3_title: Paolo Conte- Sparring Partner
+track3_color: bliss
+track4_title: Hélène Barbier - La Peur
+track4_color: dreamy
+track5_title: Omni - Sincerely Yours
+track5_color: bliss
+track6_title: François Virot - Cascade Kisses
+track6_color: trippy
 ---
 <p id="introduction">This morning
   <br><br>
