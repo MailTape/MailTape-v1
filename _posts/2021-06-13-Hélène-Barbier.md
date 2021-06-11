@@ -13,11 +13,11 @@ published: false
 ## Carole King- Beautiful
 Hélène Barbier: **"**It was hard to choose one Carole King song amongst her entire discography, but this uplifting one is very good for Sunday mornings. This is also the title that was given to The Carole King Musical in 2013.**"**
 
-## - 
-Hélène Barbier: **"** **"**
+## Jack Name- Sacred Place
+Hélène Barbier: **"**I have never been to California but this song reminds me I want to go.**"**
 
-## - 
-Hélène Barbier: **"** **"**
+## Paolo Conte- Sparring Partner
+Hélène Barbier: **"**I would hear this song very often at home when I was a child and it stuck with me until now. To this day I still have no idea what the Italian lyrics are about or I keep forgetting but I noticed the word 'memoria' and invented for myself a whole story about getting old and feeling good about it.**"**
 
 # MailTape's selection
 
@@ -39,9 +39,9 @@ Anaïs G: **"****"**
 
 
 Jack Name- Sacred Place: Jack Name - Sacred Place (Official Video)
-I have never been to California but this song reminds me I want to go.
 
-Paolo Conte- Sparring Partner: Sparring Partner
-I would hear this song very often at home when I was a child and it stuck with me until now. To this day I still have no idea what the Italian lyrics are about or I keep forgetting but I noticed the word 'memoria' and invented for myself a whole story about getting old and feeling good about it.
+
+: Sparring Partner
+
 
 Pièces jointes
