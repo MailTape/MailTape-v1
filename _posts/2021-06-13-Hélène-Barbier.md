@@ -45,10 +45,10 @@ Hélène Barbier: **"**I would hear this song very often at home when I was a ch
 
 # MailTape's selection
 
-##  – 
+## Hélène Barbier  – La Peur 
 Anaïs G: **"** **"**
 
-## – 
+## Omni  – Sincerely Yours
 Anaïs G: **"** **"**
 
 ## – 
