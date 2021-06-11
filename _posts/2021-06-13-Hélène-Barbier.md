@@ -20,7 +20,9 @@ track4_color: dreamy
 track5_title: Omni - Sincerely Yours
 track5_color: bliss
 track6_title: François Virot - Cascade Kisses
-track6_color: trippy
+track6_color: vibrant
+track7_title: Phern - Pause Clope
+track7_color: trippy
 ---
 <p id="introduction">This morning
   <br><br>
