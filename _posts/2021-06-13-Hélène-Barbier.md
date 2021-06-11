@@ -51,11 +51,11 @@ Anaïs G: **"** **"**
 ## Omni  – Sincerely Yours
 Anaïs G: **"** **"**
 
-## – 
+## François Virot – Cascade Kisses
 Anaïs G: **"** **"**
 
-## – 
+## Phern – Pause Clope
 Anaïs G: **"****"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [The Eternal Growth](https://thegrowtheternal.bandcamp.com/) for the delightful Sunday selections and to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration :)</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Hélène Barbier for the delightful Sunday selections and to Camille Célestin.
 
