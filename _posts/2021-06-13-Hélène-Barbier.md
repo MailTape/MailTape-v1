@@ -29,23 +29,23 @@ musiColor: musiColor455.png
 ---
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
- Hélène Barbier,  
+ [Hélène Barbier](https://www.facebook.com/hlnbrbr/),  
 </p>
 
 # Hélène Barbier's selection
 
-## Carole King- Beautiful
+## [Carole King](https://www.caroleking.com/)- Beautiful
 Hélène Barbier: **"**It was hard to choose one Carole King song amongst her entire discography, but this uplifting one is very good for Sunday mornings. This is also the title that was given to The Carole King Musical in 2013.**"**
 
 ## Jack Name- Sacred Place
 Hélène Barbier: **"**I have never been to California but this song reminds me I want to go.**"**
 
-## Paolo Conte- Sparring Partner
+## [Paolo Conte](https://www.facebook.com/paoloconteofficial)- Sparring Partner
 Hélène Barbier: **"**I would hear this song very often at home when I was a child and it stuck with me until now. To this day I still have no idea what the Italian lyrics are about or I keep forgetting but I noticed the word 'memoria' and invented for myself a whole story about getting old and feeling good about it.**"**
 
 # MailTape's selection
 
-## Hélène Barbier  – La Peur 
+## [Hélène Barbier](https://helenebarbier.bandcamp.com/)  – La Peur 
 Anaïs G: **"**It was while listening to this song that I discovered Hélène Barbier. Pop music that comforts us and plunges us into a chill atmosphere in the city for the summer. The perfect track, simple and effective!**"**
 
 ## Omni  – Sincerely Yours
