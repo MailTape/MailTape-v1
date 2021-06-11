@@ -46,16 +46,16 @@ Hélène Barbier: **"**I would hear this song very often at home when I was a ch
 # MailTape's selection
 
 ## Hélène Barbier  – La Peur 
-Anaïs G: **"** **"**
+Anaïs G: **"**It was while listening to this song that I discovered Hélène Barbier. Pop music that comforts us and plunges us into a chill atmosphere in the city for the summer. The perfect track, simple and effective!**"**
 
 ## Omni  – Sincerely Yours
-Anaïs G: **"** **"**
+Anaïs G: **"**This trio from Atlanta dazzled me during the Hop Hop Festival in Orleans. A nice meeting in interview and discovery on stage, which made me like their post-punk music. I loved their “Multi” album -Task” but I fell in love listening to their “Networker” EP and more specifically “Sincerely Yours”, which lays the groundwork.**"**
 
 ## François Virot – Cascade Kisses
-Anaïs G: **"** **"**
+Anaïs G: **"**The music of François Virot, it is a bit as if our emotions had been shaking at the shaker. We go from crazy energy to a slow ambiance passing by an indescribable joy against a background of nostalgia that warms the heart. We listen to this song by the fire, with friends, one guitar in hand and one bottle in the other, in moderation.**"**
 
 ## Phern – Pause Clope
-Anaïs G: **"****"**
+Anaïs G: **"**We end with a touch of originality with the Montreal band Phern, and their “Pause Clope” that we should give ourselves even if we don’t smoke!**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Hélène Barbier for the delightful Sunday selections and to Camille Célestin.
 
