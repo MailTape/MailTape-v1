@@ -27,9 +27,9 @@ episode_URL: 'http://mailta.pe/455/hélène-barbier/'
 image: 'https://mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
 ---
-<p id="introduction">This morning
+<p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
-  
+ Hélène Barbier,  
 </p>
 
 # Hélène Barbier's selection
