@@ -27,6 +27,9 @@ episode_URL: 'http://mailta.pe/455/hélène-barbier/'
 image: 'https://mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
 track7_link: 'https://soundcloud.com/fixturerecords/phern-i-sold-the-house'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track3.mp3'
 ---
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
