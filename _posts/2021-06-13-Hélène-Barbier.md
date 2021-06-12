@@ -56,8 +56,8 @@ Anaïs G: **"**This trio from Atlanta dazzled me during the Hop Hop Festival in 
 ## [François Virot](https://soundcloud.com/francoisvirot) – Cascade Kisses
 Anaïs G: **"**The music of François Virot, it is a bit as if our emotions had been shaking at the shaker. We go from crazy energy to a slow ambiance passing by an indescribable joy against a background of nostalgia that warms the heart. We listen to this song by the fire, with friends, one guitar in hand and one bottle in the other, in moderation.**"**
 
-## Phern – Pause Clope
-Anaïs G: **"**We end with a touch of originality with the Montreal band Phern, and their “Pause Clope” that we should give ourselves even if we don’t smoke!**"**
+## [Phern](https://phern.bandcamp.com/) – I Sold The House
+Anaïs G: **"**And we end with a touch of originality with the Montreal band, Phern. A psyche track, released on the EP “[Pause Clope](https://phern.bandcamp.com/album/pause-clope-2)”, under the label [Fixture Records](https://fixturerecords.bandcamp.com/), that puts a smile on our face for this weekend.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Hélène Barbier for the delightful Sunday selections and to Camille Célestin.
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Hélène Barbier](https://helenebarbier.bandcamp.com/) for the delightful Sunday selections and to [Camille Célestin](https://www.instagram.com/bravocamo/).
 
