@@ -36,8 +36,7 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track6.mp3'
 ---
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
- [Hélène Barbier](https://www.facebook.com/hlnbrbr/),  
-</p>
+ [Hélène Barbier](https://www.facebook.com/hlnbrbr/) nous transporte avec sa pop lunaire, joyeuse et mélancolique à la fois, arrive même à nous transmettre "La Peur", titre figurant sur l'album "Régulus", qui doit sortir le 18 juin prochain sous le label [Michel Records](https://michelrecords.bandcamp.com/) et [Celluloïd Lunch](https://celluloidlunch.bandcamp.com/).</p>
 
 # Hélène Barbier's selection
 
