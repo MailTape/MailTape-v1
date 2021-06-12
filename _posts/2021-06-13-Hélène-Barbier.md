@@ -34,7 +34,7 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/455/track6.mp3'
 ---
-![fbPic455.png]({{site.baseurl}}/img/fbPic455.png)
+
 <p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
 [Hélène Barbier](https://www.facebook.com/hlnbrbr/) transports us with her lunar pop, joyful and melancholic at the same time, even manages to transmit to us “La Peur”, a title featured on the album “Régulus”, which is due to be released on June 18th under the label [Michel Records](https://michelrecords.bandcamp.com/) and [Celluloïd Lunch](Celluloïd Lunch).</p>
