@@ -64,5 +64,4 @@ Anaïs G: **"**The music of François Virot, it is a bit as if our emotions had 
 ## [Phern](https://phern.bandcamp.com/) – I Sold The House
 Anaïs G: **"**And we end with a touch of originality with the Montreal band, Phern. A psyche track, released on the EP “[Pause Clope](https://phern.bandcamp.com/album/pause-clope-2)”, under the label [Fixture Records](https://fixturerecords.bandcamp.com/), that puts a smile on our face for this weekend.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Hélène Barbier](https://helenebarbier.bandcamp.com/) for the delightful Sunday selections and to [Camille Célestin](https://www.instagram.com/bravocamo/).
-
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Hélène Barbier](https://helenebarbier.bandcamp.com/) for the delightful Sunday selections and to [Camille Célestin](https://www.instagram.com/bravocamo/)for this episode's brilliant illustration :)</p>
