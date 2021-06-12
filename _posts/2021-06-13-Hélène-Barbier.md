@@ -28,8 +28,7 @@ image: 'https://mailta.pe/img/fbPic455.png'
 musiColor: musiColor455.png
 track7_link: 'https://soundcloud.com/fixturerecords/phern-i-sold-the-house'
 ---
-<p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It ![guestPic455.jpg]({{site.baseurl}}/img/guestPic455.jpg)
-is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
+<p id="introduction">This morning, the birds are singing, the sun is shining, and can’t shatter our joy of life. To be able to resume a “normal” life, prepare for summer holidays and stroll in the sun. It is with [Hélène Barbier](https://helenebarbier.bandcamp.com/) that we will do all those things indispensable for the survival of all.
   <br><br>
  [Hélène Barbier](https://www.facebook.com/hlnbrbr/),  
 </p>
