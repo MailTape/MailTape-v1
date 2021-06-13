@@ -56,7 +56,7 @@ Hélène Barbier: **"**I would hear this song very often at home when I was a ch
 Anaïs G: **"**It was while listening to this song that I discovered Hélène Barbier. Pop music that comforts us and plunges us into a chill atmosphere in the city for the summer. The perfect track, simple and effective!**"**
 
 ## [Omni](https://omniatl.bandcamp.com/)  – Sincerely Yours
-Anaïs G: **"**This trio from Atlanta dazzled me during the Hop Hop Festival in Orleans. A nice meeting in interview and discovery on stage, which made me like their post-punk music. I loved their “[Multi-Task](https://omniatl.bandcamp.com/album/multi-task)” album but I fell in love listening to their “[Networker](https://omniatl.bandcamp.com/album/networker)” EP and more specifically “Sincerely Yours”, which lays the groundwork.**"**
+Anaïs G: **"**This trio from Atlanta dazzled me during the [Hop Pop Hop Festival](https://www.facebook.com/hoppophop/) in Orleans. A nice meeting in interview and discovery on stage, which made me like their post-punk music. I loved their “[Multi-Task](https://omniatl.bandcamp.com/album/multi-task)” album but I fell in love listening to their “[Networker](https://omniatl.bandcamp.com/album/networker)” EP and more specifically “Sincerely Yours”, which lays the groundwork.**"**
 
 ## [François Virot](https://soundcloud.com/francoisvirot) – Cascade Kisses
 Anaïs G: **"**The music of François Virot, it is a bit as if our emotions had been shaking at the shaker. We go from crazy energy to a slow ambiance passing by an indescribable joy against a background of nostalgia that warms the heart. We listen to this song by the fire, with friends, one guitar in hand and one bottle in the other, in moderation.**"**
