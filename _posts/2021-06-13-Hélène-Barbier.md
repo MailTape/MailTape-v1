@@ -8,7 +8,7 @@ writer: Anaïs G
 category: '455'
 guest_name: Hélène Barbier
 guest_color: dreamy
-guestPic: guestPic455
+guestPic: guestPic455.jpg
 track1_title: Carole King - Beautiful
 track1_color: vibrant
 track2_title: Jack Name- Sacred Place
