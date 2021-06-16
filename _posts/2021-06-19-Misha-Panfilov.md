@@ -10,7 +10,7 @@ writer: Sarah
 illustrator: Jason Pridham
 author: Sarah
 ---
-<p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks, led by our dear guest, Misha Panfilov.
+<p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks, led by our dear guest, Misha Panfilov. Based in 
   back into the dream scape, constructed and maintained by our dear guest and guide, [LEYA](https://leya.bandcamp.com/). Their latest album, [Flood Dream](https://leya.bandcamp.com/album/flood-dream), brings us to share the same breath, or rather consumes us with castles in air, sweeping us up in the album's flood.  
 <br> <br>
 The rush and power of this Flood Dream signals a step far beyond the flourishing Duane Michals poem: 
