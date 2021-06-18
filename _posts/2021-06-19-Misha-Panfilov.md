@@ -17,6 +17,12 @@ track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
 musiColor: musiColor456.png
+image: 'https://mailta.pe/img/fbPic456.png'
+episode_URL: 'http://mailta.pe/456/Misha-Panfilov/'
+track1_title: Tim Hill - Payador
+track2_title: Jeffrey Silverstein - Door At The Top Of Your Head
+track3_title: Barry Walker Jr. - Shoulda Zenith
+track4_title: Misha Panfilov - Horizon
 ---
 <p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks, led by our dear guest, Misha Panfilov. Based in Estonia, 
   back into the dream scape, constructed and maintained by our dear guest and guide, [LEYA](https://leya.bandcamp.com/). Their latest album, [Flood Dream](https://leya.bandcamp.com/album/flood-dream), brings us to share the same breath, or rather consumes us with castles in air, sweeping us up in the album's flood.  
@@ -31,6 +37,7 @@ Their Own Reality.
 <br> <br>
 Instead of the fleeting nature of night skies, LEYA offers us eternal dream scapes in their album releases, and the pleasure is ours as we welcome the Brooklyn-based duo to bring this alternate reality to the tangible forefront. Formed by harpist and vocalist Marilu Donovan and violinist and vocalist Adam Markiewicz, LEYA consistently pushes past accepted and expected boundaries of music. Together, the artists have crafted LEYA into an other-wordly musical current of classical, ambient, metal, and experimental sound; delightfully refusing to conform to any one genre of music. 
 </p>
+
 
 # Misha Panfilov's selection
 
@@ -59,3 +66,4 @@ Sarah: **"**This last track comes off of Desire Marea's 2020 album, [Desire](htt
 
 <p id="outroduction">That's all for this morning, but we hope you carry this dreamscape energy throughout your week :) As always, thank you for taking the time to listen. It was a joy and pleasure to welcome [LEYA](https://leya.bandcamp.com/) for this eclectic and engaging Sunday selection. A thousand thanks and bravos to [Thibault Daumain](https://www.instagram.com/thibaultdaumain/?hl=en) for this episode's stunning illustration.
 </p>
+![fbPic456.png]({{site.baseurl}}/img/fbPic456.png)
