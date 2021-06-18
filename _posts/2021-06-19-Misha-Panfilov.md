@@ -18,7 +18,6 @@ track6_color: vibrant
 track7_color: bliss
 musiColor: musiColor456.png
 ---
-![musiColor456.png]({{site.baseurl}}/img/musiColor456.png)
 <p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks, led by our dear guest, Misha Panfilov. Based in Estonia, 
   back into the dream scape, constructed and maintained by our dear guest and guide, [LEYA](https://leya.bandcamp.com/). Their latest album, [Flood Dream](https://leya.bandcamp.com/album/flood-dream), brings us to share the same breath, or rather consumes us with castles in air, sweeping us up in the album's flood.  
 <br> <br>
