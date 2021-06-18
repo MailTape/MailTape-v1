@@ -9,6 +9,13 @@ guestPic: guestPic456.jpg
 writer: Sarah
 illustrator: Jason Pridham
 author: Sarah
+track4_color: trippy
+track1_color: vibrant
+track2_color: dreamy
+track3_color: bliss
+track5_color: dreamy
+track6_color: vibrant
+track7_color: bliss
 ---
 <p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks, led by our dear guest, Misha Panfilov. Based in Estonia, 
   back into the dream scape, constructed and maintained by our dear guest and guide, [LEYA](https://leya.bandcamp.com/). Their latest album, [Flood Dream](https://leya.bandcamp.com/album/flood-dream), brings us to share the same breath, or rather consumes us with castles in air, sweeping us up in the album's flood.  
