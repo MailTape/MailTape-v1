@@ -45,8 +45,8 @@ Misha Panfilov: **"**Barry Walker Jr, the master of contemporary pedal steel gui
 
 # MailTape's selection
 
-## [Misha Panfilov] – INTP
-Sarah: **"**Speaking with LEYA, Marilu and Adam describe feeling actively protective of their creative vision, cultivating a shared and isolated arena of courageous conversation and collaboration between the two of them. This track stands out to LEYA as the most electric composition process of their Flood Dream album. Their comfort and embrace of alternate tunings lure listeners into a new and deeply intricate universe of  harp arpeggios and violin swells, all textured along celestial vocals. Let this track surround and carry you like the flood dream of the album's namesake :)**"**
+## [Misha Panfilov] – Horizon
+Sarah: **"**Misha's latest release, very space cowboy of him. Absolute mosaic of sound texturing.**"**
 
 ## [charlie zacks](https://soundcloud.com/charliezacks) – deadwaltz
 Sarah: **"**The emotion on this song is so readily created by charlie zacks and felt by each passing listener. The range of intensity throughout, all surrounding and then noticeably sparse, feels like a heartbeat. I'm obsessed with the medium blending all along this track, especially as each movement patches together with the next into a connected lattice of sound; listen for the break toward the end :)**"**
