@@ -55,11 +55,11 @@ Misha Panfilov: **"**Barry Walker Jr, the master of contemporary pedal steel gui
 ## [Misha Panfilov] – Horizon
 Sarah: **"**Misha's latest release and prelude to arriving releases under Misha Panfilov Sound Combo. Cosmonaut cowboy in a mosaic of sound texturing, effortless.**"**
 
-## [charlie zacks](https://soundcloud.com/charliezacks) – deadwaltz
-Sarah: **"**The emotion on this song is so readily created by charlie zacks and felt by each passing listener. The range of intensity throughout, all surrounding and then noticeably sparse, feels like a heartbeat. I'm obsessed with the medium blending all along this track, especially as each movement patches together with the next into a connected lattice of sound; listen for the break toward the end :)**"**
-
 ## [Misha Panfilov](https://eartheater.bandcamp.com/), [Shawn Lee](https://leya.bandcamp.com/) – Belt Buckle
 Sarah: **"**Wanted to include a track off of Paradise Cove, a brilliant Misha Panfilov and Shawn Lee collaboration.**"**
+
+## [Thijsenterprise](https://soundcloud.com/charliezacks) – YYY
+Sarah: **"**Off of Reinier Thijs's latest album, Driehuizen, YYY is **"**
 
 ## [Desire Marea](https://desiremarea.bandcamp.com/releases) – Zibuyile Izimakade
 Sarah: **"**This last track comes off of Desire Marea's 2020 album, [Desire](https://desiremarea.bandcamp.com/album/desire), and translates from Zulu as The Eternal is Back. Celestial and industrial at the same time, Desire Marea combines divine exploration with the modern tendencies of club music, expanding into new space within trance music. The organ scatters accent the build of the song's motion in the most striking way, just until the break, where Desire Marea's vocals elevate this track's energy into something spiritual.**"** 
