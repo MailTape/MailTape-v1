@@ -34,18 +34,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/456/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/456/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/456/track1.mp3'
 ---
-<p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest, Misha Panfilov. Based in Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music. 
-  back into the dream scape, constructed and maintained by our dear guest and guide, [LEYA](https://leya.bandcamp.com/). Their latest album, [Flood Dream](https://leya.bandcamp.com/album/flood-dream), brings us to share the same breath, or rather consumes us with castles in air, sweeping us up in the album's flood.  
-<br> <br>
-The rush and power of this Flood Dream signals a step far beyond the flourishing Duane Michals poem: 
-<br> <br>
-Ah dreams,
-Those Luminous Meteors
-That Light the Night Skies
-Of Our Consciousness, 
-Their Own Reality. 
-<br> <br>
-Instead of the fleeting nature of night skies, LEYA offers us eternal dream scapes in their album releases, and the pleasure is ours as we welcome the Brooklyn-based duo to bring this alternate reality to the tangible forefront. Formed by harpist and vocalist Marilu Donovan and violinist and vocalist Adam Markiewicz, LEYA consistently pushes past accepted and expected boundaries of music. Together, the artists have crafted LEYA into an other-wordly musical current of classical, ambient, metal, and experimental sound; delightfully refusing to conform to any one genre of music. 
+<p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest [Misha Panfilov](https://mpsc.bandcamp.com/). Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
 </p>
 
 
@@ -66,13 +55,13 @@ Misha Panfilov: **"**Barry Walker Jr, the master of contemporary pedal steel gui
 Sarah: **"**Misha's latest release and prelude to arriving releases under Misha Panfilov Sound Combo. Cosmonaut cowboy in a mosaic of sound texturing, effortless. The lap steel guitar gives such a folk grounding to the song's otherwise cosmic orchestral energy. I love the guitar solos that take the forefront at the song's end. **"**
 
 ## [Misha Panfilov](https://eartheater.bandcamp.com/), [Shawn Lee](https://leya.bandcamp.com/) – Belt Buckle
-Sarah: **"**This track arrives off of the 2020 album Paradise Cove, a brilliant Misha Panfilov and Shawn Lee collaboration. The influence of Soviet-era cinematic music is especially apparent, but engaging with tones of funk and punk in this revist. What an exciting time for fusion music!**"**
+Sarah: **"**This track arrives off of the 2020 album Paradise Cove, a brilliant Misha Panfilov and Shawn Lee collaboration. The influence of Soviet-era cinematic music is especially apparent, but engaging with tones of funk and punk in this revist. What an exciting time for fusion music.**"**
 
 ## [Thijsenterprise](https://soundcloud.com/charliezacks) – YYY
 Sarah: **"**Off of Reinier Thijs's latest 2021 album, Driehuizen, which is a very fitting sequel to Lahringen. Reinier continues to take admirable and unpredictable risks in his improvisation. Love the vocal accents (screams?). Such a refreshing concept for a jazz album.**"**
 
 ## [Paul Higgs](https://desiremarea.bandcamp.com/releases), Chico Bernardes – Tramo Trompa
-Sarah: **"**Love this Chico Bernardes and Paul Higgs colaboration! Such a cool meld of  folk guitar, psychpop, and punk movements. The audio blending and building distortion were unexpected but very appreciated.**"** 
+Sarah: **"**Love this Paul Higgs and Chico Bernardes colaboration! Such an engaging meld of folk guitar, psychpop, and punk movements. The audio blending and building distortion were unexpected but very appreciated.**"** 
 
 <p id="outroduction">That's all for this morning! As always, thank you for taking the time to listen. It was a joy and pleasure to welcome [Misha Panfilov](https://leya.bandcamp.com/) for this engaging Sunday selection. Great thanks to [Jason Pridham](https://www.instagram.com/thibaultdaumain/?hl=en) for this episode's vibrant illustration.
 </p>
