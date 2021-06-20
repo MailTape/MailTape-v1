@@ -40,13 +40,13 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/456/track1.mp3'
 
 # Misha Panfilov's selection
 
-## [Tim Hill](https://praisedog.bandcamp.com/) – Payador
+## [Tim Hill](https://timhill1.bandcamp.com/releases) – Payador
 Misha Panfilov: **"**The wonderful Tim Hill charms the listener with his melancholic melodies, dreamy lyrics, and original approach to sound recording.**"**
 
-## [Jeffrey Silverstein](https://anaroxanne.bandcamp.com/album/because-of-a-flower-2) – Door At The Top of Your Head
+## [Jeffrey Silverstein](https://jeffreysilverstein.bandcamp.com/) – Door At The Top of Your Head
 Misha Panfilov: **"**Jeffrey Silverstein's spacy guitars and velvety voice plunge you into an ocean of pleasant oblivion.**"**
 
-## [Barry Walker Jr](https://martelo.bandcamp.com/) – Shoulda Zenith
+## [Barry Walker Jr](https://holymountainrecords.bandcamp.com/album/shoulda-zenith) – Shoulda Zenith
 Misha Panfilov: **"**Barry Walker Jr, the master of contemporary pedal steel guitar, on his latest album takes the cosmic country to its limits and boldly steps into the territory of the avant-garde.**"**
 
 # MailTape's selection
