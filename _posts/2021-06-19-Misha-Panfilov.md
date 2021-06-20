@@ -37,7 +37,6 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/456/track1.mp3'
 <p id="introduction">We begin our Sunday morning with a cosmic cowboy selection of tracks led by our dear guest [Misha Panfilov](https://mpsc.bandcamp.com/). Based in Tallinn, Estonia, Misha's music engages in the evolving cross section between folk, funk, jazz, and psychedelic music, not without influences from Soviet-era electronic music.
 </p>
 
-
 # Misha Panfilov's selection
 
 ## [Tim Hill](https://timhill1.bandcamp.com/releases) – Payador
