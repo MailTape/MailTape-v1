@@ -64,6 +64,5 @@ Sarah: **"**Off of Reinier Thijs's latest album, Driehuizen, YYY is **"**
 ## [Paul Higgs](https://desiremarea.bandcamp.com/releases), Chico Bernardes – Tramo Trompa
 Sarah: **"**Such a great realease!**"** 
 
-<p id="outroduction">That's all for this morning, but we hope you carry this dreamscape energy throughout your week :) As always, thank you for taking the time to listen. It was a joy and pleasure to welcome [LEYA](https://leya.bandcamp.com/) for this eclectic and engaging Sunday selection. A thousand thanks and bravos to [Thibault Daumain](https://www.instagram.com/thibaultdaumain/?hl=en) for this episode's stunning illustration.
+<p id="outroduction">That's all for this morning! As always, thank you for taking the time to listen. It was a joy and pleasure to welcome [Misha Panfilov](https://leya.bandcamp.com/) for this engaging Sunday selection. Great thanks to [Jason Pridham](https://www.instagram.com/thibaultdaumain/?hl=en) for this episode's vibrant illustration.
 </p>
-![fbPic456.png]({{site.baseurl}}/img/fbPic456.png)
