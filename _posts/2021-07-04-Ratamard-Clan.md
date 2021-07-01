@@ -49,7 +49,7 @@ Anaïs G: **"** **"**
 Anaïs G: **"**poétique - puissant -  **"**
 
 ## Cabadzi – 
-Anaïs G: **"** Photographique - Cinématographique - joue avec les rimes - Apaise les esprits - puissance des mots -  **"** 
+Anaïs G: **"** Photographique - Cinématographique - joue avec les rimes - Apaise les esprits - puissance des mots -**"** 
 
 <p id="outroduction"> 
 </p>
