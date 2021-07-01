@@ -29,10 +29,10 @@ Anaïs G: **"**Un quator made in Ariège, qui détonne avec leur rap mi provoque
 Anaïs G: **"** **"**
 
 ## Lombre -
-Anaïs G: **"** **"**
+Anaïs G: **"**poétique - puissant -  **"**
 
 ## Cabadzi – 
-Anaïs G: **"** **"** 
+Anaïs G: **"** Photographique - Cinématographique - joue avec les rimes - Apaise les esprits - puissance des mots -  **"** 
 
 <p id="outroduction"> 
 </p>
