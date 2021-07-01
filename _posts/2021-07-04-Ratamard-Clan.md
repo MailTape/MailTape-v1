@@ -2,6 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+writer: Anaïs G
+guest_name: Ratamard Clan
+guest_color: trippy
+guestPic: guestPic458.jpg
 ---
 
 <p id="introduction">This morning, 
