@@ -22,16 +22,16 @@ Ratamard Clan: **"**And then obviously life and time take back their rights, you
 
 # MailTape's selection
 
-##  – 
+## Ratamard Clan – 
+Anaïs G: **"**Un quator made in Ariège, qui détonne avec leur rap mi provoque mi comédie. Avec un vrai message derrière qu'il soit sur l'écologie ou le féminisme.**"**
+
+## Kt Gorique ou Odezenne ???? – 
 Anaïs G: **"** **"**
 
-##  – 
+## Lombre -
 Anaïs G: **"** **"**
 
-## -
-Anaïs G: **"** **"**
-
-## – 
+## Cabadzi – 
 Anaïs G: **"** **"** 
 
 <p id="outroduction"> 
