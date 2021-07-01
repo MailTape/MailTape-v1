@@ -11,7 +11,7 @@ published: false
 # Ratamard Clan's selection
 
 ##  – 
-Ratamard Clan: **"** **"**
+Ratamard Clan: **"**From the very first hour on Sunday, it’s very important to give your mother the [bleep] off.**"**
 
 ##  – 
 Ratamard Clan: **"** **"**
