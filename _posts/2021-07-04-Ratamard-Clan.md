@@ -14,7 +14,7 @@ published: false
 Ratamard Clan: **"**From the very first hour on Sunday, it’s very important to give your mother the [bleep] off.**"**
 
 ##  – 
-Ratamard Clan: **"** **"**
+Ratamard Clan: **"**After having fucked her mother the f*** we all meet at the cafe du canal at the pretty Rosette.**"**
 
 ##  – 
 Ratamard Clan: **"** **"**
