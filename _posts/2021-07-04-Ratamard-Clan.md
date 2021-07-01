@@ -7,6 +7,13 @@ writer: Anaïs G
 guest_name: Ratamard Clan
 guest_color: trippy
 guestPic: guestPic458.jpg
+track1_title: Bando - Wesh Gros
+track1_color: bliss
+track2_title: Pierre Perret - Au Café du Canal
+track2_color: dreamy
+track3_title: Meryl - BB Compte
+track3_color: bliss
+track4_title: 'Ratamard Clan - '
 ---
 
 <p id="introduction">This morning, 
