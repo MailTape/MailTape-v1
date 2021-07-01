@@ -21,7 +21,7 @@ episode_URL: 'http://mailta.pe/458/ratamard-clan/'
 musiColor: musiColor458.png
 ---
 
-<p id="introduction">This morning, 
+<p id="introduction">This morning,
 </b>
 </p>
 
