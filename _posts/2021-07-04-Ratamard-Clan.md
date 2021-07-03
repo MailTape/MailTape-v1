@@ -42,7 +42,7 @@ The [Ratamard Clan](https://www.facebook.com/Ratamardclan/), as he describes him
 ## Bando – Wesh Gros
 Ratamard Clan:**"**From the very first hour on Sunday, it’s very important to give your motherf*****.**"**
 
-## Pierre Perret  – Café du Canal
+## [Pierre Perret](https://fr.wikipedia.org/wiki/Pierre_Perret)  – Café du Canal
 Ratamard Clan:**"**After having fucked her motherf***** we all meet at the cafe du canal at the pretty Rosette.**"**
 
 ## Meryl  – BB Compte
@@ -51,10 +51,10 @@ Ratamard Clan: **"**And then obviously life and time take back their rights, you
 
 # MailTape's selection
 
-## Ratamard Clan – Nouveau Monde
+## [Ratamard Clan](https://www.facebook.com/Ratamardclan/) – Nouveau Monde
 Anaïs G: **"**With their rap half-provocative, half-comedy, this quartet made in Ariège leads us to rethink the world in their title “Nouveau Monde. ” A title on the Poupou record Mixtape Vol. 1. With real message behind as on ecology or feminism, how not liked the Ratamard Clan?**"**
 
-## Kt Gorique – Brienne
+## [Kt Gorique](https://www.facebook.com/ktgoriquecouteausuisse) – Brienne
 Anaïs G: **"**Discovered during the Block Party Festival in Foix, I was seduced by its flow, its a way of being, and especially its commitment to important subjects such as the place of women in rap today and others. An incredible power of speech that leaves us speechless!**"**
 
 ## Farlot - Plavon
