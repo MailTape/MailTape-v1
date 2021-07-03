@@ -63,5 +63,4 @@ Anaïs G: **"**Rapper made in Limoges, Farlot has established himself with his u
 ## Lombre – Espoir Noir
 Anaïs G: **"**It was while going to the Cabadzi-Blier concert that I was able to see Lombre in the opening act. An intimate moment, with a guitarist and him. Acoustics to give power to words. His musical style is hard to define. It brings together both the poetic side and the spoken word, as well as rap and pop. A wide spectrum and a sensitivity that makes us slip from the first words sung.**"** 
 
-<p id="outroduction"> 
-</p>
+<p id="outroduction"> That's all for this morning! As always, thank you so much for listening with us. So much love to Ratamard Clan for the delightful Sunday selections and to Noèmie Dijon for this episode's brilliant illustration </p>
