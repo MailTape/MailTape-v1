@@ -55,7 +55,7 @@ Ratamard Clan: **"**And then obviously life and time take back their rights, you
 Anaïs G: **"**Avec leur rap mi-provocateur, mi comique, ce quator made in Ariège nous amène à repenser le monde dans leur titre "Nouveaux Monde"première mixtape "Comment ne pas aimé le Ratamard Clan? Un quator made in Ariège, qui détonne avec leur rap mi provoque mi comique. Avec un vrai message derrière qu'il soit sur l'écologie ou le féminisme.**"**
 
 ## Kt Gorique – Brienne
-Anaïs G: **"** **"**
+Anaïs G: **"**Découvert pendant le festival Block Party à Foix, j'ai été séduite par son flow, sa manière d'être et surtout son engagement sur des sujets importants comme la place des femmes dans le rap aujourd'hui et d'autres. Une puissance de parole incroyable qui nous laisse sans voix !   **"**
 
 ## Farlot - Plavon
 Anaïs G: **"**poétique - puissant -  **"**
