@@ -58,10 +58,10 @@ Anaïs G: **"**Avec leur rap mi-provocateur, mi comique, ce quator made in Ariè
 Anaïs G: **"**Discovered during the Block Party Festival in Foix, I was seduced by its flow, its a way of being, and especially its commitment to important subjects such as the place of women in rap today and others. An incredible power of speech that leaves us speechless!**"**
 
 ## Farlot - Plavon
-Anaïs G: **"**poétique - puissant -  **"**
+Anaïs G: **"**Rapper made in Limoges, Farlot has established himself with his uncontaminated and laid-back style. Sweeping rhymes and fresh sounds, everything you love to spend a light summer.**"**
 
 ## Lombre – Espoir Noir
-Anaïs G: **"** Photographique - Cinématographique - joue avec les rimes - Apaise les esprits - puissance des mots -**"** 
+Anaïs G: **"**It was while going to the Cabadzi-Blier concert that I was able to see Lombre in the opening act. An intimate moment, with a guitarist and him. Acoustics to give power to words. His musical style is hard to define. It brings together both the poetic side and the spoken word, as well as rap and pop. A wide spectrum and a sensitivity that makes us slip from the first words sung.**"** 
 
 <p id="outroduction"> 
 </p>
