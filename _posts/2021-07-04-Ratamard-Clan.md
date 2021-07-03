@@ -34,6 +34,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/458/track7.mp3'
 ---
 
 <p id="introduction">This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the Ratamard Clan group. 
+Le Ratamard Clan, comme il se définise si bien c'est "une espèce rare de maître de cérémonie qui à pour particularité de manifester un enthousiasme débordant". Un programme qui pose les bases et qui donne envie ! Un style particulier: Bohémian-rap-sordide 
 </p>
 
 # Ratamard Clan's selection
