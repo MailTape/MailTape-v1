@@ -60,7 +60,7 @@ Anaïs G: **"**Discovered during the Block Party Festival in Foix, I was seduced
 ## [Farlot](https://www.facebook.com/P0LH0ES) - Plavon
 Anaïs G: **"**Rapper made in Limoges, Farlot has established himself with his uncontaminated and laid-back style. Sweeping rhymes and fresh sounds, everything you love to spend a light summer.**"**
 
-## Lombre – Espoir Noir
-Anaïs G: **"**It was while going to the Cabadzi-Blier concert that I was able to see Lombre in the opening act. An intimate moment, with a guitarist and him. Acoustics to give power to words. His musical style is hard to define. It brings together both the poetic side and the spoken word, as well as rap and pop. A wide spectrum and a sensitivity that makes us slip from the first words sung.**"** 
+## [Lombre](https://www.facebook.com/LombreHome/) – Espoir Noir
+Anaïs G: **"**It was while going to the [Cabadzi](https://www.facebook.com/Cabadzi) x [Blier](https://fr.wikipedia.org/wiki/Bertrand_Blier) concert that I was able to see Lombre in the opening act. An intimate moment, with a guitarist and him. Acoustics to give power to words. His musical style is hard to define. It brings together both the poetic side and the spoken word, as well as rap and pop. A wide spectrum and a sensitivity that makes us slip from the first words sung.**"** 
 
-<p id="outroduction"> That's all for this morning! As always, thank you so much for listening with us. So much love to Ratamard Clan for the delightful Sunday selections and to Noèmie Dijon for this episode's brilliant illustration </p>
+<p id="outroduction"> That's all for this morning! As always, thank you so much for listening with us. So much love to [Ratamard Clan](https://www.facebook.com/Ratamardclan/) for the delightful Sunday selections and to [Noèmie Dijon](https://noemiedijon.tumblr.com/tagged/illustration) for this episode's brilliant illustration </p>
