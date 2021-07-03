@@ -23,6 +23,7 @@ track7_color: vibrant
 track6_color: dreamy
 track5_color: vibrant
 track4_color: trippy
+image: 'https://mailta.pe/img/fbPic458.png'
 ---
 
 <p id="introduction">This morning,
