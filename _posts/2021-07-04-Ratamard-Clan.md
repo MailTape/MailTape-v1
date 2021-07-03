@@ -57,7 +57,7 @@ Anaïs G: **"**With their rap half-provocative, half-comedy, this quartet made i
 ## [Kt Gorique](https://www.facebook.com/ktgoriquecouteausuisse) – Brienne
 Anaïs G: **"**Discovered during the Block Party Festival in Foix, I was seduced by its flow, its a way of being, and especially its commitment to important subjects such as the place of women in rap today and others. An incredible power of speech that leaves us speechless!**"**
 
-## Farlot - Plavon
+## [Farlot](https://www.facebook.com/P0LH0ES) - Plavon
 Anaïs G: **"**Rapper made in Limoges, Farlot has established himself with his uncontaminated and laid-back style. Sweeping rhymes and fresh sounds, everything you love to spend a light summer.**"**
 
 ## Lombre – Espoir Noir
