@@ -33,6 +33,11 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/458/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/458/track7.mp3'
 illustrator: Noémie Dijon
 category: '458'
+description: >-
+  This morning,we are tired, exhausted and washed away by this complicated year
+  but finally ready for his much-deserved great holiday. It is with the joy of
+  the world before that we will spend this Sunday with the Ratamard Clan 
+  group.
 ---
 
 <p id="introduction">This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the [Ratamard Clan](https://www.facebook.com/Ratamardclan/) group. 
