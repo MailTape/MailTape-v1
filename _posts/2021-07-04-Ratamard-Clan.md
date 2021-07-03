@@ -39,10 +39,10 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/458/track7.mp3'
 # Ratamard Clan's selection
 
 ## Bando – Wesh Gros
-Ratamard Clan:**"**From the very first hour on Sunday, it’s very important to give your mother the [bleep] off.**"**
+Ratamard Clan:**"**From the very first hour on Sunday, it’s very important to give your motherf*****.**"**
 
 ## Pierre Perret  – Café du Canal
-Ratamard Clan:**"**After having fucked her mother the f*** we all meet at the cafe du canal at the pretty Rosette.**"**
+Ratamard Clan:**"**After having fucked her motherf***** we all meet at the cafe du canal at the pretty Rosette.**"**
 
 ## Meryl  – BB Compte
 Ratamard Clan: **"**And then obviously life and time take back their rights, you have to think about going home but first, you have to pay the bill.**"**
