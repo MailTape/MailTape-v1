@@ -14,11 +14,15 @@ track2_color: dreamy
 track3_title: Meryl - BB Compte
 track3_color: bliss
 track4_title: 'Ratamard Clan - '
-track5_title: KT Gorique -
-track6_title: Farlot - Pavlon
-track7_title: 'Lombre - '
+track5_title: KT Gorique - Brienne
+track6_title: Farlot - Plavon
+track7_title: 'Lombre - Quand la ville dort '
 episode_URL: 'http://mailta.pe/458/ratamard-clan/'
 musiColor: musiColor458.png
+track7_color: vibrant
+track6_color: dreamy
+track5_color: vibrant
+track4_color: trippy
 ---
 
 <p id="introduction">This morning,
