@@ -51,8 +51,8 @@ Ratamard Clan: **"**And then obviously life and time take back their rights, you
 
 # MailTape's selection
 
-## Ratamard Clan – Nouveaux Monde
-Anaïs G: **"**Avec leur rap mi-provocateur, mi comique, ce quator made in Ariège nous amène à repenser le monde dans leur titre "Nouveaux Monde"première mixtape "Comment ne pas aimé le Ratamard Clan? Un quator made in Ariège, qui détonne avec leur rap mi provoque mi comique. Avec un vrai message derrière qu'il soit sur l'écologie ou le féminisme.**"**
+## Ratamard Clan – Nouveau Monde
+Anaïs G: **"**With their rap half-provocative, half-comedy, this quartet made in Ariège leads us to rethink the world in their title “Nouveau Monde. ” A title on the Poupou record Mixtape Vol. 1. With real message behind as on ecology or feminism, how not liked the Ratamard Clan?**"**
 
 ## Kt Gorique – Brienne
 Anaïs G: **"**Discovered during the Block Party Festival in Foix, I was seduced by its flow, its a way of being, and especially its commitment to important subjects such as the place of women in rap today and others. An incredible power of speech that leaves us speechless!**"**
