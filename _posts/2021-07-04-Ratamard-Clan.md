@@ -59,7 +59,7 @@ Anaïs G: **"** **"**
 ## Farlot - Plavon
 Anaïs G: **"**poétique - puissant -  **"**
 
-## Lombre – La lumière
+## Lombre – Espoir Noir
 Anaïs G: **"** Photographique - Cinématographique - joue avec les rimes - Apaise les esprits - puissance des mots -**"** 
 
 <p id="outroduction"> 
