@@ -13,7 +13,7 @@ track2_title: Pierre Perret - Au Café du Canal
 track2_color: dreamy
 track3_title: Meryl - BB Compte
 track3_color: bliss
-track4_title: 'Ratamard Clan - '
+track4_title: Ratamard Clan - Nouveau Monde
 track5_title: KT Gorique - Brienne
 track6_title: Farlot - Plavon
 track7_title: Lombre - Espoir Noir
