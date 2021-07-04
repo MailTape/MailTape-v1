@@ -36,8 +36,7 @@ category: '458'
 description: >-
   This morning,we are tired, exhausted and washed away by this complicated year
   but finally ready for his much-deserved great holiday. It is with the joy of
-  the world before that we will spend this Sunday with the Ratamard Clan 
-  group.
+  the world before that we will spend this Sunday with the Ratamard Clan  group.
 ---
 
 <p id="introduction">This morning,we are tired, exhausted and washed away by this complicated year but finally ready for his much-deserved great holiday. It is with the joy of the world before that we will spend this Sunday with the [Ratamard Clan](https://www.facebook.com/Ratamardclan/) group. 
