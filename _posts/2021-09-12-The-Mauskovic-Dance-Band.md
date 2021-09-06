@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Jason Pridham
+writer: Jules
+category: '461'
+guest_name: The Mauskovic Dance Band
+guest_color: trippy
 ---
 <p id="introduction"> This morning, [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/)
 <br><br>
