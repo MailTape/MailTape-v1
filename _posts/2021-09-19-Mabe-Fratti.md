@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '462'
+guest_name: Mabe Fratti
+guest_color: dreamy
 ---
 
 <p id="introduction">This morning, we're extremely happy to have [TDJ](https://tdjmusic.bandcamp.com/) with us to wake up and dance! Coming from Montréal's electro scene, she's been exploring electronic music for a few years now. TDJ, which goes for Terrain de Jeux, produces retrofuturistic music pumped with irresistible beats. Filled with trance, techno, and deliciously regressive dance music not shy from reactivating early 00's vibes, be prepared for a very vibrant episode.</p>
@@ -32,4 +35,3 @@ Sarah: **"**Warm and starry track from Marseille. Touching naive and utopian vib
 Sarah: **"**Well, it's all said in the title. Love that sample which comes and go... Gives me a big smile everytime.**"** 
 
 <p id="outroduction"> That's all for this morning! This is our last episode of the season, we'll be back in September. Enjoy your summer and don't forget to dance. Many hugs to [TDJ](https://tdjmusic.bandcamp.com/) for this explosive Sunday selections and to [Celestin](https://bibliogram.pussthecat.org/u/bravocamo) for her brillant illustration based on a picture by [Xavier Cyr](https://bibliogram.snopyta.org/u/xaviercyr/).</p>
-
