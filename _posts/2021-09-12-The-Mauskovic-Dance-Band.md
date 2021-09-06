@@ -32,13 +32,13 @@ The Mauskovic Dance Band: **"**Opener of the brilliant compilation 'Ote Maloya' 
 ## [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) - Ventura Phase
 Jules: **"****"**
 
-## Anz - Loos In Twos (NRG)
+## 
 Jules: **"****"**
 
-## Azu Tiwaline - Terremer
+## 
 Jules: **"****"**
 
-## Beatrice Dillon - Workaround Two
+## N'Draman-Blintch - Cosmic Sounds
 Jules: **"****"**
 
 
