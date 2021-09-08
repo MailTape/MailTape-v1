@@ -56,5 +56,4 @@ Jules: **"****"**
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) for their crazy Sunday selections, and many thanks to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration!</p>
-
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) for their crazy Sunday selections, and many thanks to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's stunning illustration!</p>
