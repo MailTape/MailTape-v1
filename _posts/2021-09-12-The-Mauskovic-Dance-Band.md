@@ -22,6 +22,14 @@ track4_title: The Mauskovic Dance Band - Ventura Phase
 track5_title: Ensemble Entendu - Time Is Certainly Passing
 track6_title: Turzi - Watermill
 track7_title: N'Draman-Blintch - Cosmic Sounds
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track7.mp3'
+episode_URL: 'https://www.mailta.pe/461/the-mauskovic-dance-band/'
 ---
 <p id="introduction"> This morning, [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/)
 <br><br>
