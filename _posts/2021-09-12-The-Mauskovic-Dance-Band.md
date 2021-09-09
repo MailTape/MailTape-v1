@@ -30,10 +30,11 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track7.mp3'
 episode_URL: 'https://www.mailta.pe/461/the-mauskovic-dance-band/'
+musiColor: ' musiColor461.png'
 ---
 <p id="introduction"> This morning, [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/)
 <br><br>
-
+It's been a long time 
 </p>
 
 
