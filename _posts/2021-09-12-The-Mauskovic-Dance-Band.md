@@ -32,8 +32,9 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/461/track7.mp3'
 episode_URL: 'https://www.mailta.pe/461/the-mauskovic-dance-band/'
 musiColor: ' musiColor461.png'
 guestPic: guestPic461.jpg
+image: 'https://mailta.pe/img/fbPic461.png'
 ---
-<p id="introduction"> This morning something strange is floating in the air. The sky takes on psychedelic colors, the sun hits the windows like percussions. Can you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
+<p id="introduction"> This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
 <br><br>
 It's been a long time 
 </p>
