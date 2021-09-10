@@ -57,7 +57,7 @@ The Mauskovic Dance Band: **"**Opener of the brilliant compilation 'Ote Maloya' 
 Jules: **"**If the name of this group sounds strange to you, the resume of its leader shouldn't be unfamiliar. After having been a drummer for Jacco Gardner and Altin Gün, notably, multi-instrumentalist Nicola Mauskovic surrounded himself with friends and family members to form this group with its indescribable sound, a mixture of afrobeat under acid and cosmic cumbia. What you need to wake up full of energy!**"**
 
 ## Ensemble Entendu - Time Is Certainly Passing
-Jules: **"****"**
+Jules: **"**Ensemble Entendu is a collaborative project of Brooklyn-based producers Photay and Sam O.B, an aside in their solo career which allows them to explore new rhythms, halfway between their respective universes. I only recently discovered the 3 EPs they released on the Astro Nautico label and have since developed a nostalgic obsession for this track that has accompanied my summer.**"**
 
 ## [Turzi](https://www.facebook.com/TurziOfficial) - Watermill
 Jules: **"****"**
