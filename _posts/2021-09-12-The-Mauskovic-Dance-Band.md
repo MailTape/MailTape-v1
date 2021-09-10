@@ -63,7 +63,7 @@ Jules: **"**Ensemble Entendu is a collaborative project of Brooklyn-based produc
 Jules: **"**I discovered this song on a compilation released by Munich-based label [Public Possession](https://publicpossession.bandcamp.com/), also a label whose music has accompanied me a lot this summer, from party nights to the seaside.**"**
 
 ## N'Draman-Blintch - Cosmic Sounds
-Jules: **"**[Secousse](https://secousse.bandcamp.com/album/cosmic-sounds-repress)**"**
+Jules: **"**A musical discovery that I'm still struggling to recover from! This gem of a song, originally from Nigeria, is currently being repressed by Marseille-based label [Secousse](https://secousse.bandcamp.com/album/cosmic-sounds-repress), 38 years after its original release. It's hard to believe that we have missed this afro disco masterpiece for so long.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) for their crazy Sunday selections, and many thanks to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's stunning illustration!</p>
