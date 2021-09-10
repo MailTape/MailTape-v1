@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/461/the-mauskovic-dance-band/'
 musiColor: ' musiColor461.png'
 guestPic: guestPic461.jpg
 ---
-<p id="introduction"> This morning, [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/)
+<p id="introduction"> This morning something strange is floating in the air. The sky takes on psychedelic colors, the sun hits the windows like percussions. Can you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
 <br><br>
 It's been a long time 
 </p>
@@ -45,7 +45,7 @@ It's been a long time
 The Mauskovic Dance Band: **"**A very disturbing but relaxing song i like to listen too while being massaged in the morning.**"**
 
 ## Don Melody Club - Bovendien
-The Mauskovic Dance Band: **"**Our band mate Donald recently released his first solo record under the name Don Melody Club. Make a cup of coffee and let Donald's voice and Maestro Rhythm box sooth you on this Sunday morning with the track “Bovendien"**"**
+The Mauskovic Dance Band: **"**Our band mate Donald recently released his first solo record under the name [Don Melody Club](https://donmelodyclub.bandcamp.com/). Make a cup of coffee and let Donald's voice and Maestro Rhythm box sooth you on this Sunday morning with the track “Bovendien"**"**
 
 ## Cameleon - La Rosée Si Feuilles Songes
 The Mauskovic Dance Band: **"**Opener of the brilliant compilation 'Ote Maloya' with music from the island of Réunion. Our drummer Chris just recently discovered this compilation and has been obsessively listening to these hypnotising grooves ever since.**"**
@@ -54,16 +54,16 @@ The Mauskovic Dance Band: **"**Opener of the brilliant compilation 'Ote Maloya' 
 # MailTape's selection
 
 ## [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) - Ventura Phase
-Jules: **"****"**
+Jules: **"**If the name of this group sounds strange to you, the resume of its leader shouldn't be unfamiliar. After having been a drummer for Jacco Gardner and Altin Gün, notably, multi-instrumentalist Nicola Mauskovic surrounded himself with friends and family members to form this group with its indescribable sound, a mixture of afrobeat under acid and cosmic cumbia. What you need to wake up full of energy!**"**
 
 ## Ensemble Entendu - Time Is Certainly Passing
 Jules: **"****"**
 
-## Turzi - Watermill
+## [Turzi](https://www.facebook.com/TurziOfficial) - Watermill
 Jules: **"****"**
 
 ## N'Draman-Blintch - Cosmic Sounds
-Jules: **"****"**
+Jules: **"**[Secousse](https://secousse.bandcamp.com/album/cosmic-sounds-repress)**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) for their crazy Sunday selections, and many thanks to [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's stunning illustration!</p>
