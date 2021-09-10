@@ -36,7 +36,7 @@ image: 'https://mailta.pe/img/fbPic461.png'
 ---
 <p id="introduction"> This morning something strange is floating in the air. The sky takes on psychedelic colors; the sun hits the windows like percussions. Can you see [The Mauskovic Dance Band](https://mauskovicdanceband.bandcamp.com/) slowly emerging from the clouds to join us for a new MailTape episode?
 <br><br>
-It's been a long time 
+It's been a very long time. Perhaps it was the particular context or the need for a vacation. Anyway, sometimes you need to take a break, pull back just a little bit from everything, even the music. You can easily get lost in the constant search for novelty, the demand for something new, for surprise, as the music evolves quickly and swarms in all directions. As in all things, what is important is to find your own rhythm, the way you feel good. I am happy to welcome the Mauskovic Dance Band today, a group that directly amazed me when I first listened to their music. I had already contacted them without success, and I had slowly forgotten them until I fell back on their music recently, rediscovering their singular rhythms and reconnecting with them.
 </p>
 
 
