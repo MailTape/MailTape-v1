@@ -60,7 +60,7 @@ Jules: **"**If the name of this group sounds strange to you, the resume of its l
 Jules: **"**Ensemble Entendu is a collaborative project of Brooklyn-based producers Photay and Sam O.B, an aside in their solo career which allows them to explore new rhythms, halfway between their respective universes. I only recently discovered the 3 EPs they released on the Astro Nautico label and have since developed a nostalgic obsession for this track that has accompanied my summer.**"**
 
 ## [Turzi](https://www.facebook.com/TurziOfficial) - Watermill
-Jules: **"****"**
+Jules: **"**I discovered this song on a compilation released by Munich-based label [Public Possession](https://publicpossession.bandcamp.com/), also a label whose music has accompanied me a lot this summer, from party nights to the seaside.**"**
 
 ## N'Draman-Blintch - Cosmic Sounds
 Jules: **"**[Secousse](https://secousse.bandcamp.com/album/cosmic-sounds-repress)**"**
