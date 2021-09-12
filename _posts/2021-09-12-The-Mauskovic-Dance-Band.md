@@ -63,7 +63,7 @@ The Mauskovic Dance Band: **"**A very disturbing but relaxing song i like to lis
 ## Don Melody Club - Bovendien
 The Mauskovic Dance Band: **"**Our band mate Donald recently released his first solo record under the name [Don Melody Club](https://donmelodyclub.bandcamp.com/). Make a cup of coffee and let Donald's voice and Maestro Rhythm box sooth you on this Sunday morning with the track “Bovendien"**"**
 
-## Cameleon - La Rosée Si Feuilles Songes
+## Caméleon - La Rosée Si Feuilles Songes
 The Mauskovic Dance Band: **"**Opener of the brilliant compilation 'Ote Maloya' with music from the island of Réunion. Our drummer Chris just recently discovered this compilation and has been obsessively listening to these hypnotising grooves ever since.**"**
 
 
