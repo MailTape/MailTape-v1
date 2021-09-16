@@ -10,6 +10,12 @@ track1_color: trippy
 track2_title: Scott Walker - Bolivia '95
 track3_title: Fatou Seidi Ghali - Telilit
 track2_color: trippy
+track3_color: vibrant
+track4_title: Mabe Fratti - Aire
+track4_color: bliss
+track5_color: vibrant
+track6_color: trippy
+track7_color: vibrant
 ---
 
 <p id="introduction">This morning, we're extremely happy to have [TDJ](https://tdjmusic.bandcamp.com/) with us to wake up and dance! Coming from Montréal's electro scene, she's been exploring electronic music for a few years now. TDJ, which goes for Terrain de Jeux, produces retrofuturistic music pumped with irresistible beats. Filled with trance, techno, and deliciously regressive dance music not shy from reactivating early 00's vibes, be prepared for a very vibrant episode.</p>
