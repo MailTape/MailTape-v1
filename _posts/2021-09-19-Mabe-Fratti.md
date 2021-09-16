@@ -5,6 +5,8 @@ published: false
 category: '462'
 guest_name: Mabe Fratti
 guest_color: dreamy
+track1_title: Giacinto Scelsi - Pranam II
+track1_color: trippy
 ---
 
 <p id="introduction">This morning, we're extremely happy to have [TDJ](https://tdjmusic.bandcamp.com/) with us to wake up and dance! Coming from Montréal's electro scene, she's been exploring electronic music for a few years now. TDJ, which goes for Terrain de Jeux, produces retrofuturistic music pumped with irresistible beats. Filled with trance, techno, and deliciously regressive dance music not shy from reactivating early 00's vibes, be prepared for a very vibrant episode.</p>
