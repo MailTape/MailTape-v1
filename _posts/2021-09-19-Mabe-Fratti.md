@@ -33,7 +33,7 @@ Mabe Fratti: **"**I love [Les Filles de Illighadad](https://lesfillesdeillighada
 
 # MailTape's selection
 
-## [Mabe Fratti](https://mabefratti1.bandcamp.com/) - Lalala (Want Somebody)
+## [Mabe Fratti](https://mabefratti1.bandcamp.com/) - Aire
 Sarah: **"**Once I listened to it, I had it going in loops in my mind for weeks. Perfect track to release any tension and open space for exploration.**"**
 
 ## [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) - Erotive (Paul Seul)
