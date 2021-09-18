@@ -30,9 +30,18 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/462/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/462/track3.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/462/track6.mp3'
 episode_URL: 'http://mailta.pe/462/Mabe-Fratti/'
+description: >-
+  This morning, we're thrilled to welcome Guatemalan cellist and composer Mabe
+  Fratti to MailTape for a Sunday selection of experimental instrumentals and
+  melodies :) Mabe Fratti consistently pushes our expectations of classical and
+  melodic standards, treading into territories of provocative dissonance across
+  all of her albums :)
+writer: Sarah
+illustrator: Julie Wojtczak
+author: Sarah
 ---
 
-<p id="introduction">This morning, we're thrilled to welcome Guatemalan cellist and composer [Mabe Fratti](https://mabefratti1.bandcamp.com/) to MailTape for a Sunday selection of experimental instrumentals and melodies :) Mabe consistently pushes our expectations of classical and melodic standards, treading into territories of provocative dissonance across all of her albums.</p>
+<p id="introduction">This morning, we're thrilled to welcome Guatemalan cellist and composer [Mabe Fratti](https://mabefratti1.bandcamp.com/) to MailTape for a Sunday selection of experimental instrumentals and melodies :) Mabe Fratti consistently pushes our expectations of classical and melodic standards, treading into territories of provocative dissonance across all of her albums :)</p>
 
 # Mabe Fratti's selection
 
