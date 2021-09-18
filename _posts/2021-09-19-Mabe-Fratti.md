@@ -16,6 +16,9 @@ track4_color: bliss
 track5_color: vibrant
 track6_color: trippy
 track7_color: vibrant
+guestPic: guestPic462.jpg
+image: 'https://mailta.pe/img/fbPic462.png'
+musiColor: musiColor462.png
 ---
 
 <p id="introduction">This morning, we're extremely happy to have [TDJ](https://tdjmusic.bandcamp.com/) with us to wake up and dance! Coming from Montréal's electro scene, she's been exploring electronic music for a few years now. TDJ, which goes for Terrain de Jeux, produces retrofuturistic music pumped with irresistible beats. Filled with trance, techno, and deliciously regressive dance music not shy from reactivating early 00's vibes, be prepared for a very vibrant episode.</p>
@@ -24,6 +27,8 @@ track7_color: vibrant
 
 ## [Giacinto Scelsi](http://www.scelsi.it/en/biography/) - Pranam II (1973)
 Mabe Fratti:**"**I remember when I heard this track for the first time in Luca Guadagnino’s “A Bigger Splash”. It was incredibly powerful and I had to look it up. I ended up loving Scelsi’s work. What I love about this track is the immense layering that goes on, with slow and long gestures that create dissonance and tension. This immense variety of layering that happens in all frequencies, there are so many spaces in the spectrum that are filled out, give a sensation of fullness.**"**
+![guestPic462.jpg]({{site.baseurl}}/img/guestPic462.jpg)
+![fbPic462.png]({{site.baseurl}}/img/fbPic462.png)
 
 ## [Scott Walker](https://www.discogs.com/Scott-Walker-Tilt/master/68203) - Bolivia '95 
 Mabe Fratti:**"**[Tilt](https://www.discogs.com/Scott-Walker-Tilt/master/68203) is probably one of my favourite albums of all time, and this particular track is one of my favourites because I feel the spaciousness and detail of every instrument and texture that is added to this track. Besides, the narrative that Scott Walker’s voice makes going from the atonal to a melodic and delicate rhythm feels amazing. The effects of the guitar, this panned tremolo, it all feels in the right place.**"**
@@ -32,6 +37,7 @@ Mabe Fratti:**"**[Tilt](https://www.discogs.com/Scott-Walker-Tilt/master/68203) 
 Mabe Fratti: **"**I love [Les Filles de Illighadad](https://lesfillesdeillighadad.bandcamp.com/album/les-filles-de-illighadad), and this live version of Telilit is amazing. Not the power of repetition is felt in this track, but also how unison is fulfilling. The guitar is making the same line as the vocals, that complement with small modulations that give a lot of feeling to the track. It’s uplifting music.**"**
 
 # MailTape's selection
+![musiColor462.png]({{site.baseurl}}/img/musiColor462.png)
 
 ## [Mabe Fratti](https://mabefratti1.bandcamp.com/) - Aire
 Sarah: **"**Once I listened to it, I had it going in loops in my mind for weeks. Perfect track to release any tension and open space for exploration.**"**
