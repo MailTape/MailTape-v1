@@ -19,6 +19,11 @@ track7_color: vibrant
 guestPic: guestPic462.jpg
 image: 'https://mailta.pe/img/fbPic462.png'
 musiColor: musiColor462.png
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/462/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/462/track7.mp3'
+track7_title: Lucky Lo - Supercarry
+track6_title: Mamman Sani - Samari Da Yan Matan
+track5_title: Wau Wau Collectif - Thiante
 ---
 
 <p id="introduction">This morning, we're thrilled to welcome Guatemalan cellist and composer [Mabe Fratti](https://mabefratti1.bandcamp.com/) to MailTape for a Sunday selection of experimental instrumentals and melodies :) Mabe consistently pushes our expectations of classical and melodic standards, treading into territories of provocative dissonance across all of her albums.</p>
