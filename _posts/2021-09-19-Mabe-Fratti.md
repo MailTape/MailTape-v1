@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '462'
 guest_name: Mabe Fratti
 guest_color: dreamy
