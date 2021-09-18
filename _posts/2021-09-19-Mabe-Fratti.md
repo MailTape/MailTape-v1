@@ -39,13 +39,13 @@ Mabe Fratti: **"**I love [Les Filles de Illighadad](https://lesfillesdeillighada
 ## [Mabe Fratti](https://mabefratti1.bandcamp.com/) - Aire
 Sarah: **"**Once I listened to it, I had it going in loops in my mind for weeks. Perfect track to release any tension and open space for exploration.**"**
 
-## [Mathilde Fernandez](https://mathildefernandez.bandcamp.com/) - Erotive (Paul Seul)
-Sarah: **"**Mathiiiiilde. Well at this point, what can I say? I can't resist. Another baroqu-ish banger made with Paul.**"**
+## [Wau Wau Collectif](https://mathildefernandez.bandcamp.com/) - Thiante
+Sarah: **"**From an album that I adore :) such a cheerful quality to this horn section alongside the guitar riffs and wanderings. Songs like these set up sunshine for the rest of your day.**"**
 
-## [LAZE](https://soundcloud.com/laze_music) - Las Vegas Burial
-Sarah: **"**Warm and starry track from Marseille. Touching naive and utopian vibes here.**"**
+## [Mamman Sani](https://soundcloud.com/laze_music) - Samari Da Yan Matan
+Sarah: **"**Mamman Sani, hailing from Niger, is a pioneer of synth music in West Africa. This track comes off of his unreleased tapes. There's a yearning quality to the synth melody, so special :)**"**
 
-## [Sam Gendel](https://samgendel.bandcamp.com/album/fresh-bread) - Sometimes I Feel So Good
-Sarah: **"**Well, it's all said in the title. Love that sample which comes and go... Gives me a big smile everytime.**"** 
+## [Lucky Lo](https://samgendel.bandcamp.com/album/fresh-bread) - Supercarry
+Sarah: **"**Could not get this 2021 single out of my head! Love the movement within this song, especially with these arpeggios :) Delightful.*"** 
 
-<p id="outroduction"> That's all for this morning! This is our last episode of the season, we'll be back in September. Enjoy your summer and don't forget to dance. Many hugs to [TDJ](https://tdjmusic.bandcamp.com/) for this explosive Sunday selections and to [Celestin](https://bibliogram.pussthecat.org/u/bravocamo) for her brillant illustration based on a picture by [Xavier Cyr](https://bibliogram.snopyta.org/u/xaviercyr/).</p>
+<p id="outroduction"> That's all for this morning! Hope we got you to dance around a bit :) Many thanks to [Mabe Fratti](https://mabefratti1.bandcamp.com/) for her fantastic Sunday selections and to [Julie Wo](https://www.instagram.com/julie_wo/?hl=en) for her brillant illustration!</p>
