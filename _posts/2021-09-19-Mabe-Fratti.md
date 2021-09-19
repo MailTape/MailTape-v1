@@ -57,7 +57,7 @@ Mabe Fratti: **"**I love [Les Filles de Illighadad](https://lesfillesdeillighada
 # MailTape's selection
 
 ## [Mabe Fratti](https://mabefratti1.bandcamp.com/) - Aire
-Sarah: **"**From Mabe's 2021 album [Será Que Ahora Podremos Entendernos](https://tinangelrecords.bandcamp.com/album/ser-que-ahora-podremos-entendernos). Spellbinding and blissful, this album features many glorious collaborations, but I kept returning to this track :) The power behind this cello is carried higher still by the ethereal vocals and synths, created an intoxicating melange of sound. I love how gracefully (and naturally) dissonance is incorporated into the overarching harmonies before taking control of the song by the end. A masterpiece of an album.**"**
+Sarah: **"**From Mabe's 2021 album [Será Que Ahora Podremos Entendernos](https://tinangelrecords.bandcamp.com/album/ser-que-ahora-podremos-entendernos). Spellbinding and blissful, this album features many glorious collaborations, but I kept returning to this track :) The power behind this cello is carried higher still by the ethereal vocals and synths, creating an intoxicating melange of sound. I love how gracefully (and naturally) dissonance is incorporated into the overarching harmonies before taking control of the song by the end. A masterpiece of an album.**"**
 
 ## [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) - Thiante
 Sarah: **"**From an [album/project](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) that I adore :) such a cheerful quality to this horn section alongside the guitar riffs and wanderings. Songs like these set up sunshine for the rest of your day.**"**
@@ -68,4 +68,4 @@ Sarah: **"**Mamman Sani, hailing from Niger, is a pioneer of synth music in West
 ## [Lucky Lo](https://www.instagram.com/luckylomusic/?hl=en) - Supercarry
 Sarah: **"**Could not get this 2021 single out of my head :) Love the movement within this song, especially with these whirlpool arpeggios. A nice Sunday track to finish off our episode :)**"** 
 
-<p id="outroduction"> That's all for this morning! Hope we got you to dance around a bit :) Many thanks to [Mabe Fratti](https://mabefratti1.bandcamp.com/) for her fantastic Sunday selections and to [Julie Wo](https://www.instagram.com/julie_wo/?hl=en) for her brillant illustration!</p>
+<p id="outroduction"> That's all for this morning! Hope we got you to dance around a bit :) Many thanks to [Mabe Fratti](https://mabefratti1.bandcamp.com/) for her fantastic Sunday selections and to [Julie Wo](https://www.instagram.com/julie_wo/?hl=en) for her brilliant illustration!</p>
