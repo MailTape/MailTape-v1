@@ -66,6 +66,6 @@ Sarah: **"**From an [album/project](https://wauwaucollectif.bandcamp.com/album/y
 Sarah: **"**Mamman Sani, hailing from Niger, is a pioneer of synth music in West Africa. This track comes off of his [unreleased tapes](https://mammansani.bandcamp.com/album/unreleased-tapes-1981-1984) (circa 1981 - 1984). I love the influence of traditional folk music that swirls along Sani's modern synths. There's also a yearning quality to this organ melody, so special.**"**
 
 ## [Lucky Lo](https://www.instagram.com/luckylomusic/?hl=en) - Supercarry
-Sarah: **"**Could not get this 2021 single out of my head :) Love the movement within this song, especially with these whirlpool arpeggios. A nice Sunday track to finish off our episode :)*"** 
+Sarah: **"**Could not get this 2021 single out of my head :) Love the movement within this song, especially with these whirlpool arpeggios. A nice Sunday track to finish off our episode :)**"** 
 
 <p id="outroduction"> That's all for this morning! Hope we got you to dance around a bit :) Many thanks to [Mabe Fratti](https://mabefratti1.bandcamp.com/) for her fantastic Sunday selections and to [Julie Wo](https://www.instagram.com/julie_wo/?hl=en) for her brillant illustration!</p>
