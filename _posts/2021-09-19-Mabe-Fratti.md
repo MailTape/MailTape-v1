@@ -63,7 +63,7 @@ Sarah: **"**From Mabe's 2021 album [Será Que Ahora Podremos Entendernos](https:
 Sarah: **"**From an [album/project](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom) that I adore :) such a cheerful quality to this horn section alongside the guitar riffs and wanderings. Songs like these set up sunshine for the rest of your day.**"**
 
 ## [Mamman Sani](https://mammansani.bandcamp.com/) - Samari Da Yan Matan
-Sarah: **"**Mamman Sani, hailing from Niger, is a pioneer of synth music in West Africa. This track comes off of his [unreleased tapes](https://mammansani.bandcamp.com/album/unreleased-tapes-1981-1984) (circa 1981 - 1984). I love the influence of traditional folk music that swirls along Sani's modern synths. There's also a yearning quality to this organ melody, so special.**"**
+Sarah: **"**Mamman Sani, hailing from Niger, is a pioneer of synth music in West Africa. This track comes off of his [unreleased tapes](https://mammansani.bandcamp.com/album/unreleased-tapes-1981-1984) (circa 1981 - 1984). I love the influence of traditional folk music that swirls alongside Sani's modern synths. There's also a yearning quality to this organ melody, so special.**"**
 
 ## [Lucky Lo](https://www.instagram.com/luckylomusic/?hl=en) - Supercarry
 Sarah: **"**Could not get this 2021 single out of my head :) Love the movement within this song, especially with these whirlpool arpeggios. A nice Sunday track to finish off our episode :)**"** 
