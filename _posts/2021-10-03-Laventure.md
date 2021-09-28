@@ -12,6 +12,14 @@ track1_title: Franck Zappa - Advance Romance
 track1_color: rough
 track2_title: Q - Alone
 track2_color: dreamy
+track3_title: Broncho - Get in My Car
+track3_color: bliss
+track4_title: Laventure - Give
+track4_color: dreamy
+track5_title: Hubert Le Noir feat Bonnei Banane - Octembre
+track5_color: bliss
+track6_title: Le Noiceur - Relax
+track6_color: dreamy
 ---
 <p id="introduction"> This morning, 
 <br><br>
