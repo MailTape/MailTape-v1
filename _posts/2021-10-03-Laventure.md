@@ -26,13 +26,13 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 ## Laventure - 
 Anaïs: **"** **"**
 
-##  - 
+##  Hubert Le Noir feat Bonnie Banane - Octembre
 : **"** **"**
 
-##  - 
+## Le Noiceur - Relax
 : **"** **"**
 
-##  - 
+## Slim & The Beast - Tongue Tied
  : **"** **"**
 
 
