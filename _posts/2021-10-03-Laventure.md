@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+writer: Anaïs G
+category: '464'
+guest_name: Laventure
+guest_color: dreamy
+guestPic: guestPic464.jpg
 ---
 <p id="introduction"> This morning, 
 <br><br>
