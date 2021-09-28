@@ -30,13 +30,13 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 # MailTape's selection
 
 ## Laventure - 
-Anaïs: **"** **"**
+Anaïs: **"**Un petit air de Connan Mockasin avec son groupe Soft Air.  **"**
 
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
-: **"** **"**
+: **"** Le titre sexy, sensuel et barré à la fois.  **"**
 
 ## Le Noiceur - Relax
-: **"** **"**
+: **"** Chill par excellence**"**
 
 ## Slim & The Beast - Tongue Tied
  : **"** **"**
