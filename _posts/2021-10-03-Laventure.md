@@ -36,4 +36,4 @@ Anaïs: **"** **"**
  : **"** **"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tomu DJ](http://tomu.dj/) for her moving Sunday selections, and many thanks to [Anthony Dujardin](https://www.instagram.com/fromthegarden/?hl=en) for this episode's brilliant illustration based on a picture by [Courtney Sofiah Yates](https://courtney-yates.com/)!</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us.</p>
