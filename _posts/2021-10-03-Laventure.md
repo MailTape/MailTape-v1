@@ -8,6 +8,10 @@ category: '464'
 guest_name: Laventure
 guest_color: dreamy
 guestPic: guestPic464.jpg
+track1_title: Franck Zappa - Advance Romance
+track1_color: rough
+track2_title: Q - Alone
+track2_color: dreamy
 ---
 <p id="introduction"> This morning, 
 <br><br>
