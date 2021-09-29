@@ -45,10 +45,10 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 Anaïs: **"**Etant une grande fan de Connan Mockasin et de son groupe Soft Hair, je ne pouvais qu'aimer Laventure. Incroyablement doux et sensuel, leur musique pop lo-fi nous emmène sur leur planête où il n'y a aucun tabous et où les codes sociétaux n'existent plus. Un univers barré que ce duo strabourgeois nous offre sur un plateau.**"**
 
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
-: **"** Le titre sexy, sensuel et barré à la fois.  **"**
+: **"**Dès les permières notes de ce titre, j'ai tout de suite accroché. Un petit son de robot et de gens à l'extérieur. Puis, je fus étonné d'entendre la voix de la talentueuse Bonnie Banane mais surtout celle d'Hubert Le Noir qui m'a totalement schotché et tenu en haleine jusqu'à la fin de la chanson. En attendant le second album " Pictura de Ipse" on se laisse aller en dansant sur "Octembre". **"**
 
 ## Le Noiceur - Relax
-: **"** Chill par excellence**"**
+: **"**Dans la même ambiance, un peu chill et décalé on a Le Noiceur. C'est un revival dans les années 90 que nous offre Simon Campocasso pour son retour. Habitué des ballades  **"**
 
 ## Slim & The Beast - Tongue Tied
  : **"** **"**
