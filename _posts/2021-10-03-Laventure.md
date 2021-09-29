@@ -42,7 +42,7 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 # MailTape's selection
 
 ## Laventure - Give
-Anaïs: **"**Being a big fan of Connan Mockasin and his band Soft Hair, I couldn’t help but love Laventure. Incredibly soft and sensual, their pop music lo -fi takes us to their planet where there are no taboos and societal codes no longer exist. A barred universe that this Strabourgeois duo offers us on a set.**"**
+Anaïs G: **"**Being a big fan of Connan Mockasin and his band Soft Hair, I couldn’t help but love Laventure. Incredibly soft and sensual, their pop music lo -fi takes us to their planet where there are no taboos and societal codes no longer exist. A barred universe that this Strabourgeois duo offers us on a set.**"**
 
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
 Anaïs G: **"**From the first notes of this title, I immediately hooked. A little sound of robot and people outside. Then, I was amazed to hear the voice of the talented Bonnie Banane but especially that of Hubert Le Noir who totally shocked me and kept me in my air until the end of the song. While waiting for the second album “Pictura de Ipse” we let ourselves go by dancing on “Octembre.” **"**
