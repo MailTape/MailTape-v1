@@ -41,8 +41,8 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 
 # MailTape's selection
 
-## Laventure - 
-Anaïs: **"**Un petit air de Connan Mockasin avec son groupe Soft Air.  **"**
+## Laventure - Give
+Anaïs: **"**Etant une grande fan de Connan Mockasin et de son groupe Soft Hair, je ne pouvais qu'aimer Laventure. Incroyablement doux et sensuel, leur musique pop lo-fi nous emmène sur leur planête où il n'y a aucun tabous et où les codes sociétaux n'existent plus. Un univers barré que ce duo strabourgeois nous offre sur un plateau.**"**
 
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
 : **"** Le titre sexy, sensuel et barré à la fois.  **"**
