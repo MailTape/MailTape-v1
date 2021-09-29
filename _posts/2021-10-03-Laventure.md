@@ -42,16 +42,16 @@ Laventure: **"**This song makes us want to get on the road with our team again. 
 # MailTape's selection
 
 ## Laventure - Give
-Anaïs: **"**Etant une grande fan de Connan Mockasin et de son groupe Soft Hair, je ne pouvais qu'aimer Laventure. Incroyablement doux et sensuel, leur musique pop lo-fi nous emmène sur leur planête où il n'y a aucun tabous et où les codes sociétaux n'existent plus. Un univers barré que ce duo strabourgeois nous offre sur un plateau.**"**
+Anaïs: **"**Being a big fan of Connan Mockasin and his band Soft Hair, I couldn’t help but love Laventure. Incredibly soft and sensual, their pop music lo -fi takes us to their planet where there are no taboos and societal codes no longer exist. A barred universe that this Strabourgeois duo offers us on a set.**"**
 
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
-: **"**Dès les permières notes de ce titre, j'ai tout de suite accroché. Un petit son de robot et de gens à l'extérieur. Puis, je fus étonné d'entendre la voix de la talentueuse Bonnie Banane mais surtout celle d'Hubert Le Noir qui m'a totalement schotché et tenu en haleine jusqu'à la fin de la chanson. En attendant le second album " Pictura de Ipse" on se laisse aller en dansant sur "Octembre". **"**
+Anaïs G: **"**From the first notes of this title, I immediately hooked. A little sound of robot and people outside. Then, I was amazed to hear the voice of the talented Bonnie Banane but especially that of Hubert Le Noir who totally shocked me and kept me in my air until the end of the song. While waiting for the second album “Pictura de Ipse” we let ourselves go by dancing on “Octembre.” **"**
 
 ## Le Noiceur - Relax
-: **"**Dans la même ambiance, un peu chill et décalé on a Le Noiceur. C'est un revival dans les années 90 que nous offre Simon Campocasso pour son retour. Habitué des ballades  **"**
+Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noiceur. It is a revival in the 90s that Simon Campocasso offers us for his return.**"**
 
 ## Slim & The Beast - Tongue Tied
- : **"** **"**
+ Anaïs G: **"** **"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us.</p>
