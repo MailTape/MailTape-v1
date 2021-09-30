@@ -63,4 +63,4 @@ Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noi
  Anaïs G: **"**To prolong the summer and this very chill-groovy selection, a rather soft title of the trio franco -American -Spanish.**"**
 
 
-<p id="outroduction"> That's all for this morning! As always, thank you so much for listening with us. So much love to [Ratamard Clan](https://www.facebook.com/Ratamardclan/) for the delightful Sunday selections and to [Noémie Dijon](https://noemiedijon.tumblr.com/tagged/illustration) for this episode's brilliant illustration </p>
+<p id="outroduction"> That's all for this morning! As always, thank you so much for listening with us. So much love to Laventure for the delightful Sunday selections and to (*)  for this episode's brilliant illustration.</p>
