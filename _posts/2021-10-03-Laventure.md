@@ -38,7 +38,7 @@ description: >-
 
 # Laventure's selection
 
-## Franck Zappa - Advance Romance
+## [Franck Zappa](https://fr.wikipedia.org/wiki/Frank_Zappa) - Advance Romance
 Laventure: **"**This choice really comes from the bottom of my heart… My dad always tells the story of how he used to listen to this CD, especially this song with the hypnotic Captain Beefheart, in the family’s car when I was just a baby sitting in the back seat.When I listen to this track, I still get the same feeling I got then… I wished above anything else in the world to be Terry Bozzio (the drummer)! My imaginary world would mix all of my dad’s anecdotes about the gigs he went to… It was spectacular, just like Frank Zappa’s career. That strange character with a sharp face, a goatee with this musketeer vibe as thick as a cigarette paper. Genius? Mad scientist? Punk? Soul man? It’s almost impossible to love all his craft but contrary to what people usually think, there’s a ZAPPA for everyone. **"**
 
 ## Q - Alone
