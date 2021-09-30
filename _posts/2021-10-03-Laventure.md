@@ -33,7 +33,7 @@ description: >-
   and sunshine in your heart assured!
 ---
 <p id="introduction">This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group Laventure. Chill, relaxation and sunshine in your heart assured!
-<br><br>Laventure c'est un duo strasbourgeois composé de et 
+<br><br>Laventure is a Strasbourg duo composed of Ingrid Laventure and Boris Lodel. A pop-lo musical project -fi which was born last January and has been able to assert itself little by little on social networks but also through their off-the-shoot DIY clip like “Little Dog. ” We love this chill atmosphere and that’s what we’ll discover in their Sunday selection.
 
 </p>
 
