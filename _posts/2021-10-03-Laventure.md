@@ -58,8 +58,8 @@ Anaïs G: **"**Being a big fan of Connan Mockasin and his band Soft Hair, I coul
 ##  Hubert Le Noir feat Bonnie Banane - Octembre
 Anaïs G: **"**From the first notes of this title, I immediately hooked. A little sound of robot and people outside. Then, I was amazed to hear the voice of the talented Bonnie Banane but especially that of Hubert Le Noir who totally shocked me and kept me in my air until the end of the song. While waiting for the second album “Pictura de Ipse” we let ourselves go by dancing on “Octembre.” **"**
 
-## Le Noiceur - Relax
-Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noiceur. It is a revival in the 90s that Simon Campocasso offers us for his return.**"**
+## Le Noiseur - Relax
+Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noiseur. It is a revival in the 90s that Simon Campocasso offers us for his return.**"**
 
 ## Slim & The Beast - Tongue Tied
  Anaïs G: **"**To prolong the summer and this very chill-groovy selection, a rather soft title of the trio franco -American -Spanish.**"**
