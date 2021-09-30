@@ -18,7 +18,7 @@ track4_title: Laventure - Give
 track4_color: dreamy
 track5_title: Hubert Le Noir feat Bonnei Banane - Octembre
 track5_color: bliss
-track6_title: Le Noiceur - Relax
+track6_title: Le Noiseur - Relax
 track6_color: dreamy
 track7_color: bliss
 track7_title: 'Slim & The Beast - Tongue Tied '
