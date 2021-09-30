@@ -26,8 +26,8 @@ episode_URL: 'https://mailta.pe/464/laventure/'
 image: 'https://maillta.pe/img/fbPic464.png'
 musiColor: musiColor464.png
 ---
-<p id="introduction"> This morning, 
-<br><br>
+<p id="introduction">This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group Laventure. Chill, relaxation and sunshine in your heart assured!
+<br><br>Laventure c'est un duo strasbourgeois composé de et 
 
 </p>
 
