@@ -23,6 +23,8 @@ track6_color: dreamy
 track7_color: bliss
 track7_title: 'Slim & The Beast - Tongue Tied '
 episode_URL: 'https://mailta.pe/464/laventure/'
+image: 'https://maillta.pe/img/fbPic464.png'
+musiColor: musiColor464.png
 ---
 <p id="introduction"> This morning, 
 <br><br>
