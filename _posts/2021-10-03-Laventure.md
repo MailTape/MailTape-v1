@@ -54,7 +54,7 @@ Anaïs G: **"**From the first notes of this title, I immediately hooked. A littl
 Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noiceur. It is a revival in the 90s that Simon Campocasso offers us for his return.**"**
 
 ## Slim & The Beast - Tongue Tied
- Anaïs G: **"** **"**
+ Anaïs G: **"**Pour prolonger l'été et cette sélection très chill-groovy, un titre du trio franco-américain-espagnol  **"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us.</p>
