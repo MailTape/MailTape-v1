@@ -44,19 +44,19 @@ Laventure: **"**This choice really comes from the bottom of my heart… My dad a
 ## [Q](https://soundcloud.com/qmarsden) - Alone
 Laventure: **"**Man this summer was hard haha. Boris and I spent almost the whole season in our bedrooms working on our next project while our friends left for the holidays… Since we had different tasks, we didn’t even see each other that much. I had to record the vocals for the tracks and Boris had to rearrange them. That was a lonely and challenging time but it was also so enriching and rewarding. It’s this kind of period in your life where you have no choice but to grow.So I used to listen to this masterpiece when I felt down. There’s something so soothing and comforting about this song. I don’t know what but it makes me feel better!**"**
 
-## Broncho - Get in My Car 
+## [Broncho](https://soundcloud.com/bronchoband) - Get in My Car 
 Laventure: **"**This song makes us want to get on the road with our team again. I think it’s a love song? Haha. But the lyrics quite apply to our friendship. We wouldn’t want to make it on our own. We’ve got each other and we’ll try to go as far as possible together… Wow that was cheesy af, but sincere hahaha.**"**
 
 
 # MailTape's selection
 
-## Laventure - Give
-Anaïs G: **"**Being a big fan of Connan Mockasin and his band Soft Hair, I couldn’t help but love Laventure. Incredibly soft and sensual, their pop music lo -fi takes us to their planet where there are no taboos and societal codes no longer exist. A barred universe that this Strabourgeois duo offers us on a set.**"**
+## [Laventure](https://www.facebook.com/yolaventure/) - Give
+Anaïs G: **"**Being a big fan of [Connan Mockasin](https://www.facebook.com/connanmockasin) and his band [Soft Hair](https://softhair.bandcamp.com/), I couldn’t help but love Laventure. Incredibly soft and sensual, their pop music lo -fi takes us to their planet where there are no taboos and societal codes no longer exist. A barred universe that this Strabourgeois duo offers us on a set.**"**
 
-##  Hubert Le Noir feat Bonnie Banane - Octembre
-Anaïs G: **"**From the first notes of this title, I immediately hooked. A little sound of robot and people outside. Then, I was amazed to hear the voice of the talented Bonnie Banane but especially that of Hubert Le Noir who totally shocked me and kept me in my air until the end of the song. While waiting for the second album “Pictura de Ipse” we let ourselves go by dancing on “Octembre.” **"**
+##  [Hubert Le Noir](https://www.facebook.com/connanmockasin) feat [Bonnie Banane](https://soundcloud.com/bonniebanane) - Octembre
+Anaïs G: **"**From the first notes of this title, I immediately hooked. A little sound of robot and people outside. Then, I was amazed to hear the voice of the talented Bonnie Banane but especially that of Hubert Le Noir who totally shocked me and kept me in my air until the end of the song. We enjoy his second album “[Pictura de Ipse: Musique Direct](https://soundcloud.com/hubertlenoir/sets/musique-directe-3)”  and especially we dance again and again on “Octembre”.**"** 
 
-## Le Noiseur - Relax
+## [Le Noiseur](https://soundcloud.com/le-noiseur) - Relax
 Anaïs G: **"**In the same atmosphere, a little chill and offbeat we have Le Noiseur. It is a revival in the 90s that Simon Campocasso offers us for his return.**"**
 
 ## Slim & The Beast - Tongue Tied
