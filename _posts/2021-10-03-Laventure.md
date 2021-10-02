@@ -31,6 +31,14 @@ description: >-
   coolness of the morning. Depressed, but here at MailTape, we have the
   solution: a selection of music made by the group Laventure. Chill, relaxation
   and sunshine in your heart assured!
+illustrator: Camille Célestin
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/464/track7.mp3'
 ---
 <p id="introduction">This morning, it feels like the return of the long Sundays under the blanket watching the rain fall. The heat and sun of this summer gives way to the coolness of the morning. Depressed, but here at MailTape, we have the solution: a selection of music made by the group [Laventure](https://www.facebook.com/yolaventure/). Chill, relaxation and sunshine in your heart assured!
 <br><br>[Laventure](https://soundcloud.com/ingrid-laventure) is a Strasbourg duo composed of Ingrid Laventure and Boris Lodel. A pop-lo musical project -fi which was born last January and has been able to assert itself little by little on social networks but also through their off-the-shoot DIY clip like “Little Dog. ” We love this chill atmosphere and that’s what we’ll discover in their Sunday selection.</p>
