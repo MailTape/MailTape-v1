@@ -16,7 +16,7 @@ track3_title: Broncho - Get in My Car
 track3_color: bliss
 track4_title: Laventure - Give
 track4_color: dreamy
-track5_title: Hubert Le Noir feat Bonnei Banane - Octembre
+track5_title: Hubert Le Noir feat Bonnie Banane - Octembre
 track5_color: bliss
 track6_title: Le Noiseur - Relax
 track6_color: dreamy
