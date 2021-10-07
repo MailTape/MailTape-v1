@@ -3,6 +3,37 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 ---
-## A New Post
+<p id="introduction"> This morning, we are delighted to welcome California-based DJ and electronic music producer [Tomu DJ](http://tomu.dj/) to MailTape!
+<br><br>
+After several EPs that allowed her to refine her characteristic style, Tomu DJ released her first album in August 2021. But it's a different approach that we find here, far from fluorescent dance music, house and techno rhythms, <i> FEMINISTA </i> touches something deeper. The album stands out for its fragility and its exploration of the intimate, always served by melodic synths and fast bass lines. But as the last track, <i> What's next </i>, illustrates well with its poignant feeling of optimism, there is always a light at the end of the tunnel.
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
+# Tomu DJ's selection
+
+## Lynyrd Skynyrd - Tuesday's Gone
+Tomu DJ: **"**This is one of the best songs to me because of its iconic melody, raw emotion and length. I've not much been to the American South in my life but I've been fascinated with southern rock for a long time now. Reading about the history of music in Alabama it's no wonder so much amazingly powerful music comes out of there. I really appreciate southern rock for its tendency to capture the time and place in which it was made.**"**
+
+## [박혜진 Park Hye Jin](https://parkhyejin.bandcamp.com/) - Whatchu Doin Later
+Tomu DJ: **"**This one just came out but I've been listening to it a lot. It will definitely bang in the club but the introspective and chilled out beats make it an essential listen for me at any time of the day. I think the way the artist chooses to present themselves through words and music comes off as very intentional but in a cool and collected way, and it's also really cool they both produce and do the vocals.**"**
+
+## Xscape - Understanding
+Tomu DJ: **"**1990s American R&B is my greatest inspiration and recently I've been really into Xscape. What I love about this song and a lot of music of this era is the lyrics and how they are always relevant. Songs like this get to the heart of concepts like love and relationships in an all-encompassing way that a lot of music does not.**"**
+
+
+# MailTape's selection
+
+## [Tomu DJ](http://tomu.dj/) - Pretty Stuff
+Jules: **"**It's hard to choose just one track from Tomu DJ's intimate debut album, FEMINISTA, as each piece is traversed by this melancholy and this deep sadness. I love this track for its rapid-fire rhythms that echoes the sounds of techno clubs, and its heady melody that might evoke a late night drive, with both nostalgia and hints of hopefulness.**"**
+
+## [Longhair](https://longhairlive.bandcamp.com/) - Ja Wie? (80 bpm)
+Jules: **"**A 130 bpm track for the peaktime of your evening, the same 80 bpm track for a wake-up call wrapped in a strange sweetness, a last track that makes me want to go for an energetic afternoon trip in the forest, Longhair has found the recipe for a perfect EP.**"**
+
+## [Elkka](https://elkka.bandcamp.com/) - Burnt Orange
+Jules: **"**One of my favorite songs from summer 2021! Taken from 'Euphoric Melodies', the last EP from London based producer, DJ and label boss Elkka, this vibrant track is full of optimism and freedom, perfect for the damp atmosphere of clubs or the first rays of the sun in the morning.**"**
+
+## [Adelheid X & Giraffi Dog](https://doomchakratapes.bandcamp.com/album/adelheid-x-giraffi-dog-combien-de-temps) - Combien De Temps
+Jules: **"**Is it already autumn? With this song that never seems to want to end, Adelheid X and Giraffi Dog team up to prolong the drunkenness of summer.**"**
+
+
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tomu DJ](http://tomu.dj/) for her moving Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
