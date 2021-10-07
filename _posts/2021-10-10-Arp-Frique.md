@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Noémie Dijon
+writer: Jules
+category: '465'
+guest_name: Arp Frique
+guest_color: trippy
+episode_URL: 'https://www.mailta.pe/465/arp-frique/'
 ---
 <p id="introduction"> This morning, we are delighted to welcome California-based DJ and electronic music producer [Tomu DJ](http://tomu.dj/) to MailTape!
 <br><br>
