@@ -54,16 +54,16 @@ Arp Frique: **"**Such a sweet, silky, smooth and even sexy jam from this funk ba
 # MailTape's selection
 
 ## [Arp Frique](https://arpfrique.bandcamp.com/) - La Vérité (Feat. Mariseya)
-Jules: **"**working with Cape Verdean & Surinamese musicians especially.**"**
+Jules: **"**Taken from one of Arp Frique's first EP "Minima Bem Li" which is loosely based on his long-standing Cape Verdean connection, this track features sweet french vocals from Mariseya aka Marissa Nyamekye. The pace is slow, perfect for a gentle awakening.**"**
 
 ## Grupo Pilon - Liberdadi
-Jules: **"****"**
+Jules: **"**Now it's time to do some physical exercises! Grupo Pilon is another example of the richness of Cape Verdian music. This band formed in Luxembourg in 1986 by teenagers from the Krioulu diaspora was largely unknown at the time. Fortunately, [Ostinato Records](https://ostinatorecords.bandcamp.com/album/grupo-pilon-leite-quente-funan-de-cabo-verde) reissued this gem and allows us to appreciate this blissful synth work and energetic guitar rhythms.**"**
 
 ## Aura Safari - Niagara
-Jules: **"****"**
+Jules: **"**Realeased earlier this year, this track from the Italian Jazz Fusion quintet [Aura Safari](https://aurasafari.bandcamp.com/) is an emotional masterpiece. Trippy energy gives way to softness but the invitation to travel remains.**"**
 
-## Florence Adooni - Mam Pe'ela Su'ure
-Jules: **"****"**
+## [Florence Adooni](https://florenceadooni.bandcamp.com/) - Mam Pe'ela Su'ure
+Jules: **"**Mam Pe'ela Su'ure" is a typical Frafra-Gospel Hymn, this typical music of the Frafra people who come from the northern regions of Ghana, sung during Sunday services accompanied only with shakers and hand clapping.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Arp Frique](https://arpfrique.bandcamp.com/) for his energizing Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
