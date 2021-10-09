@@ -9,6 +9,27 @@ category: '465'
 guest_name: Arp Frique
 guest_color: trippy
 episode_URL: 'https://www.mailta.pe/465/arp-frique/'
+track1_title: Jan Hammer - Crockett's Theme (Miami Vice)
+track1_color: dreamy
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track1.mp3'
+track2_title: Admas - Anchi Bale Game
+track2_color: trippy
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track2.mp3'
+track3_title: Pieces Of A Dream - Warm Weather
+track3_color: bliss
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track3.mp3'
+track4_title: Arp Frique - La Vérité (Feat. Mariseya)
+track4_color: trippy
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track4.mp3'
+track5_color: trippy
+track5_title: Grupo Pilon - Liberdadi
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track5.mp3'
+track6_title: Aura Safari - Niagara
+track6_color: bliss
+track7_color: vibrant
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track7.mp3'
+track7_title: Florence Adooni - Mam Pe'ela Su'ure
 ---
 <p id="introduction"> This morning, Dutch musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is delighted to welcome MailTape in his colourful world! 
 <br><br>
@@ -30,13 +51,13 @@ Arp Frique: **"**Such a sweet, silky, smooth and even sexy jam from this funk ba
 
 # MailTape's selection
 
-## Arp Frique - 
+## Arp Frique - La Vérité (Feat. Mariseya)
 Jules: **"****"**
 
-## 
+## Grupo Pilon - Liberdadi
 Jules: **"****"**
 
-## 
+## Aura Safari - Niagara
 Jules: **"****"**
 
 ## 
