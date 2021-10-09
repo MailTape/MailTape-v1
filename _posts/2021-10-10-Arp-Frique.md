@@ -53,7 +53,7 @@ Arp Frique: **"**Such a sweet, silky, smooth and even sexy jam from this funk ba
 
 # MailTape's selection
 
-## Arp Frique - La Vérité (Feat. Mariseya)
+## [Arp Frique](https://arpfrique.bandcamp.com/) - La Vérité (Feat. Mariseya)
 Jules: **"****"**
 
 ## Grupo Pilon - Liberdadi
@@ -66,4 +66,4 @@ Jules: **"****"**
 Jules: **"****"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tomu DJ](http://tomu.dj/) for her moving Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Arp Frique](https://arpfrique.bandcamp.com/) for his energizing Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
