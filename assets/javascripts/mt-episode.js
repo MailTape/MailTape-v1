@@ -78,6 +78,7 @@ $(document).ready(
 	if(checkSC()) {
 		SC.initialize({
 		client_id: "5eaa5aae9b1a116f58b43027a7a2206d",
+		redirect_uri: 'https://www.mailta.pe/callback'
 		});
 	}
 
