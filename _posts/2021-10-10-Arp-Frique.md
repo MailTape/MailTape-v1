@@ -10,37 +10,37 @@ guest_name: Arp Frique
 guest_color: trippy
 episode_URL: 'https://www.mailta.pe/465/arp-frique/'
 ---
-<p id="introduction"> This morning, we are delighted to welcome California-based DJ and electronic music producer [Tomu DJ](http://tomu.dj/) to MailTape!
+<p id="introduction"> This morning, Dutch musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is delighted to welcome MailTape in his colourful world! 
 <br><br>
-After several EPs that allowed her to refine her characteristic style, Tomu DJ released her first album in August 2021. But it's a different approach that we find here, far from fluorescent dance music, house and techno rhythms, <i> FEMINISTA </i> touches something deeper. The album stands out for its fragility and its exploration of the intimate, always served by melodic synths and fast bass lines. But as the last track, <i> What's next </i>, illustrates well with its poignant feeling of optimism, there is always a light at the end of the tunnel.
+
 </p>
 
 
-# Tomu DJ's selection
+# Arp Frique's selection
 
-## Lynyrd Skynyrd - Tuesday's Gone
-Tomu DJ: **"**This is one of the best songs to me because of its iconic melody, raw emotion and length. I've not much been to the American South in my life but I've been fascinated with southern rock for a long time now. Reading about the history of music in Alabama it's no wonder so much amazingly powerful music comes out of there. I really appreciate southern rock for its tendency to capture the time and place in which it was made.**"**
+## Jan Hammer - Crockett's Theme (Miami Vice)
+Arp Frique: **"**I have a lot of dreams at night. Some nice but many are heavy, processing the horrors of the world and challenges in my life. “I never promised you a rose garden” my grandma used to say and that’s what it is. This synthesizer masterpiece is perfect for a transition from gloomy and moody awakening into a positive mindset, realizing it’s all a game this life, or whatever it is. And it takes me back to one of the golden eras of TV, back when watching TV was still a thing and there was actually good and honest stuff on there.**"**
 
-## [박혜진 Park Hye Jin](https://parkhyejin.bandcamp.com/) - Whatchu Doin Later
-Tomu DJ: **"**This one just came out but I've been listening to it a lot. It will definitely bang in the club but the introspective and chilled out beats make it an essential listen for me at any time of the day. I think the way the artist chooses to present themselves through words and music comes off as very intentional but in a cool and collected way, and it's also really cool they both produce and do the vocals.**"**
+## Admas - Anchi Bale Game
+Arp Frique: **"**To follow the first one up, this Ethiopian synthbanger will lift you up and literally energizes me. Even makes me wanna jump on the synths right away and create. So many beautiful records that are seeing the light of day again thanks to reissue labels, this one stands out for me. There is even a bit of humor for me in here, as if the lead synth is pranking you with it’s staccato theme. Stevie Wonder-ish it sounds to my ears..**"**
 
-## Xscape - Understanding
-Tomu DJ: **"**1990s American R&B is my greatest inspiration and recently I've been really into Xscape. What I love about this song and a lot of music of this era is the lyrics and how they are always relevant. Songs like this get to the heart of concepts like love and relationships in an all-encompassing way that a lot of music does not.**"**
+## Pieces Of A Dream - Warm Weather
+Arp Frique: **"**Such a sweet, silky, smooth and even sexy jam from this funk band that mostly recorded harder fusion jams. Although their music is instrumental, this time they added vocals courtesy of Barbara Walker (plus Dexter Wansel on synth). It is one of my fetishes, making synths sound sweet and organic through all their digital glory. Herbie Hancock is a master at this as well, so in love with his music. Plus george Duke, Suzanne Ciani, a few others. I borrow a lot from their approach to synthesizers.**"**
 
 
 # MailTape's selection
 
-## [Tomu DJ](http://tomu.dj/) - Pretty Stuff
-Jules: **"**It's hard to choose just one track from Tomu DJ's intimate debut album, FEMINISTA, as each piece is traversed by this melancholy and this deep sadness. I love this track for its rapid-fire rhythms that echoes the sounds of techno clubs, and its heady melody that might evoke a late night drive, with both nostalgia and hints of hopefulness.**"**
+## Arp Frique - 
+Jules: **"****"**
 
-## [Longhair](https://longhairlive.bandcamp.com/) - Ja Wie? (80 bpm)
-Jules: **"**A 130 bpm track for the peaktime of your evening, the same 80 bpm track for a wake-up call wrapped in a strange sweetness, a last track that makes me want to go for an energetic afternoon trip in the forest, Longhair has found the recipe for a perfect EP.**"**
+## 
+Jules: **"****"**
 
-## [Elkka](https://elkka.bandcamp.com/) - Burnt Orange
-Jules: **"**One of my favorite songs from summer 2021! Taken from 'Euphoric Melodies', the last EP from London based producer, DJ and label boss Elkka, this vibrant track is full of optimism and freedom, perfect for the damp atmosphere of clubs or the first rays of the sun in the morning.**"**
+## 
+Jules: **"****"**
 
-## [Adelheid X & Giraffi Dog](https://doomchakratapes.bandcamp.com/album/adelheid-x-giraffi-dog-combien-de-temps) - Combien De Temps
-Jules: **"**Is it already autumn? With this song that never seems to want to end, Adelheid X and Giraffi Dog team up to prolong the drunkenness of summer.**"**
+## 
+Jules: **"****"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tomu DJ](http://tomu.dj/) for her moving Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
