@@ -32,6 +32,17 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track7.mp3'
 track7_title: Florence Adooni - Mam Pe'ela Su'ure
 musiColor: musiColor465.png
 guestPic: guestPic465.jpeg
+image: 'https://mailta.pe/img/fbPic465.png'
+description: >-
+  This morning, the sun has never shone so brightly. Rotterdam-based musician
+  and producer Arp Frique is welcoming MailTape in his colourful world!  Niels
+  Nieuborg, the genius mind behind Arp Frique, has been actively involved in the
+  Dutch live music scene for years before embarking on his own project. The Arp
+  Frique alter ego is a reference to the sound of the Arp synths and Chic’s
+  famous song ‘Le Freak’, showing his love to disco. After several very well
+  received EPs and a first album “The Colorful World of Arp Frique” released in
+  2018, the exotic and funky producer is back in October 2021 with "The Seed", a
+  new invitation to travel in his joyful universe.
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
