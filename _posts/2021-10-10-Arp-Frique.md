@@ -31,7 +31,7 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/465/track7.mp3'
 track7_title: Florence Adooni - Mam Pe'ela Su'ure
 ---
-<p id="introduction"> This morning, the sun has never shone so brightly. Dutch musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is delighted to welcome MailTape in his colourful world! 
+<p id="introduction"> This morning, the sun has never shone so brightly. Dutch musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
 
 </p>
