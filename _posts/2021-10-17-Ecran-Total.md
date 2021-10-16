@@ -16,6 +16,13 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track7.mp3'
 track7_title: Black Moth Super Rainbow - Melody For Color Spectrum
+category: '466'
+guest_name: Écran Total
+writer: ImaCrea
+illustrator: Thibault Daumain
+author: ImaCrea
+guest_color: vibrant
+guestPic: guestPic466.jpg
 ---
 <p id="introduction"> dd
 </p>
