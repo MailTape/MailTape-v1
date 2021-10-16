@@ -31,7 +31,7 @@ track5_color: vibrant
 track6_color: vibrant
 track7_color: trippy
 ---
-<p id="introduction">This morning, please welcome Camille & Margaux from Écran Total. With their first album, Schaerbeek Love, they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
+<p id="introduction">This morning, please welcome Camille & Margaux from [Écran Total](https://ecrantotalmusique.bandcamp.com). With their first album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
 </p>
 
 # Ecran Total's selection
