@@ -49,10 +49,10 @@ Camille & Margaux: **"**C’est un artiste espagnol que Camille a découvert. «
 # MailTape's selection
 
 ## Écran Total - Finie la fête
-ImaCrea: **"**Such an instant crush. Irresistible groove. Simple ondulating drum accompagnied by a hazy trumpet in the back... and such an hypnotizing voice ! That's the track which got me into Écran Total. Then I listened to their album, _[Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love)_, in loop so many times. Particulary perfect on a train trip I found. Takes you from vibrant to mellow places, a soft and colorful introspective experience that feels likes a honey bath (if that exists ?!).**"**
+ImaCrea: **"**Such an instant crush. Irresistible groove. Simple ondulating drum accompagnied by a hazy trumpet in the back... and such an hypnotizing voice ! That's the track which got me into Écran Total. Then I listened to their album, _[Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love)_, in loop so many times. Particulary perfect on a train trip I found. Takes you from vibrant to mellow places while being always groovy, a soft and colorful introspective experience you can bring with you on the dancefloor.**"**
 
 ## Юлия Накарякова - Здравствуй
-ImaCrea: **"**xx**"**
+ImaCrea: **"**I can't really remember how I found out about Iuliia Nakariakova but I can clearly remember the sun rays full of happiness and hope coming to my heart from the speakers the first time I listened to her.**"**
 
 ## Yellow Magic Orchectra - Rydeen
 ImaCrea: **"**xx**"**
