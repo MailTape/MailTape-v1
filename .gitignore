@@ -9,3 +9,4 @@ _site
 *.swo
 _posts/.DS_Store
 vendor
+.jekyll-metadata

@@ -16,7 +16,7 @@ $(document).ready(
 
 				console.log("data before post: "+name+" - "+email+" - "+url)
 
-				$.post(url, {name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true"},
+				$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true"},
 				  function(data) {
 				  		//console.log("data: "+data);
 				      if(data)
