@@ -28,6 +28,8 @@ track2_color: vibrant
 track3_color: vibrant
 track4_color: vibrant
 track5_color: vibrant
+track6_color: vibrant
+track7_color: trippy
 ---
 <p id="introduction"> dd
 </p>
