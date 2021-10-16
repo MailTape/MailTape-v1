@@ -54,11 +54,11 @@ ImaCrea: **"**Such an instant crush. Irresistible groove. Simple ondulating drum
 ## [Юлия Накарякова](https://iuliia-nakariakova.bandcamp.com/album/-) - Здравствуй
 ImaCrea: **"**I can't really remember how I found out about Iuliia Nakariakova but I can clearly remember the sun rays full of happiness and hope spreaded from the speakers to my heart the first time I listened to her. I find in this one something LCD Sound System..ish in a way. Raw drums, not so perfect rhythm but deeply human like I love it with a slighty distorted pop synth. Intensity goes up and up, voice become more and more present, till a great lively climax.**"**
 
-## Yellow Magic Orchectra - Rydeen
+## [Yellow Magic Orchectra](https://en.wikipedia.org/wiki/Yellow_Magic_Orchestra) - Rydeen
 ImaCrea: **"**Feels like being a knight riding a horse in a motherboard futuristic kind of landscape. That was 1979. Only analog synth and pure mastery. The beginning of an era, coming from the great land of Japan. I chose it also as a reflection to Écran Total eponymous track which depicts some of today's desillusions about this utopian future made of electronic waves people used to believe in the 80's. And, even though this era is somehow fading away, this track still bangs so hard. You can count on it at any moment when in need for positive energy to cheer you up, no matter what. If you love it, as I do, check [this live version](https://youtube.076.ne.jp/watch?v=9OQ-b2l-NCk) they did in Greece back then.**"**
 
-## Black Moth Super Rainbow - Melody For Color Spectrum
-ImaCrea: **"**xx**"**
+## [Black Moth Super Rainbow](https://blackmothsuperrainbow.bandcamp.com) - Melody For Color Spectrum
+ImaCrea: **"**Sooooo.... After the intensity of YMO, let's put our feet back on earth. But where are we? Trees are vibrating slowly and nature is one with you, welcome in the trippy universe of Black Moth Super Rainbow.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Arp Frique](https://arpfrique.bandcamp.com/) for his energizing Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
