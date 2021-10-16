@@ -18,7 +18,7 @@ $(document).ready(
 
 				$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
 				  function(data) {
-				  		//console.log("data: "+data);
+				  		console.log("data: "+data);
 				      if(data)
 				      {
 				      	if(data=="Some fields are missing.")
@@ -90,7 +90,7 @@ $(document).ready(
 
 				console.log("data before post: "+name+" - "+email+" - "+url)
 				
-				$.post(url, {name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true"},
+				$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
 				  function(data) {
 				  	console.log("data: "+data);
 				      if(data)
