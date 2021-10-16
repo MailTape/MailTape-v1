@@ -41,7 +41,7 @@ $(document).ready(
 					      	$("#topbar-status").text("You're already subscribed!");
 					      	$("#topbar-status").css("color", "red");
 				      	}
-				      	else
+				      	else if(data==1)
 				      	{
 					      	$("#topbar-status").text("Oh yeah "+name+"!");
 					      	$("#topbar-status").css("color", "green");
@@ -115,7 +115,7 @@ $(document).ready(
 					      	$("#mobile-status").text("You're already subscribed!");
 					      	$("#mobile-status").css("color", "red");
 				      	}
-				      	else
+				      	else if(data==1)
 				      	{
 					      	$("#mobile-status").text("You're now subscribed "+name+"!");
 					      	$("#mobile-status").css("color", "green");
