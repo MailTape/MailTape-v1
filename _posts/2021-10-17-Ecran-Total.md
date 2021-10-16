@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Robert Wyatt - Sea Song
 track2_title: Mathieu Boogaerts - Super
 track3_title: Bigott - Pavement Tree
@@ -30,6 +30,14 @@ track4_color: vibrant
 track5_color: vibrant
 track6_color: vibrant
 track7_color: trippy
+episode_URL: 'https://mailta.pe/466/Ecran-Total/'
+description: >-
+  This morning, please welcome Camille & Margaux from Écran Total. With their
+  first album, Schaerbeek Love, they share with us this gentle vibe so
+  particular in the early days following the meeting of two spirits. Innocent
+  and groovy, today's episode is an ode to sunshine and love. Let the music
+  play!
+musiColor: musiColor466.png
 ---
 <p id="introduction">This morning, please welcome Camille & Margaux from [Écran Total](https://ecrantotalmusique.bandcamp.com). With their first album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), they share with us this gentle vibe so particular in the early days following the meeting of two spirits. Innocent and groovy, today's episode is an ode to sunshine and love. Let the music play!
 </p>
