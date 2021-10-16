@@ -48,14 +48,14 @@ Camille & Margaux: **"**C’est un artiste espagnol que Camille a découvert. «
 
 # MailTape's selection
 
-## Écran Total - Finie la fête
+## [Écran Total](https://ecrantotalmusique.bandcamp.com) - Finie la fête
 ImaCrea: **"**Such an instant crush. Irresistible groove. Simple ondulating drum accompagnied by a hazy trumpet in the back... and such an hypnotizing voice ! That's the track which got me into Écran Total. Then I listened to their album, _[Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love)_, in loop so many times. Particulary perfect on a train trip I found. Takes you from vibrant to mellow places while being always groovy, a soft and colorful introspective experience you can bring with you on the dancefloor.**"**
 
-## Юлия Накарякова - Здравствуй
+## [Юлия Накарякова](https://iuliia-nakariakova.bandcamp.com/album/-) - Здравствуй
 ImaCrea: **"**I can't really remember how I found out about Iuliia Nakariakova but I can clearly remember the sun rays full of happiness and hope spreaded from the speakers to my heart the first time I listened to her. I find in this one something LCD Sound System..ish in a way. Raw drums, not so perfect rhythm but deeply human like I love it with a slighty distorted pop synth. Intensity goes up and up, voice become more and more present, till a great lively climax.**"**
 
 ## Yellow Magic Orchectra - Rydeen
-ImaCrea: **"**xx**"**
+ImaCrea: **"****"**
 
 ## Black Moth Super Rainbow - Melody For Color Spectrum
 ImaCrea: **"**xx**"**
