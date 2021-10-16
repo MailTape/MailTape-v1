@@ -7,7 +7,7 @@ track2_title: Mathieu Boogaerts - Super
 track3_title: Bigott - Pavement Tree
 track4_title: Écran Total - Finie la fête
 track5_title: Юлия Накарякова - Здравствуй
-track6_title: Yellow Magic Orchectra - Rydeen
+track6_title: Yellow Magic Orchestra - Rydeen
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/466/track3.mp3'
@@ -52,9 +52,9 @@ Camille & Margaux: **"**C’est un artiste espagnol que Camille a découvert. «
 ImaCrea: **"**Such an instant crush. Irresistible groove. Simple ondulating drum accompagnied by a hazy trumpet in the back... and such an hypnotizing voice ! That's the track which got me into Écran Total. Then I listened to their album, [Schaerbeek Love](https://ecrantotalmusique.bandcamp.com/album/schaerbeek-love), in loop so many times. Particulary perfect on a train trip I found. Takes you from vibrant to mellow places while being always groovy, a soft and colorful introspective experience you can bring with you on the dancefloor.**"**
 
 ## [Юлия Накарякова](https://iuliia-nakariakova.bandcamp.com/album/-) - Здравствуй
-ImaCrea: **"**I can't really remember how I found out about Iuliia Nakariakova but I can clearly remember the sun rays full of happiness and hope spreaded from the speakers to my heart the first time I listened to her. I find in this particular track something LCD Sound System..ish in a way. Raw drums, not so perfect rhythm but deeply human like I love it with a slighty distorted pop synth. Intensity goes up and up, voice become more and more present, till a great lively climax.**"**
+ImaCrea: **"**I can't really remember how I found out about Iuliia Nakariakova but I can clearly remember the sun rays full of happiness and hope spreaded from the speakers to my heart the first time I listened to her. I find in this particular track something LCD Sound System..ish in a way. Raw drums, not so perfect rhythm but deeply human like I love it with a slighty distorted pop synth. Intensity goes up and up, her voice becoming more and more present, till a great lively climax.**"**
 
-## [Yellow Magic Orchectra](https://en.wikipedia.org/wiki/Yellow_Magic_Orchestra) - Rydeen
+## [Yellow Magic Orchestra](https://en.wikipedia.org/wiki/Yellow_Magic_Orchestra) - Rydeen
 ImaCrea: **"**Feels like being a knight riding a horse in a motherboard futuristic kind of landscape. That was 1979. Only analog synth and pure mastery. The beginning of an era, coming from the great land of Japan. I chose it also as a reflection to Écran Total eponymous track which depicts some of today's desillusions about this utopian future made of electronic waves people used to believe in the 80's. And, even though this era is somehow fading away, this track still bangs so hard. You can count on it at any moment when in need for positive energy to cheer you up, no matter what. If you love it, as I do, check [this live version](https://youtube.076.ne.jp/watch?v=9OQ-b2l-NCk) they did in Greece back then.**"**
 
 ## [Black Moth Super Rainbow](https://blackmothsuperrainbow.bandcamp.com) - Melody For Color Spectrum
