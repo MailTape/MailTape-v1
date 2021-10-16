@@ -23,6 +23,11 @@ illustrator: Thibault Daumain
 author: ImaCrea
 guest_color: vibrant
 guestPic: guestPic466.jpg
+track1_color: trippy
+track2_color: vibrant
+track3_color: vibrant
+track4_color: vibrant
+track5_color: vibrant
 ---
 <p id="introduction"> dd
 </p>
@@ -35,22 +40,22 @@ Camille: **"**C’est un artiste que j’ai découvert à l’âge de 16 ans, qu
 ## [Mathieu Boogaerts](https://mathieuboogaerts.com/) - Super
 Margaux: **"**J’ai écouté l’album Super 2 en boucle. Il est super mélancolique et drôle. Sa poésie, son bricolage sonore me parle beaucoup, et j’ai l’impression de suivre ses hallucinations.**"**
 
-## [Pavement Tree](https://bigottband.bandcamp.com/album/pavement-tree) - Bigott
+## [Bigott](https://bigottband.bandcamp.com/album/pavement-tree) - Pavement Tree
 Camille & Margaux: **"**C’est un artiste espagnol que Camille a découvert. « Le Johnny Cash castillan ». Il a quelque chose de naïf que Margaux aime bien. On est en train d'en travailler une reprise.**"**
 
 
 # MailTape's selection
 
-## xxx
+## Écran Total - Finie la fête
 ImaCrea: **"**xxx**"**
 
-## xx
+## Юлия Накарякова - Здравствуй
 ImaCrea: **"**xx**"**
 
-## xx
+## Yellow Magic Orchectra - Rydeen
 ImaCrea: **"**xx**"**
 
-## xx
+## Black Moth Super Rainbow - Melody For Color Spectrum
 ImaCrea: **"**xx**"**
 
 
