@@ -2,6 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+illustrator: Jason Pridham
+writer: Sarah
+category: '467'
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
