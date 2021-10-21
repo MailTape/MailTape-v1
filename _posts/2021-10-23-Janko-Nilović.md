@@ -6,6 +6,8 @@ author: Sarah
 illustrator: Jason Pridham
 writer: Sarah
 category: '467'
+guest_name: Janko Nilović
+guest_color: vibrant
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
