@@ -8,6 +8,13 @@ writer: Sarah
 category: '467'
 guest_name: Janko Nilović
 guest_color: vibrant
+track1_color: vibrant
+track2_color: bliss
+track3_color: vibrant
+track4_color: trippy
+track5_color: vibrant
+track6_color: bliss
+track7_color: vibrant
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
