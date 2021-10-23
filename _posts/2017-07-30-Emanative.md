@@ -8,22 +8,22 @@ writer: Daisy
 category: '271'
 guest_name: Emanative
 guest_color: vibrant
-track1_link: 'https://soundcloud.com/besh0_0/mahraba-maleem-mahmoud-ghania-with-pharoah-sanders'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track1.mp3'
 track1_title: Maleem Mahmoud Ghania with Pharoah Sanders - Mahraba
 track1_color: bliss
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track2.mp3'
 track2_title: Sun Ra - Sleeping Beauty
 track2_color: dreamy
-track3_link: 'https://soundcloud.com/ofob-jazzhead/johnny-dyani-witchdoctors-son-magwaza'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track3.mp3'
 track3_title: Johnny Dyani Witchdoctor's Son - Magwaza
 track3_color: trippy
-track4_link: 'https://soundcloud.com/emanative/ominous-shanti'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track4.mp3'
 track4_title: Emanative - Ominous Shanti
 track4_color: vibrant
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track5.mp3'
 track5_title: Idris Ackamoor & The Pyramids - Rhapsody In Berlin (Part 1)
 track5_color: bliss
-track6_link: 'https://soundcloud.com/naimrecs/yazz-ahmed-jamil-jamal'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track6.mp3'
 track6_title: Yazz Ahmed - Jamil Jamal
 track6_color: vibrant
 track7_title: Burnt Sugar Arkestra - If There's A Hell Below
@@ -32,7 +32,7 @@ episode_URL: 'http://mailta.pe/271/emanative/'
 guestPic: guestPic271.jpg
 image: https://mailta.pe/img/fbPic271.jpg
 musiColor: musiColor271.png
-track7_link: 'https://soundcloud.com/burnt-sugar-arkestra/if-theres-a-hell-below'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/271/track7.mp3'
 description: >-
   This morning long-time jazz wayfarer Nick Woodmansey’s Emanative picks his
   three Sunday morning tunes for MailTape.

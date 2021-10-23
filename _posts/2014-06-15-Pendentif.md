@@ -16,10 +16,10 @@ category: "145"
 guest_name: Pendentif
 guestPic: guestPic145.jpg
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track1.mp3"
-track2_link: "https://soundcloud.com/brainfeeder/matthewdavid-in-my-world"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track3.mp3"
 track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track4.mp3"
-track5_link: "https://soundcloud.com/turksandcaicos/cars-outside"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track5.mp3"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/145/track7.mp3"
 track1_title: "Blood Orange - You're Not Good Enough"

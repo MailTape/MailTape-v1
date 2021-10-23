@@ -11,7 +11,7 @@ guest_color: bliss
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track3.mp3'
-track4_link: 'https://soundcloud.com/saraserpafragments/sara-serpa-andre-matos-lisboa'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track7.mp3'
 track1_title: 'Béla Bartók – Violin Duets, N.28 — Sorrow'
@@ -28,7 +28,7 @@ track7_title: Meeta Pandit – Thumri Pilu (Live)
 track7_color: dreamy
 track6_title: Amira Kheir – Amwaj (Waves)
 track6_color: trippy
-track6_link: 'https://soundcloud.com/sterns-music/amwaj-waves'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/332/track6.mp3'
 episode_URL: 'http://mailta.pe/332/sara-serpa/'
 description: >-
   This morning we welcome vocalist and composer Sara Serpa to pick three Sunday

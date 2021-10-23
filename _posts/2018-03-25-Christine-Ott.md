@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '305'
 guest_name: Christine Ott
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1'
-track2_link: 'https://soundcloud.com/bangonacan/david-lang-cheating-lying-stealing-1'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track3.mp3'
-track4_link: 'https://soundcloud.com/christine-ott/christine-ott-szczecin'
-track5_link: 'https://soundcloud.com/chrislittleboat/arc'
-track6_link: 'https://soundcloud.com/ghostly/mary-lattimore-the-quiet-at-night'
-track7_link: 'https://soundcloud.com/constellation-records/ica'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/305/track7.mp3'
 track1_title: Rachel Grimes – The Air in Time
 track1_color: bliss
 track2_title: 'David Lang by Bang on a Can – Cheating, Lying, Stealing'

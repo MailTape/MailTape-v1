@@ -11,10 +11,10 @@ guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track3.mp3'
-track4_link: 'https://soundcloud.com/fatcatrecords/shida-shahabi-pretty-in-plums'
-track5_link: 'https://soundcloud.com/fatcatrecords/emilie-levienaise-farrouch-strelka'
-track6_link: 'https://soundcloud.com/jatinder-singh-durhailay/tulsi'
-track7_link: 'https://soundcloud.com/infine-music/vanessa-wagner-struggle-for-pleasure-gas-version-wim-mertens'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/373/track7.mp3'
 track1_title: Mayumi Miyata – 双調調子
 track1_color: bliss
 track2_title: Lamine Konté – Dioula

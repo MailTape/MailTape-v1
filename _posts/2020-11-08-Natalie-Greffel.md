@@ -2,7 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track2_link: 'https://soundcloud.com/kasperstaubtrio/people-who-love-each-other'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track2.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track5.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track1.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/424/track3.mp3'

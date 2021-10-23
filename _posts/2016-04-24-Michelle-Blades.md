@@ -9,12 +9,12 @@ guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic214.jpg
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track1.mp3"
-track2_link: "https://soundcloud.com/caracolin/victor-jara-te-recuerdo-amanda"
-track3_link: "https://soundcloud.com/cyclo-raquette/automne"
-track4_link: "https://soundcloud.com/midnightspecialrecords/michelle-blades-polylust-03-watch-me-stray-mstd"
-track5_link: "https://soundcloud.com/crackirecords/agar-agar-prettiest-virgin"
-track6_link: "https://soundcloud.com/profildeface/vendredi-sur-mer-la-femme-a-la-peau-bleue"
-track7_link: "https://soundcloud.com/delicieuse-musique/premiere-fatnotronic-in-flagranti-botoque"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track4.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/214/track7.mp3"
 track1_title: "Stephen Steinbrink - The Punks"
 track1_color: vibrant
 track2_title: "Victor Jara - Te Recuerdo Amanda"

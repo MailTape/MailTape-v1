@@ -13,14 +13,14 @@ track6_color: vibrant
 track7_color: bliss
 category: "191"
 guest_name: Parra for Cuva
-track4_link: "https://soundcloud.com/mailtape/parra-for-cuva-majourefeat-casey-k"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track4.mp3"
 guestPic: guestPic191.jpg
-track1_link: "https://soundcloud.com/leahjasmine/balmorhea-bowsprit"
-track2_link: "https://soundcloud.com/opncow/a-la-modeliste-bonobo-remix"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track3.mp3"
-track5_link: "https://soundcloud.com/mailtape/glenn-astro-computerkiller"
-track6_link: "https://soundcloud.com/yoannfeynman/television"
-track7_link: "https://soundcloud.com/brainfeeder/thundercat-them-changes"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/191/track7.mp3"
 track1_title: "Balmorhea - Bowsprit"
 track2_title: "Mark Ronson's - A la Modeliste (Bonobo remix)"
 track3_title: " Tom Day & Monsoonsiren - Elegiac"

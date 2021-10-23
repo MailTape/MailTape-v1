@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '313'
 guest_name: Eric Chenaux
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/martinarnold/stain-ballad'
-track2_link: 'https://soundcloud.com/allisoncameronmusic/tree-ferns-1-live-performance-by-wiek-hijmans'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track3.mp3'
-track4_link: 'https://soundcloud.com/constellation-records/eric-chenaux-theres-our-love'
-track5_link: 'https://soundcloud.com/footfalls-records/karma-lata'
-track6_link: 'https://soundcloud.com/melodie64/marisa-anderson-into-the-light'
-track7_link: 'https://soundcloud.com/carastacey/come-near-me-arr-for-piano-trio-ghoetpoet-massive-attack'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/313/track7.mp3'
 track1_title: Martin Arnold – Stain Ballad
 track1_color: trippy
 track2_title: Allison Cameron – Tree Ferns (Performed by Wiek HIjmans)

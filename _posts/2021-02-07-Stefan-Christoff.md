@@ -20,10 +20,10 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track4.mp3'
-track5_link: 'https://soundcloud.com/murcof/underwater-lament-full-version'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track5.mp3'
 track5_title: Murcof – Underwater Lament
 track5_color: dreamy
-track6_link: 'https://soundcloud.com/sibusilexaba/wampona'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/437/track6.mp3'
 track6_title: Sibusile Xaba – Wampona
 track6_color: trippy
 track7_title: Talvin Singh & Niladri Kumar – Ananta

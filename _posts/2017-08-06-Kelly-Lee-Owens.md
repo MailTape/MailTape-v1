@@ -12,8 +12,8 @@ track4_title: Kelly Lee Owens - Anxi. ft. Jenny Hval
 episode_URL: 'http://mailta.pe/272/Kelly-Lee-Owens/'
 image: https://mailta.pe/img/fbPic272.png
 musiColor: musiColor272.png
-track4_link: 'https://soundcloud.com/smalltownsupersound/kelly-lee-owens-anxi-ft-jenny-hval'
-track2_link: 'https://soundcloud.com/pitstation4-1/tt4'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track3.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track1.mp3'
 track2_title: Cocteau Twins - Wax & Wane
@@ -23,9 +23,9 @@ track1_color: dreamy
 track3_color: bliss
 track4_color: bliss
 track2_color: rough
-track5_link: 'https://soundcloud.com/technicolour-music/peggy-gou-gou-talk'
-track6_link: 'https://soundcloud.com/supernaivemusic/opal-waltz'
-track7_link: 'https://soundcloud.com/pamparecords/01-build-me-a-house'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/272/track7.mp3'
 track5_title: Peggy Gou - Gou Talk
 track5_color: vibrant
 track6_title: Supernaive - Opal Waltz

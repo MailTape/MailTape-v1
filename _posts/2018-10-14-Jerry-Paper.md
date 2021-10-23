@@ -8,12 +8,12 @@ writer: Inès
 category: '327'
 guest_name: Jerry Paper
 guest_color: trippy
-track1_link: 'https://soundcloud.com/mattytavares/every-moment-i-live-to-come'
-track3_link: 'https://soundcloud.com/maculadog/i-make-lake'
-track4_link: 'https://soundcloud.com/bayonetrecords/halfway-zen'
-track5_link: 'https://soundcloud.com/yungatita/bedroom-1'
-track6_link: 'https://soundcloud.com/brainfeeder/ross-from-friends-john-cage-edit-1'
-track7_link: 'https://soundcloud.com/indianredhead/avventur-lise'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track1.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/327/track7.mp3'
 track1_title: Matty - Every Moment I Live to Come
 track1_color: bliss
 track2_title: Noah Wall - John Cage Laughing

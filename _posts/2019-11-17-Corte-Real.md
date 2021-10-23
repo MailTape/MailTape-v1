@@ -25,7 +25,7 @@ track7_color: bliss
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track7.mp3'
 track3_color: bliss
-track4_link: 'https://soundcloud.com/corterealofficial/pays-vaincu'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track4.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/380/track2.mp3'
 track2_color: trippy

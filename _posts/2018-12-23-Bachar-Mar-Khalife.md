@@ -24,8 +24,8 @@ track7_title: Hamid Al Shaeri - Ayonha
 track7_color: dreamy
 illustrator: Anthony Dujardin
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/track5.mp3'
-track7_link: 'https://soundcloud.com/mayonnaisebaybeh/hamid-el-shaeri-ayonha'
-track6_link: 'https://soundcloud.com/leandro-almeida-santos/trio-ternura-a-gira'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/track6.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/bachar-mar-khalife-lemon-official-video.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/Ziad%20Rahbani%20-%20Bala%20Wala%20Chi%20%D8%A8%D9%84%D8%A7%20%D9%88%D9%84%D8%A7%20%D8%B4%D9%8A%20%28Lyric%20Video%29.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/337/requiem-op-48-ii-kyrie.mp3'

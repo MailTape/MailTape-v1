@@ -5,13 +5,13 @@ published: true
 category: '261'
 author: Sanjay Mistry
 guest_color: trippy
-track1_link: 'https://soundcloud.com/innovadotmu/kenneth-gaburo-two-1962'
-track2_link: 'https://soundcloud.com/innovadotmu/kenneth-gaburo-noyse'
-track3_link: 'https://soundcloud.com/innovadotmu/kenneth-gaburo-mouth-piece-1970'
-track4_link: 'https://soundcloud.com/daniellewooley5tet/for-wee-folks-1'
-track5_link: 'https://soundcloud.com/innovadotmu/anthony-braxton-taylor-ho'
-track6_link: 'https://soundcloud.com/tomarthurs/chats-with-the-real-mccoy'
-track7_link: 'https://soundcloud.com/kd-sss/hymn-to-the-unknown-sss'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/261/track7.mp3'
 track1_title: Kenneth Gaburo - TWO (1962)
 track1_color: trippy
 track2_title: Kenneth Gaburo - Noyse (1975)

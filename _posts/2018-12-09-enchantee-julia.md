@@ -6,13 +6,13 @@ author: Manon
 writer: Manon
 guest_name: Enchantée Julia
 guest_color: dreamy
-track2_link: 'https://soundcloud.com/rapha-l-herrerias/le-silence-terrenoire10-novembre-2017'
-track3_link: 'https://soundcloud.com/saintardmusic/summertime-fever'
-track1_link: 'https://soundcloud.com/triplego/cali-feat-prince-waly'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track1.mp3'
 category: '335'
-track5_link: 'https://soundcloud.com/tomalii/moussa-cabrioli-320-kbps-recordyoutubecom'
-track7_link: 'https://soundcloud.com/lxtrlxtr/wwl'
-track6_link: 'https://soundcloud.com/eclecticldn/iamddb-more'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track6.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/335/track4.mp3'
 track1_title: Triplego – Cali (feat Prince Waly)
 track1_color: dreamy

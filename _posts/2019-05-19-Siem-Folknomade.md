@@ -13,7 +13,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track5.mp3'
-track6_link: 'https://soundcloud.com/lilithai/lilith-ai-native-tongue'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/358/track7.mp3'
 track1_title: Ry x – Bound
 track1_color: dreamy

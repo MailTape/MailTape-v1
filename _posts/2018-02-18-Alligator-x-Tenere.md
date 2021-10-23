@@ -14,9 +14,9 @@ track1_title: Alessi Brothers - Seabirds
 track4_title: Kadhja Bonet - This Love
 track5_title: Quasimoto - Broad Factor
 track6_title: Ténéré - Tenebris
-track6_link: 'https://soundcloud.com/iamtenere/tenebris'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/300/track6.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/300/track2.mp3'
-track3_link: 'https://soundcloud.com/alligator-musique/belambra-alligator'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/300/track3.mp3'
 track3_title: Alligator - Belembra
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/300/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/300/track5.mp3'

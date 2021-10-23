@@ -9,12 +9,12 @@ category: '315'
 guest_name: MALFNKTION
 guest_color: trippy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track1.mp3'
-track2_link: 'https://soundcloud.com/emancipator/09-bat-country-1'
-track3_link: 'https://soundcloud.com/natasha-lobova/anderson-paak-malibu-16-the-dreamer-feat-talib-kweli-timan-family-choir'
-track4_link: 'https://soundcloud.com/souletiquette/malfnktion-zoya-be-free'
-track5_link: 'https://soundcloud.com/godmodemusic/yaeji-drink-im-sippin-on-godmode'
-track6_link: 'https://soundcloud.com/dualistinquiry/soleil'
-track7_link: 'https://soundcloud.com/tiguemusic/the-cutest-song-ever'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/315/track7.mp3'
 track1_title: Wild Belle – Love Like This
 track1_color: bliss
 track2_title: Emancipator – Bat Country

@@ -4,12 +4,12 @@ bigTitle_font_ratio: '6'
 published: true
 illustrator: William Girault
 author: Luc
-track1_link: 'https://soundcloud.com/gamelansuarabaru/philemon-and-baukis-lou-harrison'
-track2_link: 'https://soundcloud.com/bodypollmusic/akagambo-y-ata-banton'
-track3_link: 'https://m.soundcloud.com/user-810273969/dipo-nazigala-the-late-paulo-kafeero-ssewakiryanga-alex0704363237'
-track4_link: 'https://soundcloud.com/nyege-nyege-tapes/exclusive-preview-nihiloxica-03-endongo-releases-30112017'
-track5_link: 'https://soundcloud.com/les-yeux-orange/premiere-red-axes-shake-the-mind'
-track6_link: 'https://soundcloud.com/nmacraekennedy/no-condition-is-permanent-marijata'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/322/track7.mp3'
 category: '322'
 guest_name: Nihiloxica

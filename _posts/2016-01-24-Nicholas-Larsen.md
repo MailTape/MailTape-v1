@@ -6,13 +6,13 @@ guest_name: Nicholas Larsen
 guest_color: vibrant
 bigTitle_font_ratio: '7'
 guestPic: guestPic201.jpg
-track1_link: 'https://soundcloud.com/bleutoucan/lafree'
-track2_link: 'https://soundcloud.com/jimmyedgar/feel-what-it-is'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track4.mp3'
-track5_link: 'https://soundcloud.com/ohsisterrecords/03-signals-v2-mastered-wav'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track6.mp3'
-track7_link: 'https://soundcloud.com/frankey-official/frankey-sandrino-acamar'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/201/track7.mp3'
 track1_title: Bleu Toucan - LA feat. Vendredi sur Mer
 track1_color: vibrant
 track2_title: Jimmy Edgar - Feel What It Is

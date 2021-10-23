@@ -11,11 +11,10 @@ track3_title: Jameszoo - Flake
 track1_color: vibrant
 track2_color: trippy
 track3_color: trippy
-track4_link: >-
-  https://soundcloud.com/rucksack_records/thijsenterprise-el-arriero-gato-barbieri
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track4.mp3'
 track4_color: vibrant
 track4_title: Thijsenterprise - El Arriero
-track6_link: 'https://soundcloud.com/trioritat/bonopo'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/442/track6.mp3'
 track5_color: trippy
 track6_color: trippy
 track6_title: Triorität - Bonopo

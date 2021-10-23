@@ -8,7 +8,7 @@ writer: Marion
 category: '410'
 guest_name: Klô Pelgag
 guest_color: dreamy
-track7_link: 'https://soundcloud.com/the-districts/velour-and-velcro-acoustic'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track7.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/410/track3.mp3'

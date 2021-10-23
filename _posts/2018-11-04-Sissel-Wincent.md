@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '330'
 guest_name: Sissel Wincent
 guest_color: trippy
-track1_link: 'https://soundcloud.com/mixmag-1/premiere-ploy-o'
-track2_link: 'https://soundcloud.com/ascetikorps/kali-malone-locus-of'
-track3_link: 'https://soundcloud.com/moloton/mar-llena-monrepos'
-track4_link: 'https://soundcloud.com/sissel/pearlescent-paint'
-track5_link: 'https://soundcloud.com/where-to-now-productions/beatrice-dillon-carrier-and-mask'
-track6_link: 'https://soundcloud.com/akiko_kiyama/gabriel'
-track7_link: 'https://soundcloud.com/afrikan-sciences/43a'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/330/track7.mp3'
 track1_title: Ploy – =O
 track1_color: dreamy
 track2_title: Kali Malone – Locus Of Repetition

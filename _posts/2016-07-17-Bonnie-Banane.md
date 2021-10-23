@@ -27,11 +27,11 @@ track6_title: LAFAWNDAH - All That She Wants (Ace of Base cover)
 track7_title: D.K. - Play On
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track2.mp3'
-track3_link: 'https://soundcloud.com/lala-ace-667/jessica-jones'
-track4_link: 'https://soundcloud.com/bonniebanane/statue'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track5.mp3'
-track6_link: 'https://soundcloud.com/lafawndah/all-that-she-wants-cover'
-track7_link: 'https://soundcloud.com/antinote-records/3-dk-play-on'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/225/track7.mp3'
 description: a nostalgic jaunt through the 90’s with Bonnie Banane !
 ---
 <p id="introduction">This morning, we will have you experience the steadily progressive sound of a Parisian artist called [**Bonnie Banane**](https://www.facebook.com/bonniebananemusique/). Having launched, “Soeur Nature,” a few months ago, she’s left quite an indelible impression on the independent RnB scene. </p>

@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '338'
 guest_name: Nadia Struiwigh
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/user-606609593/meeting-the-others-split-sondtrak'
-track2_link: 'https://soundcloud.com/unseenmusic/electronicindieupliftingambient-it-was-warmer-then'
-track3_link: 'https://soundcloud.com/wwnbbcollective/totem-master'
-track4_link: 'https://soundcloud.com/denovali/nadia-struiwigh-roeiweijk'
-track5_link: 'https://soundcloud.com/klissay/01-vessels'
-track6_link: 'https://soundcloud.com/ros-steer/busy-window'
-track7_link: 'https://soundcloud.com/fluid-radio/grouper-being-her-shadow'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track7.mp3'
 track1_title: West Dylan Thordson – Meeting the Others
 track1_color: dreamy
 track2_title: Helios – It Was Warmer Then

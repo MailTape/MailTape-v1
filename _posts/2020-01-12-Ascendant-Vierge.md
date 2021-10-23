@@ -3,8 +3,8 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/388/track1.mp3'
-track2_link: 'https://soundcloud.com/ihatemodels/a1-intergalactic-emotional'
-track3_link: 'https://soundcloud.com/acloudyskye/alignment'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/388/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/388/track3.mp3'
 track1_color: dreamy
 track2_color: rough
 track3_color: rough
@@ -17,7 +17,7 @@ author: ImaCrea
 illustrator: Julie Wojtczak
 writer: ImaCrea
 guest_color: rough
-track4_link: 'https://soundcloud.com/viergeascendant/faire-et-refaire'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/388/track4.mp3'
 track4_title: ascendant vierge - Faire et Refaire
 track4_color: rough
 guestPic: guestPic388.jpg

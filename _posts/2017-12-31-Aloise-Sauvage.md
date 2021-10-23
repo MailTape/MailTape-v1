@@ -24,9 +24,9 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/293/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/293/track4.mp3'
 image: https://mailta.pe/img/fbPic293.png
 musiColor: musiColor293.png
-track5_link: 'https://soundcloud.com/louidjie/salome-latenight-freestyle'
-track6_link: 'https://soundcloud.com/babaali/01-cog-in-the-wheel'
-track7_link: 'https://soundcloud.com/gobstopper-records/ends-2'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/293/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/293/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/293/track7.mp3'
 track7_title: rAHHH — Ends
 track7_color: dreamy
 track6_title: Baba Ali — Cog In The Wheel

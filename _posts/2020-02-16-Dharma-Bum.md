@@ -8,11 +8,11 @@ author: Anaïs G
 illustrator: Camille Célestin
 category: '393'
 guestPic: guestPic393.jpg
-track3_link: 'https://soundcloud.com/snag-1/grauzone-eisb-r'
-track4_link: 'https://soundcloud.com/dharma-bum1/2-worship-the-ease-1'
-track5_link: 'https://soundcloud.com/telephoneexplosion/freak-heat-waves-self-vortex'
-track6_link: 'https://soundcloud.com/atelierciseaux/b2-francois-virot-legal-rough'
-track7_link: 'https://soundcloud.com/pan-european-recording/4-je-men-souviendrai-jusqua-la?in=pan-european-recording/sets/maintenant'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/393/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/393/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/393/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/393/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/393/track7.mp3'
 track1_title: Biche - L'Essor
 track1_color: dreamy
 track2_title: Barbagallo - On se décide

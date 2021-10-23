@@ -14,12 +14,12 @@ track1_title: 'Helvetia - Kris '
 track1_color: dreamy
 track2_title: 'Tirzah - No Romance '
 track2_color: vibrant
-track2_link: 'https://soundcloud.com/greco-roman/tirzah-no-romance'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/383/track2.mp3'
 track3_title: Rocky Lorelei - Lily
 track3_color: dreamy
 track4_color: trippy
 track4_title: 'Fun Fun Funeral - Elba Sea '
-track6_link: 'https://soundcloud.com/atelierciseaux/promise-keeper-backfired'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/383/track6.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/383/track5.mp3'
 track5_title: Eera - Christine
 track5_color: dreamy
@@ -27,7 +27,7 @@ track6_title: Promise Keeper - Backfired
 track6_color: bliss
 episode_URL: 'http://mailta.pe/383/fun-fun-funeral/'
 musiColor: musiColor383.png
-track7_link: 'https://soundcloud.com/fatcatrecords/samana-harvest-1'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/383/track7.mp3'
 track7_color: vibrant
 track7_title: 'Samana - Harvest '
 image: 'http://mailta.pe/img/fbPic383.png'

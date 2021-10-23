@@ -8,14 +8,14 @@ writer: Siddhartha
 category: '287'
 guest_name: Julien Marchal
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/dumontdumont/ed-tullett-novo-amor-faux'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track1.mp3'
 track1_title: Novo Amor & Ed Tullett - Faux
-track2_link: 'https://soundcloud.com/robot-koch/christian-loeffler-mare-robot-koch-remix-1'
-track3_link: 'https://soundcloud.com/authorsrecording/these-words-are-everything'
-track4_link: 'https://soundcloud.com/julienmarchal/xxi-final-master-4424'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track4.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track7.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track5.mp3'
-track7_link: 'https://soundcloud.com/audiomoves/porya-hatami-land-remixed-snow'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/287/track7.mp3'
 track2_title: ' Christian Loeffler - Mare (Robot Koch Remix) '
 track3_title: Jonwayne - These Words Are Everything
 track4_title: 'Julien Marchal - INSIGHT XXI '

@@ -2,13 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/porchesmusic/do-u-wanna'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track1.mp3'
 track1_color: vibrant
 category: '415'
 guest_name: Mini Trees
 guest_color: dreamy
 track1_title: Porches - Do U Wanna
-track2_link: 'https://soundcloud.com/double-double-whammy/05-out-there-1'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track2.mp3'
 track2_title: Lomelda - Out There
 track2_color: bliss
 track4_color: dreamy
@@ -17,15 +17,15 @@ track3_color: dreamy
 author: Sarah
 writer: Sarah
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track3.mp3'
-track4_link: 'https://soundcloud.com/minitreesband/honestly'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track4.mp3'
 track6_color: dreamy
 track6_title: Feng Suave - Maybe Another Time
-track6_link: 'https://soundcloud.com/fengsuave/maybe-another-time-1'
-track5_link: 'https://soundcloud.com/genevieveee-567146673/lonely-and-bored'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track5.mp3'
 track5_title: Genevieve Stokes - Lonely and Bored
 track5_color: dreamy
 track4_title: Mini Trees - Honestly
-track7_link: 'https://soundcloud.com/golden-daze/lynard-bassman-1'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/415/track7.mp3'
 track7_title: Golden Daze - Lynard Bassman
 track7_color: bliss
 illustrator: Julie Wojtczak

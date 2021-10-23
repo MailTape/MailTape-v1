@@ -23,7 +23,7 @@ illustrator: Julie Wojtczak
 author: Anaïs G
 published: true
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track5.mp3'
-track6_link: 'https://soundcloud.com/safarmusicbeirut/the-greatest-fear'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/401/track7.mp3'
 track1_title: Big Thief - Cattails
 track2_title: Animal Collective - Banshee Beat

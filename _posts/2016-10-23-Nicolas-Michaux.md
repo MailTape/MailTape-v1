@@ -2,12 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/antirecords/andy-shauf-the-magician'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track1.mp3'
 guestPic: guestPic231.jpg
-track2_link: 'https://soundcloud.com/softhairofficial/lying-has-to-stop-single'
-track3_link: 'https://soundcloud.com/robbing-millions/8-is-the-figure-that-i-like-the-most'
-track4_link: 'https://soundcloud.com/nicolasmichaux/02-a-la-vie-a-la-mort'
-track5_link: 'https://soundcloud.com/secretlycanadian/alex-cameron-shes-mine-1'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track7.mp3'
 author: Maxime
 illustrator: William Girault
@@ -30,7 +30,7 @@ track5_title: Alex Cameron - She's mine
 track7_title: Weekend Affair - Duel Part. 2
 track6_title: I Have a Tribe - After We Meet
 track6_color: vibrant
-track6_link: 'https://soundcloud.com/groenlandrecords/03-after-we-meet'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/231/track6.mp3'
 image: https://mailta.pe/img/fbPic231.jpg
 musiColor: musiColor231.png
 ---

@@ -8,10 +8,10 @@ writer: Inès
 category: '256'
 guest_name: Johnny Hawaii
 guest_color: bliss
-track1_link: 'https://soundcloud.com/matthewdavids-mindflight/mindflight-1'
-track2_link: 'https://soundcloud.com/anthology_recs/04-red-sun-sea'
-track3_link: 'https://soundcloud.com/ghost-ramp/spirit-club-eye-dozer'
-track4_link: 'https://soundcloud.com/johnnyhawaii/the-parrots-are-not-what-they'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track4.mp3'
 track1_title: Matthewdavid - Mindflight 1
 track1_color: trippy
 track2_title: Crystal Voyager OST - Red Sun Sea
@@ -25,13 +25,13 @@ episode_URL: 'https://mailta.pe/256/Johnny-Hawaii/'
 guestPic: guestPic256.jpg
 track4_color: bliss
 track5_color: trippy
-track5_link: 'https://soundcloud.com/luxart/01-its-personal-the-radio-dept-pet-grief-2006'
-track6_link: 'https://soundcloud.com/subpop/beachhouse_sparks'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track6.mp3'
 track6_title: Beach House - Sparks
 track6_color: dreamy
 track7_title: The Brian Jonestown Massacre - Viholliseni Maalla
 track7_color: bliss
-track7_link: 'https://soundcloud.com/ori-dvir/brian-jonestown-massacre'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/256/track7.mp3'
 track5_title: The Radio Dept. - It's Personal
 description: >-
   This morning, let's all stay in a hazy state thanks to Johnny Hawaii’s trippy

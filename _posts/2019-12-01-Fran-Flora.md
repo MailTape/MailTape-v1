@@ -8,8 +8,8 @@ writer: Sanjay Mistry
 category: '382'
 guest_name: Fran & Flora
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/hejira/02-joyful-mind'
-track4_link: 'https://soundcloud.com/user-44680920/jurjuna-for-leyli'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track1.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track4.mp3'
 track1_title: Hejira – Joyful Mind
 track1_color: vibrant
 track2_title: >-
@@ -29,7 +29,7 @@ track7_color: trippy
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track3.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track5.mp3'
-track6_link: 'https://soundcloud.com/tomekareid-music/the-lone-wait'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/382/track7.mp3'
 episode_URL: 'https://www.mailta.pe/382/fran-flora/'
 guestPic: guestPic382.jpg

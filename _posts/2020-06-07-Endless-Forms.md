@@ -12,9 +12,9 @@ guestPic: guestPic409.jpg
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/409/track1.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/409/track3.mp3'
 track1_color: dreamy
-track4_link: 'https://soundcloud.com/endlessforms/something-will-seduce-me/s-4rxDo'
-track5_link: 'https://soundcloud.com/christellebofale/u-ouchea'
-track6_link: 'https://soundcloud.com/serpentwithfeet/a-comma'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/409/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/409/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/409/track6.mp3'
 track6_color: bliss
 track6_title: serpentwithfeet - A Comma
 track5_color: dreamy

@@ -14,20 +14,20 @@ track6_color: dreamy
 track7_color: vibrant
 category: "150"
 guest_name: Matthew Halsall
-track1_link: "https://soundcloud.com/harpista/he-has-a-name-or-awareness"
-track2_link: "https://soundcloud.com/ninja-tune/the-cinematic-orchestra-5"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track3.mp3"
 episode_URL: "http://mailta.pe/150/Matthew-Halsall/"
 track1_title: "Harpista - He Has a Name (Awareness)"
 track2_title: "The Cinematic Orchestra - Necrology"
 track3_title: "Phil France - The Swimmer"
-track4_link: "https://soundcloud.com/matthewhalsall/matthew-halsall-journey-in"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track4.mp3"
 track4_title: "Matthew Halsall - Journey In Satchidananda"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track5.mp3"
 track5_title: "Philip Glass - Mad Rush"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track6.mp3"
 track6_title: "Amon Tobin - Bedtime Stories (Austin Peralta Reinterpretation)"
-track7_link: "https://soundcloud.com/roy-hargrove-quintet/strasbourg-saint-denis-live"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/150/track7.mp3"
 track7_title: "Roy Hargrove Quintet - Strasbourg Saint Denis (Live Performance)"
 guestPic: guestPic150.jpg
 image: https://mailta.pe/img/fbPic150.jpg

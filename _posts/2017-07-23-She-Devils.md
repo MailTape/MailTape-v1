@@ -6,9 +6,9 @@ author: ImaCrea
 illustrator: Camille Célestin
 category: '270'
 guest_name: She-Devils
-track1_link: 'https://soundcloud.com/ramzihouti/b3-majestic-zouk-from-new-lp-phobiza'
-track2_link: 'https://soundcloud.com/sethbogart/seth-bogart-club-with-me'
-track3_link: 'https://soundcloud.com/guysnumber/when-you-call-me'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track3.mp3'
 track1_title: Ramzi - Majestic Zouk
 track2_title: Seth Bogart - Club With Me
 track3_title: 'Guy''s# - When You Call Me'
@@ -22,7 +22,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track5.mp3'
 track5_title: Yellow Days - That Easy
 track5_color: bliss
 track6_title: Mons Vi - Want Me Too
-track6_link: 'https://soundcloud.com/mons-vi/want-me-too'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/270/track7.mp3'
 track7_title: ' Tabu Ley Rochereau - Hafi Deo '
 track7_color: vibrant

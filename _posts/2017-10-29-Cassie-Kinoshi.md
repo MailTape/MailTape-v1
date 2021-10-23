@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '284'
 guest_name: Cassie Kinoshi
 guest_color: dreamy
-track1_link: 'https://soundcloud.com/kirankai/snug'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track2.mp3'
-track3_link: 'https://soundcloud.com/oscarjerome/oscar-jerome-you-take-me'
-track4_link: 'https://soundcloud.com/cassie-kinoshi/the-dream-keeper'
-track5_link: 'https://soundcloud.com/convivomusic/invisible-dedicated-to-trayvon'
-track6_link: 'https://soundcloud.com/onthecornerrecords/07-arrival'
-track7_link: 'https://soundcloud.com/moses-boyd/nocturne'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/284/track7.mp3'
 track1_title: Kiran Kai ft. Jordan Rakei & Bdrsk – FF
 track1_color: trippy
 track2_title: Andrew Poppy – Last Light

@@ -9,11 +9,11 @@ guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic211.jpg
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track1.mp3"
-track2_link: "https://soundcloud.com/imacrea/k-frimpong-and-his-cubano-fiestas-kyenkyen-bi-adi-mawu"
-track3_link: "https://soundcloud.com/souldressing/shake-hands-geraldo-pino"
-track4_link: "https://soundcloud.com/marabout-orkestra/warteef-jigeen"
-track5_link: "https://soundcloud.com/milesbonny/freddie-joachim-to-remind-us"
-track6_link: "https://soundcloud.com/zuper6/too-early"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track4.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/211/track7.mp3"
 track1_title: "Herbie Hancock - Wiggle Waggle (Mr. Scruff Remix)"
 track1_color: vibrant

@@ -6,13 +6,13 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 category: '263'
 guest_name: Olimpia Splendid
-track1_link: 'https://soundcloud.com/miaux/above-the-high-rays'
-track2_link: 'https://soundcloud.com/tsembla/alejandro'
-track3_link: 'https://soundcloud.com/tv-dinner-education/who-r-the-rules'
-track4_link: 'https://soundcloud.com/olimpia-splendid/jukka-pekka'
-track5_link: 'https://soundcloud.com/kirashokhova/a4-in-the-valley-of-the-sun'
-track6_link: 'https://soundcloud.com/karengwyer/judd-drums'
-track7_link: 'https://soundcloud.com/blackest-ever-black/carla-dal-forno-you-know-what-its-like'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/263/track7.mp3'
 track1_title: MIAUX — Above The High Rays
 track1_color: dreamy
 track2_title: Tsembla — Alejandro

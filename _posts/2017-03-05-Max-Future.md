@@ -8,12 +8,12 @@ writer: Maxime
 guest_name: Max Future
 guest_color: bliss
 guestPic: guestPic250.jpg
-track1_link: 'https://soundcloud.com/b_u_b_u/m-e-d-cant-hold-on'
-track2_link: 'https://soundcloud.com/from-go-to-whoa-blog/tame-impala-prototype-outkast'
-track3_link: 'https://soundcloud.com/tigersushirecords/nothing-gold-12inch-mix'
-track4_link: 'https://soundcloud.com/panache-lab/max-future-till-you-let-go'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track5.mp3'
-track6_link: 'https://soundcloud.com/butteringtrio/from-the-tree'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track6.mp3'
 track1_color: rough
 track2_title: Tame Impala - Prototype (Outkast Cover)
 track2_color: dreamy
@@ -27,7 +27,7 @@ track1_title: M.E.D. - Cant Hold On
 track6_title: Buttering Trio - From The Tree
 track6_color: dreamy
 track7_color: bliss
-track7_link: 'https://soundcloud.com/rydertheeagle/its-all-about-the-music'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/250/track7.mp3'
 track7_title: Ryder the Eagle - It's All About The Music
 episode_URL: 'https://mailta.pe/250/Max-Future/'
 image: https://mailta.pe/img/fbPic250.jpg

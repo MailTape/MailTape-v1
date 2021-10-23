@@ -2,12 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '5'
 published: true
-track1_link: 'https://soundcloud.com/samthingsoweto/01-jack-of-all-trades'
-track2_link: 'https://soundcloud.com/hello_skinny/owegi-owandho-hello-skinny'
-track3_link: 'https://soundcloud.com/waver-music/aphelion'
-track4_link: 'https://soundcloud.com/kitrecords/cara-stacey-dark-matter-kr13'
-track5_link: 'https://soundcloud.com/strut/malombo-jazz-makers-hleziphi'
-track6_link: 'https://soundcloud.com/sons-of-kemet/sons-of-kemet-adonias-lullaby'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/247/track7.mp3'
 category: '247'
 author: Sanjay Mistry

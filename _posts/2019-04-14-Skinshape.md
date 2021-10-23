@@ -10,9 +10,9 @@ guest_name: Skinshape
 guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track2.mp3'
-track3_link: 'https://soundcloud.com/mad_hatter-886427812/the-verve-bittersweet-symphony'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track4.mp3'
-track5_link: 'https://soundcloud.com/sacredbones/hilary-woods-prodigal-dog'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/353/track7.mp3'
 track1_title: Aamina Camaari - Rag waa Nacab Iyo Nasteexo (Men are Cruel and Kind)

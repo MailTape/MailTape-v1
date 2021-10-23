@@ -8,12 +8,12 @@ writer: Charlotte
 category: '316'
 guest_name: Operator Music Band
 guest_color: rough
-track1_link: 'https://soundcloud.com/polar-patrol-publishing/here-we-go-magic-over-the'
-track2_link: 'https://soundcloud.com/dore/lift-him-up-thats-all-washington-phillips'
-track3_link: 'https://soundcloud.com/comeme/aye-aye-wila-wila-comeme'
-track5_link: 'https://soundcloud.com/vermelho/teenage-iceage-vermelho-edit '
-track4_link: 'https://soundcloud.com/newprofessor/creative-tube-bending'
-track6_link: 'https://soundcloud.com/eye22/le-croquis-de-la-femme'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track3.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track5.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track4.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track6.mp3'
 track1_color: dreamy
 track2_color: vibrant
 track3_color: dreamy
@@ -21,7 +21,7 @@ track4_color: vibrant
 track5_color: bliss
 track6_color: bliss
 track7_color: dreamy
-track7_link: 'https://soundcloud.com/gulfofmexico/st-james-infirmary-blues-abner-jay'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/316/track7.mp3'
 track1_title: Here We Go Magic - Over the Ocean
 track2_title: Washington Phillips - Lift Him Up That's All
 track3_title: Aye Aye - Wila Wila

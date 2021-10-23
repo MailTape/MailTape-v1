@@ -6,13 +6,13 @@ guest_name: Homeshake
 guest_color: dreamy
 bigTitle_font_ratio: "6"
 guestPic: guestPic200.jpg
-track1_link: "https://soundcloud.com/jerry-paper/3d-dream-world-mix"
-track2_link: "https://soundcloud.com/eggpaperfactory/un-blonde-water-the-next?in=eggpaperfactory/sets/un-blonde-water-the-next-day"
-track3_link: "https://soundcloud.com/vivid-3/tonstartssbandht-hymn-eola"
-track4_link: "https://soundcloud.com/homeshake/i-dont-play"
-track5_link: "https://soundcloud.com/ninja-tune/max-graef-glenn-astro-magic-johnson"
-track6_link: "https://soundcloud.com/mailtape/dego-kaidi-black-is-key"
-track7_link: "https://soundcloud.com/soulection/monte-booker-baby-ft-ravyn-lenae"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track1.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track2.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track4.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/200/track7.mp3"
 track1_title: "Jerry Paper - 3D Dream"
 track1_color: trippy
 track2_title: "Unblonde - Look"

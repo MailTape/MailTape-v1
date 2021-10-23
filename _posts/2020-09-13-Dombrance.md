@@ -16,10 +16,9 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track4.mp3'
-track5_link: >-
-  https://soundcloud.com/xxxiii-452513197/06-encore-un-etrange-sentiment?in=xxxiii-452513197/sets/lodeur-de-lorage
-track6_link: 'https://soundcloud.com/musiquelarge/fulgeance-ensemble'
-track7_link: 'https://soundcloud.com/weval/the-weight-2'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track7.mp3'
 track1_title: Pink Flyod - A Pillow Of Winds
 track1_color: dreamy
 track2_title: Dope Lemon - Hey You

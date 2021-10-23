@@ -7,9 +7,9 @@ illustrator: Anais Caura
 category: '253'
 guest_name: Cut Off Your Hands
 guest_color: vibrant
-track2_link: 'https://soundcloud.com/world-music-network/john-coltrane-blue-train-from'
-track3_link: 'https://soundcloud.com/flamingosis/bright-moments-feat-the-kount'
-track4_link: 'https://soundcloud.com/cutoffyourhandsnz/higher-lows-and-lower-highs'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track4.mp3'
 track1_color: trippy
 track2_title: John Coltrane - Blue Train
 track2_color: bliss
@@ -18,10 +18,10 @@ track3_color: vibrant
 track4_title: Cut Off Your Hands - Higher Lows and Lower Highs
 track4_color: vibrant
 guestPic: guestPic253new2.jpg
-track1_link: 'https://soundcloud.com/dominorecordco/la-priest-lorry-park'
-track5_link: 'https://soundcloud.com/babeband/scooping-pints'
-track6_link: 'https://soundcloud.com/crammed-discs/aquaserge-tour-du-monde'
-track7_link: 'https://soundcloud.com/caandides/rio'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track1.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/253/track7.mp3'
 track1_title: 'LA Priest - Lorry Park '
 track5_title: BABE - Scooping Pints
 track5_color: bliss
