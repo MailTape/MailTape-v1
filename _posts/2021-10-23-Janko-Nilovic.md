@@ -15,6 +15,8 @@ track4_color: trippy
 track5_color: vibrant
 track6_color: bliss
 track7_color: vibrant
+image: 'https://mailta.pe/img/fbPic467.png'
+guestPic: guestPic467.jpg
 ---
 <p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
@@ -48,5 +50,7 @@ Sarah: **"**Realeased earlier this year, this track from the Italian Jazz Fusion
 ## [Florence Adooni](https://florenceadooni.bandcamp.com/) - Mam Pe'ela Su'ure
 Sarah: **"**Mam Pe'ela Su'ure" is a typical Frafra-Gospel Hymn, this typical music of the Frafra people who come from the northern regions of Ghana, sung during Sunday services accompanied only with shakers and hand clapping.**"**
 
+![fbPic467.png]({{site.baseurl}}/img/fbPic467.png)
+![guestPic467.jpg]({{site.baseurl}}/img/guestPic467.jpg)
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Arp Frique](https://arpfrique.bandcamp.com/) for his energizing Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
