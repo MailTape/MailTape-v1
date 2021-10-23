@@ -20,7 +20,7 @@ guestPic: guestPic467.jpg
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded in an entire kaleidescope of sound. To craft this world, we are beyond thrilled to welcome Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneers of French production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists (including Jay-Z, Joey Bada$$, and many others). 
   <br><br>
-Nothing if not versatile, Janko slips easily across styles of jazz, classical, funk, rock, and psychedelic music. 
+Nothing if not versatile, Janko slips easily across styles of jazz, classical, funk, rock, and psychedelic music. Janko's choices, too, reflect this versatility and leavign
 </p>
 
 
@@ -41,8 +41,8 @@ Janko: **"**Such a sweet, silky, smooth and even sexy jam from this funk band th
 ## [Janko Nilovic](https://arpfrique.bandcamp.com/) - Ballet Dans L'Espace (Feat. Mariseya)
 Sarah: **"**Never have I had such a difficult time selecting a guest track! Each album of Janko's is a wonder in its own right, standing out from the previous release. Surprising at each turn, Janko's arrangements ar a delight to follow. This particular track from the -- album, --, **"**
 
-## Grupo Pilon - Liberdadi
-Sarah: **"**Now it's time to do some physical exercises! Grupo Pilon is another example of the richness of Cape Verdian music. This band formed in Luxembourg in 1986 by teenagers from the Krioulu diaspora was largely unknown at the time. Fortunately, [Ostinato Records](https://ostinatorecords.bandcamp.com/album/grupo-pilon-leite-quente-funan-de-cabo-verde) reissued this gem and allows us to appreciate this blissful synth work and energetic guitar rhythms.**"**
+## Janko Nilovic and the Soul Surfers - Say it Softly
+Sarah: **"**This song feels like wading thhrough a dream, or perhaps it feels like a mid afternoon drive through the warm countryside with the windows down. Maybe they are the same thing.**"**
 
 ## Aura Safari - Niagara
 Sarah: **"**Realeased earlier this year, this track from the Italian Jazz Fusion quintet [Aura Safari](https://aurasafari.bandcamp.com/) is an emotional masterpiece. Trippy energy gives way to softness but the invitation to travel remains.**"**
