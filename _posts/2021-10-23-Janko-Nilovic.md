@@ -21,6 +21,8 @@ track1_title: Steely Dan - Do It Again
 track2_title: Moondog - Bird's Lament
 track3_title: Frank Zappa - Joe's Garage
 track6_title: Janko Nilović and the Soul Surfers - Say it Softly
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track2.mp3'
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and R&B artists (including Jay-Z and Dr Dre). 
   <br><br>
