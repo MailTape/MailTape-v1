@@ -18,7 +18,7 @@ track7_color: vibrant
 image: 'https://mailta.pe/img/fbPic467.png'
 guestPic: guestPic467.jpg
 ---
-<p id="introduction"> This morning, we are wading through worlds of color
+<p id="introduction"> This morning, we are wading through worlds of color, shrouded in a kaleidescope of sound. We are beyond thrilled to welcome Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the library music world. One of the pioneers of french production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists. 
   
   . Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
