@@ -18,11 +18,9 @@ track7_color: vibrant
 image: 'https://mailta.pe/img/fbPic467.png'
 guestPic: guestPic467.jpg
 ---
-<p id="introduction"> This morning, we are wading through worlds of color, shrouded in a kaleidescope of sound. We are beyond thrilled to welcome Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the library music world. One of the pioneers of french production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists. 
-  
-  . Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
-<br><br>
-Niels Nieuborg, the genius mind behind Arp Frique, has been actively involved in the Dutch live music scene for years before embarking on his own project. The Arp Frique alter ego is a reference to the sound of the Arp synths and Chic’s famous song ‘Le Freak’, showing his love to disco. After several very well received EPs and a first album “The Colorful World of Arp Frique” released in 2018, the exotic and funky producer is back in October 2021 with "The Seed", a new invitation to travel in his joyful universe.
+<p id="introduction"> This morning, we are wading through worlds of color, shrouded in a kaleidescope of sound. We are beyond thrilled to welcome Janko Nilović to craft this world at MailTape this Sunday. Based in Paris, Janko is a living legend in the library music world. One of the pioneers of french production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists (including Jay-Z, Joey Bada$$, and many others). 
+  <br><br>
+Nothing if not versatile, Janko slips easily across styles of jazz, classical, funk, rock, and psychedelic music. 
 </p>
 
 
