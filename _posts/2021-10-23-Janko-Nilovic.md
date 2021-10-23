@@ -29,10 +29,10 @@ Nothing if not versatile, Janko slips easily across styles of jazz, classical, f
 ## Steely Dan - Do It Again
 Janko: **"**I have a lot of dreams at night. Some nice but many are heavy, processing the horrors of the world and challenges in my life. “I never promised you a rose garden” my grandma used to say and that’s what it is. This synthesizer masterpiece is perfect for a transition from gloomy and moody awakening into a positive mindset, realizing it’s all a game this life, or whatever it is. And it takes me back to one of the golden eras of TV, back when watching TV was still a thing and there was actually good and honest stuff on there.**"**
 
-## Steely Dan - Do It Again
+## Moondog - Bird's Lament
 Janko: **"**To follow the first one up, this Ethiopian synthbanger will lift you up and literally energizes me. Even makes me wanna jump on the synths right away and create. So many beautiful records that are seeing the light of day again thanks to reissue labels, this one stands out for me. There is even a bit of humor for me in here, as if the lead synth is pranking you with it’s staccato theme. Stevie Wonder-ish it sounds to my ears..**"**
 
-## Pieces Of A Dream - Warm Weather
+## Frank Zappa - Joe's Garage
 Janko: **"**Such a sweet, silky, smooth and even sexy jam from this funk band that mostly recorded harder fusion jams. Although their music is instrumental, this time they added vocals courtesy of Barbara Walker (plus Dexter Wansel on synth). It is one of my fetishes, making synths sound sweet and organic through all their digital glory. Herbie Hancock is a master at this as well, so in love with his music. Plus george Duke, Suzanne Ciani, a few others. I borrow a lot from their approach to synthesizers.**"**
 
 
