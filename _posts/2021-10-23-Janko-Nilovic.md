@@ -26,10 +26,10 @@ Nothing if not versatile, Janko slips easily across styles of jazz, classical, f
 
 # Janko Nilović's selection
 
-## Jan Hammer - Crockett's Theme (Miami Vice)
+## Steely Dan - Do It Again
 Janko: **"**I have a lot of dreams at night. Some nice but many are heavy, processing the horrors of the world and challenges in my life. “I never promised you a rose garden” my grandma used to say and that’s what it is. This synthesizer masterpiece is perfect for a transition from gloomy and moody awakening into a positive mindset, realizing it’s all a game this life, or whatever it is. And it takes me back to one of the golden eras of TV, back when watching TV was still a thing and there was actually good and honest stuff on there.**"**
 
-## Admas - Anchi Bale Game
+## Steely Dan - Do It Again
 Janko: **"**To follow the first one up, this Ethiopian synthbanger will lift you up and literally energizes me. Even makes me wanna jump on the synths right away and create. So many beautiful records that are seeing the light of day again thanks to reissue labels, this one stands out for me. There is even a bit of humor for me in here, as if the lead synth is pranking you with it’s staccato theme. Stevie Wonder-ish it sounds to my ears..**"**
 
 ## Pieces Of A Dream - Warm Weather
