@@ -10,12 +10,12 @@ track1_title: Weyes Blood - Andromeda
 track2_title: The Lemon Twigs - Frank
 track3_title: Whitney - Golden Days
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track1.mp3'
-track3_link: 'https://soundcloud.com/secretlycanadian/whitney-golden-days-1'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/419/track3.mp3'
 track1_color: dreamy
 track3_color: vibrant
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/419/track2.mp3'
 track2_color: trippy
-track4_link: 'https://soundcloud.com/salarymen/salarymen-runaway'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/419/track4.mp3'
 track4_title: Salarymen - Runaway
 track4_color: vibrant
 track6_title: Laraaji - Laws of Manifestation

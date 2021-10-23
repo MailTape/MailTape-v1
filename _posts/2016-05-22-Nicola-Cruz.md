@@ -11,11 +11,10 @@ guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/218/track3.mp3'
-track4_link: 'https://soundcloud.com/nicolacruz/05-prender-el-alma'
-track5_link: >-
-  https://soundcloud.com/tait_00/future-islands-seasons-waiting-on-you-badbadnotgood-reinterpretation
-track6_link: 'https://soundcloud.com/crackirecords/ma3-overseas-v2-1'
-track7_link: 'https://soundcloud.com/shhsecretsongs/naps'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/218/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/218/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/218/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/218/track7.mp3'
 track1_title: Radiohead - Daydreaming
 track2_title: Kaitlyn Aurelia Smith - Labyrinth II
 track3_title: Devendra Banhart - Santa Maria da Feira

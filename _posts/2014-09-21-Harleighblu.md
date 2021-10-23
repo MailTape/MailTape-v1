@@ -14,7 +14,7 @@ track6_color: trippy
 track7_color: bliss
 category: "152"
 guest_name: Harleighblu
-track2_link: "https://soundcloud.com/gilda-notdead/little-dragon-sunshine"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/152/track2.mp3"
 track2_title: "Little Dragon - Sunshine"
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/152/track1.mp3"
 track1_title: "Bilal - When will you call"
@@ -24,11 +24,11 @@ episode_URL: "http://mailta.pe/152/Harleighblu/"
 track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/152/track4.mp3"
 track4_title: "Harleighblu - Weekend"
 guestPic: guestPic152.jpg
-track5_link: "https://soundcloud.com/goldbloc/ride-me-high-ft-solei"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/152/track5.mp3"
 track5_title: "Goldbloc - Dreams of mine"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/152/track6.mp3"
 track6_title: "Rustie - Attak feat Danny Brown"
-track7_link: "https://soundcloud.com/rvdicalthekid/sango-ago-rvdical-remix-1"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/152/track7.mp3"
 track7_title: "Sango - Ago (Rvdical Remix)"
 image: https://mailta.pe/img/fbPic152.jpg
 description: "This morning, we're back and with a Lady: please welcome Harleighblu !"

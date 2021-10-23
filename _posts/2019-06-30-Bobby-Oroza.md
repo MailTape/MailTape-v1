@@ -9,9 +9,9 @@ category: '364'
 guest_name: Bobby Oroza
 guest_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track1.mp3'
-track2_link: 'https://soundcloud.com/user-786202860/gloria-ann-taylor-world-thats-not-real'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/364/track2.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track4.mp3'
-track5_link: 'https://soundcloud.com/jonahyano/nervous-feat-badbadnotgood'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/364/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/364/track7.mp3'
 track1_title: 'Chico Buarque - Olê, Olá'

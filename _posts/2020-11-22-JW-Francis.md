@@ -27,7 +27,7 @@ episode_URL: 'http://mailta.pe/426/JW-Francis/'
 musiColor: musiColor426.png
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/426/track7.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/426/track5.mp3'
-track6_link: 'https://soundcloud.com/mokinamusic/orfeu-1'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/426/track6.mp3'
 image: 'https://mailta.pe/img/fbPic426.png'
 track6_title: Mokina - Orfeu
 track7_title: lyam. - Pretty Pretty

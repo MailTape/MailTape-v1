@@ -9,14 +9,14 @@ writer: Daisy
 guest_name: Mischa Blanos
 guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/381/track1.mp3'
-track2_link: 'https://soundcloud.com/denovali/dictaphone-1054'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/381/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/381/track3.mp3'
 track1_title: Toshio Matsuura Group - Change
 track2_title: Dictaphone - 105.4
 track3_title: Mehliana (Brad Mehldau & Mark Guiliana) - Just Call Me Nige (Live)
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/381/track4.mp3'
 track4_title: Mischa Blanos - Two Sugar Cubes
-track5_link: 'https://soundcloud.com/floatingpoints/falaise'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/381/track5.mp3'
 track5_title: Floating Points - Falaise
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/381/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/381/track7.mp3'

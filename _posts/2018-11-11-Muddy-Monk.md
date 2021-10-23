@@ -2,11 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/de-barjorak/holy-dirty-intimacy-shorter'
-track2_link: 'https://soundcloud.com/okoebombo/naked-life'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/331/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/331/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/331/track3.mp3'
-track4_link: 'https://soundcloud.com/muddymonk/drift'
-track7_link: 'https://soundcloud.com/brownswood/abusey-junction'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/331/track4.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/331/track7.mp3'
 category: '331'
 guest_name: Muddy Monk
 author: Manon
@@ -14,7 +14,7 @@ illustrator: William Girault
 writer: Manon
 guest_color: dreamy
 episode_URL: 'http://mailta.pe/331/Muddy-Monk/'
-track5_link: 'https://soundcloud.com/miel2montagne/pourquoipas'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/331/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/331/track6.mp3'
 track2_title: Oko Ebombo - Naked Life
 track2_color: vibrant

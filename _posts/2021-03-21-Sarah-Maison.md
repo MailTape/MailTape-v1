@@ -8,7 +8,7 @@ category: '443'
 guest_name: Sarah Maison
 guest_color: vibrant
 guestPic: guestPic443.jpg
-track1_link: 'https://soundcloud.com/majidaelroumi/majida-matrahak-bi-albi'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/443/track1.mp3'
 track1_color: vibrant
 track3_color: bliss
 track2_color: vibrant
@@ -26,8 +26,8 @@ track7_color: trippy
 episode_URL: 'http://mailta.pe/443/sarah-maison/'
 image: 'https://mailta.pe/img/fbPic443.png'
 musiColor: musiColor443.png
-track7_link: 'https://soundcloud.com/cyril-cyril-music/al-boustane'
-track4_link: 'https://soundcloud.com/sarah-maison/lete-1'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/443/track7.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/443/track4.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track3.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/443/track5.mp3'

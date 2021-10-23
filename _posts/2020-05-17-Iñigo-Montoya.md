@@ -8,7 +8,7 @@ track2_title: Adrien Pallot - quatre sept
 track1_color: bliss
 track1_title: Vitesse - A Way To My Redemption
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/406/track3.mp3'
-track2_link: 'https://soundcloud.com/santerecordz/quatre_sept'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/406/track2.mp3'
 guestPic: guestPic406.jpg
 guest_color: trippy
 guest_name: 'Iñigo Montoya '
@@ -17,8 +17,8 @@ writer: Anaïs G
 illustrator: Thibault Daumain
 author: Anaïs G
 published: true
-track5_link: 'https://soundcloud.com/petit-fantome/je-ne-reviendrais-pas'
-track6_link: 'https://soundcloud.com/jaunejaune/la-lueur-ankierman-remix'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/406/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/406/track6.mp3'
 track4_title: Iñigo Montoya - .E.S
 track4_color: trippy
 track5_title: Petit Fantome - Je ne reviendrais pas

@@ -8,12 +8,12 @@ guest_name: "Guru Fiction "
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic215.jpg
-track1_link: "https://soundcloud.com/stonesthrow/silk-rhodes-pains"
-track2_link: "https://soundcloud.com/adam-morrison-1217/vulfpeck-fugue-state-02-1612"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/215/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/215/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/215/track3.mp3"
-track4_link: "https://soundcloud.com/gurufiction/california-1"
-track5_link: "https://soundcloud.com/mailtape/anonymous-cumbia"
-track6_link: "https://soundcloud.com/carolinacamacho/ninfa-de-las-aguas"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/215/track4.mp3"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/215/track5.mp3"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/215/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/215/track7.mp3"
 track1_title: "Silk Rhodes - Pains"
 track1_color: dreamy

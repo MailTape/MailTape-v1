@@ -8,13 +8,13 @@ guest_name: Lindstrøm
 guest_color: trippy
 bigTitle_font_ratio: "6"
 guestPic: guestPic205.jpg
-track1_link: "https://soundcloud.com/the-dream-chimney/dc-promo-tracks-8-oma-amberflame-lazy-sun"
-track2_link: "https://soundcloud.com/distantworks/ohana"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/205/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/205/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/205/track3.mp3"
-track4_link: "https://soundcloud.com/feedelity/lindstrom-raakost"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/205/track4.mp3"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/205/track5.mp3"
-track6_link: "https://soundcloud.com/les-yeux-orange/premiere-a-visitor-from-another-meaning-i-rarely-talk-to-strangers"
-track7_link: "https://soundcloud.com/voltaire_records/social-lovers-cant-let-it-go"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/205/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/205/track7.mp3"
 track1_title: "OMA & Amberflame - Lazy Sun"
 track1_color: dreamy
 track2_title: "Michael David - Ohana"

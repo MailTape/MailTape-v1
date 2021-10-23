@@ -8,7 +8,7 @@ writer: PS KY
 category: '260'
 guest_name: Ménage à Trois
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/260/track1.mp3'
-track2_link: 'https://soundcloud.com/june/lost-area-dj-sprinkles-empty'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/260/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/260/track3.mp3'
 track1_title: Rod Stewart - This Old Heart Of Mine (Ocean Edits)
 track3_title: Dream Lovers - For Belgian Friends
@@ -16,12 +16,12 @@ track2_title: June - Lost Area (Dj Sprinkles' Empty Dancefoor)
 track4_title: Ménage à Trois - All Night Long
 guestPic: guestPic2601.jpg
 episode_URL: 'https://mailta.pe/260/Ménage-à-Trois/'
-track5_link: 'https://soundcloud.com/babeheaven/heaven'
-track6_link: 'https://soundcloud.com/blueofnoon/guidance'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/260/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/260/track6.mp3'
 track7_title: Dave Depper - Do You Want Love?
 track6_title: Blue Of Noon — Guidance
 track5_title: Babeheaven - Heaven
-track7_link: 'https://soundcloud.com/tenderlovingempire/dave-depper-do-you-want-love'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/260/track7.mp3'
 track1_color: dreamy
 track2_color: dreamy
 track3_color: dreamy
@@ -30,7 +30,7 @@ track5_color: bliss
 track6_color: bliss
 track7_color: trippy
 guest_color: dreamy
-track4_link: 'https://soundcloud.com/crackirecords/02-menage-a-trois-all-night'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/260/track4.mp3'
 image: https://mailta.pe/img/fbPic260.JPG
 description: >-
   Bright and delightful morning to the masses and the listeners, to the

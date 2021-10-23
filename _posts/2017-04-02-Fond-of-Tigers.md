@@ -4,12 +4,12 @@ bigTitle_font_ratio: '6'
 published: true
 author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
-track1_link: 'https://soundcloud.com/earhornmusic/califone-sunday-noises'
-track2_link: 'https://soundcloud.com/zammuto/11-las-twelve-fold-chain'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/254/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/254/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/254/track3.mp3'
-track4_link: 'https://soundcloud.com/offseason-records/vitamin-meathawk-feat-sandro-perri'
-track5_link: 'https://soundcloud.com/martinarnold/the-coo-coo-bird'
-track7_link: 'https://soundcloud.com/constellation-records/esmerine-the-neighbourhoods-rise'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/254/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/254/track5.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/254/track7.mp3'
 category: '254'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/254/track6.mp3'
 guest_name: Fond of Tigers

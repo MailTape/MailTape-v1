@@ -20,9 +20,9 @@ track2_title: La Priest - What Moves
 track1_color: dreamy
 track1_title: Nick Hakim - Let It Out
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track7.mp3'
-track6_link: 'https://soundcloud.com/themarias/i-dont-know-you-1'
-track5_link: 'https://soundcloud.com/genevieveartadi/hot-mess'
-track3_link: 'https://soundcloud.com/silas70/flash-and-the-pan-waiting-for'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/423/track6.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/423/track5.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/423/track3.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/423/track1.mp3'
 guestPic: guestPic423.jpg
 guest_color: vibrant

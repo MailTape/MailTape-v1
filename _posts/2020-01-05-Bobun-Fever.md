@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-track1_link: 'https://soundcloud.com/rubin-steiner/02-paradise'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/387/track1.mp3'
 guestPic: guestPic387.jpg
 guest_color: trippy
 guest_name: Bobun Fever
@@ -10,11 +10,11 @@ writer: Anaïs G
 illustrator: Pierre-Julien Fieux
 author: Anaïs G
 published: true
-track4_link: 'https://soundcloud.com/bobunfever/happy-banana'
-track5_link: 'https://soundcloud.com/lachinos-music/alas-rotas'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/387/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/387/track5.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track3.mp3'
-track6_link: 'https://soundcloud.com/bornbadrecords/cannibale-do-not-love-me-too-much-from-not-easy-to-cook-lp-out-16th-november'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/387/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/387/track7.mp3'
 track1_title: Rubin Steiner - Paradise
 track1_color: dreamy

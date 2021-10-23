@@ -15,13 +15,13 @@ track7_color: vibrant
 category: "140"
 guest_name: David Douglas
 guestPic: guestPic140.jpg
-track1_link: "https://soundcloud.com/aleko205/franz-schubert-piano-trio-in-e"
-track2_link: "https://soundcloud.com/handsometours-com/midlake-acts-of-man"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/140/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/140/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/140/track3.mp3"
-track4_link: "https://soundcloud.com/daviddouglasmusic/california-poppy"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/140/track4.mp3"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/140/track5.mp3"
-track6_link: "https://soundcloud.com/mister-gavin/kind-of-love-original-mix"
-track7_link: "https://soundcloud.com/turksandcaicos/nice-n-slow"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/140/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/140/track7.mp3"
 track1_title: "Franz Schubert - Piano Trio In E-Flat"
 track3_title: "Air - Le Voyage de Pénélope"
 track4_title: "David Douglas - California Poppy"

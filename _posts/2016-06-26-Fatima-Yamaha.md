@@ -5,9 +5,9 @@ published: true
 author: Ludovic
 illustrator: Camille Célestin
 writer: ImaCrea
-track7_link: 'https://soundcloud.com/jacquestransversal/jacques-tout-est-magnifique'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/223/track7.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track6.mp3'
-track5_link: 'https://soundcloud.com/beatsbycarter/ride-slow-preview-lease-purchase-info-full-beat-pack-in-description'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/223/track5.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/223/track4.mp3'
 track4_title: Fatima Yamaha - Half Moon Rising
 track5_title: Carter Black - Ride Slow

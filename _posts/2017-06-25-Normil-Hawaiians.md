@@ -7,13 +7,13 @@ author: Sanjay Mistry
 illustrator: Pierre-Julien Fieux
 guest_name: Normil Hawaiians
 guest_color: trippy
-track1_link: 'https://soundcloud.com/zannam/fela-kuti-power-show-zannas-secret-arp-edit'
-track2_link: 'https://soundcloud.com/the-flying-camel/iaso-tomita-debussy-arabesque'
-track3_link: 'https://soundcloud.com/chancloud/neu-hallo-gallo'
-track4_link: 'https://soundcloud.com/musicadelfauno/normil-hawaiians-yellow-rain'
-track5_link: 'https://soundcloud.com/omar-ben-ali/fatou-les-filles-de-illighadad'
-track6_link: 'https://soundcloud.com/kodatski/annette-peacock-survival'
-track7_link: 'https://soundcloud.com/constellation-records/the-triumph-of-our-tired-eyes'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track2.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track3.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/266/track7.mp3'
 track1_title: Fela Kuti - Power Show (Edit)
 track1_color: vibrant
 track2_title: Isao Tomita - Arabesque No. 1 (Debussy)

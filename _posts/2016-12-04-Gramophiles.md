@@ -2,10 +2,10 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/stoopkidsofficial/velvet-slide-ft-jo'
-track2_link: 'https://soundcloud.com/soundway-records/izem-agua-viva'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/237/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/237/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/237/track3.mp3'
-track4_link: 'https://soundcloud.com/gramophiles/tamborito-gramophiles-edit-4'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/237/track4.mp3'
 author: Maxime
 writer: Maxime
 category: '237'
@@ -21,7 +21,7 @@ track3_color: dreamy
 track2_color: vibrant
 track1_color: bliss
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/237/track5.mp3'
-track7_link: 'https://soundcloud.com/good-plus/les-yeux-orange-coco'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/237/track7.mp3'
 track5_color: rough
 track6_color: trippy
 track7_title: Les Yeux Oranges - Coco
@@ -30,7 +30,7 @@ track5_title: Konono n°1 & Batida - Bom Dia
 episode_URL: 'https://mailta.pe/237/Gramophiles/'
 image: https://mailta.pe/img/fbPic237.jpg
 musiColor: muciColor237.png
-track6_link: 'https://soundcloud.com/almanegramusic/a1-alma-negra-burkina-berlin'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/237/track6.mp3'
 track6_title: Alma Negra - Burkina Berlin
 description: 'This morning, we welcome you in the vintage universe of music.'
 illustrator: Isabelle Escande

@@ -7,7 +7,7 @@ track3_title: 'Sufjan Steven - The Tallest Man, The Broadest Shoulders'
 track2_title: Ryan Power - I Don't Want To Die
 track1_title: György Ligeti - Lux Aeterna (Wergo 1988)
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track1.mp3'
-track2_link: 'https://soundcloud.com/ryanpower/i-dont-want-to-die'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/384/track2.mp3'
 category: '384'
 guest_name: Lucie Antunes
 guest_color: bliss
@@ -17,7 +17,7 @@ writer: PS KY
 track1_color: trippy
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/384/track4.mp3'
 track4_title: Lucie Antunes - Blue Child
-track5_link: 'https://soundcloud.com/sentimentalrave/never-asking-favours'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/384/track5.mp3'
 track5_title: Sentimental Rave - Never Asking Favours
 track5_color: rough
 track4_color: bliss

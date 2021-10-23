@@ -17,8 +17,8 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/403/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/403/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/403/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/403/track5.mp3'
-track6_link: 'https://soundcloud.com/leavingrecords/swarvy-spam-grease-feat-keifer-shackelford'
-track7_link: 'https://soundcloud.com/haniarani-music/sun?in=haniarani-music/sets/esja-2'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/403/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/403/track7.mp3'
 track1_title: Bugz In The Attic - Red Handed
 track1_color: bliss
 track2_title: Ice - Reality

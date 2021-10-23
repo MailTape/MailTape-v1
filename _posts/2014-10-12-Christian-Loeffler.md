@@ -12,8 +12,8 @@ track4_color: bliss
 track5_color: rough
 track6_color: vibrant
 track7_color: vibrant
-track1_link: "https://soundcloud.com/ki-records/me-succeeds-rongorongo-arp"
-track2_link: "https://soundcloud.com/ki-records/grounds"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/155/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/155/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/155/track3.mp3"
 category: "155"
 guest_name: Christian Löffler
@@ -28,10 +28,10 @@ track4_title: "Christian Löeffler - Veiled Grey"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/155/track5.mp3"
 track5_title: "Bambounou - Brim"
 track6_title: "Teeel - Disk Go"
-track6_link: "https://soundcloud.com/teeel/disk-go"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/155/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/155/track7.mp3"
 track7_title: "Kazy Lambist - Doing Yoga"
-track4_link: "https://soundcloud.com/christianloeffler/veiled-grey"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/155/track4.mp3"
 description: "This morning, discover Christian Löffler. The extraordinary capacities of this young producer have kept numerous eyes and ears closely following his fresh talent. Loeffler’s deep moving melancholic sound, is absolutely irresistible. He chose for us a very eclectic selection of tracks from almost every color of your favorite sunday rainbow."
 ---
 

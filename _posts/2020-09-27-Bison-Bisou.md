@@ -17,9 +17,9 @@ track2_title: Girl Band - Shoulderblades
 track1_color: vibrant
 track1_title: 'Jenny Hval - The Great Undressing '
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/416/track7.mp3'
-track5_link: 'https://soundcloud.com/lagasta/hidden-fees-lo-what'
-track3_link: 'https://soundcloud.com/prayersofficial/from-dog-to-god'
-track1_link: 'https://soundcloud.com/jennyhval/the-great-undressing-5'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/418/track5.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/418/track3.mp3'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/418/track1.mp3'
 guestPic: guestPic418.jpg
 guest_color: rough
 guest_name: Bison Bisou

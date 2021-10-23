@@ -6,10 +6,10 @@ author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-track7_link: 'https://soundcloud.com/i-igo-montoya-2/deluge'
-track6_link: 'https://soundcloud.com/ricky-hollywood/04-coule-feat-toro-azor?in=ricky-hollywood/sets/laventure-interieure-ep'
-track5_link: 'https://soundcloud.com/moleculesound/serge-gainsbourg-melody-nelson?in=millefeuilles/sets/exposition-mille-feuilles-19'
-track4_link: 'https://soundcloud.com/miel2montagne/ces-reves'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track7.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track6.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track5.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track4.mp3'
 track4_title: Miel de Montagne - Ces Rêves
 track4_color: dreamy
 track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)

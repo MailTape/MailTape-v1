@@ -8,13 +8,13 @@ writer: Inès
 category: '374'
 guest_name: Jermango Dreaming
 guest_color: bliss
-track1_link: 'https://soundcloud.com/tasty-morsels/sensuela'
-track2_link: 'https://soundcloud.com/dinosaur-city-records/upmarket'
-track3_link: 'https://soundcloud.com/men-i-trust/numb'
-track4_link: 'https://soundcloud.com/niceguysrecords/jermango-dreaming-breeze'
-track5_link: 'https://soundcloud.com/niceguysrecords/shane-tyler-lumerian-promenade'
-track6_link: 'https://soundcloud.com/kaiptutaiptau/sans-cesse-mon-cheri'
-track7_link: 'https://soundcloud.com/munyamusic/dove'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track2.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track3.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/374/track7.mp3'
 track1_title: Column - Sensuela
 track1_color: dreamy
 track2_title: Poison Abbey - Upmarket

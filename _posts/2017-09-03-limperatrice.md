@@ -2,11 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/abdoulaye-sarr-2/113-les-princes-de-la-ville'
-track3_link: 'https://soundcloud.com/pepite/pepite-sensations'
-track5_link: 'https://soundcloud.com/cornelius/poda4loodxd4'
-track6_link: 'https://soundcloud.com/paxtonfell/haruomi-hosono-friends-the-last-paradise'
-track7_link: 'https://soundcloud.com/soundway-records/steve-monite-only-you-frankie-francis-disco-jam-edit-1'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track1.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track3.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track7.mp3'
 author: Maxime
 illustrator: Camille Célestin
 writer: Daisy
@@ -36,7 +36,7 @@ description: >-
   the summer, in the soft shadows of a long expected sunrise.
 track2_color: vibrant
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/276/track2.mp3'
-track4_link: 'https://soundcloud.com/l-imperatrice/l-imperatrice_agitations-tropicales'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/276/track4.mp3'
 ---
 <p id="introduction">This morning, the glitter balls are spinning a little slower and our limbs swaying more gently in the dark. L'Impératrice is here to help us close out the summer, in the soft shadows of a long expected sunrise. As a glowing haze settles and the lights come up, this disco is slipping into slow motion, a living nostalgia for the endless poolside midnights.</p>
 <p>Allowing us to dance and feel, L'Impératrice make our transition through this gauzy existence as effortless as floating across water, with their elegant brand of hypnotic, cinematic funk. Thanks to this gently pulsing energy, we can keep moving until we are the last of the dispersing crowd, neon-lit reflections forever dancing in our eyes.</p> 

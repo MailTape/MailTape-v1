@@ -14,11 +14,11 @@ track6_color: dreamy
 track7_color: rough
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/188/track1.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/188/track2.mp3"
-track3_link: "https://soundcloud.com/stampthewax/premiere-infamous-boogieman-revenge-tactics"
-track4_link: "https://soundcloud.com/xlr8r/project-pablo-the-feeling"
-track5_link: "https://soundcloud.com/foulandsunk/fulbert-night-ride"
-track6_link: "https://soundcloud.com/zacfm/essence-wayne-gardiner-just-a-touch-jazz-element-mix-strictly-rhythm"
-track7_link: "https://soundcloud.com/delicieuse-musique/premiere-fouk-kill-frenzy"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/188/track3.mp3"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/188/track4.mp3"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/188/track5.mp3"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/188/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/188/track7.mp3"
 track1_title: Florian Kupfer ~ SAD 001 A
 track2_title: Florist - Marine Drive
 track3_title: Infamous Boogieman ~ Revenge Tactics

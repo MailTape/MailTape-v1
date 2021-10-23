@@ -15,11 +15,11 @@ track7_color: dreamy
 category: "130"
 guest_name: The Jazzment
 guestPic: guestPic130.jpg
-track1_link: "https://soundcloud.com/henningmusic/villains-day-off"
-track2_link: "https://soundcloud.com/freddiejoachim/freddie-joachim-waves"
-track3_link: "https://soundcloud.com/overdozmusic/lauren-lodon"
-track4_link: "https://soundcloud.com/imacrea/the-jazzment-on-a-tip"
-track5_link: "https://soundcloud.com/tokimonsta/the-world-is-ours"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/130/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/130/track2.mp3"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/130/track3.mp3"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/130/track4.mp3"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/130/track5.mp3"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/130/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/130/track7.mp3"
 track1_title: "Henning - Villains Day Off"

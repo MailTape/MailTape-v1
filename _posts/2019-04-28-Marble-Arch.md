@@ -2,9 +2,8 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track2_link: 'https://soundcloud.com/muddymonk/si-lon-ride'
-track4_link: >-
-  https://soundcloud.com/geographierecs/marble-arch-moonstruck?in=geographierecs/sets/marble-arch-children-of-the-1
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/355/track2.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/355/track4.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/355/Track1.mp3'
 track1_color: bliss
 track1_title: Deerhunter - Helicopter

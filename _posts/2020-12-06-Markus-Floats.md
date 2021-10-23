@@ -11,10 +11,10 @@ guest_color: bliss
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/428/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/428/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/428/track3.mp3'
-track4_link: 'https://soundcloud.com/constellation-records/markus-floats-forward-always'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/428/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/428/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/428/track6.mp3'
-track7_link: 'https://soundcloud.com/schloom/down-for-double'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/428/track7.mp3'
 track1_title: Ma$e (ft. Billy Lawrence) – Love U So
 track1_color: vibrant
 track2_title: Change – Hold Tight

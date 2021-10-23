@@ -12,10 +12,10 @@ track4_color: dreamy
 track5_color: vibrant
 track6_color: bliss
 track7_color: vibrant
-track1_link: "https://soundcloud.com/muterecords/maps-a-m-a"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/163/track1.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/163/track2.mp3"
-track3_link: "https://soundcloud.com/julienmarchal/insight"
-track4_link: "https://soundcloud.com/frgmnts/fragments-december-sun"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/163/track3.mp3"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/163/track4.mp3"
 track1_title: "Maps - A.M.A"
 track2_title: "Ariel Pink's Haunted Graffiti - Round and Round"
 track3_title: "Julien Marchal - I"
@@ -23,11 +23,11 @@ track4_title: "Fragments - December Sun"
 episode_URL: "http://mailta.pe/163/Fragments/"
 category: "163"
 guest_name: Fragments
-track5_link: "https://soundcloud.com/atlas-bound/soul-master-1"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/163/track5.mp3"
 track5_title: "Atlas Bound - Soul"
 track6_title: "Les Gordon - Isolé"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/163/track6.mp3"
-track7_link: "https://soundcloud.com/recordturnover/the-pandamonium-waiting-for"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/163/track7.mp3"
 track7_title: "The Pandamonium - Waiting for Summer"
 guestPic: guestPic163.jpg
 musiColor: musiColor163.png

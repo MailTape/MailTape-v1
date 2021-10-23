@@ -8,8 +8,8 @@ writer: Luc
 category: '368'
 guest_name: Maenad Veyl
 guest_color: rough
-track1_link: 'https://soundcloud.com/mydisco/dnlp024-exercise-in-sacrifice'
-track2_link: 'https://soundcloud.com/mixmag-1/premiere-kokoroko-adwa-1'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/368/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/368/track2.mp3'
 track1_color: dreamy
 track1_title: MY DISCO - Exercise in Sacrifice
 track2_title: KOKOROKO - Adwa
@@ -25,11 +25,11 @@ track6_color: trippy
 track7_title: Simo Cell - As Long As We Have Those Things
 track7_color: dreamy
 episode_URL: 'https://www.mailta.pe/368/maenad-veyl/'
-track5_link: 'https://soundcloud.com/zavoloka/gromovytsya-gromovitsya'
-track7_link: 'https://soundcloud.com/simocell/as-long-as-we-have-those-things-livity-sound'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/368/track5.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/368/track7.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/368/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/368/track4.mp3'
-track6_link: 'https://soundcloud.com/joni_void/observer-natalies-song'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/368/track6.mp3'
 description: >-
   This morning, let's revel in the lush universe of Maenad Veyl, one of
   precisely crafted sounds and carefuly built momentums. His attention to detail

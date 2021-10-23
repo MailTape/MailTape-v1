@@ -8,13 +8,13 @@ guest_name: Cléa Vincent
 guest_color: vibrant
 bigTitle_font_ratio: "6"
 guestPic: guestPic203.jpg
-track1_link: "https://soundcloud.com/ricky-hollywood/party-dans-le-passeathanase-digital-reggae-mix"
-track2_link: "https://soundcloud.com/flairs/12-bus"
-track3_link: "https://soundcloud.com/kumisolo/3-ce-soir"
-track4_link: "https://soundcloud.com/midnightspecialrecords/retiens-mon-d-sir?in=midnightspecialrecords/sets/cl-a-vincent-non-mais-oui"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track2.mp3"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track3.mp3"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track4.mp3"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/203/track5.mp3"
-track6_link: "https://soundcloud.com/vedetttobogganrecords/09-tuer-les-gens"
-track7_link: "https://soundcloud.com/la_souterraine/o-mon-echo-2015"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/203/track7.mp3"
 track1_title: "Ricky Hollywood - Parti dans le Passé(Athanase Granson edit)"
 track1_color: vibrant
 track2_title: "Flairs - Bus"

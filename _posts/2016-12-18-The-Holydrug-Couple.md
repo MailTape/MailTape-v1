@@ -7,9 +7,9 @@ illustrator: William Girault
 guest_name: The Holydrug Couple
 guest_color: dreamy
 category: '239'
-track1_link: 'https://soundcloud.com/nicolasgodinmusic/widerstehe-doch-der-sunde'
-track2_link: 'https://soundcloud.com/arcocorintio/coronada'
-track3_link: 'https://soundcloud.com/xlr8r/valesuchi-golosynth'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/239/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/239/track2.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/239/track3.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/239/track5.mp3'
 track3_title: Valesuchi - Golosynth
 track3_color: dreamy
@@ -18,7 +18,7 @@ track2_title: Arco Corintio - Coronada
 track2_color: dreamy
 track1_color: trippy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/239/track7.mp3'
-track6_link: 'https://soundcloud.com/stampthewax/phil-stroud-flow-stw-premiere'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/239/track6.mp3'
 guestPic: guestPic239.jpg
 track4_title: The Holydrug Couple - Concorde
 track4_color: vibrant
@@ -28,7 +28,7 @@ track6_title: Phil Stroud - Flow
 track6_color: bliss
 track7_color: trippy
 episode_URL: 'https://mailta.pe/239/The-Holydrug-Couple/'
-track4_link: 'https://soundcloud.com/sacredbones/the-holydrug-couple-concorde'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/239/track4.mp3'
 track7_title: Mick Jenkins - Drowning feat. BadBadNotGood
 image: https://mailta.pe/img/fbPic239.jpg
 musiColor: musiColor239.JPG

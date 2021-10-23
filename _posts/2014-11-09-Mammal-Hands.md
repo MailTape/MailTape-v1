@@ -13,13 +13,13 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: vibrant
 guest_name: Mammal Hands
-track1_link: "https://soundcloud.com/richardspaven/whole-other-feat-the-hics"
-track2_link: "https://soundcloud.com/glitterbeat/fofoulah-make-good-soumala"
-track3_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
-track4_link: "https://soundcloud.com/mammal-hands/mansions-of-millions-of-years"
-track5_link: "https://soundcloud.com/scissorandthread/desert-sound-colony-the-way"
-track6_link: "https://soundcloud.com/littlejourney/doobie-mountain"
-track7_link: "https://soundcloud.com/noisey/03-sanza-tristesse"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track2.mp3"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track3.mp3"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track4.mp3"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track5.mp3"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/159/track7.mp3"
 track1_title: "Richard Spaven - Whole Others"
 track2_title: "Fofoulah - Make good"
 track3_title: "Taylor Mc Ferrin - The Antidote"

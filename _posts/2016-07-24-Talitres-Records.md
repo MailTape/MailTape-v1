@@ -7,8 +7,8 @@ category: '226'
 guest_name: Talitres Records
 guest_color: dreamy
 guestPic: guestPic226.jpg
-track1_link: 'https://soundcloud.com/irene-tessera/by-the-time-that-i-awoke'
-track2_link: 'https://soundcloud.com/asthmatickitty/sufjan-stevens-should-have-known-better'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track2.mp3'
 track1_title: Mark Kozelek & Jimmy Lavalle - By The Time That I Awoke
 track2_title: Sufjan Stevens - Should Have Known Better
 track3_title: Le Loup - Morning Song
@@ -17,15 +17,15 @@ track2_color: dreamy
 episode_URL: 'https://mailta.pe/226/Talitres-Records/'
 image: https://mailta.pe/img/fbPic226.jpg
 musiColor: musiColor226.png
-track3_link: 'https://soundcloud.com/talitres/le-loup-morning-song'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track3.mp3'
 track1_color: dreamy
 track3_color: vibrant
 illustrator: William Girault
 track7_title: Will Samson - Pyrton Bells
 track7_color: dreamy
-track4_link: 'https://soundcloud.com/rachaeldadd-1/strike-our-scythes'
-track6_link: 'https://soundcloud.com/la_souterraine/pain-noir-larme'
-track7_link: 'https://soundcloud.com/talitres/will-samson-pyrton-bells'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track4.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/226/track7.mp3'
 track4_title: Rachel Dadd - Strike Our Scythes
 track5_title: Julia Jacklin - Leadlight
 track5_color: vibrant

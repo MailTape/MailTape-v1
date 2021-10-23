@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/265/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/265/track2.mp3'
-track3_link: 'https://soundcloud.com/ultraultra/return-to-earth'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/265/track3.mp3'
 category: '265'
 author: Laura
 illustrator: Pierre-Julien Fieux
@@ -12,9 +12,9 @@ writer: Laura
 guest_name: Roche Musique
 guest_color: vibrant
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/265/track4.mp3'
-track5_link: 'https://soundcloud.com/musicis4lovers/kraak-smaak-way-back-home'
-track6_link: 'https://soundcloud.com/les-loups/elephant-and-ivory?in=les-loups/sets/club-coeur-remastered'
-track7_link: 'https://soundcloud.com/iaarontaylor/easy?in=iaarontaylor/sets/still-life'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/265/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/265/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/265/track7.mp3'
 track1_title: Tennyson x Mr. Carmack - Tuesday
 track1_color: vibrant
 track2_title: DJ Windows XP – I Cried Last Night

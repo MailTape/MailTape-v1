@@ -2,16 +2,16 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track1_link: 'https://soundcloud.com/rhanhee/electrelane-the-greater-times'
-track2_link: 'https://soundcloud.com/croque-macadam/entracte-twist-christine-young'
-track3_link: 'https://soundcloud.com/montagnesacreerecords/into-the-grave-guitar-hero-version'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track2.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track3.mp3'
 category: '314'
 guest_name: En Attendant Ana
 guest_color: vibrant
-track4_link: 'https://soundcloud.com/enattendantana/04-re'
-track5_link: 'https://soundcloud.com/sister-polygon-records/thinningwav'
-track6_link: 'https://soundcloud.com/corridormtl/02-coup-de-pe-e-master'
-track7_link: 'https://soundcloud.com/sdzrecords/le-villejuif-underground-cold-dark-place-in-your-art'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/314/track7.mp3'
 track1_title: Electrelane - The Greater Times
 track1_color: vibrant
 track2_title: Entracte Twist - Christine Young

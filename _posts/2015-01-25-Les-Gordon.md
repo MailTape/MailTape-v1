@@ -14,13 +14,13 @@ track6_color: vibrant
 track7_color: dreamy
 category: "170"
 guest_name: Les Gordon
-track1_link: "https://soundcloud.com/ddmrecordings/imagined-herbal-flows-01-clouds-ddm-recordings"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/170/track1.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/170/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/170/track3.mp3"
 track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/170/track4.mp3"
-track5_link: "https://soundcloud.com/innovativeleisure/tropics-blame"
-track6_link: "https://soundcloud.com/soulection/esta-luna-1"
-track7_link: "https://soundcloud.com/i-d-online-1/premiere-monsoonsiren-sullen-fables-prod-galimatias"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/170/track5.mp3"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/170/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/170/track7.mp3"
 track1_title: "Imagined Herbal Flows - Clouds"
 track2_title: "123Mrk - Pleasure"
 track3_title: "Marika Hackman - O'Come, O'Come, Emmanuel"

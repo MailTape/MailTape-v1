@@ -12,22 +12,22 @@ track4_color: trippy
 track5_color: dreamy
 track6_color: dreamy
 track7_color: vibrant
-track1_link: "https://soundcloud.com/populous/populous-the-breakfast-drama"
-track2_link: "https://soundcloud.com/international-feel/1-baby-come-home-1 "
-track3_link: "https://soundcloud.com/morrmusic/infinite-stillness"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track2.mp3"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track3.mp3"
 track1_title: "Populous - The Breakfast Drama"
 track2_title: "Mark Barrott -  Baby Come Home"
 track3_title: "Orcas - Infinite Stillness"
 category: "192"
 guest_name: Indian Wells
 episode_URL: "http://mailta.pe/192/Indian-Wells/"
-track4_link: "https://soundcloud.com/bad-panda-records/indianwells-alcantara"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track4.mp3"
 track4_title: "Indian Wells - Alcantara"
 guestPic: guestPic192.jpg
-track5_link: "https://soundcloud.com/plvnes/infinite-mind-power-seenmr"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track5.mp3"
 track5_title: "SEENMR - INFINITE MIND POWER "
-track6_link: "https://soundcloud.com/slowly-rolling-camera/anne"
-track7_link: "https://soundcloud.com/soulmotivators/aftermath"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track6.mp3"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/192/track7.mp3"
 track7_title: "The Soul Motivators - Aftermath"
 track6_title: "Slowly Rolling Camera - Anne"
 musiColor: musiColor192.png

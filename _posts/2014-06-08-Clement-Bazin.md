@@ -14,10 +14,10 @@ track6_color: bliss
 track7_color: bliss
 category: "144"
 guest_name: Clément Bazin
-track1_link: "https://soundcloud.com/pm-riviere/dimlite-cant-get-used-to-those"
-track2_link: "https://soundcloud.com/dirggerner/flako-lonely-town-feat-dirg"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/144/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/144/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/144/track3.mp3"
-track4_link: "https://soundcloud.com/withusrecords/1-come-to-this"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/144/track4.mp3"
 track1_title: "Dimlite - Can't Get Used To Those"
 track2_title: "Flako - Lonely Town feat. Dirg Gerner"
 track3_title: "Miguel - Do You… (Cashmere Cat Remix)"
@@ -28,7 +28,7 @@ track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/144/track5.mp3"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/144/track6.mp3"
 track6_title: "Rome Fortune - One Time For"
 track7_title: "Taylor McFerrin - The Antidote (feat. Nai Palm)"
-track7_link: "https://soundcloud.com/brainfeeder/taylor-mcferrin-the-antidote"
+track7_link: "https://mtsounds.eu-central-1.wasabisys.com/144/track7.mp3"
 guestPic: guestPic144.jpg
 image: https://mailta.pe/img/fbPic144.jpg
 musiColor: musiColor144.png

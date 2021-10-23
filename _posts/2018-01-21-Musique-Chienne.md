@@ -8,13 +8,13 @@ writer: Inès
 category: '296'
 guest_name: Musique Chienne
 guest_color: trippy
-track1_link: 'https://soundcloud.com/klaus-johann-grobe/geschichten-aus-erster-hand'
-track2_link: 'https://soundcloud.com/mondecerveau/made-u-cry'
-track3_link: 'https://soundcloud.com/fantastikoihxoi/mammane-sani-et-son-orgue-bodo-fh-rework'
-track4_link: 'https://soundcloud.com/musiquechienne/gateau-aux-oiseaux'
-track5_link: 'https://soundcloud.com/moontown-records/waterfall-person-i-wanna-go-to-the-dog-park-see-all-my-friends'
-track6_link: 'https://soundcloud.com/tainsus/cant-make-sense-of-it-all-can-you'
-track7_link: 'https://soundcloud.com/ohmu/tout-le-monde-est-content-et-va-a-sa-maison'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track1.mp3'
+track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track2.mp3'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track3.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/296/track7.mp3'
 track1_title: Klaus Johann Grobe - Geschichten aus erster Hand
 track1_color: vibrant
 track2_title: WORLD BRAIN - Made U Cry

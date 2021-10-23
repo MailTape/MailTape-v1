@@ -2,9 +2,9 @@
 layout: episode
 bigTitle_font_ratio: "6"
 published: true
-track1_link: "https://soundcloud.com/leavingrecords/matthewdavids-mindflight-orange-ganesh"
-track2_link: "https://soundcloud.com/gurugurubrain/ramayana-soul-jaya-raga-jiwa-mirangga-bhineka-tunggal-ika"
-track3_link: "https://soundcloud.com/noquarterrex/the-ballad-of-freer-hollow-by-chris-forsyth-the-solar-motel-band"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track1.mp3"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track2.mp3"
+track3_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track3.mp3"
 track1_title: "Matthewdavid's Mindflight - Orange Ganesh"
 track2_title: "Ramayana Soul - Jaya Raga Jiwa MiraNgga Bhineka Tunggal Ika"
 track3_title: "Chris Forsyth & The Solar Motel Band - The Ballad Of Freer Hollow"
@@ -22,11 +22,11 @@ track1_color: dreamy
 track2_color: dreamy
 track3_color: bliss
 track4_color: dreamy
-track4_link: "https://soundcloud.com/gurugurubrain/kikagaku-moyo-kogarashi"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track4.mp3"
 track7_color: rough
-track5_link: "https://soundcloud.com/fil-bo-riva/like-eye-did"
+track5_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track5.mp3"
 track5_color: bliss
-track6_link: "https://soundcloud.com/heavenlyrecordings/move-with-the-season-1?in=heavenlyrecordings/sets/sun-structures-1"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/217/track6.mp3"
 track6_title: "Temples - Move With The Seasons"
 track5_title: "Fil Bo Riva - Like Eye Did"
 track6_color: vibrant

@@ -16,7 +16,7 @@ category: "158"
 guest_name: Douglas Dare
 guestPic: guestPic158.jpg
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track1.mp3"
-track2_link: "https://soundcloud.com/modernlove/violence"
+track2_link: "https://mtsounds.eu-central-1.wasabisys.com/158/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track3.mp3"
 episode_URL: "http://mailta.pe/158/Douglas-Dare/"
 image: https://mailta.pe/img/fbPic158.jpg
@@ -25,7 +25,7 @@ track1_title: "iamamiwhoami - Thin"
 track2_title: "Andy Stott - Violence"
 track3_title: "Buke and Gase - Seam Esteem"
 track4_title: "Douglas Dare - Caroline"
-track4_link: "https://soundcloud.com/douglas-dare/caroline"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/158/track4.mp3"
 track5_title: "Joy! - Utopia"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/missingTrack.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/158/track7.mp3"

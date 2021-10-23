@@ -15,7 +15,7 @@ track7_color: vibrant
 category: "167"
 guest_name: Chill Bump
 guestPic: guestPic167.jpg
-track1_link: "https://soundcloud.com/motherucker/flight-of-the-conchords-foux"
+track1_link: "https://mtsounds.eu-central-1.wasabisys.com/167/track1.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/167/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/167/track3.mp3"
 track1_title: "Flight of The Conchords - Foux du Fafa"
@@ -25,10 +25,10 @@ track4_title: "Chill Bump - One Way Ticket"
 episode_URL: "http://mailta.pe/167/Chill-Bump/"
 image: https://mailta.pe/img/fbPic167.jpg
 musiColor: musiColor167.png
-track4_link: "https://soundcloud.com/chill-bump/05-one-way-ticket"
+track4_link: "https://mtsounds.eu-central-1.wasabisys.com/167/track4.mp3"
 track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/167/track5.mp3"
 track5_title: "Jonny K. & Haleek Maul - Insane"
-track6_link: "https://soundcloud.com/asa6aya/elusive-delusive-feat-lorine-chia"
+track6_link: "https://mtsounds.eu-central-1.wasabisys.com/167/track6.mp3"
 track6_title: "Asagaya ft. Lorine Chia - Elusive / Delusive"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/167/track7.mp3"
 track7_title: "Raury - God's Whisper"

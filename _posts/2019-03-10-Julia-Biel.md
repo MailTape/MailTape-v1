@@ -27,9 +27,9 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track2.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/348/track5.mp3'
-track3_link: 'https://soundcloud.com/wewerestrangers-2/we-were-strangers-unforgiving-war-1'
-track6_link: 'https://soundcloud.com/smithsonian-folkways/quasheba-quasheba'
-track7_link: 'https://soundcloud.com/h-icteduyulan/keyvan-chemirani-pandit-anindo'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/348/track3.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/348/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/348/track7.mp3'
 guestPic: guestPic348.jpg
 image: https://mailta.pe/img/fbPic348.jpg
 musiColor: musiColor348.png

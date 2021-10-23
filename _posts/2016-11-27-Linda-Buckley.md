@@ -9,11 +9,11 @@ guest_name: Linda Buckley
 guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/236/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/236/track2.mp3'
-track3_link: 'https://soundcloud.com/blackest-ever-black/tropic-of-cancer-stop-suffering'
-track4_link: 'https://soundcloud.com/ergodos/immersia-i'
-track5_link: 'https://soundcloud.com/constellation-records/jason-sharp-a-boat-upon-its-blood-pt-1'
-track6_link: 'https://soundcloud.com/temporary-residence-ltd-1/rachel-grimes-the-air-in-time-1'
-track7_link: 'https://soundcloud.com/allisoncameronmusic/3rds-4ths-5ths'
+track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/236/track3.mp3'
+track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/236/track4.mp3'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/236/track5.mp3'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/236/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/236/track7.mp3'
 category: '236'
 track1_title: Grouper - Heavy Water / I'd Rather Be Sleeping
 track1_color: bliss

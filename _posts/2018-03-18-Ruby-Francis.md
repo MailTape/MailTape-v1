@@ -12,12 +12,12 @@ track1_color: dreamy
 track3_color: bliss
 track2_color: vibrant
 track7_color: vibrant
-track6_link: 'https://soundcloud.com/itswayi/wayi-the-way-i-am'
-track7_link: 'https://soundcloud.com/kingprincessmusic/sunburn'
+track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/304/track6.mp3'
+track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/304/track7.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/304/track4.mp3'
 track6_title: WAYI — The Way I Am
 track6_color: dreamy
-track5_link: 'https://soundcloud.com/stillwoozy/goodiebag'
+track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/304/track5.mp3'
 track5_title: Still Woozy — Goodie Bag
 track5_color: vibrant
 track7_title: King Princess — Sunburn
@@ -30,7 +30,7 @@ category: '304'
 guest_name: Ruby Francis
 guest_color: dreamy
 guestPic: guestpic304ter.jpg
-track1_link: 'https://soundcloud.com/solo-smith-bouncemusic/still-in-love'
+track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/304/track1.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/304/track3.mp3'
 description: >-
   This morning, we welcome London-based singer/songwriter, Ruby Francis, to
