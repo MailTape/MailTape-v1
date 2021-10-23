@@ -18,7 +18,9 @@ track7_color: vibrant
 image: 'https://mailta.pe/img/fbPic467.png'
 guestPic: guestPic467.jpg
 ---
-<p id="introduction"> This morning, the sun has never shone so brightly. Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
+<p id="introduction"> This morning, we are wading through worlds of color
+  
+  . Rotterdam-based musician and producer [Arp Frique](https://arpfrique.bandcamp.com/) is welcoming MailTape in his colourful world! 
 <br><br>
 Niels Nieuborg, the genius mind behind Arp Frique, has been actively involved in the Dutch live music scene for years before embarking on his own project. The Arp Frique alter ego is a reference to the sound of the Arp synths and Chic’s famous song ‘Le Freak’, showing his love to disco. After several very well received EPs and a first album “The Colorful World of Arp Frique” released in 2018, the exotic and funky producer is back in October 2021 with "The Seed", a new invitation to travel in his joyful universe.
 </p>
@@ -49,8 +51,5 @@ Sarah: **"**Realeased earlier this year, this track from the Italian Jazz Fusion
 
 ## [Florence Adooni](https://florenceadooni.bandcamp.com/) - Mam Pe'ela Su'ure
 Sarah: **"**Mam Pe'ela Su'ure" is a typical Frafra-Gospel Hymn, this typical music of the Frafra people who come from the northern regions of Ghana, sung during Sunday services accompanied only with shakers and hand clapping.**"**
-
-![fbPic467.png]({{site.baseurl}}/img/fbPic467.png)
-![guestPic467.jpg]({{site.baseurl}}/img/guestPic467.jpg)
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Arp Frique](https://arpfrique.bandcamp.com/) for his energizing Sunday selections, and many thanks to [Noémie Dijon](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
