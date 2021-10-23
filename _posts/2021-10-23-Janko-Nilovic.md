@@ -18,7 +18,7 @@ track7_color: vibrant
 image: 'https://mailta.pe/img/fbPic467.png'
 guestPic: guestPic467.jpg
 ---
-<p id="introduction"> This morning, we are wading through worlds of color, shrouded in a kaleidescope of sound. We are beyond thrilled to welcome Janko Nilović to craft this world at MailTape this Sunday. Based in Paris, Janko is a living legend in the library music world. One of the pioneers of french production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists (including Jay-Z, Joey Bada$$, and many others). 
+<p id="introduction"> This morning, we are wading through worlds of color, shrouded in an entire kaleidescope of sound. To craft this world, we are beyond thrilled to welcome Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneers of French production music, Janko is behnd so many beloved arrangements, and is often sampled by hip hop, rap, and R&B artists (including Jay-Z, Joey Bada$$, and many others). 
   <br><br>
 Nothing if not versatile, Janko slips easily across styles of jazz, classical, funk, rock, and psychedelic music. 
 </p>
@@ -38,8 +38,8 @@ Janko: **"**Such a sweet, silky, smooth and even sexy jam from this funk band th
 
 # MailTape's selection
 
-## [Arp Frique](https://arpfrique.bandcamp.com/) - La Vérité (Feat. Mariseya)
-Sarah: **"**Taken from one of Arp Frique's first EP "Minima Bem Li" which is loosely based on his long-standing Cape Verdean connection, this track features sweet french vocals from Mariseya aka Marissa Nyamekye. The pace is slow, perfect for a gentle awakening.**"**
+## [Janko Nilovic](https://arpfrique.bandcamp.com/) - Ballet Dans L'Espace (Feat. Mariseya)
+Sarah: **"**Never have I had such a difficult time selecting a guest track! Each album of Janko's is a wonder in its own right, standing out from the previous release. Surprising at each turn, Janko's arrangements ar a delight to follow. This particular track from the -- album, --, **"**
 
 ## Grupo Pilon - Liberdadi
 Sarah: **"**Now it's time to do some physical exercises! Grupo Pilon is another example of the richness of Cape Verdian music. This band formed in Luxembourg in 1986 by teenagers from the Krioulu diaspora was largely unknown at the time. Fortunately, [Ostinato Records](https://ostinatorecords.bandcamp.com/album/grupo-pilon-leite-quente-funan-de-cabo-verde) reissued this gem and allows us to appreciate this blissful synth work and energetic guitar rhythms.**"**
