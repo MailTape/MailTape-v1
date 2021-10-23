@@ -22,7 +22,7 @@ track2_title: Moondog - Bird's Lament
 track3_title: Frank Zappa - Joe's Garage
 track6_title: Janko Nilović and the Soul Surfers - Say it Softly
 ---
-<p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and R&B artists (including Jay-Z and Dr Dre). 
+<p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and R&B artists (including Jay-Z and Dr Dre). 
   <br><br>
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music. 
 </p>
@@ -49,7 +49,7 @@ A true artist in the world of avant garde, always in search of the new, of the i
 
 # MailTape's selection
 
-## [Janko Nilović](https://arpfrique.bandcamp.com/) - Black on a White Ground
+## [Janko Nilović](https://www.jankonilovic.com/) - Black on a White Ground
 Sarah: **"**Never have I had such a difficult time selecting a guest track! Each album of Janko's is a wonder in its own right, with every collective work standing apart from the previous release. Surprising at each turn, Janko's arrangements are a true delight to follow. This particular track comes from the Rythmes Contemporains album, originally called Giant for its enormous production ensemble (45 musicians!). The album was released in 1974 (remastered in 2018), and showcases Janko at his finest. Not to mention its recorded live to tape :) Though the album draws from big band influences, Janko still takes significant risks departing from conventional structures. The quick climax a minute into the track creates the space for Janko to bleed into softer melodies, crafting more subtle harmonies and gentle dissonances in the process; something uncommon in big band albums. Just as we acclimate to these minimalist moments, even more intricate, expansive crescendos are constructed before our ears. Parsed carefully between these peaks, Janko experiments with noticeably dampened sections, even letting silence creep in, creating a delightfully sharp contrast to the powerful (even celestial) musical buildings elsewhere. Such an everchanging dynamic allows us to thoroughly appreciate each section for what it offers on its own and as part of the composite. Incredible :)**"**
 
 ## Janko Nilović and the Soul Surfers - It Never Ends
