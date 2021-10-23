@@ -48,7 +48,7 @@ Sarah: **"**Never have I had such a difficult time selecting a guest track! Each
 ## Janko Nilovic and the Soul Surfers - Say it Softly
 Sarah: **"**This song feels like swimming through a dream, or maybe a mid afternoon drive through the warm countryside with the windows down. Perhaps they are the same thing.**"**
 
-## Aura Safari - Niagara
+## Janko Nilovic and the Soul Surfers - Say it Softly
 Sarah: **"**Realeased earlier this year, this track from the Italian Jazz Fusion quintet [Aura Safari](https://aurasafari.bandcamp.com/) is an emotional masterpiece. Trippy energy gives way to softness but the invitation to travel remains.**"**
 
 ## [Florence Adooni](https://florenceadooni.bandcamp.com/) - Mam Pe'ela Su'ure
