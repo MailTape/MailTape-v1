@@ -42,7 +42,7 @@ Janko: **"**Such a sweet, silky, smooth and even sexy jam from this funk band th
 Sarah: **"**Never have I had such a difficult time selecting a guest track! Each album of Janko's is a wonder in its own right, standing out from the previous release. Surprising at each turn, Janko's arrangements ar a delight to follow. This particular track from the -- album, --, **"**
 
 ## Janko Nilovic and the Soul Surfers - Say it Softly
-Sarah: **"**This song feels like wading thhrough a dream, or perhaps it feels like a mid afternoon drive through the warm countryside with the windows down. Maybe they are the same thing.**"**
+Sarah: **"**This song feels like wading through a dream, or perhaps it feels like a mid afternoon drive through the warm countryside with the windows down. Maybe they are the same thing.**"**
 
 ## Aura Safari - Niagara
 Sarah: **"**Realeased earlier this year, this track from the Italian Jazz Fusion quintet [Aura Safari](https://aurasafari.bandcamp.com/) is an emotional masterpiece. Trippy energy gives way to softness but the invitation to travel remains.**"**
