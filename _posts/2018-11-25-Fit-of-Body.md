@@ -11,9 +11,9 @@ guest_color: bliss
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/333/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/333/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/333/track7.mp3'
 track1_title: C. Memi + Neo Matisse - Dream's Dream
 track1_color: rough

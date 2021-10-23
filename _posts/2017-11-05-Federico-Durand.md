@@ -5,13 +5,13 @@ published: true
 author: ImaCrea
 category: '285'
 guest_name: Federico Durand
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/285/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/285/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/285/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/285/track5.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track5.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/285/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/285/track7.mp3'
 guestPic: guestPic285b.jpg
 track1_color: bliss
 track2_color: dreamy

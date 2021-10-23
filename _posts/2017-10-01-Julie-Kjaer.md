@@ -8,25 +8,25 @@ writer: Sanjay Mistry
 category: '280'
 guest_name: Julie Kjær
 guest_color: trippy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track1.mp3'
 track1_title: 'Corey Mwamba – Futurism #2'
 track1_color: dreamy
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track2.mp3'
 track2_title: Goat – New Games
 track2_color: trippy
 track3_title: Trio Brasileiro & Anat Cohen - Anat's Lament
 track3_color: dreamy
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track4.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track4.mp3'
 track4_title: Julie Kjær – 3/1
 track4_color: bliss
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track5.mp3'
 track5_title: Trish Clowes – Chorale
 track5_color: dreamy
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track6.mp3'
 track6_title: Hear in Now – Last Night's Vacation
 track6_color: bliss
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/280/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/280/track7.mp3'
 track7_title: Matana Roberts & Stefan Christoff – Duet for Abdelrazik
 track7_color: dreamy
 episode_URL: 'http://mailta.pe/280/julie-kjaer/'

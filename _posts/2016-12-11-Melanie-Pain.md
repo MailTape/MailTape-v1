@@ -9,9 +9,9 @@ category: '238'
 guest_name: Mélanie Pain
 guest_color: bliss
 guestPic: guestPic238.jpg
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track1.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track1.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track4.mp3'
 track1_title: Iron & wine - A Boy With A Coin
 track1_color: vibrant
 track2_color: bliss
@@ -25,11 +25,11 @@ episode_URL: 'https://mailta.pe/238/Melanie-Pain/'
 image: https://mailta.pe/img/FBPic238.jpg
 musiColor: musiColor238.png
 track4_title: Mélanie Pain - Lèvres Rubis
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track2.mp3'
 track2_title: Tortoise & Bonnie 'Prince' Billy - Thunder Road
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track5.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track7.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/238/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/238/track6.mp3'
 track5_title: Gordi - 00000 Million
 track6_title: Christian Löffler - Nil
 track7_title: Tom Misch & FKJ - Losing My Way

@@ -12,8 +12,8 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/244/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/244/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/244/track7.mp3'
 track1_title: A Tribe Called Quest - Whateva Will Be
 track1_color: trippy

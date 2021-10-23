@@ -7,11 +7,11 @@ illustrator: Isabelle Escande
 writer: Inès
 guest_name: Hector Gachan
 guest_color: dreamy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track5.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track5.mp3'
 track1_title: Yuko Yuko - Two Boys
 track1_color: vibrant
 track2_title: Jermango Dreaming - I Want You
@@ -22,7 +22,7 @@ track4_title: Hector Gachan - Untitled '91
 track4_color: dreamy
 track5_title: Superorganism - Something for Your M.I.N.D.
 track5_color: vibrant
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/289/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track7.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/289/track6.mp3'
 track6_title: Sean Nicholas Savage - Opposing Truths
 track6_color: bliss

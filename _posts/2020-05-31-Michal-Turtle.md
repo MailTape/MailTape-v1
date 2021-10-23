@@ -8,7 +8,7 @@ writer: Sanjay Mistry
 category: '408'
 guest_name: Michal Turtle
 guest_color: dreamy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/408/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track1.mp3'
 track1_title: Gaussian Curve – Impossible Island
 track1_color: dreamy
 track2_title: Jon Hassell – Dream Theory
@@ -28,9 +28,9 @@ guestPic: guestPic408.jpg
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/408/track5.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/408/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/408/track7.mp3'
 description: >-
   This morning we welcome Michal Turtle to select some Sunday morning tunes with
   us—a musician and producer who spent the heart of the 1980s making subtle,

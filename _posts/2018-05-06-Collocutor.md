@@ -8,11 +8,11 @@ writer: Sanjay Mistry
 category: '311'
 guest_name: Tamar Osborn
 guest_color: dreamy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/311/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/311/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/311/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track4.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/311/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track6.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/311/track5.mp3'
 track1_title: 'Khyam Allami – Tawazon I: Balance خيّام اللامي - توازن'
 track1_color: bliss

@@ -12,9 +12,9 @@ track3_color: trippy
 track3_title: Laurel Halo - Koinos
 track1_color: trippy
 track1_title: Tachycardie -  D'humeur à savoir
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/432/track5.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/432/track4.mp3'
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/432/track1.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track5.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track1.mp3'
 guestPic: guestPic432.jpg
 guest_name: Danse Musique Rhône-Alpes
 category: '432'
@@ -22,8 +22,8 @@ writer: Anaïs G
 author: Anaïs G
 published: true
 guest_color: trippy
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/432/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/432/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/432/track7.mp3'
 track2_title: 'Raime - Some Things Can Happen, Just Like This'
 track2_color: dreamy
 track6_title: Maud Geffray - In the wild

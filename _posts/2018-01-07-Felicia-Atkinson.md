@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '294'
 guest_name: Félicia Atkinson
 guest_color: trippy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/294/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/294/track7.mp3'
 track1_title: Tomoko Sauvage – Musique Hydromantique
 track1_color: bliss
 track2_title: 'Luc Ferrari – Presque rien no.1, le lever du jour au bord de la mer'

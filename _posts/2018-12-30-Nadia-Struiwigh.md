@@ -8,13 +8,13 @@ writer: Sanjay Mistry
 category: '338'
 guest_name: Nadia Struiwigh
 guest_color: dreamy
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/338/track7.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/338/track7.mp3'
 track1_title: West Dylan Thordson – Meeting the Others
 track1_color: dreamy
 track2_title: Helios – It Was Warmer Then

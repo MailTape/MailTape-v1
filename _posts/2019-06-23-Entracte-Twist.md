@@ -7,22 +7,22 @@ illustrator: Camille Célestin
 writer: Anaïs G
 category: '363'
 guest_name: Entracte Twist
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/363/track2.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/track2.mp3'
 track2_title: 'The Homesick - Half Aryan '
 track2_color: rough
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/363/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/track3.mp3'
 track3_title: Requin Chagrin - Les Plus Mauvaises Nuits
 track3_color: dreamy
 track1_title: Cocteau Twins - Sugar Hiccup
 track4_title: 'Entracte Twist - Hors Service '
 track4_color: rough
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/363/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/track4.mp3'
 episode_URL: 'http://mailta.pe/363/Entracte-Twist/'
 track5_title: Cate Le Bon - Solitude
 track5_color: vibrant
 track6_title: 'Structures - Satellite '
 track6_color: rough
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/363/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/363/track6.mp3'
 track7_title: The Fat White Family - Tastes Good With The Money
 track7_color: trippy
 guestPic: guestPic363.jpg

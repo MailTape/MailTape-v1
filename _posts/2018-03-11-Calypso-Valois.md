@@ -5,7 +5,7 @@ published: true
 category: '303'
 guest_name: Calypso Valois
 guest_color: vibrant
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/303/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/303/track4.mp3'

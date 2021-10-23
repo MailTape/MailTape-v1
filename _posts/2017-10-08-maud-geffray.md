@@ -11,24 +11,24 @@ guestPic: guestPic281.jpg
 episode_URL: 'http://mailta.pe/281/maud-geffray/'
 image: https://mailta.pe/img/fbPic281.png
 musiColor: musiColor281.png
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track1.mp3'
 track1_title: Alessandro Cortini — Scappa
 track1_color: bliss
 track2_title: Lana Del Rey — Love
 track2_color: dreamy
 track3_title: Paul Seul — Lycamobile
 track3_color: trippy
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track5.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track7.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track7.mp3'
 track7_title: Hiroshi Yoshimura (吉村弘) — Dance PM
 track7_color: dreamy
 track4_title: Maud Geffray — Polaar
 track4_color: vibrant
 track5_title: Helena Hauff — Gift
 track5_color: bliss
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/281/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track6.mp3'
 track6_title: Gang Signs — Prequel
 track6_color: bliss
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/281/track2.mp3'

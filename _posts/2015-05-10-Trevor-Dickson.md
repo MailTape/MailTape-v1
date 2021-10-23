@@ -14,12 +14,12 @@ track6_color: dreamy
 track7_color: vibrant
 category: "185"
 guest_name: Trevor Dickson
-track1_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track1.mp3"
-track3_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track3.mp3"
-track4_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track4.mp3"
-track5_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track5.mp3"
-track6_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track6.mp3"
-track7_link: "https://mtsounds.eu-central-1.wasabisys.com/185/track7.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track1.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track3.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track4.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track6.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track7.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/185/track2.mp3"
 track1_title: "Pete Drake and his Talking Steel Guitar - Forever"
 track2_title: "Gloomy Sunday - Billie Holiday"

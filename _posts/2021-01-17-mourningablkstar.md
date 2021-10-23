@@ -8,7 +8,7 @@ writer: ImaCrea
 category: '434'
 guest_name: 'Mourning [A] BLKstar'
 guest_color: vibrant
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/434/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track4.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track3.mp3'
@@ -27,7 +27,7 @@ track6_title: 'SAULT - Bow feat Michael Kiwanuka '
 track6_color: vibrant
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track6.mp3'
 track7_title: 'Chanel Tres  - unfinished business '
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/434/track7.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/434/track7.mp3'
 track7_color: dreamy
 guestPic: guestPic434.jpg
 episode_URL: 'https://mailta.pe/434/mourningablkstar/'

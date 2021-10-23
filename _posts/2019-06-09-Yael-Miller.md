@@ -2,8 +2,8 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/361/track4.mp3'
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/361/track1.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track4.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track1.mp3'
 guestPic: guestPic361.jpg
 category: '361'
 illustrator: Camille Célestin
@@ -11,9 +11,9 @@ author: Anaïs G
 writer: Anaïs G
 guest_name: Yael Miller
 guest_color: vibrant
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/361/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/361/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/361/track7.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/361/track7.mp3'
 track1_title: ' Nick Cave And The Bad Seeds - Red Right Hand '
 track2_color: trippy
 track3_color: rough

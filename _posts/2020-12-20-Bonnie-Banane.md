@@ -13,9 +13,9 @@ track5_color: vibrant
 track5_title: 'Myth Syzer - Je suis venu te dire que je m''en vais '
 track4_color: dreamy
 track4_title: Bonnie Banane - Flash
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/430/track7.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/430/track6.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/430/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/430/track5.mp3'
 guestPic: guestPic430.jpg
 guest_color: trippy
 guest_name: Bonnie Banane

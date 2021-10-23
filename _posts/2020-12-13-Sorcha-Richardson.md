@@ -8,7 +8,7 @@ category: '429'
 guest_name: Sorcha Richardson
 guest_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track1.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/429/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/429/track2.mp3'
 track3_color: dreamy
 track2_color: bliss

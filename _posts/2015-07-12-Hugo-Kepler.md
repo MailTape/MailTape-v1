@@ -12,13 +12,13 @@ track5_color: bliss
 track6_color: vibrant
 track7_color: rough
 track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track1.mp3"
-track2_link: "https://mtsounds.eu-central-1.wasabisys.com/194/track2.mp3"
+track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track2.mp3"
 track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/Mon+Nom.mp3"
-track5_link: "https://mtsounds.eu-central-1.wasabisys.com/194/track5.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track5.mp3"
 track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track6.mp3"
-track7_link: "https://mtsounds.eu-central-1.wasabisys.com/194/track7.mp3"
+track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track7.mp3"
 track1_title: "John Grant - You don't have to"
-track4_link: "https://mtsounds.eu-central-1.wasabisys.com/194/track4.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/194/track4.mp3"
 category: "194"
 guest_name: Hugo Kepler
 guestPic: guestPic194.jpg

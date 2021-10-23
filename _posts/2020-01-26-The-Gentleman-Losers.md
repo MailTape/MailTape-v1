@@ -9,12 +9,12 @@ category: '390'
 guest_name: The Gentleman Losers
 guest_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track1.mp3'
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/390/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/390/track3.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/390/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/390/track6.mp3'
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/390/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/390/track7.mp3'
 track1_title: Amanda Bergman – Questions
 track1_color: dreamy
 track2_title: Discovery Zone – Fall Apart

@@ -6,9 +6,9 @@ author: ImaCrea
 illustrator: Pierre-Julien Fieux
 category: '257'
 guest_name: Nathan Fake
-track1_link: 'https://mtsounds.eu-central-1.wasabisys.com/257/track1.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/257/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/257/track2.mp3'
-track3_link: 'https://mtsounds.eu-central-1.wasabisys.com/257/track3.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/257/track3.mp3'
 track1_title: Home - Resonance
 track2_title: Kaitlyn Aurelia Smith - When I Try I'm Full
 track3_title: Aphex Twin - xtal

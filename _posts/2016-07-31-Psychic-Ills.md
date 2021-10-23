@@ -14,8 +14,8 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track3.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track7.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track4.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/227/track5.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/227/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/227/track6.mp3'
 track1_title: Kris Kristofferson - Sunday Morning Coming Down
 track2_title: Traveling Wilburys - Handle With Care
 track3_title: Bill Withers - Lovely Day

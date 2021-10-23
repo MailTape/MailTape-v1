@@ -16,9 +16,9 @@ track2_title: 'Arthur - Woof Woof '
 track2_color: trippy
 track1_color: dreamy
 track1_title: Family Time - Magic Abyss Hotel
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/372/track4.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/track4.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/Track7.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/372/track6.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/track6.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/Track%201.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/Track%202.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/372/Track%205.mp3'

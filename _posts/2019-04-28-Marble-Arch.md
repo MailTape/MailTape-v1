@@ -2,8 +2,8 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-track2_link: 'https://mtsounds.eu-central-1.wasabisys.com/355/track2.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/355/track4.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/355/track2.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/355/track4.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/355/Track1.mp3'
 track1_color: bliss
 track1_title: Deerhunter - Helicopter

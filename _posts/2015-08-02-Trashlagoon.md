@@ -17,13 +17,13 @@ guestPic: guestPic197.jpg
 image: https://mailta.pe/img/fbPic197.jpg
 musiColor: musiColor197.png
 episode_URL: "http://mailta.pe/197/Trashlagoon/"
-track1_link: "https://mtsounds.eu-central-1.wasabisys.com/197/track1.mp3"
+track1_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track1.mp3"
 track2_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track2.m4a"
-track3_link: "https://mtsounds.eu-central-1.wasabisys.com/197/track3.mp3"
-track5_link: "https://mtsounds.eu-central-1.wasabisys.com/197/track5.mp3"
-track6_link: "https://mtsounds.eu-central-1.wasabisys.com/197/track6.mp3"
+track3_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track3.mp3"
+track5_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track5.mp3"
+track6_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track6.mp3"
 track7_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track7.mp3"
-track4_link: "https://mtsounds.eu-central-1.wasabisys.com/197/track4.mp3"
+track4_link: "https://mtsounds.s3.eu-central-1.wasabisys.com/197/track4.mp3"
 track1_title: "Floating Points - Myrtle Avenue"
 track2_title: "Shigeto - Ann Arbor Part 3 & 4"
 track3_title: "Gold Panda - Reprise"

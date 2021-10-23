@@ -6,10 +6,10 @@ author: Anaïs G
 illustrator: Anthony Dujardin
 writer: Anaïs G
 guest_name: Miel de Montagne
-track7_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track7.mp3'
-track6_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track6.mp3'
-track5_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track5.mp3'
-track4_link: 'https://mtsounds.eu-central-1.wasabisys.com/352/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/track6.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/track5.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/352/track4.mp3'
 track4_title: Miel de Montagne - Ces Rêves
 track4_color: dreamy
 track5_title: Serge Gainsbourg - Melody Nelson ( Molécule Remix)
