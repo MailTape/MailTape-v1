@@ -43,7 +43,7 @@ description: >-
   (including Jay-Z and Dr Dre). 
 musiColor: musiColor467.png
 ---
-<p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
+<p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
   Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). 
   <br><br>
