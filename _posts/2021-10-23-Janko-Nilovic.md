@@ -67,7 +67,7 @@ Sarah: **"**Off of the wonderful live to tape 2021 album, Maze of Sounds. A true
 ## Mabe Fratti - En Medio
 Sarah: **"**We are still caught on Mabe Fratti's music, perhaps even more after her MailTape appearance in September :) This track brings waves of peace with each listen. Mabe's subtle meld of synths alongside steady sections of cello create the perfect space for delicate yet powerful vocals to harmonize and weave across each other. The burgeoning bass of the combined cello and synths offer something healing, near consuming to the listener. As with the entire Será Que Ahora Podremos Entendernos album, one falls into the world this track creates.**"**
 
-## [Florence Adooni](https://florenceadooni.bandcamp.com/) Eddie Warner Roger Roger- Beyond the Clouds
-Sarah: **"**An experimental track to close this morning's playlist :) Holding our hand into the cosmos, the synths here build onto each other in delightful tangles. The song ends just as easiily as it began, almost like a daydream :)**"**
+## [Nino Nardini](https://florenceadooni.bandcamp.com/) Eddie Warner Roger Roger- Beyond the Clouds
+Sarah: **"**An experimental track to close this morning's playlist :) Holding our hand into the cosmos, the synths here build onto each other in delightful tangles, a wonderful compliment to a bassline that could make your head spin. The song ends just as easiily as it began, almost like a daydream :)**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to [Janko Nilović](https://arpfrique.bandcamp.com/) for his eccentric and surprising Sunday selections, and many thanks to our very talented [Jason Pridham](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
