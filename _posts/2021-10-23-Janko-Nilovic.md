@@ -44,19 +44,19 @@ Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, 
 
 # Janko Nilović's selection
 
-## Steely Dan - Do It Again
+## [Steely Dan](https://www.steelydan.com/#!/) - Do It Again
 Janko: **"**Au début des années 70, j'ai découvert un groupe qui s'appelle Steely Dan. Les titres sont d'avant-garde, les compositions de Donald Fagen sont exceptionnelles, les musiciens au top, et du coup j'ai acheté 4 albums à eux les uns meilleurs que les autres. J'ai apprécié particulièrement le titre Do It Again de Can't Buy a Thrill. Perfection rythmique, voix magnifiques, arrangements extra et guitare super. Quand je pense que cela a été réalisé il y a 50 ans!
 
 At the beginning of the 70's, I discovered the group Steely Dan. Their releases are avant garde, Donald Fagen's compositions are exceptional, the musicians are fantastic, and because of this I bought four of their albums, some better than others. I appreciated the song Do It Again from Can't Buy a Thrill in partiicular. Perfect rhythm, magnificent vocals, super arrangement and guitar. To think that this was produced 50 years ago! 
 **"**
 
-## Moondog - Bird's Lament
+## [Moondog](https://www.macleans.ca/culture/the-weird-and-true-story-of-moondog/) - Bird's Lament
 Janko: **"**Un artiste complet. Aveugle et jouant de plusieurs instruments. Compositeur et arrangeur original et excentrique. Les musiciens faisaient face à une musique difficile et en souffraient! Comme titre, j'ai choisi Bird's Lament de Lament 1. D'une originalité orchestrale extravagante! Comment composer, jouer, arranger et même chanter en étant aveugle! ...Cela m'a stupéfait. Il me fait penser à Nobuyuki Tsujii: pianiste également aveugle qui jouent les concertos les plus difficiles : Tchaikovsy, Rachmaninoff...et j'en passe! C'était aussi un poète.
 
 A true artist. Blind and playing multple instruments. An eccentric and original composer and arranger. The musicians were doing this in face of diffiicult music and they succeeded! For the song, I chose Bird's Lament from the Lament 1 album. What an original and extravagant orchestral feat! To compose, play, arrange, and even sing while being blind! ... It amazes me. It made me think of Nobuyuki Tsujii: a pianist who was also blind, and yet played some of the most difficult concertos: Tchaikovsy, Rachmaninoff, and more! He was also a poet. 
 **"**
 
-## Frank Zappa - Joe's Garage
+## [Frank Zappa](https://www.zappa.com/) - Joe's Garage
 Janko: **"**Artiste complet, d'avant-garde, toujours à la recherche du nouveau, de l'invention... J'ai choisi le titre Joe's Garage. Si je cite ces trois différents personnages (c'était mon époque), c'est que je suis moi-même éclectique car il n'y a pas de limites ni de frontières dans le monde musical.
 
 A true artist in the world of avant garde, always in search of the new, of the invention... I chose the song Joe's Garage. If I cite these three different people (it was my era), it's that I myself am eclectic because there are not limits nor frontiers in the  world of music.**"**
