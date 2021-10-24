@@ -6,7 +6,7 @@ author: Sarah
 illustrator: Jason Pridham
 writer: Sarah
 category: '467'
-guest_name: Janko Nilović
+guest_name: Janko Nilovic
 guest_color: vibrant
 track1_color: vibrant
 track2_color: bliss
@@ -31,7 +31,7 @@ track4_title: Janko Nilović - Black on a White Ground
 track5_title: Janko Nilović and the Soul Surfers - It Never Ends
 track7_title: 'Nino Nardini, Roger Roger, Eddie Warner - Beyond the Clouds'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track7.mp3'
-episode_URL: 'http://mailta.pe/467/Janko-Nilović/'
+episode_URL: 'http://mailta.pe/467/Janko-Nilovic/'
 description: '  This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). '
 musiColor: musiColor467.png
 ---
