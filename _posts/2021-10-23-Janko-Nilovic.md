@@ -67,7 +67,7 @@ A true artist. Blind and playing multiple instruments. An eccentric and original
 ## [Frank Zappa](https://www.zappa.com/) - Joe's Garage
 Janko: **"**Artiste complet, d'avant-garde, toujours à la recherche du nouveau, de l'invention... J'ai choisi le titre Joe's Garage. Si je cite ces trois différents personnages (c'était mon époque), c'est que je suis moi-même éclectique car il n'y a pas de limites ni de frontières dans le monde musical.
 
-A true artist in the world of avant garde, always in search of the new, of the invention... I chose the song Joe's Garage. If I cite these three different people (it was my era), it's that I myself am eclectic because there are not limits nor frontiers in the  world of music.**"**
+A true artist in the world of avant garde, always in search of the new, of the invention... I chose the song Joe's Garage. If I cite these three different people (it was my era), it's that I myself am eclectic because there are no limits nor frontiers in the  world of music.**"**
 
 
 # MailTape's selection
