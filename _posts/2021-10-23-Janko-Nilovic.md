@@ -42,8 +42,6 @@ musiColor: musiColor467.png
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
 </p>
 
-![musiColor467.png]({{site.baseurl}}/img/musiColor467.png)
-
 # Janko Nilović's selection
 
 ## Steely Dan - Do It Again
