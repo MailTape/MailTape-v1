@@ -20,7 +20,7 @@ guestPic: guestPic467.jpg
 track1_title: Steely Dan - Do It Again
 track2_title: Moondog - Bird's Lament
 track3_title: Frank Zappa - Joe's Garage
-track6_title: Janko Nilović and the Soul Surfers - It Never Ends
+track6_title: Mabe Fratti - En Medio
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track3.mp3'
