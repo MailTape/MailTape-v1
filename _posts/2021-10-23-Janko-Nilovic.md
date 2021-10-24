@@ -23,6 +23,10 @@ track3_title: Frank Zappa - Joe's Garage
 track6_title: Janko Nilović and the Soul Surfers - Say it Softly
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track6.mp3'
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and R&B artists (including Jay-Z and Dr Dre). 
   <br><br>
@@ -61,6 +65,6 @@ Sarah: **"**Off of the wonderful live to tape 2021 album, Maze of Sounds. A true
 Sarah: **"**We are still caught on Mabe Fratti's music, perhaps even more after her MailTape appearance in September :) This track brings waves of peace with each listen. Mabe's subtle meld of synths alongside steady sections of cello create the perfect space for delicate yet powerful vocals to harmonize and weave across each other. The burgeoning bass of the combined cello and synths offer something healing, near consuming to the listener. As with the entire Será Que Ahora Podremos Entendernos album, one falls into the world this track creates.**"**
 
 ## [Florence Adooni](https://florenceadooni.bandcamp.com/) - Mam Pe'ela Su'ure
-Sarah: **"**A final vibrant track to close this wonderful morning's playlist :) **"**
+Sarah: **"**A final vibrant track to close this wonderful morning's playlist :) Holding our hand into the cosmos, this hint **"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to [Janko Nilović](https://arpfrique.bandcamp.com/) for his eccentric and surprising Sunday selections, and many thanks to our very talented [Jason Pridham](https://vimeo.com/noemiedijon) for this episode's brilliant illustration !</p>
