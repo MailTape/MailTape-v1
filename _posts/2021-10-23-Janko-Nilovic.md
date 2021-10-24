@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sarah
 illustrator: Jason Pridham
 writer: Sarah
@@ -33,6 +33,7 @@ track7_title: 'Nino Nardini, Roger Roger, Eddie Warner - Beyond the Clouds'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/467/track7.mp3'
 episode_URL: 'http://mailta.pe/467/Janko-Nilović/'
 description: '  This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist Janko Nilović to MailTape this Sunday. Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). '
+musiColor: musiColor467.png
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidescope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
@@ -40,6 +41,8 @@ description: '  This morning, we are wading through worlds of color, shrouded on
   <br><br>
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
 </p>
+
+![musiColor467.png]({{site.baseurl}}/img/musiColor467.png)
 
 # Janko Nilović's selection
 
