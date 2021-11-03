@@ -2,6 +2,14 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Camille Célestin
+writer: Anaïs G
+category: '470'
+guest_name: Rémi Parson
+guestPic: guestPic470.jpg
+track1_color: vibrant
+track2_color: trippy
 ---
 <p id="introduction"> This morning,
   <br><br>
