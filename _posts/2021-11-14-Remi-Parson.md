@@ -21,11 +21,11 @@ track2_color: trippy
 ##  - 
 Rémi Parson: **"**A pop kid at heart, my passion for ambient and instrumental music grew bigger and bigger over the last few years. Partly because of my work as a writer, as anything with lyrics will either be blocked from my brain or distract me too much, but also because I am a big fan of long, dismal, choral pieces such as this one. Extremely inspiring, whether it’s for the description of a sofa or my next song.**"**
 
-##  - 
-Rémi Parson: **"** **"**
+##  K. Leimer - All Sad Days
+Rémi Parson: **"**A haunting and fragile melody, and this DIY spirit and idea of solitude that are so important to me. On my recent records, songs and sound have been somewhat more tidy, but playing live again will allow me to plug in my old machines and demonstrate my unique sense of rhythm and restraint with distortion, haha.**"**
 
-##  - 
-Rémi Parson: **"** **"**
+## Lilian Becker - Cadendo
+Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you want to call it – would be one of my favourite kinds of music. To me it sounds so sincere and interesting. I love this idea of crafting ambitious pop songs with such weird and dark ingredients.**"**
 
 
 # MailTape's selection
