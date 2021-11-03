@@ -10,6 +10,7 @@ guest_name: Rémi Parson
 guestPic: guestPic470.jpg
 track1_color: vibrant
 track2_color: trippy
+track3_color: bliss
 ---
 <p id="introduction"> This morning,
   <br><br>
