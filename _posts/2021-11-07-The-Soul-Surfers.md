@@ -18,6 +18,7 @@ track4_color: vibrant
 track5_color: trippy
 track6_color: bliss
 track7_color: trippy
+musiColor: musiColor469.png
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
@@ -25,6 +26,7 @@ track7_color: trippy
   <br><br>
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
 </p>
+![musiColor469.png]({{site.baseurl}}/img/musiColor469.png)
 
 # The Soul Surfers' selection
 
