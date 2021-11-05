@@ -11,6 +11,13 @@ guest_color: bliss
 track1_title: François de Roubaix - Poursuite Sur Les Dunes d'Ostende
 track2_title: Stringtronics - Dawn Mists
 track3_title: Whitefield Brothers - Joyful Exaltation
+track1_color: trippy
+track2_color: dreamy
+track3_color: trippy
+track4_color: vibrant
+track5_color: trippy
+track6_color: bliss
+track7_color: trippy
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
