@@ -26,7 +26,6 @@ musiColor: musiColor469.png
   <br><br>
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
 </p>
-![musiColor469.png]({{site.baseurl}}/img/musiColor469.png)
 
 # The Soul Surfers' selection
 
