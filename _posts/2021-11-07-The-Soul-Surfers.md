@@ -29,6 +29,8 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track5.mp3'
 track5_title: 'The Soul Surfers, Shawn Lee - Time Is A Gun'
+track7_title: Africa Express - Morals
+track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
@@ -60,7 +62,7 @@ Sarah: **"**Off of the wonderful live to tape 2021 album, [Maze of Sounds](https
 ## [The Natural Yogurt Band](https://mabefratti1.bandcamp.com/) - 57 Lashes of the Mallet
 Sarah: **"**We are still caught on Mabe Fratti's music, perhaps even more after [her MailTape appearance](https://www.mailta.pe/462/mabe-fratti/) in September :) This track brings waves of peace with each listen. Mabe's subtle meld of synths alongside steady sections of cello create the perfect space for delicate yet powerful vocals to harmonize and weave across each other. The burgeoning bass of the combined cello and synths offer something healing, near consuming to the listener. As with the entire [Será Que Ahora Podremos Entendernos](https://tinangelrecords.bandcamp.com/album/ser-que-ahora-podremos-entendernos) album, one falls into the world this track creates.**"**
 
-## [Nino Nardini](https://www.discogs.com/artist/35303-Nino-Nardini) [Eddie Warner](https://www.discogs.com/artist/61114-Eddie-Warner) [Roger Roger](https://www.discogs.com/artist/44313-Roger-Roger) - Beyond the Clouds
+## [Africa Express](https://www.discogs.com/artist/35303-Nino-Nardini) feat [Moonchild Sanelly](https://www.discogs.com/artist/61114-Eddie-Warner), [Mahotella Queens](https://www.discogs.com/artist/44313-Roger-Roger), Muzi, Mr Jukes - Morals
 Sarah: **"**An experimental track to close this morning's playlist :) Holding our hand into the cosmos, the synths here build onto each other in delightful tangles, a wonderful compliment to a bassline that could make your head spin. The song ends just as easily as it began, almost like a daydream :)**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to [Janko Nilović](https://brocrecordz.bandcamp.com/album/maze-of-sounds) for his eccentric and surprising Sunday selections, and many thanks to our very talented [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration !</p>
