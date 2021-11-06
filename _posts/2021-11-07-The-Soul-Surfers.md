@@ -48,7 +48,6 @@ The Soul Surfers: **"**Taken from the legendary album [Mindbender](https://light
 ## [Whitefield Brothers](https://www.zappa.com/) feat Bajka - Joyful Exaltation
 The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield Brothers, Poets of Rhythm, Karl Hector). He's an amazing musician and crate digger, back in the 1990's he was one of the pionneers in the revival of funk.**"**
 
-
 # MailTape's selection
 
 ## [Janko Nilovic and The Soul Surfers](https://brocrecordz.bandcamp.com/album/maze-of-sounds) - Maze of Sounds Alternate Take
@@ -63,4 +62,4 @@ Sarah: **"**One of two songs on the september 2021 release, 57 Lashes of the Mal
 ## [Africa Express](https://africaexpress.bandcamp.com/album/egoli) feat [Moonchild Sanelly](https://www.dazeddigital.com/projects/article/52989/1/moonchild-sanelly-musician-biography-dazed-100-2021-profile), [Mahotella Queens](https://www.discogs.com/artist/56676-Mahotella-Queens), [Muzi](https://www.thefader.com/2021/10/01/muzi-new-album-interblaktic-stream), [Mr Jukes](https://www.facebook.com/muziou) - Morals
 Sarah: **"**Africa Express is renown for making diverse collaborations like this possible. This track arrives off of the 2019 album, Egoli.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to [Janko Nilović](https://brocrecordz.bandcamp.com/album/maze-of-sounds) for his eccentric and surprising Sunday selections, and many thanks to our very talented [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration !</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Great thanks to [The Soul Surfers](https://brocrecordz.bandcamp.com/album/maze-of-sounds) for this exploratory Sunday selection, and much love to [Julie Wo](https://www.instagram.com/julie_wo/?hl=en) for this episode's vibrant illustration !</p>
