@@ -23,6 +23,10 @@ guestPic: guestPic469.jpg
 image: 'https://mailta.pe/img/fbPic469.png'
 episode_URL: 'http://mailta.pe/469/The-Soul-Surfers/'
 track4_title: Janko Nilovic and The Soul Surfers - Maze of Sounds Alternate Take
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track4.mp3'
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
