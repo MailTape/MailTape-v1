@@ -31,6 +31,8 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track5.mp3'
 track5_title: 'The Soul Surfers, Shawn Lee - Time Is A Gun'
 track7_title: Africa Express - Morals
 track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
 ---
 <p id="introduction"> This morning, we are wading through worlds of color, shrouded on all sides by an entire kaleidoscope of sound. To craft this experience, we are beyond thrilled to welcome composer and multi-instrumentalist [Janko Nilović](https://www.jankonilovic.com/) to MailTape this Sunday. 
     <br><br>
