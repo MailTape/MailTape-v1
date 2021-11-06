@@ -54,7 +54,7 @@ The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield B
 Sarah: **"**loved the entire Maze of Sounds album, and this unreleaseed track of the album's namesake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
 
 ## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), [Shawn Lee](https://www.shawnlee.net/) - Time is a Gun
-Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) Again, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation that sways between streams of organ chords.**"**
+Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) Just as in the last track, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation that sways between streams of organ chords.**"**
 
 ## [The Natural Yogurt Band](https://thenaturalyogurtband.bandcamp.com/) - 57 Lashes of the Mallet
 Sarah: **"**One of two songs on the september 2021 release, 57 Lashes of the Mallet. Was pleasantly surprised with the flute overtakings, complemented so well by the treading basslines. The introduction of the cello toward the end!! The Natural Yogurt Band, headed by bassist Wayne Fullwood and multi-instrumentalist Miles Newbold, takes great influence from the 1970's library music movement, adding accents of electronic and classical music.**"**
