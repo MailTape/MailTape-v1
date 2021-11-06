@@ -38,13 +38,13 @@ Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, 
 # The Soul Surfers' selection
 
 ## [François de Roubaix](https://www.discogs.com/artist/119363-Fran%C3%A7ois-De-Roubaix) - Poursuite Sur Les Dunes d'Ostende
-The Soul Surfers: **"**one of my favorite french composer, with his own univers and such an explorer of new sounds (one of the first to used synthesizer in soundtracks in France). he died too young, but made some crazy album mostly for movies and documentary.**"**
+The Soul Surfers: **"**One of my favorite french composer, with his own univers and such an explorer of new sounds (one of the first to used synthesizer in soundtracks in France). He died too young, but made some crazy album mostly for movies and documentary.**"**
 
 ## [Stringtronics](https://www.macleans.ca/culture/the-weird-and-true-story-of-moondog/) - Dawn Mists
 The Soul Surfers: **"**Taken from the legendary album [Mindbender](https://lightintheattic.net/releases/517-mindbender), this is one of the finest library music record ever made and one of the hardest to find in original pressing!**"**
 
 ## [Whitefield Brothers](https://www.zappa.com/) feat Bajka - Joyful Exaltation
-The Soul Surfers: **"**I had the chance to work with JJ whitefield (whitefield brothers, poets of rhythm, Karl Hector) he's an amazing musician and crate digger, back in the 1990's he was one of the pionneer in the revival of the funk.**"**
+The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield Brothers, Poets of Rhythm, Karl Hector). He's an amazing musician and crate digger, back in the 1990's he was one of the pionneers in the revival of funk.**"**
 
 
 # MailTape's selection
