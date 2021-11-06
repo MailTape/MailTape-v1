@@ -34,13 +34,13 @@ track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
 ---
-<p id="introduction"> This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers crafts many interesting collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). 
+<p id="introduction"> This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own music, exploring synth and funk fusions.
   </p>
 
 # The Soul Surfers' selection
 
 ## [François de Roubaix](https://www.discogs.com/artist/119363-Fran%C3%A7ois-De-Roubaix) - Poursuite Sur Les Dunes d'Ostende
-The Soul Surfers: **"**One of my favorite french composer, with his own univers and such an explorer of new sounds (one of the first to used synthesizer in soundtracks in France). He died too young, but made some crazy album mostly for movies and documentary.**"**
+The Soul Surfers: **"**One of my favorite french composers, with his own universe and such an explorer of new sounds (one of the first to use synthesizer in soundtracks in France). He died too young, but made some crazy album mostly for movies and documentary.**"**
 
 ## [Stringtronics](https://www.macleans.ca/culture/the-weird-and-true-story-of-moondog/) - Dawn Mists
 The Soul Surfers: **"**Taken from the legendary album [Mindbender](https://lightintheattic.net/releases/517-mindbender), this is one of the finest library music record ever made and one of the hardest to find in original pressing!**"**
@@ -54,7 +54,7 @@ The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield B
 Sarah: **"**loved the entire Maze of Sounds album, and this unreleaseed track of the album's namesake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
 
 ## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), [Shawn Lee](https://www.shawnlee.net/) - Time is a Gun
-Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) Just as in the last track, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation, swaying carefully between the organ section :)**"**
+Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) Just as in the last track, the organ carries this song to new heights. The 1970's influence in this is unmistakeable,  Listen for the percussive break toward the end, one that takes us right into guitar improvisation, swaying carefully between the organ section :)**"**
 
 ## [The Natural Yogurt Band](https://thenaturalyogurtband.bandcamp.com/) - 57 Lashes of the Mallet
 Sarah: **"**One of two songs on the september 2021 release, 57 Lashes of the Mallet. Was pleasantly surprised with the flute overtakings, complemented so well by the treading basslines. The cello toward the end was such a pleasant addition. The Natural Yogurt Band, headed by bassist Wayne Fullwood and multi-instrumentalist Miles Newbold, takes great influence from the 1970's library music movement, adding accents of electronic and classical music.**"**
