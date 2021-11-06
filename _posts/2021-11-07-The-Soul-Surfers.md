@@ -58,7 +58,7 @@ The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield B
 ## [Janko Nilovic and The Soul Surfers](https://brocrecordz.bandcamp.com/album/maze-of-sounds) - Maze of Sounds Alternate Take
 Sarah: **"**loved the entire Maze of Sounds album, and this alternate take of the album's name sake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
 
-## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), Shawn Lee - Time is a Gun
+## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), [Shawn Lee](https://www.shawnlee.net/) - Time is a Gun
 Sarah: **"**Great collaboration with Shawn Lee, released in 2015. again, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation that sways between streams of organ chords.**"**
 
 ## [The Natural Yogurt Band](https://thenaturalyogurtband.bandcamp.com/) - 57 Lashes of the Mallet
