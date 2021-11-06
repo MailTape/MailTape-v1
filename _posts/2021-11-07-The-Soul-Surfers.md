@@ -31,10 +31,6 @@ track4_title: The Soul Surfers
 Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
 </p>
 
-![guestPic469.jpg]({{site.baseurl}}/img/guestPic469.jpg)
-![fbPic469.jpg]({{site.baseurl}}/img/fbPic469.jpg)
-
-
 # The Soul Surfers' selection
 
 ## [François de Roubaix](https://www.discogs.com/artist/119363-Fran%C3%A7ois-De-Roubaix) - Poursuite Sur Les Dunes d'Ostende
