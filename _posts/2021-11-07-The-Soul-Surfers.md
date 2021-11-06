@@ -34,12 +34,8 @@ track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
 ---
-<p id="introduction"> This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers    
-    <br><br>
-  Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). 
-  <br><br>
-Nothing if not versatile, Janko slips easily across styles of jazz, funk, rock, and classical music. Janko's selections, too, reflect this versatility and freedom within music :)
-</p>
+<p id="introduction"> This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers crafts many interesting collaborations, including with Janko Nilovic for the 2021 album, Maze of Sounds. 
+  </p>
 
 # The Soul Surfers' selection
 
