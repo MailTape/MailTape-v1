@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
@@ -33,10 +33,11 @@ track7_title: Africa Express - Morals
 track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
+description: '  This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by drummer Igor Zhukovsky, the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, Maze of Sounds. Their selection mirrors much of their own music, exploring the interesting spaces of synth and funk fusions.'
 ---
-<p id="introduction"> This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own music, exploring synth and funk fusions.
+<p id="introduction"> This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by drummer [Igor Zhukovsky](https://www.discogs.com/artist/2760785-Igor-Zhukovsky), the modern funk band hails from Niznhny Novgorod, Russia. The Soul Surfers craft many exciting albums and collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). Their selection mirrors much of their own music, exploring the interesting spaces of synth and funk fusions.
   </p>
-
+ 
 # The Soul Surfers' selection
 
 ## [François de Roubaix](https://www.discogs.com/artist/119363-Fran%C3%A7ois-De-Roubaix) - Poursuite Sur Les Dunes d'Ostende
