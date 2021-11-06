@@ -34,7 +34,7 @@ track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
 ---
-<p id="introduction"> This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers crafts many interesting collaborations, including with Janko Nilovic for the 2021 album, Maze of Sounds. 
+<p id="introduction"> This morning, we are delighted to welcome [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/) to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers crafts many interesting collaborations, including with Janko Nilovic for the 2021 album, [Maze of Sounds](https://brocrecordz.bandcamp.com/album/maze-of-sounds). 
   </p>
 
 # The Soul Surfers' selection
