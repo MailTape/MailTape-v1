@@ -34,7 +34,7 @@ track6_title: The Natural Yogurt Band - 57 Lashes of the Mallet
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/469/track7.mp3'
 ---
-<p id="introduction"> This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. 
+<p id="introduction"> This morning, we are delighted to welcome The Soul Surfers to MailTape for a collection of experimental and exploratory tracks. Led by Igor Zhukovsky, Russian funk band The Soul Surfers    
     <br><br>
   Based in Paris, Janko is a living legend in the arena of library music. A pioneer of French production music, Janko is behind so many beloved arrangements. In addition to commissions for classical compositions, Janko is frequently sampled by hip hop, rap, and rhythm and blues artists (including Jay-Z and Dr Dre). 
   <br><br>
@@ -56,15 +56,15 @@ The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield B
 # MailTape's selection
 
 ## [Janko Nilovic and The Soul Surfers](https://brocrecordz.bandcamp.com/album/maze-of-sounds) - Maze of Sounds Alternate Take
-Sarah: **"**loved the entire Maze of Sounds album, and this alternate take of the album's name sake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
+Sarah: **"**loved the entire Maze of Sounds album, and this unreleaseed track of the album's namesake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
 
 ## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), [Shawn Lee](https://www.shawnlee.net/) - Time is a Gun
-Sarah: **"**Great collaboration with Shawn Lee, released in 2015. again, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation that sways between streams of organ chords.**"**
+Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) again, the organ carries this song to new heights. Listen for the percussive break toward the end, one that takes us right into guitar improvisation that sways between streams of organ chords.**"**
 
 ## [The Natural Yogurt Band](https://thenaturalyogurtband.bandcamp.com/) - 57 Lashes of the Mallet
 Sarah: **"**One of two songs on the september 2021 release, 57 Lashes of the Mallet. Was pleasantly surprised with the flute overtakings, complemented so well by the treading basslines. The introduction of the cello toward the end!! The Natural Yogurt Band, headed by bassist Wayne Fullwood and multi-instrumentalist Miles Newbold, takes great influence from the 1970's library music movement, adding accents of electronic and classical music.**"**
 
 ## [Africa Express](https://africaexpress.bandcamp.com/album/egoli) feat [Moonchild Sanelly](https://www.dazeddigital.com/projects/article/52989/1/moonchild-sanelly-musician-biography-dazed-100-2021-profile), [Mahotella Queens](https://www.discogs.com/artist/56676-Mahotella-Queens), [Muzi](https://www.thefader.com/2021/10/01/muzi-new-album-interblaktic-stream), [Mr Jukes](https://www.facebook.com/muziou) - Morals
-Sarah: **"**Africa Express is renown for making diverse collaborations like this possible. This track arrives off of the 2019 album, Egoli. **"**
+Sarah: **"**Africa Express is renown for making diverse collaborations like this possible. This track arrives off of the 2019 album, Egoli.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to [Janko Nilović](https://brocrecordz.bandcamp.com/album/maze-of-sounds) for his eccentric and surprising Sunday selections, and many thanks to our very talented [Jason Pridham](https://www.instagram.com/grancharismo/) for this episode's brilliant illustration !</p>
