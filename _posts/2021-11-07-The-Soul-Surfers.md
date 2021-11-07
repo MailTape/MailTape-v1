@@ -52,7 +52,7 @@ The Soul Surfers: **"**I had the chance to work with JJ Whitefield (Whitefield B
 # MailTape's selection
 
 ## [Janko Nilovic and The Soul Surfers](https://brocrecordz.bandcamp.com/album/maze-of-sounds) - Maze of Sounds Alternate Take
-Sarah: **"**loved the entire Maze of Sounds album, and this unreleaseed track of the album's namesake struck me as particularly interesting. the organ and bass lines are perfectly intertwined, moving at once together and side by side. **"**
+Sarah: **"**This unreleased track from the Maze of Sound album struck me as particularly interesting, especially in contrast to the album's [released version](https://www.youtube.com/watch?v=m1oLjnKeUiY). The organ and bass lines are so perfectly intertwined, moving at once together and side by side.**"**
 
 ## [The Soul Surfers](https://soulsurfersubiq.bandcamp.com/), [Shawn Lee](https://www.shawnlee.net/) - Time is a Gun
 Sarah: **"**Great collaboration with Shawn Lee, released in 2015. Love the vocals on this :) Just as in the last track, the organ carries this song to new heights. The 1970's influence in this is unmistakeable,  Listen for the percussive break toward the end, one that takes us right into guitar improvisation, swaying carefully between the organ section :)**"**
