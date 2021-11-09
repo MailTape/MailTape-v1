@@ -14,6 +14,12 @@ track3_color: bliss
 track4_title: Rémi Parson - Les sentiments
 track4_color: rough
 guest_color: rough
+track7_title: Francoiz Breut - Juste de passage
+track7_color: vibrant
+track6_title: Michelle Gurevich - No one Answer
+track6_color: rough
+track5_title: Grand Parc - Sur les toits
+track5_color: vibrant
 ---
 <p id="introduction"> This morning,
   <br><br>
