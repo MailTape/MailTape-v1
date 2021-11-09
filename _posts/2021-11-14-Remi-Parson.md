@@ -37,13 +37,13 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 ## Rémi Parson - Les sentiments
 Anaïs G: **"** **"**
 
-##  - 
+## Grand Parc - Sur les toits
 Anaïs G: **"** **"**
 
-##  - 
+## Michel Gurevich - No One Answer
 Anaïs G: **"** **"**
 
-##  - 
+## Françoiz Breut - Juste de passage
 Anaïs G: **"** **"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to for Rémi Parson his eccentric and surprising Sunday selections, and many thanks to our very talented Camille Célestin for this episode's brilliant illustration !</p>
