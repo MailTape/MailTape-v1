@@ -53,7 +53,7 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 ## [Rémi Parson](https://remiparson.bandcamp.com/album/pour-un-empire) - Les sentiments
 Anaïs G: **"**A dark and cold melody, cold-wave tunes and it’s over. Rémi Parson has all this at the same time as a fearless race against time and the passing of life. And especially punctuated by feelings, always. . . We can’t wait to discover the other tracks of her new album “Pour un empire”, which is scheduled for release on November 19th, on Isoola Records.**"**
 
-## Grand Parc - Sur les toits
+## [Grand Parc](https://grandparc.bandcamp.com/) - Sur les toits
 Anaïs G: **"**We love this duo formed by Nicolas Marsanne and Annie Langlois. He offers us a deconstructed pop, adding electro using machines. A nice mix of genres all carried by French lyrics. A tip: go listen to their EP “Pull Noir” released in May 2020, you will enjoy this urban and hypnotic atmosphere.**"**
 
 ## Michel Gurevich - No One Answer
