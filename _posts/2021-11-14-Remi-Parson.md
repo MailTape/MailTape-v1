@@ -56,10 +56,10 @@ Anaïs G: **"**A dark and cold melody, cold-wave tunes and it’s over. Rémi Pa
 ## [Grand Parc](https://grandparc.bandcamp.com/) - Sur les toits
 Anaïs G: **"**We love this duo formed by Nicolas Marsanne and Annie Langlois. He offers us a deconstructed pop, adding electro using machines. A nice mix of genres all carried by French lyrics. A tip: go listen to their EP “Pull Noir” released in May 2020, you will enjoy this urban and hypnotic atmosphere.**"**
 
-## Michel Gurevich - No One Answer
+## [Michelle Gurevich](http://michellegurevich.com/) - No One Answer
 Anaïs G: **"**First of all, it was her voice that literally made me fall in love with this singer. His singular tone of voice mesmerized me. A walk like we love them, punctuated by nostalgia and mystery, combined with the industrial machinery used and the ambient hope. Perfect for Sunday morning!**"**
 
-## Françoiz Breut - Juste de passage
+## [Françoiz Breut](https://www.facebook.com/francoizbreut) - Juste de passage
 Anaïs G: **"**An incredible universe and a favorite for this singer. My choice was on this track “Juste de passage” from his latest album “Flux Flou de la Foule. ” Poetic, touching words full of sincerity and emotion.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to for Rémi Parson his eccentric and surprising Sunday selections, and many thanks to our very talented Camille Célestin for this episode's brilliant illustration !</p>
