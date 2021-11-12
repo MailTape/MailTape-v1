@@ -21,8 +21,8 @@ track6_color: rough
 track5_title: Grand Parc - Sur les toits
 track5_color: vibrant
 ---
-<p id="introduction"> This morning,
-  <br><br>
+<p id="introduction"> This morning, on se faufille dans la ville, à la première heure, avec les fêtards qui rentrent de leur after mais aussi des maraichers préparant leurs étales. Plus tard dans la matinée, on s'ennivre de l'odeur du café de bon matin et des discussions des petits vieux aux terasses des cafés. C'est avec cette émulsion de gens en mouvement que nous sommes poussés à écouter la sélection de Rémi Parson.
+<br><br>
 
 </p>
 
