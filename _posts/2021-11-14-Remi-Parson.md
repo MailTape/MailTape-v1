@@ -41,15 +41,15 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 # MailTape's selection
 
 ## Rémi Parson - Les sentiments
-Anaïs G: **"**Une mélodie sombre et froide, des airs de cold-wave et le tour est joué. Rémi Parson s'est tout ça à la fois comme une course effrainé contre le temps et la vie qui passe. Et surtout ponctué par les sentiments, toujours...On a hâte de découvrir les autres titres de son nouvel album "Pour un empire", dont la sortie est prévu pour le 19 novembre prochain, sur Isoola Records.**"**
+Anaïs G: **"**A dark and cold melody, cold-wave tunes and it’s over. Rémi Parson has all this at the same time as a fearless race against time and the passing of life. And especially punctuated by feelings, always. . . We can’t wait to discover the other tracks of her new album “Pour un empire”, which is scheduled for release on November 19th, on Isoola Records.**"**
 
 ## Grand Parc - Sur les toits
-Anaïs G: **"**On adore ce duo formé par Nicolas Marsanne et Annie Langlois. Il nous offre une pop déconstruite, en y ajoutant de l'électro en utilisant des machines. Un joli mélange des genres le tout porté par des paroles en français. Un conseil: aller écouter leur EP "Pull Noir" sorti en mai 2020, vous allez apprécié cette ambiance urbaine et hypnotique.**"**
+Anaïs G: **"**We love this duo formed by Nicolas Marsanne and Annie Langlois. He offers us a deconstructed pop, adding electro using machines. A nice mix of genres all carried by French lyrics. A tip: go listen to their EP “Pull Noir” released in May 2020, you will enjoy this urban and hypnotic atmosphere.**"**
 
 ## Michel Gurevich - No One Answer
-Anaïs G: **"**C'est d'abord sa voix qui m'a littéralement fait tomber en amour pour cette chanteuse. Son timbre de voix si singulier m'a hypnotisé. Une balade comme on les aime, ponctué de nostalgie et de mystère, allié à l'industriel des machines utilisé et à l'espoir ambiante. Parfait pour dimanche matin!**"**
+Anaïs G: **"**First of all, it was her voice that literally made me fall in love with this singer. His singular tone of voice mesmerized me. A walk like we love them, punctuated by nostalgia and mystery, combined with the industrial machinery used and the ambient hope. Perfect for Sunday morning!**"**
 
 ## Françoiz Breut - Juste de passage
-Anaïs G: **"**Un univers incroyable et un coup de coeur pour cette chanteuse. Mon choix s'est posé sur ce titre "Juste de passage" extrait de son dernier album "Flux Flou de la Foule". Des mots poétiques, touchants remplis de sincérités et d'émotions. **"**
+Anaïs G: **"**An incredible universe and a favorite for this singer. My choice was on this track “Juste de passage” from his latest album “Flux Flou de la Foule. ” Poetic, touching words full of sincerity and emotion.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to for Rémi Parson his eccentric and surprising Sunday selections, and many thanks to our very talented Camille Célestin for this episode's brilliant illustration !</p>
