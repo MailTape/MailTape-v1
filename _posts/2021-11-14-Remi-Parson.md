@@ -44,12 +44,12 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 Anaïs G: **"** **"**
 
 ## Grand Parc - Sur les toits
-Anaïs G: **"** **"**
+Anaïs G: **"**On adore ce duo formé par Nicolas Marsanne et Annie Langlois. Il nous offre une pop déconstruite, en y ajoutant de l'électro en utilisant des machines. Un joli mélange des genres le tout porté par des paroles en français. Un conseil: aller écouter leur EP "Pull Noir" sorti en mai 2020, vous allez apprécié cette ambiance urbaine et hypnotique.**"**
 
 ## Michel Gurevich - No One Answer
 Anaïs G: **"** **"**
 
 ## Françoiz Breut - Juste de passage
-Anaïs G: **"** **"**
+Anaïs G: **"**Un univers incroyable et un coup de coeur pour cette chanteuse. Mon choix s'est posé sur ce titre "Juste de passage" extrait de son dernier album "Flux Flou de la Foule". Des mots poétiques, touchants remplis de sincérités et d'émotions. **"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to for Rémi Parson his eccentric and surprising Sunday selections, and many thanks to our very talented Camille Célestin for this episode's brilliant illustration !</p>
