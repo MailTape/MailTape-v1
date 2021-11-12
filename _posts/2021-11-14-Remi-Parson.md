@@ -41,13 +41,13 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 # MailTape's selection
 
 ## Rémi Parson - Les sentiments
-Anaïs G: **"**Une mélodie sombre et froide, des airs de cold-wave et le tour est joué. Une course effrénai contre le temps et la vie qui passe.  **"**
+Anaïs G: **"**Une mélodie sombre et froide, des airs de cold-wave et le tour est joué. Rémi Parson s'est tout ça à la fois comme une course effrainé contre le temps et la vie qui passe. Et surtout ponctué par les sentiments, toujours...On a hâte de découvrir les autres titres de son nouvel album "Pour un empire", dont la sortie est prévu pour le 19 novembre prochain, sur Isoola Records.**"**
 
 ## Grand Parc - Sur les toits
 Anaïs G: **"**On adore ce duo formé par Nicolas Marsanne et Annie Langlois. Il nous offre une pop déconstruite, en y ajoutant de l'électro en utilisant des machines. Un joli mélange des genres le tout porté par des paroles en français. Un conseil: aller écouter leur EP "Pull Noir" sorti en mai 2020, vous allez apprécié cette ambiance urbaine et hypnotique.**"**
 
 ## Michel Gurevich - No One Answer
-Anaïs G: **"** **"**
+Anaïs G: **"**C'est d'abord sa voix qui m'a littéralement fait tomber en amour pour cette chanteuse. Son timbre de voix si singulier m'a hypnotisé. Une balade comme on les aime, ponctué de nostalgie et de mystère, allié à l'industriel des machines utilisé et à l'espoir ambiante. Parfait pour dimanche matin!**"**
 
 ## Françoiz Breut - Juste de passage
 Anaïs G: **"**Un univers incroyable et un coup de coeur pour cette chanteuse. Mon choix s'est posé sur ce titre "Juste de passage" extrait de son dernier album "Flux Flou de la Foule". Des mots poétiques, touchants remplis de sincérités et d'émotions. **"**
