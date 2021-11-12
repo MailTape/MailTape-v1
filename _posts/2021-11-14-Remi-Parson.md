@@ -41,7 +41,7 @@ Rémi Parson: **"**If I had to choose, Italo disco, dance – or whatever you wa
 # MailTape's selection
 
 ## Rémi Parson - Les sentiments
-Anaïs G: **"** **"**
+Anaïs G: **"**Une mélodie sombre et froide, des airs de cold-wave et le tour est joué. Une course effrénai contre le temps et la vie qui passe.  **"**
 
 ## Grand Parc - Sur les toits
 Anaïs G: **"**On adore ce duo formé par Nicolas Marsanne et Annie Langlois. Il nous offre une pop déconstruite, en y ajoutant de l'électro en utilisant des machines. Un joli mélange des genres le tout porté par des paroles en français. Un conseil: aller écouter leur EP "Pull Noir" sorti en mai 2020, vous allez apprécié cette ambiance urbaine et hypnotique.**"**
