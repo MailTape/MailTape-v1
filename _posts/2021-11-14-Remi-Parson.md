@@ -23,7 +23,7 @@ track5_color: vibrant
 ---
 <p id="introduction"> This morning, on se faufille dans la ville, à la première heure, avec les fêtards qui rentrent de leur after mais aussi des maraichers préparant leurs étales. Plus tard dans la matinée, on s'ennivre de l'odeur du café de bon matin et des discussions des petits vieux aux terasses des cafés. C'est avec cette émulsion de gens en mouvement que nous sommes poussés à écouter la sélection de Rémi Parson.
 <br><br>
-
+Rémi Parson, c'est la mélancolie assumée avec cette pointe de cold-wave pour sublimer tout ça. C'est avec ces deux titres "Les sentiments" et "L'étranger", qu'il nous transperce le coeur. Retenons que son prochain album " Pour un empire" sort le 19 novembre prochain, sous le label Isoola Records.
 </p>
 
 # Rémi Parson' selection
