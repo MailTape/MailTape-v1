@@ -21,9 +21,9 @@ track6_color: rough
 track5_title: Grand Parc - Sur les toits
 track5_color: vibrant
 ---
-<p id="introduction"> This morning, on se faufille dans la ville, à la première heure, avec les fêtards qui rentrent de leur after mais aussi des maraichers préparant leurs étales. Plus tard dans la matinée, on s'ennivre de l'odeur du café de bon matin et des discussions des petits vieux aux terasses des cafés. C'est avec cette émulsion de gens en mouvement que nous sommes poussés à écouter la sélection de Rémi Parson.
+<p id="introduction"> This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to Rémi Parson’s selection.
 <br><br>
-Rémi Parson, c'est la mélancolie assumée avec cette pointe de cold-wave pour sublimer tout ça. C'est avec ces deux titres "Les sentiments" et "L'étranger", qu'il nous transperce le coeur. Retenons que son prochain album " Pour un empire" sort le 19 novembre prochain, sous le label Isoola Records.
+Rémi Parson, it’s the melancholy assumed with that hint of cold-wave to sublimate all that. It is with these two titles “Les sentiments” and “L'étranger”, that he pierces our hearts. Let’s remember that her next album “Pour un empire” will be released on November 19, under the label Isoola Records.
 </p>
 
 # Rémi Parson' selection
