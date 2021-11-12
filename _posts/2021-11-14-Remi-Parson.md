@@ -38,7 +38,7 @@ Rémi Parson, it’s the melancholy assumed with that hint of cold-wave to subli
 
 # Rémi Parson' selection
 
-##  Joep Franssens - Harmony of the Spheres: First Movement
+##  Joep Franssens - First Movement
 Rémi Parson: **"**A pop kid at heart, my passion for ambient and instrumental music grew bigger and bigger over the last few years. Partly because of my work as a writer, as anything with lyrics will either be blocked from my brain or distract me too much, but also because I am a big fan of long, dismal, choral pieces such as this one. Extremely inspiring, whether it’s for the description of a sofa or my next song.**"**
 
 ##  K. Leimer - All Sad Days
