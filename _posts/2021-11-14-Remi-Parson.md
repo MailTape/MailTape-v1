@@ -30,6 +30,9 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track5.mp3 '
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track7.mp3'
+episode_URL: 'http://mailta.pe/470/remi-parson/'
+image: 'https://mailta.pe/fbPic470.png'
+musiColor: musiColor470.png
 ---
 <p id="introduction"> This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to [Rémi Parson’s](https://remiparson.bandcamp.com/album/pour-un-empire) selection.
 <br><br>
