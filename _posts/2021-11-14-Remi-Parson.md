@@ -31,6 +31,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track5.mp3 '
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track7.mp3'
 ---
+
 <p id="introduction"> This morning, We sneak into the city, at the first hour, with the partygoers coming back from their afternoons but also market gardeners preparing their stalls. Later in the morning, we get intoxicated by the smell of early morning coffee and the discussions of the little old people on the terraces of the cafés. It is with this emulsion of people on the move that we are driven to listen to [Rémi Parson’s](https://remiparson.bandcamp.com/album/pour-un-empire) selection.
 <br><br>
 [Rémi Parson](https://www.facebook.com/remiparsonuk), it’s the melancholy assumed with that hint of cold-wave to sublimate all that. It is with these two titles “Les sentiments” and “L'étranger”, that he pierces our hearts. Let’s remember that her next album “Pour un empire” will be released on November 19, under the label Isoola Records.
