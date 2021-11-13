@@ -72,4 +72,4 @@ Anaïs G: **"**First of all, it was her voice that literally made me fall in lov
 ## [Françoiz Breut](https://www.facebook.com/francoizbreut) - Juste de passage
 Anaïs G: **"**An incredible universe and a favorite for this singer. My choice was on this track “Juste de passage” from his latest album “Flux Flou de la Foule. ” Poetic, touching words full of sincerity and emotion.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for joining us. Our love to for Rémi Parson his eccentric and surprising Sunday selections, and many thanks to our very talented Camille Célestin for this episode's brilliant illustration !</p>
+<p id="outroduction"></p>
