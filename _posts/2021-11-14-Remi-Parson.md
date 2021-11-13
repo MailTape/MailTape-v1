@@ -20,7 +20,7 @@ track6_title: Michelle Gurevich - No one Answer
 track6_color: rough
 track5_title: Grand Parc - Sur les toits
 track5_color: vibrant
-track1_title: 'Joep Franssens - Harmony of the Spheres: First Movement'
+track1_title: Joep Franssens -  First Movement
 track2_title: K. Leimer - All Sad Days
 track3_title: Lilian Becker - Cadendo
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track1.mp3'
