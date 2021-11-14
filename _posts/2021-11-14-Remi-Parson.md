@@ -31,7 +31,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track5.mp3 '
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/470/track7.mp3'
 episode_URL: 'http://mailta.pe/470/remi-parson/'
-image: 'https://mailta.pe/fbPic470.png'
+image: 'https://mailta.pe/img/fbPic470.png'
 musiColor: musiColor470.png
 description: >-
   This morning, We sneak into the city, at the first hour, with the partygoers
