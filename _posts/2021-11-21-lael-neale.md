@@ -20,8 +20,8 @@ Lael Neale: **"**My brother introduced me to this song and it makes the sun shin
 
 # MailTape's selection
 
-## Lael Neale - cc
-ImaCrea: **"**A dark and cold melody, cold-wave tunes and it’s over. Rémi Parson has all this at the same time as a fearless race against time and the passing of life. And especially punctuated by feelings, always. . . We can’t wait to discover the other tracks of her new album “Pour un empire”, which is scheduled for release on November 19th, on Isoola Records.**"**
+## Lael Neale - xx
+ImaCrea: **"**xx**"**
 
 ## xx
 ImaCrea: **"**xx**"**
