@@ -21,6 +21,13 @@ track4_title: Lael Neale - White Wings
 track5_title: Akiko Yano - I Sing
 track6_title: Nala Sinephro - Space 5
 track7_title: Eddy de Pretto - Val de Larmes
+track1_color: dreamy
+track2_color: dreamy
+track3_color: vibrant
+track4_color: dreamy
+track5_color: vibrant
+track6_color: trippy
+track7_color: bliss
 ---
 <p id="introduction"> This morning
 </p>
