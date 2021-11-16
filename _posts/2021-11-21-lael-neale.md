@@ -17,6 +17,10 @@ category: '471'
 writer: PS KY
 author: ImaCrea
 illustrator: Meriam Kharbat
+track4_title: Lael Neale - White Wings
+track5_title: Akiko Yano - I Sing
+track6_title: Nala Sinephro - Space 5
+track7_title: Eddy de Pretto - Val de Larmes
 ---
 <p id="introduction"> This morning
 </p>
