@@ -30,7 +30,11 @@ track6_color: trippy
 track7_color: bliss
 guestPic: guestPic471.jpg
 ---
-<p id="introduction"> This morning
+<p id="introduction"> This morning, we welcome our guest Lael Neale with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
+<br><br>
+As the world continues to open its doors back to the endless forms of entertainment and constant distractions once perceived as necessary elements of life, we must not forget the simplicity of existing we were recently welcomed to so dearly cherish.
+<br><br>
+Today’s MT is an ode to sensitivity, an allegiance to the core and a devotion to clarity. Lael Neale’s delicate yet persuasive voice carries a message of faith and confidence delivered in this floating composition. Her song, White Wings, will linger with you for days, like the long embrace from the reassuring stranger you’ve waited on for years. 
 </p>
 
 # Lael Neale' selection
