@@ -51,13 +51,13 @@ Lael Neale: **"**My brother introduced me to this song and it makes the sun shin
 
 # MailTape's selection
 
-## Lael Neale - xx
-ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam.." Why asking when you're here and now?**"**
+## Lael Neale - White Wings
+ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam ahanah.." Why asking when you're here and now?**"**
 
-## xx
-ImaCrea: **"**xx**"**
+## Akiko Yano - I Sing
+ImaCrea: **"**I keep digging in the beginnings of pop music from Japan. Last time it was with Yellow Magic Orchestra. Let met introduce now Akiko Yano. 1981, Japan. 40 years and this track still bang. Filled with such a positive and optimistic energy. If you like the energy in this one, don't hesitate a second and go listen to the Tadaima, the album where it's coming from. Sunshine!**"**
 
-## xx
+## Nala Sinephro - Space 5
 ImaCrea: **"**xx**"**
 
 ## xx
