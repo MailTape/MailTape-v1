@@ -60,7 +60,7 @@ ImaCrea: **"**I keep digging in the beginnings of pop music from Japan. Last tim
 ## Nala Sinephro - Space 5
 ImaCrea: **"**Coming from her first album released on Warp Records, this London based artist shape sound as a sculptor would work with clay. Jazz and ambient making love together, I've been waiting to hear something like this since a while and each track is a perfect gem. There's no need for VR by lord Mark when one has such imagination opener. An artist to watch closely, the beginning of a beautiful story.**"**
 
-## xx
-Anaïs G: **"**xx**"**
+## Eddy de Pretto - Val de Larmes
+ImaCrea: **"**Eddy de Pretto latest album is a masterpiece. Clearly one of the greatest french lyricist of our times. This track is already a timeless classic. It touched me right in the heart.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Remi Parson for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and to Meriam Kharbat for her splendid illustration.</p>
