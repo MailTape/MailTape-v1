@@ -52,15 +52,15 @@ Lael Neale: **"**My brother introduced me to this song and it makes the sun shin
 # MailTape's selection
 
 ## Lael Neale - White Wings
-ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam ahanah.." Why asking when you're here and now?**"**
+ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam ahanah.." Why ask when you're here and now?**"**
 
 ## Akiko Yano - I Sing
-ImaCrea: **"**I keep digging in the beginnings of pop music from Japan. Last time it was with Yellow Magic Orchestra. Let met introduce now Akiko Yano. 1981, Japan. 40 years and this track still bang. Filled with such a positive and optimistic energy. If you like the energy in this one, don't hesitate a second and go listen to the Tadaima, the album where it's coming from. Sunshine!**"**
+ImaCrea: **"**I keep digging in the beginnings of pop music from Japan. Last time it was with Yellow Magic Orchestra. Let met introduce now Akiko Yano. 1981, Japan. 40 years and this track still bang. Filled with such optimistic energy. If you like the energy in this one, don't hesitate a second and go listen to the Tadaima, the album where it's coming from. Sunshine!**"**
 
 ## Nala Sinephro - Space 5
-ImaCrea: **"**Coming from her first album released on Warp Records, this London based artist shape sound as a sculptor would work with clay. Jazz and ambient making love together, I've been waiting to hear something like this since a while and each track is a perfect gem. There's no need for VR by lord Mark when one has such imagination opener. An artist to watch closely, the beginning of a beautiful story.**"**
+ImaCrea: **"**Coming from her first album released on Warp Records, this London-based artist shapes sound as a sculptor would work with clay. Jazz and ambient making love together, I've been waiting to hear something like this for a while and each track is a perfect gem. There's no need for VR by lord Mark when one has such an imagination opener. An artist to watch closely, the beginning of a beautiful story.**"**
 
 ## Eddy de Pretto - Val de Larmes
-ImaCrea: **"**Eddy de Pretto latest album is a masterpiece. Clearly one of the greatest french lyricist of our times. This track is already a timeless classic. It touched me right in the heart.**"**
+ImaCrea: **"**Eddy de Pretto latest album is a masterpiece. One of the greatest french lyricists of our times. This track is already a timeless classic. It touched me right in the heart.**"**
 
-<p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and to Meriam Kharbat for her splendid illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and Meriam Kharbat for her splendid illustration.</p>
