@@ -28,6 +28,7 @@ track4_color: dreamy
 track5_color: vibrant
 track6_color: trippy
 track7_color: bliss
+guestPic: guestPic471.jpg
 ---
 <p id="introduction"> This morning
 </p>
