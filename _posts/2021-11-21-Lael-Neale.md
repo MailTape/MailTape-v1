@@ -52,7 +52,7 @@ Lael Neale: **"**My brother introduced me to this song and it makes the sun shin
 # MailTape's selection
 
 ## Lael Neale - xx
-ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam.." Why asking when you're here and now.**"**
+ImaCrea: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam.." Why asking when you're here and now?**"**
 
 ## xx
 ImaCrea: **"**xx**"**
