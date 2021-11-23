@@ -2,6 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+writer: Sarah
+category: '472'
+guest_name: Maxine Funke
+guest_color: bliss
 ---
 <p id="introduction"> This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>
