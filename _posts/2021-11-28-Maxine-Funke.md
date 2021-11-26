@@ -28,13 +28,13 @@ Today’s MT is an ode to sensitivity, an allegiance to the core and a devotion 
 
 # Lael Neale' selection
 
-##  Novicat de soeurs missionaires - Yes Ka Mkwebaze
+##  Joan Baez - A Simple Twist of Fate
 Lael Neale: **"**This is one of the most pure, perfect pieces of music I’ve ever heard. I love devotional music because the singers tend not to have an affect, they aren’t trying to make someone like them. The song is not a performance, it is an offering.**"**
 
-##  Herb Alpert - Ladyfingers
+##  Jennifer Warnes - Let the Sunshine In
 Lael Neale: **"**I became obsessed with this song last year and now it’s become a ritual to listen to it while putting away groceries after the weekly trip to the store.**"**
 
-## Jorge Ben - Hermes Trismegistus
+## Robert Wyatt - Ship Building
 Lael Neale: **"**My brother introduced me to this song and it makes the sun shine for me. The theme of the album is based on the esoteric document called the Emerald Tablet which has been used as a reference text by mystics throughout time. I feel some kind of alchemical magic working on me every time I listen.**"**
 
 
