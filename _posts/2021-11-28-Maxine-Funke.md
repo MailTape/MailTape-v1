@@ -7,6 +7,17 @@ writer: Sarah
 category: '472'
 guest_name: Maxine Funke
 guest_color: bliss
+track1_title: Joan Baez - A Simple Twist of Fate
+track2_title: Jennifer Warnes - Let The Sunshine In
+track3_title: Robert Wyatt - Ship Building
+track4_title: 'Maxine Funke - '
+track4_color: bliss
+track2_color: vibrant
+track3_color: dreamy
+track1_color: vibrant
+track5_color: dreamy
+track6_color: trippy
+track7_color: vibrant
 ---
 <p id="introduction"> This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>
