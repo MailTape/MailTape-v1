@@ -21,6 +21,9 @@ track7_color: bliss
 image: 'https://mailta.pe/img/fbPic472.png'
 episode_URL: 'http://mailta.pe/472/Maxine-Funke/'
 guestPic: guestPic472.jpg
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track3.mp3'
 ---
 <p id="introduction"> This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>
