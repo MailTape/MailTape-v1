@@ -32,18 +32,24 @@ Today’s MT is an ode to sensitivity, an allegiance to the core and a devotion 
 # Maxine Funke's selection
 
 ##  Joan Baez - A Simple Twist of Fate
-Maxine Funke: **"**This is one of the most pure, perfect pieces of music I’ve ever heard. I love devotional music because the singers tend not to have an affect, they aren’t trying to make someone like them. The song is not a performance, it is an offering.**"**
+Maxine Funke: **"**I chose a simple twist of fate because I admire how it flows chronologically, it has more than 3 verses which always impresses me.**"**
 
 ##  Jennifer Warnes - Let the Sunshine In
-Maxine Funke: **"**I became obsessed with this song last year and now it’s become a ritual to listen to it while putting away groceries after the weekly trip to the store.**"**
+Maxine Funke: **"**really like it when jennifer warnes sings:
+
+Facing a dying nation of moving paper fantasy
+Listening for the new told lies
+With supreme visions of lonely tunes
+
+I can relate to that. always having to give up book reading time to find or do work, so my books become the dying nation of paper fantasy. Keeping an ear out for the news which is questionable. And then getting inspired to write a song, which is like a lonely tune because I am not popular in NZ.**"**
 
 ## Robert Wyatt - Ship Building
-Maxine Funke: **"**My brother introduced me to this song and it makes the sun shine for me. The theme of the album is based on the esoteric document called the Emerald Tablet which has been used as a reference text by mystics throughout time. I feel some kind of alchemical magic working on me every time I listen.**"**
+Maxine Funke: **"**ship building, just an old favourite of mine. It really transports me . I like how it's made of pieces of conversation, so you are immediately drawn in. There's no description of the setting but the setting is so potent in the song. I admire that.**"**
 
 
 # MailTape's selection
 
-## Lael Neale - White Wings
+## Maxine Funke - White Wings
 Sarah: **"**Picking a single track from Lael Neale's album *Acquainted with Night* wasn't an easy task. They all are so soft and delicate while building a unique landscape in their very own way. I like how this track invites us to let it go and be fully present. "What will I do? What will I be?.... pam pala bam ahanah.." Why ask when you're here and now?**"**
 
 ## Akiko Yano - I Sing
