@@ -25,6 +25,10 @@ As the world continues to open its doors back to the endless forms of entertainm
 <br><br>
 Today’s MT is an ode to sensitivity, an allegiance to the core and a devotion to clarity. Lael Neale’s delicate yet persuasive voice carries a message of faith and confidence delivered in this floating composition. Her song, White Wings, will linger with you for days, like the long embrace from the reassuring stranger you’ve waited on for years. 
 </p>
+![guestPic472.jpg]({{site.baseurl}}/img/guestPic472.jpg)
+![fbPic472.png]({{site.baseurl}}/img/fbPic472.png)
+
+
 
 # Maxine Funke's selection
 
