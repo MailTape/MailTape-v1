@@ -74,4 +74,4 @@ Sarah: **"**Such a rich composition, the namesake of Howie Lee's 2021 album. Lov
 ## Maxine Funke - Homage
 Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of Maxine's 2021 album, Séance. So much beauty in such simplicity. With the wonderuful world of sound that Maxine Funke creates, it's easy to forget this track just contains a guitar and a single voice :)**"**
 
-<p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and Meriam Kharbat for her splendid illustration.</p>
+<p id="outroduction">That's all for this morning! Thank you very much for listening along with us. So much love to Maxine Funke for her peaceful Sunday selections and to Meriam Kharbat for her wonderful illustration.</p>
