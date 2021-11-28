@@ -35,11 +35,9 @@ illustrator: ''
 musiColor: ''
 description: ''
 ---
-<p id="introduction"> This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
+<p id="introduction"> This morning, we are delighted to welcome [Maxine Funke](https://laelneale.bandcamp.com/album/acquainted-with-night) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 
 <br><br>
-As the world continues to open its doors back to the endless forms of entertainment and constant distractions once perceived as necessary elements of life, we must not forget the simplicity of existing we were recently welcomed to so dearly cherish.
-<br><br>
-Today’s MT is an ode to sensitivity, an allegiance to the core and a devotion to clarity. Lael Neale’s delicate yet persuasive voice carries a message of faith and confidence delivered in this floating composition. Her song, White Wings, will linger with you for days, like the long embrace from the reassuring stranger you’ve waited on for years. 
+Based in New Zealand, Maxine Funke 
 </p>
 
 # Maxine Funke's selection
@@ -72,6 +70,6 @@ Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this 
 Sarah: **"**Such a rich composition, the namesake of Howie Lee's 2021 album. Love the combination of Chinese traditional folk and electronic experimentation. At once organic and somehow synthetic, Howie Lee creates an entire ecosystem before our ears, with a vocal section fit for the treetops. The synths grow up and around us like tree branches, held fast by the colorful percussives lining each measure.**"**
 
 ## Maxine Funke - Homage
-Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of Maxine's 2021 album, Séance. So much beauty in such simplicity. With the wonderuful world of sound that Maxine Funke creates, it's easy to forget this track just contains a guitar and a single voice :)**"**
+Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of the 2021 album, Séance. So much beauty in such simplicity. This track is described by Maxine as representing a celebration of new beginnings and a careful closing of past chapters. Such a perfect sentiment for this Sunday, as we look ahead (hopefully) at all the prospects this coming week may bring, and reflect (kindly) on what the past week brought to us.**"**
 
 <p id="outroduction">That's all for this morning! Thank you very much for listening along with us. So much love to Maxine Funke for her peaceful Sunday selections and to Meriam Kharbat for her wonderful illustration.</p>
