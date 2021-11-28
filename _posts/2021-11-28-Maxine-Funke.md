@@ -49,7 +49,7 @@ Based in New Zealand, multi instrumentalist Maxine Funke crafts each album with 
 Maxine Funke: **"**I chose a simple twist of fate because I admire how it flows chronologically, it has more than 3 verses which always impresses me.**"**
 
 ##  [Jennifer Warnes](https://www.discogs.com/artist/261834-Jennifer-Warnes) - Let the Sunshine In
-Maxine Funke: **"**really like it when jennifer warnes sings:
+Maxine Funke: **"**Really like it when jennifer warnes sings:
 
 Facing a dying nation of moving paper fantasy
 Listening for the new told lies
@@ -59,7 +59,6 @@ I can relate to that. always having to give up book reading time to find or do w
 
 ## [Robert Wyatt](https://www.robert-wyatt.com/) - Ship Building
 Maxine Funke: **"**ship building, just an old favourite of mine. It really transports me . I like how it's made of pieces of conversation, so you are immediately drawn in. There's no description of the setting but the setting is so potent in the song. I admire that.**"**
-
 
 # MailTape's selection
 
