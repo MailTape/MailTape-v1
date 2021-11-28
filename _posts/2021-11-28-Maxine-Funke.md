@@ -58,7 +58,7 @@ Maxine Funke: **"**ship building, just an old favourite of mine. It really trans
 Sarah: **"**Maxine Funke's work has such a peaceful quality surrounding it, especially fitting for a song written about the restful hours of the morning. Her voice cradles the very air it traverses, balancing the rounded dissonances of her guitar's melodies. In her description of the release, Maxine also explains that while writing this sortie, she felt struck by the hymn [Be Still My Soul](https://www.youtube.com/watch?v=hqgC1tqifV8) and several Robert Louis Stevenson poems.  **"**
 
 ## Luiza Brina Chico Bernardes - Garrafa ao Mar
-Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this track. With each measure, we're lifted a little higher off the ground. Chico Bernardes and Luiza Brina's vocals weave in and out of each others' so gently, grounding the aerial experience of the synths.**"**
+Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this track. With each measure, we're lifted a little higher off the ground. Chico Bernardes and Luiza Brina's vocals weave in and out of each others' so gently, the most pleasant anchor for the aerial experience offered by the instrumentals. Love the departure into slightly more saturated, buffering instrumentals toward the end.**"**
 
 ## Nala Sinephro - Space 5
 Sarah: **"**Coming from her first album released on Warp Records, this London-based artist shapes sound as a sculptor would work with clay. Jazz and ambient making love together, I've been waiting to hear something like this for a while and each track is a perfect gem. There's no need for VR by lord Mark when one has such an imagination opener. An artist to watch closely, the beginning of a beautiful story.**"**
