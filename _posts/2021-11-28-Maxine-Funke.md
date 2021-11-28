@@ -28,6 +28,7 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track4.mp3'
 track7_title: Maxine Funke - Homage
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/472/track7.mp3'
+track5_title: Howie Lee - Birdy Island
 ---
 <p id="introduction"> This morning, we welcome our guest [Lael Neale](https://laelneale.bandcamp.com/album/acquainted-with-night) with a delicate and pacifying MailTape. This calming selection is an invitation to slow down, a guided introspection as we truly listen to both the music and ourselves.
 <br><br>
@@ -62,8 +63,8 @@ Sarah: **"**Maxine Funke's work has such a peaceful quality surrounding it, espe
 ## Luiza Brina Chico Bernardes - Garrafa ao Mar
 Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this track. With each measure, we're lifted a little higher off the ground. Chico Bernardes and Luiza Brina's vocals weave in and out of each others' so gently, the most pleasant anchor for the aerial experience offered by the instrumentals. Love the departure into slightly more saturated, buffering instrumentals toward the end.**"**
 
-## Nala Sinephro - Space 5
-Sarah: **"**Coming from her first album released on Warp Records, this London-based artist shapes sound as a sculptor would work with clay. Jazz and ambient making love together, I've been waiting to hear something like this for a while and each track is a perfect gem. There's no need for VR by lord Mark when one has such an imagination opener. An artist to watch closely, the beginning of a beautiful story.**"**
+## [Howie Lee](https://howielee.bandcamp.com/album/birdy-island) - Birdy Island
+Sarah: **"**Such a rich composition, the namesake of Howie Lee's 2021 album. Love the combination of Chinese traditional folk and electronic experimentation. At once organic and somehow synthetic, Howie Lee creates an entire ecosystem before our ears, with a vocal section fit for the treetops. The synths grow up and around us like tree branches, held fast by the colorful percussives lining each measure.**"**
 
 ## Maxine Funke - Homage
 Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this playlist.**"**
