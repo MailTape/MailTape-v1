@@ -63,7 +63,7 @@ Maxine Funke: **"**ship building, just an old favourite of mine. It really trans
 # MailTape's selection
 
 ## Maxine Funke - Equinox
-Sarah: **"**Maxine Funke's work has such a peaceful quality surrounding it, especially fitting for a song written about the restful hours of the morning. Her voice cradles the very air it traverses, balancing the rounded dissonances of her guitar's melodies. In her description of the release, Maxine also explains that while writing this sortie, she felt struck by the hymn [Be Still My Soul](https://www.youtube.com/watch?v=hqgC1tqifV8) and several Robert Louis Stevenson poems.  **"**
+Sarah: **"**Maxine Funke's work has such a peaceful quality surrounding it, especially fitting for a song written about the restful hours of the morning. Her voice cradles the very air it traverses, balancing the rounded dissonances of her guitar's melodies :)**"**
 
 ## Luiza Brina Chico Bernardes - Garrafa ao Mar
 Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this track. With each measure, we're lifted a little higher off the ground. Chico Bernardes and Luiza Brina's vocals weave in and out of each others' so gently, the most pleasant anchor for the aerial experience offered by the instrumentals. Love the departure into slightly more saturated, buffering instrumentals toward the end.**"**
@@ -72,6 +72,6 @@ Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this 
 Sarah: **"**Such a rich composition, the namesake of Howie Lee's 2021 album. Love the combination of Chinese traditional folk and electronic experimentation. At once organic and somehow synthetic, Howie Lee creates an entire ecosystem before our ears, with a vocal section fit for the treetops. The synths grow up and around us like tree branches, held fast by the colorful percussives lining each measure.**"**
 
 ## Maxine Funke - Homage
-Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of Maxine's 2021 album, Séance. So much beauty in such simplicity. With the world of sound that Maxine Funke creates, it's easy to forget this track just contains a guitar and a single voice.**"**
+Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of Maxine's 2021 album, Séance. So much beauty in such simplicity. With the wonderuful world of sound that Maxine Funke creates, it's easy to forget this track just contains a guitar and a single voice :)**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and Meriam Kharbat for her splendid illustration.</p>
