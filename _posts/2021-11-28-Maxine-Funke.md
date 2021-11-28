@@ -72,6 +72,6 @@ Sarah: **"**The sweeping synths bring a delicate, yet celestial quality to this 
 Sarah: **"**Such a rich composition, the namesake of Howie Lee's 2021 album. Love the combination of Chinese traditional folk and electronic experimentation. At once organic and somehow synthetic, Howie Lee creates an entire ecosystem before our ears, with a vocal section fit for the treetops. The synths grow up and around us like tree branches, held fast by the colorful percussives lining each measure.**"**
 
 ## Maxine Funke - Homage
-Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. Off of the 2021 album, Séance. Love the strong whisper of the vocals. The **"**
+Sarah: **"**Couldn't resist adding another Maxine Funke release to round out this peaceful playlist. One of my favorites off of Maxine's 2021 album, Séance. So much beauty in such simplicity. With the world of sound that Maxine Funke creates in this track, it's easy to forget the track just contains a guitar and a single voice.**"**
 
 <p id="outroduction">That's all for this morning! Thank you so much for being with us. So much love to Lael Neale for her meditative Sunday selections and Meriam Kharbat for her splendid illustration.</p>
