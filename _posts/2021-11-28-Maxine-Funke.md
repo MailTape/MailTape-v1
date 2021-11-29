@@ -37,6 +37,7 @@ description: >-
   Based in New Zealand, multi instrumentalist Maxine Funke crafts each album
   with meditative care. Every release in the discography lands its own
   distinctive emotional exploration, at once tender and consuming.
+illustrator: Meriam Kharbat
 ---
 <p id="introduction"> This morning, we are delighted to welcome [Maxine Funke](https://maxinefunke1.bandcamp.com/music) to MailTape for a peaceful selection, crafted carefully to lift you on your way this Sunday. 
 <br><br>
