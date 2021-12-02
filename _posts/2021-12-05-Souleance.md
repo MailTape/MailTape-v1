@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: José Gonzalez - Line of Fire
+track1_color: vibrant
+track2_title: 'Eddie Chacon - My Mind is Out of its Mind '
+track2_color: dreamy
+track3_title: 'Frank Ocean - Cayendo '
+track3_color: vibrant
+track4_title: 'Souleance - '
 ---
 <p id="introduction"> This morning,
 
