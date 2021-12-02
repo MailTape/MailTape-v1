@@ -9,6 +9,7 @@ track2_color: dreamy
 track3_title: 'Frank Ocean - Cayendo '
 track3_color: vibrant
 track4_title: 'Souleance - '
+track4_color: bliss
 ---
 <p id="introduction"> This morning,
 
