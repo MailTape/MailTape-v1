@@ -50,7 +50,7 @@ Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape"
 Anaïs G: **"**Restons dans la folie et la passion de la musique avec un autre groupe, BadBadNotGood. Un titre assez jazzy, groovy et fou, découvert récemment, qui m'a totalement surpris et emporté vers d'autres univers, comme ils savent si bien le faire.**"**
 
 ##  - 
-Anaïs G: **"** **"**
+Anaïs G: **"**On redescend d'un cran dans la folie avec Caribou. De la douceur maitrisé,  **"**
 
 ##  - 
 Anaïs G: **"** **"**
