@@ -20,7 +20,7 @@ episode_URL: 'http://mailta.pe/473/souleance/'
 image: 'https://mailta.pe/img/fbPic473.png'
 musiColor: musiColor473.png
 ---
-<p id="introduction"> This morning, le froid nous gèle l'esprit et la pluie nous met le moral dans les chausettes. Heureusement, pour chasser toutes ses ondes négatives, nous avons la sélection du groupe Souleance. Du smoothie, du solaire et de la good vibes en profusion pour contrer cette hiver qui arrive à grand pas. 
+<p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 <br><br>
 Souleance, 
 
@@ -44,15 +44,15 @@ Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel l
 # MailTape's selection
 
 ## Souleance - Mont Maudit
-Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape" et leur titre "Californie", un bijou musicale qui donne envie de se prélasser au soleil et où la sensualité est reine. Depuis cette album, je suis de très près ce duo composé de Soulist et Fulgeance. Dernièrement ils nous ont étonné avec des reprises réunionnaises avec "P'it Séga" mais surtout avec la sortie de leur dernier EP "Les Mouches", sous le label First Word Records. Même si c'est Aquarelle que nous avons le plus écouté, Mont Maudit est l'un de mes préférés.**"**
+Anaïs G: **"**I discovered Souleance in 2013, with their album “La Beat Tape” and their title “Californie”, a musical gem that makes you want to bask in the sun and where sensuality is king. Since this album, I have been following this duo composed of Soulist and Fulgeance very closely. Lately they surprised us with Reunion covers with “P’it Séga” but especially with the release of their latest EP “Les Mouches”, under the label First Word Records. Even though it was Aquarelle that we listened to the most, Mont Maudit is one of my favorites.**"**
 
 ## BadBadNotGood - Confessions PT II Feat Colin Stetson
-Anaïs G: **"**Restons dans la folie et la passion de la musique avec un autre groupe, BadBadNotGood. Un titre assez jazzy, groovy et fou, découvert récemment, qui m'a totalement surpris et emporté vers d'autres univers, comme ils savent si bien le faire.**"**
+Anaïs G: **"**Let’s stay in the madness and passion of music with another band, BadBadNotGood. A rather jazzy, groovy and crazy title, discovered recently, that totally surprised me and took me to other worlds, as they know how to do so well.**"**
 
 ## Caribou - Magpie 
-Anaïs G: **"**On redescend d'un cran dans la folie avec Caribou.Une musique électronique maitrisée, de la douceur et de la fraîcheur, le canadien Dan Snaith nous étonne une fois de plus dans son dernier album "Suddendly" par sa grandeur musicale.**"**
+Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered electronic music, sweetness and freshness, Canadian Dan Snaith surprises us once again in his latest album “Suddendly” by his musical grandeur.**"**
 
 ##  Sampa the Great - Rhymes To The East 
-Anaïs G: **"**On finit avec la grande Sampa The Great, avec un titre rap mais pas trop, histoire de bien se caler pour la fin de cette sélection coloré, solaire et remplie de good vibes.**"**
+Anaïs G: **"**We finish with the great Sampa The Great, with a rap title but not too much, just to settle for the end of this colorful selection, sunny and full of good vibes.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
