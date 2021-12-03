@@ -50,7 +50,7 @@ Anaïs G: **"**Let’s stay in the madness and passion of music with another ban
 ## [Caribou](https://soundcloud.com/caribouband) - Magpie 
 Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered electronic music, sweetness and freshness, Canadian Dan Snaith surprises us once again in his latest album “[Suddendly](https://soundcloud.com/caribouband/sets/suddenly-47811653)” by his musical grandeur.**"**
 
-##  Sampa the Great - Rhymes To The East 
+##  [Sampa the Great](https://www.sampathegreat.com/) - Rhymes To The East 
 Anaïs G: **"**We finish with the great Sampa The Great, with a rap title but not too much, just to settle for the end of this colorful selection, sunny and full of good vibes.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
