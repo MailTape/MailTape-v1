@@ -50,9 +50,9 @@ Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape"
 Anaïs G: **"**Restons dans la folie et la passion de la musique avec un autre groupe, BadBadNotGood. Un titre assez jazzy, groovy et fou, découvert récemment, qui m'a totalement surpris et emporté vers d'autres univers, comme ils savent si bien le faire.**"**
 
 ##  - 
-Anaïs G: **"**On redescend d'un cran dans la folie avec Caribou. Une musique électronique maitrisée, de la douceur et de la fraîcheur  **"**
+Anaïs G: **"**On redescend d'un cran dans la folie avec Caribou.Une musique électronique maitrisée, de la douceur et de la fraîcheur, le canadien Dan Snaith nous étonne une fois de plus dans son dernier album "Suddendly" par sa grandeur musicale.**"**
 
 ##  - 
 Anaïs G: **"** **"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Remi Parson for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
