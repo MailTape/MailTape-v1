@@ -8,8 +8,17 @@ track2_title: 'Eddie Chacon - My Mind is Out of its Mind '
 track2_color: dreamy
 track3_title: 'Frank Ocean - Cayendo '
 track3_color: vibrant
-track4_title: 'Souleance - '
+track4_title: Souleance - Mont Maudit
 track4_color: bliss
+track5_title: BadBadNotGood - Confessions pt || feat Colin Stetson
+track5_color: trippy
+track7_title: 'Sampa The Great - '
+track7_color: bliss
+track6_title: Caribou - Magpie
+track6_color: dreamy
+episode_URL: 'http://mailta.pe/473/souleance/'
+image: 'https://mailta.pe/img/fbPic473.png'
+musiColor: musiColor473.png
 ---
 <p id="introduction"> This morning,
 
