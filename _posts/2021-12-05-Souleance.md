@@ -35,14 +35,14 @@ Souleance: **"**What and Artist this guy is . For A A Sunday mood I will pick al
 ## [Eddie Chacon](https://eddiechacon.com/) - My Mind is Out of its Mind
 Souleance: **"**Discovered with the very talented [John Caroll Kirby](https://johncarrollkirby.com/) ([Stonesthrow Records](https://www.stonesthrow.com/)) we just love Eddie’s crooner’s voice and his magical sound throughout his album. Known in the 80’s for hit Hit “Would I lie to you” under the alias of Charles & Eddie, he has just made an Lp called “Pleasure, Joy and Happiness” that we strongly recommend with a good Hi-fi sound system, a good glass of wine or a good Cocktail.**"**
 
-## Frank Ocean - Cayendo
+## [Frank Ocean](https://blonded.co/) - Cayendo
 Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel like we are in a road movie. It just makes you Float.**"**
 
 
 # MailTape's selection
 
 ## Souleance - Mont Maudit
-Anaïs G: **"**I discovered Souleance in 2013, with their album “La Beat Tape” and their title “Californie”, a musical gem that makes you want to bask in the sun and where sensuality is king. Since this album, I have been following this duo composed of Soulist and Fulgeance very closely. Lately they surprised us with Reunion covers with “P’it Séga” but especially with the release of their latest EP “Les Mouches”, under the label First Word Records. Even though it was Aquarelle that we listened to the most, Mont Maudit is one of my favorites.**"**
+Anaïs G: **"**I discovered Souleance in 2013, with their album “[La Beat Tape](https://souleance.bandcamp.com/album/la-beat-tape)” and their title “[Californie](https://souleance.bandcamp.com/album/la-beat-tape)”, a musical gem that makes you want to bask in the sun and where sensuality is king. Since this album, I have been following this duo composed of Soulist and Fulgeance very closely. Lately they surprised us with Reunion covers with “[P’it Séga](https://souleance.bandcamp.com/album/pti-sega-ep)” but especially with the release of their latest EP “[Les Mouches](https://souleance.bandcamp.com/album/les-mouches)”, under the label [First Word Records](http://www.firstwordrecords.com/). Even though it was "[Aquarelle](https://souleance.bandcamp.com/album/les-mouches)" that we listened to the most, "[Mont Maudit](https://souleance.bandcamp.com/album/les-mouches)" is one of my favorites.**"**
 
 ## BadBadNotGood - Confessions PT II Feat Colin Stetson
 Anaïs G: **"**Let’s stay in the madness and passion of music with another band, BadBadNotGood. A rather jazzy, groovy and crazy title, discovered recently, that totally surprised me and took me to other worlds, as they know how to do so well.**"**
