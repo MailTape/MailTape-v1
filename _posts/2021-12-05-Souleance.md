@@ -44,7 +44,7 @@ Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel l
 # MailTape's selection
 
 ## Souleance - Mont Maudit
-Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape" et leur titre "Californie", un bijou musicale qui donne envie de se prélasser au soleil et où la sensualité est reine. Depuis cette album, je suis de très près ce duo composé de Soulist et Fulgeance. Dernièrement ils nous ont étonné avec des reprises réunionnaises avec "P'it Séga" mais surtout avec la sortie de leur dernier EP "Les Mouches", sous le label First Word Records   **"**
+Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape" et leur titre "Californie", un bijou musicale qui donne envie de se prélasser au soleil et où la sensualité est reine. Depuis cette album, je suis de très près ce duo composé de Soulist et Fulgeance. Dernièrement ils nous ont étonné avec des reprises réunionnaises avec "P'it Séga" mais surtout avec la sortie de leur dernier EP "Les Mouches", sous le label First Word Records. Même si c'est Aquarelle que nous avons le plus écouté, Mont Maudit est l'un de mes préférés.**"**
 
 ## - 
 Anaïs G: **"** **"**
