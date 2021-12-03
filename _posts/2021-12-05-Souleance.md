@@ -44,11 +44,11 @@ Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel l
 ## Souleance - Mont Maudit
 Anaïs G: **"**I discovered Souleance in 2013, with their album “[La Beat Tape](https://souleance.bandcamp.com/album/la-beat-tape)” and their title “[Californie](https://souleance.bandcamp.com/album/la-beat-tape)”, a musical gem that makes you want to bask in the sun and where sensuality is king. Since this album, I have been following this duo composed of [Soulist](https://www.facebook.com/soulistofficial/) and [Fulgeance](https://www.facebook.com/fulgeancebeats/) very closely. Lately they surprised us with Reunion covers with “[P’it Séga](https://souleance.bandcamp.com/album/pti-sega-ep)” but especially with the release of their latest EP “[Les Mouches](https://souleance.bandcamp.com/album/les-mouches)”, under the label [First Word Records](http://www.firstwordrecords.com/). Even though it was "[Aquarelle](https://souleance.bandcamp.com/album/les-mouches)" that we listened to the most, "[Mont Maudit](https://souleance.bandcamp.com/album/les-mouches)" is one of my favorites.**"**
 
-## BadBadNotGood - Confessions PT II Feat Colin Stetson
+## [BadBadNotGood](https://badbadnotgood.bandcamp.com/) - Confessions PT II Feat [Colin Stetson](https://www.colinstetson.com/)
 Anaïs G: **"**Let’s stay in the madness and passion of music with another band, BadBadNotGood. A rather jazzy, groovy and crazy title, discovered recently, that totally surprised me and took me to other worlds, as they know how to do so well.**"**
 
-## Caribou - Magpie 
-Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered electronic music, sweetness and freshness, Canadian Dan Snaith surprises us once again in his latest album “Suddendly” by his musical grandeur.**"**
+## [Caribou](https://soundcloud.com/caribouband) - Magpie 
+Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered electronic music, sweetness and freshness, Canadian Dan Snaith surprises us once again in his latest album “[Suddendly](https://soundcloud.com/caribouband/sets/suddenly-47811653)” by his musical grandeur.**"**
 
 ##  Sampa the Great - Rhymes To The East 
 Anaïs G: **"**We finish with the great Sampa The Great, with a rap title but not too much, just to settle for the end of this colorful selection, sunny and full of good vibes.**"**
