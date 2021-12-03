@@ -46,13 +46,13 @@ Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel l
 ## Souleance - Mont Maudit
 Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape" et leur titre "Californie", un bijou musicale qui donne envie de se prélasser au soleil et où la sensualité est reine. Depuis cette album, je suis de très près ce duo composé de Soulist et Fulgeance. Dernièrement ils nous ont étonné avec des reprises réunionnaises avec "P'it Séga" mais surtout avec la sortie de leur dernier EP "Les Mouches", sous le label First Word Records. Même si c'est Aquarelle que nous avons le plus écouté, Mont Maudit est l'un de mes préférés.**"**
 
-## - 
+## BadBadNotGood - Confessions PT II Feat Colin Stetson
 Anaïs G: **"**Restons dans la folie et la passion de la musique avec un autre groupe, BadBadNotGood. Un titre assez jazzy, groovy et fou, découvert récemment, qui m'a totalement surpris et emporté vers d'autres univers, comme ils savent si bien le faire.**"**
 
-##  - 
+## Caribou - Magpie 
 Anaïs G: **"**On redescend d'un cran dans la folie avec Caribou.Une musique électronique maitrisée, de la douceur et de la fraîcheur, le canadien Dan Snaith nous étonne une fois de plus dans son dernier album "Suddendly" par sa grandeur musicale.**"**
 
-##  - 
-Anaïs G: **"** **"**
+##  Sampa the Great - Rhymes To The East 
+Anaïs G: **"**On finit avec la grande Sampa The Great, avec un titre rap mais pas trop, histoire de bien se caler pour la fin de cette sélection coloré, solaire et remplie de good vibes.**"**
 
 <p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
