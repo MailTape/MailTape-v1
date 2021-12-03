@@ -32,10 +32,8 @@ musiColor: musiColor473.png
 ## [José Gonzalez](http://jose-gonzalez.com/) - Line of Fire
 Souleance: **"**What and Artist this guy is . For A A Sunday mood I will pick almost any track of José Gonzales, his sense of poetry is unique, this one from his last album looks so simple and yet it’s beautiful.**"**
 
-## Eddie Chacon - My Mind is Out of its Mind
-Souleance: **"**Discovered with the very talented John Caroll Kirby (Stonesthrow Records)
-we just love Ediie’s crooner’s voice and his magical sound throughout his album.
-Known in the 80’s for hit Hit “Would I lie to you” under the alias of Charles & Eddie, he has just made an Lp called “Pleasure, Joy and Happiness” that we strongly recommend with a good Hi-fi sound system, a good glass of wine or a good Cocktail.**"**
+## [Eddie Chacon](https://eddiechacon.com/) - My Mind is Out of its Mind
+Souleance: **"**Discovered with the very talented [John Caroll Kirby](https://johncarrollkirby.com/) ([Stonesthrow Records](https://www.stonesthrow.com/)) we just love Eddie’s crooner’s voice and his magical sound throughout his album. Known in the 80’s for hit Hit “Would I lie to you” under the alias of Charles & Eddie, he has just made an Lp called “Pleasure, Joy and Happiness” that we strongly recommend with a good Hi-fi sound system, a good glass of wine or a good Cocktail.**"**
 
 ## Frank Ocean - Cayendo
 Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel like we are in a road movie. It just makes you Float.**"**
