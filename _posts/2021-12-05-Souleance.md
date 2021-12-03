@@ -20,9 +20,9 @@ episode_URL: 'http://mailta.pe/473/souleance/'
 image: 'https://mailta.pe/img/fbPic473.png'
 musiColor: musiColor473.png
 ---
-<p id="introduction"> This morning,
-
+<p id="introduction"> This morning, le froid nous gèle l'esprit et la pluie nous met le moral dans les chausettes. Heureusement, pour chasser toutes ses ondes négatives, nous avons la sélection du groupe Souleance. Du smoothie, du solaire et de la good vibes en profusion pour contrer cette hiver qui arrive à grand pas. 
 <br><br>
+Souleance, 
 
 </p>
 
