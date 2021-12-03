@@ -47,7 +47,7 @@ Souleance: **"**The powerful ans Subltle atmosphere of this tune makes us feel l
 Anaïs G: **"**J'ai découvert Souleance en 2013, avec leur album "La Beat Tape" et leur titre "Californie", un bijou musicale qui donne envie de se prélasser au soleil et où la sensualité est reine. Depuis cette album, je suis de très près ce duo composé de Soulist et Fulgeance. Dernièrement ils nous ont étonné avec des reprises réunionnaises avec "P'it Séga" mais surtout avec la sortie de leur dernier EP "Les Mouches", sous le label First Word Records. Même si c'est Aquarelle que nous avons le plus écouté, Mont Maudit est l'un de mes préférés.**"**
 
 ## - 
-Anaïs G: **"** **"**
+Anaïs G: **"**Restons dans la folie et la passion de la musique avec un autre groupe, BadBadNotGood. Un titre assez jazzy, groovy et fou, découvert récemment, qui m'a totalement surpris et emporté vers d'autres univers, comme ils savent si bien le faire.**"**
 
 ##  - 
 Anaïs G: **"** **"**
