@@ -27,9 +27,10 @@ guest_name: Souleance
 guest_color: bliss
 guestPic: guetPic473
 ---
-<p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group [Souleance](https://souleance.bandcamp.com/). Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
-<br><br>
-[Souleance](https://www.facebook.com/souleance/),It’s the association between producer Fulgeance and Dj Soulist. A nice mix that leads to an energetic and solar music mixing Afro-tropical, hip-hop, soul rhythms . . . So much possibility that the band manages to surprise us with every EP release. Their latest, “[Les Mouches](https://souleance.bandcamp.com/album/les-mouches)”, released in May 2020, is a return to the roots of machines and funk.
+<p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
+<br></br>
+Souleance, It’s the association between producer Fulgeance and Dj Soulist. A nice mix that leads to an energetic and solar music mixing Afro-tropical, hip-hop, soul rhythms . . . So much possibility that the band manages to surprise us with every EP release. Their latest, “Les Mouches, released in May 2020, is a return to the roots of machines and funk.
+![fbPic473.png]({{site.baseurl}}/img/fbPic473.png)
 </p>
 
 
