@@ -19,6 +19,13 @@ track6_color: dreamy
 episode_URL: 'http://mailta.pe/473/souleance/'
 image: 'https://mailta.pe/img/fbPic473.png'
 musiColor: musiColor473.png
+writer: Anaïs G
+illustrator: Camille Célestin
+author: Anaïs G
+category: '473'
+guest_name: Souleance
+guest_color: bliss
+guestPic: guetPic473
 ---
 <p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group [Souleance](https://souleance.bandcamp.com/). Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 <br><br>
