@@ -53,4 +53,4 @@ Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered 
 ##  [Sampa the Great](https://www.sampathegreat.com/) - Rhymes To The East 
 Anaïs G: **"**We finish with the great Sampa The Great, with a rap title but not too much, just to settle for the end of this colorful selection, sunny and full of good vibes.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to Camille Célestin for this episode's brilliant illustration.</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration.</p>
