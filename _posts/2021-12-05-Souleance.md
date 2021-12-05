@@ -33,6 +33,11 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track7.mp3'
+description: >-
+  This morning, the cold freezes our minds and the rain makes us feel bad.
+  Fortunately, to chase away all its negative waves, we have the selection of
+  the group Souleance. Smoothie, sunshine and good vibes in abundance to counter
+  this winter that is fast approaching.
 ---
 <p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 <br><br>
