@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: José Gonzalez - Line of Fire
 track1_color: vibrant
 track2_title: 'Eddie Chacon - My Mind is Out of its Mind '
