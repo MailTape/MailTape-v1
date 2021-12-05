@@ -39,7 +39,7 @@ description: >-
   the group Souleance. Smoothie, sunshine and good vibes in abundance to counter
   this winter that is fast approaching.
 ---
-<p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group Souleance. Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
+<p id="introduction"> This morning, the cold freezes our minds and the rain makes us feel bad. Fortunately, to chase away all its negative waves, we have the selection of the group [Souleance](https://souleance.bandcamp.com/). Smoothie, sunshine and good vibes in abundance to counter this winter that is fast approaching.
 <br><br>
 Souleance, It’s the association between producer Fulgeance and Dj Soulist. A nice mix that leads to an energetic and solar music mixing Afro-tropical, hip-hop, soul rhythms... So much possibility that the band manages to surprise us with every EP release. Their latest, “Les Mouches, released in May 2020, is a return to the roots of machines and funk.
 </p>
@@ -71,4 +71,4 @@ Anaïs G: **"**We’re going down a notch into madness with Caribou. A mastered 
 ##  [Sampa the Great](https://www.sampathegreat.com/) - Rhymes To The East 
 Anaïs G: **"**We finish with the great Sampa The Great, with a rap title but not too much, just to settle for the end of this colorful selection, sunny and full of good vibes.**"**
 
-<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to Souleance for the delightful Sunday selections and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration.</p>
+<p id="outroduction">That's all for this morning! As always, thank you so much for listening with us. So much love to [Souleance](https://souleance.bandcamp.com/) for the delightful Sunday selections and to [Camille Célestin](https://camillecelestin.com/) for this episode's brilliant illustration.</p>
