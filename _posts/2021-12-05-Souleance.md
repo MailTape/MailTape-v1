@@ -12,7 +12,7 @@ track4_title: Souleance - Mont Maudit
 track4_color: bliss
 track5_title: BadBadNotGood - Confessions pt || feat Colin Stetson
 track5_color: trippy
-track7_title: 'Sampa The Great - '
+track7_title: 'Sampa The Great - Rhymes To The East '
 track7_color: bliss
 track6_title: Caribou - Magpie
 track6_color: dreamy
