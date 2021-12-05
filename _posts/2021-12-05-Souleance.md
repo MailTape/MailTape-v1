@@ -25,7 +25,7 @@ author: Anaïs G
 category: '473'
 guest_name: Souleance
 guest_color: bliss
-guestPic: guetPic473
+guestPic: guetPic473.jpg
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/473/track3.mp3'
