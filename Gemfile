@@ -15,3 +15,6 @@ source "https://rubygems.org"
 #gem "sass"
 # gem "yui-compressor"
 gem "github-pages", group: :jekyll_plugins
+
+# Added at 2021-12-15 19:19:28 +0100 by pcfhstudio:
+gem "webrick", "~> 1.7"
