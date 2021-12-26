@@ -13,8 +13,7 @@ track1_color: bliss
 track2_link: 'https://soundcloud.com/artfeynman/im-gonna-miss-your-world'
 track2_title: Art Feynman - I'm Gonna Miss Your World
 track2_color: trippy
-track3_link: >-
-  https://soundcloud.com/modernefusion/ryuichi-sakamoto-merry-christmas-mr-lawrence
+track3_link: 'https://soundcloud.com/modernefusion/ryuichi-sakamoto-merry-christmas-mr-lawrence'
 track3_title: Ryuichi Sakamoto - Merry Christmas Mr. Lawrence
 track3_color: dreamy
 track4_link: 'https://soundcloud.com/geographierecs/insomniac'

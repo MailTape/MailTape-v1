@@ -8,11 +8,11 @@ writer: PS KY
 category: '445'
 guest_name: Mansfield.TYA
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track2.mp3'
-track3_link: 'https://soundcloud.com/vagelisvgls/lena-platonos-markos'
-track1_link: 'https://soundcloud.com/anikainvada/i-go-to-sleep'
-track4_link: 'https://soundcloud.com/mansfield-tya/une-danse-de-mauvais-gout-feat'
-track5_link: 'https://soundcloud.com/olaszmidt/ola-szmidt-c-tacile-afferent-master'
-track7_link: 'https://soundcloud.com/tygapaw/in-their-fear-they-plotted-1'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track1.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
 track1_title: Anika - I Go To Sleep
 track2_title: Erykah Badu - I Been Going Thru It All
