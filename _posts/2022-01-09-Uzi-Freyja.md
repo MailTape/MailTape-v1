@@ -65,17 +65,18 @@ It should take a year or two, but I think that one day he will be known as a gam
 
 # MailTape's selection
 
-## Rich Ruth - The Snag
+## Usi Freyja - Bang Bang
 ImaCrea: **"**xxx**"**
 
-## Nosaj Thing - No Mind (extended)
+## Blawan - Close the Cycle
 ImaCrea: **"**xxx**"**
 
-## Andy Stott - The Beginning
+## Strait Jacket - Dreamcast
+ImaCrea: **"**xxx**"**
+
+## Blarf - I Dunno
 ImaCrea: **"**xx**"**x
 
-## Dave Okumu - New Dawn
-ImaCrea: **"**xxx**"**
 
 
 <p id="outroduction">And... That's all for this morning! We'll take some vacation and enjoy our families. We see you again next year, in two weeks. Celebrate beautifully the end of the year. Thank you very much for listening along with us, it's been ten years of MailTape this year. So much love to Rich Ruth for his diverse and delicate Sunday selection and to [Thibault Daumain](https://thibaultdaumain.fr/) for his solar illustration.</p>
