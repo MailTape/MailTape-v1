@@ -78,5 +78,4 @@ ImaCrea: **"**Who said Sunday morning shouldn't be ecstatic? Let's feed that sou
 ImaCrea: **"**Another one from LA, fresh from the legendary house of [Stones Throw](https://www.stonesthrow.com/). The moment of truth. At this point either you love or hate this episode. In the second case, forget and retry at another moment ;) You might hear it differently after a few tries. Genius composition here.**"**x
 
 
-
-<p id="outroduction">And... That's all for this morning! We'll take some vacation and enjoy our families. We see you again next year, in two weeks. Celebrate beautifully the end of the year. Thank you very much for listening along with us, it's been ten years of MailTape this year. So much love to Rich Ruth for his diverse and delicate Sunday selection and to [Thibault Daumain](https://thibaultdaumain.fr/) for his solar illustration.</p>
+<p id="outroduction">And... That's all for this morning! Thanks to Uzi Freyja's boosting selection. At this point you should be well awaken for the year ahead! Big up to [Julie WOJTCZAK](https://www.instagram.com/julie_wo/) for her gorgeous illustration.</p>
