@@ -69,7 +69,7 @@ It should take a year or two, but I think that one day he will be known as a gam
 ImaCrea: **"**The beat, the flow. A cinematic travelling straight into Uzi Freyja's club. This is my favorite track from her album [Stand](https://uzifreyja.bandcamp.com/album/stand). With her energy, Kelly Rose exhort us to resist and say out it out loud and clear. Another warrior out in the wild.**"**
 
 ## Blawan - Close the Cycle
-ImaCrea: **"**xxx**"**
+ImaCrea: **"**Techno on a Sunday morning, no more need for coffee. Blawan reinvent the genre. His latest album, [Woke Up Right Handed](https://blawan.bandcamp.com/album/woke-up-right-handed), is some of the most interesting I've discovered recently. Creative techno at last!**"**
 
 ## Strait Jacket - Dreamcast
 ImaCrea: **"**xxx**"**
