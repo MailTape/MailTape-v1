@@ -29,7 +29,7 @@ track5_title: Blawan - Close the Cycle
 track6_title: Strait Jacket - Dreamcast
 track7_color: trippy
 track7_title: Blarf - I Dunno
+guestPic: guestPic476.jpg
 ---
-## A New Post
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
