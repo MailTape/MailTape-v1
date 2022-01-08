@@ -31,5 +31,34 @@ track7_color: trippy
 track7_title: Blarf - I Dunno
 guestPic: guestPic476.jpg
 ---
+<p id="introduction"> 
+This Sunday, we're extremely happy to start a new year of music discoveries with you and with Uzi Freyja. Prepare for an intense session, a crescendo of energy and vivacity. Music has and always be here, universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
+</p>
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+# Uzi Freyja's selection
+
+##  Harold Budd - Bismillahi 'Rrahman 'Rrahim
+Rich Ruth: **"**xxx**"**
+
+## Joseph Shabason - Aytche
+Rich Ruth: **"**xxxx**"**
+
+## Chhun Vanna - I Love Only You
+Rich Ruth: **"**xxx"**"**
+
+# MailTape's selection
+
+## Rich Ruth - The Snag
+ImaCrea: **"**xxx**"**
+
+## Nosaj Thing - No Mind (extended)
+ImaCrea: **"**xxx**"**
+
+## Andy Stott - The Beginning
+ImaCrea: **"**xx**"**x
+
+## Dave Okumu - New Dawn
+ImaCrea: **"**xxx**"**
+
+
+<p id="outroduction">And... That's all for this morning! We'll take some vacation and enjoy our families. We see you again next year, in two weeks. Celebrate beautifully the end of the year. Thank you very much for listening along with us, it's been ten years of MailTape this year. So much love to Rich Ruth for his diverse and delicate Sunday selection and to [Thibault Daumain](https://thibaultdaumain.fr/) for his solar illustration.</p>
