@@ -61,7 +61,7 @@ After hearing a few songs, I had the same feeling as with Atlanta artist 645ar b
 
 He is a rough lyricist, speaking about fact and street life, but the part I really love is his beats choice : its always changing, never sleeping on a wave, most of those are hybrids between electronic, jungle, trap and weird rythms, always with grimey recording, as in the track I chose. He works on every part of his carreer, which really adds to his punk/self made style.
 
-It should take a year or two, but I think that one day he will be known as a game changer."**"**
+It should take a year or two, but I think that one day he will be known as a game changer.**"**
 
 # MailTape's selection
 
