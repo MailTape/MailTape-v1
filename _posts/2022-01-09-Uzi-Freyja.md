@@ -69,13 +69,13 @@ It should take a year or two, but I think that one day he will be known as a gam
 ImaCrea: **"**The beat, the flow. A cinematic travelling straight into Uzi Freyja's club. This is my favorite track from her album [Stand](https://uzifreyja.bandcamp.com/album/stand). With her energy, Kelly Rose exhort us to resist and say out it out loud and clear. Another warrior out in the wild.**"**
 
 ## Blawan - Close the Cycle
-ImaCrea: **"**Techno on a Sunday morning, no more need for coffee. Blawan reinvent the genre. His latest album, [Woke Up Right Handed](https://blawan.bandcamp.com/album/woke-up-right-handed), is some of the most interesting I've discovered recently. Creative techno at last!**"**
+ImaCrea: **"**Now we're here, let's push a bit further. Techno on a Sunday morning, no more need for coffee. Blawan keeps reinventing the genre. His latest album, [Woke Up Right Handed](https://blawan.bandcamp.com/album/woke-up-right-handed), is some of the most interesting music I've discovered recently. Creative techno at last!**"**
 
-## Strait Jacket - Dreamcast
-ImaCrea: **"**xxx**"**
+## [Strait Jacket](https://laurarecs.bandcamp.com/album/l-a-u-r-a-004-guiding-light) - Dreamcast
+ImaCrea: **"**Who said Sunday morning shouldn't be ecstatic? Let's feed that soul, 100% authentic vibes direct from Los Angeles.**"**
 
-## Blarf - I Dunno
-ImaCrea: **"**xx**"**x
+## [Blarf](https://blarf.bandcamp.com/releases) - Boom Ba
+ImaCrea: **"**Another one from LA, fresh from the legendary house of [Stones Throw](https://www.stonesthrow.com/). The moment of truth. At this point either you love or hate this episode. In the second case, forget and retry at another moment ;) You might hear it differently after a few tries.**"**x
 
 
 
