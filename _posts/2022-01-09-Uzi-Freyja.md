@@ -30,9 +30,20 @@ track6_title: Strait Jacket - Dreamcast
 track7_color: trippy
 track7_title: Blarf - I Dunno
 guestPic: guestPic476.jpg
+episode_URL: 'https://mailta.pe/476/Uzi-Freyja/'
+image: 'https://mailta.pe/img/fbPic476.png'
+musiColor: musiColor476.png
+description: >-
+  This Sunday, we're extremely happy to start a new year of music discoveries
+  with you and with Uzi Freyja. Coming from the house of WARRIORECCORDS
+  (Mansfield.TYA, Maud Geffray...), prepare for an intense session, a crescendo
+  of energy and vivacity. Music is a universal language from hearts to hearts. A
+  vibration in the air, a light in the darkness. Let's keep that fire strong and
+  alive, here and present. D a n c e. D a n c e. Dnce. Dce. D. DaNcE* d ddd daa
+  ddA n Cccc ē.
 ---
 <p id="introduction"> 
-This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Coming from the house of WARRIORECCORDS ([Mansfield.TYA](https://www.mailta.pe/445/mansfield-tya/), [Maud Geffray](https://www.mailta.pe/281/maud-geffray/)...), prepare for an intense session, a crescendo of energy and vivacity. Music is a universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
+This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Coming from the house of [WARRIORECCORDS](https://www.warriorecords.com/) ([Mansfield.TYA](https://www.mailta.pe/445/mansfield-tya/), [Maud Geffray](https://www.mailta.pe/281/maud-geffray/)...), prepare for an intense session, a crescendo of energy and vivacity. Music is a universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
 </p>
 
 # Uzi Freyja's selection
