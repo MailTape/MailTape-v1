@@ -75,7 +75,7 @@ ImaCrea: **"**Now we're here, let's push a bit further. Techno on a Sunday morni
 ImaCrea: **"**Who said Sunday morning shouldn't be ecstatic? Let's feed that soul, 100% authentic vibes direct from Los Angeles.**"**
 
 ## [Blarf](https://blarf.bandcamp.com/releases) - Boom Ba
-ImaCrea: **"**Another one from LA, fresh from the legendary house of [Stones Throw](https://www.stonesthrow.com/). The moment of truth. At this point either you love or hate this episode. In the second case, forget and retry at another moment ;) You might hear it differently after a few tries.**"**x
+ImaCrea: **"**Another one from LA, fresh from the legendary house of [Stones Throw](https://www.stonesthrow.com/). The moment of truth. At this point either you love or hate this episode. In the second case, forget and retry at another moment ;) You might hear it differently after a few tries. Genius composition here.**"**x
 
 
 
