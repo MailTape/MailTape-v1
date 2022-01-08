@@ -32,7 +32,7 @@ track7_title: Blarf - I Dunno
 guestPic: guestPic476.jpg
 ---
 <p id="introduction"> 
-This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Prepare for an intense session, a crescendo of energy and vivacity. Music has and always be here, universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
+This Sunday, we're extremely happy to start a new year of music discoveries with you and with [Uzi Freyja](https://uzifreyja.bandcamp.com/album/stand). Coming from the house of WARRIORECCORDS ([Mansfield.TYA](https://www.mailta.pe/445/mansfield-tya/), [Maud Geffray](https://www.mailta.pe/281/maud-geffray/)...), prepare for an intense session, a crescendo of energy and vivacity. Music has and always be here, universal language from hearts to hearts. A vibration in the air, a light in the darkness. Let's keep that fire strong and alive, here and present. D a n c e. D  a  n   c     e. Dnce. Dce. D. DaNcE* d ddd daa ddA n Cccc ē.
 </p>
 
 # Uzi Freyja's selection
@@ -65,8 +65,8 @@ It should take a year or two, but I think that one day he will be known as a gam
 
 # MailTape's selection
 
-## Usi Freyja - Bang Bang
-ImaCrea: **"**xxx**"**
+## Uzi Freyja - Bang Bang
+ImaCrea: **"**The beat, the flow. A cinematic travelling straight into Uzi Freyja's club. This is my favorite track from her album [Stand](https://uzifreyja.bandcamp.com/album/stand). With her energy, Kelly Rose exhort us to resist and say out it out loud and clear. Another warrior out in the wild.**"**
 
 ## Blawan - Close the Cycle
 ImaCrea: **"**xxx**"**
