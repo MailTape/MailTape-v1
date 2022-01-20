@@ -31,9 +31,9 @@ track6_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track6.mp3'
 track7_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track7.mp3'
 track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
 ---
-<p id="introduction"> This morning, we wake up with some grooves with [Temple Rat].(https://www.instagram.com/meiyuxinmay)
+<p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
 <br><br>
-It's time to get out of bed, or it's not yet time to go to bed, time to go out for a jog or go shouting at a demonstration. Anyway, the Parisian DJ and techno music producer, who is never mentioned in the media without recalling her young age and her precocity, has energy to spare. u.r.trax's music cultivates the paradox between introspective themes that evoke a generational existential crisis, just like her EP [MORAL KRISIS](https://hectoroaks.bandcamp.com/album/moral-krisis), and rhythms designed for large dark dancefloors which, in the time of health restrictions, sound like calls for action.
+IMei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
 </p>
 
 
