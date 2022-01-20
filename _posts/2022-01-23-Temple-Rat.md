@@ -8,7 +8,7 @@ guest_color: bliss
 track1_title: Chromatics - In The City
 track1_color: dreamy
 track2_title: Nightfall In Camp - Cada Día
-track2_color: trippy
+track2_color: dreamy
 track3_title: Ewan Jensen - Island Life
 track3_color: vibrant
 track4_title: Temple Rat - Deep Inside (Ryogo Yamamori’s Drum Remix)
