@@ -23,11 +23,11 @@ episode_URL: 'https://mailta.pe/478/Temple-Rat/'
 description: >-
   This morning, we cast away the misty, chilly air for a moment, and step inside
   the warm greenery that’s filled by a nostalgic sunbeam.
-track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track2.mp3'
-track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track3.mp3'
-track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track4.mp3'
-track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track5.mp3'
-track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track6.mp3'
-track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/478/track7.mp3'
+track2_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track2.mp3'
+track3_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track3.mp3'
+track4_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track4.mp3'
+track5_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track5.mp3'
+track6_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track6.mp3'
+track7_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track7.mp3'
 track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
 ---
