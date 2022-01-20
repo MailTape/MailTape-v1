@@ -33,8 +33,9 @@ track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
 ---
 <p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
 <br><br>
-IMei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
- Today with Mei’s groovy selection, we cast away the misty, chilly air for a moment, and step inside the warm greenery that’s filled by a nostalgic sunbeam.
+Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
+<br><br>
+Today with Mei’s groovy selection, we cast away the misty, chilly air for a moment, and step inside the warm greenery that’s filled by a nostalgic sunbeam.
 </p>
 
 
