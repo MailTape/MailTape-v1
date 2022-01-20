@@ -42,7 +42,7 @@ Today with Mei’s groovy selection, we cast away the misty, chilly air for a mo
 # Temple Rat's selection
 
 ## Unklevon - Sharping Shadow
-u.r.trax: **"**Unklevon is a French producer I really admire. He has the secret to make classy yet energetic electro bangers. Often, he adds a bit of his voice and it always works ! Lately, I've been opening my sets a lot with this track : very sexy and versatile. It oscillates between uplifting pads, impactant vocals and a very straightforward beat.**"**
+Temple Rat: **"**Old-fashioned but simply beautiful.**"**
 
 ## Eartheater, Tony Seltzer - Joyride
 u.r.trax: **"**Eartheater is a siren whispering to your ear. This artist's sonic range sweeps from ambient to trap and hyperpop. Her singing is so particular, and becomes even more magical when blended to futuristic productions. I've been obsessed with Joyride ever since it came out. Her voice makes me feel so many things !**"**
