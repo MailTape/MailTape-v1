@@ -18,7 +18,7 @@ track5_color: trippy
 track6_title: Laughing Ears - Blue Dusk
 track6_color: dreamy
 track7_title: Kaishandao - To the East Coast
-track7_color: vibrant
+track7_color: bliss
 episode_URL: 'https://mailta.pe/478/Temple-Rat/'
 description: >-
   This morning, we cast away the misty, chilly air for a moment, and step inside
