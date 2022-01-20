@@ -41,29 +41,29 @@ Today with Mei’s groovy selection, we cast away the misty, chilly air for a mo
 
 # Temple Rat's selection
 
-## Unklevon - Sharping Shadow
+## Chromatics - In The City
 Temple Rat: **"**Old-fashioned but simply beautiful.**"**
 
-## Eartheater, Tony Seltzer - Joyride
-u.r.trax: **"**Eartheater is a siren whispering to your ear. This artist's sonic range sweeps from ambient to trap and hyperpop. Her singing is so particular, and becomes even more magical when blended to futuristic productions. I've been obsessed with Joyride ever since it came out. Her voice makes me feel so many things !**"**
+## Nightfall In Camp - Cada Día
+Temple Rat: **"**I have loved this song since I was a student. Miami Neon era of the 80s-90s style.**"**
 
-## Sentimental Rave - Unreleased Love
-u.r.trax: **"**Sentimental Rave is maybe the artist with the purest soul i've ever met. First time I heard her live, she finished her set with one of her productions and I cried (lol). Her work on textures, rhythms, and her production methods are really impressive. But, the most amazing thing is how she sends pure emotion the second you listen to her tracks. The melody in this track almost reminds me of classical music !**"**
+## Ewan Jensen - Island Life
+u.r.trax: **"**Beautiful organic house.**"**
 
 
 # MailTape's selection
 
-## u.r.trax - Race Against The Time
-Jules: **"**Taken from u.r.trax's new EP ["U R TRA$H"](https://lobstertheremin.com/album/u-r-tra-h), released in September 2021 on the London-based label Lobster Theremin, this track, with its complex beat and its metallic and distressing synths, represents well the precocity, the desire and the urgency embodied by the music of the young Parisian producer. Maybe a little too hard for a Sunday morning, but do we still have time anyway?**"**
+## Temple Rat - [Deep Inside (Ryogo Yamamori’s Drum Remix)](https://kagerou.bandcamp.com/album/spring-dawn)
+Ling: **"**This was the first track I’ve listened to from Temple Rat when I was doing some digging on Bandcamp. Blending Chinese folk music with electronic components isn’t a combo that’s foreign to me, but the track set me off on an astral trip with its sensible purity. I’m a weak man to hand drums. The slowly building drums here are undergirded by Mei’s enchanting Erhu performance, like a stream of clear water flowing through shiny pebbles. It’s all fresh and blissful.**"**
 
-## [Simo Cell](https://simocell.bandcamp.com/) - Whispers
-Jules: **"**This track is an extract of the album "YES.DJ" released in September 2021. This album, published on Simo Cell's own label TEMƎT, is another celebration of dance music, dancefloors and DJing. While the clubs are once again closed, the concerts canceled and the artists in uncertainty, the French DJ/producer makes us explore here different styles of beats. Time to think of your new dance moves fro 2022.**"**
+## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
+Ling: **"**Again, here we have a Chinese traditional folk instrument that meets electronic sounds. Spacey electro bleeps are joined by Li’s intricate Pipa plucking. Layers of buzzing drones, Li’s additional vocal, and collaborator Rick Parker’s eerie sound of a trombone, pushes the track into its climax. Li Daiguo is a Chinese-American multi-instrumentalist who mixes instrumentation—both Western and Eastern, traditional and contemporary—in a manner that’s uncomplicated yet thoughtful, his works always grander than their discrete elements suggest.**"**
 
-## [Bambounou](https://bambounouofficial.bandcamp.com/) - Final Conference
-Jules: **"**2021 has been an important year for the Parisian DJ and producer Bambounou, with the launch of his new label Bambe. The first releases with imprints of ambient and tribal sounds, as well as the aesthetic of the label, represent well the new mature and resolutely modern space wanted by Bambounou, and impressed and inspired me a lot this year.**"**
+## Laughing Ears - [Blue Dusk](https://laughingears.bandcamp.com/album/blue-dusk)
+Ling: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
 
-## Asna - Atalaku
-Jules: **"**Last (but not least) of my great discoveries of last year, this track released on the label ["BLANC MANIOC"](https://blancmanioclabel.bandcamp.com/track/atalaku), a label exclusively dedicated to modern African electronic music which turned my head and my body up and down.**"**
+## Kaishandao - [To the East Coast](https://kaishandao.bandcamp.com/album/homeland)
+Ling: **"** Yet another producer from Chengdu. Her recent work reminds me of those IDM tunes from the 90s, such as Autechre, or Boards of Canada. It’s warm and fuzzy, just right for an opener, but with enough weight from grounded grooves to keep a floor steady. Kaishandao describes her recent LP as “a therapy cassette sent through a drum machine.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to u.r.trax for her energizing Sunday selections, and many thanks to Meriam Kherbat for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to ? for this episode's stunning illustration !</p>
