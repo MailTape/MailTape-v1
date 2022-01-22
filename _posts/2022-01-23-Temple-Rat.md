@@ -33,7 +33,7 @@ track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
 author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
-guestPic: templerat478.jpg
+guestPic: templerat478.jpeg
 ---
 ![templerat478.jpeg]({{site.baseurl}}/img/templerat478.jpeg)
 <p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
