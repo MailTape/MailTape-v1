@@ -33,7 +33,7 @@ track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
 author: Ling
 illustrator: Meriam Kharbat
 writer: Ling
-guestPic: templerat478.jpeg
+guestPic: templerat478.jpg
 ---
 ![templerat478.jpeg]({{site.baseurl}}/img/templerat478.jpeg)
 <p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
@@ -71,4 +71,4 @@ Ling: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for 
 Ling: **"** Yet another producer from Chengdu. Her recent work reminds me of those IDM tunes from the 90s, such as Autechre, or Boards of Canada. It’s warm and fuzzy, just right for an opener, but with enough weight from grounded grooves to keep a floor steady. Kaishandao describes her recent LP as “a therapy cassette sent through a drum machine.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to ? for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
