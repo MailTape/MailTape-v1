@@ -30,6 +30,9 @@ track5_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track5.mp3'
 track6_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track6.mp3'
 track7_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track7.mp3'
 track1_link: 'https://s3.eu-central-1.wasabisys.com/mtsounds/478/track1.mp3'
+author: Ling
+illustrator: Meriam Kharbat
+writer: Ling
 ---
 <p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
 <br><br>
