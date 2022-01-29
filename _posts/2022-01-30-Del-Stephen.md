@@ -6,11 +6,11 @@ category: '479'
 guest_name: Del Stephen
 guest_color: dreamy
 track1_title: Maria Alonzo's Goretti Group - Magnificat
-track1_color: vibrant
+track1_color: bliss
 track2_title: Maximum Joy - Let It Take You
-track2_color: dreamy
+track2_color: vibrant
 track3_title: Starlight Serenaders - Orange Wind
-track3_color: bliss
+track3_color: trippy
 track4_title: Del Stephen - Five Mountain Station
 track4_color: dreamy
 track5_title: Apichatpong Weerasethakul - Mekong Hotel
