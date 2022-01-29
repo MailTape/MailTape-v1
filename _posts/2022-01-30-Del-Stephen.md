@@ -57,21 +57,19 @@ The coming and going of the vocal lines paints a vivid scene on the dancefloor, 
 ## Starlight Serenaders - Orange Wind
 Del Stephen: **"**:']**"**
 
-
 # MailTape's selection
 
 ## Del Stephen - Five Mountain Station
-ImaCrea: **"**cc**"**
+ImaCrea: **"**Del Stephen is like a painter drawing sonic landscapes to me. Choosing a track from his works asks for patience and lacher prise. Each are an opportunity to go for a walk in these intricate landscapes to admire so many details here and there. A kind of naturalist trip where man is just another being on earth, no more important than a plant or a rock, but no less either.**"**
 
 ## Apichatpong Weerasethakul - Mekong Hotel
-ImaCrea: **"**cc**"**
+ImaCrea: **"**These landscapes... it made me think about Apichatpong Weerasethakul's movies. Contemplative and subtle, his cinema tells stories like no other. The Thai director often use soundtracks which are incorporating sounds recorded in the actual landscape where action is happening. In such manner that everything perfectly mix together. We're here and now.**"**
 
 ## SRIRAJAH SOUND SYSTEM - SI PHAN DON LOVERS ROCK Feat.Molam Inteng Keawbuala
-ImaCrea: **"**cc**"**
-Kaishandao - cc
+ImaCrea: **"**Let's stay in Thailand but, now, let's dance :)**"**
 
 ## Tiny Leaves - View From Here
-ImaCrea: **"** cc**"**
+Akira: **"**A music out of the deepest spot of sound that will relax you till you don't know what's real and fake. 🧘‍♂️**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
