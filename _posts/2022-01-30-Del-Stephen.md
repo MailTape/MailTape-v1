@@ -33,7 +33,7 @@ writer: ImaCrea
 guestPic: guestPic479.jpg
 description: 'xxx'
 ---
-<p id="introduction"> xxx
+<p id="introduction"> This morning, we're floating in the air with [Del Stephen](https://delstephen.bandcamp.com/). Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.
 </p>
 
 
