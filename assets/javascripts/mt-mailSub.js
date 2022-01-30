@@ -3,148 +3,148 @@ $(document).ready(
 
 		// signup form validation for iris (byebye MailChimp!)
 
-		// $("#topbar-signup-form").on("submit",function(e){
-		// 		e.preventDefault(); 
+		$("#topbar-signup-form").on("submit",function(e){
+				e.preventDefault(); 
 
-		// 		var name;
-		// 		var email;
+				var name;
+				var email;
 				
-		// 		var $Form = $(this),
-		// 		name = $Form.find('input[name="topbar-name"]').val(),
-		// 		email = $Form.find('input[name="topbar-email"]').val(),
-		// 		url = $Form.attr('action');
+				var $Form = $(this),
+				name = $Form.find('input[name="topbar-name"]').val(),
+				email = $Form.find('input[name="topbar-email"]').val(),
+				url = $Form.attr('action');
 
-		// 		console.log("data before post: "+name+" - "+email+" - "+url)
+				console.log("data before post: "+name+" - "+email+" - "+url)
 
-		// 		$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
-		// 		  function(data) {
-		// 		  		console.log("data: "+data);
-		// 		      if(data)
-		// 		      {
-		// 		      	if(data=="Some fields are missing.")
-		// 		      	{
-		// 			      	$("#topbar-status").text("Please fill in your name and email.");
-		// 			      	$("#topbar-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Invalid email address.")
-		// 		      	{
-		// 			      	$("#topbar-status").text("Your email address is invalid.");
-		// 			      	$("#topbar-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Invalid list ID.")
-		// 		      	{
-		// 			      	$("#topbar-status").text("Your list ID is invalid.");
-		// 			      	$("#topbar-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Already subscribed.")
-		// 		      	{
-		// 			      	$("#topbar-status").text("You're already subscribed!");
-		// 			      	$("#topbar-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data==1)
-		// 		      	{
-		// 			      	$("#topbar-status").text("Oh yeah "+name+"!");
-		// 			      	$("#topbar-status").css("color", "green");
-		// 			      	$("#topbar-subscribeButton").fadeOut('slow');
-		// 			      	$("#mobile-subscribeButton").fadeOut('slow');
-		// 			      	_paq.push(['trackEvent', 'newfollower', 'topbar-signup-form']);
+				$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
+				  function(data) {
+				  		console.log("data: "+data);
+				      if(data)
+				      {
+				      	if(data=="Some fields are missing.")
+				      	{
+					      	$("#topbar-status").text("Please fill in your name and email.");
+					      	$("#topbar-status").css("color", "red");
+				      	}
+				      	else if(data=="Invalid email address.")
+				      	{
+					      	$("#topbar-status").text("Your email address is invalid.");
+					      	$("#topbar-status").css("color", "red");
+				      	}
+				      	else if(data=="Invalid list ID.")
+				      	{
+					      	$("#topbar-status").text("Your list ID is invalid.");
+					      	$("#topbar-status").css("color", "red");
+				      	}
+				      	else if(data=="Already subscribed.")
+				      	{
+					      	$("#topbar-status").text("You're already subscribed!");
+					      	$("#topbar-status").css("color", "red");
+				      	}
+				      	else if(data==1)
+				      	{
+					      	$("#topbar-status").text("Oh yeah "+name+"!");
+					      	$("#topbar-status").css("color", "green");
+					      	$("#topbar-subscribeButton").fadeOut('slow');
+					      	$("#mobile-subscribeButton").fadeOut('slow');
+					      	_paq.push(['trackEvent', 'newfollower', 'topbar-signup-form']);
 
-		// 			      	setTimeout(function() {
-		// 	    				$('#topbar-subscription-form').fadeOut('slow');
-		// 					}, 1000);
-		// 		      	}
-		// 		      }
-		// 		      else
-		// 		      {
-		// 		      	$("#topbar-status").text("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		// 		      	$("#topbar-status").css("color", "red");
-		// 		      	//alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		// 		      }
-		// 		  }
-		// 		);
-		// 	});
-		// 	$("#topbar-signup-form").on("keypress",function(e) {
-		// 		    if(e.keyCode == 13) {
-		// 		    	e.preventDefault(); 
-		// 				$(this).trigger("submit");
-		// 		    }
-		// 		});
-		// 	$("#topbar-subscribeButton").on("click",function(e){
-		// 		e.preventDefault(); 
-		// 		$("#topbar-signup-form").trigger("submit");
-		// 	});
+					      	setTimeout(function() {
+			    				$('#topbar-subscription-form').fadeOut('slow');
+							}, 1000);
+				      	}
+				      }
+				      else
+				      {
+				      	$("#topbar-status").text("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
+				      	$("#topbar-status").css("color", "red");
+				      	//alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
+				      }
+				  }
+				);
+			});
+			$("#topbar-signup-form").on("keypress",function(e) {
+				    if(e.keyCode == 13) {
+				    	e.preventDefault(); 
+						$(this).trigger("submit");
+				    }
+				});
+			$("#topbar-subscribeButton").on("click",function(e){
+				e.preventDefault(); 
+				$("#topbar-signup-form").trigger("submit");
+			});
 
-		// // same stuff for mobile form
+		// same stuff for mobile form
 
 
-		// $("#mobile-signup-form").on("submit",function(e){
-		// 		e.preventDefault(); 
+		$("#mobile-signup-form").on("submit",function(e){
+				e.preventDefault(); 
 				
-		// 		var name;
-		// 		var email;
+				var name;
+				var email;
 
-		// 		var $Form = $(this),
-		// 		name = $Form.find('input[name="mobile-name"]').val(),
-		// 		email = $Form.find('input[name="mobile-email"]').val(),
-		// 		url = $Form.attr('action');
+				var $Form = $(this),
+				name = $Form.find('input[name="mobile-name"]').val(),
+				email = $Form.find('input[name="mobile-email"]').val(),
+				url = $Form.attr('action');
 
-		// 		console.log("data before post: "+name+" - "+email+" - "+url)
+				console.log("data before post: "+name+" - "+email+" - "+url)
 				
-		// 		$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
-		// 		  function(data) {
-		// 		  	console.log("data: "+data);
-		// 		      if(data)
-		// 		      {
-		// 		      	if(data=="Some fields are missing.")
-		// 		      	{
-		// 			      	$("#mobile-status").text("Please fill in your name and email.");
-		// 			      	$("#mobile-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Invalid email address.")
-		// 		      	{
-		// 			      	$("#mobile-status").text("Your email address is invalid.");
-		// 			      	$("#mobile-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Invalid list ID.")
-		// 		      	{
-		// 			      	$("#mobile-status").text("Your list ID is invalid.");
-		// 			      	$("#mobile-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data=="Already subscribed.")
-		// 		      	{
-		// 			      	$("#mobile-status").text("You're already subscribed!");
-		// 			      	$("#mobile-status").css("color", "red");
-		// 		      	}
-		// 		      	else if(data==1)
-		// 		      	{
-		// 			      	$("#mobile-status").text("You're now subscribed "+name+"!");
-		// 			      	$("#mobile-status").css("color", "green");
-		// 			      	_paq.push(['trackEvent', 'newfollower', 'mobile-signup-form']);
+				$.post(url, {api_key:"NjeaE2RRCDWHNL2xWXRA", name:name, email:email,list:"QQHvme9rjql67LVRVasnGw",boolean:"true",gdpr:"true",silent:"true"},
+				  function(data) {
+				  	console.log("data: "+data);
+				      if(data)
+				      {
+				      	if(data=="Some fields are missing.")
+				      	{
+					      	$("#mobile-status").text("Please fill in your name and email.");
+					      	$("#mobile-status").css("color", "red");
+				      	}
+				      	else if(data=="Invalid email address.")
+				      	{
+					      	$("#mobile-status").text("Your email address is invalid.");
+					      	$("#mobile-status").css("color", "red");
+				      	}
+				      	else if(data=="Invalid list ID.")
+				      	{
+					      	$("#mobile-status").text("Your list ID is invalid.");
+					      	$("#mobile-status").css("color", "red");
+				      	}
+				      	else if(data=="Already subscribed.")
+				      	{
+					      	$("#mobile-status").text("You're already subscribed!");
+					      	$("#mobile-status").css("color", "red");
+				      	}
+				      	else if(data==1)
+				      	{
+					      	$("#mobile-status").text("You're now subscribed "+name+"!");
+					      	$("#mobile-status").css("color", "green");
+					      	_paq.push(['trackEvent', 'newfollower', 'mobile-signup-form']);
 
 
-		// 			      	setTimeout(function() {
-		// 	    				$('#mobile-subscription').fadeOut('slow');
-		// 					}, 1000);
-		// 		      	}
-		// 		      }
-		// 		      else
-		// 		      {
-		// 		      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
-		// 		      }
-		// 		  }
-		// 		);
-		// 	});
+					      	setTimeout(function() {
+			    				$('#mobile-subscription').fadeOut('slow');
+							}, 1000);
+				      	}
+				      }
+				      else
+				      {
+				      	alert("Sorry, unable to subscribe. If you keep seeing this error, please contact us!");
+				      }
+				  }
+				);
+			});
 
-		// 	$("#mobile-signup-form").on("keypress",function(e) {
-		// 		    if(e.keyCode == 13) {
-		// 		    	e.preventDefault(); 
-		// 				$(this).trigger("submit");
-		// 		    }
-		// 		});
-		// 	$("#mobile-subscribeButton").on("click",function(e){
-		// 		e.preventDefault(); 
-		// 		$("#mobile-signup-form").trigger("submit");
-		// 	});
+			$("#mobile-signup-form").on("keypress",function(e) {
+				    if(e.keyCode == 13) {
+				    	e.preventDefault(); 
+						$(this).trigger("submit");
+				    }
+				});
+			$("#mobile-subscribeButton").on("click",function(e){
+				e.preventDefault(); 
+				$("#mobile-signup-form").trigger("submit");
+			});
 
 
 			// script de lecture des paramètre de l'url
