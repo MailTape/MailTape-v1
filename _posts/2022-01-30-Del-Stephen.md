@@ -31,7 +31,9 @@ author: ImaCrea
 illustrator: Thibault Daumain
 writer: ImaCrea
 guestPic: guestPic479.jpg
-description: 'xxx'
+musiColor: musiColor479.png
+image: 'https://mailta.pe/img/fbPic479.png'
+description: 'This morning, we are floating in the air with Del Stephen. Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.'
 ---
 <p id="introduction"> This morning, we're floating in the air with [Del Stephen](https://delstephen.bandcamp.com/). Coming from Toronto, his eclectic and blissful selection opens the doors to a magnificent Sunday. Warm and subtle, perfect to close this first month of the year (which has already been quiet intense !). Caring has never been so important and vital, see this episode as a heartful hug.
 </p>
@@ -72,4 +74,4 @@ ImaCrea: **"**Let's stay in Thailand but, now, let's dance :)**"**
 Akira: **"**A music out of the deepest spot of sound that will relax you till you don't know what's real and fake. 🧘‍♂️**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! Much love to [Del Stephen](https://delstephen.bandcamp.com/) for his blissful Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for his inspiring illustration!</p>
