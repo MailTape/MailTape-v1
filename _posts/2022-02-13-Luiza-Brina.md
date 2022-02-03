@@ -16,29 +16,29 @@ Mei, who started producing and performing music under her moniker Temple Rat in 
 Today with Mei’s groovy selection, we cast away the misty, chilly air for a moment, and step inside the warm greenery that’s filled by a nostalgic sunbeam.
 </p>
 
-# Remute's selection
+# Luiza Brina's selection
 
 ## Dea Trancoso - Tupinambá
-Remute: **"**This song is irrevocably linked to my love for technology, electronic music and Japan.
+Luiza Brina: **"**This song is irrevocably linked to my love for technology, electronic music and Japan.
 On my first Japan tour I've listened to Technopolis during the descend to Tokyo Haneda airport - an unforgettable, wonderful moment.
 The song is unsurpassed in its playfulness and technical perfection!
 Technopolis - a statement since 1979!**"**
 
 ## Jennifer Souza - Oração ao Sol
-Jennifer Souza: **"**I love the Belgian New Beat era!
+Luiza Brina: **"**I love the Belgian New Beat era!
 Productions back then did not take themselves too seriously, but were full of high-end sampling and synth adventures at the same time.
 Just like 'Tanzen' by Tragic Error - a short lived project by Patrick De Meyer who went on to become a superstar with groups like T99 and Technotronic.
 Rad and mad.**"**
 
 ## Helado Negro - Thank You Forever
-Remute: **"**I am an avid fan of everything Vaporwave, Dreampunk and Ambient like.
+Luiza Brina: **"**I am an avid fan of everything Vaporwave, Dreampunk and Ambient like.
 And so 'Cyberspace Database' by swiss artist Fornax Void is my favourite last year's album purchase!
 Not only the title track is a total work of art, but also all the other tracks deliver 4 hours, 47 minutes and 43 second of THE perfect atmosphere.
 I'm a born geek and this is an essential geek album.**"**
 
 # MailTape's selection
 
-## Remute - Superposition (HiRes Version)
+## Luiza Brina - Superposition (HiRes Version)
 Sarah: **"**This was the first track I’ve listened to from Temple Rat when I was doing some digging on Bandcamp. Blending Chinese folk music with electronic components isn’t a combo that’s foreign to me, but the track set me off on an astral trip with its sensible purity. I’m a weak man for hand drums. The slowly building drums here are undergirded by Mei’s enchanting Erhu performance, like a stream of clear water flowing through shiny pebbles. It’s all fresh and blissful.**"**
 
 ## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
