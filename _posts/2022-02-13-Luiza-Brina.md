@@ -1,0 +1,55 @@
+---
+layout: episode
+bigTitle_font_ratio: '6'
+published: false
+author: Sarah
+illustrator: Camille Célestin
+writer: Sarah
+category: '481'
+guest_name: Luiza Brina
+guest_color: vibrant
+---
+<p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
+<br><br>
+Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
+<br><br>
+Today with Mei’s groovy selection, we cast away the misty, chilly air for a moment, and step inside the warm greenery that’s filled by a nostalgic sunbeam.
+</p>
+
+# Remute's selection
+
+## Dea Trancoso - Tupinambá
+Remute: **"**This song is irrevocably linked to my love for technology, electronic music and Japan.
+On my first Japan tour I've listened to Technopolis during the descend to Tokyo Haneda airport - an unforgettable, wonderful moment.
+The song is unsurpassed in its playfulness and technical perfection!
+Technopolis - a statement since 1979!**"**
+
+## Jennifer Souza - Oração ao Sol
+Jennifer Souza: **"**I love the Belgian New Beat era!
+Productions back then did not take themselves too seriously, but were full of high-end sampling and synth adventures at the same time.
+Just like 'Tanzen' by Tragic Error - a short lived project by Patrick De Meyer who went on to become a superstar with groups like T99 and Technotronic.
+Rad and mad.**"**
+
+## Helado Negro - Thank You Forever
+Remute: **"**I am an avid fan of everything Vaporwave, Dreampunk and Ambient like.
+And so 'Cyberspace Database' by swiss artist Fornax Void is my favourite last year's album purchase!
+Not only the title track is a total work of art, but also all the other tracks deliver 4 hours, 47 minutes and 43 second of THE perfect atmosphere.
+I'm a born geek and this is an essential geek album.**"**
+
+# MailTape's selection
+
+## Remute - Superposition (HiRes Version)
+Sarah: **"**This was the first track I’ve listened to from Temple Rat when I was doing some digging on Bandcamp. Blending Chinese folk music with electronic components isn’t a combo that’s foreign to me, but the track set me off on an astral trip with its sensible purity. I’m a weak man for hand drums. The slowly building drums here are undergirded by Mei’s enchanting Erhu performance, like a stream of clear water flowing through shiny pebbles. It’s all fresh and blissful.**"**
+
+## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
+Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets electronic sounds. Spacey electro bleeps are joined by Li’s intricate Pipa plucking. Layers of buzzing drones, Li’s additional vocal, and collaborator Rick Parker’s eerie sound of a trombone, pushes the track into its climax. Li Daiguo is a Chinese-American multi-instrumentalist who mixes instrumentation—both Western and Eastern, traditional and contemporary—in a manner that’s uncomplicated yet thoughtful, his works always grander than their discrete elements suggest.**"**
+
+## Laughing Ears - [Blue Dusk](https://laughingears.bandcamp.com/album/blue-dusk)
+Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
+
+## Kaishandao - [To the East Coast](https://kaishandao.bandcamp.com/album/homeland)
+Sarah: **"** Yet another producer from Chengdu. Her recent work reminds me of those IDM tunes from the 90s, such as Autechre, or Boards of Canada. It’s warm and fuzzy, just right for an opener, but with enough weight from grounded grooves to keep a floor steady. Kaishandao describes her recent LP as “a therapy cassette sent through a drum machine.**"**
+
+
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
+
