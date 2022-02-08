@@ -9,7 +9,7 @@ category: '481'
 guest_name: Luiza Brina
 guest_color: vibrant
 ---
-<p id="introduction"> This morning, we wake up with some grooves with [Temple Rat](https://www.instagram.com/meiyuxinmay).
+<p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
 <br><br>
 Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
 <br><br>
@@ -52,4 +52,3 @@ Sarah: **"** Yet another producer from Chengdu. Her recent work reminds me of th
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
-
