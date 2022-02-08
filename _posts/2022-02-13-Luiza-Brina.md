@@ -19,22 +19,19 @@ Today with Mei’s groovy selection, we cast away the misty, chilly air for a mo
 # Luiza Brina's selection
 
 ## Dea Trancoso - Tupinambá
-Luiza Brina: **"**This song is irrevocably linked to my love for technology, electronic music and Japan.
-On my first Japan tour I've listened to Technopolis during the descend to Tokyo Haneda airport - an unforgettable, wonderful moment.
-The song is unsurpassed in its playfulness and technical perfection!
-Technopolis - a statement since 1979!**"**
+Luiza Brina: **"**This song is on Déa Trancoso’s debut album, Tum Tum Tum. She’s an amazing artist born in the Minas Gerais State, just like me. The album was released in 2006, and the tracklist is a result of a research she made about popular culture from Vale do Jequitinhonha, where she’s from.
+
+Tupinambá is my favorite song off of the album, it’s just very powerful, and I also love the density of the guitars' arrangement and of the precious voice overtures.**"**
 
 ## Jennifer Souza - Oração ao Sol
-Luiza Brina: **"**I love the Belgian New Beat era!
-Productions back then did not take themselves too seriously, but were full of high-end sampling and synth adventures at the same time.
-Just like 'Tanzen' by Tragic Error - a short lived project by Patrick De Meyer who went on to become a superstar with groups like T99 and Technotronic.
-Rad and mad.**"**
+Luiza Brina: **"**Oração ao Sol is on Pacífica Pedra Branca, the latest studio album by Jennifer Souza (Moons), who was also born in Minas Gerais. Jennifer is an incredible singer-songwriter. I admire her work since she was part of the band Transmissor ‒ a band that’s a partner of Graveola, my own band.
+
+I like to think of music as a prayer (“oração”) ‒ I’ll even release an album with prayers and songs later this year. Oração ao Sol is one of the most beautiful songs I’ve heard recently, and has the participation of the incredible Bahian Tiganá Santana.**"**
 
 ## Helado Negro - Thank You Forever
-Luiza Brina: **"**I am an avid fan of everything Vaporwave, Dreampunk and Ambient like.
-And so 'Cyberspace Database' by swiss artist Fornax Void is my favourite last year's album purchase!
-Not only the title track is a total work of art, but also all the other tracks deliver 4 hours, 47 minutes and 43 second of THE perfect atmosphere.
-I'm a born geek and this is an essential geek album.**"**
+Luiza Brina: **"**I really love Helado Negro’s work, and, to my delight, we’ve been chit chatting for some time through social media. Besides being such a great songwriter, Helado is a super artist, who works also with sound art, experimental music, installation and performance. It’s truly amazing how all these elements are present in his work.
+
+Thank You For Ever is a gorgeous song off of his latest album, Far In, released last year.**"**
 
 # MailTape's selection
 
