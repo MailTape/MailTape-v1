@@ -59,7 +59,8 @@ Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for
 ## Luiza Brina - A Toada Vem É Pelo Vento
 Sarah: **"**wonderful bass underscoring 
 the violin 
-beautiful voices**"**
+beautiful voices
+the choir contributes a somewhat dreamy haze, but with a rousing instrumental and rhythm section surrounding it**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
