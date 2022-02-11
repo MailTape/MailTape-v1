@@ -47,7 +47,7 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 
 # MailTape's selection
 
-## Luiza Brina - Superposition (HiRes Version)
+## Luiza Brina, Semreceita - Sino en El Margen 
 Sarah: **"**This was the first track I’ve listened to from Temple Rat when I was doing some digging on Bandcamp. Blending Chinese folk music with electronic components isn’t a combo that’s foreign to me, but the track set me off on an astral trip with its sensible purity. I’m a weak man for hand drums. The slowly building drums here are undergirded by Mei’s enchanting Erhu performance, like a stream of clear water flowing through shiny pebbles. It’s all fresh and blissful.**"**
 
 ## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
@@ -56,8 +56,10 @@ Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets
 ## Laughing Ears - [Blue Dusk](https://laughingears.bandcamp.com/album/blue-dusk)
 Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
 
-## Kaishandao - [To the East Coast](https://kaishandao.bandcamp.com/album/homeland)
-Sarah: **"** Yet another producer from Chengdu. Her recent work reminds me of those IDM tunes from the 90s, such as Autechre, or Boards of Canada. It’s warm and fuzzy, just right for an opener, but with enough weight from grounded grooves to keep a floor steady. Kaishandao describes her recent LP as “a therapy cassette sent through a drum machine.**"**
+## Luiza Brina - A Toada Vem É Pelo Vento
+Sarah: **"**wonderful bass underscoring 
+the violin 
+beautiful voices**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
