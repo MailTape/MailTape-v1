@@ -57,9 +57,10 @@ Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets
 Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
-Sarah: **"**wonderful bass underscoring 
-the violin 
-beautiful voices
+Sarah: **"**wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
+the cello adds this vibrant complexity, 
+beautiful voices, very involved; 
+watching live performances of the track reveal 
 the choir contributes a somewhat dreamy haze, but with a rousing instrumental and rhythm section surrounding it**"**
 
 
