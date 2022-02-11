@@ -8,6 +8,16 @@ writer: Sarah
 category: '481'
 guest_name: Luiza Brina
 guest_color: vibrant
+track3_title: Helado Negro - Thank You Forever
+track1_title: Déa Trancoso - Tupinambá
+track1_color: vibrant
+track2_title: Jennifer Souza - Oração ao Sol
+track2_color: dreamy
+track3_color: bliss
+track4_color: vibrant
+track5_color: dreamy
+track6_color: bliss
+track7_color: vibrant
 ---
 <p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
 <br><br>
