@@ -18,6 +18,8 @@ track4_color: vibrant
 track5_color: dreamy
 track6_color: bliss
 track7_color: vibrant
+track4_title: 'Luiza Brina, Semreceita - Sino en El Margen '
+track7_title: Luiza Brina - A Toada Vem É Pelo Vento
 ---
 <p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
 <br><br>
