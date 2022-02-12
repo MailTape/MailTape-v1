@@ -39,9 +39,6 @@ Luiza's dreamy selection seeks to soothe and soften us, providing some moments o
 </p>
 
 # Luiza Brina's selection
-![guestPic481.jpg]({{site.baseurl}}/img/guestPic481.jpg)
-![fbPic481.png]({{site.baseurl}}/img/fbPic481.png)
-![musiColor481.png]({{site.baseurl}}/img/musiColor481.png)
 
 ## Dea Trancoso - Tupinambá
 Luiza Brina: **"**This song is on Déa Trancoso’s debut album, Tum Tum Tum. She’s an amazing artist born in the Minas Gerais State, just like me. The album was released in 2006, and the tracklist is a result of a research she made about popular culture from Vale do Jequitinhonha, where she’s from.
