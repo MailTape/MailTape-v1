@@ -29,6 +29,9 @@ track5_title: OKI - Kai Kai As To (Rippling Lake)
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track6.mp3'
 track6_title: Jesse Adelman - Big Spaceship
+image: 'https://mailta.pe/img/fbPic481.png'
+episode_URL: 'http://mailta.pe/481/Luiza-Brina/'
+musiColor: musiColor481.png
 ---
 <p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
@@ -36,6 +39,9 @@ Luiza's dreamy selection seeks to soothe and soften us, providing some moments o
 </p>
 
 # Luiza Brina's selection
+![guestPic481.jpg]({{site.baseurl}}/img/guestPic481.jpg)
+![fbPic481.png]({{site.baseurl}}/img/fbPic481.png)
+![musiColor481.png]({{site.baseurl}}/img/musiColor481.png)
 
 ## Dea Trancoso - Tupinambá
 Luiza Brina: **"**This song is on Déa Trancoso’s debut album, Tum Tum Tum. She’s an amazing artist born in the Minas Gerais State, just like me. The album was released in 2006, and the tracklist is a result of a research she made about popular culture from Vale do Jequitinhonha, where she’s from.
