@@ -20,6 +20,10 @@ track6_color: bliss
 track7_color: vibrant
 track4_title: 'Luiza Brina, Semreceita - Sino en El Margen '
 track7_title: Luiza Brina - A Toada Vem É Pelo Vento
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track4.mp3'
 ---
 <p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
 <br><br>
@@ -47,8 +51,8 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 
 # MailTape's selection
 
-## Luiza Brina, Semreceita - Sino en El Margen 
-Sarah: **"**This was the first track I’ve listened to from Temple Rat when I was doing some digging on Bandcamp. Blending Chinese folk music with electronic components isn’t a combo that’s foreign to me, but the track set me off on an astral trip with its sensible purity. I’m a weak man for hand drums. The slowly building drums here are undergirded by Mei’s enchanting Erhu performance, like a stream of clear water flowing through shiny pebbles. It’s all fresh and blissful.**"**
+## Luiza Brina - Somos Só
+Sarah: **"**theherthe**"**
 
 ## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
 Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets electronic sounds. Spacey electro bleeps are joined by Li’s intricate Pipa plucking. Layers of buzzing drones, Li’s additional vocal, and collaborator Rick Parker’s eerie sound of a trombone, pushes the track into its climax. Li Daiguo is a Chinese-American multi-instrumentalist who mixes instrumentation—both Western and Eastern, traditional and contemporary—in a manner that’s uncomplicated yet thoughtful, his works always grander than their discrete elements suggest.**"**
@@ -57,7 +61,7 @@ Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets
 Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
-Sarah: **"**wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
+Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) This track's live performances have such contagious energy, especially considering the movement on stage of musicians. wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
 the cello adds this vibrant complexity, 
 beautiful voices, very involved; 
 watching live performances of the track reveal 
