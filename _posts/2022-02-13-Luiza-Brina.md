@@ -18,7 +18,7 @@ track4_color: vibrant
 track5_color: dreamy
 track6_color: bliss
 track7_color: vibrant
-track4_title: 'Luiza Brina, Semreceita - Sino en El Margen '
+track4_title: 'Luiza Brina, Ana Frango Elétrico - Somos Só'
 track7_title: Luiza Brina - A Toada Vem É Pelo Vento
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track2.mp3'
