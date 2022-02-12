@@ -30,9 +30,9 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track6.mp3'
 track6_title: Jesse Adelman - Even If
 ---
-<p id="introduction"> The week can bring so much to challenge and test us. This Sunday, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
+<p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
-These tracks seek to soothe and soften us, providing some moments of healing for a gentle morning.  
+Luiza's dreamy selection seeks to soothe and soften us, providing some moments of healing for a gentle morning, much deserved :)
 </p>
 
 # Luiza Brina's selection
@@ -55,13 +55,13 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 # MailTape's selection
 
 ## Luiza Brina - Somos Só
-Sarah: **"**theherthe**"**
+Sarah: **"**Such a beautiful release featuring **"**
 
 ## OKI - Kai Kai As To (Rippling Lake)
-Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets electronic sounds. Spacey electro bleeps are joined by Li’s intricate Pipa plucking. Layers of buzzing drones, Li’s additional vocal, and collaborator Rick Parker’s eerie sound of a trombone, pushes the track into its climax. Li Daiguo is a Chinese-American multi-instrumentalist who mixes instrumentation—both Western and Eastern, traditional and contemporary—in a manner that’s uncomplicated yet thoughtful, his works always grander than their discrete elements suggest.**"**
+Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. love the bird vocalizations halfway through.**"**
 
 ## Jesse Adelman - Even If
-Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
+Sarah: **"**Another wonderful album by Jesse Adelman. A wandering and dreamy embrace this track makes for us. **"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
 Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) This track's live performances have such contagious energy, especially considering the movement on stage of musicians. wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
