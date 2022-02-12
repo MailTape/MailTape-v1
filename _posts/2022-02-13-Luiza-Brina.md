@@ -30,11 +30,9 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track6.mp3'
 track6_title: Jesse Adelman - Even If
 ---
-<p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
+<p id="introduction"> The week can bring so much to challenge and test us. This Sunday, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
-Mei, who started producing and performing music under her moniker Temple Rat in 2015, grew up near the vibrant megacity of Chengdu. At the age of 9, she began to learn the traditional Chinese Erhu, a mysterious two-stringed folk instrument made from carved wood and snakeskin, played with a bow. Through her years in Chengdu Mei was inspired by her passion for the city’s hyped underground electronic music scene and eventually started to fuse traditional Chinese folk music with minimalistic techno tunes.
-<br><br>
-Today with Mei’s groovy selection, we cast away the misty, chilly air for a moment, and step inside the warm greenery that’s filled by a nostalgic sunbeam.
+These tracks seek to soothe and soften us, providing some moments of healing for a gentle morning.  
 </p>
 
 # Luiza Brina's selection
