@@ -61,7 +61,7 @@ Sarah: **"**Such a beautiful release featuring **"**
 Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. love the bird vocalizations halfway through.**"**
 
 ## Jesse Adelman - Big Spaceship
-Sarah: **"**This album by Jesse Adelman is a true joy to listen through. The last track on the release, What If makes such a wandering and dreamy embrace for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
+Sarah: **"**This album by Jesse Adelman is a true joy to listen through. Choosing a song to include was no easy business. But this song came on late one Wednesday night and I was stuck by what a wandering and dreamy embrace it makes for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
 Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) This track's live performances have such contagious energy, especially considering the movement on stage of musicians. wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
