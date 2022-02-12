@@ -58,7 +58,7 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 # MailTape's selection
 
 ## Luiza Brina - Somos Só
-Sarah: **"**Such a beautiful release featuring **"**
+Sarah: **"**Such a beautiful release featuring Ana Frango Elétrico and Marcelo Costa. **"**
 
 ## OKI - Kai Kai As To (Rippling Lake)
 Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. love the bird vocalizations halfway through.**"**
