@@ -25,6 +25,9 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track4.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track7.mp3'
+track5_title: OKI - Kai Kai As To (Rippling Lake)
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/481/track6.mp3'
 ---
 <p id="introduction"> This morning, let's ease into the day with our dear guest [Luiza Brina](https://www.instagram.com/meiyuxinmay).
 <br><br>
@@ -55,10 +58,10 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 ## Luiza Brina - Somos Só
 Sarah: **"**theherthe**"**
 
-## Li Daiguo - [All-Purpose Remedy for Indescribable Emotional Discomfort](https://parkerli.bandcamp.com/album/free-world-music)
+## OKI - Kai Kai As To (Rippling Lake)
 Sarah: **"**Again, here we have a Chinese traditional folk instrument that meets electronic sounds. Spacey electro bleeps are joined by Li’s intricate Pipa plucking. Layers of buzzing drones, Li’s additional vocal, and collaborator Rick Parker’s eerie sound of a trombone, pushes the track into its climax. Li Daiguo is a Chinese-American multi-instrumentalist who mixes instrumentation—both Western and Eastern, traditional and contemporary—in a manner that’s uncomplicated yet thoughtful, his works always grander than their discrete elements suggest.**"**
 
-## Laughing Ears - [Blue Dusk](https://laughingears.bandcamp.com/album/blue-dusk)
+## Jesse Adelman - Even If
 Sarah: **"**Laughing Ears is a Shanghai-based producer whom I’ve seen live for a couple of times in Shanghai. This track was the first I've listened to from her and remains my favorite among her stellar productions. The trance-infused, beautiful yet haunting synth line morphs like aurora, accompanied by insectile percussion and thrumming sub-bass. Truly mesmerizing.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
