@@ -32,6 +32,8 @@ track6_title: Jesse Adelman - Big Spaceship
 image: 'https://mailta.pe/img/fbPic481.png'
 episode_URL: 'http://mailta.pe/481/Luiza-Brina/'
 musiColor: musiColor481.png
+guestPic: ''
+description: ''
 ---
 <p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
@@ -61,17 +63,13 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 Sarah: **"**Such a beautiful release featuring Ana Frango Elétrico and Marcelo Costa. **"**
 
 ## OKI - Kai Kai As To (Rippling Lake)
-Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. love the bird vocalizations halfway through.**"**
+Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. Love the bird vocalizations halfway through.**"**
 
 ## Jesse Adelman - Big Spaceship
-Sarah: **"**This album by Jesse Adelman is a true joy to listen through. Choosing a song to include was no easy business. But this song came on late one Wednesday night and I was stuck by what a wandering and dreamy embrace it makes for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
+Sarah: **"**This song came on late one Wednesday night and I was stuck by what a dreamy embrace it makes for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
-Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) This track's live performances have such contagious energy, especially considering the movement on stage of musicians. wonderful bass underscoring, giving a driving momentum to the rest of the track's movements 
-the cello adds this vibrant complexity, 
-beautiful voices, very involved; 
-watching live performances of the track reveal 
-the choir contributes a somewhat dreamy haze, but with a rousing instrumental and rhythm section surrounding it**"**
+Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) Wonderful bass underscoring, adding such a driving momentum to the rest of the track's movement. The vocals contributes a somewhat dreamy haze, but with such a rousing instrumental section surrounding it**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
