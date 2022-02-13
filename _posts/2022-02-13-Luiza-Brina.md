@@ -37,7 +37,7 @@ description: ''
 ---
 <p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
-Luiza's dreamy selection seeks to soothe and soften us, providing some moments of healing for a gentle morning, much deserved :)
+Brazil based multi-intrumentalist Luiza Brina's dreamy selection seeks to soothe and soften us, providing some moments of healing for a gentle morning, much deserved :)
 </p>
 
 # Luiza Brina's selection
@@ -60,13 +60,13 @@ Thank You For Ever is a gorgeous song off of his latest album, Far In, released 
 # MailTape's selection
 
 ## Luiza Brina - Somos Só
-Sarah: **"**Such a beautiful release featuring Ana Frango Elétrico and Marcelo Costa. **"**
+Sarah: **"**Such a beautiful release featuring Ana Frango Elétrico and Marcelo Costa. Brina's vocals surround the mix with an entrancing velvet quality. Love the steadiness of the guitar strumming, it gives the vocals all the space that they demand. A favorite from Brina's most recent releases.**"**
 
 ## OKI - Kai Kai As To (Rippling Lake)
 Sarah: **"**Such a healing track, just like a rippling lake :) this entire album is such a wonder to listen through, each track offering something new and surprising. Love the bird vocalizations halfway through.**"**
 
 ## Jesse Adelman - Big Spaceship
-Sarah: **"**This song came on late one Wednesday night and I was stuck by what a dreamy embrace it makes for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
+Sarah: **"**What a dreamy embrace this song makes for us. Such a marbled texture of sound, with Adelman's grounded vocals streamlining through all of it.**"**
 
 ## Luiza Brina - A Toada Vem É Pelo Vento
 Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) Wonderful bass underscoring, adding such a driving momentum to the rest of the track's movement. The vocals contributes a somewhat dreamy haze, but with such a rousing instrumental section surrounding it**"**
