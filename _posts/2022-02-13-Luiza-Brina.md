@@ -32,8 +32,7 @@ track6_title: Jesse Adelman - Big Spaceship
 image: 'https://mailta.pe/img/fbPic481.png'
 episode_URL: 'http://mailta.pe/481/Luiza-Brina/'
 musiColor: musiColor481.png
-guestPic: ''
-description: ''
+guestPic: guestPic481.jpg
 ---
 <p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
