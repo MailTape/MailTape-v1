@@ -71,4 +71,4 @@ Sarah: **"**What a dreamy embrace this song makes for us. Such a marbled texture
 Sarah: **"**A vibrant track to finish off this soothing Sunday selection :) Wonderful bass underscoring, adding such a driving momentum to the rest of the track's movement. The vocals contributes a somewhat dreamy haze, but with such a rousing instrumental section surrounding it**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Temple Rat for her dreamy Sunday selections, and many thanks to Meriam Kharbat for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Luiza Brina for her healing Sunday selections, and many thanks to Camille Célestin for this episode's stunning illustration !</p>
