@@ -36,7 +36,7 @@ guestPic: guestPic481.jpg
 ---
 <p id="introduction"> The week can bring so much to challenge and test us. This Sunday, we offer a reprieve. Together, let's exhale all that the past days have brought onto our shoulders and ease into the morning with our dear guest [Luiza Brina](https://luizabrina.bandcamp.com/).
 <br><br>
-Brazil based multi-intrumentalist Luiza Brina's dreamy selection seeks to soothe and soften us, providing some moments of healing for a gentle morning, much deserved :)
+Brazil based multi-intrumentalist Luiza Brina continually pushes the bounds of bossa nova, classical, and flamenco movements in her music. The dreamy selection she brings to MailTape seeks to soothe and soften us, providing some moments of healing for a gentle morning, much deserved :)
 </p>
 
 # Luiza Brina's selection
