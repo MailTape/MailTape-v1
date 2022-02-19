@@ -34,6 +34,8 @@ image: 'https://mailta.pe/img/fbPic482.jpg'
 episode_URL: 'http://mailta.pe/482/Alligator/'
 musiColor: musiColor482.png
 guestPic: guestPic482.jpg
+
+description: This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we’re not the only one dancing on this planet, it’s a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with Alligator, we’re telling a story of joy, adventure, courage, beauty and hope. 
 ---
 <p id="introduction">This morning, we stop reading the news and start dancing. Did you know the oldest proof of dancing comes from 9000 years old cave paintings that were found in India? Also, we're not the only one dancing on this planet, it's a behaviour we actually share with many other species. Music is a universal language, and in this episode co-curated with [Alligator](https://almost-discos.bandcamp.com/album/torrents), we're telling a story of joy, adventure, courage, beauty and hope.
 </p>
