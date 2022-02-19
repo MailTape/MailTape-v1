@@ -108,7 +108,7 @@
             <div class="d-flex justify-content-start flex-wrap">
                 <div class="ml-auto w-100 pt-2 menu pt-md-3">
                     <a data-toggle="modal" href="#topLearnMoreModal">Follow</a>
-                    <a href="https://love.mailta.pe/" target="_blank">❤️🌸❤️</a>
+                    <a href="https://love.mailta.pe/" target="_blank">Support</a>
                     <script language="Javascript" type="text/javascript">
                     <!--
                     document.write('<a href="mai');
@@ -212,16 +212,26 @@
                         </p><br>
                         <p id="mobile-subscription" >
                             Or we can also send them directly to you:<br>
+
+                            <script src='https://www.google.com/recaptcha/api.js'></script>
                             <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
                                 <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
                                 <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
+                                <p class="g-recaptcha" data-sitekey="6Lff4IceAAAAAAFTFDYGVUb_yYo-0gAuYC2cQuMA"></p><div style="display:none;">
+                                <label for="hp">HP</label><br/>
+                                <input type="text" name="hp" id="hp"/>
+                                </div>
                                 <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
                                 <input type="hidden" name="subform" value="yes"/>
                                 <button type="submit" name="submit" id="submit">Yes, please!</button>
                                 <p id="mobile-status"></p>
                             </form><br>
-                            ✋ We respect your privacy and will never share or sell your data.
+                            ✋ We respect your privacy and will never share or sell your data.<br>
                         </p>
+                        <small>
+                            🙏 Sorry for this sh** captcha thing, but without it we get spammed. If you know how to code a more elegant solution, a <a href="https://github.com/MailTape/MailTape.github.io/">pull request</a> would be greatly appreciated. 🤗
+                        </small>
+
                     </div>
 
                 </div>
