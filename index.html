@@ -66,7 +66,6 @@
         <!--   Include here all homemade scripts -->   
         <script src="/assets/javascripts/hello.js"></script>
         <script src="/assets/javascripts/mt-footer.js"></script>
-        <script src="/assets/javascripts/mt-mailSub.js"></script>
         <script src="/assets/javascripts/mt-index.js"></script>
 
        <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
@@ -213,10 +212,12 @@
                         </p><br>
                         <p id="mobile-subscription" >
                             Or we can also send them directly to you:<br>
-                            <form action="https://iris.mailta.pe/subscribe.php" method="post" accept-charset="utf-8" name="mobile-signup-form" id="mobile-signup-form" target="_blank">
-                                <input type="text" name="mobile-name" placeholder="Alex" required>
-                                <input type="email" name="mobile-email" placeholder="alex@mail.com" required>
-                                <button type="submit" name="mobile-subscribe" id="mobile-subscribeButton">Yes, please!</button>
+                            <form action="https://iris.mailta.pe/subscribe" method="POST" accept-charset="utf-8">
+                                <input type="text" name="name" id="name" placeholder="Alex" pattern="^([[A-Za-z]+[,.]?[ ]?|[A-Za-z]+['-]]?)+$" required>
+                                <input type="email" name="email" id="email" placeholder="alex@mail.com" required>
+                                <input type="hidden" name="list" value="LKDfeSSXhgKxYSwOPkqQ3Q"/>
+                                <input type="hidden" name="subform" value="yes"/>
+                                <button type="submit" name="submit" id="submit">Yes, please!</button>
                                 <p id="mobile-status"></p>
                             </form><br>
                             ✋ We respect your privacy and will never share or sell your data.
