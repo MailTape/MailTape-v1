@@ -2,19 +2,28 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+illustrator: Noémie Dijon
+writer: Sarah
+category: '485'
+guest_name: Raw Poetic
+guest_color: dreamy
+track1_title: The Bongo Band - Apache
+track2_title: The Silent Years - Someone Keep Us Warm
+track3_title: MC Solaar - Bouge De Là
 ---
 <p id="introduction">Today, we are delighted to welcome Bordeaux-based producer [Mydgar](https://mydgar.bandcamp.com/) to MailTape. Mydgar is the solo project from electronic group Mozaik. Describing the studio as his home, releases of [Mydgar](https://mydgar.bandcamp.com/) are richly layered with retro detailing and synth exploration. Each album aims to create its own storyline from track to track, untethered to any particular genre. For this MailTape, Mydgar's selections each test the boundaries of electronic music, bringing movement into your Sunday morning. 
 </p>
 
 # Mydgar's selection
 
-## [Rival Consoles](https://rivalconsoles.bandcamp.com/) - Recovery
+## The Bongo Band - Apache
 Mydgar: **"**There is absolutely all the things I love in this track. Sometimes, when you produce music, you tend to add new elements to fill a lack of something instead of pushing one element and make it interesting. For me, in this track, Rival Consoles perfectly manages to sublimate the main lead with a super creative use and treats of it. It result a kind of minimalist track with the main lead as a guideline, I love it !**"**
 
-## [Melawati](https://open.spotify.com/artist/2bA7ZCUTEVJ86VkoMGHFOI) - Daliah
+## The Silent Years - Someone Keep Us Warm
 Mydgar: **"**This track is epic and full of story, it brings a lot of images to my mind... that's exactly what I'm looking for when listening to or producing music, well done Melawati !**"**
 
-## [Against All Logic](https://against-all-logic.bandcamp.com/album/2017-2019) - Fantasy
+## MC Solaar - Bouge De Là
 Mydgar: **"**I really like this side project of Nicolas Jaar. It might sound a little harder to listen to but the more I listen to it the more I discover things in this track... it’s like a movie you need to see twice of more! The way he uses saturation and sampling in this track is completely unbelievable !**"**
 
 # MailTape's selection
