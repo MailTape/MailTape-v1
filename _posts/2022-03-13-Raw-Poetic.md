@@ -12,6 +12,7 @@ track1_title: The Bongo Band - Apache
 track2_title: The Silent Years - Someone To Keep Us Warm
 track3_title: MC Solaar - Bouge De Là
 track1_color: vibrant
+track2_color: dreamy
 ---
 <p id="introduction">Today, we are delighted to welcome Bordeaux-based producer [Mydgar](https://mydgar.bandcamp.com/) to MailTape. Mydgar is the solo project from electronic group Mozaik. Describing the studio as his home, releases of [Mydgar](https://mydgar.bandcamp.com/) are richly layered with retro detailing and synth exploration. Each album aims to create its own storyline from track to track, untethered to any particular genre. For this MailTape, Mydgar's selections each test the boundaries of electronic music, bringing movement into your Sunday morning. 
 </p>
