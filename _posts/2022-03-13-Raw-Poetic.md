@@ -9,7 +9,7 @@ category: '485'
 guest_name: Raw Poetic
 guest_color: dreamy
 track1_title: The Bongo Band - Apache
-track2_title: The Silent Years - Someone Keep Us Warm
+track2_title: The Silent Years - Someone To Keep Us Warm
 track3_title: MC Solaar - Bouge De Là
 ---
 <p id="introduction">Today, we are delighted to welcome Bordeaux-based producer [Mydgar](https://mydgar.bandcamp.com/) to MailTape. Mydgar is the solo project from electronic group Mozaik. Describing the studio as his home, releases of [Mydgar](https://mydgar.bandcamp.com/) are richly layered with retro detailing and synth exploration. Each album aims to create its own storyline from track to track, untethered to any particular genre. For this MailTape, Mydgar's selections each test the boundaries of electronic music, bringing movement into your Sunday morning. 
@@ -20,7 +20,7 @@ track3_title: MC Solaar - Bouge De Là
 ## The Bongo Band - Apache
 Raw Poetic: **"**This song is pretty well known in the B-Boy circuit, but I think it’s a quite necessary piece for anyone who is just learning about hip-hop or trying to learn how to rap. It’s a great beat to freestyle rap or dance to.  I feel like this song should be played at some point every day.**"**
 
-## The Silent Years - Someone Keep Us Warm
+## The Silent Years - Someone To Keep Us Warm
 Raw Poetic: **"**I can’t remember if I played a gig with this band, or if I just saw them in DC one night; but they played this song, and I never forgot it. It has a good vibe. I believe they are from Detroit. I’m not sure if they even still exist as a band. I don’t know any of their other songs. But I like this one. It reminds me that anyone, in the right moment, can make a good song. As long as it’s from the heart.**"**
 
 ## MC Solaar - Bouge De Là
