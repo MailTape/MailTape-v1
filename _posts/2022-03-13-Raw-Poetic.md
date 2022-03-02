@@ -15,7 +15,7 @@ track1_color: vibrant
 track2_color: bliss
 track3_color: vibrant
 ---
-<p id="introduction">Today, we are delighted to welcome Bordeaux-based producer [Mydgar](https://mydgar.bandcamp.com/) to MailTape. Mydgar is the solo project from electronic group Mozaik. Describing the studio as his home, releases of [Mydgar](https://mydgar.bandcamp.com/) are richly layered with retro detailing and synth exploration. Each album aims to create its own storyline from track to track, untethered to any particular genre. For this MailTape, Mydgar's selections each test the boundaries of electronic music, bringing movement into your Sunday morning. 
+<p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in Chicago, 
 </p>
 
 # Mydgar's selection
@@ -31,14 +31,16 @@ Raw Poetic: **"**My mother made me study French when I was a young boy, and my s
 
 # MailTape's selection
 
-## [Raw Poetic](https://mydgar.bandcamp.com/) - Late Night
-Sarah : **"**Love the punchy quality of these retro synths, something of a signature for Mydgar's releases. These movements underlay the space for the rest of the track's flight, weaving in between and underneath the percussives and lead synths. Mydgar's experimentation with drumming basslines (surrounding us all at once and then disappearing, only to move ahead with momentum once again) contribute to the melancholic energy within the track. Indeed, Mydgar describes how he wrote the track in one of the darkest periods of quarantine, and the melody reflects this headspace. However, toward the track's end, there seems to be a sort of revelation, the melancholy appears to lift, on its way to brighter places after a late night.**"**
+## [Raw Poetic](https://mydgar.bandcamp.com/) - Sunny Water
+Sarah : **"**watery quality with reverberating bass and smooth vocals, contrasting so nicely with higher guitar comps **"**
 
 
 hip hop, folk w soul elements,    
 
-## [Nikki Nair](https://nikkinair.bandcamp.com/) - The Analyst
-Sarah: **"**Off of Nikki Nair's 2020 album, Scuzzy. Love the bold use of vocoder and punchy percussives; the experimentation with clanging synths to beat crescendo makes for such a surprising listening experience.**"**
+## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind; Head On
+Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from their 
+xylophone
+love the bursts of vocals, injecting the song with easy energy**"**
 
 ## [Mozaik](https://www.facebook.com/wearemozaik/) - Assembly
 Sarah: **"**The namesake of Mozaik's most recent EP (2021 release). The track maintains much of the standard club structure while also opening up opportunities for synth experimentation. A wonderful progression to listen through, we notice many of the signature elements seen in Mydgar's solo work (especially sharp analog synth leads to complement the waves of celestial synth work). Beaming basslines halfway through give new life to the mix, pushing it into powerful new ground.**"**
