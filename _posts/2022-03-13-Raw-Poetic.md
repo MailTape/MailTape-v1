@@ -18,6 +18,11 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track3.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track2.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track4.mp3'
+track4_title: Raw Poetic and Damu the Fudgemunk - Sunny Water
+track4_color: bliss
+track5_color: dreamy
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track5.mp3'
+track5_title: Raw Poetic and Damu the Fudgemunk - Power of the Mind
 ---
 <p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in Chicago, 
 </p>
@@ -41,7 +46,7 @@ Sarah : **"**watery quality with reverberating bass and smooth vocals, contrasti
 
 hip hop, folk w soul elements,    
 
-## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind; Head On
+## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from their 
 xylophone
 love the bursts of vocals, injecting the song with easy energy**"**
