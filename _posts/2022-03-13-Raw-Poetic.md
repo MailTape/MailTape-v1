@@ -23,6 +23,8 @@ track4_color: bliss
 track5_color: dreamy
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track5.mp3'
 track5_title: Raw Poetic and Damu the Fudgemunk - Power of the Mind
+track6_color: vibrant
+track7_color: bliss
 ---
 <p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in Chicago, 
 </p>
