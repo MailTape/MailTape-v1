@@ -14,6 +14,9 @@ track3_title: MC Solaar - Bouge De Là
 track1_color: vibrant
 track2_color: bliss
 track3_color: vibrant
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track3.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track2.mp3'
 ---
 <p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in Chicago, 
 </p>
