@@ -46,10 +46,9 @@ Raw Poetic: **"**My mother made me study French when I was a young boy, and my s
 
 ## [Raw Poetic](https://mydgar.bandcamp.com/) - Cadillac
 Sarah : **"**such a beautiful track 
-
-
-watery quality with reverberating bass and smooth vocals, contrasting so nicely with higher guitar comps 
-love the guitar features, especially this riff feature
+coming off of a difficult relationship, coming to peace with the end
+a proper goodbye
+watery quality with reverberating bass and smooth vocals, contrasting so nicely with the higher guitar riff comp
 a testament to the "Jason-ness" of this album 
 	hip hop, folk w soul elements, but not lingering too long on any one genre
 **"**  
