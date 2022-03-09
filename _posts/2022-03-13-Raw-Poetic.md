@@ -48,18 +48,17 @@ Sarah : **"**such a beautiful track
 
 watery quality with reverberating bass and smooth vocals, contrasting so nicely with higher guitar comps 
 love the guitar features, especially this riff feature
-**"**
-
-
-hip hop, folk w soul elements,    
+a testament to the "Jason-ness" of this album 
+	hip hop, folk w soul elements, but not lingering too long on any one genre
+**"**  
 
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from their 
 xylophone
-love the bursts of vocals, injecting the song with easy energy**"**
+love the bursts of vocals, injecting the song with easy energy; a nice track. Love the piano opening towards the end, smooooth :)**"**
 
-## [Mozaik](https://www.facebook.com/wearemozaik/) - Assembly
-Sarah: **"**The namesake of Mozaik's most recent EP (2021 release). The track maintains much of the standard club structure while also opening up opportunities for synth experimentation. A wonderful progression to listen through, we notice many of the signature elements seen in Mydgar's solo work (especially sharp analog synth leads to complement the waves of celestial synth work). Beaming basslines halfway through give new life to the mix, pushing it into powerful new ground.**"**
+## [Raw Poetic](https://www.facebook.com/wearemozaik/) - Moving Maps
+Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
 
 ## [Soft Cell](https://www.softcell.co.uk/), [DJ Hell](https://www.discogs.com/artist/114532-Hell) - Tainted Love (DJ Hell Remix)
 Sarah: **"**A familiar favorite reworked, balancing out our morning's playlist :) Love how the melody sneaks up on us, with patterned synthwork adding an ominous spin to the original; love the trance club pickup toward the track's end.**"**
