@@ -57,10 +57,10 @@ Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Po
 xylophone
 love the bursts of vocals, injecting the song with easy energy; a nice track. Love the piano opening towards the end, smooooth :)**"**
 
-## [Raw Poetic](https://www.facebook.com/wearemozaik/) - Moving Maps
+## [Raw Poetic](https://www.facebook.com/wearemozaik/) - Moving Maps, Tulips
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
 
-## [Soft Cell](https://www.softcell.co.uk/), [DJ Hell](https://www.discogs.com/artist/114532-Hell) - Tainted Love (DJ Hell Remix)
-Sarah: **"**A familiar favorite reworked, balancing out our morning's playlist :) Love how the melody sneaks up on us, with patterned synthwork adding an ominous spin to the original; love the trance club pickup toward the track's end.**"**
+## [Raw Poetic](https://www.softcell.co.uk/), [Damu the Fudgemunk](https://www.discogs.com/artist/114532-Hell), [Archie Shepp](https://www.discogs.com/artist/114532-Hell) - Moving Maps
+Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
 
 <p id="outroduction">That's all for this morning! Our thanks to [Mydgar](https://mydgar.bandcamp.com/) for this elevating electronic selection. Many thanks to Anthony Dujardin for this episode's wonderful illustration!</p>
