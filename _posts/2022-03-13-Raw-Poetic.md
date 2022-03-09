@@ -28,7 +28,7 @@ track7_color: dreamy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track7.mp3'
 track7_title: 'Raw Poetic, Damu the Fudgemunk, Archie Shepp - Moving Maps'
 ---
-<p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in Chicago, 
+<p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in the D.C. area, 
 </p>
 
 # Mydgar's selection
