@@ -29,6 +29,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track7.mp3'
 track7_title: 'Raw Poetic, Damu the Fudgemunk, Archie Shepp - Moving Maps'
 image: 'https://mailta.pe/img/fbPic485.png'
 episode_URL: 'http://mailta.pe/485/Raw-Poetic/'
+guestPic: guestPic485.jpg
 ---
 <p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in the D.C. area, 
   
@@ -62,8 +63,6 @@ Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too muc
 
  공중도덕 (Gongjoong Doduk)
 by 공중도둑
-![guestPic485.jpg]({{site.baseurl}}/img/guestPic485.jpg)
-![fbPic485.png]({{site.baseurl}}/img/fbPic485.png)
 
 
 ## [The Circus Came and Left](https://www.softcell.co.uk/) - Moving Maps
