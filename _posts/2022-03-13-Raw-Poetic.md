@@ -58,9 +58,7 @@ a testament to the "Jason-ness" of this album
 **"**  
 
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
-Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from their 
-xylophone
-love the bursts of vocals, injecting the song with easy energy; a nice track. Love the piano opening towards the end, smooooth :)**"**
+Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. So struck by the xylophone with the easy energy of the rap verses. Love the piano opening towards the end, smooooth :)**"**
 
 ## [Raw Poetic](https://www.facebook.com/wearemozaik/) - Moving Maps, Tulips
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
