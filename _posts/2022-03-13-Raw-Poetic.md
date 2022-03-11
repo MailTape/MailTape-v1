@@ -51,7 +51,7 @@ Raw Poetic: **"**My mother made me study French when I was a young boy, and my s
 # MailTape's selection
 
 ## [Raw Poetic](https://mydgar.bandcamp.com/) - Cadillac
-Sarah : **"**Raw Poetic describes this track as the healing process from a particularly difficult relationship. The lyrics bring about a peace by reviewing all of these moments with a special nostalgia, the proper goodbye. Love the watery quality created by this side swaying bass and smooth vocals, contrasting so nicely with the higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre. **"**  
+Sarah : **"**Such gentle melodies interlayed over each other. Raw Poetic describes this track as the healing process from a particularly difficult relationship. The lyrics describe their story so beautifully, with so many moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with the higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre. **"**  
 
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
