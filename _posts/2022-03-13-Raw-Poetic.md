@@ -49,13 +49,7 @@ Raw Poetic: **"**My mother made me study French when I was a young boy, and my s
 # MailTape's selection
 
 ## [Raw Poetic](https://mydgar.bandcamp.com/) - Cadillac
-Sarah : **"**such a beautiful track 
-coming off of a difficult relationship, coming to peace with the end
-a proper goodbye
-watery quality with reverberating bass and smooth vocals, contrasting so nicely with the higher guitar riff comp
-a testament to the "Jason-ness" of this album 
-	hip hop, folk w soul elements, but not lingering too long on any one genre
-**"**  
+Sarah : **"**Raw Poetic describes this track as the healing process from a particularly difficult relationship. The lyrics bring about a peace by reviewing all of these moments with a special nostalgia, the proper goodbye. Love the watery quality created by this side swaying bass and smooth vocals, contrasting so nicely with the higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre. **"**  
 
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
@@ -64,6 +58,6 @@ Sarah: **"**One of the many collaborations between Damu the Fudgemunk and Raw Po
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
 
 ## [Raw Poetic](https://www.softcell.co.uk/), [Damu the Fudgemunk](https://www.discogs.com/artist/114532-Hell), [Archie Shepp](https://www.discogs.com/artist/114532-Hell) - Moving Maps
-Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each**"**
+Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. This track is another collaboration with Damu the Fudgemunk, featuring jazz legend Archie Shepp on sax. Raw Poetic describes the production process of this album as free form, where each musician was asked to "just play," bringing us this layered mosaic of sound.**"**
 
 <p id="outroduction">That's all for this morning! Our thanks to [Mydgar](https://mydgar.bandcamp.com/) for this elevating electronic selection. Many thanks to Anthony Dujardin for this episode's wonderful illustration!</p>
