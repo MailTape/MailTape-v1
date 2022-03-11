@@ -66,6 +66,6 @@ by 공중도둑
 
 
 ## [The Circus Came and Left](https://www.softcell.co.uk/) - Moving Maps
-Sarah: **"**Love the vocal layering on this one, so celestial and calming. Wonderful for coaxing yourself out of a sleepy morning.**"**
+Sarah: **"**Love the vocal layering on this one. Calming and yet celestial. Wonderful for coaxing yourself out of a sleepy morning.**"**
 
 <p id="outroduction">That's all for this morning! Our thanks to [Mydgar](https://mydgar.bandcamp.com/) for this elevating electronic selection. Many thanks to Anthony Dujardin for this episode's wonderful illustration!</p>
