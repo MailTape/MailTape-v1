@@ -40,9 +40,9 @@ description: >-
   like." His production style follows this free form and flowing process, where
   the end result is not hindered by any certain categorical distinction.
 ---
-<p id="introduction">This morning, we're ringing in the day with some smooth sunshine tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. 
+<p id="introduction">This morning, we're ringing in the day with some smooth sunshine tracks, introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. 
   <br><br>
-Raw Poetic's latest album, Laminated Skies, releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
+Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/album/laminated-skies), releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
    <br><br>
   Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can also be described as Jason.  
 </p>
@@ -67,7 +67,7 @@ Sarah : **"**Such gentle melodies interlayed so carefully over each other, float
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
 ## [DARGZ](https://dargz.bandcamp.com/), [Moses Boyd](http://www.mosesboyd.co.uk/) - Happiness
-Sarah: **"**The piano spirals weaving around the bass and brass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
+Sarah: **"**The piano and synth spirals weaving around the bass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
 
 ## [India Blue](https://indiablue.bandcamp.com/) - Magpie
 Sarah: **"**Finishing off this eclectic selction with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
