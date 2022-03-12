@@ -31,11 +31,11 @@ image: 'https://mailta.pe/img/fbPic485.png'
 episode_URL: 'http://mailta.pe/485/Raw-Poetic/'
 guestPic: guestPic485.jpg
 ---
-<p id="introduction">This morning, we've got some smooth sunshine tracks to lift our spirits up, introduced by our dear guest, Raw Poetic. Based in the D.C. area, 
-  
-  inspirations on being a black man in northern Virginia, America
-  	at once anonymous and hypervisible 
-  
+<p id="introduction">This morning, we're ringing in the day with some smooth sunshine tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. 
+  <br><br>
+Raw Poetic's latest album, Laminated Skies, releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
+   <br><br>
+  Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can also be described as Jason.  
 </p>
 
 # Mydgar's selection
@@ -52,8 +52,7 @@ Raw Poetic: **"**My mother made me study French when I was a young boy, and my s
 # MailTape's selection
 
 ## [Raw Poetic](https://mydgar.bandcamp.com/) - Cadillac
-Sarah : **"**Such gentle melodies interlayed over each other. Raw Poetic describes this track as the healing process from a particularly difficult relationship. The lyrics describe their story so beautifully, with so many moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with the higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre. **"**  
-
+Sarah : **"**Such gentle melodies interlayed so carefully over each other, floating along through the track like flowers in water. Raw Poetic describes this track as the healing process from a particularly turbulent relationship, one that he knew wasn't going to last. The lyrics describe their story so beautifully, with the pendulum swings and so many other moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with Patrick Fritz's higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre.**"**  
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
