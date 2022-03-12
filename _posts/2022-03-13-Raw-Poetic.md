@@ -41,7 +41,7 @@ description: >-
   the end result is not hindered by any certain categorical distinction. 
 musiColor: musiColor485.png
 ---
-<p id="introduction">This morning, we're ringing in the day with some smooth sunshine tracks, introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. 
+<p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>
 Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/album/laminated-skies), releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
    <br><br>
