@@ -69,7 +69,6 @@ Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too muc
 
 ## [DARGZ](https://dargz.bandcamp.com/), [Moses Boyd](http://www.mosesboyd.co.uk/) - Happiness
 Sarah: **"**The piano and synth spirals weaving around the bass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
-![musiColor485.png]({{site.baseurl}}/img/musiColor485.png)
 
 ## [India Blue](https://indiablue.bandcamp.com/) - Magpie
 Sarah: **"**Finishing off this eclectic selction with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
