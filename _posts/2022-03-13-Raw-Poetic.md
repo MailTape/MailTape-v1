@@ -26,11 +26,12 @@ track5_title: Raw Poetic and Damu the Fudgemunk - Power of the Mind
 track6_color: vibrant
 track7_color: dreamy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track7.mp3'
-track7_title: 'Raw Poetic, Damu the Fudgemunk, Archie Shepp - Moving Maps'
+track7_title: India Blue - Magpie
 image: 'https://mailta.pe/img/fbPic485.png'
 episode_URL: 'http://mailta.pe/485/Raw-Poetic/'
 guestPic: guestPic485.jpg
 track6_title: 'DARGZ, Moses Boyd - Happiness'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/485/track6.mp3'
 ---
 <p id="introduction">This morning, we're ringing in the day with some smooth sunshine tracks, introduced by our dear guest, Raw Poetic. The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his albums, Jason says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where the end result is not hindered by any certain categorical distinction. 
   <br><br>
