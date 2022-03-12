@@ -61,6 +61,6 @@ Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too muc
 Sarah: **"**The spirals of piano weaving around bass pushes are absolutely intoxicating. One of the latest singles from producer DARGZ, the namesake of the Happiness EP. Really nice placement in the EP, adding some instrumental breath before Hold On, Pt. 2.**"**
 
 ## [India Blue](https://www.softcell.co.uk/) - Magpie
-Sarah: **"**Off of India Blue's 2022 album, The Circus Came and Left. Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
+Sarah: **"**Finishing off this eclectic selction with a track from India Blue's 2022 album, The Circus Came and Left. Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Mydgar](https://mydgar.bandcamp.com/) for this elevating electronic selection. Many thanks to Anthony Dujardin for this episode's wonderful illustration!</p>
