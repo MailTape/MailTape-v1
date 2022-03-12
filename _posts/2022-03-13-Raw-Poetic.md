@@ -57,10 +57,10 @@ Sarah : **"**Such gentle melodies interlayed so carefully over each other, float
 ## [Damu the Fudgemunk, Raw Poetic](https://nikkinair.bandcamp.com/) - Power of the Mind
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum Conversation Peace. Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
-## DARGZ, Moses Boyd - Happiness
-Sarah: **"**The spirals of piano weaving around bass pushes are absolutely intoxicating. One of the latest singles from producer DARGZ, the namesake of the Happiness EP. Really nice placement in the EP, adding some instrumental breath before Hold On, Pt. 2.**"**
+## DARGZ, Moses Boyd - Lou's Tune
+Sarah: **"**The flute spirals weaving around the brass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the Happiness EP. Really nice placement in the release, adding some instrumental breath after Hold On, Pt. 2, closing out the EP nicely.**"**
 
 ## [India Blue](https://www.softcell.co.uk/) - Magpie
 Sarah: **"**Finishing off this eclectic selction with a track from India Blue's 2022 album, The Circus Came and Left. Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
 
-<p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Mydgar](https://mydgar.bandcamp.com/) for this elevating electronic selection. Many thanks to Anthony Dujardin for this episode's wonderful illustration!</p>
+<p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://mydgar.bandcamp.com/) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
