@@ -48,7 +48,7 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
   Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can also be described as Jason.  
 </p>
 
-# Mydgar's selection
+# Raw Poetic's selection
 
 ## [The Bongo Band](https://www.mrbongo.com/collections/incredible-bongo-band) - Apache
 Raw Poetic: **"**This song is pretty well known in the B-Boy circuit, but I think it’s a quite necessary piece for anyone who is just learning about hip-hop or trying to learn how to rap. It’s a great beat to freestyle rap or dance to.  I feel like this song should be played at some point every day.**"**
