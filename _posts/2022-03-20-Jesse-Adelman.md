@@ -9,6 +9,9 @@ category: '486'
 guest_name: Jesse Adelman
 guest_color: dreamy
 guestPic: guestPic486.jpg
+track1_title: David Nance - Save Me Some Tears
+track2_title: Jim O'Rourke - All Downhill From Here
+track3_title: Sam Prekop - Chicago People
 ---
 <p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>
@@ -16,17 +19,16 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
    <br><br>
   Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can also be described as Jason.  
 </p>
-![guestPic486.jpg]({{site.baseurl}}/img/guestPic486.jpg)
 
 # Jesse Adelman's selection
 
-## [The Bongo Band](https://www.mrbongo.com/collections/incredible-bongo-band) - Apache
+## David Nance - Save Me Some Tears
 Jesse Adelman: **"**This song is pretty well known in the B-Boy circuit, but I think it’s a quite necessary piece for anyone who is just learning about hip-hop or trying to learn how to rap. It’s a great beat to freestyle rap or dance to.  I feel like this song should be played at some point every day.**"**
 
-## [The Silent Years](https://www.facebook.com/The-Silent-Years-28187101026/) - Someone To Keep Us Warm
+## Jim O'Rourke - All Downhill From Here
 Jesse Adelman: **"**I can’t remember if I played a gig with this band, or if I just saw them in DC one night; but they played this song, and I never forgot it. It has a good vibe. I believe they are from Detroit. I’m not sure if they even still exist as a band. I don’t know any of their other songs. But I like this one. It reminds me that anyone, in the right moment, can make a good song. As long as it’s from the heart.**"**
 
-## [MC Solaar](https://www.discogs.com/artist/16412-MC-Solaar) - Bouge De Là
+## Sam Prekop - Chicago People
 Jesse Adelman: **"**My mother made me study French when I was a young boy, and my sister had taken a trip to France. Since she knew I loved hip-hop, my sister sent me back this French Hip-Hop album. At the time, I didn’t even know hip-hop was popular in France. I loved this song. It opened me up to a whole new world of hip-hop. I’ve been a fan ever since.**"**
 
 # MailTape's selection
