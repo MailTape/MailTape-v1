@@ -23,13 +23,13 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
 # Jesse Adelman's selection
 
 ## David Nance - Save Me Some Tears
-Jesse Adelman: **"**This song is pretty well known in the B-Boy circuit, but I think it’s a quite necessary piece for anyone who is just learning about hip-hop or trying to learn how to rap. It’s a great beat to freestyle rap or dance to.  I feel like this song should be played at some point every day.**"**
+Jesse Adelman: **"**Staunch Honey is one of my favorite albums of the past couple years. It’s lo-fi and ragged, everything feels spur-of-the-moment and shaggy but the tunes are super balanced and propulsive. I’m pretty sure this whole record is David multitracking himself but he does it direct to tape (brave hero) whereas I track on a laptop rig (nerd coward).**"**
 
 ## Jim O'Rourke - All Downhill From Here
-Jesse Adelman: **"**I can’t remember if I played a gig with this band, or if I just saw them in DC one night; but they played this song, and I never forgot it. It has a good vibe. I believe they are from Detroit. I’m not sure if they even still exist as a band. I don’t know any of their other songs. But I like this one. It reminds me that anyone, in the right moment, can make a good song. As long as it’s from the heart.**"**
+Jesse Adelman: **"**20 years ago Jim O’Rourke was producing Sonic Youth and Smog and Wilco and somewhere in there he made two solo pop albums called “Eureka” and “Insignificance.” They are kind of impossible to find but they’re both amazing. The mixes are aggressively clean and dry but the writing and arrangements are crazy, he conjures so much energy out of the performances and he’s floating these sardonic lyrics right on top, deadpan.**"**
 
 ## Sam Prekop - Chicago People
-Jesse Adelman: **"**My mother made me study French when I was a young boy, and my sister had taken a trip to France. Since she knew I loved hip-hop, my sister sent me back this French Hip-Hop album. At the time, I didn’t even know hip-hop was popular in France. I loved this song. It opened me up to a whole new world of hip-hop. I’ve been a fan ever since.**"**
+Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’s doing ambient modular synth records (which rule) but his solo album from 2005 and this song in particular have stuck with me over the years as a masterpiece of restrained tension, he captures so much emotion with a few whispers, pretty spare instrumentation, just great writing and playing. The horn voicings on this intro, those muted cornets, the harmony is bittersweet and then it’s melancholy and then it resolves and just floods your brain with dopamine. I do a ton of background vocal layering on my own stuff — I’m chasing the feeling that this record nails with a three horn stack.**"**
 
 # MailTape's selection
 
