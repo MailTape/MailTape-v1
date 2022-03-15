@@ -33,7 +33,7 @@ Jesse Adelman: **"**My mother made me study French when I was a young boy, and m
 
 # MailTape's selection
 
-## [Raw Poetic](https://rawpoetic.bandcamp.com/music) - Cadillac
+## Jesse Adelman - xx
 Sarah : **"**Such gentle melodies interlaced so carefully over each other, floating along through the track like flowers in water. Raw Poetic describes this track as the healing process from a particularly turbulent relationship, one that he knew wasn't going to last. The lyrics describe their story so beautifully, with the pendulum swings and so many other moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with Patrick Fritz's higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre.**"**  
 
 ## [Damu the Fudgemunk](https://damuthefudgemunk.bandcamp.com/), [Raw Poetic](https://rawpoetic.bandcamp.com/music) - Power of the Mind
