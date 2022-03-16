@@ -12,6 +12,11 @@ guestPic: guestPic486.jpg
 track1_title: David Nance - Save Me Some Tears
 track2_title: Jim O'Rourke - All Downhill From Here
 track3_title: Sam Prekop - Chicago People
+track2_color: vibrant
+track3_color: dreamy
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track1.mp3'
 ---
 <p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>
