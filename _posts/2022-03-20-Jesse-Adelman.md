@@ -31,6 +31,9 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
   Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can also be described as Jason.  
 </p>
 
+![fbPic486.png]({{site.baseurl}}/img/fbPic486.png)
+
+
 # Jesse Adelman's selection
 
 ## David Nance - Save Me Some Tears
