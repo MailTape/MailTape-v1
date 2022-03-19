@@ -27,6 +27,7 @@ image: 'https://mailta.pe/img/fbPic486.png'
 episode_URL: 'http://mailta.pe/486/Jesse-Adelman/'
 track4_title: Jesse Adelman - Even If
 track6_title: Jesse Adelman - Me and Josine
+track5_title: Renata Zeiguer - Evergreen
 ---
 <p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>
