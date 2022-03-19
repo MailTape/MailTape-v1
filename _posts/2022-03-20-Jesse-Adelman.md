@@ -48,13 +48,13 @@ Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’
 
 # MailTape's selection
 
-## Jesse Adelman - xx
+## Jesse Adelman - Even If
 Sarah : **"**Such gentle melodies interlaced so carefully over each other, floating along through the track like flowers in water. Raw Poetic describes this track as the healing process from a particularly turbulent relationship, one that he knew wasn't going to last. The lyrics describe their story so beautifully, with the pendulum swings and so many other moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with Patrick Fritz's higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre.**"**  
 
-## [Damu the Fudgemunk](https://damuthefudgemunk.bandcamp.com/), [Raw Poetic](https://rawpoetic.bandcamp.com/music) - Power of the Mind
+## [Renata Zeiguer](https://damuthefudgemunk.bandcamp.com/) - Sunset Boulevard
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum [Conversation Peace](https://damuthefudgemunk.bandcamp.com/album/conversation-peace). Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
-## [DARGZ](https://dargz.bandcamp.com/), [Moses Boyd](http://www.mosesboyd.co.uk/) - Happiness
+## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
 Sarah: **"**The piano and synth spirals weaving around the bass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
 
 ## [India Blue](https://indiablue.bandcamp.com/) - Magpie
