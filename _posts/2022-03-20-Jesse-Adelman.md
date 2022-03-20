@@ -64,7 +64,7 @@ Sarah : **"**The album reads like a morning 70's AM radio, Really full texture, 
 ## Louis Inglis - Bad Dreams
 Sarah: **"**The namesake of Louis Inglis's latest album, with each track full of so much texture. Love the electric piano on this, it adds the perfect mood to the melancholy swings within these chord progressions.**"**
 
-## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
+## [Jesse Adelman](https://jesseadelman.bandcamp.com/album/strangers) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
 
 ## Johanna Samuels, Ohtis - Via Chicago
