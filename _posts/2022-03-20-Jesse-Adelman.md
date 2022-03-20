@@ -47,13 +47,13 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track7.mp3'
 
 # Jesse Adelman's selection
 
-## David Nance - Save Me Some Tears
+## [David Nance](https://davidnance.bandcamp.com/) - Save Me Some Tears
 Jesse Adelman: **"**Staunch Honey is one of my favorite albums of the past couple years. It’s lo-fi and ragged, everything feels spur-of-the-moment and shaggy but the tunes are super balanced and propulsive. I’m pretty sure this whole record is David multitracking himself but he does it direct to tape (brave hero) whereas I track on a laptop rig (nerd coward).**"**
 
-## Jim O'Rourke - All Downhill From Here
+## [Jim O'Rourke](https://www.discogs.com/artist/3550-Jim-ORourke) - All Downhill From Here
 Jesse Adelman: **"**20 years ago Jim O’Rourke was producing Sonic Youth and Smog and Wilco and somewhere in there he made two solo pop albums called “Eureka” and “Insignificance.” They are kind of impossible to find but they’re both amazing. The mixes are aggressively clean and dry but the writing and arrangements are crazy, he conjures so much energy out of the performances and he’s floating these sardonic lyrics right on top, deadpan.**"**
 
-## Sam Prekop - Chicago People
+## [Sam Prekop](https://samprekop.bandcamp.com/album/sam-prekop) - Chicago People
 Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’s doing ambient modular synth records (which rule) but his solo album from 2005 and this song in particular have stuck with me over the years as a masterpiece of restrained tension, he captures so much emotion with a few whispers, pretty spare instrumentation, just great writing and playing. The horn voicings on this intro, those muted cornets, the harmony is bittersweet and then it’s melancholy and then it resolves and just floods your brain with dopamine. I do a ton of background vocal layering on my own stuff — I’m chasing the feeling that this record nails with a three horn stack.**"**
 
 # MailTape's selection
