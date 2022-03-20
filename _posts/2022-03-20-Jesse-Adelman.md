@@ -66,7 +66,7 @@ Sarah: **"**Finishing off this eclectic selection with a track from India Blue's
 ## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
 
-## [Renata Zeiguer](https://damuthefudgemunk.bandcamp.com/) - 
+## [Louis Inglis](https://damuthefudgemunk.bandcamp.com/) - Bad Dreams
 Sarah: **"**Love the vocal layering in this track. Off of Renata Zeiguer's latest album, **"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://rawpoetic.bandcamp.com/music) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
