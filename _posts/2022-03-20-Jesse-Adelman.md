@@ -62,12 +62,12 @@ Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’
 Sarah : **"**The album reads like a morning 70's AM radio, Really full texture, especially with the electronic piano. Enjoying the sound landscapes drawn by the mastering of Jeff Zeigler (War on Drugs, Laraaji, Kurt Vile); such a 3D space is created. As Jesse describes, there is also an epic quality with some sort of psychedelic spirals woven into the silky mesh of audio.**"**  
 
 ## Louis Inglis - Bad Dreams
-Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
+Sarah: **"**Love the electric piano on this, it adds the perfect mood to the melancholy swings within these chord progressions. **"**
 
 ## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
 
 ## Johanna Samuels, Ohtis - Via Chicago
-Sarah: **"****"**
+Sarah: **"**Was a bit struck by the lyrics of this one, contrasting so abruptly to the **"**
 
-<p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://rawpoetic.bandcamp.com/music) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
+<p id="outroduction">That's all for this Sunday morning :) Many thanks to [Jesse Adelman](https://rawpoetic.bandcamp.com/music) for this easy going Sunday selection. Our thanks to Julie Wo for this episode's wonderful illustration!</p>
