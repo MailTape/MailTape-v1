@@ -40,7 +40,7 @@ description: >-
 track7_title: 'Johanna Samuels, Ohtis - Via Chicago'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track7.mp3'
 ---
-<p id="introduction">Today, we welcome Jesse Adelman for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, Strangers, in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
+<p id="introduction">Today, we welcome [Jesse Adelman](https://jesseadelman.bandcamp.com/) for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, [Strangers](https://jesseadelman.bandcamp.com/album/strangers), in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
   <br><br>
   Jesse Adelman describes Strangers as an album made with no expectations: time, genre, or otherwise. In the solitary context of the pandemic, Jesse felt completely liberated to experiment, to create, and to reflect on his music. 
 </p>
@@ -58,11 +58,11 @@ Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’
 
 # MailTape's selection
 
-## Jesse Adelman - Even If
+## [Jesse Adelman](https://jesseadelman.bandcamp.com/) - Even If
 Sarah : **"**The album reads like a morning 70's AM radio, Really full texture, especially with the electronic piano. Enjoying the sound landscapes drawn by the mastering of Jeff Zeigler (War on Drugs, Laraaji, Kurt Vile); such a 3D space is created. As Jesse describes, there is also an epic quality with some sort of psychedelic spirals woven into the silky mesh of audio.**"**  
 
-## Louis Inglis - Bad Dreams
-Sarah: **"**The namesake of Louis Inglis's latest album, with each track full of so much texture. Love the electric piano on this, it adds the perfect mood to the melancholy swings within these chord progressions.**"**
+## [Louis Inglis](https://louisinglis.bandcamp.com/album/bad-dreams) - Bad Dreams
+Sarah: **"**The namesake of Louis Inglis's [latest album](https://louisinglis.bandcamp.com/album/bad-dreams), with each track full of so much texture. Love the electric piano on this, it adds the perfect mood to the melancholy swings within these chord progressions.**"**
 
 ## [Jesse Adelman](https://jesseadelman.bandcamp.com/album/strangers) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
@@ -70,4 +70,4 @@ Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Ade
 ## Johanna Samuels, Ohtis - Via Chicago
 Sarah: **"**Was a bit struck by the lyrics of this one, contrasting so abruptly to the softer folk instrumentals. Johanna Samuels's vocals add such a levity to the track, a beautiful listen to end our playlist :)**"**
 
-<p id="outroduction">That's all for this Sunday morning :) Many thanks to [Jesse Adelman](https://rawpoetic.bandcamp.com/music) for this easy going Sunday selection. Our thanks to Julie Wo for this episode's wonderful illustration!</p>
+<p id="outroduction">That's all for this Sunday morning :) Many thanks to [Jesse Adelman](https://jesseadelman.bandcamp.com/) for this easy going Sunday selection. Our thanks to Julie Wo for this episode's wonderful illustration!</p>
