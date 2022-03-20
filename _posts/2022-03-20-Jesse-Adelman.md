@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Sarah
 illustrator: Julie Wojtczak
 writer: Sarah
@@ -37,10 +37,11 @@ description: >-
   released his solo debut album, Strangers, in December of last year. Influenced
   by classic 70's rock, folk, and alt-Western music, this album is a world of
   sound to listen through, a pleasure to the end.
+track7_title: 'Johanna Samuels, Ohtis - Via Chicago'
 ---
 <p id="introduction">Today, we welcome Jesse Adelman for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, Strangers, in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
   <br><br>
-  Another album 
+  Jesse Adelman describes Strangers as an album made with no expectations: time, genre, or otherwise. In the solitary context of the pandemic, Jesse felt completely liberated to experiment, to create, and to reflect on his music. 
 </p>
 
 # Jesse Adelman's selection
@@ -59,7 +60,7 @@ Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’
 ## Jesse Adelman - Even If
 Sarah : **"**The album reads like a morning 70's AM radio, Really full texture, especially with the electronic piano. Enjoying the sound landscapes drawn by the mastering of Jeff Zeigler (War on Drugs, Laraaji, Kurt Vile); such a 3D space is created. As Jesse describes, there is also an epic quality with some sort of psychedelic spirals woven into the silky mesh of audio.**"**  
 
-## [India Blue](https://indiablue.bandcamp.com/) - Magpie
+## Johanna Samuels, Ohtis - Via Chicago
 Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
 
 ## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
