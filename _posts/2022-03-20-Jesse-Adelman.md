@@ -27,7 +27,7 @@ image: 'https://mailta.pe/img/fbPic486.png'
 episode_URL: 'http://mailta.pe/486/Jesse-Adelman/'
 track4_title: Jesse Adelman - Even If
 track6_title: Jesse Adelman - Me and Josine
-track5_title: Renata Zeiguer - Evergreen
+track5_title: Louis Inglis - Bad Dreams
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track6.mp3'
@@ -38,6 +38,7 @@ description: >-
   by classic 70's rock, folk, and alt-Western music, this album is a world of
   sound to listen through, a pleasure to the end.
 track7_title: 'Johanna Samuels, Ohtis - Via Chicago'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/486/track7.mp3'
 ---
 <p id="introduction">Today, we welcome Jesse Adelman for a collection of easy moving tracks to start your Sunday. Multi-instrumentalist songwriter based in the Bronx, Jesse released his solo debut album, Strangers, in December of last year. Influenced by classic 70's rock, folk, and alt-Western music, this album is a world of sound to listen through, a pleasure to the end.
   <br><br>
@@ -60,13 +61,13 @@ Jesse Adelman: **"**Sam is the frontman of The Sea and Cake and these days he’
 ## Jesse Adelman - Even If
 Sarah : **"**The album reads like a morning 70's AM radio, Really full texture, especially with the electronic piano. Enjoying the sound landscapes drawn by the mastering of Jeff Zeigler (War on Drugs, Laraaji, Kurt Vile); such a 3D space is created. As Jesse describes, there is also an epic quality with some sort of psychedelic spirals woven into the silky mesh of audio.**"**  
 
-## Johanna Samuels, Ohtis - Via Chicago
+## Louis Inglis - Bad Dreams
 Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
 
 ## [Jesse Adelman](https://dargz.bandcamp.com/) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
 
-## [Louis Inglis](https://damuthefudgemunk.bandcamp.com/) - Bad Dreams
-Sarah: **"**Love the vocal layering in this track. Off of Renata Zeiguer's latest album, **"**
+## Johanna Samuels, Ohtis - Via Chicago
+Sarah: **"****"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://rawpoetic.bandcamp.com/music) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
