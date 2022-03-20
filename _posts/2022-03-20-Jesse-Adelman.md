@@ -67,7 +67,7 @@ Sarah: **"**The namesake of Louis Inglis's [latest album](https://louisinglis.ba
 ## [Jesse Adelman](https://jesseadelman.bandcamp.com/album/strangers) - Me and Josine
 Sarah: **"**She likes to fight, I like to get over it :) Also off of Jesse's Adelman's album Strangers. The treading Western influence is a bit stronger in this one, crafting an atmosphere of comforting nostalgia.**"**
 
-## Johanna Samuels, Ohtis - Via Chicago
+## [Johanna Samuels](http://www.johannasamuels.com/), [Ohtis](https://www.ohtis.com/) - Via Chicago
 Sarah: **"**Was a bit struck by the lyrics of this one, contrasting so abruptly to the softer folk instrumentals. Johanna Samuels's vocals add such a levity to the track, a beautiful listen to end our playlist :)**"**
 
 <p id="outroduction">That's all for this Sunday morning :) Many thanks to [Jesse Adelman](https://jesseadelman.bandcamp.com/) for this easy going Sunday selection. Our thanks to Julie Wo for this episode's wonderful illustration!</p>
