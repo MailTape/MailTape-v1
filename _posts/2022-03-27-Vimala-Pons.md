@@ -35,7 +35,9 @@ track7_title: Antoine Bellanger - Il se frotte contre l'écorce et de son bras c
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/487/track7.mp3'
 description: xxx
 ---
-<p id="introduction">This morning, we're very pleased to welcome Vimala Pons as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive. As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https://www.theatre-contemporain.net/spectacles/Le-Perimetre-de-Denver/lesdates)" we may not be one but many. Many things, many people, many stories. It's time more than ever to foolishly incarnate them all and blossom to your best like plants in spring. And music is the best igniter for that. Put the volume up, wake up your neighbors!
+<p id="introduction">This morning, we're very pleased to welcome Vimala Pons as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
+
+As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https://www.theatre-contemporain.net/spectacles/Le-Perimetre-de-Denver/lesdates)" we may not be one but many. Many things, many people, many stories. It's time more than ever to foolishly incarnate them all and blossom to your best like plants in spring. And music is the best igniter for that. Put the volume up, wake up your neighbors!
 </p>
 
 # Vimala Pons' selection
