@@ -71,4 +71,4 @@ ImaCrea: **"**Slow down, let's park there, in front of this wild forest calling 
 ## [Antoine Bellanger](https://antoinebellanger.bandcamp.com) - Il se frotte contre l'écorce et de son bras coule l'étoile.
 ImaCrea: **"**The whole forest is ready to reply and tell its story now.. Stop the engine, let's walk in...**"**
 
-<p id="outroduction">That's all for this Sunday morning :) Many thanks to [Jesse Adelman](https://jesseadelman.bandcamp.com/) for this easy going Sunday selection. Our thanks to Julie Wo for this episode's wonderful illustration!</p>
+<p id="outroduction">That's all for this Sunday morning :) Infinite thanks to [Vimala Pons](https://vimalapons.bandcamp.com/) for such a refreshing selection. It wasn't easy to complete it and I had much pleasure doing my curation. Great thanks also to Thibault Daumain for his colorful illustration!</p>
