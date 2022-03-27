@@ -23,7 +23,7 @@ track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
 musiColor: musiColor487.png
-image: 'https://mailta.pe/img/fbPic487.png'
+image: 'https://mailta.pe/img/fbPic487.jpg'
 episode_URL: 'http://mailta.pe/487/Vimala-Pons/'
 track4_title: Vimala Pons - Eusapia Klane Remembers
 track6_title: Emily Wells - Love Saves The Day
