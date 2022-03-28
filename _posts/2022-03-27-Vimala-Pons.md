@@ -45,7 +45,7 @@ As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https:
 ## Tierra Whack - Mumbo Jumbo
 Vimala Pons: **"**Tierra Whack is one of my favorite female singers. I love her visual work as much as her music because it seems that her videos are worked as much as her music and lyrics. All that work together. One thing nourishes the other. She is the alliance of « panache » insolence and great humor.
 
-And in Mumbo Jumbo she sings restrained by very special dentist braces. It’s as funny, as sad, as politically powerful. She is a great priestess as, in a very different style, Laurie Anderson, Kate Bush, Rebekka Warrior, Anne Clarke, and Peaches, are. **"**
+And in Mumbo Jumbo she sings restrained by very special dentist braces. It’s as funny, as sad, as politically powerful. She is a great priestess as, in a very different style, Laurie Anderson, Kate Bush, Rebeka Warrior, Anne Clarke, and Peaches, are. **"**
 
 ## [Peaches](https://peachesofficial.bandcamp.com) - AA XXX
 Vimala Pons: **"**Peaches saved my life many times. My psychological life I mean. This track gives me so much strength thanks maybe to his minimalism- lofy-sensuality-deeply-funny-intelligent-smart-sharp-sweet violence.
