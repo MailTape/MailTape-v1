@@ -19,6 +19,10 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track3.mp3'
 track3_color: vibrant
 track3_title: Eveline Fischer - Submap Shuffle
+track4_color: trippy
+track5_color: trippy
+track6_color: vibrant
+track7_color: bliss
 ---
 <p id="introduction">This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 
