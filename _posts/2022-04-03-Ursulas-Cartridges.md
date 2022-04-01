@@ -9,6 +9,7 @@ category: '488'
 guest_name: Ursula's Cartridges
 guest_color: trippy
 episode_URL: 'http://mailta.pe/488/Ursulas-Cartridges/'
+guestPic: guestPic488.jpg
 ---
 <p id="introduction">This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 
