@@ -18,13 +18,13 @@ As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https:
 
 # Ursula's Cartridges' selection
 
-## Tierra Whack - Mumbo Jumbo
+## VHS Head - Body Magic
 Ursula's Cartridges: **"**This guy released the best album of the 2010's and it's all about sampling b-movies and old television commercials! Retrofuturistic audiovisual onslaught that sticks to your ear like ketchup on a white t-shirt.**"**
 
-## [Peaches](https://peachesofficial.bandcamp.com) - AA XXX
+## [Dream Frequency](https://peachesofficial.bandcamp.com) - Take Me (The Prodigy Mix)
 Ursula's Cartridges: **"**Thanks to my brother I got to listen to lots of early 90s dance and rave music when it was still a new thing. To this day I still cherish those days fondly. I find modern (dance) music extremely poor when comparing it to the 90s. Music used to have memorable melodies and hooks that still sound fresh. Now it's replaced by bass and noise that nobody can't stand listening to while sober.**"**
 
-## [Das Kinn](https://mmodemm.bandcamp.com/album/das-kinn-mdm-5) - Das Kinn 
+## [Eveline Fischer](https://mmodemm.bandcamp.com/album/das-kinn-mdm-5) - Submap Shuffle
 Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-time favourite video game music soundtracks. It manages to add ambiance with a massive amount of unique sounding echoing bass structure in the background, making it sound grand, mysterious and even playful. Unlike in other "DKC" games, the music was mostly composed by Eveline Fischer with a minor help by David Wise. Fischer does a surprisingly fine job and manages to compose music that can compete with Wise's work, although she relies on ambient elements whereas Wise's music is more melodical. Overall, the music of "DKC3" was an instant favourite to my eight year old mind. Before that i never knew about the genre of "ambient music" but i've always enjoyed the music style. I remember listening to the overworld theme ("Northern Kremisphere") and the world map theme ("Submap Shuffle") nonstop without playing the game at all. Just sitting and enjoying the game world and thinking about all the millions of possible hidden places it included. The repetitive synthesizer melodies, low pitch drums samples and low bass ambient patterns are an irresistible immersion to the game and this "three element symbiosis" repeats in several other levels as well.**"**
 
 # MailTape's selection
