@@ -14,6 +14,7 @@ episode_URL: 'http://mailta.pe/488/Ursulas-Cartridges/'
 
 As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https://www.theatre-contemporain.net/spectacles/Le-Perimetre-de-Denver/lesdates)" we may not be one but many. Many things, many people, many stories. It's time more than ever to foolishly incarnate them all and blossom to your best like plants in spring. And music is the best igniter for that. Put the volume up, wake up your neighbors!
 </p>
+![guestPic488.jpg]({{site.baseurl}}/img/guestPic488.jpg)
 
 # Ursula's Cartridges' selection
 
