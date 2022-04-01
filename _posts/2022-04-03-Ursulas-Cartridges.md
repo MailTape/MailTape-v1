@@ -12,6 +12,7 @@ episode_URL: 'http://mailta.pe/488/Ursulas-Cartridges/'
 guestPic: guestPic488.jpg
 track1_color: trippy
 track1_title: VHS Head - Body Magic
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track1.mp3'
 ---
 <p id="introduction">This morning, we're very pleased to welcome [Vimala Pons](https://vimalapons.bandcamp.com/) as our guest for a very eclectic selection. Expect here an energizing cocktail filled with all colors we have, exactly what's needed to start spring well and fully alive.
 
