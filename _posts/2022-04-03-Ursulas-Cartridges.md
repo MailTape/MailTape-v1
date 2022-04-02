@@ -52,7 +52,7 @@ Sarah : **"**Love the trippy synth pickups with these watery basslines. The trac
 ## [Enraile](https://boyharsher.bandcamp.com) - Pale Memory
 Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.bandcamp.com/album/screentime) (released just 2 days ago!), a release Enraile aptly dedicates to his computer. Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
 
-## [Irène de Milo](https://emilywells.bandcamp.com) - Sans Éternité
+## [Irène de Milo](https://irenedemilo.bandcamp.com/) - Sans Éternité
 Sarah: **"**Slow down, let's park there, in front of this wild forest calling us. The stereo still goes on, waves from Emily Wells' violin entering the woods. Lights on a couple of magnificent and bi-centennial oaks, humans dancing and sending joyful energy through their vibration communicated to the mycelium down there.**"**
 
 ## [Antoine Bellanger](https://antoinebellanger.bandcamp.com) - Il se frotte contre l'écorce et de son bras coule l'étoile.
