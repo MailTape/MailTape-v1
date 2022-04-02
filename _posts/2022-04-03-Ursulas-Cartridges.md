@@ -41,10 +41,8 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 
 # MailTape's selection
 
-## [Vimala Pons](https://vimalapons.bandcamp.com/) - Eusapia Klane Remembers
-Sarah : **"**Enter the abstract world of Eusapia Klane, one of the characters from Vimala Pons' latest show "[Le Périmètre de Denver](https://www.theatre-contemporain.net/spectacles/Le-Perimetre-de-Denver/lesdates)". Glowy colors, flashy streets, a geometrical car... what do you see behind your close eyelids when listening to this story?
-
-This is the first chapter of an audio story she wrote and produced as a spinoff. I love the freedom she takes here to create a refreshing unidentified sound object. What if it was all a story from the beginning? Do we really need to be serious? Do you believe in truth?**"**  
+## [Ursula's Cartridges](https://vimalapons.bandcamp.com/) - Wind Rider
+Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy. The rave aesthetic and 90's nostalgia is certainly apparent, **"**  
 
 ## [Boy Harsher](https://boyharsher.bandcamp.com) - Tears
 Sarah: **"**Talking about freedom... Let's ride with Eusapia in our shiny stolen car, listening out loud to Boy Harsher. It's Sunday morning but this track takes me right to Friday night, I feel I need that kind of raw and hot energy in these days. Don't you?**"**
