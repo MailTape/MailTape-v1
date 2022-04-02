@@ -24,8 +24,10 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: bliss
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track4.mp3'
+track4_title: Ursula's Cartridges - Wind Rider
+track5_title: Enraile - Pale Memory
 ---
-<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. 
+<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection.
 </p>
 
 # Ursula's Cartridges' selection
@@ -44,8 +46,8 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 ## [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) - Wind Rider
 Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia.**"**  
 
-## [Boy Harsher](https://boyharsher.bandcamp.com) - Tears
-Sarah: **"**Talking about freedom... Let's ride with Eusapia in our shiny stolen car, listening out loud to Boy Harsher. It's Sunday morning but this track takes me right to Friday night, I feel I need that kind of raw and hot energy in these days. Don't you?**"**
+## [Enraile](https://boyharsher.bandcamp.com) - Pale Memory
+Sarah: **"**Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
 
 ## [Emily Wells](https://emilywells.bandcamp.com) - Love Saves The Day
 Sarah: **"**Slow down, let's park there, in front of this wild forest calling us. The stereo still goes on, waves from Emily Wells' violin entering the woods. Lights on a couple of magnificent and bi-centennial oaks, humans dancing and sending joyful energy through their vibration communicated to the mycelium down there.**"**
@@ -53,4 +55,4 @@ Sarah: **"**Slow down, let's park there, in front of this wild forest calling us
 ## [Antoine Bellanger](https://antoinebellanger.bandcamp.com) - Il se frotte contre l'écorce et de son bras coule l'étoile.
 Sarah: **"**The whole forest is ready to reply and tell its story now.. Stop the engine, let's walk in...**"**
 
-<p id="outroduction">That's all for this Sunday morning :) Infinite thanks to [Vimala Pons](https://vimalapons.bandcamp.com/) for such a refreshing selection. It wasn't easy to complete it and I had much pleasure doing my curation. Great thanks also to Thibault Daumain for his colorful illustration!</p>
+<p id="outroduction">That wraps up this morning! Many thanks to [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) for this electro selection. Thank you to Thibault Daumain for this episode's striking illustration :)</p>
