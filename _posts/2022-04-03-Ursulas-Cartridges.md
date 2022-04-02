@@ -29,6 +29,7 @@ track5_title: Enraile - Pale Memory
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track6.mp3'
 track6_title: Irène de Milo - Sans Éternité
+track7_title: Windows 96 - Edenic Green Plus
 ---
 <p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection.
 </p>
@@ -53,9 +54,9 @@ Sarah : **"**Love the trippy synth pickups with these watery basslines. The trac
 Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.bandcamp.com/album/screentime) (released just 2 days ago!), a release Enraile aptly dedicates to his computer. Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
 
 ## [Irène de Milo](https://irenedemilo.bandcamp.com/) - Sans Éternité
-Sarah: **"**The playlist would not be complete without 80's synthwave. Off of Brittany-based Irène de Milo's 2021 album, [Trestel Rêve](https://irenedemilo.bandcamp.com/album/trestel-r-ve).**"**
+Sarah: **"**The playlist would not be complete without some 80's synthwave :) Off of Brittany-based Irène de Milo's 2021 album, [Trestel Rêve](https://irenedemilo.bandcamp.com/album/trestel-r-ve).**"**
 
-## [Antoine Bellanger](https://antoinebellanger.bandcamp.com) - Il se frotte contre l'écorce et de son bras coule l'étoile.
+## [Windows 96](https://antoinebellanger.bandcamp.com) - Edenic Green Plus
 Sarah: **"**The whole forest is ready to reply and tell its story now.. Stop the engine, let's walk in...**"**
 
 <p id="outroduction">That wraps up this morning! Many thanks to [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) for this electro selection. Thank you to Thibault Daumain for this episode's striking illustration :)</p>
