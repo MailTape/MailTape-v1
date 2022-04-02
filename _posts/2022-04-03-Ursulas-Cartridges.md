@@ -30,6 +30,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track6.mp3'
 track6_title: Irène de Milo - Sans Éternité
 track7_title: Windows 96 - Edenic Green Plus
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track7.mp3'
 ---
 <p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection.
 </p>
