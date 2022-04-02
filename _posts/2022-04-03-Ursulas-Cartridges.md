@@ -57,7 +57,7 @@ Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.b
 ## [Irène de Milo](https://irenedemilo.bandcamp.com/) - Sans Éternité
 Sarah: **"**The playlist would not be complete without some 80's synthwave :) Off of Brittany-based Irène de Milo's 2021 album, [Trestel Rêve](https://irenedemilo.bandcamp.com/album/trestel-r-ve).**"**
 
-## [Windows 96](https://antoinebellanger.bandcamp.com) - Edenic Green Plus
-Sarah: **"**The whole forest is ready to reply and tell its story now.. Stop the engine, let's walk in...**"**
+## [Windows 96](https://windows96.bandcamp.com/) - Edenic Green Plus
+Sarah: **"**From Windows 96 album [Empty Hiding World](https://windows96.bandcamp.com/album/empty-hiding-world), released last month. As with Magic Peaks and Purple Twilight, the releases of Windows 96 are rich with synth exploration and experimental movements. Love the game tones here :)**"**
 
 <p id="outroduction">That wraps up this morning! Many thanks to [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) for this electro selection. Thank you to Thibault Daumain for this episode's striking illustration :)</p>
