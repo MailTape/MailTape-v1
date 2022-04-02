@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 illustrator: Thibault Daumain
 author: Sarah
 writer: Sarah
