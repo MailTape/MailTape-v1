@@ -47,7 +47,7 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia.**"**  
 
 ## [Enraile](https://boyharsher.bandcamp.com) - Pale Memory
-Sarah: **"**Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
+Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.bandcamp.com/album/screentime) (released just 2 days ago!), a release Enraile aptly dedicates to his computer. Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
 
 ## [Emily Wells](https://emilywells.bandcamp.com) - Love Saves The Day
 Sarah: **"**Slow down, let's park there, in front of this wild forest calling us. The stereo still goes on, waves from Emily Wells' violin entering the woods. Lights on a couple of magnificent and bi-centennial oaks, humans dancing and sending joyful energy through their vibration communicated to the mycelium down there.**"**
