@@ -25,7 +25,7 @@ track6_color: vibrant
 track7_color: bliss
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track4.mp3'
 ---
-<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://vimalapons.bandcamp.com/) to MailTape for an electro vaporwave selection. 
+<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. 
 </p>
 
 # Ursula's Cartridges' selection
@@ -41,8 +41,8 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 
 # MailTape's selection
 
-## [Ursula's Cartridges](https://vimalapons.bandcamp.com/) - Wind Rider
-Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy. The rave aesthetic and 90's nostalgia is certainly apparent, **"**  
+## [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) - Wind Rider
+Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia.**"**  
 
 ## [Boy Harsher](https://boyharsher.bandcamp.com) - Tears
 Sarah: **"**Talking about freedom... Let's ride with Eusapia in our shiny stolen car, listening out loud to Boy Harsher. It's Sunday morning but this track takes me right to Friday night, I feel I need that kind of raw and hot energy in these days. Don't you?**"**
