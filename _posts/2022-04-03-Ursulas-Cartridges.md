@@ -23,10 +23,9 @@ track4_color: trippy
 track5_color: trippy
 track6_color: vibrant
 track7_color: bliss
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track4.mp3'
 ---
-<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://vimalapons.bandcamp.com/) to MailTape for an electro selection. 
-
-As Vimala Pons performs it in her latest show "[Le Périmètre de Denver](https://www.theatre-contemporain.net/spectacles/Le-Perimetre-de-Denver/lesdates)" we may not be one but many. Many things, many people, many stories. It's time more than ever to foolishly incarnate them all and blossom to your best like plants in spring. And music is the best igniter for that. Put the volume up, wake up your neighbors!
+<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://vimalapons.bandcamp.com/) to MailTape for an electro vaporwave selection. 
 </p>
 
 # Ursula's Cartridges' selection
