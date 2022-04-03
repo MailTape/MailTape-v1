@@ -69,4 +69,7 @@ Sarah: **"**The playlist would not be complete without some 80's synthwave :) Of
 ## [Windows 96](https://windows96.bandcamp.com/) - Edenic Green Plus
 Sarah: **"**From Windows 96 album [Empty Hiding World](https://windows96.bandcamp.com/album/empty-hiding-world), released last month. As with Magic Peaks and Purple Twilight, the releases of Windows 96 are rich with synth exploration and experimental movements. Love the game tones here, followed by the 3D synth spaces created toward the end :)**"**
 
+![musiColor488.png]({{site.baseurl}}/img/musiColor488.png)
+
+
 <p id="outroduction">That wraps up this morning! Many thanks to [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) for this electro selection. Thank you to Thibault Daumain for this episode's striking illustration :)</p>
