@@ -37,21 +37,16 @@ description: >-
   aesthetics, Ursula's Cartridges pieces samplework into releases both novel and
   nostalgic.
 ---
-<p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. 
+<p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism so much of music has fallen victim to, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 
   <br><br>
-Ursula's Cartridges joins us after releasing Braindance, a tribute to his brother's memory. The producer credits his brother with
+Ursula's Cartridges joins us after releasing Braindance, an album created to honor his brother's memory. The producer credits his brother with introducing him to electronic music in the early 90's through dance music from vinyl, MTV, and compact cassettes. This exposure inspired Ursula's Cartridges to make music in his early teenage years. 
+    <br><br>
+For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his brother's graffiti art, a way of further honoring his brother's impact on his passion for music. 
 </p>
 
 the album included lots of my very first samples I created back in 2001 when I had a Techno eJay on my very first computer. There was an option in the programme to create own melodies and even drag samples to the system to manipulate the samples. I wanted to use these old samples in my album to pay tribute to my older production days.
 
 money has tarnished art related things these days. I mean there rarely seem to be genuine art and consumerism has replaced an art piece into a mere "product". 
-
-I do have to thank my brother for introducing me to (electronic) music. The music style was something really different that I enjoyed listening to the most. My brother's music taste must be the main reason I got into music making later in my early teenage years.
-
-He introduced me to music back in the early 90s when he played lots of dance music from MTV, vinyl and compact cassettes
-
-My brother was a great drawer and he made some awesome graffiti art. I had some of his older art stored at my place and I wanted to use the art in the upcoming vinyl version. It was rather hard to find a decent printing house from my town but I eventually found one. I even checked out all of my mother's family pictures and found a suitable pic for the back sleeve where we were still little kids. I think that era is the one I cherish fondly the most, although I do miss him.
-
 
 # Ursula's Cartridges' selection
 
