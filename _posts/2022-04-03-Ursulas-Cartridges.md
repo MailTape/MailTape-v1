@@ -37,7 +37,7 @@ description: >-
   aesthetics, Ursula's Cartridges pieces samplework into releases both novel and
   nostalgic.
 ---
-<p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism so much of music has fallen victim to, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 
+<p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism to which so much of music has fallen victim, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 
   <br><br>
 Ursula's Cartridges joins us after releasing Braindance, an album created to honor his brother's memory. The producer credits his brother with introducing him to electronic music in the early 90's through dance music from vinyl, MTV, and compact cassettes. This exposure inspired Ursula's Cartridges to make music in his early teenage years. 
     <br><br>
@@ -46,7 +46,7 @@ For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his b
 
 # Ursula's Cartridges' selection
 
-## VHS Head - Body Magic
+## [VHS Head](https://soundcloud.com/vhs-head) - Body Magic
 Ursula's Cartridges: **"**This guy released the best album of the 2010's and it's all about sampling b-movies and old television commercials! Retrofuturistic audiovisual onslaught that sticks to your ear like ketchup on a white t-shirt.**"**
 
 ## [Dream Frequency](https://peachesofficial.bandcamp.com) - Take Me (The Prodigy Mix)
@@ -58,7 +58,7 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 # MailTape's selection
 
 ## [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) - Wind Rider
-Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia. As Ursula's Cartridges explains, this track was recovered from a 2005 sample created on his first computer via Techno eJay. Recovering and incorporating these old samples into Braindance served as a way to pay tribute to his older production days.**"**  
+Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia. As Ursula's Cartridges explains, this track was recovered from a 2005 sample created on his first computer via Techno eJay. Ursula's Cartridges describes this process as particularly challenging given the drastic differences in 2005 and modern electronic programming, often making older digital synths or samples incompatible for transition. The efforts spent recovering and incorporating these older samples into Braindance served as a way to pay tribute to his older production days.**"**  
 
 ## [Enraile](https://enrailekkr.bandcamp.com/) - Pale Memory
 Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.bandcamp.com/album/screentime) (released just 2 days ago!), a release Enraile aptly dedicates to his computer. Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
@@ -67,6 +67,6 @@ Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.b
 Sarah: **"**The playlist would not be complete without some 80's synthwave :) Off of Brittany-based Irène de Milo's 2021 album, [Trestel Rêve](https://irenedemilo.bandcamp.com/album/trestel-r-ve).**"**
 
 ## [Windows 96](https://windows96.bandcamp.com/) - Edenic Green Plus
-Sarah: **"**From Windows 96 album [Empty Hiding World](https://windows96.bandcamp.com/album/empty-hiding-world), released last month. As with Magic Peaks and Purple Twilight, the releases of Windows 96 are rich with synth exploration and experimental movements. Love the game tones here :)**"**
+Sarah: **"**From Windows 96 album [Empty Hiding World](https://windows96.bandcamp.com/album/empty-hiding-world), released last month. As with Magic Peaks and Purple Twilight, the releases of Windows 96 are rich with synth exploration and experimental movements. Love the game tones here, followed by the 3D synth spaces created toward the end :)**"**
 
 <p id="outroduction">That wraps up this morning! Many thanks to [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) for this electro selection. Thank you to Thibault Daumain for this episode's striking illustration :)</p>
