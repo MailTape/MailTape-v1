@@ -46,8 +46,6 @@ Ursula's Cartridges joins us after releasing Braindance, an album created to hon
 For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his brother's graffiti art for the album cover, a way of further honoring his brother's impact on his passion for music. 
 </p>
 
-![fbPic488.png]({{site.baseurl}}/img/fbPic488.png)
-
 # Ursula's Cartridges' selection
 
 ## [VHS Head](https://soundcloud.com/vhs-head) - Body Magic
