@@ -35,7 +35,8 @@ description: >-
   This morning, we welcome Finland-based Ursula's Cartridges to MailTape for an
   electro vaporwave selection. Combining 80's and 90's rave and electronic
   aesthetics, Ursula's Cartridges pieces samplework into releases both novel and
-  nostalgic.
+  nostalgic. 
+musiColor: musiColor488.png
 ---
 <p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. In his production process, Ursula's Cartridges strives to avoid the consumerism to which so much of music has fallen victim, cultivating pieces he finds to be genuine expressions, approaching works of "art" rather than "product." 
   <br><br>
