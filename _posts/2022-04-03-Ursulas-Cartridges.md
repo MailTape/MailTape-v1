@@ -50,10 +50,10 @@ For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his b
 ## [VHS Head](https://soundcloud.com/vhs-head) - Body Magic
 Ursula's Cartridges: **"**This guy released the best album of the 2010's and it's all about sampling b-movies and old television commercials! Retrofuturistic audiovisual onslaught that sticks to your ear like ketchup on a white t-shirt.**"**
 
-## [Dream Frequency](https://peachesofficial.bandcamp.com) - Take Me (The Prodigy Mix)
+## [Dream Frequency](https://www.discogs.com/artist/34828-Dream-Frequency) - Take Me (The Prodigy Mix)
 Ursula's Cartridges: **"**Thanks to my brother I got to listen to lots of early 90s dance and rave music when it was still a new thing. To this day I still cherish those days fondly. I find modern (dance) music extremely poor when comparing it to the 90s. Music used to have memorable melodies and hooks that still sound fresh. Now it's replaced by bass and noise that nobody can't stand listening to while sober.**"**
 
-## [Eveline Fischer](https://mmodemm.bandcamp.com/album/das-kinn-mdm-5) - Submap Shuffle
+## [Eveline Fischer](https://www.fanbyte.com/features/a-rare-interview-with-donkey-kong-country-composer-eveline-novakovic/) - Submap Shuffle
 Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-time favourite video game music soundtracks. It manages to add ambiance with a massive amount of unique sounding echoing bass structure in the background, making it sound grand, mysterious and even playful. Unlike in other "DKC" games, the music was mostly composed by Eveline Fischer with a minor help by David Wise. Fischer does a surprisingly fine job and manages to compose music that can compete with Wise's work, although she relies on ambient elements whereas Wise's music is more melodical. Overall, the music of "DKC3" was an instant favourite to my eight year old mind. Before that i never knew about the genre of "ambient music" but i've always enjoyed the music style. I remember listening to the overworld theme ("Northern Kremisphere") and the world map theme ("Submap Shuffle") nonstop without playing the game at all. Just sitting and enjoying the game world and thinking about all the millions of possible hidden places it included. The repetitive synthesizer melodies, low pitch drums samples and low bass ambient patterns are an irresistible immersion to the game and this "three element symbiosis" repeats in several other levels as well.**"**
 
 # MailTape's selection
