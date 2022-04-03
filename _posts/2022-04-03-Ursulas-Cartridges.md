@@ -41,12 +41,8 @@ description: >-
   <br><br>
 Ursula's Cartridges joins us after releasing Braindance, an album created to honor his brother's memory. The producer credits his brother with introducing him to electronic music in the early 90's through dance music from vinyl, MTV, and compact cassettes. This exposure inspired Ursula's Cartridges to make music in his early teenage years. 
     <br><br>
-For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his brother's graffiti art, a way of further honoring his brother's impact on his passion for music. 
+For the upcoming vinyl of Braindance, Ursula's Cartridges plans to include his brother's graffiti art for the album cover, a way of further honoring his brother's impact on his passion for music. 
 </p>
-
-the album included lots of my very first samples I created back in 2001 when I had a Techno eJay on my very first computer. There was an option in the programme to create own melodies and even drag samples to the system to manipulate the samples. I wanted to use these old samples in my album to pay tribute to my older production days.
-
-money has tarnished art related things these days. I mean there rarely seem to be genuine art and consumerism has replaced an art piece into a mere "product". 
 
 # Ursula's Cartridges' selection
 
@@ -62,7 +58,7 @@ Ursula's Cartridges: **"**The music of Donkey Kong Country 3 is one of my all-ti
 # MailTape's selection
 
 ## [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) - Wind Rider
-Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia.**"**  
+Sarah : **"**Love the trippy synth pickups with these watery basslines. The track is bounding with energy, brushing on rave aesthetics and 90's club nostalgia. As Ursula's Cartridges explains, this track was recovered from a 2005 sample created on his first computer via Techno eJay. Recovering and incorporating these old samples into Braindance served as a way to pay tribute to his older production days.**"**  
 
 ## [Enraile](https://enrailekkr.bandcamp.com/) - Pale Memory
 Sarah: **"**Coming off of Enraile's 2022 album [Screentime](https://enrailekkr.bandcamp.com/album/screentime) (released just 2 days ago!), a release Enraile aptly dedicates to his computer. Love the playfulness of this track's synthwork. Building chord progressions from glitch samples, Enraile creates an electro world of synth spirals, taking us deeper into the vaporwave horizon with each measure.**"**
