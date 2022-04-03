@@ -31,9 +31,27 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track6.mp3'
 track6_title: Irène de Milo - Sans Éternité
 track7_title: Windows 96 - Edenic Green Plus
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/488/track7.mp3'
+description: >-
+  This morning, we welcome Finland-based Ursula's Cartridges to MailTape for an
+  electro vaporwave selection. Combining 80's and 90's rave and electronic
+  aesthetics, Ursula's Cartridges pieces samplework into releases both novel and
+  nostalgic.
 ---
-<p id="introduction">This morning, we welcome [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection.
+<p id="introduction">This morning, we welcome Finland-based [Ursula's Cartridges](https://ursulascartridges.bandcamp.com/) to MailTape for an electro vaporwave selection. Combining 80's and 90's rave and electronic aesthetics, Ursula's Cartridges pieces samplework into releases both novel and nostalgic. 
+  <br><br>
+Ursula's Cartridges joins us after releasing Braindance, a tribute to his brother's memory. The producer credits his brother with
 </p>
+
+the album included lots of my very first samples I created back in 2001 when I had a Techno eJay on my very first computer. There was an option in the programme to create own melodies and even drag samples to the system to manipulate the samples. I wanted to use these old samples in my album to pay tribute to my older production days.
+
+money has tarnished art related things these days. I mean there rarely seem to be genuine art and consumerism has replaced an art piece into a mere "product". 
+
+I do have to thank my brother for introducing me to (electronic) music. The music style was something really different that I enjoyed listening to the most. My brother's music taste must be the main reason I got into music making later in my early teenage years.
+
+He introduced me to music back in the early 90s when he played lots of dance music from MTV, vinyl and compact cassettes
+
+My brother was a great drawer and he made some awesome graffiti art. I had some of his older art stored at my place and I wanted to use the art in the upcoming vinyl version. It was rather hard to find a decent printing house from my town but I eventually found one. I even checked out all of my mother's family pictures and found a suitable pic for the back sleeve where we were still little kids. I think that era is the one I cherish fondly the most, although I do miss him.
+
 
 # Ursula's Cartridges' selection
 
