@@ -45,7 +45,7 @@ musiColor: musiColor485.png
   <br><br>
 Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/album/laminated-skies), releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
    <br><br>
-  Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through of his experience, a patchwork of genre and style, coming together into something that can only be described as Jason.  
+  Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through this experience, a patchwork of genre and style, coming together into something that can only be described as Jason.  
 </p>
 
 # Raw Poetic's selection
