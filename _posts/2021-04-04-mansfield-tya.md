@@ -13,7 +13,7 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track1.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
-track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track7.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/445/track6.mp3'
 track1_title: Anika - I Go To Sleep
 track2_title: Erykah Badu - I Been Going Thru It All
 track3_title: Lenas Platos - Markos
