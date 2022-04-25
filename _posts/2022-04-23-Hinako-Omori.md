@@ -52,7 +52,7 @@ Hinako Omori: **"**This gorgeous song by Muzette is pure sunshine pouring throug
 # MailTape's selection
 
 ## [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey) - Ocean
-ImaCrea : **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea.**"**  
+ImaCrea : **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea. For the full experience, be sure to check her album freshly released ["A journey..."](https://hinakoomori.bandcamp.com/album/a-journey)**"**
 
 ## [OHYUNG](https://ohyung.bandcamp.com/album/imagine-naked-2) - yes my weeping frame!
 ImaCrea: **"**The vibe here reminds me of music by [The Caretaker](https://thecaretaker.bandcamp.com/) or [Leya](https://leya.bandcamp.com). It feels like suspended in time, indefinitely oscillating like a rocking chair in a blurry memory.**"**
