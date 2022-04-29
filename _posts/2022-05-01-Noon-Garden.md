@@ -14,13 +14,13 @@ guest_color: trippy
 
 # Noon Garden's selection
 
-## [Colleen](https://colleencolleen.bandcamp.com/album/the-tunnel-and-the-clearing) - Gazing at Taurus - Night Sky Rumba
+## [Nimco Jamaac](https://colleencolleen.bandcamp.com/album/the-tunnel-and-the-clearing) - Buuraha U Dheer (The Highest Mountains)
 Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, a country’s music that has had a big influence on me over the last decade. This song really captured the vibe of some Somali synth work that inspired some of my own work. I always get these deep nostalgic feels whenever I hear these kind of vocal melodies along with the super grainy way in which it’s all recorded really adds to the atmosphere of it being stuck in time. I highly recommend checking out the whole compilation!**"**
 
-## [Madalyn Merkey](https://madalynmerkey.bandcamp.com/album/puzzle-music) - Pallet Fork
+## [Lion](https://madalynmerkey.bandcamp.com/album/puzzle-music) - You’ve Got a Woman
 Noon Garden: **"**This very obscure Dutch band from the 70’s penned one of favourite jams in a while. I’m an absoluaste sucker for satisfiying melodic choruses and these guys nail the vocals and the harmonies so well it just keeps me coming back for more each time I listen. I also really dig how the instrumentation is so laid back and effortlessly shifting the tone from being this melancholic number to something that’s truly euphoric and comforting.**"**
 
-## Musette - Coucou Anne
+## Kalenin Bayır Düzü - Alpay
 Noon Garden: **"**This is a really recent find. Turkish psych music never fails to impress with how creative they can be with their grooves and making all of that gel so well with pretty complicated vocal work. This song has a lot of ideas that I often like to incorporate into my own music where I can in terms of riffs coming in and out, reacting to the drums instead of following it. It gives everything this really bouncey feel that’s catchy and harmonious on top of being ambitious in its composition.**"**
 
 # MailTape's selection
