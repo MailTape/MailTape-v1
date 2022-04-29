@@ -15,13 +15,13 @@ guest_color: trippy
 # Noon Garden's selection
 
 ## [Colleen](https://colleencolleen.bandcamp.com/album/the-tunnel-and-the-clearing) - Gazing at Taurus - Night Sky Rumba
-Noon Garden: **"**A meditative journey into Cécile’s beautiful sonic universe, with a driving drum machine loop teleporting and carrying us through clouds of synths rich with emotion, drifting through the nighttime sky…**"**
+Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, a country’s music that has had a big influence on me over the last decade. This song really captured the vibe of some Somali synth work that inspired some of my own work. I always get these deep nostalgic feels whenever I hear these kind of vocal melodies along with the super grainy way in which it’s all recorded really adds to the atmosphere of it being stuck in time. I highly recommend checking out the whole compilation!**"**
 
 ## [Madalyn Merkey](https://madalynmerkey.bandcamp.com/album/puzzle-music) - Pallet Fork
-Noon Garden: **"**Silky sonic threads weaving in and out of a magical tapestry of frequencies created by the incredible Madalyn Merkey - it’s as though you can reach out and feel the textures of the sounds if that makes sense…!**"**
+Noon Garden: **"**This very obscure Dutch band from the 70’s penned one of favourite jams in a while. I’m an absoluaste sucker for satisfiying melodic choruses and these guys nail the vocals and the harmonies so well it just keeps me coming back for more each time I listen. I also really dig how the instrumentation is so laid back and effortlessly shifting the tone from being this melancholic number to something that’s truly euphoric and comforting.**"**
 
 ## Musette - Coucou Anne
-Noon Garden: **"**This gorgeous song by Muzette is pure sunshine pouring through the clouds - it brightens my day every time I hear it. I first became aware of this lovely album on a trip to Berlin last year, and it takes me back to sunny walks and sunflowers in Neukölln :)**"**
+Noon Garden: **"**This is a really recent find. Turkish psych music never fails to impress with how creative they can be with their grooves and making all of that gel so well with pretty complicated vocal work. This song has a lot of ideas that I often like to incorporate into my own music where I can in terms of riffs coming in and out, reacting to the drums instead of following it. It gives everything this really bouncey feel that’s catchy and harmonious on top of being ambitious in its composition.**"**
 
 # MailTape's selection
 
@@ -38,4 +38,3 @@ Sarah: **"**New track by Del Stephen! (remember [his episode](/479/Del-Stephen)?
 Sarah: **"**Whatever I do, I can't resist too long before going back to electro. And this track is pure magic. I finish with this one as a gentle call to wake up and have a great day.**"**
 
 <p id="outroduction">That's all for this morning! Our warm thanks to [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey) for her gentle selection. Many thanks to [Meriam Kharbat](https://www.meriamkharbat.com/) for this episode's illustration full of softness.</p>
-
