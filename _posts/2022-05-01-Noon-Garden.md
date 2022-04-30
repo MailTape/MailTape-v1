@@ -41,7 +41,7 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 
 # MailTape's selection
 
-## [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey) - Ocean
+## [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) - Beulah Spa
 Sarah: **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea. For the full experience, be sure to check her album freshly released ["A journey..."](https://hinakoomori.bandcamp.com/album/a-journey)**"**
 
 ## [OHYUNG](https://ohyung.bandcamp.com/album/imagine-naked-2) - yes my weeping frame!
