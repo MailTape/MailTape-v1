@@ -53,9 +53,9 @@ Sarah: **"**The namesake of Noon Garden's most recent album release :) Love the 
 Sarah: **"**The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
 
 ## Alemayehu Eshete - Kènoru Ièbetchahé
-Sarah: **"**New track by Del Stephen! (remember [his episode](/479/Del-Stephen)?). What can I say? Listening to this track makes me think the world needs more acoustic guitars...**"**
+Sarah: **"**Nothing beats Ethiopian funk. Known fondly as the Abyssian Elvis, Alemayehu Eshete sings primarily in Amharic, creating fusions of Ethiopian traditional music and the 60's soul and R&B movements coming from the States. Eshete was known for his defiance of the authoritarian Emperor Haile Selassie I, becoming a national treasure in the country as well as abroad.**"**
 
 ## Korng phnao , Pan Ron - Pnhaeu samnieng
-Sarah: **"**Whatever I do, I can't resist too long before going back to electro. And this track is pure magic. I finish with this one as a gentle call to wake up and have a great day.**"**
+Sarah: **"**Love this Cambodian cover of Hard Day's Night to finish off our morning's selection.**"**
 
-<p id="outroduction">That's all for this morning! Our warm thanks to [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey) for her gentle selection. Many thanks to [Meriam Kharbat](https://www.meriamkharbat.com/) for this episode's illustration full of softness.</p>
+<p id="outroduction">That's all for this morning! Our warm thanks to [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) for this wonderful Sunday selection. Many thanks to [Thibault Daumain](https://www.meriamkharbat.com/) for this episode's vibrant illustration!</p>
