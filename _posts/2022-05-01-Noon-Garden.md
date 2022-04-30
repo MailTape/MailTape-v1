@@ -32,6 +32,11 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track7.mp3'
 musiColor: musiColor491.png
 episode_URL: 'http://mailta.pe/491/Noon-Garden/'
+description: >-
+  Today, we present a delightful selection of eclectic discoveries to welcome
+  you into your Sunday morning. For this awakening, our dear guest Noon Garden
+  curates a pass of vibrant tracks to add bouts of energy into these early
+  hours.
 ---
 <p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add bouts of energy into these early hours. 
   <br><br>
