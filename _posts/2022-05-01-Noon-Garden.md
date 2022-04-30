@@ -8,6 +8,16 @@ illustrator: Thibault Daumain
 category: '491'
 guest_name: Noon Garden
 guest_color: trippy
+track1_color: trippy
+track1_title: Nimco Jamaac - Buuraha U Dheer (The Highest Mountains)
+track2_title: Lion - You've Got A Woman
+track2_color: vibrant
+track3_title: Alpay - Kalenin Bayır Düzü
+track3_color: vibrant
+track4_color: trippy
+track5_color: vibrant
+track6_color: bliss
+track7_color: dreamy
 ---
 <p id="introduction">This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 </p>
@@ -20,7 +30,7 @@ Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, 
 ## [Lion](https://madalynmerkey.bandcamp.com/album/puzzle-music) - You’ve Got a Woman
 Noon Garden: **"**This very obscure Dutch band from the 70’s penned one of favourite jams in a while. I’m an absoluaste sucker for satisfiying melodic choruses and these guys nail the vocals and the harmonies so well it just keeps me coming back for more each time I listen. I also really dig how the instrumentation is so laid back and effortlessly shifting the tone from being this melancholic number to something that’s truly euphoric and comforting.**"**
 
-## Kalenin Bayır Düzü - Alpay
+## Alpay - Kalenin Bayır Düzü
 Noon Garden: **"**This is a really recent find. Turkish psych music never fails to impress with how creative they can be with their grooves and making all of that gel so well with pretty complicated vocal work. This song has a lot of ideas that I often like to incorporate into my own music where I can in terms of riffs coming in and out, reacting to the drums instead of following it. It gives everything this really bouncey feel that’s catchy and harmonious on top of being ambitious in its composition.**"**
 
 # MailTape's selection
