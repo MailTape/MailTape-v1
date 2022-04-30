@@ -26,7 +26,7 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track4.mp3'
 track4_title: Noon Garden - Beulah Spa
 track5_title: Ayla Algan - Aşk Hikayesi
 ---
-<p id="introduction">This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
+<p id="introduction">Today, we present a delightful selection of eclectic and vibrant discoveries to welcome you into your Sunday morning. For this awakening, our dear guest, [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) curates a pass of vibrant tracks to add some energy into these early hours. 
 </p>
 
 # Noon Garden's selection
@@ -48,7 +48,7 @@ Sarah: **"**Hinako Omori has created truly transporting sound helped with binaur
 ## Ayla Algan - Aşk Hikayesi
 Sarah: **"**The vibe here reminds me of music by [The Caretaker](https://thecaretaker.bandcamp.com/) or [Leya](https://leya.bandcamp.com). It feels like suspended in time, indefinitely oscillating like a rocking chair in a blurry memory.**"**
 
-## [Del Stephen](https://delstephen.bandcamp.com/album/girolando) - Hoofbeats Echo
+## [Marijata](https://delstephen.bandcamp.com/album/girolando) - No Condition is Permanent
 Sarah: **"**New track by Del Stephen! (remember [his episode](/479/Del-Stephen)?). What can I say? Listening to this track makes me think the world needs more acoustic guitars...**"**
 
 ## [Healion](https://naffrecordings.bandcamp.com/album/in-light-it-undoes-nothing) - About Breathing
