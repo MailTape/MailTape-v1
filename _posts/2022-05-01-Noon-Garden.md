@@ -24,7 +24,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track4.mp3'
 track4_title: Noon Garden - Beulah Spa
-track5_title: Tanju Okan - Güzel Yok mu İnsafın
+track5_title: Ayla Algan - Aşk Hikayesi
 ---
 <p id="introduction">This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 </p>
@@ -45,7 +45,7 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 ## [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) - Beulah Spa
 Sarah: **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea. For the full experience, be sure to check her album freshly released ["A journey..."](https://hinakoomori.bandcamp.com/album/a-journey)**"**
 
-## [Tanju Okan](https://ohyung.bandcamp.com/album/imagine-naked-2) - Güzel Yok mu İnsafın
+## Ayla Algan - Aşk Hikayesi
 Sarah: **"**The vibe here reminds me of music by [The Caretaker](https://thecaretaker.bandcamp.com/) or [Leya](https://leya.bandcamp.com). It feels like suspended in time, indefinitely oscillating like a rocking chair in a blurry memory.**"**
 
 ## [Del Stephen](https://delstephen.bandcamp.com/album/girolando) - Hoofbeats Echo
