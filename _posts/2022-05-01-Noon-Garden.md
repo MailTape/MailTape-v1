@@ -34,17 +34,17 @@ image: 'http://mailta.pe/491/Noon-Garden/'
 ---
 <p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest, [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add some energy into these early hours. 
   <br><br>
-  Based in London, Noon Garden is the pioneer of the exotic psych-pop movement, drawing influence from African funk, disco, and psychedelic movements of past and present. Noon Garden's most recent album [Beulah Spa](https://noon-garden.bandcamp.com/album/beulah-spa) crafts smooth textures of funk and electro treadings, building multi-layered grooves we can melt into this morning. 
+  Based in London, Noon Garden is a pioneer of the exotic psych-pop movement, drawing influence from African funk, disco, and psychedelic movements of past and present. Noon Garden's most recent album [Beulah Spa](https://noon-garden.bandcamp.com/album/beulah-spa) crafts smooth textures of funk and electro treadings, building multi-layered grooves we can melt into this morning. 
 </p>
 
 # Noon Garden's selections
-## [Nimco Jamaac](https://colleencolleen.bandcamp.com/album/the-tunnel-and-the-clearing) - Buuraha U Dheer (The Highest Mountains)
+## [Nimco Jamaac](https://ostinatorecords.bandcamp.com/track/buuraha-u-dheer-the-highest-mountains) - Buuraha U Dheer (The Highest Mountains)
 Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, a country’s music that has had a big influence on me over the last decade. This song really captured the vibe of some Somali synth work that inspired some of my own work. I always get these deep nostalgic feels whenever I hear these kind of vocal melodies along with the super grainy way in which it’s all recorded really adds to the atmosphere of it being stuck in time. I highly recommend checking out the whole compilation!**"**
 
-## [Lion](https://madalynmerkey.bandcamp.com/album/puzzle-music) - You’ve Got a Woman
+## [Lion](https://eccentricsoul45s.bandcamp.com/album/lion-youve-got-a-woman) - You’ve Got a Woman
 Noon Garden: **"**This very obscure Dutch band from the 70’s penned one of favourite jams in a while. I’m an absolute sucker for satisfying melodic choruses and these guys nail the vocals and the harmonies so well it just keeps me coming back for more each time I listen. I also really dig how the instrumentation is so laid back and effortlessly shifting the tone from being this melancholic number to something that’s truly euphoric and comforting.**"**
 
-## Alpay - Kalenin Bayır Düzü
+## [Alpay](https://turkofongmbh.bandcamp.com/) - Kalenin Bayır Düzü
 Noon Garden: **"**This is a really recent find. Turkish psych music never fails to impress with how creative they can be with their grooves and making all of that gel so well with pretty complicated vocal work. This song has a lot of ideas that I often like to incorporate into my own music where I can in terms of riffs coming in and out, reacting to the drums instead of following it. It gives everything this really bouncey feel that’s catchy and harmonious on top of being ambitious in its composition.**"**
 
 # MailTape's selection
