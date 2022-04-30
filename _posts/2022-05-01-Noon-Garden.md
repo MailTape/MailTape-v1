@@ -50,7 +50,7 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 # MailTape's selection
 
 ## [Noon Garden](https://noon-garden.bandcamp.com/) - Beulah Spa
-Sarah: **"**The namesake of Noon Garden's [most recent album](https://noon-garden.bandcamp.com/album/beulah-spa) release :) Love the many turns the track takes, especially halfway into listening. Noon Garden blends genre with such grace, the movements are surprising and yet so natural. Love the call and response of vocals and cascade synths toward the track's end, an entire world of sound and vocals is created.**"**
+Sarah: **"**The namesake of Noon Garden's [most recent album](https://noon-garden.bandcamp.com/album/beulah-spa) release :) Love the many turns the track takes, especially halfway into listening. Noon Garden blends genre with such grace, the movements are surprising and yet so natural. Love the call and response of vocals and cascade synths toward the track's end, in these moments Noon Garden creates a 3D scape of sound for us to walk into.**"**
 
 ## [Ayla Algan](https://www.instagram.com/aylaalgan3/?hl=en) - Aşk Hikayesi
 Sarah: **"**Obsessed with the Alpay track in Noon Garden's selection, and wanted to add another Turkish treasure. The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
