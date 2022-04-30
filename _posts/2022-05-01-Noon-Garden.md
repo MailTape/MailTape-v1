@@ -50,7 +50,7 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 Sarah: **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea. For the full experience, be sure to check her album freshly released ["A journey..."](https://hinakoomori.bandcamp.com/album/a-journey)**"**
 
 ## Ayla Algan - Aşk Hikayesi
-Sarah: **"**The vibe here reminds me of music by [The Caretaker](https://thecaretaker.bandcamp.com/) or [Leya](https://leya.bandcamp.com). It feels like suspended in time, indefinitely oscillating like a rocking chair in a blurry memory.**"**
+Sarah: **"**The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow.**"**
 
 ## Alemayehu Eshete - Kènoru Ièbetchahé
 Sarah: **"**New track by Del Stephen! (remember [his episode](/479/Del-Stephen)?). What can I say? Listening to this track makes me think the world needs more acoustic guitars...**"**
