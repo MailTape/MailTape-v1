@@ -19,6 +19,9 @@ track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
 guestPic: guestPic491.jpg
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track3.mp3'
 ---
 <p id="introduction">This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 </p>
