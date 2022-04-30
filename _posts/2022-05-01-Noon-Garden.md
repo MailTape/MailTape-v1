@@ -31,11 +31,10 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track7.mp3'
 ---
-<p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest, [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) curates a pass of vibrant tracks to add some energy into these early hours. Based in London, Noon Garden is the pioneer of the exotic psych-pop movement, 
+<p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest, [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) curates a pass of vibrant tracks to add some energy into these early hours. Based in London, Noon Garden is the pioneer of the exotic psych-pop movement, drawing influence from African funk, disco, and psychedelic movements of past and present. Crafting smooth textures of funk and electro treadings, Noon Garden's most recent album Noon Garden compiles groove after groove. 
 </p>
 
-# Noon Garden's selection
-
+# Noon Garden's selections
 ## [Nimco Jamaac](https://colleencolleen.bandcamp.com/album/the-tunnel-and-the-clearing) - Buuraha U Dheer (The Highest Mountains)
 Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, a country’s music that has had a big influence on me over the last decade. This song really captured the vibe of some Somali synth work that inspired some of my own work. I always get these deep nostalgic feels whenever I hear these kind of vocal melodies along with the super grainy way in which it’s all recorded really adds to the atmosphere of it being stuck in time. I highly recommend checking out the whole compilation!**"**
 
