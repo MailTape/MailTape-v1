@@ -47,10 +47,10 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 # MailTape's selection
 
 ## [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) - Beulah Spa
-Sarah: **"**Hinako Omori has created truly transporting sound helped with binaural waves and live field recording incorporated in her music. This track reminds me of the comforting feeling so special I experiment when going to see the sea. For the full experience, be sure to check her album freshly released ["A journey..."](https://hinakoomori.bandcamp.com/album/a-journey)**"**
+Sarah: **"**The namesake of Noon Garden's most recent album release :) Love the many turns the track takes, especially halfway into listening.**"**
 
 ## Ayla Algan - Aşk Hikayesi
-Sarah: **"**The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow.**"**
+Sarah: **"**The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
 
 ## Alemayehu Eshete - Kènoru Ièbetchahé
 Sarah: **"**New track by Del Stephen! (remember [his episode](/479/Del-Stephen)?). What can I say? Listening to this track makes me think the world needs more acoustic guitars...**"**
