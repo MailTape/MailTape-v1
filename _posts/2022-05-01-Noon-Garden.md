@@ -32,7 +32,7 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track7.mp3'
 image: 'http://mailta.pe/491/Noon-Garden/'
 ---
-<p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add energy into these early hours. 
+<p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add bouts of energy into these early hours. 
   <br><br>
   Based in London, Noon Garden is a pioneer of the exotic psych-pop movement, drawing influence from African funk, disco, and psychedelic movements of past and present. Noon Garden's most recent album [Beulah Spa](https://noon-garden.bandcamp.com/album/beulah-spa) crafts smooth textures of funk and electro treadings, building multi-layered grooves we can melt into this morning. 
 </p>
