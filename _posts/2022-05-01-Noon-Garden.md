@@ -25,7 +25,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track4.mp3'
 track4_title: Noon Garden - Beulah Spa
 track5_title: Ayla Algan - Aşk Hikayesi
-track6_title: Marijata - We Live in Peace
+track6_title: Marijata - We Live In Peace
 ---
 <p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest, [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) curates a pass of vibrant tracks to add some energy into these early hours. Based in London, Noon Garden is the pioneer of the exotic psych-pop movement, 
 </p>
