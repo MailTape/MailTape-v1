@@ -44,9 +44,6 @@ image: 'https://mailta.pe/img/fbPic491.png'
   Based in London, Noon Garden is a pioneer of the exotic psych-pop movement, drawing influence from African funk, disco, and psychedelic movements of past and present. Noon Garden's most recent album [Beulah Spa](https://noon-garden.bandcamp.com/album/beulah-spa) crafts smooth textures of funk and electro treadings, building multi-layered grooves we can melt into this morning. 
 </p>
 
-![fbPic491.png]({{site.baseurl}}/img/fbPic491.png)
-
-
 # Noon Garden's selections
 ## [Nimco Jamaac](https://ostinatorecords.bandcamp.com/track/buuraha-u-dheer-the-highest-mountains) - Buuraha U Dheer (The Highest Mountains)
 Noon Garden: **"**This song is an opener to a great Somalian Disco compilation, a country’s music that has had a big influence on me over the last decade. This song really captured the vibe of some Somali synth work that inspired some of my own work. I always get these deep nostalgic feels whenever I hear these kind of vocal melodies along with the super grainy way in which it’s all recorded really adds to the atmosphere of it being stuck in time. I highly recommend checking out the whole compilation!**"**
