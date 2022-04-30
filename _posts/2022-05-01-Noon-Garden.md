@@ -30,7 +30,8 @@ track7_title: 'Korng phnao , Pan Ron - Pnhaeu samnieng'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/491/track7.mp3'
-image: 'http://mailta.pe/491/Noon-Garden/'
+musiColor: musiColor491.png
+episode_URL: 'http://mailta.pe/491/Noon-Garden/'
 ---
 <p id="introduction">Today, we present a delightful selection of eclectic discoveries to welcome you into your Sunday morning. For this awakening, our dear guest [Noon Garden](https://noon-garden.bandcamp.com/) curates a pass of vibrant tracks to add bouts of energy into these early hours. 
   <br><br>
@@ -60,5 +61,6 @@ Sarah: **"**Nothing beats Ethiopian funk. Known fondly as the Abyssian Elvis, [A
 
 ## [Korng phnao, Pan Ron](https://cambodiansoulsounds.bandcamp.com/track/korng-phnao-pan-ron-pnhaeu-samnieng) - Pnhaeu samnieng
 Sarah: **"**Love this Cambodian cover of Hard Day's Night to finish off our morning's selection. The track comes off of volume one of [Cambodian Soul Sounds](https://www.facebook.com/cambodiansoulsounds), Richard Rossa's compilation of Cambodian psychedelic rock and soul from the 1950's to the 70's. As the curator describes, Khmer musicians were influenced by traveling abroad and tuning into the radio of the US military during the Vietnam War; incorporating these Western and worldly influences into their music with distinctively Cambodian edges. Following the Khmer Rouge takeover, many artists were persecuted and many of these original vinyls were lost forever. Rossa's project salvages and restores the remaining vinyls that were either hidden or smuggled out of the country.**"**
+![musiColor491.png]({{site.baseurl}}/img/musiColor491.png)
 
 <p id="outroduction">That's all for this morning! Our many thanks to [Noon Garden](https://noon-garden.bandcamp.com/) for this wonderful Sunday selection. Many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's vibrant illustration!</p>
