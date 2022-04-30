@@ -49,13 +49,13 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 ## [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) - Beulah Spa
 Sarah: **"**The namesake of Noon Garden's most recent album release :) Love the many turns the track takes, especially halfway into listening. Noon Garden blends genre with such grace, the movements are surprising and yet so natural.**"**
 
-## Ayla Algan - Aşk Hikayesi
+## [Ayla Algan](https://www.instagram.com/aylaalgan3/?hl=en) - Aşk Hikayesi
 Sarah: **"**The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
 
-## Alemayehu Eshete - Kènoru Ièbetchahé
-Sarah: **"**Nothing beats Ethiopian funk. Known fondly as the Abyssian Elvis, Alemayehu Eshete sings primarily in Amharic, creating fusions of Ethiopian traditional music and the 60's soul and R&B movements coming from the States. Eshete was known for his defiance of the authoritarian Emperor Haile Selassie I, becoming a national treasure in the country as well as abroad.**"**
+## [Alemayehu Eshete](https://alemayehueshete.bandcamp.com/album/alteleyeshegnem) - Kènoru Ièbetchahé
+Sarah: **"**Nothing beats Ethiopian funk. Known fondly as the Abyssian Elvis, [Alemayehu Eshete](https://www.theguardian.com/music/2021/sep/10/alemayehu-eshete-obituary) sings primarily in Amharic, creating fusions of Ethiopian traditional music and the 60's soul and R&B movements coming from the States. Eshete was known for his defiance of the authoritarian Emperor Haile Selassie I, becoming a national treasure in the country as well as abroad.**"**
 
-## Korng phnao , Pan Ron - Pnhaeu samnieng
-Sarah: **"**Love this Cambodian cover of Hard Day's Night to finish off our morning's selection. The track comes off of volume one of Cambodian Soul Sounds, Richard Rossa's compilation of Cambodian psychedelic rock and soul from the 1950's to the 70's. As the curator dscribes, Khmer musicians were influenced by traveling abroad and tuning into the radio of the US military during the Vietnam War; incorporating these Western and worldly influences into their music with distinctively Cambodian edges. Following the Khmer Rouge takeover, many artists were persecuted and many of these original vinyls were lost forever. Rossa's project salvages and restores the remaining vinyls that were either hidden or smuggled out of the country.**"**
+## [Korng phnao, Pan Ron](https://cambodiansoulsounds.bandcamp.com/track/korng-phnao-pan-ron-pnhaeu-samnieng) - Pnhaeu samnieng
+Sarah: **"**Love this Cambodian cover of Hard Day's Night to finish off our morning's selection. The track comes off of volume one of [Cambodian Soul Sounds](https://www.facebook.com/cambodiansoulsounds), Richard Rossa's compilation of Cambodian psychedelic rock and soul from the 1950's to the 70's. As the curator dscribes, Khmer musicians were influenced by traveling abroad and tuning into the radio of the US military during the Vietnam War; incorporating these Western and worldly influences into their music with distinctively Cambodian edges. Following the Khmer Rouge takeover, many artists were persecuted and many of these original vinyls were lost forever. Rossa's project salvages and restores the remaining vinyls that were either hidden or smuggled out of the country.**"**
 
 <p id="outroduction">That's all for this morning! Our warm thanks to [Noon Garden](https://hinakoomori.bandcamp.com/album/a-journey) for this wonderful Sunday selection. Many thanks to [Thibault Daumain](https://www.meriamkharbat.com/) for this episode's vibrant illustration!</p>
