@@ -18,9 +18,11 @@ track4_color: trippy
 track5_color: vibrant
 track6_color: bliss
 track7_color: dreamy
+guestPic: guestPic491.jpg
 ---
 <p id="introduction">This morning, we're taking you into an atmosphere of balance, softness, and harmony. With our dear guest, [Hinako Omori](https://hinakoomori.bandcamp.com/album/a-journey), we curated meditative and restorative tracks to help you ease into the day with a refreshed view. Remember there's always blue sky waiting for you above the clouds.
 </p>
+![guestPic491.jpg]({{site.baseurl}}/img/guestPic491.jpg)
 
 # Noon Garden's selection
 
