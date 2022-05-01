@@ -60,7 +60,7 @@ Noon Garden: **"**This is a really recent find. Turkish psych music never fails 
 Sarah: **"**The namesake of Noon Garden's [most recent album](https://noon-garden.bandcamp.com/album/beulah-spa) release :) Love the many turns the track takes, especially halfway into listening. Noon Garden blends genre with such grace, the movements are surprising and yet so natural. Love the call and response of vocals and cascade synths toward the track's end, in these moments Noon Garden creates a 3D scape of sound for us to walk into.**"**
 
 ## [Ayla Algan](https://www.instagram.com/aylaalgan3/?hl=en) - Aşk Hikayesi
-Sarah: **"**Obsessed with the Alpay track in Noon Garden's selection, couldn't help but add another Turkish treasure. The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
+Sarah: **"**Obsessed with the Alpay song in Noon Garden's selection, couldn't help but add another Turkish track. The choir vocals on this track are magical, a wonderful interlude into the lower verses that follow. Love the melancholic spirals of these piano riffs.**"**
 
 ## [Alemayehu Eshete](https://alemayehueshete.bandcamp.com/album/alteleyeshegnem) - Kènoru Ièbetchahé
 Sarah: **"**Nothing beats Ethiopian funk. Known fondly as the Abyssian Elvis, [Alemayehu Eshete](https://www.theguardian.com/music/2021/sep/10/alemayehu-eshete-obituary) sings primarily in Amharic, creating fusions of Ethiopian traditional music and the 60's soul and R&B movements coming from the States. Eshete was known for his musical defiance of the authoritarian Emperor Haile Selassie I, becoming a national treasure in the country as well as abroad.**"**
