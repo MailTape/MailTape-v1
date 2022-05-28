@@ -2,6 +2,38 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: Grandaddy - The Crystal Lake
+track1_color: dreamy
+track2_title: Andy Shauf - Early to the Party
+track2_color: dreamy
+track3_title: Kraftwerk - It's More Fun to Compute
+track3_color: trippy
+track4_color: vibrant
+track5_color: dreamy
+track6_color: vibrant
+track7_color: bliss
+author: ''
+illustrator: ''
+writer: ''
+category: ''
+guest_name: ''
+guest_color: ''
+guestPic: ''
+track1_link: ''
+track2_link: ''
+track3_link: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track4_title: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
   <br><br>
@@ -36,4 +68,3 @@ Sarah: **"**The piano and synth spirals weaving around the bass section are abso
 Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://rawpoetic.bandcamp.com/music) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
-
