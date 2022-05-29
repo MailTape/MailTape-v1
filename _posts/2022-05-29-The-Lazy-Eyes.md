@@ -11,7 +11,7 @@ track3_color: trippy
 track4_color: trippy
 track5_color: dreamy
 track6_color: vibrant
-track7_color: bliss
+track7_color: trippy
 category: '495'
 illustrator: Meriam Kharbat
 writer: Sarah
@@ -21,6 +21,8 @@ guest_color: trippy
 guestPic: guestPic495.jpg
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track4.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track7.mp3'
+track4_title: The Lazy Eyes - Cheesy Love Song
+track7_title: The Lazy Eyes - Where's My Brain???
 ---
 <p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
 </p>
