@@ -47,7 +47,7 @@ The Lazy Eyes: **"**Released in 2000, off of the Sophtware Slump album.**"**
 The Lazy Eyes: **"**Released in 2016, off of The Party album.**"**
 
 ## [Kraftwerk](https://kraftwerk.com/) - It's More Fun to Compute
-The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
+The Lazy Eyes: **"**Released in 1981, off of the [Computer World album](https://www.youtube.com/playlist?list=PLjIuADMrDKIYMHf-FtLNepOnwMGCBdpjh).**"**
 
 # MailTape's selection
 
