@@ -31,6 +31,9 @@ episode_URL: 'http://mailta.pe/495/The-Lazy-Eyes/'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track1.mp3'
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook. 
 </p>
@@ -49,7 +52,7 @@ The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 # MailTape's selection
 
 ## [The Lazy Eyes](https://rawpoetic.bandcamp.com/music) - Cheesy Love Song
-Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into the rock influences more heavily than some of the earlier numbers.**"**  
+Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the SongBook album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks.**"**  
 
 ## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
 Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers.**"**
