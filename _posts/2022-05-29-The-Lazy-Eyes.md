@@ -32,8 +32,15 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track1.mp3'
 image: 'https://mailta.pe/img/fbPic495.png'
+description: >-
+  This morning, we're delighted to welcome The Lazy Eyes to MailTape for a
+  Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic
+  rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy
+  Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums.
+  The band joins us following the release of their 2022 debut album SongBook, a
+  world warp of smooth and experimental psychedelic grooves.
 ---
-<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves. 
+<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves.
 </p>
 
 # The Lazy Eyes's selection
