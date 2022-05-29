@@ -55,7 +55,7 @@ Sarah: **"**SongBook is a wonderful listen from start to finish. All the tracks 
 Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers.**"**
 
 ## INO hidefumi - スカイツリー / Skytree
-Sarah: **"**Can't get over this track, love how easy going the groove is, perfect for a Sunday morning :)**"**
+Sarah: **"**Can't get over the easy going groove in this track, perfect for a Sunday morning :) Wonderful plucking accents halfway through, such a nice compliment to the rhythm sections' sliding movements**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in. Love the rock breaks from the trancelike grooves, a really fun listen.**"**
