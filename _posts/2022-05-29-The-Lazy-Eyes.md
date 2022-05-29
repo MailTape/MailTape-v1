@@ -32,7 +32,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track1.mp3'
 ---
-<p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
+<p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook. 
 </p>
 
 # The Lazy Eyes's selection
@@ -49,7 +49,7 @@ The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 # MailTape's selection
 
 ## [The Lazy Eyes](https://rawpoetic.bandcamp.com/music) - Cheesy Love Song
-Sarah: **"**SongBook is a wonderful listen from start to finish. All the tracks meld together into a psychedlic haze, each subsequent tracks adding more complexity to the album's complete picture. This is the album's final track, leaning into the rock influences more heavily than some of the earlier numbers.**"**  
+Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into the rock influences more heavily than some of the earlier numbers.**"**  
 
 ## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
 Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers.**"**
