@@ -20,11 +20,7 @@ guest_name: The Lazy Eyes
 guest_color: trippy
 guestPic: guestPic495.jpg
 ---
-<p id="introduction">This morning, we're ringing in the day with smooth sunshine tracks introduced by our dear guest, [Raw Poetic](https://rawpoetic.bandcamp.com/). The project of Jason Moore, Raw Poetic's music dips into treadings of hip hop, jazz, folk, and soul. Instead of categorizing his work, Jason simply says, "what it sounds like is what it sounds like." His production style follows this free form and flowing process, where finished products are not hindered by any certain categorical distinction.  
-  <br><br>
-Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/album/laminated-skies), releases in just 5 days, on March 18. The album features many of Raw Poetic's familiar collaborators, including Earl Davis, Luke Stewart, Patrick Fritz, and Damu the Fudgemunk. At its core, Raw Poetic describes this release as a "Jason Album," one that draws particular breath from Jason's experience. 
-   <br><br>
-  Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through this experience, a patchwork of genre and style, coming together into something that can only be described as Jason.  
+<p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
 </p>
 
 # The Lazy Eyes's selection
