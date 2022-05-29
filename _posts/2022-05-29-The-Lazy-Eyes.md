@@ -31,9 +31,7 @@ episode_URL: 'http://mailta.pe/495/The-Lazy-Eyes/'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track1.mp3'
-image: ''
-musiColor: ''
-description: ''
+image: 'https://mailta.pe/img/fbPic495.png'
 ---
 <p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves. 
 </p>
@@ -62,5 +60,6 @@ Sarah: **"**Can't get over the easy going synth groove in this track, perfect fo
 
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
+![fbPic495.png]({{site.baseurl}}/img/fbPic495.png)
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) for joining us this Sunday. Many thanks to Meriam Kharbat for this episode's vibrant illustration!</p>
