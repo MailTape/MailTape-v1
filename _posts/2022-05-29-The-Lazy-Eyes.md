@@ -19,6 +19,8 @@ author: Sarah
 guest_name: The Lazy Eyes
 guest_color: trippy
 guestPic: guestPic495.jpg
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track7.mp3'
 ---
 <p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
 </p>
