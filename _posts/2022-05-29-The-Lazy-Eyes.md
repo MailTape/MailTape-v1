@@ -37,7 +37,7 @@ The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 # MailTape's selection
 
 ## [The Lazy Eyes](https://rawpoetic.bandcamp.com/music) - Cadillac
-Sarah: **"**Such gentle melodies interlaced so carefully over each other, floating through the track like flowers in water. Raw Poetic describes this track as the healing process from a particularly turbulent relationship, one that he knew wasn't going to last. The lyrics describe their story so beautifully, with the pendulum swings and so many other moments tinged with a special nostalgia, a proper goodbye. Love the watery quality created by this side swaying bass, xylophone, and smooth vocals, contrasting so nicely with Patrick Fritz's higher guitar riff comp. A testament to the "Jason-ness" of this album, the track dips into hip hop, folk, and soul movements, but not lingering too long on any one genre.**"**  
+Sarah: **"**SongBook is simply put a wonderful listen from start to finish. **"**  
 
 ## [Damu the Fudgemunk](https://damuthefudgemunk.bandcamp.com/), [Raw Poetic](https://rawpoetic.bandcamp.com/music) - Power of the Mind
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum [Conversation Peace](https://damuthefudgemunk.bandcamp.com/album/conversation-peace). Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
