@@ -23,6 +23,8 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track4.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track7.mp3'
 track4_title: The Lazy Eyes - Cheesy Love Song
 track7_title: The Lazy Eyes - Where's My Brain???
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track6.mp3'
 ---
 <p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
 </p>
@@ -46,7 +48,7 @@ Sarah: **"**SongBook is a wonderful listen from start to finish. All the tracks 
 ## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum [Conversation Peace](https://damuthefudgemunk.bandcamp.com/album/conversation-peace). Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
-## [DARGZ](https://dargz.bandcamp.com/), [Moses Boyd](http://www.mosesboyd.co.uk/) - Happiness
+## INO hidefumi - スカイツリー / Skytree
 Sarah: **"**The piano and synth spirals weaving around the bass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
