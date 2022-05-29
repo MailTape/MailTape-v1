@@ -66,8 +66,6 @@ Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. So much 
 ## [INO hidefumi](https://inohidefumi.bandcamp.com/) - スカイツリー / Skytree
 Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful arpeggio plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
 
-![musiColor495.png]({{site.baseurl}}/img/musiColor495.png)
-
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off our selection with another track off of the band's debut album, [SongBook](https://thelazyeyes.bandcamp.com/album/songbook). The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
 
