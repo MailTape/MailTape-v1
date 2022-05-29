@@ -25,6 +25,8 @@ track4_title: The Lazy Eyes - Cheesy Love Song
 track7_title: The Lazy Eyes - Where's My Brain???
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/495/track6.mp3'
+track6_title: INO hidefumi - スカイツリー / Skytree
+track5_title: Janko Nilovic and the Soul Surfers - Psychic Powers
 ---
 <p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joings us following the release of their 2022 debut album SongBook. 
 </p>
