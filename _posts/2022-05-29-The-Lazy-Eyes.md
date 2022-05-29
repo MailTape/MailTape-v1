@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Grandaddy - The Crystal Lake
 track1_color: dreamy
 track2_title: Andy Shauf - Early to the Party
