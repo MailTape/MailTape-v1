@@ -40,7 +40,7 @@ description: >-
   The band joins us following the release of their 2022 debut album SongBook, a
   world warp of smooth and experimental psychedelic grooves.
 ---
-<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves.
+<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album [SongBook](https://thelazyeyes.bandcamp.com/album/songbook), a world warp of smooth and experimental psychedelic grooves.
 </p>
 
 # The Lazy Eyes's selection
@@ -57,7 +57,7 @@ The Lazy Eyes: **"**Released in 1981, off of the [Computer World album](https://
 # MailTape's selection
 
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Cheesy Love Song
-Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the SongBook album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks. Love the new breath that the track takes on halfway through.**"**  
+Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the [SongBook](https://thelazyeyes.bandcamp.com/album/songbook) album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks. Love the new breath that the track takes on halfway through.**"**  
 
 ## [Janko Nilovic and the Soul Surfers](https://brocrecordz.bandcamp.com/track/psychic-powers) - Psychic Powers
 Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. So much of Janko's classic psychedelic funk groove form in this track, we can melt into listening. Excited to hear what else this collaboration brings about in the future.**"**
@@ -66,6 +66,6 @@ Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. So much 
 Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful arpeggio plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
 
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Where's My Brain???
-Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
+Sarah: **"**Finishing off our selection with another track off of the band's debut album, [SongBook](https://thelazyeyes.bandcamp.com/album/songbook). The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) for joining us this Sunday. Many thanks to Meriam Kharbat for this episode's vibrant illustration!</p>
