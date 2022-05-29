@@ -52,15 +52,15 @@ The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 # MailTape's selection
 
 ## [The Lazy Eyes](https://rawpoetic.bandcamp.com/music) - Cheesy Love Song
-Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the SongBook album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks.**"**  
+Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the SongBook album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks. Love the new breath that the track takes on halfway through.**"**  
 
 ## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
-Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers.**"**
+Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. True to form, it's a groove we can melt into listening. Excited to hear what else this collaboration brings about in the future.**"**
 
 ## INO hidefumi - スカイツリー / Skytree
-Sarah: **"**Can't get over the easy going groove in this track, perfect for a Sunday morning :) Wonderful plucking accents halfway through, such a nice compliment to the rhythm sections' sliding movements**"**
+Sarah: **"**Can't get over the easy going groove in this track, perfect for a Sunday morning :) Wonderful plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
-Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in. Love the rock breaks from the trancelike grooves, a really fun listen.**"**
+Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in. Love the rock breaks from the trancelike grooves, a fun listen.**"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [The Lazy Eyes](https://rawpoetic.bandcamp.com/music) for joining us this Sunday. Many thanks to Meriam Kharbat for this episode's vibrant illustration!</p>
