@@ -38,7 +38,8 @@ description: >-
   rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy
   Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums.
   The band joins us following the release of their 2022 debut album SongBook, a
-  world warp of smooth and experimental psychedelic grooves.
+  world warp of smooth and experimental psychedelic grooves. 
+musiColor: musiColor495.png
 ---
 <p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album [SongBook](https://thelazyeyes.bandcamp.com/album/songbook), a world warp of smooth and experimental psychedelic grooves.
 </p>
@@ -64,6 +65,8 @@ Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. So much 
 
 ## [INO hidefumi](https://inohidefumi.bandcamp.com/) - スカイツリー / Skytree
 Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful arpeggio plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
+
+![musiColor495.png]({{site.baseurl}}/img/musiColor495.png)
 
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off our selection with another track off of the band's debut album, [SongBook](https://thelazyeyes.bandcamp.com/album/songbook). The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
