@@ -54,10 +54,10 @@ The Lazy Eyes: **"**Released in 1981, off of the [Computer World album](https://
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Cheesy Love Song
 Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld together into a psychedelic haze, each track adding more complexity to the album's complete picture. This is the album's final track, leaning into psych-rock influences more heavily than some of the album's earlier numbers. There's such softness with the piano and light vocals at the song's beginning, and the track's trajectory is anything but predictable. Cheesy Love Song wraps the SongBook album up so neatly, bringing together the elements of 70's English rock and psychedelic spiralings present throughout the other tracks. Love the new breath that the track takes on halfway through.**"**  
 
-## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
-Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. True to form, it's a groove we can melt into listening. Excited to hear what else this collaboration brings about in the future.**"**
+## [Janko Nilovic and the Soul Surfers](https://brocrecordz.bandcamp.com/track/psychic-powers) - Psychic Powers
+Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. So much of Janko's classic psychedelic funk groove form in this track, we can melt into listening. Excited to hear what else this collaboration brings about in the future.**"**
 
-## INO hidefumi - スカイツリー / Skytree
+## [INO hidefumi](https://inohidefumi.bandcamp.com/) - スカイツリー / Skytree
 Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful arpeggio plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
 
 ## [The Lazy Eyes](https://thelazyeyes.bandcamp.com/) - Where's My Brain???
