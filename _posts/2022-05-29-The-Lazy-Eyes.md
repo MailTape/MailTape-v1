@@ -41,7 +41,7 @@ description: >-
   world warp of smooth and experimental psychedelic grooves. 
 musiColor: musiColor495.png
 ---
-<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album [SongBook](https://thelazyeyes.bandcamp.com/album/songbook), a world warp of smooth and experimental psychedelic grooves.
+<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving trippy tracks to get the day moving. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album [SongBook](https://thelazyeyes.bandcamp.com/album/songbook), a world warp of smooth and experimental psychedelic grooves.
 </p>
 
 # The Lazy Eyes's selection
