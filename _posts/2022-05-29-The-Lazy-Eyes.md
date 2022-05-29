@@ -29,13 +29,13 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
 
 # The Lazy Eyes's selection
 
-## [The Bongo Band](https://www.mrbongo.com/collections/incredible-bongo-band) - Apache
+## Grandaddy - The Crystal Lake
 The Lazy Eyes: **"**This song is pretty well known in the B-Boy circuit, but I think it’s a quite necessary piece for anyone who is just learning about hip-hop or trying to learn how to rap. It’s a great beat to freestyle rap or dance to.  I feel like this song should be played at some point every day.**"**
 
-## [The Silent Years](https://www.facebook.com/The-Silent-Years-28187101026/) - Someone To Keep Us Warm
+## Andy Shauf - Early to the Party
 The Lazy Eyes: **"**I can’t remember if I played a gig with this band, or if I just saw them in DC one night; but they played this song, and I never forgot it. It has a good vibe. I believe they are from Detroit. I’m not sure if they even still exist as a band. I don’t know any of their other songs. But I like this one. It reminds me that anyone, in the right moment, can make a good song. As long as it’s from the heart.**"**
 
-## [MC Solaar](https://www.discogs.com/artist/16412-MC-Solaar) - Bouge De Là
+## Kraftwerk - It's More Fun to Compute
 The Lazy Eyes: **"**My mother made me study French when I was a young boy, and my sister had taken a trip to France. Since she knew I loved hip-hop, my sister sent me back this French Hip-Hop album. At the time, I didn’t even know hip-hop was popular in France. I loved this song. It opened me up to a whole new world of hip-hop. I’ve been a fan ever since.**"**
 
 # MailTape's selection
