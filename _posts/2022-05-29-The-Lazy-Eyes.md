@@ -26,7 +26,6 @@ Raw Poetic's latest album, [Laminated Skies](https://rawpoetic.bandcamp.com/albu
    <br><br>
   Featuring many references to Ralph Ellison's Invisible Man, the album includes Jason's meditations of his experience as a Black man in America, and Northern Virginia specifically. Just as Ellison describes, this means feeling at once anonymous, hypervisible, and at times invincible; a space where it's easy to also feel lost. Laminated Skies represents Jason's work through this experience, a patchwork of genre and style, coming together into something that can only be described as Jason.  
 </p>
-![guestPic495.jpg]({{site.baseurl}}/img/guestPic495.jpg)
 
 # Raw Poetic's selection
 
