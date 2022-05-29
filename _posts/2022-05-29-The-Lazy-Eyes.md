@@ -8,7 +8,7 @@ track2_title: Andy Shauf - Early to the Party
 track2_color: dreamy
 track3_title: Kraftwerk - It's More Fun to Compute
 track3_color: trippy
-track4_color: vibrant
+track4_color: trippy
 track5_color: dreamy
 track6_color: vibrant
 track7_color: bliss
