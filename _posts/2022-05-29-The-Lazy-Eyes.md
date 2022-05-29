@@ -40,13 +40,13 @@ description: ''
 
 # The Lazy Eyes's selection
 
-## Grandaddy - The Crystal Lake
+## [Grandaddy](http://www.grandaddymusic.com/) - The Crystal Lake
 The Lazy Eyes: **"**Released in 2000, off of the Sophtware Slump album.**"**
 
-## Andy Shauf - Early to the Party
+## [Andy Shauf](https://andyshauf.com/) - Early to the Party
 The Lazy Eyes: **"**Released in 2016, off of The Party album.**"**
 
-## Kraftwerk - It's More Fun to Compute
+## [Kraftwerk](https://kraftwerk.com/) - It's More Fun to Compute
 The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 
 # MailTape's selection
@@ -58,7 +58,7 @@ Sarah: **"**SongBook is a wonderful listen from start to finish. The tracks meld
 Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers. True to form, it's a groove we can melt into listening. Excited to hear what else this collaboration brings about in the future.**"**
 
 ## INO hidefumi - スカイツリー / Skytree
-Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
+Sarah: **"**Can't get over the easy going synth groove in this track, perfect for a Sunday morning :) Wonderful arpeggio plucking accents halfway through, such a nice compliment to the sliding rhythm section.**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in, especially for our Sunday listening :) Love the rock breaks from the trancelike grooves, a welcome surprise.**"**
