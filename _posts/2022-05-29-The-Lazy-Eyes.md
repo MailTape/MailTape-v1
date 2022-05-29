@@ -35,16 +35,16 @@ image: ''
 musiColor: ''
 description: ''
 ---
-<p id="introduction">This morning, we're delighted to welcome The Lazy Eyes to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook. 
+<p id="introduction">This morning, we're delighted to welcome [The Lazy Eyes](https://thelazyeyes.com/) to MailTape for a Sunday selection of smooth moving tracks. Based in Sydney, the psychedelic rock group features Harvey Geraghty on vocals, guitar, and keyboard; Italy Sasha on vocals and guitar; Leon Karagic on bass; and Noah Martin on drums. The band joins us following the release of their 2022 debut album SongBook, a world warp of smooth and experimental psychedelic grooves. 
 </p>
 
 # The Lazy Eyes's selection
 
 ## [Grandaddy](http://www.grandaddymusic.com/) - The Crystal Lake
-The Lazy Eyes: **"**Released in 2000, off of the Sophtware Slump album.**"**
+The Lazy Eyes: **"**Released in 2000, off of the [Sophtware Slump](https://www.discogs.com/master/4413-Grandaddy-The-Sophtware-Slump) album.**"**
 
 ## [Andy Shauf](https://andyshauf.com/) - Early to the Party
-The Lazy Eyes: **"**Released in 2016, off of The Party album.**"**
+The Lazy Eyes: **"**Released in 2016, off of [The Party](https://andyshauf.bandcamp.com/album/the-party) album.**"**
 
 ## [Kraftwerk](https://kraftwerk.com/) - It's More Fun to Compute
 The Lazy Eyes: **"**Released in 1981, off of the [Computer World album](https://www.youtube.com/playlist?list=PLjIuADMrDKIYMHf-FtLNepOnwMGCBdpjh).**"**
