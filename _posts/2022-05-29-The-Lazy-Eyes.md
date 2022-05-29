@@ -58,6 +58,6 @@ Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too muc
 Sarah: **"**Can't get over this track, love how easy going the groove is, perfect for a Sunday morning :)**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
-Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
+Sarah: **"**Finishing off our selection with another track off of the band's debut album. The title is self-explanatory enough, this track's psychedelic influences create the space to get lost in.**"**
 
 <p id="outroduction">That finishes our playlist  for this morning! Our thanks to [Raw Poetic](https://rawpoetic.bandcamp.com/music) for his wonderful Sunday selection. Many thanks to Noémie Dijon for this episode's stellar illustration!</p>
