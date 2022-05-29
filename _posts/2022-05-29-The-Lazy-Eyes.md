@@ -55,7 +55,7 @@ Sarah: **"**SongBook is a wonderful listen from start to finish. All the tracks 
 Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum [Conversation Peace](https://damuthefudgemunk.bandcamp.com/album/conversation-peace). Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
 
 ## INO hidefumi - スカイツリー / Skytree
-Sarah: **"**The piano and synth spirals weaving around the bass section are absolutely intoxicating. One of the latest singles from producer DARGZ, off of the [Happiness EP](https://dargz.bandcamp.com/track/happiness-feat-charlie-stacey-moses-boyd). Really nice placement in the release, adding some instrumental breath before Hold On, Pt. 2, starting the EP nicely.**"**
+Sarah: **"**Can't get over this track, love how easy going the groove is, perfect for a Sunday morning :)**"**
 
 ## [The Lazy Eyes](https://indiablue.bandcamp.com/) - Where's My Brain???
 Sarah: **"**Finishing off this eclectic selection with a track from India Blue's 2022 album, [The Circus Came and Left](https://indiablue.bandcamp.com/album/the-circus-came-and-left). Love the vocal layering on this one. Calming and yet celestial, a testament to India Blue's self descriptions as faerie-folk. Wonderful for pulling yourself out of a sleepy morning.**"**
