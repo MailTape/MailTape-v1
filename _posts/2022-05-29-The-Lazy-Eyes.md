@@ -52,7 +52,7 @@ The Lazy Eyes: **"**Released in 1981, off of the Computer World album.**"**
 Sarah: **"**SongBook is a wonderful listen from start to finish. All the tracks meld together into a psychedlic haze, each subsequent tracks adding more complexity to the album's complete picture. This is the album's final track, leaning into the rock influences more heavily than some of the earlier numbers.**"**  
 
 ## [Janko Nilovic and the Soul Surfers](https://damuthefudgemunk.bandcamp.com/) - Psychic Powers
-Sarah: **"**Raw Poetic is dominating this playlist, but there was simply too much to choose from. One of the many collaborations between Damu the Fudgemunk and Raw Poetic, this track is lifted from Damu's alum [Conversation Peace](https://damuthefudgemunk.bandcamp.com/album/conversation-peace). Struck by the xylophone with the easy energy of the rap verses. Love the sax and piano openings towards the end, smooth :)**"**
+Sarah: **"**The newest release from Janko Nilovic and the Soul Surfers.**"**
 
 ## INO hidefumi - スカイツリー / Skytree
 Sarah: **"**Can't get over this track, love how easy going the groove is, perfect for a Sunday morning :)**"**
