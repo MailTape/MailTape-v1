@@ -25,6 +25,11 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track7.mp3'
+track4_title: The Balek Band - Balek Zouk
+track5_title: Diogo Strausz - Deixa a Gira Girar
+track6_title: Paula Tape - Body Nature
+track7_title: Wau Wau Collectif - Salamaleikoum
+episode_URL: 'https://www.mailta.pe/496/the-balek-band/'
 ---
 <p id="introduction"> This morning, we are delighted to welcome [u.r.trax](https://www.instagram.com/ur_trax/) to MailTape, for an energetic Sunday morning selection!
 <br><br>
