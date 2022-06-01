@@ -54,7 +54,7 @@ The Balek Band: **"**Ca y est on s'est étirés dans le lit, on pause les pieds 
 ## Jules-Henry Malaki - Tes Idées
 The Balek Band: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
 <br><br>
-<i>Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.</i>**"**
+<i>Intense and synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.</i>**"**
 
 
 # MailTape's selection
