@@ -9,6 +9,22 @@ category: '496'
 guest_name: The Balek Band
 guest_color: trippy
 track1_title: Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
+track2_title: Patrick Jahn - Abenteuer überm Schrank
+track1_color: dreamy
+track2_color: bliss
+track3_title: Jules-Henry Malaki - Tes Idées
+track3_color: vibrant
+track4_color: trippy
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track1.mp3'
+track5_color: trippy
+track6_color: bliss
+track7_color: vibrant
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/496/track7.mp3'
 ---
 <p id="introduction"> This morning, we are delighted to welcome [u.r.trax](https://www.instagram.com/ur_trax/) to MailTape, for an energetic Sunday morning selection!
 <br><br>
@@ -19,28 +35,34 @@ It's time to get out of bed, or it's not yet time to go to bed, time to go out f
 # The Balek Band's selection
 
 ## Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
-Vidock: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....**"**
+Vidock: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
+<br><br>
+Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....**"**
 
-## Eartheater, Tony Seltzer - Joyride
-u.r.trax: **"**Eartheater is a siren whispering to your ear. This artist's sonic range sweeps from ambient to trap and hyperpop. Her singing is so particular, and becomes even more magical when blended to futuristic productions. I've been obsessed with Joyride ever since it came out. Her voice makes me feel so many things !**"**
+## Patrick Jahn - Abenteuer überm Schrank
+Vidock: **"**Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !
+<br><br>
+That's it, we stretched in bed, we put our feet on the ground, the drums start, the bass line comes in, we move our heads slowly. Little touch of melancholy for this track all groovy. Summer is here, sunglasses on your nose, slow and assured gait, voila, the day has begun!**"**
 
-## Sentimental Rave - Unreleased Love
-u.r.trax: **"**Sentimental Rave is maybe the artist with the purest soul i've ever met. First time I heard her live, she finished her set with one of her productions and I cried (lol). Her work on textures, rhythms, and her production methods are really impressive. But, the most amazing thing is how she sends pure emotion the second you listen to her tracks. The melody in this track almost reminds me of classical music !**"**
+## Jules-Henry Malaki - Tes Idées
+u.r.trax: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
+<br><br>
+Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.**"**
 
 
 # MailTape's selection
 
-## u.r.trax - Race Against The Time
-Jules: **"**Taken from u.r.trax's new EP ["U R TRA$H"](https://lobstertheremin.com/album/u-r-tra-h), released in September 2021 on the London-based label Lobster Theremin, this track, with its complex beat and its metallic and distressing synths, represents well the precocity, the desire and the urgency embodied by the music of the young Parisian producer. Maybe a little too hard for a Sunday morning, but do we still have time anyway?**"**
+## The Balek Band - Balek Zouk
+Jules: **"**Hard to pick only one track from The Balek Band's new LP Médecines. It was released only last Friday and already inloop in my ears. To me this track represents the best the spirit of the group but the whole album is a gem!**"**
 
-## [Simo Cell](https://simocell.bandcamp.com/) - Whispers
-Jules: **"**This track is an extract of the album "YES.DJ" released in September 2021. This album, published on Simo Cell's own label TEMƎT, is another celebration of dance music, dancefloors and DJing. While the clubs are once again closed, the concerts canceled and the artists in uncertainty, the French DJ/producer makes us explore here different styles of beats. Time to think of your new dance moves fro 2022.**"**
+## Diogo Strausz - Deixa a Gira Girar
+Jules: **"****"**
 
-## [Bambounou](https://bambounouofficial.bandcamp.com/) - Final Conference
-Jules: **"**2021 has been an important year for the Parisian DJ and producer Bambounou, with the launch of his new label Bambe. The first releases with imprints of ambient and tribal sounds, as well as the aesthetic of the label, represent well the new mature and resolutely modern space wanted by Bambounou, and impressed and inspired me a lot this year.**"**
+## Paula Tape - Body Nature
+Jules: **"****"**
 
-## Asna - Atalaku
-Jules: **"**Last (but not least) of my great discoveries of last year, this track released on the label ["BLANC MANIOC"](https://blancmanioclabel.bandcamp.com/track/atalaku), a label exclusively dedicated to modern African electronic music which turned my head and my body up and down.**"**
+## Wau Wau Collectif - Salamaleikoum
+Jules: **"**Last track to finish the day**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to u.r.trax for her energizing Sunday selections, and many thanks to Meriam Kherbat for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to Thibault Daumain for this episode's stunning illustration !</p>
