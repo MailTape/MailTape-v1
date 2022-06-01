@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/496/the-balek-band/'
 ---
 <p id="introduction"> This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM), who just released their very first album, <i>"Médecines"</i>, last Friday
 <br><br>
-Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the grooviest MailTape episode I've ever made.
+Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the catchiest MailTape episode I've ever made.
 Say no more, let's enjoy the band's Sunday selection, just as crazy as their Zouk-Balearic-Italo Disco-Pop- Electronic-post Funk-Caribbean-(I could go on for a long time)-influenced music!
 </p>
 
