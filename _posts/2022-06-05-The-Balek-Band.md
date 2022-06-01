@@ -2,6 +2,13 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Jules
+illustrator: Thibault Daumain
+writer: Jules
+category: '496'
+guest_name: The Balek Band
+guest_color: trippy
+track1_title: Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
 ---
 <p id="introduction"> This morning, we are delighted to welcome [u.r.trax](https://www.instagram.com/ur_trax/) to MailTape, for an energetic Sunday morning selection!
 <br><br>
@@ -9,10 +16,10 @@ It's time to get out of bed, or it's not yet time to go to bed, time to go out f
 </p>
 
 
-# u.r.trax's selection
+# The Balek Band's selection
 
-## Unklevon - Sharping Shadow
-u.r.trax: **"**Unklevon is a French producer I really admire. He has the secret to make classy yet energetic electro bangers. Often, he adds a bit of his voice and it always works ! Lately, I've been opening my sets a lot with this track : very sexy and versatile. It oscillates between uplifting pads, impactant vocals and a very straightforward beat.**"**
+## Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
+Vidock: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....**"**
 
 ## Eartheater, Tony Seltzer - Joyride
 u.r.trax: **"**Eartheater is a siren whispering to your ear. This artist's sonic range sweeps from ambient to trap and hyperpop. Her singing is so particular, and becomes even more magical when blended to futuristic productions. I've been obsessed with Joyride ever since it came out. Her voice makes me feel so many things !**"**
