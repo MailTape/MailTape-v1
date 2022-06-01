@@ -31,26 +31,27 @@ track6_title: Paula Tape - Body Nature
 track7_title: Wau Wau Collectif - Salamaleikoum
 episode_URL: 'https://www.mailta.pe/496/the-balek-band/'
 ---
-<p id="introduction"> This morning, we are delighted to welcome [u.r.trax](https://www.instagram.com/ur_trax/) to MailTape, for an energetic Sunday morning selection!
+<p id="introduction"> This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM), who just released their very first album, <i>"Médecines"</i>, last Friday
 <br><br>
-It's time to get out of bed, or it's not yet time to go to bed, time to go out for a jog or go shouting at a demonstration. Anyway, the Parisian DJ and techno music producer, who is never mentioned in the media without recalling her young age and her precocity, has energy to spare. u.r.trax's music cultivates the paradox between introspective themes that evoke a generational existential crisis, just like her EP [MORAL KRISIS](https://hectoroaks.bandcamp.com/album/moral-krisis), and rhythms designed for large dark dancefloors which, in the time of health restrictions, sound like calls for action.
+Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the craziest MailTape episode I've ever made.
+Say no more, let's enjoy the band's Sunday selection, just as crazy as their Zouk-Balearic-Italo Disco-Pop- Electronic-post Funk-Caribbean-(I could continue)-influenced music!
 </p>
 
 
 # The Balek Band's selection
 
 ## Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
-Vidock: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
+The Balek Band: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
 <br><br>
 Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....**"**
 
 ## Patrick Jahn - Abenteuer überm Schrank
-Vidock: **"**Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !
+The Balek Band: **"**Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !
 <br><br>
 That's it, we stretched in bed, we put our feet on the ground, the drums start, the bass line comes in, we move our heads slowly. Little touch of melancholy for this track all groovy. Summer is here, sunglasses on your nose, slow and assured gait, voila, the day has begun!**"**
 
 ## Jules-Henry Malaki - Tes Idées
-u.r.trax: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
+The Balek Band: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
 <br><br>
 Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.**"**
 
@@ -58,16 +59,16 @@ Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. S
 # MailTape's selection
 
 ## The Balek Band - Balek Zouk
-Jules: **"**Hard to pick only one track from The Balek Band's new LP Médecines. It was released only last Friday and already inloop in my ears. To me this track represents the best the spirit of the group but the whole album is a gem!**"**
+Jules: **"**Hard to pick only one track from their new LP Médecines. It was released only last Friday and already inloop in my ears. To me this track represents the best the spirit of the group but the whole album is a gem!**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
-Jules: **"****"**
+Jules: **"**Even crazier, Goutte d'Or Records, on fait découvrir le quartier**"**
 
 ## Paula Tape - Body Nature
-Jules: **"****"**
+Jules: **"**Time to reconnect to nature after a long and exciting day**"**
 
 ## Wau Wau Collectif - Salamaleikoum
-Jules: **"**Last track to finish the day**"**
+Jules: **"**Last track to finish the day, enjoy le coucher du soleil au bord de la plage, plénitude**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to Thibault Daumain for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration !</p>
