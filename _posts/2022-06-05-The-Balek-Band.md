@@ -42,19 +42,19 @@ Say no more, let's enjoy the band's Sunday selection, just as crazy as their Zou
 # The Balek Band's selection
 
 ## Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
-The Balek Band: **"**<i>Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....</i>
-<br>
-Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....**"**
+The Balek Band: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
+<br><br>
+<i>Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....</i>**"**
 
 ## Patrick Jahn - Abenteuer überm Schrank
-The Balek Band: **"**<i>Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !</i>
-<br>
-That's it, we stretched in bed, we put our feet on the ground, the drums start, the bass line comes in, we move our heads slowly. Little touch of melancholy for this track all groovy. Summer is here, sunglasses on your nose, slow and assured gait, voila, the day has begun!**"**
+The Balek Band: **"**Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !
+<br><br>
+<i>That's it, we stretched in bed, we put our feet on the ground, the drums start, the bass line comes in, we move our heads slowly. Little touch of melancholy for this track all groovy. Summer is here, sunglasses on your nose, slow and assured gait, voila, the day has begun!</i>**"**
 
 ## Jules-Henry Malaki - Tes Idées
-The Balek Band: **"**<i>Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.</i>
-<br>
-Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.**"**
+The Balek Band: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
+<br><br>
+<i>Catchy synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.</i>**"**
 
 
 # MailTape's selection
