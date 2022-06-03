@@ -61,16 +61,16 @@ The Balek Band: **"**Zouk synthétique engagé, une belle leçon d'esprit et de 
 # MailTape's selection
 
 ## The Balek Band - Balek Zouk
-Jules: **"**Hard to pick only one track from their new LP Médecines. It was released only last Friday and already inloop in my ears. To me this track represents the best the spirit of the group but the whole album is a gem!**"**
+Jules: **"**It's hard to pick only one track from their new LP Médecines. The album barely came out last Friday and it's already playing in repeat in my ears. Let's continue our momentum with this excellent track for strolling in the sun, something that integrates well the spirit of the group and its madness (but the complete album is a gem!)**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
-Jules: **"**Even crazier, Goutte d'Or Records, on fait découvrir le quartier**"**
+Jules: **"**Ok, this time it looks like the sun hit us too hard. We feel our head spinning and our light body soaring towards the clouds with this track taken from [Diogo Strausz](https://diogostrausz.bandcamp.com/album/flight-of-sagittarius-ep)'s latest album, released on Goutte d'Or records, a label affiliated with Cracki Records, which bears the name of a nearby Parisian district. But right now, I don't know if I'm floating in the sky above Rio or Barbès**"**
 
 ## Paula Tape - Body Nature
-Jules: **"**Time to reconnect to nature after a long and exciting day**"**
+Jules: **"**The sun is close to setting, it's time to land, to go lie down for a while in the grass in the shade of the trees. This track from Chilean musician [Paula Tape](https://paulatape.bandcamp.com/album/astroturismo)'s latest album "Astroturismo" sounds to me like a call for a gentle and enthusiastic reconnection to nature, something we desperately need right now.**"**
 
 ## Wau Wau Collectif - Salamaleikoum
-Jules: **"**Last track to finish the day, enjoy le coucher du soleil au bord de la plage, plénitude**"**
+Jules: **"**This time the day is coming to an end. I never feel more peaceful than when I listen to this track by [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom). We come to feel the comfortable air one last time before going home, and we take the opportunity to observe the stars (if you are lucky enough to avoid the light pollution of cities) and tell ourselves that we are very small in the Universe.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration !</p>
