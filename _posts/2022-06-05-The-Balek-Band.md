@@ -30,6 +30,8 @@ track5_title: Diogo Strausz - Deixa a Gira Girar
 track6_title: Paula Tape - Body Nature
 track7_title: Wau Wau Collectif - Salamaleikoum
 episode_URL: 'https://www.mailta.pe/496/the-balek-band/'
+guestPic: guestPic496.jpeg
+musiColor: musiColor496.png
 ---
 <p id="introduction"> This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday and they can't wait to share their musical universe with us!
 <br><br>
@@ -37,7 +39,6 @@ Long time no see, dear music explorers! For the first episode of June, as we beg
 <br>
 Say no more, let's enjoy the band's Sunday selection, just as crazy as their Zouk-Balearic-Italo Disco-Pop- Electronic-post Funk-Caribbean-(I could go on for a long time)-influenced music!
 </p>
-
 
 # The Balek Band's selection
 
