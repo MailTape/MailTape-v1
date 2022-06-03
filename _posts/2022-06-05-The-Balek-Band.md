@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/496/the-balek-band/'
 guestPic: guestPic496.jpeg
 musiColor: musiColor496.png
 ---
-<p id="introduction"> This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday and they can't wait to share their musical universe with us!
+<p id="introduction"> This morning, we are delighted to welcome Nantes-based group [The Balek Band](https://thebalekband.bandcamp.com/album/m-decines?fbclid=IwAR1PV_q4gHxw9JSDMam3MOnjfmvC2vDlYqtDzRdf5HgEQcboptdU7toVggM). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>
 Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the catchiest MailTape episode I've ever made.
 <br>
@@ -73,4 +73,4 @@ Jules: **"**The sun is close to setting, it's time to land, to go lie down for a
 Jules: **"**This time the day is coming to an end. I never feel more peaceful than when I listen to this track by [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom). We come to feel the comfortable air one last time before going home, and we take the opportunity to observe the stars (if you are lucky enough to avoid the light pollution of cities) and tell ourselves that we are very small in the Universe.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
