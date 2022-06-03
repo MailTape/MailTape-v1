@@ -37,7 +37,7 @@ musiColor: musiColor496.png
 <br><br>
 Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the catchiest MailTape episode I've ever made.
 <br>
-Say no more, let's enjoy the band's Sunday selection, just as crazy as their Zouk-Balearic-Italo Disco-Pop- Electronic-post Funk-Caribbean-(I could go on for a long time)-influenced music!
+Say no more, let's enjoy the band's Sunday selection, just as crazy as their <i>Zouk-Balearic-Italo Disco-Pop- Electronic-post Funk-Caribbean-(I could go on for a long time)</i>-influenced music!
 </p>
 
 # The Balek Band's selection
