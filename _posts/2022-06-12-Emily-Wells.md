@@ -11,7 +11,7 @@ guest_color: bliss
 track1_title: Nina Simone - Who Knows Where the Time Goes 
 track2_title: Penny Penny - Shaka Bundu 
 track1_color: dreamy
-track2_color: bliss
+track2_color: vibrant
 track3_title: Empress Of - Save Me
 track3_color: vibrant
 track4_color: bliss
