@@ -40,13 +40,13 @@ image: 'https://mailta.pe/img/fbPic497.png'
 # Emily Wells's selection
 
 ## Nina Simone - Who Knows Where the Time Goes 
-The Balek Band: **"**xxx</i>**"**
+The Balek Band: **"**This recording puts you in the room: the single pair of hands clapping at the entry of the vocals somewhere in the back of the room; Nina Simone’s voice low, steady, kind; and the hiss of the tape and the atmosphere of the room, somewhere in the middle of the 1960s calling out to us in the present. When the tremolo on the Rhodes comes in, it sounds like a theremin or as though it might come from the throat of a creature that lives beneath the sea. The sound and its execution feels utterly contemporary, of the future. Every note played or struck or sung is as sure and sad as a note can be.**"**
 
 ## Penny Penny - Shaka Bundu
-The Balek Band: **"**xxx</i>**"**
+The Balek Band: **"**I discovered Penny Penny when I was “resting” after my first vaccine dose. I’d given myself permission to lie on the couch with the shades drawn and listen to music all day. I went deep into an “Awesome Tapes from Africa” well and ordered a summer’s worth of vinyl, Penny Penny’s being one of them. This album was recorded in South Africa in 1994. Penny Penny has a remarkable story and his music bops, seek him out!**"**
 
 ## Empress Of - Save Me
-The Balek Band: **"**xxx</i>**"**
+The Balek Band: **"**The song makes me feel good. Put it on and dance. Go on a drive and try to keep the windows up. Run, run faster. Uhhh the production: the pacing, the disco strings, the space between the sounds, the melodies. This is the kind of Sunday I want to have.**"**
 
 
 # MailTape's selection
