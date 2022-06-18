@@ -32,7 +32,7 @@ track7_title: Hamid El-Shaeri - Reet
 episode_URL: 'https://www.mailta.pe/497/Emily-Wells/'
 guestPic: guestPic497.jpg
 musiColor: musiColor497.png
-image: 'https://mailta.pe/img/fbPic497.png'
+image: 'https://mailta.pe/img/fbPic497.jpg'
 description: This morning, I am very thrilled to unveil an episode co-curated with Emily Wells. As she's on tour, playing Regards to the End around the world, she took a moment to share with us some of her music gems. With this selection, embark on a positive and deep journey filled with moving energy. Dance, love, care. 
 ---
 <p id="introduction">This morning, I am very thrilled to unveil an episode co-curated with Emily Wells. As she's on tour, playing ["Regards to the End"](https://emilywells.bandcamp.com/album/regards-to-the-end) around the world, she took a moment to share with us some of her music gems. With this selection, embark on a positive and deep journey filled with moving energy. Dance, love, care. 
