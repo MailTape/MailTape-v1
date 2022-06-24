@@ -36,7 +36,6 @@ INO hidefumi: **"**A mini-album co-written with Jean Touitou, who is A.P.C.'s de
 ## William DeVaughn - Be Thankful For What You Got
 INO hidefumi: **"**A masterpiece that is covered by various musicians and transcends races and generations. It contains universal metaphors and statements.**"**
 
-
 # MailTape's selection
 
 ## INO hidefumi - IN DREAMS
