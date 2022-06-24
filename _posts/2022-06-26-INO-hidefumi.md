@@ -19,21 +19,6 @@ track4_color: vibrant
 track5_color: vibrant
 track6_color: dreamy
 track7_color: dreamy
-guestPic: ''
-track1_link: ''
-track2_link: ''
-track3_link: ''
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track5_title: ''
-track6_title: ''
-track7_title: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
 ---
 <p id="introduction"> Today, we are delighted to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries.
 <br><br>
@@ -43,7 +28,7 @@ Long time no see, dear music explorers! For the first episode of June, as we beg
 # INO hidefumi's selection
 
 ## Timmy Thomas - Why Can't We Live Together
-INO hidefumi: **"**hh**"**
+INO hidefumi: **"**Lyrics that resonate with the present day. And also the intro has such impressive sounds with Rhythm Box "MAESTRO RHYTHM KING" - so loved by Sly Stone and Shuggie Otis. It's been 50 years since it was released in 1972. When will it be a peaceful world? For love we live and die.**"**
 
 ## INO hidefumi, Jean Touitou - It's All Over Now Baby Blue
 INO hidefumi: **"**hh**"**
