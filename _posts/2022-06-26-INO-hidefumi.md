@@ -8,11 +8,14 @@ writer: Sarah
 category: '498'
 guest_name: INO hidefumi
 guest_color: bliss
-track3_color: dreamy
+track3_color: bliss
 track4_title: INO hidefumi - IN DREAMS
 track1_title: Timmy Thomas - Why Can't We Live Together
 track2_title: 'INO hidefumi, Jean Touitou - It''s All Over Now Baby Blue'
 track3_title: William DeVaughn - Be Thankful For What You Got
+track1_color: dreamy
+track2_color: vibrant
+track4_color: vibrant
 ---
 <p id="introduction"> This morning, we are delighted to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>
