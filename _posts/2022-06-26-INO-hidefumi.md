@@ -16,6 +16,24 @@ track3_title: William DeVaughn - Be Thankful For What You Got
 track1_color: dreamy
 track2_color: vibrant
 track4_color: vibrant
+track5_color: vibrant
+track6_color: dreamy
+track7_color: dreamy
+guestPic: ''
+track1_link: ''
+track2_link: ''
+track3_link: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> This morning, we are delighted to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>
@@ -25,19 +43,13 @@ Long time no see, dear music explorers! For the first episode of June, as we beg
 # INO hidefumi's selection
 
 ## Timmy Thomas - Why Can't We Live Together
-INO hidefumi: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
-<br><br>
-<i>Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....</i>**"**
+INO hidefumi: **"**hh**"**
 
 ## INO hidefumi, Jean Touitou - It's All Over Now Baby Blue
-INO hidefumi: **"**Ca y est on s'est étirés dans le lit, on pause les pieds au sol, la batterie démarre, la ligne de bass rentre, on bouge la tête doucement. Petite touche de mélancolie pour ce morceau tout de groove vétu. L'été est là, lunette de soleil sur le nez, démarche lente et assurée, voilà, la journée est lancée !
-<br><br>
-<i>That's it, we stretched in bed, we put our feet on the ground, the drums start, the bass line comes in, we move our heads slowly. Little touch of melancholy for this track all groovy. Summer is here, sunglasses on your nose, slow and assured gait, voila, the day has begun!</i>**"**
+INO hidefumi: **"**hh**"**
 
 ## William DeVaughn - Be Thankful For What You Got
-INO hidefumi: **"**Zouk synthétique engagé, une belle leçon d'esprit et de rythmes chaloupés. A garder en tête pour ensoleiller le reste de la journée et avoir les idées fraiches. Big up à [Secousse Records](https://bandcamp.com/secousse) pour cette réédition.
-<br><br>
-<i>Intense and synthetic zouk track, a beautiful lesson in spirit and swaying rhythms. Something to keep in mind to brighten up the rest of the day and have fresh ideas. Big up to [Secousse Records](https://bandcamp.com/secousse) for this reissue.</i>**"**
+INO hidefumi: **"**hh**"**
 
 
 # MailTape's selection
