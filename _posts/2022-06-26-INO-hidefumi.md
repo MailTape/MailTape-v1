@@ -36,8 +36,8 @@ INO hidefumi: **"**Zouk synthétique engagé, une belle leçon d'esprit et de ry
 
 # MailTape's selection
 
-## The Balek Band - Balek Zouk
-Sarah: **"**It's hard to pick only one track from their new LP Médecines. The album barely came out last Friday and it's already playing in repeat in my ears. Let's continue our momentum with this excellent track for strolling in the sun, something that integrates well the spirit of the group and its madness (but the complete album is a gem!)**"**
+## INO hidefumi - IN DREAMS
+Sarah: **"**So textured and interesting to listen through... the vocals are wonderful against Ino's jazzy soundscapes.**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
 Sarah: **"**Ok, this time it looks like the sun hit us too hard. We feel our head spinning and our light body soaring towards the clouds with this track taken from [Diogo Strausz](https://diogostrausz.bandcamp.com/album/flight-of-sagittarius-ep)'s latest album, released on Goutte d'Or records, a label affiliated with Cracki Records, which bears the name of a nearby Parisian district. But right now, I don't know if I'm floating in the sky above Rio or Barbès**"**
