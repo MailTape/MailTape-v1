@@ -8,8 +8,9 @@ writer: Sarah
 category: '498'
 guest_name: INO hidefumi
 guest_color: bliss
-track3_title: INO hidefumi - IN DREAMS
 track3_color: dreamy
+track4_title: INO hidefumi - IN DREAMS
+track1_title: Timmy Thomas - Why Can't We Live Together
 ---
 <p id="introduction"> This morning, we are delighted to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>
@@ -18,7 +19,7 @@ Long time no see, dear music explorers! For the first episode of June, as we beg
 
 # INO hidefumi's selection
 
-## Marvin Gaye - What's Going On (Rhythm 'N' Strings Mix)
+## Timmy Thomas - Why Can't We Live Together
 INO hidefumi: **"**Morceau parfait pour un réveil en douceur, peut être après une fête qui laisse de doux souvenirs, ou aux côtés de l'être aimé... oooh what a groove....
 <br><br>
 <i>Perfect track for a gentle awakening, maybe after a party that leaves sweet memories, or alongside a loved one... oooh what a groove....</i>**"**
