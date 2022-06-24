@@ -58,13 +58,13 @@ INO hidefumi: **"**hh**"**
 Sarah: **"**So textured and interesting to listen through... the vocals are wonderful against Ino's jazzy soundscapes.**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
-Sarah: **"**Ok, this time it looks like the sun hit us too hard. We feel our head spinning and our light body soaring towards the clouds with this track taken from [Diogo Strausz](https://diogostrausz.bandcamp.com/album/flight-of-sagittarius-ep)'s latest album, released on Goutte d'Or records, a label affiliated with Cracki Records, which bears the name of a nearby Parisian district. But right now, I don't know if I'm floating in the sky above Rio or Barbès**"**
+Sarah: **"**hh**"**
 
 ## Paula Tape - Body Nature
-Sarah: **"**The sun is close to setting, it's time to land, to go lie down for a while in the grass in the shade of the trees. This track from Chilean musician [Paula Tape](https://paulatape.bandcamp.com/album/astroturismo)'s latest album "Astroturismo" sounds to me like a call for a gentle and enthusiastic reconnection to nature, something we desperately need right now.**"**
+Sarah: **"**hh**"**
 
 ## Wau Wau Collectif - Salamaleikoum
-Sarah: **"**This time the day is coming to an end. I never feel more peaceful than when I listen to this track by [Wau Wau Collectif](https://wauwaucollectif.bandcamp.com/album/yaral-sa-doom). We come to feel the comfortable air one last time before going home, and we take the opportunity to observe the stars (if you are lucky enough to avoid the light pollution of cities) and tell ourselves that we are very small in the Universe.**"**
+Sarah: **"**hh**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
