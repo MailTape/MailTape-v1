@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+illustrator: Meriam Kharbat
+writer: Sarah
+category: '498'
+guest_name: INO hidefumi
+guest_color: bliss
 ---
 <p id="introduction"> This morning, we are delighted to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/). Their very first album, <i>"Médecines"</i>, was freshly released last Friday, and they can't wait to share their musical universe with us!
 <br><br>
