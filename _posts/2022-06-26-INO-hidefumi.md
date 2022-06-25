@@ -44,7 +44,7 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 # MailTape's selection
 
 ## INO hidefumi - IN DREAMS
-Sarah: **"**Such an interesting texture in this track... the vocals are wonderful against Ino's jazzy soundscapes.**"**
+Sarah: **"**Such an interesting texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with the Fender Rhodes piano and this magnetic bassline.**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
 Sarah: **"**hh**"**
