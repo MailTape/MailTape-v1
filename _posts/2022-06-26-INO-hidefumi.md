@@ -44,7 +44,7 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 # MailTape's selection
 
 ## INO hidefumi - IN DREAMS
-Sarah: **"**So textured and interesting to listen through... the vocals are wonderful against Ino's jazzy soundscapes.**"**
+Sarah: **"**Such an interesting texture in this track... the vocals are wonderful against Ino's jazzy soundscapes.**"**
 
 ## Diogo Strausz - Deixa a Gira Girar
 Sarah: **"**hh**"**
