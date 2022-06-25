@@ -51,7 +51,5 @@ Sarah: **"**hh**"**
 
 ## Wau Wau Collectif - Salamaleikoum
 Sarah: **"**hh**"**
-![fbPic498.png]({{site.baseurl}}/img/fbPic498.png)
-
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
