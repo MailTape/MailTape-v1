@@ -24,6 +24,7 @@ image: 'https://mailta.pe/img/fbPic498.png'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track3.mp3'
+track6_title: Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
 ---
 <p id="introduction"> Today, we feel a special joy to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's selection is thoughtful and a delightful beginning to our day's movements.
 <br><br>
@@ -49,8 +50,8 @@ Sarah: **"**Such an interesting texture in this track... Ino's grounded vocals a
 ## Diogo Strausz - Deixa a Gira Girar
 Sarah: **"**hh**"**
 
-## Paula Tape - Body Nature
-Sarah: **"**hh**"**
+## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
+Sarah: **"****"**
 
 ## Wau Wau Collectif - Salamaleikoum
 Sarah: **"**hh**"**
