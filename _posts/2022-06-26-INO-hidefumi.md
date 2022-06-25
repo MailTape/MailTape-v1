@@ -20,6 +20,7 @@ track5_color: vibrant
 track6_color: dreamy
 track7_color: dreamy
 guestPic: guestPic498.jpg
+image: 'https://mailta.pe/img/fbPic498.png'
 ---
 <p id="introduction"> Today, it's a very special joy to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's selection is thoughtful and a wonderful start to our day.
 <br><br>
@@ -50,6 +51,7 @@ Sarah: **"**hh**"**
 
 ## Wau Wau Collectif - Salamaleikoum
 Sarah: **"**hh**"**
+![fbPic498.png]({{site.baseurl}}/img/fbPic498.png)
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
