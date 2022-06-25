@@ -22,9 +22,9 @@ track7_color: dreamy
 guestPic: guestPic498.jpg
 image: 'https://mailta.pe/img/fbPic498.png'
 ---
-<p id="introduction"> Today, it's a very special joy to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's selection is thoughtful and a wonderful start to our day.
+<p id="introduction"> Today, we feel a very special joy to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's selection is thoughtful and a delightful beginning to our day.
 <br><br>
-Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the catchiest MailTape episode I've ever made.
+INO hidefumi 
 </p>
 
 # INO hidefumi's selection
