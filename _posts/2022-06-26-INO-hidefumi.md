@@ -26,9 +26,6 @@ guestPic: guestPic498.jpg
 Long time no see, dear music explorers! For the first episode of June, as we begin to feel summer pointing the tip of its nose, I am very happy and excited to welcome one of the most lively and stirring of my recent musical discoveries for, certainly, the catchiest MailTape episode I've ever made.
 </p>
 
-![guestPic498.jpg]({{site.baseurl}}/img/guestPic498.jpg)
-
-
 # INO hidefumi's selection
 
 ## Timmy Thomas - Why Can't We Live Together
