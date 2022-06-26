@@ -53,13 +53,13 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 ## INO hidefumi - IN DREAMS
 Sarah: **"**Such an interesting texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with the Fender Rhodes piano and this magnetic bassline. This one had me dancing around the kitchen :)**"**
 
-## Will Sprott - Psychic Lady / A Dog Will Love You When Nobody Else Will or Endless Afternoon
-Sarah: **"**hh**"**
+## Will Sprott - Psychic Lady
+Sarah: **"**The percussion on this track is beyond delightful :)**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
 Sarah: **"****"**
 
 ## r mccarthy - Jyoti
-Sarah: **"**A healing track to close this playlist of new and found again discoveries :)**"**
+Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
