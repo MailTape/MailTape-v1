@@ -33,6 +33,7 @@ track7_title: r mccarthy - Jyoti
 track5_title: Will Sprott - Psychic Lady
 description: '  Today, with a special joy we welcome Tokyo-based jazz and electronic artist INO hidefumi to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO''s thoughtful selection offers an easy treading into the morning hours.'
 episode_URL: 'http://mailta.pe/498/INO-hidefumi/'
+musiColor: musiColor498.png
 ---
 <p id="introduction"> Today, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
@@ -63,5 +64,7 @@ Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to 
 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
+
+![musiColor498.png]({{site.baseurl}}/img/musiColor498.png)
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
