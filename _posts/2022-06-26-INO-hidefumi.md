@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: true
+published: false
 author: Sarah
 illustrator: Meriam Kharbat
 writer: Sarah
@@ -36,7 +36,7 @@ episode_URL: 'http://mailta.pe/498/INO-hidefumi/'
 ---
 <p id="introduction"> Today, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
-INO hidefumi's style spreads from electronic to jazz to ambient music, often combining aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams), through his label Innocent Records (a pioneer of the one artist, one label movement). Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!"
+INO hidefumi's style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
 
 # INO hidefumi's selection
@@ -53,15 +53,15 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 # MailTape's selection
 
 ## INO hidefumi - IN DREAMS
-Sarah: **"**The namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline :)**"**
+Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
 ## Will Sprott - Psychic Lady
 Sarah: **"**From one of my favorite albums of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk harmonies swaying alongside each other.**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
-Sarah: **"**In love with this 1972 track from Sachiko Kanenobu. The acoustic guitar and vocals play so nicely against these psychedelic accents, a wonderful mix.**"**
+Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to it, I had to include it. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Meriam Kharbat](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
