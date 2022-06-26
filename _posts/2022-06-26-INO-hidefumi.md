@@ -51,13 +51,13 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 # MailTape's selection
 
 ## INO hidefumi - IN DREAMS
-Sarah: **"**The namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates. Truly a dream with the Fender Rhodes piano and this magnetic basslin :)**"**
+Sarah: **"**The namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline :)**"**
 
 ## Will Sprott - Psychic Lady
-Sarah: **"**From one of my favorite albums of the moment, The jaunty percussives stretching through this track are beyond delightful, love the folk harmonies.**"**
+Sarah: **"**From one of my favorite albums of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk harmonies swaying alongside each other.**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
-Sarah: **"**Love the acoustic guitar and vocals against these psychedelic accents, a really wonderful mix from 1972!**"**
+Sarah: **"**In love with this 1972 track from Sachiko Kanenobu. The acoustic guitar and vocals play so nicely against these psychedelic accents, a wonderful mix.**"**
 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
