@@ -65,6 +65,4 @@ Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
-![musiColor498.png]({{site.baseurl}}/img/musiColor498.png)
-
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
