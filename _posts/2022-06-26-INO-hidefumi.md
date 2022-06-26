@@ -31,10 +31,12 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track7.mp3'
 track7_title: r mccarthy - Jyoti
 track5_title: Will Sprott - Psychic Lady
+description: '  Today, with a special joy we welcome Tokyo-based jazz and electronic artist INO hidefumi to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO''s thoughtful selection offers an easy treading into the morning hours.'
+episode_URL: 'http://mailta.pe/498/INO-hidefumi/'
 ---
 <p id="introduction"> Today, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
-<br><br>
-INO hidefumi
+  <br><br>
+INO hidefumi's style spreads from electronic to jazz to ambient music, often combining aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams), through his label Innocent Records (a pioneer of the one artist, one label movement). Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!"
 </p>
 
 # INO hidefumi's selection
