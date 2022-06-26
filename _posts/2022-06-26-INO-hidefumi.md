@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: true
+published: false
 author: Sarah
 illustrator: Meriam Kharbat
 writer: Sarah
@@ -64,4 +64,4 @@ Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Meriam Kharbat](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
+<p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
