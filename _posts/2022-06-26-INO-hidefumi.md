@@ -26,6 +26,11 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track3.mp3'
 track6_title: Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track6.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track5.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/498/track7.mp3'
+track7_title: INO hidefumi - Miracle of Rendez-Vous
+track5_title: Will Sprott - Psychic Lady
 ---
 <p id="introduction"> Today, we feel a special joy to welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape for a morning of Sunday discoveries. Known for eclectic tastes and textured sounds, INO's selection is thoughtful and a delightful beginning to our day's movements.
 <br><br>
@@ -48,13 +53,13 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 ## INO hidefumi - IN DREAMS
 Sarah: **"**Such an interesting texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with the Fender Rhodes piano and this magnetic bassline. This one had me dancing around the kitchen :)**"**
 
-## Diogo Strausz - Deixa a Gira Girar
+## Will Sprott - Psychic Lady / A Dog Will Love You When Nobody Else Will or Endless Afternoon
 Sarah: **"**hh**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
 Sarah: **"****"**
 
-## Wau Wau Collectif - Salamaleikoum
+## Will Sprott - Psychic Lady / A Dog Will Love You When Nobody Else Will
 Sarah: **"**hh**"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to The Balek Band for their crazy Sunday selections, and many thanks to [Thibault Daumain](https://thibaultdaumain.fr/) for this episode's stunning illustration!</p>
