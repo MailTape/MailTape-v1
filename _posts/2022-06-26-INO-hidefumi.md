@@ -59,7 +59,7 @@ Sarah: **"**Incredibly difficult work to choose just one song from INO's impress
 Sarah: **"**From one of my favorite albums of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk harmonies swaying alongside each other.**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
-Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to it, I had to include it. Really love these analog psychedelic accents, a wonderful mix.**"**
+Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## r mccarthy - Jyoti
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
