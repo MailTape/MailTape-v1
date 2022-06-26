@@ -57,7 +57,7 @@ INO hidefumi: **"**A masterpiece that is covered by various musicians and transc
 Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
 ## Will Sprott - Psychic Lady
-Sarah: **"**From one of my favorite albums of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk harmonies swaying alongside each other.**"**
+Sarah: **"**From one of my favorite albums of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
 ## Sachiko Kanenobu - Anata Kara Toku E (Far Away From You)
 Sarah: **"**This 1972 track from Sachiko Kanenobu has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
