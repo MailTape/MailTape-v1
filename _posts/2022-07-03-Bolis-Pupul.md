@@ -10,10 +10,10 @@ published: false
 
 # INO hidefumi's selection
 
-## [Timmy Thomas](https://www.discogs.com/artist/32166-Timmy-Thomas) - Why Can't We Live Together
+## [The Slits](https://www.discogs.com/artist/32166-Timmy-Thomas) - Typical Girls
 Bolis Pupul: **"**I vividly remember Beck playing “Devils Haircut” in 1997 at T/W festival in Belgium. That’s when I knew what I wanted to do for the rest of my life (age 11): make music.**"**
 
-## [INO hidefumi](https://inohidefumi.bandcamp.com/), [Jean Touitou](https://www.instagram.com/jeantouitou/?hl=en) - It's All Over Now Baby Blue
+## [Talking Heads](https://inohidefumi.bandcamp.com/) - Born Under Punches
 Bolis Pupul: **"**A song that would take me straight to the dancefloor. Dave (from DEEWEE/Soulwax/2manydj's) actually introduced me to this track when we were writing "Thank You" off our record - he suggested we'd give it a listen, in particular to how the 303 was used.**"**
 
 ## [William DeVaughn](https://www.discogs.com/artist/146143-William-DeVaughn) - Be Thankful For What You Got
