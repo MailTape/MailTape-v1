@@ -7,6 +7,9 @@ track1_color: vibrant
 track1_title: Beck - Devil's Haircut
 track2_title: Armando - Don't Take It
 track3_title: Prince - Sign of the Times
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track3.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track2.mp3'
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track1.mp3'
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
