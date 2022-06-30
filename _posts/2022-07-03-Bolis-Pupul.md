@@ -10,13 +10,13 @@ published: false
 
 # INO hidefumi's selection
 
-## [The Slits](https://www.discogs.com/artist/32166-Timmy-Thomas) - Typical Girls
+## [Beck](https://www.discogs.com/artist/32166-Timmy-Thomas) - Devil's Haircut
 Bolis Pupul: **"**I vividly remember Beck playing “Devils Haircut” in 1997 at T/W festival in Belgium. That’s when I knew what I wanted to do for the rest of my life (age 11): make music.**"**
 
-## [Talking Heads](https://inohidefumi.bandcamp.com/) - Born Under Punches
+## [Armando](https://inohidefumi.bandcamp.com/) - Don't Take It
 Bolis Pupul: **"**A song that would take me straight to the dancefloor. Dave (from DEEWEE/Soulwax/2manydj's) actually introduced me to this track when we were writing "Thank You" off our record - he suggested we'd give it a listen, in particular to how the 303 was used.**"**
 
-## [William DeVaughn](https://www.discogs.com/artist/146143-William-DeVaughn) - Be Thankful For What You Got
+## [Prince](https://www.discogs.com/artist/146143-William-DeVaughn) - Sign of the Times
 Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had written this song myself... just so good.**"**
 
 # MailTape's selection
