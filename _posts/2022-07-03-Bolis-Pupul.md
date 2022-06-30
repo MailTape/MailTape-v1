@@ -12,6 +12,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track1.mp3'
 track3_color: vibrant
 track4_title: Charlotte Adigéry & Bolis Pupul - HAHA
+track4_color: trippy
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
