@@ -19,6 +19,8 @@ writer: Sarah
 category: '499'
 guest_name: Bolis Pupul
 guest_color: trippy
+track6_color: trippy
+track6_title: Charlotte Adigéry & Bolis Pupul - It Hit Me
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
