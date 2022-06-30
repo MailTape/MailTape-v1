@@ -38,13 +38,13 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 
 # MailTape's selection
 
-## [INO hidefumi](https://inohidefumi.bandcamp.com/) - IN DREAMS
+## [Charlotte Adigéry & Bolis Pupul](https://inohidefumi.bandcamp.com/) - HAHA
 Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
 ## [Will Sprott](https://hairdo.bandcamp.com/) - Psychic Lady
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
-## [Sachiko Kanenobu](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Anata Kara Toku E (Far Away From You)
+## [Charlotte Adigéry & Bolis Pupul](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - It Hit Me
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## [r mccarthy](https://morsels.website/) - Jyoti
