@@ -2,6 +2,11 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track2_color: trippy
+track1_color: vibrant
+track1_title: Beck - Devil's Haircut
+track2_title: Armando - Don't Take It
+track3_title: Prince - Sign of the Times
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
