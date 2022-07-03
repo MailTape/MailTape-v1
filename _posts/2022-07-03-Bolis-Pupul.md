@@ -11,7 +11,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track1.mp3'
 track3_color: vibrant
-track4_title: Charlotte Adigéry & Bolis Pupul - HAHA
+track4_title: Charlotte Adigéry & Bolis Pupul - Neon Buddha
 track4_color: trippy
 author: Sarah
 illustrator: Camille Célestin
@@ -56,8 +56,8 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 
 # MailTape's selection
 
-## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - HAHA
-Sarah: **"**Off of the debut album, Tropical Dancer. Completely taken with this intricate sampling of Charlotte's laugh; at times sounding like a cry and at others like a cackle. Haunting and humorous all at once. Love the synth work off towards the end, almost dreamlike :)**"**
+## [Bolis Pupul](https://charlotteandbolis.com/) - Neon Buddha
+Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's **"**
 
 ## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
 Sarah: **"**Really enjoying this track off of (NY based) Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
