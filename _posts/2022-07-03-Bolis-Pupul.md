@@ -62,7 +62,7 @@ Sarah: **"**Off of the debut album, Tropical Dancer. Completely taken with this 
 Sarah: **"**Really enjoying this track off of Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - It Hit Me
-Sarah: **"**Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the **"**
+Sarah: **"**Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the punchy percussives, the deep hitting bass... such an evolving piece of work.**"**
 
 ## [Walter Astral](https://morsels.website/) - L'eau
 Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
