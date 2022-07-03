@@ -47,13 +47,13 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 
 # MailTape's selection
 
-## [Charlotte Adigéry & Bolis Pupul](https://inohidefumi.bandcamp.com/) - HAHA
+## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - HAHA
 Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
-## [Underground System](https://hairdo.bandcamp.com/) - Desnuda
+## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
-## [Charlotte Adigéry & Bolis Pupul](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - It Hit Me
+## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - It Hit Me
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## [Walter Astral](https://morsels.website/) - L'eau
