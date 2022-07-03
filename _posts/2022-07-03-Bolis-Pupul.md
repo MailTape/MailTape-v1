@@ -59,7 +59,7 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 Sarah: **"**Off of the debut album, Tropical Dancer. Completely taken with this intricate sampling of Charlotte's laugh; at times sounding like a cry and at others like a cackle. Haunting and humorous all at once. Love the synth work off towards the end, almost dreamlike :)**"**
 
 ## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
-Sarah: **"**Really enjoying this track off of Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
+Sarah: **"**Really enjoying this track off of (NY based) Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - It Hit Me
 Sarah: **"**An example of the harrowing, but at times humorous, commentary in the debut album of Charlotte Adigéry and Bolis Pupul; a difficult balance to strike. Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the punchy percussives, the deep hitting bass... the track evolves before your ears, whether it's your first or seventh time listening through it.**"**
