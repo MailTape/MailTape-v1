@@ -36,13 +36,13 @@ track7_title: Walter Astral - L'eau
 
 # Bolis Pupul's selection
 
-## [Beck](https://www.discogs.com/artist/32166-Timmy-Thomas) - Devil's Haircut
+## [Beck](https://www.beck.com/) - Devil's Haircut
 Bolis Pupul: **"**I vividly remember Beck playing “Devils Haircut” in 1997 at T/W festival in Belgium. That’s when I knew what I wanted to do for the rest of my life (age 11): make music.**"**
 
-## [Armando](https://inohidefumi.bandcamp.com/) - Don't Take It
+## [Armando](https://www.discogs.com/artist/870-Armando) - Don't Take It
 Bolis Pupul: **"**A song that would take me straight to the dancefloor. Dave (from DEEWEE/Soulwax/2manydj's) actually introduced me to this track when we were writing "Thank You" off our record - he suggested we'd give it a listen, in particular to how the 303 was used.**"**
 
-## [Prince](https://www.discogs.com/artist/146143-William-DeVaughn) - Sign of the Times
+## [Prince](https://www.officialprincemusic.com/) - Sign of the Times
 Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had written this song myself... just so good.**"**
 
 # MailTape's selection
