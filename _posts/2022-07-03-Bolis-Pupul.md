@@ -28,6 +28,12 @@ guestPic: guestPic499.jpg
 image: 'https://mailta.pe/img/fbPic499.png'
 track5_title: Underground System - Desnuda
 track7_title: Walter Astral - L'eau
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track4.mp3'
+track5_link: ''
+track7_link: ''
+episode_URL: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
