@@ -38,9 +38,12 @@ description: >-
   their music as a vehicle to ignite conversations on heavier topics,
   particularly in their commentaries on racism, homophobia, and mysogyny. 
 episode_URL: 'http://mailta.pe/499/Bolis-Pupul/'
+musiColor: musiColor499.png
 ---
 <p id="introduction"> This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.
 </p>
+
+![musiColor499.png]({{site.baseurl}}/img/musiColor499.png)
 
 # Bolis Pupul's selection
 
