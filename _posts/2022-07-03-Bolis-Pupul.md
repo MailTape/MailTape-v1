@@ -36,7 +36,8 @@ description: >-
   Belgium, Bolis joins us after releasing his debut album with Charlotte
   Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses
   their music as a vehicle to ignite conversations on heavier topics,
-  particularly in their commentaries on racism, homophobia, and mysogyny.
+  particularly in their commentaries on racism, homophobia, and mysogyny. 
+episode_URL: 'http://mailta.pe/499/Bolis-Pupul/'
 ---
 <p id="introduction"> This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.
 </p>
@@ -55,10 +56,10 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 # MailTape's selection
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - HAHA
-Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
+Sarah: **"**Off of the debut album, Tropical Dancer. Completely taken with this intricate sampling of Charlotte's laugh; at times sounding like a cry and at others like a cackle. Haunting and humorous all at once. Love the synth work off towards the end, almost dreamlike :)**"**
 
 ## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
-Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
+Sarah: **"**Really enjoying this track off of Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - It Hit Me
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
