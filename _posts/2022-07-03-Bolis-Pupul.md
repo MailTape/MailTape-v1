@@ -67,4 +67,4 @@ Sarah: **"**An example of the harrowing, but at times humorous, commentary in th
 ## [Walter Astral](https://morsels.website/) - L'eau
 Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
 
-<p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
+<p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's fantastic illustration!</p>
