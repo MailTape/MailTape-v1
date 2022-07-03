@@ -31,10 +31,14 @@ track7_title: Walter Astral - L'eau
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track7.mp3'
+description: >-
+  This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in
+  Belgium, Bolis joins us after releasing his debut album with Charlotte
+  Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses
+  their music as a vehicle to ignite conversations on heavier topics,
+  particularly in their commentaries on racism, homophobia, and mysogyny.
 ---
-<p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
-  <br><br>
-[INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
+<p id="introduction"> This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.
 </p>
 
 # Bolis Pupul's selection
