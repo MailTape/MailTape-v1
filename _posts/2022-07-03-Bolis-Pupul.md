@@ -35,7 +35,7 @@ image: 'https://mailta.pe/img/fbPic499.png'
 ![fbPic499.png]({{site.baseurl}}/img/fbPic499.png)
 ![guestPic499.jpg]({{site.baseurl}}/img/guestPic499.jpg)
 
-# INO hidefumi's selection
+# Bolis Pupul's selection
 
 ## [Beck](https://www.discogs.com/artist/32166-Timmy-Thomas) - Devil's Haircut
 Bolis Pupul: **"**I vividly remember Beck playing “Devils Haircut” in 1997 at T/W festival in Belgium. That’s when I knew what I wanted to do for the rest of my life (age 11): make music.**"**
