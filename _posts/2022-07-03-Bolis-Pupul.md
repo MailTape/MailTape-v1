@@ -62,9 +62,9 @@ Sarah: **"**Off of the debut album, Tropical Dancer. Completely taken with this 
 Sarah: **"**Really enjoying this track off of Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - It Hit Me
-Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
+Sarah: **"**Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the **"**
 
 ## [Walter Astral](https://morsels.website/) - L'eau
-Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
+Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
