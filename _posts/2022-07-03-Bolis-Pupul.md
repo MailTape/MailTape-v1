@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track2_color: trippy
 track1_color: vibrant
 track1_title: Beck - Devil's Haircut
