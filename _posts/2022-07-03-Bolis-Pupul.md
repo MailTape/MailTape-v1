@@ -57,7 +57,7 @@ Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had wri
 # MailTape's selection
 
 ## [Bolis Pupul](https://charlotteandbolis.com/) - Neon Buddha
-Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's **"**
+Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's attempt to examine his Chinese heritage and identity in modern times plays out so beautifully in this release. The track was inspired by Bolis's dream of a Buddha constructed of neon lights.**"**
 
 ## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
 Sarah: **"**Really enjoying this track off of (NY based) Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
