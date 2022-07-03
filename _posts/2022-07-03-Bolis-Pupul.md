@@ -42,7 +42,7 @@ musiColor: musiColor499.png
 ---
 <p id="introduction"> This morning, we're overjoyed to welcome Bolis Pupul to MailTape. Based in Belgium, Bolis joins us after releasing his debut album with Charlotte Adigéry, Tropical Dancer. Blending house, rock, RnB, and techno, the duo uses their music as a vehicle to ignite conversations on heavier topics, particularly in their commentaries on racism, homophobia, and misogyny.
     <br><br>
-Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork. His production tells stories in their own right, evolving with every release. 
+Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
 
 # Bolis Pupul's selection
