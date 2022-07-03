@@ -26,14 +26,13 @@ track5_color: vibrant
 track7_color: vibrant
 guestPic: guestPic499.jpg
 image: 'https://mailta.pe/img/fbPic499.png'
+track5_title: Underground System - Desnuda
+track7_title: Walter Astral - L'eau
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
 [INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
-
-![fbPic499.png]({{site.baseurl}}/img/fbPic499.png)
-![guestPic499.jpg]({{site.baseurl}}/img/guestPic499.jpg)
 
 # Bolis Pupul's selection
 
