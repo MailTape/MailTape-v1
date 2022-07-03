@@ -11,7 +11,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track3.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track2.mp3'
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/499/track1.mp3'
 track3_color: vibrant
-track4_title: Charlotte Adigéry & Bolis Pupul - Neon Buddha
+track4_title: Bolis Pupul - Neon Buddha
 track4_color: trippy
 author: Sarah
 illustrator: Camille Célestin
