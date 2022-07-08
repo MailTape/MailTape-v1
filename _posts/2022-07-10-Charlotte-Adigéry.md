@@ -19,6 +19,8 @@ guestPic: guestPic500.jpg
 track7_title: 'Charlotte Adigéry & Bolis Pupul - Reappropriate '
 track7_color: bliss
 track4_color: vibrant
+track5_color: trippy
+track6_color: trippy
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
     <br><br>
