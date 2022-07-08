@@ -15,11 +15,13 @@ writer: Sarah
 category: '500'
 guest_name: Charlotte Adigéry
 guest_color: vibrant
+guestPic: guestPic500.jpg
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012. 
     <br><br>
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
+![guestPic500.jpg]({{site.baseurl}}/img/guestPic500.jpg)
 
 # Bolis Pupul's selection
 
