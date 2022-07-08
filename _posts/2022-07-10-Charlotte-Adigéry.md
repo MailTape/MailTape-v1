@@ -21,7 +21,6 @@ guestPic: guestPic500.jpg
     <br><br>
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
-![guestPic500.jpg]({{site.baseurl}}/img/guestPic500.jpg)
 
 # Bolis Pupul's selection
 
