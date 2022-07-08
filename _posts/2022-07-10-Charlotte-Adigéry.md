@@ -21,6 +21,10 @@ track7_color: bliss
 track4_color: vibrant
 track5_color: trippy
 track6_color: trippy
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track4.mp3'
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
     <br><br>
