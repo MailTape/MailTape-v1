@@ -5,7 +5,7 @@ published: false
 track1_title: Erykah Badu - Bag Lady
 track2_title: The Slits - Typical Girls
 track3_title: Talking Heads - Born Under Punches
-track4_title: Charlotte Adigéry & Bolis Pupul - Making Sense Stop
+track4_title: Charlotte Adigéry & Bolis Pupul - Ich Mwen (feat. Christiane Adigéry)
 track1_color: bliss
 track2_color: trippy
 track3_color: trippy
@@ -38,7 +38,7 @@ Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. H
 
 # MailTape's selection
 
-## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Making Sense Stop
+## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Ich Mwen (feat. Christiane Adigéry)
 Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's attempt to examine his Chinese heritage and identity in modern times plays out so beautifully in this release. The track was inspired by Bolis's dream of a Buddha constructed of neon lights.**"**
 
 ## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
