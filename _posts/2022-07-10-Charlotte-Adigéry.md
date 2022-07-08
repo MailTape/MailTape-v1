@@ -5,6 +5,9 @@ published: false
 track1_title: Erykah Badu - Bag Lady
 track2_title: The Slits - Typical Girls
 track3_title: Talking Heads - Born Under Punches
+track4_title: Charlotte Adigéry & Bolis Pupul - Reappropriate
+track1_color: bliss
+track2_color: trippy
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012. 
     <br><br>
