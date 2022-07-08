@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: Erykah Badu - Bag Lady
+track2_title: The Slits - Typical Girls
+track3_title: Talking Heads - Born Under Punches
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012. 
     <br><br>
