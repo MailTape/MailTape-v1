@@ -8,6 +8,13 @@ track3_title: Talking Heads - Born Under Punches
 track4_title: Charlotte Adigéry & Bolis Pupul - Reappropriate
 track1_color: bliss
 track2_color: trippy
+track3_color: trippy
+author: Sarah
+illustrator: Anthony Dujardin
+writer: Sarah
+category: '500'
+guest_name: Charlotte Adigéry
+guest_color: vibrant
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012. 
     <br><br>
