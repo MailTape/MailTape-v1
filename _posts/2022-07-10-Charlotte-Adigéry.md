@@ -10,14 +10,14 @@ Bolis's intricate producing surprises listeners with each sortie, stretching fro
 
 # Bolis Pupul's selection
 
-## [Beck](https://www.beck.com/) - Devil's Haircut
-Bolis Pupul: **"**I vividly remember Beck playing “Devils Haircut” in 1997 at T/W festival in Belgium. That’s when I knew what I wanted to do for the rest of my life (age 11): make music.**"**
+## [Erykah Badu](https://www.beck.com/) - Bag Lady
+Bolis Pupul: **"**One of my all-time favorites. I finally saw her live right before the pandemic... I forgot about my body and felt connected to everybody in the audience and on stage. En Erykah Badu is funny as hell, you could see she was having fun.**"**
 
-## [Armando](https://www.discogs.com/artist/870-Armando) - Don't Take It
-Bolis Pupul: **"**A song that would take me straight to the dancefloor. Dave (from DEEWEE/Soulwax/2manydj's) actually introduced me to this track when we were writing "Thank You" off our record - he suggested we'd give it a listen, in particular to how the 303 was used.**"**
+## [The Slits](https://www.discogs.com/artist/870-Armando) - Typical Girls
+Bolis Pupul: **"**When I first sat down with Bolis in the studio he asked me if there was something that inspired me at that very moment. I played him The Slits and he also loved them. I told Bolis I didn't necessarily want to make post-punk music, but it’s more the approach to music, which was very childlike, playful, and intuitive.**"**
 
-## [Prince](https://www.officialprincemusic.com/) - Sign of the Times
-Bolis Pupul: **"**In my opinion Prince is the best artist ever. I wish I had written this song myself... just so good.**"**
+## [Talking Heads](https://www.officialprincemusic.com/) - Born Under Punches
+Bolis Pupul: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
 
 # MailTape's selection
 
@@ -34,4 +34,3 @@ Sarah: **"**An example of the harrowing, but at times humorous, commentary in th
 Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
 
 <p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's fantastic illustration!</p>
-
