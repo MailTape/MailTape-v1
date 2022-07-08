@@ -47,7 +47,7 @@ musiColor: musiColor495.png
 # The Lazy Eyes's selection
 
 ## [Grandaddy](http://www.grandaddymusic.com/) - The Crystal Lake
-The Lazy Eyes: **"**Released in 2000, off of the [Sophtware Slump](https://www.discogs.com/master/4413-Grandaddy-The-Sophtware-Slump) album.**"**
+The Lazy Eyes: **"**Our high school teacher Mr Brown put us on to Grandaddy and he’s a legend for it! I don’t know if we would’ve found them otherwise. Classic early naughties alt rock, really.**"**
 
 ## [Andy Shauf](https://andyshauf.com/) - Early to the Party
 The Lazy Eyes: **"**Released in 2016, off of [The Party](https://andyshauf.bandcamp.com/album/the-party) album.**"**
