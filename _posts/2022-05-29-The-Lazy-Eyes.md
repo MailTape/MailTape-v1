@@ -50,10 +50,10 @@ musiColor: musiColor495.png
 The Lazy Eyes: **"**Our high school teacher Mr Brown put us on to Grandaddy and he’s a legend for it! I don’t know if we would’ve found them otherwise. Classic early naughties alt rock, really.**"**
 
 ## [Andy Shauf](https://andyshauf.com/) - Early to the Party
-The Lazy Eyes: **"**Released in 2016, off of [The Party](https://andyshauf.bandcamp.com/album/the-party) album.**"**
+The Lazy Eyes: **"**This is an album Harvey and Itay got in to around the same time. The things that lured us in were the really tight and cutesy production elements and the clever arrangements. Always an emotion listen, that’s for sure.**"**
 
 ## [Kraftwerk](https://kraftwerk.com/) - It's More Fun to Compute
-The Lazy Eyes: **"**Released in 1981, off of the [Computer World album](https://www.youtube.com/playlist?list=PLjIuADMrDKIYMHf-FtLNepOnwMGCBdpjh).**"**
+The Lazy Eyes: **"**A track that defined the beginnings of electronic music but still stands up to todays standards. This song would still go off at a rave and it was released in ‘81!**"**
 
 # MailTape's selection
 
