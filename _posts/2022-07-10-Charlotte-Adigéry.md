@@ -17,7 +17,7 @@ guest_name: Charlotte Adigéry
 guest_color: vibrant
 guestPic: guestPic500.jpg
 ---
-<p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012. 
+<p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
     <br><br>
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
@@ -26,13 +26,13 @@ Bolis's intricate producing surprises listeners with each sortie, stretching fro
 # Bolis Pupul's selection
 
 ## [Erykah Badu](https://www.beck.com/) - Bag Lady
-Bolis Pupul: **"**One of my all-time favorites. I finally saw her live right before the pandemic... I forgot about my body and felt connected to everybody in the audience and on stage. En Erykah Badu is funny as hell, you could see she was having fun.**"**
+Charlotte Adigéry: **"**One of my all-time favorites. I finally saw her live right before the pandemic... I forgot about my body and felt connected to everybody in the audience and on stage. En Erykah Badu is funny as hell, you could see she was having fun.**"**
 
 ## [The Slits](https://www.discogs.com/artist/870-Armando) - Typical Girls
-Bolis Pupul: **"**When I first sat down with Bolis in the studio he asked me if there was something that inspired me at that very moment. I played him The Slits and he also loved them. I told Bolis I didn't necessarily want to make post-punk music, but it’s more the approach to music, which was very childlike, playful, and intuitive.**"**
+Charlotte Adigéry: **"**When I first sat down with Bolis in the studio he asked me if there was something that inspired me at that very moment. I played him The Slits and he also loved them. I told Bolis I didn't necessarily want to make post-punk music, but it’s more the approach to music, which was very childlike, playful, and intuitive.**"**
 
 ## [Talking Heads](https://www.officialprincemusic.com/) - Born Under Punches
-Bolis Pupul: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
+Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
 
 # MailTape's selection
 
