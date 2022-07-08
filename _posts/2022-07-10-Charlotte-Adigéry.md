@@ -25,11 +25,14 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track4.mp3'
+musiColor: musiColor500.png
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
     <br><br>
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
+
+![musiColor500.png]({{site.baseurl}}/img/musiColor500.png)
 
 # Bolis Pupul's selection
 
