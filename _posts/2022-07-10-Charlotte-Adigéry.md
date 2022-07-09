@@ -28,6 +28,7 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track4.mp3'
 musiColor: musiColor500.png
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3'
 image: 'https://mailta.pe/img/fbPic500.png'
+episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
     <br><br>
