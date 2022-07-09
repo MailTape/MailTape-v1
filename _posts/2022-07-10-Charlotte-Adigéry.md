@@ -52,12 +52,12 @@ Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. H
 Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's attempt to examine his Chinese heritage and identity in modern times plays out so beautifully in this release. The track was inspired by Bolis's dream of a Buddha constructed of neon lights.**"**
 
 ## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
-Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the synthwork and jazz underpinnings complement  **"**
+Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the track's ambient spoken overlays, electric rhythm section, and intricate synthwork build an immersive 3D experience of sound; it's unforgettable. The album features legends from French and Japanese new wave and synth music; Le Pollen was written by Barouh, arranged by Takahashi, and features Tetsuro Kashibuchi, Hirobumi Suzuki, Yoshiaki Shirai, Keiichi Suzuki, Tohru Okada, and Massahiro Takekawa. The cross-pollination collaboration seems like a perfect addition to celebrate number 500 at MailTape, a track and album crafted from the sincere love of music.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
 Sarah: **"**An example of the harrowing, but at times humorous, commentary in the debut album of Charlotte Adigéry and Bolis Pupul; a difficult balance to strike. Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the punchy percussives, the deep hitting bass... the track evolves before your ears, whether it's your first or seventh time listening through it.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
-Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
+Sarah: **"**gg**"**
 
 <p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's fantastic illustration!</p>
