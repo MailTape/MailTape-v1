@@ -53,13 +53,13 @@ Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. H
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Ich Mwen (feat. Christiane Adigéry)
 Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's attempt to examine his Chinese heritage and identity in modern times plays out so beautifully in this release. The track was inspired by Bolis's dream of a Buddha constructed of neon lights.**"**
 
-## [Underground System](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Desnuda
+## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
 Sarah: **"**Really enjoying this track off of (NY based) Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
 Sarah: **"**An example of the harrowing, but at times humorous, commentary in the debut album of Charlotte Adigéry and Bolis Pupul; a difficult balance to strike. Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the punchy percussives, the deep hitting bass... the track evolves before your ears, whether it's your first or seventh time listening through it.**"**
 
-## [Walter Astral](https://morsels.website/) - L'eau
+## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
 Sarah: **"**The latest release from Walter Astral. Love the traditional sitar, rock guitar, and synth layering, all these work in surprising harmony together. An interesting listen that builds upon itself, a vibrant finish to this playlist :)**"**
 
 <p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's fantastic illustration!</p>
