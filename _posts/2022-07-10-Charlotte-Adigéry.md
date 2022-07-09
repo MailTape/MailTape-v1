@@ -35,7 +35,7 @@ episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
 
-# Bolis Pupul's selection
+# Charlotte Adigéry's selection
 
 ## [Erykah Badu](https://www.beck.com/) - Bag Lady
 Charlotte Adigéry: **"**One of my all-time favorites. I finally saw her live right before the pandemic... I forgot about my body and felt connected to everybody in the audience and on stage. En Erykah Badu is funny as hell, you could see she was having fun.**"**
@@ -45,8 +45,6 @@ Charlotte Adigéry: **"**When I first sat down with Bolis in the studio he asked
 
 ## [Talking Heads](https://www.officialprincemusic.com/) - Born Under Punches
 Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
-
-![fbPic500.png]({{site.baseurl}}/img/fbPic500.png)
 
 # MailTape's selection
 
