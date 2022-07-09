@@ -30,9 +30,9 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3'
 image: 'https://mailta.pe/img/fbPic500.png'
 episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 ---
-<p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this particularly special gift of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500. 
+<p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this particularly special objective of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500. 
     <br><br>
-To celebrate with us, we welcome Charlotte Adigéry to MailTape this morning! One half of the duo with Bolis Pupul (welcomed last week, our episode 499!), Charlotte Adigéry's work spans R&B, jazz, techno, and club music, creating catching collages of textured sound. Charlotte Adigéry and Bolis Pupul's latest album, Topical Dancer, counters heavy topics with humor and grace, offering a creative collaboration that surprises with each subsequent listen. 
+To celebrate with us, we welcome Charlotte Adigéry to MailTape this morning! One half of the duo with Bolis Pupul (welcomed last week, our episode 499!), Charlotte Adigéry's work spans R&B, jazz, techno, and club music, creating catching collages of textured sound. Charlotte Adigéry collaborates with artist Bolis Pupul (welcomed last week, our episode 499!) for her latest album, Topical Dancer. The creative collaboration counters heavy topics with humor and grace, offering surprises with each subsequent listen. 
 </p>
 
 # Charlotte Adigéry's selection
@@ -52,7 +52,7 @@ Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. H
 Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here tells so many stories, brushing traditional Chinese melodies and new wave movements. Bolis Pupul's attempt to examine his Chinese heritage and identity in modern times plays out so beautifully in this release. The track was inspired by Bolis's dream of a Buddha constructed of neon lights.**"**
 
 ## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
-Sarah: **"**Really enjoying this track off of (NY based) Underground System's latest EP, Into the Fire (2022). Desnuda was remixed by Yuksek recently, but nothing beats these easy grooves in the original.**"**
+Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the synthwork and jazz underpinnings complement  **"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
 Sarah: **"**An example of the harrowing, but at times humorous, commentary in the debut album of Charlotte Adigéry and Bolis Pupul; a difficult balance to strike. Could listen to this track ten times and always find something new to enjoy about the production -- the deadpan vocal samples, the punchy percussives, the deep hitting bass... the track evolves before your ears, whether it's your first or seventh time listening through it.**"**
