@@ -35,8 +35,6 @@ episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
 </p>
 
-![musiColor500.png]({{site.baseurl}}/img/musiColor500.png)
-
 # Bolis Pupul's selection
 
 ## [Erykah Badu](https://www.beck.com/) - Bag Lady
