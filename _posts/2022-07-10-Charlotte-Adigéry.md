@@ -30,9 +30,9 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3'
 image: 'https://mailta.pe/img/fbPic500.png'
 episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 ---
-<p id="introduction"> Our 500th episode of MailTape this morning!! We've had so many delightful guests this year and since 2012, it's such a special gift to bring music into peoples' hearts every week. We hope you've loved these moments as much as we have. 
+<p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this particularly special gift of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500. 
     <br><br>
-Bolis's intricate producing surprises listeners with each sortie, stretching from creative sampling to layered snythwork to punchy basslines. His production tells stories in its own right, evolving with every release. 
+To celebrate with us, we welcome Charlotte Adigéry to MailTape this morning! 
 </p>
 
 # Charlotte Adigéry's selection
