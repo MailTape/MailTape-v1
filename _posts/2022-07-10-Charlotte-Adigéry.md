@@ -46,6 +46,8 @@ Charlotte Adigéry: **"**When I first sat down with Bolis in the studio he asked
 ## [Talking Heads](https://www.officialprincemusic.com/) - Born Under Punches
 Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
 
+![fbPic500.png]({{site.baseurl}}/img/fbPic500.png)
+
 # MailTape's selection
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Ich Mwen (feat. Christiane Adigéry)
