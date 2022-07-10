@@ -42,18 +42,18 @@ description: >-
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this special project of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500 :) 
     <br><br>
-To celebrate with us, we welcome Charlotte Adigéry to MailTape! One half of the duo with Bolis Pupul (welcomed last week, our episode 499!), Charlotte Adigéry's work spans R&B, jazz, techno, and club movements, creating catching collages of textured sound. Charlotte Adigéry joins us following the release of the duo's latest album, Topical Dancer. The creative collaboration counters heavy topics with humor and grace, offering surprises with each subsequent listen. 
+To celebrate with us, we welcome Charlotte Adigéry to MailTape! One half of the duo with [Bolis Pupul](https://bolispupul.bandcamp.com/album/neon-buddha) (welcomed last week, [our episode 499](https://www.mailta.pe/499/bolis-pupul/)!), Charlotte Adigéry's work spans R&B, jazz, techno, and club movements, creating catching collages of textured sound. Charlotte Adigéry joins us following the release of the duo's latest album, [Topical Dancer](https://charlotteandbolis.bandcamp.com/album/topical-dancer). The creative collaboration counters heavy topics with humor and grace, offering surprises with each subsequent listen. 
 </p>
 
 # Charlotte Adigéry's selection
 
-## [Erykah Badu](https://www.beck.com/) - Bag Lady
+## [Erykah Badu](https://www.instagram.com/erykahbadu/) - Bag Lady
 Charlotte Adigéry: **"**One of my all-time favorites. I finally saw her live right before the pandemic... I forgot about my body and felt connected to everybody in the audience and on stage. En Erykah Badu is funny as hell, you could see she was having fun.**"**
 
-## [The Slits](https://www.discogs.com/artist/870-Armando) - Typical Girls
+## [The Slits](https://www.discogs.com/artist/33930-The-Slits) - Typical Girls
 Charlotte Adigéry: **"**When I first sat down with Bolis in the studio he asked me if there was something that inspired me at that very moment. I played him The Slits and he also loved them. I told Bolis I didn't necessarily want to make post-punk music, but it’s more the approach to music, which was very childlike, playful, and intuitive.**"**
 
-## [Talking Heads](https://www.officialprincemusic.com/) - Born Under Punches
+## [Talking Heads](https://www.facebook.com/TalkingHeadsofficial) - Born Under Punches
 Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His "Stop Making Sense" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
 
 # MailTape's selection
@@ -61,10 +61,10 @@ Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. H
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Ich Mwen (feat. Christiane Adigéry)
 Sarah: **"**My favorite track off of Topical Dancer. The meditation on motherhood and femininity here is evolving, a literal passing down from mother to daughter, where Christiane Adigéry's advice to Charlotte on becoming a mother is sampled.**"**
 
-## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
+## [Pierre Barouh](https://wrwtfww.com/album/le-pollen) - Le Pollen
 Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the track's ambient spoken overlays, electric rhythm section, and intricate synthwork build an immersive 3D experience of sound; it's unforgettable. The album features legends from French and Japanese new wave and synth music; Le Pollen was written by Barouh, arranged by Takahashi, and features Tetsuro Kashibuchi, Hirobumi Suzuki, Yoshiaki Shirai, Keiichi Suzuki, Tohru Okada, and Massahiro Takekawa. The cross-pollination collaboration seems like a perfect addition to celebrate number 500 at MailTape, a track and album crafted from the sincere love of music.**"**
 
-## [Say She She](https://charlotteandbolis.com/) - Blow My Mind
+## [Say She She](https://saysheshe.bandcamp.com/) - Blow My Mind
 Sarah: **"**Hypnotizing groove on this one, obsessed with the funkadelic feel. The latest release from Brooklyn-based funk trio Say She She. It's so easy to get lost in their harmonies :)**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
