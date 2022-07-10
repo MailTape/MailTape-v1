@@ -55,7 +55,7 @@ Sarah: **"**The namesake for Bolis Pupul's recent EP release. The synthwork here
 Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the track's ambient spoken overlays, electric rhythm section, and intricate synthwork build an immersive 3D experience of sound; it's unforgettable. The album features legends from French and Japanese new wave and synth music; Le Pollen was written by Barouh, arranged by Takahashi, and features Tetsuro Kashibuchi, Hirobumi Suzuki, Yoshiaki Shirai, Keiichi Suzuki, Tohru Okada, and Massahiro Takekawa. The cross-pollination collaboration seems like a perfect addition to celebrate number 500 at MailTape, a track and album crafted from the sincere love of music.**"**
 
 ## [Wooter](https://charlotteandbolis.com/) - Epigraph
-Sarah: **"**Love the unlikely fusion of electro snyth bubbles and the comps of guitar riffs. There's a nice, gritty momentum with this one :)**"**
+Sarah: **"**Love the unlikely fusion of electro snyth bubbles and the comps of guitar riffs. There's a gritty momentum with this one, Wooter creates the sensation of a sort of assembly line, "falling in line with the sheep."**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
 Sarah: **"**gg**"**
