@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Erykah Badu - Bag Lady
 track2_title: The Slits - Typical Girls
 track3_title: Talking Heads - Born Under Punches
