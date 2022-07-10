@@ -64,7 +64,7 @@ Sarah: **"**My favorite track off of Topical Dancer. The meditation on motherhoo
 ## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
 Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the track's ambient spoken overlays, electric rhythm section, and intricate synthwork build an immersive 3D experience of sound; it's unforgettable. The album features legends from French and Japanese new wave and synth music; Le Pollen was written by Barouh, arranged by Takahashi, and features Tetsuro Kashibuchi, Hirobumi Suzuki, Yoshiaki Shirai, Keiichi Suzuki, Tohru Okada, and Massahiro Takekawa. The cross-pollination collaboration seems like a perfect addition to celebrate number 500 at MailTape, a track and album crafted from the sincere love of music.**"**
 
-## [Diogo Strausz](https://charlotteandbolis.com/) - Flight of Saggitarius
+## [Say She She](https://charlotteandbolis.com/) - Blow My Mind
 Sarah: **"**Hypnotizing groove on this one, love the funkadelic feel.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
