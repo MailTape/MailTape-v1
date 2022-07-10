@@ -33,10 +33,16 @@ track5_title: Pierre Barouh - Le Pollen
 track6_title: Wooter - Epigraph
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track6.mp3'
+description: >-
+  Our 500th episode of MailTape this morning!! This year and since 2012, we've
+  welcomed so many wonderful guests, sharing love for music with our loyal
+  listeners every Sunday. It's hard not to feel sentimental with this special
+  project of bringing music into peoples' hearts. We hope you've loved these
+  moments as much as we have, cheers to the next 500 :)
 ---
-<p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this particularly special objective of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500. 
+<p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this special project of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500 :) 
     <br><br>
-To celebrate with us, we welcome Charlotte Adigéry to MailTape this morning! One half of the duo with Bolis Pupul (welcomed last week, our episode 499!), Charlotte Adigéry's work spans R&B, jazz, techno, and club music, creating catching collages of textured sound. Charlotte Adigéry collaborates with artist Bolis Pupul (welcomed last week, our episode 499!) for her latest album, Topical Dancer. The creative collaboration counters heavy topics with humor and grace, offering surprises with each subsequent listen. 
+To celebrate with us, we welcome Charlotte Adigéry to MailTape! One half of the duo with Bolis Pupul (welcomed last week, our episode 499!), Charlotte Adigéry's work spans R&B, jazz, techno, and club movements, creating catching collages of textured sound. Charlotte Adigéry joins us following the release of the duo's latest album, Topical Dancer. The creative collaboration counters heavy topics with humor and grace, offering surprises with each subsequent listen. 
 </p>
 
 # Charlotte Adigéry's selection
