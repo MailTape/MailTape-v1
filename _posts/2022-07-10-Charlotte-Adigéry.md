@@ -29,6 +29,8 @@ musiColor: musiColor500.png
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3'
 image: 'https://mailta.pe/img/fbPic500.png'
 episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
+track5_title: Pierre Barouh - Le Pollen
+track6_title: Wooter - Epigraph
 ---
 <p id="introduction"> Our 500th episode of MailTape this morning!! This year and since 2012, we've welcomed so many wonderful guests, sharing love for music with our loyal listeners every Sunday. It's hard not to feel sentimental with this particularly special objective of bringing music into peoples' hearts. We hope you've loved these moments as much as we have, cheers to the next 500. 
     <br><br>
