@@ -58,10 +58,10 @@ Sarah: **"**My favorite track off of Topical Dancer. The meditation on motherhoo
 ## [Pierre Barouh](https://heavenlysweetness.bandcamp.com/album/into-the-fire-ep) - Le Pollen
 Sarah: **"**My favorite track from Pierre Barouh's collaboration with Yukihiro Takahashi (Yellow Magic Orchestra). The namesake of the album, the track's ambient spoken overlays, electric rhythm section, and intricate synthwork build an immersive 3D experience of sound; it's unforgettable. The album features legends from French and Japanese new wave and synth music; Le Pollen was written by Barouh, arranged by Takahashi, and features Tetsuro Kashibuchi, Hirobumi Suzuki, Yoshiaki Shirai, Keiichi Suzuki, Tohru Okada, and Massahiro Takekawa. The cross-pollination collaboration seems like a perfect addition to celebrate number 500 at MailTape, a track and album crafted from the sincere love of music.**"**
 
-## [Wooter](https://charlotteandbolis.com/) - Epigraph
+## [Leoni Leoni](https://charlotteandbolis.com/) - Easyjet
 Sarah: **"**There's a gritty momentum with this one :) Love the unlikely fusion of electro snyth bubbles and the comps of guitar riffs, it's almost disorienting. True to the lyrics, Wooter creates the sensation of an assembly line, a recognition of "falling in line with the sheep," as he sings.**"**
 
 ## [Charlotte Adigéry & Bolis Pupul](https://charlotteandbolis.com/) - Reappropriate
-Sarah: **"**gg**"**
+Sarah: **"**Another treasure from Topical Dancer to finish our 500th playlist of MailTape. The meditation on sensuality and femininty empowers as it elevates, complemented so well with the upward spirals of synthwork. As throughout the album, the verbage used by the group is striking, at times unsettling. Many of the album's reviews comment on the humor and irony of the lyrical choices, citing the verses of Blenda, Thank You, and Esperanto. But in this irony of lyrics, the group's strategic writing in the process reclaims the words and phrases previously used as weapons, reappropriating them into art.**"**
 
 <p id="outroduction">That's all for this morning's selection, thank you so much for joining us. Great thanks to Bolis Pupul for his wonderful Sunday selection and to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's fantastic illustration!</p>
