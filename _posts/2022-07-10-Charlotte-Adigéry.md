@@ -30,7 +30,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track7.mp3'
 image: 'https://mailta.pe/img/fbPic500.png'
 episode_URL: 'http://mailta.pe/500/Charlotte-Adigéry/'
 track5_title: Pierre Barouh - Le Pollen
-track6_title: Wooter - Epigraph
+track6_title: The Architect - Darling
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/500/track6.mp3'
 description: >-
