@@ -54,7 +54,7 @@ Charlotte Adigéry: **"**One of my all-time favorites. I finally saw her live ri
 Charlotte Adigéry: **"**When I first sat down with Bolis in the studio he asked me if there was something that inspired me at that very moment. I played him The Slits and he also loved them. I told Bolis I didn't necessarily want to make post-punk music, but it’s more the approach to music, which was very childlike, playful, and intuitive.**"**
 
 ## [Talking Heads](https://www.facebook.com/TalkingHeadsofficial) - Born Under Punches
-Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His "[Stop Making Sense](https://www.youtube.com/watch?v=_CUvkrtqbIM)" documentary actually served as an inspiration for our song "Making Sense Stop."**"**
+Charlotte Adigéry: **"**I absolutely love David Byrne and everything he does. His [Stop Making Sense](https://www.youtube.com/watch?v=_CUvkrtqbIM) documentary actually served as an inspiration for our song [Making Sense Stop](https://www.youtube.com/watch?v=_uxxi2HHHVA).**"**
 
 # MailTape's selection
 
