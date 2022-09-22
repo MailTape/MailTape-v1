@@ -16,11 +16,11 @@ category: '501'
 guest_name: Zinda Reinhardt
 guest_color: vibrant
 guestPic: guestPic501.jpg
-track7_title: 
-track7_color: 
+track7_title: Sudan Archives - Home Maker
+track7_color: vibrant
 track4_color: vibrant
-track5_color: 
-track6_color: 
+track5_color: trippy
+track6_color: vibrant
 track1_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track1.mp3
 track2_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track2.mp3
 track3_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track3.mp3
@@ -29,8 +29,8 @@ musiColor: musiColor500.png
 track7_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track7.mp3
 image: 'https://mailta.pe/img/fbPic501.png'
 episode_URL: 'http://mailta.pe/501/Zinda-Reinhardt/'
-track5_title: 
-track6_title: 
+track5_title: Minimi Deutsch - Still Foggy
+track6_title: Mykki Blanco - French Lessons (ft. Kelsey Lu)
 track5_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track5.mp3
 track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track6.mp3
 description: xxx
