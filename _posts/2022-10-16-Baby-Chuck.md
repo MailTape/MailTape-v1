@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+illustrator: Meriam Kharbat
+writer: Sarah
+category: '502'
+guest_name: Baby Chuck
+guest_color: dreamy
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
