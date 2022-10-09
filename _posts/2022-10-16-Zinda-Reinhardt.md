@@ -36,7 +36,7 @@ track6_link: https://mtsounds.s3.eu-central-1.wasabisys.com/501/track6.mp3
 description: This morning, we're thrilled to be back for this 11th season of music discoveries! And for this 501st episode, we're honored to welcome Zinda Reinhardt. With her powerful and contagious energy, she sings in Sintikès and activates a language rarely heard. Mixing vibration from trap music with Romani culture, she's courageously opening a new door in the musicscape.
 ---
 <p id="introduction">This morning, we're thrilled to be back for this 11th season of music discoveries! The world has greatly changed in these 11 years. More polarized than ever and facing critical issues, we believe music is essential to a world deeply in need of human bonding and love. It's a universal language speaking to our shared consciousness and then translated through our body as dance, and movement.
-<br>
+<br><br>
 	And for this 501st episode, we're honored to welcome [Zinda Reinhardt](https://zindareinhardt.bandcamp.com). With her powerful and contagious energy, she sings in Sintikès and activates a language rarely heard. Mixing vibration from trap music with Romani culture, she's courageously opening a new door in the musicscape.
 </p>
 
