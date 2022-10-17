@@ -49,7 +49,7 @@ Sarah: **"**Incredibly difficult work to choose just one song from INO's impress
 ## [Will Sprott](https://hairdo.bandcamp.com/) - Psychic Lady
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
-## [Sachiko Kanenobu](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Anata Kara Toku E (Far Away From You)
+## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## [r mccarthy](https://morsels.website/) - Jyoti
