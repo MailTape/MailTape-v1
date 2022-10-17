@@ -17,14 +17,14 @@ guestPic: guestPic502.jpg
 
 # Baby Chuck's selection
 
-## [Timmy Thomas](https://www.discogs.com/artist/32166-Timmy-Thomas) - Why Can't We Live Together
-Baby Chuck: **"**Lyrics that resonate with the present day. And also the intro has such impressive sounds with Rhythm Box "MAESTRO RHYTHM KING" - so loved by Sly Stone and Shuggie Otis. It's been 50 years since it was released in 1972. When will it be a peaceful world? For love we live and die.**"**
+## [Ryan Sambol](https://www.discogs.com/artist/32166-Timmy-Thomas) - You're Still Lovable to Someone
+Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to this guy all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of older siblings), so I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
 
-## [INO hidefumi](https://inohidefumi.bandcamp.com/), [Jean Touitou](https://www.instagram.com/jeantouitou/?hl=en) - It's All Over Now Baby Blue
-Baby Chuck: **"**A mini-album co-written with Jean Touitou, who is A.P.C.'s designer and a friend of mine. When I visited Paris we recorded it in the studio in the basement of his atelier. I had a good time taking a walk in Montmartre in the rain and going to a recommended nightclub. Listening to this song makes me want to go back to Paris to see him.**"**
+## [Yves Tumor](https://inohidefumi.bandcamp.com/) - Secrecy is Incredibly Important to the Both of Them
+Baby Chuck: **"**Really great song. Rips. It reminds me of the music from Jet Moto.**"**
 
-## [William DeVaughn](https://www.discogs.com/artist/146143-William-DeVaughn) - Be Thankful For What You Got
-Baby Chuck: **"**A masterpiece that is covered by various musicians and transcends races and generations. It contains universal metaphors and statements.**"**
+## [Phish Pepsi](https://www.discogs.com/artist/146143-William-DeVaughn) - MJ Lenderman, Wednesday, Advance Base
+Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don't know so much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real, not-indulgently/embarrassingly-gushy, sentimentality I'd say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There's another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” Ooh. I mean, c’mon.**"**
 
 # MailTape's selection
 
@@ -41,4 +41,3 @@ Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
-
