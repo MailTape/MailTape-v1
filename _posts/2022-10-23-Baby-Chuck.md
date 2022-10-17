@@ -26,7 +26,7 @@ Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put
 ## [Yves Tumor](https://inohidefumi.bandcamp.com/) - Secrecy is Incredibly Important to the Both of Them
 Baby Chuck: **"**Really great song. Rips. It reminds me of the music from Jet Moto.**"**
 
-## [Phish Pepsi](https://www.discogs.com/artist/146143-William-DeVaughn) - MJ Lenderman, Wednesday, Advance Base
+## [MJ Lederman & Wednesday](https://www.discogs.com/artist/146143-William-DeVaughn) - Phish Pepsi (feat Advance Base)
 Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don't know so much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real, not-indulgently/embarrassingly-gushy, sentimentality I'd say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There's another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” Ooh. I mean, c’mon.**"**
 
 # MailTape's selection
