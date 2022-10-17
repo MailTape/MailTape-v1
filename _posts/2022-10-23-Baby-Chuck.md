@@ -57,6 +57,6 @@ Sarah: **"**Love these wandering synths and the jazz drumline. There's something
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
 ## [JayWood](https://morsels.website/) - Just Sayin
-Sarah: **"**Funky bass and 80's synths. Not sure if it gets better than this? Time to welcome in the morning with a lil dance ;)**"**
+Sarah: **"**Funky bass and 80's synths. Not sure if it gets better than this?**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
