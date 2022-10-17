@@ -19,6 +19,8 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track4.mp3'
 track1_color: dreamy
 track2_color: vibrant
+track3_color: vibrant
+track4_color: dreamy
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
