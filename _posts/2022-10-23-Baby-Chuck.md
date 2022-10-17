@@ -21,6 +21,9 @@ track1_color: dreamy
 track2_color: vibrant
 track3_color: vibrant
 track4_color: dreamy
+track5_color: dreamy
+track6_color: vibrant
+track7_color: vibrant
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
