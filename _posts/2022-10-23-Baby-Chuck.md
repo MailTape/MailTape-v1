@@ -25,6 +25,9 @@ track5_color: dreamy
 track6_color: vibrant
 track7_color: vibrant
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track7.mp3'
+track7_title: JayWood - Just Sayin
+track6_title: Sofie Royer - Schweden Espresso
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
