@@ -29,6 +29,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track7.mp3'
 track7_title: JayWood - Just Sayin
 track6_title: Sofie Royer - Schweden Espresso
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3'
+track5_title: Salami Rose Joe Louis - I Stay in Bed These Days Too Much
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck joins us a month after releasing his most recent album, Warm Infinity.
   <br><br>
