@@ -51,7 +51,7 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity).**"**
 
 ## [Salami Rose Joe Louis](https://hairdo.bandcamp.com/) - I Stay in Bed These Days Too Much
-Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
+Sarah: **"**Love these wandering synths and the jazz drumline. There's something so intoxicating and healing about the combination.**"**
 
 ## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
