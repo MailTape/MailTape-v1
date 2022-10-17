@@ -50,7 +50,7 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 ## [Baby Chuck](https://inohidefumi.bandcamp.com/) - October, 500 B.C.
 Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity).**"**
 
-## [Will Sprott](https://hairdo.bandcamp.com/) - I Stay In Bed These Days Too Much
+## [Salami Rose Joe Louis](https://hairdo.bandcamp.com/) - I Stay in Bed These Days Too Much
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
 ## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
