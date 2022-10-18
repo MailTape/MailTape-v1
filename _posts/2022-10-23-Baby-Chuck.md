@@ -31,10 +31,9 @@ track6_title: Sofie Royer - Schweden Espresso
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3'
 track5_title: Salami Rose Joe Louis - I Stay in Bed These Days Too Much
 ---
-<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck joins us a month after releasing his most recent album, Warm Infinity.
+<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
-[INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
-</p>
+The album's songs features four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, fitting for the subject matter of increasingly hazy memories.</p>
 
 # Baby Chuck's selection
 
