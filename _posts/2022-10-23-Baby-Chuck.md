@@ -26,7 +26,7 @@ track6_color: vibrant
 track7_color: vibrant
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track7.mp3'
-track7_title: JayWood - Just Sayin
+track7_title: JayWood - Shine
 track6_title: Sofie Royer - Schweden Espresso
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3'
 track5_title: Nice Biscuit - Round and Round
