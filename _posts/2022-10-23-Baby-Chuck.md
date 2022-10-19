@@ -53,10 +53,10 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). Love the horn section and piano backings here, they create such a timeless quality here. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence the cover art). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back.**"**
 
 ## [Nice Biscuit](https://hairdo.bandcamp.com/) - Round and Round
-Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band. The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
+Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album Passing Over. The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
 ## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
-Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
+Sarah: **"**The opening track of Sofie Royer's latest album, Harlequin. Always loved her Boiler Room sets, this album and the last present a different side of Royer, with the most silky vocals to match.**"**
 
 ## [JayWood](https://morsels.website/) - Just Sayin
 Sarah: **"**Funky bass and 80's synths. Not sure if it gets better than this?**"**
