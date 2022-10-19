@@ -49,13 +49,13 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 
 # MailTape's selection
 
-## [Baby Chuck](https://inohidefumi.bandcamp.com/) - October, 500 B.C.
+## [Baby Chuck](https://babychuck.bandcamp.com/album/warm-infinity) - October, 500 B.C.
 Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). Love the horn section and piano backings here, they create such a timeless quality here. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence the cover art). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back.**"**
 
 ## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
-## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
+## [Sofie Royer](https://www.instagram.com/sofieroyer/?hl=en) - Schweden Espresso
 Sarah: **"**The opening track of Sofie Royer's latest album, [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin). Loved her club releases ([Leave](https://www.youtube.com/watch?v=yLFMfc2QGKE), [Melody](https://www.youtube.com/watch?v=n2NYBA4MfY0), [Cheerleader](https://www.youtube.com/watch?v=hsh4so-DjqM)) and her recent [feature on Toro y Moi's MAHAL](https://www.youtube.com/watch?v=vniX7UCBlNI). This album and the last present a completely different side of Royer, with old boogie grooves and silky vocals to match. [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin) is worth a listen through this week, be sure to look out for tracks Ballad of Bobby Beausoleil and Someone is smoking (my favorites).**"**
 
 ## [JayWood](https://morsels.website/) - Just Sayin
