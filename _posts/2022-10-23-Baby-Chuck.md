@@ -56,9 +56,9 @@ Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://ba
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album Passing Over. The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
 ## [Sofie Royer](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Schweden Espresso
-Sarah: **"**The opening track of Sofie Royer's latest album, Harlequin. Always loved her Boiler Room sets, this album and the last present a different side of Royer, with the most silky vocals to match.**"**
+Sarah: **"**The opening track of Sofie Royer's latest album, Harlequin. Always loved her Boiler Room sets, this album and the last present a completely different side of Royer, with silky vocals to match. Harlequin is definitely worth a listen through, especially for Ballad of Bobby Beausoleil and Someone is smoking.**"**
 
 ## [JayWood](https://morsels.website/) - Just Sayin
-Sarah: **"**Funky bass and 80's synths. Not sure if it gets better than this?**"**
+Sarah: **"**The bass and 80's synths -- not sure if it gets better than this? JayWood's album Slingshot is such an energizing listen, with tracks like Pray, Move On and Just Sayin joining some of the week's essential playlist additions. Love the momentum here, Jaywood is doing striking work in the music video, bringing an artistic perspective to police violence and activism; making his lyrics that much more powerful. Looking forward to what's next from him!**"**
 
-<p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
+<p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to Baby Chuck for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
