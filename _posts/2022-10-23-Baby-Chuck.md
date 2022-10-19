@@ -31,6 +31,12 @@ track6_title: Sofie Royer - Schweden Espresso
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3'
 track5_title: Nice Biscuit - Round and Round
 episode_URL: 'http://mailta.pe/502/Baby-Chuck/'
+description: >-
+  This morning, we're delighted to welcome Baby Chuck to MailTape for an
+  eclectic collection that'll jump start your day. Based in Los Angeles, Baby
+  Chuck (Matt O'Keefe) joins us a month after releasing his most recent album,
+  Warm Infinity. The release examines the essence of memories and the varied
+  nostalgia they bring.
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
