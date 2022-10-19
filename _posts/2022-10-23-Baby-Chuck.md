@@ -38,10 +38,10 @@ The album's songs features four other musicians, with all tracks produced by Rya
 
 # Baby Chuck's selection
 
-## [Ryan Sambol](https://www.discogs.com/artist/32166-Timmy-Thomas) - You're Still Lovable to Someone
+## [Ryan Sambol](https://ryansambol.bandcamp.com/) - You're Still Lovable to Someone
 Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to this guy all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of older siblings), so I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
 
-## [Yves Tumor](https://inohidefumi.bandcamp.com/) - Secrecy is Incredibly Important to the Both of Them
+## [Yves Tumor](https://yves-tumor.com/) - Secrecy is Incredibly Important to the Both of Them
 Baby Chuck: **"**Really great song. Rips. It reminds me of the music from Jet Moto.**"**
 
 ## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
