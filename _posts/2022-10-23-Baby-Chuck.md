@@ -44,7 +44,7 @@ Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put
 ## [Yves Tumor](https://inohidefumi.bandcamp.com/) - Secrecy is Incredibly Important to the Both of Them
 Baby Chuck: **"**Really great song. Rips. It reminds me of the music from Jet Moto.**"**
 
-## [MJ Lederman & Wednesday](https://www.discogs.com/artist/146143-William-DeVaughn) - Phish Pepsi (feat Advance Base)
+## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
 Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don't know so much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real, not-indulgently/embarrassingly-gushy, sentimentality I'd say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There's another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” Ooh. I mean, c’mon.**"**
 
 # MailTape's selection
@@ -58,7 +58,7 @@ Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic ro
 ## [Sofie Royer](https://www.instagram.com/sofieroyer/?hl=en) - Schweden Espresso
 Sarah: **"**The opening track of Sofie Royer's latest album, [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin). Loved her club releases ([Leave](https://www.youtube.com/watch?v=yLFMfc2QGKE), [Melody](https://www.youtube.com/watch?v=n2NYBA4MfY0), [Cheerleader](https://www.youtube.com/watch?v=hsh4so-DjqM)) and her recent [feature on Toro y Moi's MAHAL](https://www.youtube.com/watch?v=vniX7UCBlNI). This album and the last present a completely different side of Royer, with old boogie grooves and silky vocals to match. [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin) is worth a listen through this week, be sure to look out for tracks Ballad of Bobby Beausoleil and Someone is smoking (my favorites).**"**
 
-## [JayWood](https://morsels.website/) - Just Sayin
-Sarah: **"**The bass and 80's synths -- not sure if it gets better than this? JayWood's album Slingshot is such an energizing listen, with tracks like Pray, Move On and Just Sayin joining some of the week's essential playlist additions. Love the momentum here, Jaywood is doing striking work in the music video, bringing an artistic perspective to police violence and activism; making his lyrics that much more powerful. Looking forward to what's next from him!**"**
+## [JayWood](https://morsels.website/) - Shine
+Sarah: **"**The bass and 80's synths -- not sure if it gets better than this? JayWood's album Slingshot is such an energizing listen, with tracks like Pray, Move On, Just Sayin, and God is a Reptile joining some of the week's essential playlist additions. Basically all of them, the whole album, just listen to it the whole way through and bring your week from a 7/10 to a 10/10 guaranteed. Love the momentum in this track in particular, Jaywood is doing striking work in the music video, bringing an artistic perspective to police violence and activism; making his lyrics that much more powerful. Looking forward to what's next from him!**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to Baby Chuck for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
