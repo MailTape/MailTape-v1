@@ -48,7 +48,7 @@ The album's songs features four other musicians, with all tracks produced by Rya
 Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to this guy all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of older siblings), so I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
 
 ## [Yves Tumor](https://yves-tumor.com/) - Secrecy is Incredibly Important to the Both of Them
-Baby Chuck: **"**Really great song. Rips. It reminds me of the music from Jet Moto.**"**
+Baby Chuck: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
 
 ## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
 Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don't know so much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real, not-indulgently/embarrassingly-gushy, sentimentality I'd say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There's another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” Ooh. I mean, c’mon.**"**
