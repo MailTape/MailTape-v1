@@ -30,6 +30,10 @@ track7_title: JayWood - Just Sayin
 track6_title: Sofie Royer - Schweden Espresso
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/502/track5.mp3'
 track5_title: Salami Rose Joe Louis - I Stay in Bed These Days Too Much
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
@@ -49,7 +53,7 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 # MailTape's selection
 
 ## [Baby Chuck](https://inohidefumi.bandcamp.com/) - October, 500 B.C.
-Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity).**"**
+Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). Love the horn section and piano backings here, they create such a timeless quality here. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence the cover art). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back.**"**
 
 ## [Salami Rose Joe Louis](https://hairdo.bandcamp.com/) - I Stay in Bed These Days Too Much
 Sarah: **"**Love these wandering synths and the jazz drumline. There's something so intoxicating and healing about the combination.**"**
