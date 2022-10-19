@@ -38,9 +38,9 @@ description: >-
   Warm Infinity. The release examines the essence of memories and the varied
   nostalgia they bring.
 ---
-<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, Warm Infinity. The release examines the essence of memories and the varied nostalgia they bring.
+<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
-The album's songs features four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, fitting for the subject matter of increasingly hazy memories.</p>
+The album's songs features four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, fitting for the subject matter of increasingly hazy memories. </p>
 
 # Baby Chuck's selection
 
@@ -56,7 +56,7 @@ Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Ba
 # MailTape's selection
 
 ## [Baby Chuck](https://babychuck.bandcamp.com/album/warm-infinity) - October, 500 B.C.
-Sarah: **"**Favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). Love the horn section and piano backings here, they create such a timeless quality here. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence the cover art). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back.**"**
+Sarah: **"**My favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). Love the horn section and piano backings here, they create such a timeless quality for the lyrics. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence the cover art). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back.**"**
 
 ## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
