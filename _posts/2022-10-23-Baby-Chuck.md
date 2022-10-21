@@ -51,7 +51,7 @@ Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put
 Baby Chuck: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
 
 ## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
-Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don't know so much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real, not-indulgently/embarrassingly-gushy, sentimentality I'd say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There's another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” Ooh. I mean, c’mon.**"**
+Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don’t know much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real unindulgent/not-embarrassingly-gushy sentimentality I’d say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There’s another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” You see what I mean?**"**
 
 # MailTape's selection
 
