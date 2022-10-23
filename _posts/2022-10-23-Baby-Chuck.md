@@ -40,9 +40,9 @@ description: >-
 musiColor: musiColor502.png
 image: 'https://mailta.pe/img/fbPic502.png'
 ---
-<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release examines the essence of memories and the varied nostalgia they bring.
+<p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
-The album's songs features four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, fitting for the subject matter of increasingly hazy memories. </p>
+The album's songs features four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, placed well for the subject matter of increasingly hazy memories. </p>
 
 # Baby Chuck's selection
 
