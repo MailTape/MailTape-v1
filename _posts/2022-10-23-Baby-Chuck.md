@@ -42,7 +42,7 @@ image: 'https://mailta.pe/img/fbPic502.png'
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>
-The album's songs feature four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers feature a  70's AM Radio effect, placed wonderfully for the subject matter of increasingly hazy memories. Listening through the album feels like getting lost in a dream, suspended in time. </p>
+The album's songs feature four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers are shrouded in a 70's AM Radio effect, placed wonderfully for the subject matter of increasingly hazy memories. Consequently, listening through the album feels like getting lost in a dream, suspended in time. As Baby Chuck explains, the album's deliberate delving into reverie feels necessary, not only to purge any lingering thorns, but to balance a refreshed perspective for a new day.</p>
 
 # Baby Chuck's selection
 
