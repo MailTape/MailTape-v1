@@ -37,6 +37,8 @@ description: >-
   Chuck (Matt O'Keefe) joins us a month after releasing his most recent album,
   Warm Infinity. The release examines the essence of memories and the varied
   nostalgia they bring.
+musiColor: musiColor502.png
+image: 'https://mailta.pe/img/fbPic502.png'
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic collection that'll jump start your day. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release examines the essence of memories and the varied nostalgia they bring.
   <br><br>
@@ -46,6 +48,8 @@ The album's songs features four other musicians, with all tracks produced by Rya
 
 ## [Ryan Sambol](https://ryansambol.bandcamp.com/) - You're Still Lovable to Someone
 Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to his work all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of having older siblings). So I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
+![fbPic502.png]({{site.baseurl}}/img/fbPic502.png)
+![musiColor502.png]({{site.baseurl}}/img/musiColor502.png)
 
 ## [Yves Tumor](https://yves-tumor.com/) - Secrecy is Incredibly Important to the Both of Them
 Baby Chuck: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
