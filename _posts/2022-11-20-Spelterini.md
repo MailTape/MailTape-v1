@@ -2,12 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: true
-author: Sarah
+author: Anaïs G
 illustrator: Camille Célestin
-writer: Sarah
-category: '505'
-guest_name: Elan Noon
-guest_color: dreamy
+writer: Anaïs G
+category: '506'
+guest_name: Spelterini
+guest_color: rough
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/505/track1.mp3'
 track1_title: Sanity Band - Submarine
 track1_color: vibrant
@@ -51,7 +51,7 @@ Spelterini: **"**Arty piece of music by an existing Baltimore band. If you like 
 ## The Necks - Rum Jungle 
 Spelterini: **"**Fantastic piece of music by a 35-year-old Australian band. Take some time off, close your eyes and listen to the whole piece. If you like it trippy.**"**
 
-
+Bothlane ou The Brums ou 
 # MailTape's selection
 
 ## Spelterini - 
@@ -63,4 +63,4 @@ Sarah: **"** **"**
 ##  - 
 Anaïs G: **"** **"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Elan Noon these thoughtful Sunday selections, and many thanks to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Spelterini these thoughtful Sunday selections, and many thanks to Lucy for this episode's stunning illustration !</p>
