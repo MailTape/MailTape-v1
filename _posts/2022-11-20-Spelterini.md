@@ -7,20 +7,23 @@ illustrator: Camille Célestin
 writer: Anaïs G
 category: '506'
 guest_name: Spelterini
-guest_color: rough
+guest_color: trippy
 track1_color: vibrant
 track2_color: trippy
 track3_color: dreamy
-track4_color: trippy
+track4_color: rough
 track4_title: Spelterini - Paréidolie
-track5_color: dreamy
-track7_color: vibrant
-track6_color: trippy
+track5_color: trippy
+track7_color: rough
+track6_color: bliss
 image: 'https://mailta.pe/img/fbPic506.png'
 guestPic: guestPic506.jpg
 episode_URL: 'http://mailta.pe/506/Seplterini/'
 musiColor: musiColor505.png
 description: '  This week, we offer a warm welcome to our dear guest Elan Noon. With releases spanning across experimental folk, lo-fi psychedelic, and baroque movements, each album by Elan Noon lends a new delight to discover.'
+track5_title: Bothlane - Nog
+track6_title: The Brums - Robertdarc
+track7_title: La Colonie de Vacances
 ---
 <p id="introduction"> This morning, 
 <br><br>
@@ -41,11 +44,14 @@ Spelterini: **"**Fantastic piece of music by a 35-year-old Australian band. Take
 Bothlane ou The Brums ou 
 # MailTape's selection
 
-## Spelterini - 
+## Spelterini - Paréidolie
 Anaïs G: **"** **"**
 
-##  - 
-Sarah: **"** **"**
+## Bothlane - Nog 
+Anaïs G: **"** **"**
+
+## The Brums - 
+Anais G: **"** **"**
 
 ##  - 
 Anaïs G: **"** **"**
