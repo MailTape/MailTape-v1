@@ -10,7 +10,7 @@ guest_name: Spelterini
 guest_color: trippy
 track1_color: trippy
 track2_color: bliss
-track3_color: dreamy
+track3_color: trippy
 track4_color: rough
 track4_title: Spelterini - Paréidolie
 track5_color: trippy
@@ -20,7 +20,7 @@ image: 'https://mailta.pe/img/fbPic506.png'
 guestPic: guestPic506.jpg
 episode_URL: 'http://mailta.pe/506/Seplterini/'
 musiColor: musiColor505.png
-description: '  This week, we offer a warm welcome to our dear guest Elan Noon. With releases spanning across experimental folk, lo-fi psychedelic, and baroque movements, each album by Elan Noon lends a new delight to discover.'
+description: '  '
 track5_title: Bothlane - Nog
 track6_title: The Brums - Robertdarc
 track7_title: La Colonie de Vacances
