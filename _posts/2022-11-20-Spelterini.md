@@ -18,7 +18,7 @@ track7_color: rough
 track6_color: bliss
 image: 'https://mailta.pe/img/fbPic506.png'
 guestPic: guestPic506.jpg
-episode_URL: 'http://mailta.pe/506/Seplterini/'
+episode_URL: 'http://mailta.pe/506/Spelterini/'
 musiColor: musiColor505.png
 description: '  '
 track5_title: Bothlane - Nog
