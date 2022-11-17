@@ -35,11 +35,10 @@ track1_title: Laddio Bolocko - Goat Lips
 
 # Spelterini's selection
 
-##  - 
+## Laddio Bolocko - Goat Lips
 Spelterini: **"**Killer piece of music by a NYC band from the past. If you like it gritty.**"**
 
-## Horse Lords - Against![guestPic506.jpg]({{site.baseurl}}/img/guestPic506.jpg)
- Gravity
+## Horse Lords - Against Gravity
 Spelterini: **"**Arty piece of music by an existing Baltimore band. If you like it microtonal.**"**
 
 ## The Necks - Rum Jungle 
