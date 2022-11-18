@@ -27,6 +27,13 @@ track7_title: La Colonie de Vacances
 track2_title: Horse Lords - Against Gravity
 track3_title: The Necks - Rum Jungle
 track1_title: Laddio Bolocko - Goat Lips
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track7.mp3'
 ---
 <p id="introduction"> This morning, 
 <br><br>
