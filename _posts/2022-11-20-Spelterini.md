@@ -55,7 +55,7 @@ Bothlane ou The Brums ou
 # MailTape's selection
 
 ## Spelterini - Paréidolie
-Anaïs G: **"** **"**
+Anaïs G: **"**Ce quatuor  de tel une funambule sur un fil, **"**
 
 ## Bothlane - Nog 
 Anaïs G: **"**Découvert à l'époque avec son clip "Hornet", j'ai suivi la belle trajectoire d'Alain Deval alias Bothlane. Ce batteur liégeois maitrise à la perfection la batterie mais aussi les synthés. Une musique que l'on savoure en after chez des amies et surtout en live sur scène. Une explosion d'émotions, de sonorités et de beats en tout genre passant de l'afro/ jazz à la noise/techno avec une facilité que l'on reste sans voix.**"**
