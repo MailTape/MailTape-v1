@@ -42,16 +42,16 @@ To do this exercise early in the morning, [Spelterini](https://www.kythibong.org
 
 # Spelterini's selection
 
-## Laddio Bolocko - Goat Lips
+## [Laddio Bolocko](https://laddiobolocko.bandcamp.com/) - Goat Lips
 Spelterini: **"**Killer piece of music by a NYC band from the past. If you like it gritty.**"**
 
-## Horse Lords - Against Gravity
+## [Horse Lords](http://horselords.org/) - Against Gravity
 Spelterini: **"**Arty piece of music by an existing Baltimore band. If you like it microtonal.**"**
 
-## The Necks - Rum Jungle 
+## [The Necks](https://www.thenecks.com/) - Rum Jungle 
 Spelterini: **"**Fantastic piece of music by a 35-year-old Australian band. Take some time off, close your eyes and listen to the whole piece. If you like it trippy.**"**
 
-Bothlane ou The Brums ou 
+ 
 # MailTape's selection
 
 ## Spelterini - Paréidolie
