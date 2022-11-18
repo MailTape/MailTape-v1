@@ -55,7 +55,7 @@ Bothlane ou The Brums ou
 # MailTape's selection
 
 ## Spelterini - Paréidolie
-Anaïs G: **"**Ce quatuor  de tel une funambule sur un fil, **"**
+Anaïs G: **"**This group, like a tightrope walker on a wire, like Maria Spelterini their muse, tells us a story and embarks us on a most disturbing journey. In their latest LP “Paréidolie” released last October by Kythibong, their minimalist post-punk destabilizes us and moves us into our hitherto entrenchments to reveal faces, abstract lines. To live without moderation!**"**
 
 ## Bothlane - Nog 
 Anaïs G: **"**Discovered at the time with his music video “Hornet”, I followed the beautiful trajectory of Alain Deval alias Bothlane. This Liège drummer masters perfectly the drums but also the synthesizers. A music that you can enjoy after at friends' house and especially live on stage. An explosion of emotions, sounds and beats of all kinds going from afro/jazz to noise/techno with an ease that one remains speechless.**"**
