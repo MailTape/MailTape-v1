@@ -35,9 +35,9 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track7.mp3'
 ---
-<p id="introduction"> This morning, on bouscule les codes, les habitudes et la routine. On va vivre la musique de manières différentes, la toucher, la ressentir, la voir de tel sorte qu'elle nous transcende, nous dérange, nous secoue...
+<p id="introduction"> This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us. . .
 <br><br>
-Pour effectuer cet exercice de bon matin, Spelterini nous a prévu une playlist d'enfer. Vous ferez même l'expérience de leur musique plus ou moins surprenante à travers leur dernier LP sorti cette en octobre dernier sous le label. Une traversée musicaleidéal pour une introspection de notre corps et de notre esprit en ce dimanche matin.
+To do this exercise early in the morning, Spelterini provided us with a hell of a playlist. You will even experience their more or less surprising music through their latest LP released last October under the label. An ideal musical journey for an introspection of our body and mind on this Sunday morning.
 </p>
 
 # Spelterini's selection
@@ -61,7 +61,7 @@ Anaïs G: **"**Ce quatuor  de tel une funambule sur un fil, **"**
 Anaïs G: **"**Découvert à l'époque avec son clip "Hornet", j'ai suivi la belle trajectoire d'Alain Deval alias Bothlane. Ce batteur liégeois maitrise à la perfection la batterie mais aussi les synthés. Une musique que l'on savoure en after chez des amies et surtout en live sur scène. Une explosion d'émotions, de sonorités et de beats en tout genre passant de l'afro/ jazz à la noise/techno avec une facilité que l'on reste sans voix.**"**
 
 ## The Brums - Bunch
-Anais G: **"**Le merveilleux groupe THE BRUMS a déjà été mis à l'honneur dans Mailtape avec un épisode à la hauteur de nos espérances. Dans l'épisode, mettant en lumière le groupe Spelterini, il me semblait évident de reparler de ce groupe incroyable (où nous retrouvons aussi Alain Deval aka Bothlane).Sous le charme avec leur titre "Fuzzy" de par leur musique mais aussi par le clip, il nous étonne toujours autant avec leur dernier EP en date "No Encore" sorti sous le fabuleux label Luik Music. Le feu d'artifice dans tes oreilles!**"**
+Anais G: **"**Le merveilleux groupe The Brums a déjà été mis à l'honneur dans Mailtape avec un épisode à la hauteur de nos espérances. Dans l'épisode, mettant en lumière le groupe Spelterini, il me semblait évident de reparler de ce groupe incroyable (où nous retrouvons aussi Alain Deval aka Bothlane).Sous le charme avec leur titre "Fuzzy" de par leur musique mais aussi par le clip, il nous étonne toujours autant avec leur dernier EP en date "No Encore" sorti sous le fabuleux label Luik Music. Le feu d'artifice dans tes oreilles!**"**
 
 ## La Colonie de Vacances - Alex Weir 
 Anaïs G: **"**Histoire d'être bien reveillé en ce dimanche matin, un titre de La Colonie de Vacances extrait de leur dernier album "Echt" sorti cette année sous le label Vicious Circle. Mélange de maths, noisy, experimental ce quadraphonic place le public au centre se manière à vivre cette expérience comme une aventure. Je l'ai vécu et ce fut une énorme et bonne surprise pour ma part!**"**
