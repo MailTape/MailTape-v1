@@ -58,12 +58,12 @@ Bothlane ou The Brums ou
 Anaïs G: **"**Ce quatuor  de tel une funambule sur un fil, **"**
 
 ## Bothlane - Nog 
-Anaïs G: **"**Découvert à l'époque avec son clip "Hornet", j'ai suivi la belle trajectoire d'Alain Deval alias Bothlane. Ce batteur liégeois maitrise à la perfection la batterie mais aussi les synthés. Une musique que l'on savoure en after chez des amies et surtout en live sur scène. Une explosion d'émotions, de sonorités et de beats en tout genre passant de l'afro/ jazz à la noise/techno avec une facilité que l'on reste sans voix.**"**
+Anaïs G: **"**Discovered at the time with his music video “Hornet”, I followed the beautiful trajectory of Alain Deval alias Bothlane. This Liège drummer masters perfectly the drums but also the synthesizers. A music that you can enjoy after at friends' house and especially live on stage. An explosion of emotions, sounds and beats of all kinds going from afro/jazz to noise/techno with an ease that one remains speechless.**"**
 
 ## The Brums - Bunch
-Anais G: **"**Le merveilleux groupe The Brums a déjà été mis à l'honneur dans Mailtape avec un épisode à la hauteur de nos espérances. Dans l'épisode, mettant en lumière le groupe Spelterini, il me semblait évident de reparler de ce groupe incroyable (où nous retrouvons aussi Alain Deval aka Bothlane).Sous le charme avec leur titre "Fuzzy" de par leur musique mais aussi par le clip, il nous étonne toujours autant avec leur dernier EP en date "No Encore" sorti sous le fabuleux label Luik Music. Le feu d'artifice dans tes oreilles!**"**
+Anais G: **"**The wonderful band The Brums has already been featured in Mailtape with an episode that lives up to our expectations. In the episode, highlighting the band Spelterini, it seemed obvious to me to talk about this amazing band again (where we also find Alain Deval aka Bothlane). Charmed with their title “Fuzzy” by their music but also by the clip, he always amazes us as much with their latest EP “No Encore” released under the fabulous Luik Music label. The fireworks in your ears!**"**
 
 ## La Colonie de Vacances - Alex Weir 
-Anaïs G: **"**Histoire d'être bien reveillé en ce dimanche matin, un titre de La Colonie de Vacances extrait de leur dernier album "Echt" sorti cette année sous le label Vicious Circle. Mélange de maths, noisy, experimental ce quadraphonic place le public au centre se manière à vivre cette expérience comme une aventure. Je l'ai vécu et ce fut une énorme et bonne surprise pour ma part!**"**
+Anaïs G: **"**Just to be awake this Sunday morning, a song by La Colonie de Vacances from their latest album “Echt” released this year under the label Vicious Circle. Mixture of maths, noisy, experimental, this quadraphony places the audience at the center so that they can experience it as an adventure. I experienced it and it was an enormous and pleasant surprise for me!**"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Spelterini these thoughtful Sunday selections, and many thanks to Lucy for this episode's stunning illustration !</p>
