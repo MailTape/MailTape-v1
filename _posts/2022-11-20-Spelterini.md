@@ -66,4 +66,4 @@ Anais G: **"**The wonderful band The Brums has already been featured in Mailtape
 ## La Colonie de Vacances - Alex Weir 
 Anaïs G: **"**Just to be awake this Sunday morning, a song by [La Colonie de Vacances](https://lacoloniedevacances.com/) from their latest album “[Echt](https://lacoloniedevacances.com/music/)” released this year under [the label Vicious Circle](https://www.viciouscircle.fr/fr/accueil). Mixture of maths, noisy, experimental, this quadraphony places the audience at the center so that they can experience it as an adventure. I experienced it and it was an enormous and pleasant surprise for me!**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Spelterini](https://store.kythibong.org/album/par-idolie) these thoughtful Sunday selections, and many thanks to Lucy for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Spelterini](https://store.kythibong.org/album/par-idolie) these thoughtful Sunday selections, and many thanks to Lucie Fléty for this episode's stunning illustration !</p>
