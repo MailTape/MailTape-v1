@@ -22,8 +22,8 @@ episode_URL: 'http://mailta.pe/506/Spelterini/'
 musiColor: musiColor505.png
 description: '  '
 track5_title: Bothlane - Nog
-track6_title: The Brums - Robertdarc
-track7_title: La Colonie de Vacances
+track6_title: The Brums - Bunch
+track7_title: 'La Colonie De Vacances - Alex Weir '
 track2_title: Horse Lords - Against Gravity
 track3_title: The Necks - Rum Jungle
 track1_title: Laddio Bolocko - Goat Lips
