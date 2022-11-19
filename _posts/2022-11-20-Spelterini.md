@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Anaïs G
-illustrator: Camille Célestin
+illustrator: Anais Caura
 writer: Anaïs G
 category: '506'
 guest_name: Spelterini
@@ -20,7 +20,7 @@ image: 'https://mailta.pe/img/fbPic506.png'
 guestPic: guestPic506.jpg
 episode_URL: 'http://mailta.pe/506/Spelterini/'
 musiColor: musiColor505.png
-description: '  '
+description: '  This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us...'
 track5_title: Bothlane - Nog
 track6_title: The Brums - Bunch
 track7_title: 'La Colonie De Vacances - Alex Weir '
