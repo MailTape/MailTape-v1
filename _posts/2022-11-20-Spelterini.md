@@ -35,7 +35,8 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/506/track7.mp3'
 ---
-<p id="introduction"> This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us. . .
+<p id="introduction"> This morning, we shake up codes, habits and routine. We will experience music in different ways, touch it, feel it, see it in such a way that it transcends us, disturbs us, shakes us...![fbPic506.png]({{site.baseurl}}/img/fbPic506.png)
+
 <br><br>
 To do this exercise early in the morning, [Spelterini](https://www.kythibong.org/fr/bands/spelterini) provided us with a hell of a playlist. You will even experience their more or less surprising music through their latest LP released last October under the label [Kythibong](https://store.kythibong.org/). An ideal musical journey for an introspection of our body and mind on this Sunday morning.
 </p>
