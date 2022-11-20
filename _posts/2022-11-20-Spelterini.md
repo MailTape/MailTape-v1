@@ -3,7 +3,7 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Anaïs G
-illustrator: Anais Caura
+illustrator: Lucie Fléty
 writer: Anaïs G
 category: '506'
 guest_name: Spelterini
