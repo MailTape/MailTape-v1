@@ -19,6 +19,21 @@ track4_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track3.mp3'
+track5_color: dreamy
+track6_color: bliss
+track7_color: trippy
+guestPic: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with raw emotional conviction and visceral compositions that leave hearts bleeding.
   <br><br>
