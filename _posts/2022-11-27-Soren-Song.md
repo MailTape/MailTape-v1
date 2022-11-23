@@ -13,7 +13,7 @@ illustrator: Meriam Kharbat
 author: Sarah
 writer: Sarah
 track3_title: The Beatles - A Day In The Life
-track3_color: vibrant
+track3_color: trippy
 track4_title: Soren Song - A Gentle Man
 track4_color: vibrant
 ---
@@ -34,7 +34,7 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 
 # MailTape's selection
 
-## [Baby Chuck](https://babychuck.bandcamp.com/album/warm-infinity) - October, 500 B.C.
+## Soren Song - Gentle Man
 Sarah: **"**My favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity), though it was very difficult to choose (especially with tracks like [Treeshadows](https://babychuck.bandcamp.com/track/surrender-anyhow), [Leavespeak](https://babychuck.bandcamp.com/track/leavespeak) and [Surrender Anyhow](https://babychuck.bandcamp.com/track/surrender-anyhow) in the mix). Love the horn section and piano backings here, they add such a timeless quality to the already nostalgic lyrics. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence [the cover art](https://babychuck.bandcamp.com/album/warm-infinity)). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back. Such a liberating way to finish an album.**"**
 
 ## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
