@@ -21,7 +21,7 @@ track4_color: vibrant
   <br><br>
 The album's songs feature four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers are shrouded in a 70's AM Radio effect, placed wonderfully for the subject matter of increasingly hazy memories. Consequently, listening through the album feels like getting lost in a dream, suspended in time. As Baby Chuck explains, the album's deliberate delving into reverie feels necessary, not only to purge any lingering thorns, but to ground our perspective for the days ahead.</p>
 
-# Baby Chuck's selection
+# Soren Song's selection
 
 ## Over the Rhine - Poughkeepsie
 Soren Song: **"**When I was a freshman in college I was sitting on a bench alone. A girl I'd just met sat down next to me and was listening to a discman. She told me I needed to hear this new song that had just come out by a band called "Over the Rhine" that no one seemed to know about. I'd never been someone who knew about a cool band no one knew about so I was very intrigued. The album was called "Good Dog Bad Dog" and the song was "Poughkeepsie". It changed everything for me. I had just begun writing songs a few months before but hadn't performed in front of anyone yet. I was raised in a very strict religious cult and hadn't heard anything but old hymns and hip hop for the most part up until that point. Hearing someone sing so beautifully and delicately about depression and things I was very familiar with at the time was incredibly healing for me. It absolutely informed what I did musically from that day forward and still informs what I do to this day. This album became one of my all-time favorites in no time and I've been following the band for 25 years now.**"**
