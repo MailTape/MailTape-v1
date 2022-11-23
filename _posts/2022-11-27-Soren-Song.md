@@ -38,7 +38,13 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 # MailTape's selection
 
 ## Soren Song - Gentle Man
-Sarah: **"**My favorite track off of Baby Chuck's album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity), though it was very difficult to choose (especially with tracks like [Treeshadows](https://babychuck.bandcamp.com/track/surrender-anyhow), [Leavespeak](https://babychuck.bandcamp.com/track/leavespeak) and [Surrender Anyhow](https://babychuck.bandcamp.com/track/surrender-anyhow) in the mix). Love the horn section and piano backings here, they add such a timeless quality to the already nostalgic lyrics. Talking to Matt, he notes the strange process of reaching the essence of this memory, how so much time had passed and the edges of it softened, even becoming saturated (hence [the cover art](https://babychuck.bandcamp.com/album/warm-infinity)). He described how leaving the recording process felt like shedding an older skin, like the buckets of rainwater weighing down his memories were emptied and put back. Such a liberating way to finish an album.**"**
+Sarah: **"**If you have any questions just don't ask them out loud 
+examining gentleness, esp of man - taking what they want and what they can 
+reinventing mythology of self
+beautiful piano 
+	funny juxtaposition in the video -- 
+what if the shadow is really the shade
+**"**
 
 ## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
