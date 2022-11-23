@@ -10,13 +10,13 @@ The album's songs feature four other musicians, with all tracks produced by Ryan
 # Baby Chuck's selection
 
 ## [Ryan Sambol](https://ryansambol.bandcamp.com/) - You're Still Lovable to Someone
-Baby Chuck: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to his work all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of having older siblings). So I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
+Soren Song: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to his work all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of having older siblings). So I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
 
 ## [Yves Tumor](https://yves-tumor.com/) - Secrecy is Incredibly Important to the Both of Them
-Baby Chuck: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
+Soren Song: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
 
 ## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
-Baby Chuck: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don’t know much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real unindulgent/not-embarrassingly-gushy sentimentality I’d say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There’s another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” You see what I mean?**"**
+Soren Song: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don’t know much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real unindulgent/not-embarrassingly-gushy sentimentality I’d say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There’s another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” You see what I mean?**"**
 
 # MailTape's selection
 
@@ -32,4 +32,4 @@ Sarah: **"**The opening track of Sofie Royer's latest album, [Harlequin](https:/
 ## [JayWood](https://jaywood1.bandcamp.com/album/slingshot) - Shine (feat Mckinley Dixon)
 Sarah: **"**The bass and 80's synths -- not sure if it gets better than this? JayWood's album [Slingshot](https://jaywood1.bandcamp.com/album/slingshot) is such an energizing listen, with tracks like [Pray, Move On](https://jaywood1.bandcamp.com/track/pray-move-on), [Just Sayin](https://www.youtube.com/watch?v=F6oLGwBNuyg), and [God is a Reptile](JayWood - God Is A Reptile (Official Video) - YouTube) joining some of the week's essential playlist additions. Basically all of them, the whole album, just listen to it the whole way through and bring your week from a 7/10 to a 10/10 guaranteed. Love the momentum in this track in particular, Jaywood is doing striking work in [the music video](https://www.youtube.com/watch?v=PMh8jR3L1MU), bringing an artistic perspective to police violence and activism; highlighting such power in his lyrics. Looking forward to what's next from him!**"**
 
-<p id="outroduction">That wraps up this morning's selection, it's good to be back! As always, thank you for joining us. Our love to Baby Chuck for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
+<p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Baby Chuck for their delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
