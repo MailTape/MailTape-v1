@@ -7,7 +7,15 @@ category: '507'
 guest_name: Soren Song
 track2_title: Sean Rowe - I'll Follow Your Trail
 track1_color: dreamy
-track2_color: vibrant
+track2_color: bliss
+guest_color: vibrant
+illustrator: Meriam Kharbat
+author: Sarah
+writer: Sarah
+track3_title: The Beatles - A Day In The Life
+track3_color: vibrant
+track4_title: Soren Song - A Gentle Man
+track4_color: vibrant
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>
