@@ -16,6 +16,9 @@ track3_title: The Beatles - A Day In The Life
 track3_color: trippy
 track4_title: Soren Song - A Gentle Man
 track4_color: vibrant
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track3.mp3'
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>
