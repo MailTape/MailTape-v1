@@ -2,6 +2,7 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: Over The Rhine - Poughkeepsie
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>
@@ -9,14 +10,14 @@ The album's songs feature four other musicians, with all tracks produced by Ryan
 
 # Baby Chuck's selection
 
-## [Ryan Sambol](https://ryansambol.bandcamp.com/) - You're Still Lovable to Someone
-Soren Song: **"**Ryan Sambol’s music means a lot to me, and this record he put out last year, Gestalt, is really as good as it often gets. I’ve been listening to his work all the way back to The Strange Boys LP …And Girls Club, when I was a wee lad of fourteen (ahh, the benefit of having older siblings). So I guess that means I’ve been listening to Ryan Sambol’s music for half my life. Well, time well spent.**"**
+## Over the Rhine - Poughkeepsie
+Soren Song: **"**When I was a freshman in college I was sitting on a bench alone. A girl I'd just met sat down next to me and was listening to a discman. She told me I needed to hear this new song that had just come out by a band called "Over the Rhine" that no one seemed to know about. I'd never been someone who knew about a cool band no one knew about so I was very intrigued. The album was called "Good Dog Bad Dog" and the song was "Poughkeepsie". It changed everything for me. I had just begun writing songs a few months before but hadn't performed in front of anyone yet. I was raised in a very strict religious cult and hadn't heard anything but old hymns and hip hop for the most part up until that point. Hearing someone sing so beautifully and delicately about depression and things I was very familiar with at the time was incredibly healing for me. It absolutely informed what I did musically from that day forward and still informs what I do to this day. This album became one of my all-time favorites in no time and I've been following the band for 25 years now.**"**
 
 ## [Yves Tumor](https://yves-tumor.com/) - Secrecy is Incredibly Important to the Both of Them
-Soren Song: **"**Really great song. Rips. It reminds me of the music from [Jet Moto](https://www.youtube.com/watch?v=fPfiA1YV-pQ).**"**
+Soren Song: **"**This is one of the few songwriters I've heard in the past couple decades that immediately let me know he could hang with any of the masters of my youth. His voice alone is worth the price of admission and the melody is absolute understated perfection but the subject matter - a song to his child - is deeply impactful and got me quite emotional. I imagined my father singing something like this to me and it was far from the experience I had in my real life. I got to imagine what that safety and security might feel like and gave me hope that I could offer the world more than I was given.**"**
 
 ## [MJ Lederman & Wednesday](https://mjlenderman.bandcamp.com/) - Phish Pepsi (feat [Advance Base](https://advancebase.bandcamp.com/))
-Soren Song: **"**I love Wednesday and MJ Lenderman’s music so much. Advance Base I don’t know much about, YET. This song—from the words to just the sluggardly feel of the music—holds a real unindulgent/not-embarrassingly-gushy sentimentality I’d say I searched for writing my own record. There’s a random line in here: “I don’t sleep in that room anymooooooore,” for a while I thought that’s what I’d call Warm Infinity. There’s another line: “We smoked weed out of a Pepsi can / lying around under a Christmas tree.” You see what I mean?**"**
+Soren Song: **"**The Beatles - I know. For me, it was a different journey that got me to them. I was barely aware of their existence growing up and never heard their music. I remember seeing memorabilia of the four "mop tops" in a shop at the mall and that was about all I knew of them. At home, I was not allowed to listen to "secular" music which, for those who don't know, is anything that isn't the very specific music sanctioned by my church. I lived in a very urban area and only heard hip hop and R&B outside of the home. My senior year in high school, after getting in trouble in public school, I was forced to attend a small, almost entirely white and suburban Christian school. It was a nightmare of abuse but the good that did come of it was driving in a car and hearing "A Day In the Life" for the first time. I couldn't imagine anything else in life being more important than what was happening in that moment. When the song finished playing I asked what the hell I had just listened to. My new friend looked at me very strangely and said: "That was The Beatles. Do you really not know The Beatles?" From that day forward I did and The Beatles - John Lennon in particular - became the template for what to do in life. I started writing songs almost immediately.**"**
 
 # MailTape's selection
 
