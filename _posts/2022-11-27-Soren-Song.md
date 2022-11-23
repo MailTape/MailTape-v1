@@ -3,6 +3,11 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: false
 track1_title: Over The Rhine - Poughkeepsie
+category: '507'
+guest_name: Soren Song
+track2_title: Sean Rowe - I'll Follow Your Trail
+track1_color: dreamy
+track2_color: vibrant
 ---
 <p id="introduction"> This morning, we're delighted to welcome Baby Chuck to MailTape for an eclectic Sunday selection. Based in Los Angeles, Baby Chuck (Matt O'Keefe) joins us a month after releasing his most recent album, [Warm Infinity](https://babychuck.bandcamp.com/album/warm-infinity). The release explores and examines the essence of memories and the varied nostalgia that they bring.
   <br><br>
