@@ -25,6 +25,15 @@ track7_color: trippy
 track6_title: Soren Song - That Furious Rain
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track6.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track5.mp3'
+track5_title: Adelyn Rose - Gone for Anything
+guestPic: ''
+track4_link: ''
+track7_link: ''
+track7_title: ''
+episode_URL: ''
+image: ''
+musiColor: ''
+description: ''
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with raw emotional conviction and visceral compositions that leave hearts bleeding.
   <br><br>
