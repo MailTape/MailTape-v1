@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Over The Rhine - Poughkeepsie
 category: '507'
 guest_name: Soren Song
@@ -35,9 +35,9 @@ track7_title: Rainbow Kitten Surprise - Polite Company
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
-They join us ahead of the release of their concept album, [I'm](https://www.sorensong.com/about). This work came out of what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they describe it, trauma has the potential to break people open and creative people create from such chaos. 
+They join us ahead of the release of their concept album, [I'm](https://www.sorensong.com/about). This work arose from what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they describe it, trauma has the potential to break people open and creative people create from such chaos. 
   <br><br>
-  The release aims to rewrite Soren's understanding and imagery of their own core personal mythology. As they explain, many of the stories we are told and carry on to tell ourselves frame the worlds we live in, a reality that can be especially damaging when these stories are flawed or false in some way. This album aims to "fix" the stories Soren was told and to write a better story. Consequently, the work is a deeply tender and intimate collection of songs that seek to find truth and construct a new scaffolding of stories.</p>
+  The release aims to rewrite Soren's understanding and imagery of their own core personal mythology. As they explain, many of the stories we are told and carry on to tell ourselves frame the worlds that we live in, a reality that can be especially damaging when these stories are flawed or false in some way. This album aims to "fix" the stories Soren was told and to write a better story. Consequently, the work is a deeply tender and intimate collection of songs that seek to find truth and construct a new scaffolding of stories.</p>
 
 # Soren Song's selection
 
@@ -62,6 +62,6 @@ Sarah: **"**Really enjoying this 2020 album from Adelyn Rose, entitled [Any Way]
 Sarah: **"**Once again, I'm in love with Soren's tender lyricism and the vulnerability shrouding it, especially the verses on selfishness and desire. Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). Originally part of Soren's [Only Always](https://sorensong.bandcamp.com/album/only-always-2) (2006 album) sessions, [That Furious Rain](https://sorensong.bandcamp.com/track/that-furious-rain-2) was finished for the [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit) collection in collaboration with famed producer Danny Blume.**"**
 
 ## [Rainbow Kitten Surprise](https://www.rksband.com/) - Polite Company
-Sarah: **"**I like how the piano from [That Furious Rain](https://sorensong.bandcamp.com/track/that-furious-rain-2) floats into the piano of this one -- the glory of the endless playlist :) This track has been like an old friend for years and it's my favorite from the RKS collection. I've wanted to include it in a MailTape playlist since I started working here, this episode seems like the right time. The lyrics are so brutally tender, making the softness of the vocals land somewhat like a scream. The unrefined roughness in the production process also seems ironically deliberate given the rest of [How to: Friend, Love, Freefall](https://www.studlife.com/cadenza/2018/04/16/how-to-friend-love-freefall-and-the-constant-of-change-in-rainbow-kitten-surprise/)'s meticulous mastering. I like how you have to  listen in carefully to the track to understand its lyrics, maybe some things are too intimate to say with your full chest, even if it's in a song. Be sure to listen for the entrance of the percussives, solidifying _Polite Company_ as the perfect track to close out the 2017 album, and this episode :)**"**
+Sarah: **"**I like how the piano from [That Furious Rain](https://sorensong.bandcamp.com/track/that-furious-rain-2) floats into the piano underlay of this one -- the glory of the endless playlist :) This track has been like an old friend for years and it's my favorite from the RKS collection. I've wanted to include it in a MailTape playlist since I started working here, this episode seems like the right time. The lyrics are so brutally tender, making the softness of the vocals land somewhat like a scream. The unrefined roughness in the production process also seems ironically deliberate given the rest of [How to: Friend, Love, Freefall](https://www.studlife.com/cadenza/2018/04/16/how-to-friend-love-freefall-and-the-constant-of-change-in-rainbow-kitten-surprise/)'s meticulous mastering. I like how you have to  listen in carefully to the track to understand its lyrics, maybe some things are too intimate to say with your full chest, even if it's in a song. Be sure to listen for the entrance of the percussives, solidifying _Polite Company_ as the perfect track to close out the 2017 album, and this episode :)**"**
 
 <p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Soren Song for their delightful Sunday discoveries, and a million thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's wonderful illustration!</p>
