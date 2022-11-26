@@ -38,7 +38,7 @@ description: >-
   deeply perceptive lyricism. It's a true joy to welcome them for a collection
   of tracks to start your Sunday.
 ---
-<p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
+<p id="introduction"> With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
 They join us ahead of the release of their concept album, [I'm](https://www.sorensong.com/about). This work arose from what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they describe it, trauma has the potential to break people open and creative people create from such chaos. 
   <br><br>
@@ -57,7 +57,7 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 
 # MailTape's selection
 
-## Soren Song - Gentle Man
+## [Soren Song](https://www.sorensong.com/) - Gentle Man
 Sarah: **"**"What if the shadow is really the shade?" One of my favorite songs off of Soren Song's soon to be released concept album, [I'm](https://www.sorensong.com/about). Gentle Man was also the first track of Soren's I found :) Their voice is so powerful and full in this release, cut live to tape along with the studio's absolutely mellifluent Steinway D concert grand piano. (A nod must be given to the [music video](https://www.youtube.com/watch?v=RnP39jL_j_8), juxtaposing this studio grandeur with such creativity). We see Soren's album mission at work in this track, making sense of both brokenness and beauty in their own mythology. The lyrics depict a process of reconciling -- of pain and of love in their life. As Soren distinguishes, this is not an act of justifying the chaos they experienced, but is a reclamation of their self from its aftermath. The album's existence itself is a testament to Soren's perseverance, a redemption story but also a glaring _despite everything_.**"**
 
 ## Adelyn Rose - Gone for Anything
