@@ -49,7 +49,9 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 # MailTape's selection
 
 ## Soren Song - Gentle Man
-Sarah: **"**One of the most striking songs off of Soren Song's soon to be released concept album, I'm. If you have any questions just don't ask them out loud 
+Sarah: **"**One of my favorite songs off of Soren Song's soon to be released concept album, I'm. Gentle Man was also the first track of Soren's I found :) Their voice is so powerful and full in this song, cut live to tape along with the studio's delightfully mellifluent Steinway D concert grand piano.
+
+If you have any questions just don't ask them out loud 
 examining gentleness, esp of man - taking what they want and what they can 
 reinventing mythology of self
 beautiful piano 
