@@ -26,18 +26,12 @@ track6_title: Soren Song - That Furious Rain
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track6.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track5.mp3'
 track5_title: Adelyn Rose - Gone for Anything
-guestPic: ''
-track4_link: ''
-track7_link: ''
-track7_title: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with raw emotional conviction and visceral compositions that leave hearts bleeding.
   <br><br>
 The album's songs feature four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers are shrouded in a 70's AM Radio effect, placed wonderfully for the subject matter of increasingly hazy memories. Consequently, listening through the album feels like getting lost in a dream, suspended in time. As Baby Chuck explains, the album's deliberate delving into reverie feels necessary, not only to purge any lingering thorns, but to ground our perspective for the days ahead.</p>
+![guestPic507.jpg]({{site.baseurl}}/img/guestPic507.jpg)
+![fbPic507.png]({{site.baseurl}}/img/fbPic507.png)
 
 # Soren Song's selection
 
