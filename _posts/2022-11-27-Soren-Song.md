@@ -30,6 +30,8 @@ guestPic: guestPic507.jpg
 episode_URL: 'http://mailta.pe/507/Soren-Song/'
 image: 'https://mailta.pe/img/fbPic507.png'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track7.mp3'
+track7_title: Rainbow Kitten Surprise - Polite Company
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
@@ -65,9 +67,9 @@ what if the shadow is really the shade
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
 ## Soren Song - That Furious Rain
-Sarah: **"**The opening track of Sofie Royer's latest album, [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin). Loved her club releases ([Leave](https://www.youtube.com/watch?v=yLFMfc2QGKE), [Melody](https://www.youtube.com/watch?v=n2NYBA4MfY0), [Cheerleader](https://www.youtube.com/watch?v=hsh4so-DjqM)) and her recent [feature on Toro y Moi's MAHAL](https://www.youtube.com/watch?v=vniX7UCBlNI). This album and the last present a completely different side of Royer, with old boogie grooves and silky vocals to match. [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin) is worth a listen through this week, be sure to look out for tracks Ballad of Bobby Beausoleil and Someone is smoking (my favorites).**"**
+Sarah: **"**Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). **"**
 
 ## [JayWood](https://jaywood1.bandcamp.com/album/slingshot) - Shine (feat Mckinley Dixon)
-Sarah: **"**The bass and 80's synths -- not sure if it gets better than this? JayWood's album [Slingshot](https://jaywood1.bandcamp.com/album/slingshot) is such an energizing listen, with tracks like [Pray, Move On](https://jaywood1.bandcamp.com/track/pray-move-on), [Just Sayin](https://www.youtube.com/watch?v=F6oLGwBNuyg), and [God is a Reptile](JayWood - God Is A Reptile (Official Video) - YouTube) joining some of the week's essential playlist additions. Basically all of them, the whole album, just listen to it the whole way through and bring your week from a 7/10 to a 10/10 guaranteed. Love the momentum in this track in particular, Jaywood is doing striking work in [the music video](https://www.youtube.com/watch?v=PMh8jR3L1MU), bringing an artistic perspective to police violence and activism; highlighting such power in his lyrics. Looking forward to what's next from him!**"**
+Sarah: **"**This track means so much to me, it's been like an old friend for years. **"**
 
 <p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Baby Chuck for their delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
