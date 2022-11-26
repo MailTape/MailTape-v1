@@ -30,7 +30,7 @@ guestPic: guestPic507.jpg
 episode_URL: 'http://mailta.pe/507/Soren-Song/'
 image: 'https://mailta.pe/img/fbPic507.png'
 ---
-<p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with raw emotional conviction and visceral compositions that leave hearts bleeding.
+<p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and such perceptive lyricism. 
   <br><br>
 The album's songs feature four other musicians, with all tracks produced by Ryan Pollie. Several of the numbers are shrouded in a 70's AM Radio effect, placed wonderfully for the subject matter of increasingly hazy memories. Consequently, listening through the album feels like getting lost in a dream, suspended in time. As Baby Chuck explains, the album's deliberate delving into reverie feels necessary, not only to purge any lingering thorns, but to ground our perspective for the days ahead.</p>
 
@@ -48,7 +48,7 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 # MailTape's selection
 
 ## Soren Song - Gentle Man
-Sarah: **"**If you have any questions just don't ask them out loud 
+Sarah: **"**One of the most striking songs off of Soren Song's soon to be released concept album, --. If you have any questions just don't ask them out loud 
 examining gentleness, esp of man - taking what they want and what they can 
 reinventing mythology of self
 beautiful piano 
