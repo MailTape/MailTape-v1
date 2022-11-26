@@ -38,7 +38,7 @@ description: >-
   deeply perceptive lyricism. It's a true joy to welcome them for a collection
   of tracks to start your Sunday.
 ---
-<p id="introduction"> With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
+<p id="introduction"> With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Woodstock, NY, their work is tinged with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
 They join us ahead of the release of their concept album, [I'm](https://www.sorensong.com/about). This work arose from what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they describe it, trauma has the potential to break people open and creative people create from such chaos. 
   <br><br>
