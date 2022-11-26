@@ -63,7 +63,7 @@ Sarah: **"**"What if the shadow is really the shade?" One of my favorite songs o
 ## Adelyn Rose - Gone for Anything
 Sarah: **"**Really enjoying this 2020 album from Adelyn Rose, entitled [Any Way](https://adelynrose.bandcamp.com/album/any-way). This song in particular has such layered softness, and the celestial vocal harmonies work so well against the horn and flute sections that waver and weave around the track's end.**"**
 
-## Soren Song - That Furious Rain
+## [Soren Song](https://www.sorensong.com/about) - That Furious Rain
 Sarah: **"**Once again, I'm in love with Soren's tender lyricism and the vulnerability shrouding it, especially the verses on selfishness and desire. Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). Originally part of Soren's [Only Always](https://sorensong.bandcamp.com/album/only-always-2) (2006 album) sessions, [That Furious Rain](https://sorensong.bandcamp.com/track/that-furious-rain-2) was finished for the [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit) collection in collaboration with famed producer Danny Blume.**"**
 
 ## [Rainbow Kitten Surprise](https://www.rksband.com/) - Polite Company
