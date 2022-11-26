@@ -70,6 +70,6 @@ Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic ro
 Sarah: **"**Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). **"**
 
 ## [JayWood](https://jaywood1.bandcamp.com/album/slingshot) - Polite Company
-Sarah: **"**This track means so much to me, it's been like an old friend for years. It's so brutally tender, the softness of the track feels like a scream.**"**
+Sarah: **"**I like how the piano from That Furious Rain flows into the piano of this one. The glory of the endless playlist :) This track has been like an old friend for years. It's so brutally tender, the softness of the track feels like a scream.**"**
 
 <p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Baby Chuck for their delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
