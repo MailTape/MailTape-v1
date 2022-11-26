@@ -42,7 +42,7 @@ description: >-
   <br><br>
 Soren Song joins us ahead of the release of their concept album, [I'm](https://www.sorensong.com/about). This work arose from what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they reflect on it, trauma has the potential to break people open and the creative ones create from such chaos. 
   <br><br>
-  The release aims to rewrite Soren's understanding and the existing imagery of their own core personal mythology. As they explain, many of the stories we are told and carry on to tell ourselves frame the worlds that we live in, a reality that can be especially damaging when these stories are flawed or false in some way. This album aims to "fix" the stories Soren was told and to write a better story. Consequently, the work is a deeply tender and intimate collection of songs that seek to find truth and construct a new scaffolding of stories.</p>
+  The release aims to rewrite Soren's understanding and the existing imagery of their own core personal mythology. As they explain, many of the stories we are told, and carry on to tell ourselves, frame the worlds that we live in; a reality that can be especially damaging when these stories are flawed or false in some way. This album aims to "fix" the stories Soren was told and to write a better story. Consequently, the work is a deeply tender and intimate collection of songs that seek to find truth and construct a new scaffolding of stories.</p>
 
 # Soren Song's selection
 
