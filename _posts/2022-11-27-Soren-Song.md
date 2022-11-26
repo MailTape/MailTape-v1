@@ -50,7 +50,7 @@ beautiful piano
 what if the shadow is really the shade
 **"**
 
-## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
+## Adelyn Rose - Gone for Anything
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
 ## Soren Song - That Furious Rain
