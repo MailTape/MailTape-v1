@@ -64,12 +64,12 @@ what if the shadow is really the shade
 **"**
 
 ## Adelyn Rose - Gone for Anything
-Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
+Sarah: **"**Really enjoying this album from Adelyn Rose, entitled [Any Way](https://adelynrose.bandcamp.com/album/any-way). This song in particular has such layered softness, and the celestial vocal harmonies work so well with the horn and flute sections that waver and weave around the track's end.**"**
 
 ## Soren Song - That Furious Rain
 Sarah: **"**Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). **"**
 
-## Rainbow Kitten Surprise - Polite Company
-Sarah: **"**I like how the piano from That Furious Rain flows into the piano of this one -- the glory of the endless playlist :) This track has been like an old friend for years and it's my favorite from the RKS collection. The lyrics are so brutally tender, making the softness of the vocals land somewhat like a scream. The unrefined roughness in the production process also seems deliberate given the rest of How to: Friend, Love, Freefall's meticulous mastering. I like how you have to really listen in to the track to understand the lyrics, maybe some things are too intimate to say your full chest, even if it's in a song.**"**
+## [Rainbow Kitten Surprise](https://www.rksband.com/) - Polite Company
+Sarah: **"**I like how the piano from That Furious Rain floats into the piano of this one -- the glory of the endless playlist :) This track has been like an old friend for years and it's my favorite from the RKS collection. The lyrics are so brutally tender, making the softness of the vocals land somewhat like a scream. The unrefined roughness in the production process also seems deliberate given the rest of [How to: Friend, Love, Freefall](https://www.studlife.com/cadenza/2018/04/16/how-to-friend-love-freefall-and-the-constant-of-change-in-rainbow-kitten-surprise/)'s meticulous mastering. I like how you have to really listen in to the track to understand the lyrics, maybe some things are too intimate to say your full chest, even if it's in a song.**"**
 
 <p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Soren Song for their delightful Sunday discoveries, and a million thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's wonderful illustration!</p>
