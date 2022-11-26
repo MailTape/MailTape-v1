@@ -60,7 +60,7 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 ## [Soren Song](https://www.sorensong.com/) - Gentle Man
 Sarah: **"**"What if the shadow is really the shade?" One of my favorite songs off of Soren Song's soon to be released concept album, [I'm](https://www.sorensong.com/about). [Gentle Man](https://youtu.be/RnP39jL_j_8) was also the first track of Soren's I found :) Their voice is so powerful and full in this release, cut live to tape along with the studio's absolutely mellifluent Steinway D concert grand piano. (A nod must be given to the [music video](https://www.youtube.com/watch?v=RnP39jL_j_8), juxtaposing this studio grandeur with such creativity). We see Soren's album mission at work in this track, making sense of both brokenness and beauty in their own mythology. The lyrics depict a process of reconciling -- of pain and of love in their life. As Soren distinguishes, this is not an act of justifying the chaos they experienced, but is a reclamation of their self from its aftermath. The album's existence itself is a testament to Soren's perseverance, a redemption story but also a glaring _despite everything_.**"**
 
-## Adelyn Rose - Gone for Anything
+## [Adelyn Rose](https://adelynrose.bandcamp.com/album/any-way) - Gone for Anything
 Sarah: **"**Really enjoying this 2020 album from Adelyn Rose, entitled [Any Way](https://adelynrose.bandcamp.com/album/any-way). This song in particular has such layered softness, and the celestial vocal harmonies work so well against the horn and flute sections that waver and weave around the track's end.**"**
 
 ## [Soren Song](https://www.sorensong.com/about) - That Furious Rain
