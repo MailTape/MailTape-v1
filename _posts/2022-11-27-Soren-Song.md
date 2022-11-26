@@ -34,9 +34,9 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track7.mp3'
 track7_title: Rainbow Kitten Surprise - Polite Company
 description: >-
   With lots of love, this morning we welcome Soren Song to MailTape. Based in
-  Woodstock, NY, their work is tinged with striking emotional conviction and
-  deeply perceptive lyricism. It's a true joy to welcome them for a collection
-  of tracks to start your Sunday.
+  Woodstock, NY, their work is brimming with striking descriptions and deeply
+  perceptive lyricism. It's a true joy to welcome them for a collection of
+  tracks to start your Sunday.
 ---
 <p id="introduction"> With lots of love, this morning we welcome [Soren Song](https://www.sorensong.com/) to MailTape. Based in Woodstock, NY, their work is brimming with striking descriptions and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
