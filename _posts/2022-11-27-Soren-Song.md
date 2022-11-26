@@ -22,18 +22,7 @@ track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track3.mp3'
 track5_color: dreamy
 track6_color: bliss
 track7_color: trippy
-guestPic: ''
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track5_title: ''
-track6_title: ''
-track7_title: ''
-episode_URL: ''
-image: ''
-musiColor: ''
-description: ''
+track6_title: Soren Song - That Furious Rain
 ---
 <p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with raw emotional conviction and visceral compositions that leave hearts bleeding.
   <br><br>
@@ -64,7 +53,7 @@ what if the shadow is really the shade
 ## [Nice Biscuit](https://nicebiscuit.bandcamp.com/) - Round and Round
 Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic rock/folk band, this one comes off their 2021 album [Passing Over](https://nicebiscuit.bandcamp.com/album/passing-over). The effect of this track is dizzying, love the intermeshed vocals and these the balance of rock and acoustic elements.**"**
 
-## [Sofie Royer](https://www.instagram.com/sofieroyer/?hl=en) - Schweden Espresso
+## Soren Song - That Furious Rain
 Sarah: **"**The opening track of Sofie Royer's latest album, [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin). Loved her club releases ([Leave](https://www.youtube.com/watch?v=yLFMfc2QGKE), [Melody](https://www.youtube.com/watch?v=n2NYBA4MfY0), [Cheerleader](https://www.youtube.com/watch?v=hsh4so-DjqM)) and her recent [feature on Toro y Moi's MAHAL](https://www.youtube.com/watch?v=vniX7UCBlNI). This album and the last present a completely different side of Royer, with old boogie grooves and silky vocals to match. [Harlequin](https://sofieroyer.bandcamp.com/album/harlequin) is worth a listen through this week, be sure to look out for tracks Ballad of Bobby Beausoleil and Someone is smoking (my favorites).**"**
 
 ## [JayWood](https://jaywood1.bandcamp.com/album/slingshot) - Shine (feat Mckinley Dixon)
