@@ -31,9 +31,11 @@ episode_URL: 'http://mailta.pe/507/Soren-Song/'
 image: 'https://mailta.pe/img/fbPic507.png'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track4.mp3'
 ---
-<p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. 
+<p id="introduction"> With lots of love, this morning we welcome Soren Song to MailTape. Based in Woodstock, NY, their work is tinged with striking emotional conviction and deeply perceptive lyricism. It's a true joy to welcome them for a collection of tracks to start your Sunday.
   <br><br>
-They join us this morning ahead of the release of their concept album, I'm.</p>
+They join us ahead of the release of their concept album, I'm. This work came out of what Soren describes as a moment of crisis that was at once an emotional breakdown and also a spiritual awakening. As they describe it, trauma has the potential to break people open and creative people create from such chaos. 
+  <br><br>
+  The release aims to rewrite Soren's understanding and imagery of their own core personal mythology. As they explain, many of the stories we are told and carry on to tell ourselves frame the worlds we live in, a reality that can be especially damaging when these stories are flawed or false in some way. This album aims to "fix" the stories Soren was told and to write a better story. Consequently, the work is a deeply tender and intimate collection of songs that seek to find truth and construct a new scaffolding of stories.</p>
 
 # Soren Song's selection
 
