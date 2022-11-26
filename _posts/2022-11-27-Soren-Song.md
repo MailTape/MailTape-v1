@@ -53,15 +53,7 @@ Soren Song: **"**The Beatles - I know. For me, it was a different journey that g
 # MailTape's selection
 
 ## Soren Song - Gentle Man
-Sarah: **"**One of my favorite songs off of Soren Song's soon to be released concept album, I'm. Gentle Man was also the first track of Soren's I found :) Their voice is so powerful and full in this song, cut live to tape along with the studio's absolutely mellifluent Steinway D concert grand piano (a nod must be given to the [music video](https://www.youtube.com/watch?v=RnP39jL_j_8), which juxtaposes this studio grandeur wonderfully). 
-
-If you have any questions just don't ask them out loud 
-examining gentleness, esp of man - taking what they want and what they can 
-reinventing mythology of self
-beautiful piano 
-	funny juxtaposition in the video -- 
-what if the shadow is really the shade
-**"**
+Sarah: **"**One of my favorite songs off of Soren Song's soon to be released concept album, I'm. Gentle Man was also the first track of Soren's I found :) Their voice is so powerful and full in this song, cut live to tape along with the studio's absolutely mellifluent Steinway D concert grand piano. (A nod must be given to the [music video](https://www.youtube.com/watch?v=RnP39jL_j_8), juxtaposing this studio grandeur with such creativity). We see Soren's album mission at work in this track, making sense of both brokenness and beauty in their own mythology. We see a process of reconciling -- of pain and of love in their life. As Soren distinguishes, this is not an act of justifying the chaos they experienced, but is a reclamation of their self from its aftermath. The album's existence itself is a testament to Soren's perserverance, a redemmption story but also a glaring _despite everything_.**"**
 
 ## Adelyn Rose - Gone for Anything
 Sarah: **"**Really enjoying this album from Adelyn Rose, entitled [Any Way](https://adelynrose.bandcamp.com/album/any-way). This song in particular has such layered softness, and the celestial vocal harmonies work so well with the horn and flute sections that waver and weave around the track's end.**"**
