@@ -69,7 +69,7 @@ Sarah: **"**Really enjoying the releases from this Brisbane-based psychedelic ro
 ## Soren Song - That Furious Rain
 Sarah: **"**Another beautiful track of Soren's, this one the second to last track on their 2019 album, [Boundaries](https://sorensong.bandcamp.com/album/boundaries-explicit). **"**
 
-## [JayWood](https://jaywood1.bandcamp.com/album/slingshot) - Polite Company
-Sarah: **"**I like how the piano from That Furious Rain flows into the piano of this one. The glory of the endless playlist :) This track has been like an old friend for years. It's so brutally tender, the softness of the track feels like a scream.**"**
+## Rainbow Kitten Surprise - Polite Company
+Sarah: **"**I like how the piano from That Furious Rain flows into the piano of this one -- the glory of the endless playlist :) This track has been like an old friend for years and it's my favorite from the RKS collection. The lyrics are so brutally tender, making the softness of the vocals somehow feel like a scream. The unrefined roughness in the production process also seems deliberate given the rest of How to: Friend, Love, Freefall's meticulous mastering. I like how you have to really listen for the lyrics to understand the song, maybe some things are too intimate to say your full chest.**"**
 
 <p id="outroduction">That wraps up this morning's selection, what a journey it's been! As always, thank you for joining us. Our love to Baby Chuck for their delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
