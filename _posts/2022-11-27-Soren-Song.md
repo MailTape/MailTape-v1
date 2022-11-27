@@ -14,7 +14,7 @@ author: Sarah
 writer: Sarah
 track3_title: The Beatles - A Day In The Life
 track3_color: trippy
-track4_title: Soren Song - A Gentle Man
+track4_title: Soren Song - Gentle Man
 track4_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/507/track2.mp3'
