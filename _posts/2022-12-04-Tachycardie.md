@@ -15,6 +15,9 @@ track2_color: trippy
 track1_title: 'Able Noise - '
 track4_title: 'Tachycardie - '
 track1_color: dreamy
+episode_URL: 'http://mailta.pe/508/tachycardie/'
+image: 'https://mailta.pe/img/fbPic508.png'
+musiColor: musiColor508.png
 ---
 ## A New Post
 
