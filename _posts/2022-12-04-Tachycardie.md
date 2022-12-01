@@ -18,6 +18,22 @@ track1_color: dreamy
 episode_URL: 'http://mailta.pe/508/tachycardie/'
 image: 'https://mailta.pe/img/fbPic508.png'
 musiColor: musiColor508.png
+track4_color: trippy
+track5_title: 'Chassol - '
+track5_color: dreamy
+track6_title: Danse Musique Rhône Alpes
+track6_color: rough
+track7_title: Loya
+track7_color: trippy
+guest_color: ''
+track1_link: ''
+track2_link: ''
+track3_link: ''
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+description: ''
 ---
 ## A New Post
 
