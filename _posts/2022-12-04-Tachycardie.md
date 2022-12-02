@@ -50,10 +50,10 @@ I'd advise anyone to listen to any of the song this band composed.**"**
 Anaïs G: **"**Exploration musicale, sonorités destructurées, Tachycardie veut nous faire penser la musique autrement. Comme un art vibratoire en utilisant des instruments ou des matières mais aussi en nous proposons une vision libre, un autre format d'album sous le nom de "Nouvelles et Anciennes Pratiques de Cartographies Amateurs", avec plusieurs pièces proposé comme une sorte de "cinéma pour les oreilles". Nous sommes traverser par plusieurs émotions à la fois avant de comprendre le concept de ce musicien.**"**
 
 ## Chassol - Pipornithology Pt1
-Anaïs G: **"** **"**
+Anaïs G: **"**Chassol alias , fait partie de mes incontournables. Que ce pianiste soit en solo ou accompagné d'autres chanteurs ou chanteuses comme par exemple Bonnie Banane, il est juste dans la manière dont il traite la musique et le son, touchant là où il faut, avec cette subtilité et cette sensualité, nous entrainant ainsi dans son monde. Dans l'album "Big Sun" j'ai toujours eu une préférence pour le titre "Bird, Pt.1", avec ces bruits d'oiseaux, tellement légers, naturels et beaux. Mais cette fois-ci en colant au plus près de la musique proposée par Tachycardie j'ai voulu montré un coté de lui encore plus décalé et de plus fou avec le titre "Pipornithology, Pt.1".**"**
 
-##  Danse Musique Rhone Alpes - Potion Trouble
-Anaïs G: **"** **"**
+##  Danse Musique Rhône-Alpes - Potion Trouble
+Anaïs G: **"**Déformer la musique, afin d'avoir un aspect brut et d'en ressentir les plus simples émotions. C'est un peu ce l'on ressent en écoutant ce titre "Potion Trouble". Répétitif dans les rythmiques mais à la fois hypnotisant, je vous conseille aussi d'aller écouté son premier album sorti "Shit Forest" fin 2020 avec notement le titre "Spiritisme et Nouvelles Thecnologies" **"**
 
 ## Loya - Zenfant
 Anaïs G: **"** **"**
