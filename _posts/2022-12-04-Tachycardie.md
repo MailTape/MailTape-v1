@@ -46,17 +46,17 @@ I'd advise anyone to listen to any of the song this band composed.**"**
  
 # MailTape's selection
 
+## 
+Anaïs G: **"** **"**
+
 ## Chassol - Pipornithology Pt1
 Anaïs G: **"** **"**
 
-##  - 
+##  Danse Musique Rhone Alpes - Potion Trouble
 Anaïs G: **"** **"**
 
-##  - 
+## Loya - 
 Anaïs G: **"** **"**
 
-##  - 
-Anaïs G: **"** **"**
-
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Spelterini](https://store.kythibong.org/album/par-idolie) these thoughtful Sunday selections, and many thanks to Lucie Fléty for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Tachycardie these thoughtful Sunday selections, and many thanks to Julie for this episode's stunning illustration !</p>
 
