@@ -19,9 +19,9 @@ episode_URL: 'http://mailta.pe/508/tachycardie/'
 image: 'https://mailta.pe/img/fbPic508.png'
 musiColor: musiColor508.png
 track4_color: trippy
-track5_title: 'Chassol - '
+track5_title: Chassol - Pipournithology Pt1
 track5_color: dreamy
-track6_title: Danse Musique Rhône Alpes
+track6_title: Danse Musique Rhône Alpes - Potion Trouble
 track6_color: rough
 track7_title: Loya
 track7_color: trippy
