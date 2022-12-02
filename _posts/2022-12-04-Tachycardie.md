@@ -23,7 +23,7 @@ track5_title: Chassol - Pipournithology Pt1
 track5_color: dreamy
 track6_title: Danse Musique Rhône Alpes - Potion Trouble
 track6_color: rough
-track7_title: Loya
+track7_title: Loya - Zenfant
 track7_color: trippy
 ---
 <p id="introduction"> 
