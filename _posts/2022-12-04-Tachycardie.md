@@ -69,5 +69,4 @@ Anaïs G: **"**Distort the music, in order to have a raw look and feel the simpl
 ## [Loya](https://loyamusic.bandcamp.com/) - Zenfant
 Anaïs G: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “[Corail](https://loyamusic.bandcamp.com/album/corail)” transcends us and touches us in the depths of us!**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tachycardie](https://tachycardie1.bandcamp.com/) these thoughtful Sunday selections, and many thanks to Julie for this episode's stunning illustration !</p>
-
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tachycardie](https://tachycardie1.bandcamp.com/) these thoughtful Sunday selections, and many thanks to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for this episode's stunning illustration !</p>
