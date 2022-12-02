@@ -40,8 +40,7 @@ Tachycardie: **"**I got this record from Alex, who plays drums in this awesome b
 Tachycardie: **"**I got this record from Alex, who plays drums in this awesome band. He invited me to be part of  his great festival "Onze Ambassade" in The Hague, and I was amazed by all the bands I saw and heard there, so I was quite sure that his band would sound awesome.True fact, it does. A really well balanced combination of vocal melodies, repetitive and simple forms of drums/guitar parts, and a perfect use of tape recorder manipulations, to bring a brilliant lo-fi measure to this wonderfull and coherent record, from start to end.I still don't know when it's best to listen to this band, probably all the time.**"**
 
 ## Omnie - Courtesy Call
-Tachycardie: **"**Rock essential oil. Nothing to add to these three words. These good poeple know exactly how to write a song. Everything is in its place, making this composition as well structured as a pineau d'aunis wine combined with a nicely refined  goat cheese on a freshely made bread. Everything here is a must, from the sound of the snare, to the choice of melodies, the use of cymbals, the vocals, lyrics, production, album cover...
-I'd advise anyone to listen to any of the song this band composed.**"**
+Tachycardie: **"**Rock essential oil. Nothing to add to these three words. These good poeple know exactly how to write a song. Everything is in its place, making this composition as well structured as a pineau d'aunis wine combined with a nicely refined  goat cheese on a freshely made bread. Everything here is a must, from the sound of the snare, to the choice of melodies, the use of cymbals, the vocals, lyrics, production, album cover... I'd advise anyone to listen to any of the song this band composed.**"**
 
  
 # MailTape's selection
@@ -53,7 +52,7 @@ Anaïs G: **"**Musical exploration, unstructured sounds, Tachycardie wants us to
 Anaïs G: **"**Chassol is one of my must-haves. Whether this pianist is solo or accompanied by other singers such as Bonnie Banane, he is right in the way he treats music and sound, touching where it is needed, with that subtlety and sensuality, thus leading us into his world. In the album “Big Sun” I always had a preference for the title “Bird, Pt. 1”, with those sounds of birds, so light, natural and beautiful. But this time by sticking closer to the music offered by Tachycardie I wanted to show a side of him even more offbeat and crazy with the title “Pipornithology, Pt. 1.”**"**
 
 ##  Danse Musique Rhône-Alpes - Potion Trouble
-Anaïs G: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “Spiritismes et Nouvelles Technologies”**"**
+Anaïs G: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “Spiritismes et Nouvelles Technologies”.**"**
 
 ## Loya - Zenfant
 Anaïs G: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “Corail” transcends us and touches us in the depths of us!**"**
