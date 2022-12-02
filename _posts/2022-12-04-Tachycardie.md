@@ -46,8 +46,8 @@ I'd advise anyone to listen to any of the song this band composed.**"**
  
 # MailTape's selection
 
-## 
-Anaïs G: **"** **"**
+## Tachycardie - Pratiques IV & V
+Anaïs G: **"**Exploration musicale, sonorités destructurées, Tachycardie veut nous faire penser la musique autrement. Comme un art vibratoire en utilisant des instruments ou des matières mais aussi en nous proposons une vision libre, un autre format d'album sous le nom de "Nouvelles et Anciennes Pratiques de Cartographies Amateurs", avec plusieurs pièces proposé comme une sorte de "cinéma pour les oreilles". Nous sommes traverser par plusieurs émotions à la fois avant de comprendre le concept de ce musicien.**"**
 
 ## Chassol - Pipornithology Pt1
 Anaïs G: **"** **"**
@@ -55,7 +55,7 @@ Anaïs G: **"** **"**
 ##  Danse Musique Rhone Alpes - Potion Trouble
 Anaïs G: **"** **"**
 
-## Loya - 
+## Loya - Zenfant
 Anaïs G: **"** **"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Tachycardie these thoughtful Sunday selections, and many thanks to Julie for this episode's stunning illustration !</p>
