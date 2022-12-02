@@ -53,10 +53,10 @@ Anaïs G: **"**Musical exploration, unstructured sounds, Tachycardie wants us to
 Anaïs G: **"**Chassol is one of my must-haves. Whether this pianist is solo or accompanied by other singers such as Bonnie Banane, he is right in the way he treats music and sound, touching where it is needed, with that subtlety and sensuality, thus leading us into his world. In the album “Big Sun” I always had a preference for the title “Bird, Pt. 1”, with those sounds of birds, so light, natural and beautiful. But this time by sticking closer to the music offered by Tachycardie I wanted to show a side of him even more offbeat and crazy with the title “Pipornithology, Pt. 1.”**"**
 
 ##  Danse Musique Rhône-Alpes - Potion Trouble
-Anaïs G: **"**Déformer la musique, afin d'avoir un aspect brut et d'en ressentir les plus simples émotions. C'est un peu ce l'on ressent en écoutant ce titre "Potion Trouble". Répétitif dans les rythmiques mais à la fois hypnotisant, je vous conseille aussi d'aller écouté son premier album sorti "Shit Forest" fin 2020 avec notement le titre "Spiritisme et Nouvelles Thecnologies" **"**
+Anaïs G: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “Spiritismes et Nouvelles Technologies”**"**
 
 ## Loya - Zenfant
-Anaïs G: **"**Pour finir cette playlist audacieuse, il me semblait logique de proposer Loya. Ce réunionais d'origine, nous propose une musique influencé par sa culture en mélangeant l'électro au maloya. "Zenfant", un des titres issus de l'album "Corail" nous transcende et nous touche au plus profond de nous!**"**
+Anaïs G: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “Corail” transcends us and touches us in the depths of us!**"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to Tachycardie these thoughtful Sunday selections, and many thanks to Julie for this episode's stunning illustration !</p>
 
