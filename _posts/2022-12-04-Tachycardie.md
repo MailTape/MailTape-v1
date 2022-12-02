@@ -47,7 +47,7 @@ I'd advise anyone to listen to any of the song this band composed.**"**
 # MailTape's selection
 
 ## Tachycardie - Pratiques IV & V
-Anaïs G: **"**Musical exploration, unstructured sounds, Tachycardie wants us to think about music differently. As a vibratory art using instruments or materials but also in we offer a free vision, another album format under the name of “ ”, with several pieces proposed as a kind of “cinema for the ears. ” We are going through several emotions at once before we understand the concept of this musician.**"**
+Anaïs G: **"**Musical exploration, unstructured sounds, Tachycardie wants us to think about music differently. As a vibratory art using instruments or materials but also in we offer a free vision, another album format under the name of “Nouvelles et Anciennes Pratiques de Cartographie Amateure”, with several pieces proposed as a kind of “cinema for the ears. ” We are going through several emotions at once before we understand the concept of this musician.**"**
 
 ## Chassol - Pipornithology Pt1
 Anaïs G: **"**Chassol is one of my must-haves. Whether this pianist is solo or accompanied by other singers such as Bonnie Banane, he is right in the way he treats music and sound, touching where it is needed, with that subtlety and sensuality, thus leading us into his world. In the album “Big Sun” I always had a preference for the title “Bird, Pt. 1”, with those sounds of birds, so light, natural and beautiful. But this time by sticking closer to the music offered by Tachycardie I wanted to show a side of him even more offbeat and crazy with the title “Pipornithology, Pt. 1.”**"**
