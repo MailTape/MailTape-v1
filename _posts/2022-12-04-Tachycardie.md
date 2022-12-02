@@ -26,9 +26,9 @@ track6_color: rough
 track7_title: Loya - Zenfant
 track7_color: trippy
 ---
-<p id="introduction"> Ce matin, on explore, on dématérialise, on déstructure la musique. On la malmène pour trouver l'inspiration, on la sature à son maximum, on cherche l'inconnu, l'étonnant, le choquant, le deconsternant pour toucher. C'est ce que Tachycardie nous propose à travers cette playlist.
+<p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
-A travers son EP ""Nouvelles et Anciennes Pratiques de Cartographies Amateurs", Tachycardie nous propose c'est une =autre expérience, une autre manière de voir et de consommer la musique. Il n'y a que vous qui puisse juger de celle-ci car c'est une aventure à elle seule. Cela en vaut le détour ! 
+Through his EP “Nouvelles et Anciennes Pratiques de Cartographies Amateurs”, Tachycardie offers us a different experience, a different way of seeing and consuming music. Only you can judge this one because it is an adventure in itself. It’s worth a visit!
 </p>
 
 # Tachycardie's selection
