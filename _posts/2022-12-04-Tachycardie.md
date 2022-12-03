@@ -38,7 +38,6 @@ description: >-
   unknown, the astonishing, the shocking, the disconcerting in order to touch.
   This is what Tachycardie offers us through this playlist.
 ---
-![guestPic508.jpg]({{site.baseurl}}/img/guestPic508.jpg)
 <p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
 Through his EP “[Nouvelles et Anciennes Pratiques de Cartographie Amateure](https://tachycardie1.bandcamp.com/album/nouvelles-et-anciennes-pratiques-de-cartographie-amateure)”, Tachycardie offers us a different experience, a different way of seeing and consuming music. Only you can judge this one because it is an adventure in itself. It’s worth a visit!
