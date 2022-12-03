@@ -13,15 +13,15 @@ track3_color: bliss
 track2_title: Marina Rosenfeld - Fuji Tonic
 track2_color: trippy
 track1_title: Able Noise - Side A
-track4_title: 'Tachycardie - '
+track4_title: Tachycardie - Pratiques IV & V
 track1_color: dreamy
 episode_URL: 'http://mailta.pe/508/tachycardie/'
 image: 'https://mailta.pe/img/fbPic508.png'
 musiColor: musiColor508.png
 track4_color: trippy
-track5_title: Chassol - Pipournithology Pt1
+track5_title: 'Chassol - Pipornithology, Pt.1'
 track5_color: dreamy
-track6_title: Danse Musique Rhône Alpes - Potion Trouble
+track6_title: Danse Musique Rhône-Alpes - Potion Trouble
 track6_color: rough
 track7_title: Loya - Zenfant
 track7_color: trippy
