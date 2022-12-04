@@ -8,6 +8,7 @@ writer: Anaïs G
 category: '508'
 guest_name: Tachycardie
 guestPic: guestPic508.jpg
+guest_color: trippy
 track3_title: Omni - Courtesy Call
 track3_color: bliss
 track2_title: Marina Rosenfeld - Fuji Tonic
