@@ -8,7 +8,7 @@ writer: ImaCrea
 category: '509'
 guest_name: Minuit Machine
 guest_color: rough
-guestPic: guestPic509.jpg
+guestPic: guestPic509.png
 track1_title: Doppelhandel - Billy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/509/track1.mp3'
 track1_color: rough
