@@ -31,11 +31,11 @@ track7_title: Dawuna - Baby Boy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/509/track7.mp3'
 track7_color: trippy
 episode_URL: 'http://mailta.pe/503/Baby-Chuck/'
-description: XXX
-musiColor: musiColor503.png
-image: 'https://mailta.pe/img/fbPic503.jpg'
+description: This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
+musiColor: musiColor509.png
+image: 'https://mailta.pe/img/fbPic509.png'
 ---
-<p id="introduction"> XXX
+<p id="introduction">This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
 </p>
 
 # Minuit Machine's selection
@@ -53,15 +53,15 @@ Minuit Machine: **"**We toured in North America with this artist in October and 
 # MailTape's selection
 
 ## [Minuit Machine](https://minuitmachine.bandcamp.com/) - Contradictions
-ImaCrea: **"**..**"**
+ImaCrea: **"**Techno is cathartic music by essence. And Minuit Machine masters that magic. Dark synth wave with rage outside and warm fragility inside. Their music is a subtle walk on a thin ridge looking for *the* subliminal balance. We're made of contradictions, better accept it.**"**
 
 ## [Fever Ray](https://feverray.bandcamp.com/album/radical-romantics) - Carbon Dioxide
-ImaCrea: **"**..**"**
+ImaCrea: **"**This voice. This voice. This voice !! I love Fever Ray's music so much. There's something instinctive and raw I can't describe clearly but her music always exhorts me to dance wildly. Can't tell how much I was happy to see she just released new tracks. And this one is a banger of course!**"**
 
 ## [Flèche Love](https://flechelove.bandcamp.com/album/naga-part-2) - Mitote
-ImaCrea: **"**..**"**
+ImaCrea: **"**Explosion. Implosion. Exhale. Inhale. Grandios musica! Merci Caro pour la découverte (!).**"**
 
 ## [Dawuna](https://dawuna.bandcamp.com/) - Baby Boy
-ImaCrea: **"**..**"**
+ImaCrea: **"**Love the deeply introspective atmosphere here. Unrolling as a spiral, this track rotates in my head while it digs up fictitious souvenirs of a dreamed past. As I walk and I look at the past, I see there's not only one story, one angle. As I keep walking and moving in the present towards some future, the past keeps changing also. *"L'homme est mouvement vers le monde et son semblable"*, Frantz Fanon.**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Minuit Machine](https://Minuit Machine1.bandcamp.com/) these thoughtful Sunday selections, and many thanks to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! It's been 11 years (!). Much love to [Minuit Machine](https://minuitmachine.bandcamp.com/), and many thanks to [Noémie Dijon](https://noemiedijon.tumblr.com/) for her neon illustration!</p>
