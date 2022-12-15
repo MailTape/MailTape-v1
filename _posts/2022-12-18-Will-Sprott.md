@@ -16,7 +16,7 @@ Will Sprott: **"**This song has been one of my favorites for years. It starts ou
 ## [Shana Cleveland](https://www.marinarosenfeld.com/) - Invisible When the Sun Leaves
 Will Sprott: **"**Shana Cleveland is one of the greatest songwriters ever. She oozes creativity. I know because we live in the same house & I watch the songs pour out of her day after day. This song about night time descending over the earth captures a feeling that I love.**"**
 
-## [Bye Bye](https://omniatl.bandcamp.com/album/networker) - Sun Ra
+## [Sun Ra](https://omniatl.bandcamp.com/album/networker) - Bye Bye
 Will Sprott: **"**Sun Ra has so many good records that you can put on & let your thoughts drift around in. I like the early doo-wop recordings he made. There is a lot of eerie, unearthly doo-wop music out there but his is extra strange because he’s Sun Ra & he’s from space.**"**
 
  
