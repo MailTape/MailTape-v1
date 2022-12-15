@@ -2,6 +2,9 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+track1_title: Pearls Before Swine - Sail Away
+track2_title: Shana Cleveland - Invisible When the Sun Leaves
+track3_title: Sun Ra - Bye Bye
 ---
 <p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
