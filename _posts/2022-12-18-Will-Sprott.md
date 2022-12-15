@@ -10,14 +10,14 @@ Through his EP “[Nouvelles et Anciennes Pratiques de Cartographie Amateure](ht
 
 # Tachycardie's selection
 
-## [Able Noise](https://ablenoise.bandcamp.com/releases) - Side A
-Tachycardie: **"**I got this record from Alex, who plays drums in this awesome band. He invited me to be part of  his great festival "Onze Ambassade" in The Hague, and I was amazed by all the bands I saw and heard there, so I was quite sure that his band would sound awesome. True fact, it does. A really well balanced combination of vocal melodies, repetitive and simple forms of drums/guitar parts, and a perfect use of tape recorder manipulations, to bring a brilliant lo-fi measure to this wonderfull and coherent record, from start to end.I still don't know when it's best to listen to this band, probably all the time.**"**
+## [Pearls Before Swine](https://ablenoise.bandcamp.com/releases) - Sail Away
+Will Sprott: **"**This song has been one of my favorites for years. It starts out so raw with the voice loud & clear & grows into this lush universe of swirling harp & psychedelic guitar & then see-saws back & forth, gaining & losing momentum. It has beautiful lyrics too.**"**
 
-## [Marina Rosenfeld](https://www.marinarosenfeld.com/) - Fuji Tonic
-Tachycardie: **"**New-York turntable experimentist pionneer Marina Rosenfeld brings a special gift for my ears with this track. These erratic sounds are like drugs to my brains. Async events are happening and evolving, stopping, comming back in another shape, in what looks like a random construction. But  finding a path in here is much more simple that it seems, and doesn't need a GPS. Definitely a too short track.**"**
+## [Shana Cleveland](https://www.marinarosenfeld.com/) - Invisible When the Sun Leaves
+Will Sprott: **"**Shana Cleveland is one of the greatest songwriters ever. She oozes creativity. I know because we live in the same house & I watch the songs pour out of her day after day. This song about night time descending over the earth captures a feeling that I love.**"**
 
-## [Omni](https://omniatl.bandcamp.com/album/networker) - Courtesy Call
-Tachycardie: **"**Rock essential oil. Nothing to add to these three words. These good poeple know exactly how to write a song. Everything is in its place, making this composition as well structured as a pineau d'aunis wine combined with a nicely refined  goat cheese on a freshely made bread. Everything here is a must, from the sound of the snare, to the choice of melodies, the use of cymbals, the vocals, lyrics, production, album cover... I'd advise anyone to listen to any of the song this band composed.**"**
+## [Bye Bye](https://omniatl.bandcamp.com/album/networker) - Sun Ra
+Will Sprott: **"**Sun Ra has so many good records that you can put on & let your thoughts drift around in. I like the early doo-wop recordings he made. There is a lot of eerie, unearthly doo-wop music out there but his is extra strange because he’s Sun Ra & he’s from space.**"**
 
  
 # MailTape's selection
@@ -35,4 +35,3 @@ Anaïs G: **"**Distort the music, in order to have a raw look and feel the simpl
 Anaïs G: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “[Corail](https://loyamusic.bandcamp.com/album/corail)” transcends us and touches us in the depths of us!**"**
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tachycardie](https://tachycardie1.bandcamp.com/) these thoughtful Sunday selections, and many thanks to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for this episode's stunning illustration !</p>
-
