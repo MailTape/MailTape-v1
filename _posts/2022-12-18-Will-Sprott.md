@@ -8,6 +8,10 @@ track3_title: Sun Ra - Bye Bye
 track1_color: vibrant
 track2_color: dreamy
 track3_color: trippy
+track4_color: vibrant
+track5_color: trippy
+track6_color: vibrant
+track7_color: dreamy
 ---
 <p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
