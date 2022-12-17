@@ -12,13 +12,26 @@ track4_color: vibrant
 track5_color: trippy
 track6_color: vibrant
 track7_color: dreamy
+guestPic: guestPic510.jpg
+image: 'https://mailta.pe/img/fbPic510.png'
+episode_URL: 'http://mailta.pe/510/Will-Sprott/'
+musiColor: musiColor510.png
+author: Sarah
+illustrator: Camille Célestin
+writer: Sarah
+category: '510'
+guest_name: Will Sprott
+guest_color: vibrant
 ---
 <p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
 Through his EP “[Nouvelles et Anciennes Pratiques de Cartographie Amateure](https://tachycardie1.bandcamp.com/album/nouvelles-et-anciennes-pratiques-de-cartographie-amateure)”, Tachycardie offers us a different experience, a different way of seeing and consuming music. Only you can judge this one because it is an adventure in itself. It’s worth a visit!
 </p>
+![guestPic510.jpg]({{site.baseurl}}/img/guestPic510.jpg)
+![fbPic510.png]({{site.baseurl}}/img/fbPic510.png)
+![musiColor510.png]({{site.baseurl}}/img/musiColor510.png)
 
-# Tachycardie's selection
+# Will Sprott's selection
 
 ## [Pearls Before Swine](https://ablenoise.bandcamp.com/releases) - Sail Away
 Will Sprott: **"**This song has been one of my favorites for years. It starts out so raw with the voice loud & clear & grows into this lush universe of swirling harp & psychedelic guitar & then see-saws back & forth, gaining & losing momentum. It has beautiful lyrics too.**"**
