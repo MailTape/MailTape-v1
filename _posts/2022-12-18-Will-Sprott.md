@@ -27,9 +27,6 @@ guest_color: vibrant
 <br><br>
 Through his EP “[Nouvelles et Anciennes Pratiques de Cartographie Amateure](https://tachycardie1.bandcamp.com/album/nouvelles-et-anciennes-pratiques-de-cartographie-amateure)”, Tachycardie offers us a different experience, a different way of seeing and consuming music. Only you can judge this one because it is an adventure in itself. It’s worth a visit!
 </p>
-![guestPic510.jpg]({{site.baseurl}}/img/guestPic510.jpg)
-![fbPic510.png]({{site.baseurl}}/img/fbPic510.png)
-![musiColor510.png]({{site.baseurl}}/img/musiColor510.png)
 
 # Will Sprott's selection
 
