@@ -22,6 +22,9 @@ writer: Sarah
 category: '510'
 guest_name: Will Sprott
 guest_color: vibrant
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track3.mp3'
 ---
 <p id="introduction"> This morning, we explore, we dematerialize, we deconstruct the music. We beat it to find inspiration, we saturate it to its fullest, we look for the unknown, the astonishing, the shocking, the disconcerting in order to touch. This is what Tachycardie offers us through this playlist.
 <br><br>
