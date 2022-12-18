@@ -57,7 +57,7 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
 # MailTape's selection
 
 ## [Will Sprott](https://willsprott.bandcamp.com/) - A Dog Will Love You When Nobody Else Will
-Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. Love the guitar riffs running all the way through it, there's such a soulful, timeless quality in the track. Perfect for a smooth moving Sunday morning :)**"**
+Sarah: **"**This track is off of W[ill Sprott](https://willsprott.bandcamp.com/)'s solo album Vortex Numbers. Love the guitar riffs running all the way through it, there's such a soulful, timeless quality in the track. Perfect for a smooth moving Sunday morning :)**"**
 
 ## [Troll Dolly](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3) - Microcosms
 Sarah: **"**This track arrives off of Troll Dolly's June album  [Heavenly Mini Mart](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3). The whole release is full of bright melodies weaved into webs of sound, I keep going back to this track. Jen Yakamovich's vocals are beyond mesmerizing.**"**
