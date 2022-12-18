@@ -30,14 +30,7 @@ description: >-
   brings in a lot of light with it, gifting us some surprising finds with
   winding melodies. Based in California, Will Sprott's music stretches from folk
   to rock n roll to soul to space country.
-track4_link: ''
-track5_link: ''
-track6_link: ''
-track7_link: ''
-track4_title: ''
-track5_title: ''
-track6_title: ''
-track7_title: ''
+track7_title: Shannon and the Clams - Vanishing
 ---
 <p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group Shannon and the Clams. His most recent solo album was entitled Ten Fingers, leaving us eager for what he releases next. 
 </p>
@@ -65,7 +58,7 @@ Sarah: **"**Love this track off of Troll Dolly's June album  Heavenly Mini Mart.
 ##  [Danse Musique Rhône-Alpes](https://dmra.bandcamp.com/) - Potion Trouble
 Sarah: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “[Spiritismes et Nouvelles Technologies](https://dmra.bandcamp.com/track/spiritisme-et-nouvelles-technologies)”.**"**
 
-## [Loya](https://loyamusic.bandcamp.com/) - Zenfant
-Sarah: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “[Corail](https://loyamusic.bandcamp.com/album/corail)” transcends us and touches us in the depths of us!**"**
+## [Shannon and the Clams](https://loyamusic.bandcamp.com/) - Vanishing
+Sarah: **"**Love this last track off of Shannon and the Clam's 2021 album, Year of the Spider.**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://tachycardie1.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/julie_wo/) for this episode's wonderful illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://willsprott.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/julie_wo/) for this episode's wonderful illustration !</p>
