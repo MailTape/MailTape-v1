@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Pearls Before Swine - Sail Away
 track2_title: Shana Cleveland - Invisible When the Sun Leaves
 track3_title: Sun Ra - Bye Bye
