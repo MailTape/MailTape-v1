@@ -30,8 +30,16 @@ description: >-
   brings in a lot of light with it, gifting us some surprising finds with
   winding melodies. Based in California, Will Sprott's music stretches from folk
   to rock n roll to soul to space country.
+track4_link: ''
+track5_link: ''
+track6_link: ''
+track7_link: ''
+track4_title: ''
+track5_title: ''
+track6_title: ''
+track7_title: ''
 ---
-<p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, Will Sprott's music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group Shannon and the Clams. His most recent solo album was entitled Ten Fingers, leaving us eager for what he releases next. 
+<p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group Shannon and the Clams. His most recent solo album was entitled Ten Fingers, leaving us eager for what he releases next. 
 </p>
 
 # Will Sprott's selection
@@ -48,11 +56,11 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
  
 # MailTape's selection
 
-## [Tachycardie](https://tachycardie1.bandcamp.com/) - Pratiques IV & V
+## [Will Sprott](https://willsprott.bandcamp.com/) - Pratiques IV & V
 Sarah: **"**Musical exploration, unstructured sounds, Tachycardie wants us to think about music differently. As a vibratory art using instruments or materials but also in we offer a free vision, another album format under the name of “Nouvelles et Anciennes Pratiques de Cartographie Amateure”, with several pieces proposed as a kind of “cinema for the ears. ” We are going through several emotions at once before we understand the concept of this musician.**"**
 
-## [Chassol](https://chassol.bandcamp.com/) - Pipornithology, Pt.1
-Sarah: **"**Chassol is one of my must-haves. Whether this pianist is solo or accompanied by other singers such as [Bonnie Banane](https://bonniebanane.bandcamp.com/), he is right in the way he treats music and sound, touching where it is needed, with that subtlety and sensuality, thus leading us into his world. In the album “[Big Sun](https://chassol.bandcamp.com/)” I always had a preference for the title “Bird, Pt.1”, with those sounds of birds, so light, natural and beautiful. But this time by sticking closer to the music offered by Tachycardie I wanted to show a side of him even more offbeat and crazy with the title “Pipornithology, Pt.1.”**"**
+## [Troll Dolly](https://chassol.bandcamp.com/) - Microcosms
+Sarah: **"**Love this track off of Troll Dolly's June album  Heavenly Mini Mart. **"**
 
 ##  [Danse Musique Rhône-Alpes](https://dmra.bandcamp.com/) - Potion Trouble
 Sarah: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “[Spiritismes et Nouvelles Technologies](https://dmra.bandcamp.com/track/spiritisme-et-nouvelles-technologies)”.**"**
@@ -60,4 +68,4 @@ Sarah: **"**Distort the music, in order to have a raw look and feel the simplest
 ## [Loya](https://loyamusic.bandcamp.com/) - Zenfant
 Sarah: **"**To finish this daring playlist, it seemed logical to propose Loya. This native Reunion, offers us a music influenced by his culture by mixing electro with Maloya. “Zenfant”, one of the tracks from the album “[Corail](https://loyamusic.bandcamp.com/album/corail)” transcends us and touches us in the depths of us!**"**
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much love to [Tachycardie](https://tachycardie1.bandcamp.com/) these thoughtful Sunday selections, and many thanks to [Julie Wojtczak](https://www.instagram.com/julie_wo/) for this episode's stunning illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://tachycardie1.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/julie_wo/) for this episode's wonderful illustration !</p>
