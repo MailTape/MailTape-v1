@@ -30,11 +30,14 @@ description: >-
   brings in a lot of light with it, gifting us some surprising finds with
   winding melodies. Based in California, Will Sprott's music stretches from folk
   to rock n roll to soul to space country.
-track7_title: Shannon and the Clams - Vanishing
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track7.mp3'
+track6_title: Shannon and the Clams - Vanishing
+track4_title: 'Will Sprott - '
+track7_title: Lizette & Quentin - Grow Forever
+track5_title: Troll Dolly - Microcosms
 ---
 <p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). His most recent solo album was entitled [Ten Fingers](https://willsprott.bandcamp.com/album/ten-fingers), leaving us eager for what he releases next. 
 </p>
