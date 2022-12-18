@@ -32,7 +32,7 @@ description: >-
   to rock n roll to soul to space country.
 track7_title: Shannon and the Clams - Vanishing
 ---
-<p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group Shannon and the Clams. His most recent solo album was entitled Ten Fingers, leaving us eager for what he releases next. 
+<p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, [Will Sprott](https://willsprott.bandcamp.com/)'s music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). His most recent solo album was entitled [Ten Fingers](https://willsprott.bandcamp.com/album/ten-fingers), leaving us eager for what he releases next. 
 </p>
 
 # Will Sprott's selection
@@ -50,7 +50,7 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
 # MailTape's selection
 
 ## [Will Sprott](https://willsprott.bandcamp.com/) - A Dog Will Love You When Nobody Else Will
-Sarah: **"**Musical exploration, unstructured sounds, Tachycardie wants us to think about music differently. As a vibratory art using instruments or materials but also in we offer a free vision, another album format under the name of “Nouvelles et Anciennes Pratiques de Cartographie Amateure”, with several pieces proposed as a kind of “cinema for the ears. ” We are going through several emotions at once before we understand the concept of this musician.**"**
+Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. There's such intricate webs of melody in this track.**"**
 
 ## [Troll Dolly](https://chassol.bandcamp.com/) - Microcosms
 Sarah: **"**Love this track off of Troll Dolly's June album  Heavenly Mini Mart. **"**
