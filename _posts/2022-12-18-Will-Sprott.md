@@ -49,7 +49,7 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
  
 # MailTape's selection
 
-## [Will Sprott](https://willsprott.bandcamp.com/) - Pratiques IV & V
+## [Will Sprott](https://willsprott.bandcamp.com/) - A Dog Will Love You When Nobody Else Will
 Sarah: **"**Musical exploration, unstructured sounds, Tachycardie wants us to think about music differently. As a vibratory art using instruments or materials but also in we offer a free vision, another album format under the name of “Nouvelles et Anciennes Pratiques de Cartographie Amateure”, with several pieces proposed as a kind of “cinema for the ears. ” We are going through several emotions at once before we understand the concept of this musician.**"**
 
 ## [Troll Dolly](https://chassol.bandcamp.com/) - Microcosms
