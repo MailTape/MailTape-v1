@@ -35,7 +35,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track7.mp3'
 track6_title: Shannon and the Clams - Vanishing
-track4_title: 'Will Sprott - '
+track4_title: Will Sprott - A Dog Will Love You When Nobody Else Will
 track7_title: Lizette & Quentin - Grow Forever
 track5_title: Troll Dolly - Microcosms
 ---
