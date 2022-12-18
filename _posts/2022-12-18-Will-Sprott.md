@@ -54,10 +54,10 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
 # MailTape's selection
 
 ## [Will Sprott](https://willsprott.bandcamp.com/) - A Dog Will Love You When Nobody Else Will
-Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. There's such intricate webs of melody in this track.**"**
+Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. Love the guitar riffs running all the way through it, there's such a soulful, timeless quality in the track. Perfect for a smooth moving Sunday morning :)**"**
 
 ## [Troll Dolly](https://chassol.bandcamp.com/) - Microcosms
-Sarah: **"**Love this track off of Troll Dolly's June album  Heavenly Mini Mart. **"**
+Sarah: **"**This track arrives off of Troll Dolly's June album  [Heavenly Mini Mart](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3). The whole release is full of bright melodies weaved into webs of sound, I keep going back to this track. Jen Yakamovich's vocals are beyond mesmerizing.**"**
 
 ##  [Danse Musique Rhône-Alpes](https://dmra.bandcamp.com/) - Potion Trouble
 Sarah: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “[Spiritismes et Nouvelles Technologies](https://dmra.bandcamp.com/track/spiritisme-et-nouvelles-technologies)”.**"**
