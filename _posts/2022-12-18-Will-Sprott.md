@@ -62,8 +62,8 @@ Sarah: **"**This track arrives off of Troll Dolly's June album  [Heavenly Mini M
 ## [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider) - Vanishing
 Sarah: **"**Obsessed with this last track off of Shannon and the Clam's 2021 album, [Year of the Spider](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). Shannon Shaw's vocals open the track to new heights, absolutely timeless. The keyboard embellishments toward the end veil the track in a levitating, dreamy quality.**"**
 
-##  [We Are Baker](https://dmra.bandcamp.com/) - The Farmer's Daughter
-Sarah: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “[Spiritismes et Nouvelles Technologies](https://dmra.bandcamp.com/track/spiritisme-et-nouvelles-technologies)”.**"**
+##  [Lizette & Quentin](https://lizettequevin.bandcamp.com/album/grow-forever-b-w-now-it-s-your-turn-to-sing) - Grow Forever
+Sarah: **"**Really like this duo's dynamic, so tender and timeless. The soul ballad traces over such beautiful chords and dancing guitar riffs, I love hearing the horns come in half way through.**"**
 
 
 <p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://willsprott.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/julie_wo/) for this episode's wonderful illustration !</p>
