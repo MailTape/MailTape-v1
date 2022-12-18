@@ -60,7 +60,7 @@ Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. Love t
 Sarah: **"**This track arrives off of Troll Dolly's June album  [Heavenly Mini Mart](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3). The whole release is full of bright melodies weaved into webs of sound, I keep going back to this track. Jen Yakamovich's vocals are beyond mesmerizing.**"**
 
 ## [Shannon and the Clams](https://loyamusic.bandcamp.com/) - Vanishing
-Sarah: **"**Obsessed with this last track off of Shannon and the Clam's 2021 album, [Year of the Spider](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider).**"**
+Sarah: **"**Obsessed with this last track off of Shannon and the Clam's 2021 album, [Year of the Spider](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). Shannon Shaw's vocals open the track to new heights, absolutely timeless. The keyboard embellishments toward the end veil the track in a levitating, dreamy quality.**"**
 
 ##  [Danse Musique Rhône-Alpes](https://dmra.bandcamp.com/) - Potion Trouble
 Sarah: **"**Distort the music, in order to have a raw look and feel the simplest emotions. It’s kind of what you feel when you listen to this song “Potion Trouble”.Repetitive in the rhythms but at the same time hypnotizing, I also advise you to go listen to his first album released at the end of 2020 with notably the title “[Spiritismes et Nouvelles Technologies](https://dmra.bandcamp.com/track/spiritisme-et-nouvelles-technologies)”.**"**
