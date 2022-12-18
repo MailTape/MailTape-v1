@@ -41,13 +41,13 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/510/track7.mp3'
 
 # Will Sprott's selection
 
-## [Pearls Before Swine](https://ablenoise.bandcamp.com/releases) - Sail Away
+## [Pearls Before Swine](https://pearlsbeforeswineusa.bandcamp.com/album/balaklava) - Sail Away
 Will Sprott: **"**This song has been one of my favorites for years. It starts out so raw with the voice loud & clear & grows into this lush universe of swirling harp & psychedelic guitar & then see-saws back & forth, gaining & losing momentum. It has beautiful lyrics too.**"**
 
-## [Shana Cleveland](https://www.marinarosenfeld.com/) - Invisible When the Sun Leaves
-Will Sprott: **"**Shana Cleveland is one of the greatest songwriters ever. She oozes creativity. I know because we live in the same house & I watch the songs pour out of her day after day. This song about night time descending over the earth captures a feeling that I love.**"**
+## [Shana Cleveland](https://shanacleveland.bandcamp.com/album/night-of-the-worm-moon) - Invisible When the Sun Leaves
+Will Sprott: **"**[Shana Cleveland](https://shanacleveland.bandcamp.com/album/night-of-the-worm-moon) is one of the greatest songwriters ever. She oozes creativity. I know because we live in the same house & I watch the songs pour out of her day after day. This song about night time descending over the earth captures a feeling that I love.**"**
 
-## [Sun Ra](https://omniatl.bandcamp.com/album/networker) - Bye Bye
+## [Sun Ra](https://sunramusic.bandcamp.com/) - Bye Bye
 Will Sprott: **"**Sun Ra has so many good records that you can put on & let your thoughts drift around in. I like the early doo-wop recordings he made. There is a lot of eerie, unearthly doo-wop music out there but his is extra strange because he’s Sun Ra & he’s from space.**"**
 
  
@@ -56,10 +56,10 @@ Will Sprott: **"**Sun Ra has so many good records that you can put on & let your
 ## [Will Sprott](https://willsprott.bandcamp.com/) - A Dog Will Love You When Nobody Else Will
 Sarah: **"**This track is off of Will Sprott's solo album Vortex Numbers. Love the guitar riffs running all the way through it, there's such a soulful, timeless quality in the track. Perfect for a smooth moving Sunday morning :)**"**
 
-## [Troll Dolly](https://chassol.bandcamp.com/) - Microcosms
+## [Troll Dolly](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3) - Microcosms
 Sarah: **"**This track arrives off of Troll Dolly's June album  [Heavenly Mini Mart](https://trolldolly.bandcamp.com/album/heavens-mini-mart-3). The whole release is full of bright melodies weaved into webs of sound, I keep going back to this track. Jen Yakamovich's vocals are beyond mesmerizing.**"**
 
-## [Shannon and the Clams](https://loyamusic.bandcamp.com/) - Vanishing
+## [Shannon and the Clams](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider) - Vanishing
 Sarah: **"**Obsessed with this last track off of Shannon and the Clam's 2021 album, [Year of the Spider](https://shannonandtheclams.bandcamp.com/album/year-of-the-spider). Shannon Shaw's vocals open the track to new heights, absolutely timeless. The keyboard embellishments toward the end veil the track in a levitating, dreamy quality.**"**
 
 ##  [Danse Musique Rhône-Alpes](https://dmra.bandcamp.com/) - Potion Trouble
