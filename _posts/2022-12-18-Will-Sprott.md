@@ -66,4 +66,4 @@ Sarah: **"**Obsessed with this last track off of Shannon and the Clam's 2021 alb
 Sarah: **"**Really like this duo's dynamic, so tender and timeless. The soul ballad traces over such beautiful chords and dancing guitar riffs. When the horns come in half way through, it's as though the track gets a lift into the air.**"**
 
 
-<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://willsprott.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/julie_wo/) for this episode's wonderful illustration !</p>
+<p id="outroduction">That's it for this morning! As always, thank you so much for joining us. Much thanks to [Will Sprott](https://willsprott.bandcamp.com/) for these fantastic Sunday selections, and many love to [Camille Célestin](https://www.instagram.com/bravocamo/?hl=en) for this episode's wonderful illustration !</p>
