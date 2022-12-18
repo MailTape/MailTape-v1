@@ -32,8 +32,6 @@ description: >-
   to rock n roll to soul to space country.
 ---
 <p id="introduction"> This Sunday, we welcome in the morning with Will Sprott. His dreamy selection brings in a lot of light with it, gifting us some surprising finds with winding melodies. Based in California, Will Sprott's music stretches from folk to rock n roll to soul to space country. He is an active vocalist and guitarist in the wonderful group Shannon and the Clams. His most recent solo album was entitled Ten Fingers, leaving us eager for what he releases next. 
-<br><br>
-Through his EP “[Nouvelles et Anciennes Pratiques de Cartographie Amateure](https://tachycardie1.bandcamp.com/album/nouvelles-et-anciennes-pratiques-de-cartographie-amateure)”, Tachycardie offers us a different experience, a different way of seeing and consuming music. Only you can judge this one because it is an adventure in itself. It’s worth a visit!
 </p>
 
 # Will Sprott's selection
