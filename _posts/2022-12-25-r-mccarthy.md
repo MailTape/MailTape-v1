@@ -8,7 +8,7 @@ published: false
 [INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
 
-# INO hidefumi's selection
+# r mccarthy's selection
 
 ## [Operating Theatre](https://www.discogs.com/artist/32166-Timmy-Thomas) - Elation After Hours
 r mccarthy: **"**Irish musician Roger Doyle had this musical theatre project (Operating Theatre), I don’t really understand the context it would have appeared in, but I love the music. He was apparently the first musician in Ireland to get his hands on a Fairlight CMI, one of my favourite instruments. The whole album (Miss Mauger) is very surprising and beautiful..**"**
