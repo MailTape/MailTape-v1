@@ -10,14 +10,14 @@ published: false
 
 # INO hidefumi's selection
 
-## [Timmy Thomas](https://www.discogs.com/artist/32166-Timmy-Thomas) - Why Can't We Live Together
-INO hidefumi: **"**Lyrics that resonate with the present day. And also the intro has such impressive sounds with Rhythm Box "MAESTRO RHYTHM KING" - so loved by Sly Stone and Shuggie Otis. It's been 50 years since it was released in 1972. When will it be a peaceful world? For love we live and die.**"**
+## [Operating Theatre](https://www.discogs.com/artist/32166-Timmy-Thomas) - Elation After Hours
+r mccarthy: **"**Irish musician Roger Doyle had this musical theatre project (Operating Theatre), I don’t really understand the context it would have appeared in, but I love the music. He was apparently the first musician in Ireland to get his hands on a Fairlight CMI, one of my favourite instruments. The whole album (Miss Mauger) is very surprising and beautiful..**"**
 
-## [INO hidefumi](https://inohidefumi.bandcamp.com/), [Jean Touitou](https://www.instagram.com/jeantouitou/?hl=en) - It's All Over Now Baby Blue
-INO hidefumi: **"**A mini-album co-written with Jean Touitou, who is A.P.C.'s designer and a friend of mine. When I visited Paris we recorded it in the studio in the basement of his atelier. I had a good time taking a walk in Montmartre in the rain and going to a recommended nightclub. Listening to this song makes me want to go back to Paris to see him.**"**
+## Yoshihiro Hanno and Mick Karn - Lunette
+r mccarthy: **"**This is taken from one of my favourite albums, ‘Liquid Glass’. Mick Karn sometimes has no respect for the key of a song, and it doesn’t make a difference because what he’s playing sounds great. I think he just plays things which feel funny under his fingers, I respect that and it sounds amazing.**"**
 
-## [William DeVaughn](https://www.discogs.com/artist/146143-William-DeVaughn) - Be Thankful For What You Got
-INO hidefumi: **"**A masterpiece that is covered by various musicians and transcends races and generations. It contains universal metaphors and statements.**"**
+## [John Powell](https://www.discogs.com/artist/146143-William-DeVaughn) - Chicken In The Pot
+r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparently), which was ok. But then there was this scene in a bar, obviously the original ‘Cantina Band’ was amazing, so I thought ‘Hmm I wonder what they’ll do for the music here’, and then this song started and it’s one of the strangest feeling pieces of music I’ve heard in a while. Once again the bass player has no respect for the key, it’s in an alien language, the strings are pretty amazing, I like it.**"**
 
 # MailTape's selection
 
