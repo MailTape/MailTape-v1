@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Sarah
+writer: Sarah
+illustrator: Meriam Kharbat
+category: '511'
+guest_name: r mccarthy
+guest_color: dreamy
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
@@ -34,4 +40,3 @@ Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/
 Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
-
