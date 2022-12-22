@@ -8,6 +8,9 @@ illustrator: Meriam Kharbat
 category: '511'
 guest_name: r mccarthy
 guest_color: dreamy
+track1_title: Operating Theatre - Elation After Hours
+track1_color: dreamy
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track1.mp3'
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
