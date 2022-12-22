@@ -11,6 +11,8 @@ guest_color: dreamy
 track1_title: Operating Theatre - Elation After Hours
 track1_color: dreamy
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track1.mp3'
+track2_title: Yoshihiro Hanno and Mick Karn - Lunette
+track2_color: bliss
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
@@ -19,13 +21,13 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track1.mp3'
 
 # r mccarthy's selection
 
-## [Operating Theatre](https://www.discogs.com/artist/32166-Timmy-Thomas) - Elation After Hours
+## [Operating Theatre](https://rogerdoyle1.bandcamp.com/) - Elation After Hours
 r mccarthy: **"**Irish musician Roger Doyle had this musical theatre project (Operating Theatre), I don’t really understand the context it would have appeared in, but I love the music. He was apparently the first musician in Ireland to get his hands on a Fairlight CMI, one of my favourite instruments. The whole album (Miss Mauger) is very surprising and beautiful..**"**
 
-## Yoshihiro Hanno and Mick Karn - Lunette
+## [Yoshihiro Hanno](http://www.yoshihirohanno.com/discography/) and [Mick Karn](https://mickkarn.net/) - Lunette
 r mccarthy: **"**This is taken from one of my favourite albums, ‘Liquid Glass’. Mick Karn sometimes has no respect for the key of a song, and it doesn’t make a difference because what he’s playing sounds great. I think he just plays things which feel funny under his fingers, I respect that and it sounds amazing.**"**
 
-## [John Powell](https://www.discogs.com/artist/146143-William-DeVaughn) - Chicken In The Pot
+## [John Powell](https://johnpowellmusic.com/) - Chicken In The Pot
 r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparently), which was ok. But then there was this scene in a bar, obviously the original ‘Cantina Band’ was amazing, so I thought ‘Hmm I wonder what they’ll do for the music here’, and then this song started and it’s one of the strangest feeling pieces of music I’ve heard in a while. Once again the bass player has no respect for the key, it’s in an alien language, the strings are pretty amazing, I like it.**"**
 
 # MailTape's selection
