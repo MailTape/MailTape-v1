@@ -24,6 +24,10 @@ track7_color: bliss
 track6_title: 'Paul Lansky - Her Voice '
 track7_title: Ellori Saxl - Moss II
 track5_title: Omni Gardens - Algae After All
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track7.mp3'
 ---
 <p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
   <br><br>
