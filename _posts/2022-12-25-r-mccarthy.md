@@ -44,7 +44,7 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
-Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
+Sarah: **"**This was one of the tracks I used in my play for the brainscape / aquascaping scene.**"**
 
 ## [Paul Lansky](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Her Voice
 Sarah: **"**My music professor introduced us to Paul Lansky's 1982 album, Fantasies and Tableaux on our last class. This is the first track off the release, but after listening through the rest of the collection, I think it's still my favorite (Her Song is a close second). The production process here is super interesting, Paul Lansky uses his wife's voice as a technical instrument for the entire piece (bassline, chords, etc.) and produces it with linear predictive coding -- very cutting edge in the 70's when he was writing this.**"**
