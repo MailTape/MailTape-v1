@@ -46,8 +46,8 @@ Sarah: **"**Incredibly difficult work to choose just one song from INO's impress
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
-## [Paul Lansky](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Her Song
-Sarah: **"**My music professor introduced us to Paul Lansky's 1982  album, Fantasies and Tableaux on our last class. We were talking about the voice as a technical instrument and this was what he played after [I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk). **"**
+## [Paul Lansky](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Her Voice
+Sarah: **"**My music professor introduced us to Paul Lansky's 1982 album, Fantasies and Tableaux on our last class. This is the first track off the release, but after listening through the rest of the collection, I think it's still my favorite (Her Song is a close second). The production process here is super interesting, Paul Lansky uses his wife's voice as a technical instrument for the entire piece (bassline, chords, etc.). As my professor connected it to [I Am Sitting In A Room](https://www.youtube.com/watch?v=fAxHlLK3Oyk), which is also a very cool project of vocal superposition. **"**
 
 ## [Elori Saxl](https://morsels.website/) - Moss II
 Sarah: **"**This track arrives from the 2021 album Sound Wonders: A Series of Epics, a compilation which includes several other wonderful artists including harpist Nailah Hunter and SK Kakraba.**"**
