@@ -40,16 +40,16 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 
 # MailTape's selection
 
-## [r mccarthy](https://inohidefumi.bandcamp.com/) - IN DREAMS
+## [r mccarthy](https://inohidefumi.bandcamp.com/) - I Think I Lost That Love
 Sarah: **"**Incredibly difficult work to choose just one song from INO's impressive and extensive discography. This track is the namesake of INO's latest album release. Entranced by the silky texture in this track... Ino's grounded vocals are a wonderful compliment to the jazzy soundscapes Ino creates with such ease. Truly a dream with the Fender Rhodes piano and this magnetic bassline, the track is aptly named :)**"**
 
-## [Will Sprott](https://hairdo.bandcamp.com/) - Psychic Lady
+## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
 Sarah: **"**From one of my favorite [albums](https://hairdo.bandcamp.com/album/vortex-numbers) of the moment! The jaunty percussives stretching through this track are beyond delightful, love the folk vocal harmonies swaying alongside each other.**"**
 
-## [Sachiko Kanenobu](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Anata Kara Toku E (Far Away From You)
+## [Paul Lansky](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Her Voice
 Sarah: **"**This 1972 track from [Sachiko Kanenobu](https://lightintheattic.net/releases/4903-misora) has such timeless vibrance to it, I had to include it in our morning's selection. Really love these analog psychedelic accents, a wonderful mix.**"**
 
-## [r mccarthy](https://morsels.website/) - Jyoti
-Sarah: **"**A healing synth track to close out this playlist of new and found again discoveries :) I could be anywhere and this song would feel like an embrace, I hope it strikes you the same way.**"**
+## [Elori Saxl](https://morsels.website/) - Moss II
+Sarah: **"**This track arrives from the 2021 album Sound Wonders: A Series of Epics, a compilation which includes several other wonderful artists including harpist Nailah Hunter and SK Kakraba.**"**
 
 <p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
