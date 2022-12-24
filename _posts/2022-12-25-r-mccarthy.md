@@ -30,11 +30,13 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track7.mp3'
 track4_title: r mccarthy - I Think I Lost That Love
 guestPic: guestPic511.jpg
+image: 'https://mailta.pe/img/fbPic511.png'
 ---
 <p id="introduction"> As our gift to you this morning, we welcome r mccarthy to MailTape :)
   <br><br>
 [INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
+![fbPic511.png]({{site.baseurl}}/img/fbPic511.png)
 
 # r mccarthy's selection
 
