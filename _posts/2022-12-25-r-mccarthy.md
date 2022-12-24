@@ -55,7 +55,7 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 
 # MailTape's selection
 
-## [r mccarthy](https://inohidefumi.bandcamp.com/) - I Think I Lost That Love
+## [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) - I Think I Lost That Love
 Sarah: **"**r mccarthy's weaving synth work throughout this track shifts so effortlessly, it seems to hover in air. The sparse percussives and hovering synth harmonies slide alongside each other with so much grace -- engulfing us in blanketed textures against this buildup of soft vocals. The slightly distorted lead snyth toward the track's end flows so well across the walls of rounded synth harmonies below it. The rest of the [2017 release](https://infinitebisous.bandcamp.com/album/dick-arkive-issue-2)continues this balanced freshness in production, I have a special soft spot for Jyoti :).**"**
 
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
