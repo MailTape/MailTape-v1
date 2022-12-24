@@ -40,7 +40,7 @@ description: >-
 ---
 <p id="introduction"> We are overjoyed to welcome r mccarthy to MailTape this sleepy Sunday morning :) As a gift to our waking up, his selection embraces new worlds of new age music, stretching time and sound into spaces unknown, carving creativity out of these early morning hours.  
   <br><br>
-r mccarthy</p>
+r mccarthy, or Rory McCarthy, joins us on MailTape for the second time since 2017, when he joined with his label infinite bisous </p>
 
 # r mccarthy's selection
 
@@ -56,7 +56,7 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 # MailTape's selection
 
 ## [r mccarthy](https://inohidefumi.bandcamp.com/) - I Think I Lost That Love
-Sarah: **"**Love r mccarthy's synth work throughout this track, the sparse percussives and droning synths work so well together. The rest of this release is interesting as well, love the buildup with vocals.**"**
+Sarah: **"**r mccarthy's synth work throughout this track is so effortlessly fresh, the sparse percussives and hovering synth harmonies slide alongside each other with so much grace. The rest of this release is interesting as well, love the buildup with vocals.**"**
 
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
 Sarah: **"**This was one of the tracks I used in my play for the brainscape / aquascaping scene. (I also used r mccarthy's Jyoti to open up the brainscape).**"**
