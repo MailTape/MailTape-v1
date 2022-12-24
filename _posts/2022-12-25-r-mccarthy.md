@@ -31,6 +31,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track7.mp3'
 track4_title: r mccarthy - I Think I Lost That Love
 guestPic: guestPic511.jpg
 image: 'https://mailta.pe/img/fbPic511.png'
+episode_URL: 'http://mailta.pe/511/r-mccarthy/'
 ---
 <p id="introduction"> As our gift to you this morning, we welcome r mccarthy to MailTape :)
   <br><br>
