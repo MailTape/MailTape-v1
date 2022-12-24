@@ -33,7 +33,7 @@ guestPic: guestPic511.jpg
 image: 'https://mailta.pe/img/fbPic511.png'
 episode_URL: 'http://mailta.pe/511/r-mccarthy/'
 ---
-<p id="introduction"> As our gift to you this morning, we welcome r mccarthy to MailTape :)
+<p id="introduction"> We are overjoyed to welcome r mccarthy to MailTape this morning :) 
   <br><br>
 [INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
@@ -63,4 +63,4 @@ Sarah: **"**My music professor introduced us to Paul Lansky's 1982 album, Fantas
 ## [Elori Saxl](https://morsels.website/) - Moss II
 Sarah: **"**This track arrives from the 2021 album Sound Wonders: A Series of Epics, a compilation which includes several other wonderful artists including harpist Nailah Hunter and SK Kakraba.**"**
 
-<p id="outroduction">That wraps up this morning's selection! As always, thank you for joining us. Our love to INO hidefumi for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
+<p id="outroduction">That wraps up today's morning selection! Thank you for joining us. Our love to r mccarthy for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry :)</p>
