@@ -29,7 +29,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/511/track7.mp3'
 ---
-<p id="introduction"> This morning, with a special joy we welcome Tokyo-based jazz and electronic artist [INO hidefumi](https://www.innocentrecord.net/) to MailTape. Known for eclectic tastes and textured sounds, INO's thoughtful selection offers an easy treading into the morning hours.
+<p id="introduction"> As our gift to you this morning, we welcome r mccarthy to MailTape :)
   <br><br>
 [INO hidefumi](https://inohidefumi.bandcamp.com/)'s style stretches from electronic to jazz to ambient music, melding aspects of all these genres in the process. INO joins us following the release of his dark and mellow jazz-electro album, [In Dreams](https://inohidefumi.bandcamp.com/album/in-dreams). This album, like all those before it, was released through his label [Innocent Records](https://innocentrecord.stores.jp/), a pioneer of the **one artist-one label** movement. Through this release and the ones of the past years, INO urges us "Don't Listen, Feel!" embracing a love of music that transcends technicalities or pretension. It's with this attitude that he joins us this morning :) 
 </p>
