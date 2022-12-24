@@ -49,7 +49,7 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 # MailTape's selection
 
 ## [r mccarthy](https://inohidefumi.bandcamp.com/) - I Think I Lost That Love
-Sarah: **"**Love r mccarthy's synth work throughout this track. The rest of this release is interesting as well, love the buildup with vocals.**"**
+Sarah: **"**Love r mccarthy's synth work throughout this track, the sparse percussives and droning synths work so well together. The rest of this release is interesting as well, love the buildup with vocals.**"**
 
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
 Sarah: **"**This was one of the tracks I used in my play for the brainscape / aquascaping scene. (I also used r mccarthy's Jyoti to open up the brainscape).**"**
