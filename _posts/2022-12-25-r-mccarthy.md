@@ -59,7 +59,7 @@ r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparentl
 Sarah: **"**r mccarthy's synth work throughout this track is so effortlessly fresh, the sparse percussives and hovering synth harmonies slide alongside each other with so much grace. The rest of this release is interesting as well, love the buildup with vocals.**"**
 
 ## [Omni Gardens](https://hairdo.bandcamp.com/) - Algae After All
-Sarah: **"**This was one of the tracks I used in my play for the brainscape / aquascaping scene. (I also used r mccarthy's Jyoti to open up the brainscape).**"**
+Sarah: **"**This track takes me to another world, and now it's framed in nostalgia. This was one of the tracks I used in my play for the brainscape / aquascaping scenes. (I also used r mccarthy's Jyoti to open up the play's  brainscape space). The synth work's exploratory melody along with the droning overtones feel healing in some sense, like you're growing roots and new leaves listening to it -- you live a new life as a spatch of algae.**"**
 
 ## [Paul Lansky](https://www.discogs.com/artist/1126272-Sachiko-Kanenobu) - Her Voice
 Sarah: **"**My music professor introduced us to Paul Lansky's 1982 album, Fantasies and Tableaux on our last class. This is the first track off the release, but after listening through the rest of the collection, I think it's still my favorite (Her Song is a close second). The production process here is super interesting, Paul Lansky uses his wife's voice as a technical instrument for the entire piece (bassline, chords, etc.) and produces it with linear predictive coding -- very cutting edge in the 70's when he was writing this.**"**
