@@ -41,7 +41,7 @@ musiColor: musiColor511.png
 ---
 <p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carving creativity out of these early morning hours.  
   <br><br>
-[r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/). Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
+[r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/) for an episode. Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
 
 # r mccarthy's selection
 
