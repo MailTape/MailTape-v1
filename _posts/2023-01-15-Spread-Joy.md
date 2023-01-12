@@ -14,9 +14,22 @@ track2_title: MIKAN MUKKU - Chin Dan
 track2_color: trippy
 track3_title: Devon Rexi - Human Snax
 track3_color: trippy
-track4_title: Spread Joy - Discomfort is Palpable
-track4_color: trippy
+track4_title: Spread Joy - Repetition
+track4_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track1.m4a'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track5.m4a'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track7.mp3'
+track5_title: Shira Small - My Life's Alright
+track5_color: dreamy
+track6_title: 'Mandy, Indiana - Nike of Samothrace'
+track6_color: rough
+track7_title: Grotto Terrazza - Der Zaubergeselle
+track7_color: trippy
+episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 ---
 <p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode XXX. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
 <br><br>
@@ -37,7 +50,7 @@ Spread Joy: **"**A contemporary one for the list! This is a new discovery for me
 
 # MailTape's selection
 
-## [Spread Joy](https://spreadjoy.bandcamp.com/) - Discomfort is Palpable 
+## [Spread Joy](https://spreadjoy.bandcamp.com/) - Repetition
 Inès: **"**XXX**"**
 
 ## XXX - XX
