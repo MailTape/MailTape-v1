@@ -31,6 +31,7 @@ track7_title: Grotto Terrazza - Der Zaubergeselle
 track7_color: trippy
 episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 guestPic: guestPic513.png
+musiColor: musiColor513.png
 ---
 <p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode XXX. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
 <br><br>
