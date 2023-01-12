@@ -30,6 +30,7 @@ track6_color: rough
 track7_title: Grotto Terrazza - Der Zaubergeselle
 track7_color: trippy
 episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
+guestPic: guestPic513.png
 ---
 <p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode XXX. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
 <br><br>
@@ -40,7 +41,7 @@ XXXXX.</p>
 ## Marlene Dietrich - I've been in Love before
 Spread Joy: **"**A woman that needs absolutely no introduction, Marlene is the original androginous. She's got this way of talking and singing that oscillates between earnesty and disdain which is something I think I do when I sing certain songs too. I grew up watching movies from Pre-Code / Golden Age and these women were always who I emulated.**"**
 
-## MIKAN MUKKU - Chin Dan
+## [MIKAN MUKKU](https://bitterlakerecordings.bandcamp.com/album/kan-b-w-chin-dan) - Chin Dan
 Spread Joy: **"**I feel like my friend Oskar sent this to me in 2016 at like 3AM on a Tuesday or something. It was the perfect moment for a life changing introduction: dark, loud, crashing and moody, oozes 80s coolness, everything I love. I have only ever been able to find a few songs by this group and honestly, every single one is worth a listen.**"**
 
 ## [Devon Rexi](https://southofnorthamsterdam.bandcamp.com/album/tambal-ep) - Human Snax
@@ -53,13 +54,13 @@ Spread Joy: **"**A contemporary one for the list! This is a new discovery for me
 ## [Spread Joy](https://spreadjoy.bandcamp.com/) - Repetition
 Inès: **"**XXX**"**
 
-## XXX - XX
+## Shira Small - My Life's Alright
 Inès: **"**IXXXX**"**
 
-## XXX - XX
+## [Mandy, Indiana](https://mandyindiana.bandcamp.com/) - Nike of Samothrace
 Inès: **"**XXX**"**
 
-## XXX - XXX
-Inès: **"**XXX**"**
+## [Grotto Terrazza](https://mapledeathrecords.bandcamp.com/album/kalte-k-stlichkeiten) - Der Zaubergeselle
+Inès: **"**This one has become a bit of a core song for me. **"**
 
 <p id="outroduction">That's a wrap for this morning! Thank you as always for joining us. Big thanks to [Spread Joy](https://spreadjoy.bandcamp.com/) for their inspiring selection, and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's great illustration!</p>
