@@ -13,7 +13,7 @@ track1_color: dreamy
 track2_title: MIKAN MUKKU - Chin Dan
 track2_color: trippy
 track3_title: Devon Rexi - Human Snax
-track3_color: trippy
+track3_color: vibrant
 track4_title: Spread Joy - Repetition
 track4_color: vibrant
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/513/track1.m4a'
