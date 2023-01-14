@@ -33,13 +33,13 @@ episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 guestPic: guestPic513.png
 musiColor: musiColor513.png
 ---
-<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has recently released their. 
+<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 
 <br><br>
-XXXXX.</p>
+This morning, we are going through a bit of a rollercoaster. We have peaceful, we have lovely, we have moody, we have angry, we have boppy, we have dancey. We have it all. We did say it was full of life.</p>
 
 # Spread Joy's selection
 
-## Marlene Dietrich - I've been in Love before
+## Marlene Dietrich - I've Been in Love Before
 Spread Joy: **"**A woman that needs absolutely no introduction, Marlene is the original androginous. She's got this way of talking and singing that oscillates between earnesty and disdain which is something I think I do when I sing certain songs too. I grew up watching movies from Pre-Code / Golden Age and these women were always who I emulated.**"**
 
 ## [MIKAN MUKKU](https://bitterlakerecordings.bandcamp.com/album/kan-b-w-chin-dan) - Chin Dan
@@ -53,7 +53,7 @@ Spread Joy: **"**A contemporary one for the list! This is a new discovery for me
 # MailTape's selection
 
 ## [Spread Joy](https://spreadjoy.bandcamp.com/) - Repetition
-Inès: **"**I think it's through that song that I've gotten a proper intro to Spread Joy. Starting with a slower dance-y element, with a singing that's so elegant, it then switches up to a fast paced moment that makes you want to jump everywhere and then abruptly stops. What a journey. Think that's a great representation of all the different atmospheres you can hear in their music. Their second album is amazing, and I really hesitated between several songs for this pick: the opener "Ow", a short punk track that gives the tone to the album, or "Discomfort is Palpable" that feels theatrical with a crying singing and instruments really making you feel the discomfort. Go have a listen!**"**
+Inès: **"**I think it's through that song that I've gotten a proper intro to Spread Joy. Starting with a slower dancey element, with a singing that's so elegant, it then switches up to a fast paced moment that makes you want to jump everywhere and then abruptly stops. What a journey. Think that's a great representation of all the different atmospheres you can hear in their music. Their second album is amazing, and I really hesitated between several songs for this pick: the opener "Ow", a short punk track that gives the tone to the album, or "Discomfort is Palpable" that feels theatrical with a crying singing and instruments really making you feel the discomfort. Go have a listen!**"**
 
 ## Shira Small - My Life's Alright
 Inès: **"**A great Sunday morning track. Great for resetting and contemplating the last weeks, months, years. Background music to living through high and lows and remembering that all of it is what makes the human experience, with a sense of peace to it is calming and gives perspective.**"**
