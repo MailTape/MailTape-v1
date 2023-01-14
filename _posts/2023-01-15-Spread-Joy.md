@@ -32,10 +32,15 @@ track7_color: trippy
 episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 guestPic: guestPic513.png
 musiColor: musiColor513.png
+description: >-
+  This morning, please welcome Spread Joy for an episode full of life. Post-punk
+  band Spread Joy has released their second album in May last year and it is
+  full of good energy. In this episode, we are going through a bit of a
+  rollercoaster. We did say it was full of life.
 ---
 <p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has released their second album in May last year and it is full of good energy. Fast-paced, rythmically changing songs that make you want to run or dance or jump or maybe all of it together? 
 <br><br>
-This morning, we are going through a bit of a rollercoaster. We have peaceful, we have lovely, we have moody, we have angry, we have bop-y, we have dancey. We have it all. We did say it was full of life.</p>
+In this episode, we are going through a bit of a rollercoaster. We have peaceful, we have lovely, we have moody, we have angry, we have bop-y, we have dancey. We have it all. We did say it was full of life.</p>
 
 # Spread Joy's selection
 
