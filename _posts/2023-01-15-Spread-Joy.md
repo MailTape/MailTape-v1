@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 guestPic: guestPic513.png
 musiColor: musiColor513.png
 ---
-<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
+<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Post-punk band [Spread Joy](https://spreadjoy.bandcamp.com/) has recently released their. 
 <br><br>
 XXXXX.</p>
 
@@ -53,7 +53,7 @@ Spread Joy: **"**A contemporary one for the list! This is a new discovery for me
 # MailTape's selection
 
 ## [Spread Joy](https://spreadjoy.bandcamp.com/) - Repetition
-Inès: **"**Spread Joy's second album, II, is a great one! Repetition **"**
+Inès: **"**I think it's through that song that I've gotten a proper intro to Spread Joy. Starting with a slower dance-y element, with a singing that's so elegant, it then switches up to a fast paced moment that makes you want to jump everywhere and then abruptly stops. What a journey. Think that's a great representation of all the different atmospheres you can hear in their music. Their second album is amazing, and I really hesitated between several songs for this pick: the opener "Ow", a short punk track that gives the tone to the album, or "Discomfort is Palpable" that feels theatrical with a crying singing and instruments really making you feel the discomfort. Go have a listen!**"**
 
 ## Shira Small - My Life's Alright
 Inès: **"**A great Sunday morning track. Great for resetting and contemplating the last weeks, months, years. Background music to living through high and lows and remembering that all of it is what makes the human experience, with a sense of peace to it is calming and gives perspective.**"**
