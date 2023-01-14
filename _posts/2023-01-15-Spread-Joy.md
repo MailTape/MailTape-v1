@@ -33,7 +33,7 @@ episode_URL: 'https://www.mailta.pe/513/Spread-Joy/'
 guestPic: guestPic513.png
 musiColor: musiColor513.png
 ---
-<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode XXX. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
+<p id="introduction"> This morning, please welcome [Spread Joy](https://spreadjoy.bandcamp.com/) for an episode full of life. Band [Spread Joy](https://spreadjoy.bandcamp.com/)  XXXX. 
 <br><br>
 XXXXX.</p>
 
@@ -53,15 +53,15 @@ Spread Joy: **"**A contemporary one for the list! This is a new discovery for me
 # MailTape's selection
 
 ## [Spread Joy](https://spreadjoy.bandcamp.com/) - Repetition
-Inès: **"**XXX**"**
+Inès: **"**Spread Joy's second album, II, is a great one! Repetition **"**
 
 ## Shira Small - My Life's Alright
-Inès: **"**IXXXX**"**
+Inès: **"**A great Sunday morning track. Great for resetting and contemplating the last weeks, months, years. Background music to living through high and lows and remembering that all of it is what makes the human experience, with a sense of peace to it is calming and gives perspective.**"**
 
 ## [Mandy, Indiana](https://mandyindiana.bandcamp.com/) - Nike of Samothrace
-Inès: **"**XXX**"**
+Inès: **"**I was trying to find a track that was close to Spread's Joy second pick and bumped into this one that I had found a while back. Also loud, dark and moody but adding pure, raw adrenaline to the mix. With words spoken to a night time harrasser, this song encapsulates fear, anger and all that can go with being in this situation. Completely different vibe to the previous track but all can't always be nice and peaceful. Sometimes you're angry and scared and that can also be your Sunday.**"**
 
 ## [Grotto Terrazza](https://mapledeathrecords.bandcamp.com/album/kalte-k-stlichkeiten) - Der Zaubergeselle
-Inès: **"**This one has become a bit of a core song for me. **"**
+Inès: **"**Another twist vibe-wise but this time we're going dancing. The kind of dancing that's a bit two step, a bit static, head bumping, hands waving everywhere, no choreography, just moves, dance-like-no-ones-watching. It's one of my favorite songs I discovered last year, so fun and catchy, bit 80s, feeling both serious and unserious.**"**
 
 <p id="outroduction">That's a wrap for this morning! Thank you as always for joining us. Big thanks to [Spread Joy](https://spreadjoy.bandcamp.com/) for their inspiring selection, and to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's great illustration!</p>
