@@ -30,7 +30,7 @@ track6_color: bliss
 track7_title: Dawuna - Baby Boy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/509/track7.mp3'
 track7_color: trippy
-episode_URL: 'http://mailta.pe/503/Baby-Chuck/'
+episode_URL: 'http://mailta.pe/509/Minuit-Machine/'
 description: This morning, we're not letting winter take our energy. It's cold but our hearts are warmer than ever. And with Minuit Machine as our guests, prepare for a journey through a selection of energetic and cathartic tracks. Open, open, open, make a big O and keep searching.
 musiColor: musiColor509.png
 image: 'https://mailta.pe/img/fbPic509.png'
