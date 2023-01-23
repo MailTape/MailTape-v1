@@ -20,7 +20,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 
 # MailTape's selection
 
-## [Resavoir](https://infinitebisous.bandcamp.com/album/any-day-now) - Plantasy / Uplifting / Takin Flight
+## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now) - Mistress Violet
 Sarah: **"**r mccarthy's weaving synth work throughout this track shifts and builds so effortlessly, it seems to hover in air. The sparse percussives and hovering synth harmonies slide alongside each other with so much grace -- engulfing us in blanketed textures woven into soft vocals. The slightly distorted lead synth toward the track's end flows so well across the walls of rounded synth harmonies below it, it's entrancing. The rest of the [2017 release](https://infinitebisous.bandcamp.com/album/dick-arkive-issue-2)continues this balanced freshness in production, look out for [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) :).**"**
 
 ## [Omni Gardens](https://omnigardens.bandcamp.com/) - Algae After All
