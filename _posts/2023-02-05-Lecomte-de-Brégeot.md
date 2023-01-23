@@ -7,16 +7,16 @@ published: false
   <br><br>
 [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/) for an episode. Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
 
-# Resavoir's selection
+# Lecomte de Brégeot's selection
 
-## [Hermeto Pascoal](https://rogerdoyle1.bandcamp.com/) - Vou Esperar
-Resavoir: **"**A striking and hauntingly beautiful instrumental piece from the Brazilian master multi-instrumentalist composer. He plays every instrument on this track- 7 flutes and an organ bass pedal. I love imagining him in the studio laying down track after track just perfectly executing this performance.**"**
+## [Dina Summer](https://rogerdoyle1.bandcamp.com/) - Uranos
+Lecomte de Brégeot: **"**Typically my kind of song, a catchy bass line merging dark and sexy vocals, so 80's but with a contemporary vibe, perfect for the dancefloor.**"**
 
 ## [Hypnotic Brass Ensemble](http://www.yoshihirohanno.com/discography/) and [Mick Karn](https://mickkarn.net/) - Now
-Resavoir: **"**This is off an album called "Book of Sound" that's really terrific. The band is comprised of the sons of Kelan Phil Cohran who was himself a trumpet player and founding member of the AACM in Chicago. I love the way this record sounds, the way the overtones from the horns sort of distort the microphones, the combination of textures between the voices, horns, and bass, and the linear progression of the arrangement.**"**
+Lecomte de Brégeot: **"**One of my last crushes, so pop, so romantic, and all these vintage synths are exactly what I could use for my own productions.**"**
 
-## [Misha Panfilov Sound Combo](https://johnpowellmusic.com/) - Days as Echoes
-Resavoir: **"**An ideal album for a sunday- cheerful, dreamy, beautiful, carefree, uplifting. Jazz waltz perfection. This album gets a lot of spins around my house.**"**
+## [Matia Bazar](https://johnpowellmusic.com/) - Elettrochoc
+Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazil, I like when artists are taking risks, the first time I heard it, I was really surprised, kind of unexpected to get this wacky vocal line on this groovy instrumental, highly creative :)**"**
 
 # MailTape's selection
 
@@ -33,4 +33,3 @@ Sarah: **"**On our last class of the semester, my music professor introduced us 
 Sarah: **"**The fleeting power and playfulness of the sax sways in conversation with itself, at once ancient and evolving. I am reminded, maybe by the title, of my favorite recurring dream, where the moss reclaims me into its beautiful humming world of green. (Patches of carpet moss, strictly speaking... there's a film of mist all around and overhead, hosting a peaceful and insulated string of moments -- the moss has little green hands that embrace my arms as if it's been ages, and all that can be seen are these bright green stretches of softness welcoming me back... the image might be from reading too much Seamus Heaney, especially [this poem](https://www.ibiblio.org/ipa/poems/heaney/personal_helicon.php) and the last stanza of [this one](https://irelandtour.sunygeneseoenglish.org/resources/poems/heaneys-the-strand-at-lough-beg/).) Elori Saxl's epic arrives from [Touchtheplants](https://www.touchtheplants.com/pages/info)' 2021 album [Sound Wonders: A Series of Epics](https://www.touchtheplants.com/products/sound-wonders-lp), a compilation that includes several other wonderful artists including harpist [Nailah Hunter](https://nailahhunter.bandcamp.com/) and [SK Kakraba](https://skkakraba.bandcamp.com/). Elori Saxl's [description](https://www.touchtheplants.com/products/sound-wonders-lp) of her contribution in the album's release details a certain binding to the moss, where she explains how she felt, sitting on a bed of moss in a shaded forrest, that "the world was pulsing all around me and I never wanted it to end" but she also was "very aware that it was already slipping away."**"**
 
 <p id="outroduction">That wraps up today's morning selection, the last episode of 2022! Thank you for joining us, we hope it brought some light into your morning. Our love to r mccarthy for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
-
