@@ -32,7 +32,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 # MailTape's selection
 
 ## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now) - Mistress Violet
-Sarah: **"**The first track I discovered from Yannick, in the mist of a Brooklyn nightclub.**"**
+Sarah: **"**The first track I discovered from Yannick, this intoxicating bassline swirling in the mists of a Brooklyn nightclub. This collaboration with Violet Chachki is so provocative and **"**
 
 ## [Omni Gardens](https://omnigardens.bandcamp.com/) - Algae After All
 Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
