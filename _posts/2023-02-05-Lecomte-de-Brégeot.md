@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Dina Summer - Uranos
 track2_title: Kisses - They Kiss
 track3_title: Matia Bazar - Elettrochoc
