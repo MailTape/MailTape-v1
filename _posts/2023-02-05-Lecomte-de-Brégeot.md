@@ -42,10 +42,10 @@ Bridging new wave and hard techno at once, the striking basslines and intricate 
 ## [Dina Summer](https://rogerdoyle1.bandcamp.com/) - Uranos
 Lecomte de Brégeot: **"**Typically my kind of song, a catchy bass line merging dark and sexy vocals, so 80's but with a contemporary vibe, perfect for the dancefloor.**"**
 
-## [Hypnotic Brass Ensemble](http://www.yoshihirohanno.com/discography/) and [Mick Karn](https://mickkarn.net/) - Now
+## [Kisses](https://mickkarn.net/) - They Kiss
 Lecomte de Brégeot: **"**One of my last crushes, so pop, so romantic, and all these vintage synths are exactly what I could use for my own productions.**"**
 
-## [Matia Bazar](https://johnpowellmusic.com/) - Elettrochoc
+## [Matia Bazar](https://www.discogs.com/artist/136886-Matia-Bazar) - Elettrochoc
 Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazil, I like when artists are taking risks, the first time I heard it, I was really surprised, kind of unexpected to get this wacky vocal line on this groovy instrumental, highly creative :)**"**
 
 # MailTape's selection
@@ -53,7 +53,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 ## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now), Violet Chachki, Allie X - Mistress Violet
 Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a queer Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are classic and surprising at the same time.**"**
 
-## [Cakes da Killa](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Sevndeep - Sip of My Sip
+## [Cakes da Killa](https://cakesdakilla.bandcamp.com/), Sevndeep - Sip of My Sip
 Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative.**"**
 
 ## [Wajatta](https://wajatta.bandcamp.com/) - Marmite
