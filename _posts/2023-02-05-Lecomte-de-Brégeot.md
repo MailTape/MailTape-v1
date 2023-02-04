@@ -24,6 +24,7 @@ guestPic: guestPic516.jpg
 track6_title: Wajatta - Marmite
 track5_title: 'Cakes da Killa, Svendeep - Sip of My Sip'
 episode_URL: 'http://mailta.pe/516/Lecomte-de-Brégeot/'
+image: 'https://mailta.pe/img/fbPic516.png'
 ---
 <p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and Ballrooms alike. 
   <br><br>
