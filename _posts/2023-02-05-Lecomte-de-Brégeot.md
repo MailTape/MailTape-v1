@@ -20,10 +20,12 @@ author: Sarah
 illustrator: Camille Célestin
 writer: Sarah
 guest_color: vibrant
+guestPic: guestPic516.jpg
 ---
 <p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>
 [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/) for an episode. Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
+![guestPic516.jpg]({{site.baseurl}}/img/guestPic516.jpg)
 
 # Lecomte de Brégeot's selection
 
