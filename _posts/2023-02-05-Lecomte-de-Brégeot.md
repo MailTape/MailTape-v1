@@ -25,7 +25,8 @@ track6_title: 'Cakes da Killa, Svendeep - Sip of My Sip'
 ---
 <p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and dancefloors alike. 
   <br><br>
-Yannick Lecomte's latest work collaborates with queer icon Violet Chachki.</p>
+
+</p>
 
 # Lecomte de Brégeot's selection
 
@@ -40,8 +41,8 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 
 # MailTape's selection
 
-## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now) - Mistress Violet
-Sarah: **"**The first track I discovered from Yannick, this intoxicating bassline swirling in the mists of a Brooklyn nightclub. This collaboration with Violet Chachki is so provocative and **"**
+## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now), Violet Chachki, Allie X - Mistress Violet
+Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki. I heard this intoxicating bassline pulsing through the mists of a Brooklyn nightclub. This vocals  provocative and **"**
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
 Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
