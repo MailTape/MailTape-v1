@@ -24,7 +24,7 @@ guestPic: guestPic516.jpg
 track6_title: French Horn Rebellion - Soy Bonita
 track5_title: 'Cakes da Killa, Svendeep - Sip of My Sip'
 ---
-<p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and dancefloors alike. 
+<p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and Ballroom runways alike. 
   <br><br>
 
 </p>
