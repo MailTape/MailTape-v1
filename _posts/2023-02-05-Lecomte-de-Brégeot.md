@@ -49,7 +49,7 @@ Sarah: **"**The latest track from Yannick, a collaboration with queer icon Viole
 Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative.**"**
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
-Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking, singing, making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
+Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking between accents, singing riff melodies, and making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot**"**
