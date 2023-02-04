@@ -21,6 +21,7 @@ illustrator: Camille Célestin
 writer: Sarah
 guest_color: vibrant
 guestPic: guestPic516.jpg
+track6_title: 'Cakes da Killa, Svendeep - Sip of My Sip'
 ---
 <p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and dancefloors alike. 
   <br><br>
@@ -45,8 +46,8 @@ Sarah: **"**The first track I discovered from Yannick, this intoxicating basslin
 ## [Omni Gardens](https://omnigardens.bandcamp.com/) - Algae After All
 Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
 
-## [Paul Lansky](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Her Voice
-Sarah: **"**On our last class of the semester, my music professor introduced us to Paul Lansky's [exploratory](http://paul.mycpanel.princeton.edu/liner_notes/fantasies.html) 1994 album, [Fantasies and Tableaux](https://www.newworldrecords.org/products/paul-lansky-fantasies-and-tableaux). This is the first track off the release, and after listening through the rest of the collection, it's still my favorite ([Her Song](https://www.youtube.com/watch?v=lppSwmBBmOk) is a close second). The production process here is interesting, Paul Lansky uses his wife's voice as a technical instrument for the entire piece (bassline, chords, etc.), producing some of the synthwork with linear predictive coding. I love the haunting quality of his resulting product, approaching the uncanny valley of voice but still with the underlying romantic context to make me smile.**"**
+## [Cakes da Killa](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Sevndeep - Sip of My Sip
+Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for the hip hop club scene, **"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot**"**
