@@ -42,7 +42,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 # MailTape's selection
 
 ## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now), Violet Chachki, Allie X - Mistress Violet
-Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki. I heard this intoxicating bassline pulsing through the mists of a Brooklyn nightclub. This vocals  provocative and **"**
+Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating bassline pulsing through the mists of a queer Brooklyn nightclub. The confident vocals against such dominant basslines and synthwork set the stage. **"**
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
 Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
