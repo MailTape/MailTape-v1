@@ -39,7 +39,7 @@ Bridging new wave and hard techno at once, the striking basslines and intricate 
 
 # Lecomte de Brégeot's selection
 
-## [Dina Summer](https://rogerdoyle1.bandcamp.com/) - Uranos
+## [Dina Summer](https://soundcloud.com/dinasummer) - Uranos
 Lecomte de Brégeot: **"**Typically my kind of song, a catchy bass line merging dark and sexy vocals, so 80's but with a contemporary vibe, perfect for the dancefloor.**"**
 
 ## [Kisses](https://mickkarn.net/) - They Kiss
