@@ -14,6 +14,12 @@ track5_color: trippy
 track6_color: vibrant
 track7_color: trippy
 track7_title: Lecomte de Brégeot - Nerves
+category: '516'
+guest_name: Lecomte de Brégeot
+author: Sarah
+illustrator: Camille Célestin
+writer: Sarah
+guest_color: vibrant
 ---
 <p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>
