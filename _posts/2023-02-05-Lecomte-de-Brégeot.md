@@ -29,7 +29,7 @@ musiColor: musiColor516.png
 ---
 <p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and Ballrooms alike. 
   <br><br>
-Bridging new wave and hard techno at once, the striking basslines and intricate vocal layering in Lecomte's work are always on the fringe of genre. 
+Bridging new wave and hard techno at once, the striking basslines and intricate vocal layering in Lecomte's work always land on the fringe of genres, pushing into new spaces of collaboration. 
 </p>
 
 # Lecomte de Brégeot's selection
