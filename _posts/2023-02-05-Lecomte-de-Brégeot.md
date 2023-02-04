@@ -42,13 +42,13 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 # MailTape's selection
 
 ## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now), Violet Chachki, Allie X - Mistress Violet
-Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a queer Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are classic and surprising at the same time. **"**
+Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a queer Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are classic and surprising at the same time.**"**
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
-Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
+Sarah: **"**A go-to track for a good morning :)**"**
 
 ## [Cakes da Killa](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Sevndeep - Sip of My Sip
-Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for the hip hop club scene, **"**
+Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from meditative to  **"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot**"**
