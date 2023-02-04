@@ -45,7 +45,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a queer Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are classic and surprising at the same time.**"**
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
-Sarah: **"**A go-to track for a good morning :)**"**
+Sarah: **"**A go-to track for a good morning :) The vocals and synthwork on this track are fascinating.**"**
 
 ## [Cakes da Killa](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Sevndeep - Sip of My Sip
 Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from meditative to  **"**
