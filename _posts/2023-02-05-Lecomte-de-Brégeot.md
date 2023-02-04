@@ -51,6 +51,7 @@ Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Kill
 
 ## [Wajatta](https://omnigardens.bandcamp.com/) - Marmite
 Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking/whispering between accents, singing riff melodies, even making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
+![fbPic516.png]({{site.baseurl}}/img/fbPic516.png)
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast a Lecomte's signature over the track. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :) Yannick speaks about the story of songs, and the narrative he seeks to tell with the build and fall of each track. **"**
