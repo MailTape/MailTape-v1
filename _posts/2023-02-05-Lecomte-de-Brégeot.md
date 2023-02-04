@@ -5,7 +5,7 @@ published: false
 track1_title: Dina Summer - Uranos
 track2_title: Kisses - They Kiss
 track3_title: Matia Bazar - Elettrochoc
-track4_title: 'Lecomte de Brégeot, Violet Chachki - Mistress Violet'
+track4_title: 'Lecomte de Brégeot, Violet Chachki, Allie X - Mistress Violet'
 track1_color: trippy
 track3_color: trippy
 track2_color: vibrant
