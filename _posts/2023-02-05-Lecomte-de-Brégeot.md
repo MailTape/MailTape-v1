@@ -52,6 +52,6 @@ Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Kill
 Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking/whispering between accents, singing riff melodies, even making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
-Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast a Lecomte's signature over the track. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :)**"**
+Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast a Lecomte's signature over the track. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :) Yannick speaks about the story of songs, and the narrative he seeks to tell with the build and fall of each track. **"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Lecomte de Brégeot for these wonderful Sunday selections, and many many thanks to [Camille Célestin](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
