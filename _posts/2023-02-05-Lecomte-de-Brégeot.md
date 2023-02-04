@@ -30,7 +30,14 @@ description: >-
   Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of
   electro tracks to open the morning. Based in Lyon, the music of Lecomte de
   Brégeot (aka Yannick Lecomte) graces runways across the world, curating
-  fashion spectacles and Ballrooms alike.
+  fashion spectacles and Ballrooms alike. 
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track7.mp3'
 ---
 <p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and Ballrooms alike. 
   <br><br>
@@ -42,7 +49,7 @@ Bridging new wave and hard techno at once, the striking basslines and intricate 
 ## [Dina Summer](https://soundcloud.com/dinasummer) - Uranos
 Lecomte de Brégeot: **"**Typically my kind of song, a catchy bass line merging dark and sexy vocals, so 80's but with a contemporary vibe, perfect for the dancefloor.**"**
 
-## [Kisses](https://mickkarn.net/) - They Kiss
+## They Kiss - Kisses
 Lecomte de Brégeot: **"**One of my last crushes, so pop, so romantic, and all these vintage synths are exactly what I could use for my own productions.**"**
 
 ## [Matia Bazar](https://www.discogs.com/artist/136886-Matia-Bazar) - Elettrochoc
