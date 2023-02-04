@@ -54,4 +54,4 @@ Sarah: **"**So much momemtum in this track buildup, especially with these percus
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast a sort of signature for Lecomte's work. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other :)**"**
 
-<p id="outroduction">That wraps up today's morning selection, the last episode of 2022! Thank you for joining us, we hope it brought some light into your morning. Our love to r mccarthy for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
+<p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Lecomte de Brégeot for these wonderful Sunday selections, and many many thanks to [Camille Célestin](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
