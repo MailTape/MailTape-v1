@@ -56,6 +56,5 @@ Sarah: **"**So much momemtum in this track buildup, especially with these percus
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast a Lecomte's signature over the track. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :) Yannick speaks about the story of songs, and the narrative he seeks to tell with the build and fall of each track. **"**
-![musiColor516.png]({{site.baseurl}}/img/musiColor516.png)
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Lecomte de Brégeot for these wonderful Sunday selections, and many many thanks to [Camille Célestin](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
