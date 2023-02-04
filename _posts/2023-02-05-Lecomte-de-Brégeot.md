@@ -48,7 +48,7 @@ Sarah: **"**The latest track from Yannick, a collaboration with queer icon Viole
 Sarah: **"**A go-to track for a good morning :) The vocals and synthwork on this track are fascinating.**"**
 
 ## [Cakes da Killa](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Sevndeep - Sip of My Sip
-Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from meditative to  **"**
+Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative.**"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
 Sarah: **"**Another track from Lecomte de Brégeot**"**
