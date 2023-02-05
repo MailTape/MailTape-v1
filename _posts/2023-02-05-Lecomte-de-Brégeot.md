@@ -27,10 +27,11 @@ episode_URL: 'http://mailta.pe/516/Lecomte-de-Brégeot/'
 image: 'https://mailta.pe/img/fbPic516.png'
 musiColor: musiColor516.png
 description: >-
-  Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of
-  electro tracks to open the morning. Based in Lyon, the music of Lecomte de
-  Brégeot (aka Yannick Lecomte) graces runways across the world, curating
-  fashion spectacles and Ballrooms alike. 
+  The dancefloor energy is bleeding into the morning hours this Sunday as we
+  welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of
+  Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world,
+  curating fashion spectacles (with names including Yves Saint Laurent,
+  Balenciaga, Armani, and many more) and Ballrooms alike.
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track3.mp3'
