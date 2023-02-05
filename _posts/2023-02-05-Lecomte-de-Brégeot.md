@@ -60,15 +60,15 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 # MailTape's selection
 
 ## [Lecomte de Brégeot](https://infinitebisous.bandcamp.com/album/any-day-now), Violet Chachki, Allie X - Mistress Violet
-Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a queer Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are classic and surprising at the same time.**"**
+Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are retro-timeless and surprising at the same time.**"**
 
 ## [Cakes da Killa](https://cakesdakilla.bandcamp.com/), Sevndeep - Sip of My Sip
-Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing so much for intersections in hip hop, club, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative.**"**
+Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing inspiring work for crossovers in hip hop, house, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative, even featuring a shift to more r&b energy in Drugs Du Jour and Luv Me Not (Reprise). A delight to listen through.**"**
 
 ## [Wajatta](https://wajatta.bandcamp.com/) - Marmite
 Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking/whispering between accents, singing riff melodies, even making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
 
 ## [Lecomte de Brégeot](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Nerves
-Sarah: **"**Another track from Lecomte de Brégeot to close out this playlist. As always, the retro rippling basslines cast Lecomte's signature over the track, a style patterning across his discography. One can follow a textured narrative in this track, a story to engage with. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :)**"**
+Sarah: **"**Another track from Lecomte de Brégeot to close out this playlis :) As always, the retro rippling basslines cast Lecomte's signature over the track, a style patterning across his discography. One can follow a textured narrative in this track, a story to engage with. The synths are intimidating and yet inviting at once, I love how the vocals and cymbals whisper to each other at the track's build :)**"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Lecomte de Brégeot for these wonderful Sunday selections, and many many thanks to [Camille Célestin](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration!</p>
