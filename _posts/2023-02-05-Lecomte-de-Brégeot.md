@@ -63,7 +63,7 @@ Lecomte de Brégeot: **"**I recently discovered this song while touring in Brazi
 Sarah: **"**The latest track from Yannick, a collaboration with queer icon Violet Chachki and Canadian artist Allie X. I heard this intoxicating synthwork poking through the mists of a Brooklyn nightclub and was instantly obsessed. The velvet vocals against such punchy basslines and intricate synthwork are retro-timeless and surprising at the same time.**"**
 
 ## [Cakes da Killa](https://cakesdakilla.bandcamp.com/), Sevndeep - Sip of My Sip
-Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing inspiring work for crossovers in hip hop, house, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative, even featuring a shift to more r&b energy in Drugs Du Jour and Luv Me Not (Reprise). A delight to listen through.**"**
+Sarah: **"**Off of the latest album from Cakes da Killa, Svengali. Cakes da Killa is doing inspiring work for crossovers in hip hop, house, and ballroom scenes. This latest album is such a melange of different movements, from rousing to meditative, even featuring a shift to more jazz/r&b energy in [Drugs Du Jour](https://cakesdakilla.bandcamp.com/album/svengali) and [Luv Me Not (Reprise)](https://cakesdakilla.bandcamp.com/album/svengali). A delight to listen through.**"**
 
 ## [Wajatta](https://wajatta.bandcamp.com/) - Marmite
 Sarah: **"**So much momemtum in this track buildup, especially with these percussives :) The vocals of Reggie Watts and John Tejada are so dynamic, at times speaking/whispering between accents, singing riff melodies, even making percussive sounds; in vibrant conversation and collaboration with the track underlays.**"**
