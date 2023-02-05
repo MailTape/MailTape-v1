@@ -39,9 +39,11 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/516/track7.mp3'
 ---
-<p id="introduction"> Today, we welcome Lecomte de Brégeot to MailTape for a sliding selection of electro tracks to open the morning. Based in Lyon, the music of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles and Ballrooms alike. 
+<p id="introduction"> The dancefloor energy is bleeding into the morning hours this Sunday as we welcome Lecomte de Brégeot to MailTape :) Based in Lyon, the discography of Lecomte de Brégeot (aka Yannick Lecomte) graces runways across the world, curating fashion spectacles (with names including Yves Saint Laurent, Balenciaga, Armani, and many more) and Ballrooms alike. 
   <br><br>
 Bridging new wave and hard techno at once, the striking basslines and intricate vocal layering in Lecomte's work always land on the fringe of genres, pushing into new spaces of collaboration. 
+  
+  Bridging new wave and hard techno at once, the striking basslines and intricate vocal layering in Lecomte's work always manage to balance delicate and daring tastes, pushing into fringe spaces of creative collaborations. 
 </p>
 
 # Lecomte de Brégeot's selection
