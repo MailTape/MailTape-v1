@@ -21,7 +21,7 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 
 # MailTape's selection
 
-## Sierra Manhattan -
+## Sierra Manhattan - 
 Anaïs G: **"** **"**
 
 ## - 
