@@ -2,6 +2,26 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Meriam Kharbat
+category: '518'
+guest_name: Sierra Manhattan
+guest_color: bliss
+guestPic: guestPic518.jpg
+track1_title: Js Donny - Purple 1
+track1_color: dreamy
+track2_title: A.G. Cook - Animals
+track2_color: vibrant
+track3_title: Kraftwerk - The Hall of Mirrors
+track3_color: trippy
+track4_title: Sierra Manhattan - Smartphones
+track4_color: bliss
+track5_title: Miryam Solomon - Romance
+track5_color: vibrant
+track6_title: Cleo Sol - Spirit
+track6_color: dreamy
+track7_title: 'Nilufer Yanya - '
+track7_color: bliss
 ---
 <p id="introduction"> This morning,
   <br><br>
