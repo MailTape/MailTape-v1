@@ -20,7 +20,7 @@ track5_title: Miryam Solomon - Romance
 track5_color: vibrant
 track6_title: Cleo Sol - Spirit
 track6_color: dreamy
-track7_title: 'Nilufer Yanya - '
+track7_title: Nilufer Yanya - Midnight Sun
 track7_color: bliss
 episode_URL: 'http://mailta.pe/518/sierra-manhattan/'
 image: 'https://mailta.pe/img/fbPic518.png'
