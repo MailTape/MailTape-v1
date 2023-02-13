@@ -25,6 +25,13 @@ track7_color: bliss
 episode_URL: 'http://mailta.pe/518/sierra-manhattan/'
 image: 'https://mailta.pe/img/fbPic518.png'
 musiColor: musiColor518.png
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
 ---
 <p id="introduction"> This morning,
   <br><br>
