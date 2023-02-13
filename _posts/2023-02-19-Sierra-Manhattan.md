@@ -61,6 +61,6 @@ Anaïs G: **"** **"**
 Anaïs G: **"** **"**
 
 ## Nilüfer Yanya - Midnight Sun
-Anaïs G: **"**Pour cloturer cette playlist, rien de mieux qu'une chanson qui nous réveille et nous met en joie pour le reste de la journée. J'ai découvert Nilüfer Yanya avec ses titres phares comme "Angels" ou "In Your Head", issue de son album "Miss Universe".   **"**
+Anaïs G: **"**Pour cloturer cette playlist, rien de mieux qu'une chanson qui nous réveille et nous met en joie pour le reste de la journée. J'ai découvert Nilüfer Yanya avec ses titres phares comme "Angels" ou "In Your Head", issue de son album "Miss Universe".**"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Sierra Manhattan for these wonderful Sunday selections, and many many thanks to [*] for this episode's fantastic illustration!</p>
