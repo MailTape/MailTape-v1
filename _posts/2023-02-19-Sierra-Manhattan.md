@@ -51,16 +51,16 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 
 # MailTape's selection
 
-## Sierra Manhattan - 
+## Sierra Manhattan - Smartphones
 Anaïs G: **"** **"**
 
-## - 
+## Miryam Solomon - Romance
 Anaïs G: **"** **"**
 
-## - 
+## Cléo Sol - Spirit
 Anaïs G: **"** **"**
 
-##  - 
+## Nilüfer Yanya - Midnight Sun
 Anaïs G: **"** **"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Sierra Manhattan for these wonderful Sunday selections, and many many thanks to [*] for this episode's fantastic illustration!</p>
