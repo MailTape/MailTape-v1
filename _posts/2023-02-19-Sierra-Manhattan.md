@@ -33,7 +33,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
 ---
-<p id="introduction"> This morning,
+<p id="introduction"> This morning, on a besoin de repos, de se laisser aller à d'autres sensations, ou de re-découvrir les plaisirs simples tel que profiter des rayons du soleil, observer les oiseaux et sentir le vent dans notre cou. Le groupe Sierra Manhattan nous accompagne donc dans cette playlist du tranquille et du laisser vivre.
   <br><br>
   
 </p>
@@ -61,6 +61,6 @@ Anaïs G: **"** **"**
 Anaïs G: **"** **"**
 
 ## Nilüfer Yanya - Midnight Sun
-Anaïs G: **"** **"**
+Anaïs G: **"**Pour cloturer cette playlist, rien de mieux qu'une chanson qui nous réveille et nous met en joie pour le reste de la journée. J'ai découvert Nilüfer Yanya avec ses titres phares comme "Angels" ou "In Your Head", issue de son album "Miss Universe".   **"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Sierra Manhattan for these wonderful Sunday selections, and many many thanks to [*] for this episode's fantastic illustration!</p>
