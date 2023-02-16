@@ -52,15 +52,15 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 # MailTape's selection
 
 ## Sierra Manhattan - Smartphones
-Anaïs G: **"** J'ai aime leur pop décalée, et marrante. Cette non-prise de tête que l'on vivrait être au qotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans une pièce de l'appartement. Complètement en lacher prise total!**"**
+Anaïs G: **"** J'ai aimé leur pop décalée, et marrante. Cette non-prise de tête que l'on vivrait être au qotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans une pièce de l'appartement. Complètement en lacher prise total!**"**
 
 ## Miryam Solomon - Romance
 Anaïs G: **"**le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme sur un nuage.**"**
 
 ## Cléo Sol - Spirit
-Anaïs G: **"**Tout aussi beau et tranquille que Miyram Solomon, la chanteuse Cléo Sol que j'avais découvert grâce à son titre "Why Dont'You". Cette fois-ci je suis tombée sur son album sorti en septembre 2021 intitulé "Mother" qui parle de sa nouvelle vie en tant que jeune maman. Un bijou, néo-soul, apaisant, plein d'optimisme et doux comme un pull cocoon.**"**
+Anaïs G: **"**Just as beautiful and quiet as Miyram Solomon, the singer Cleo Sol whom I had discovered thanks to her song "Why Dont'You". This time I came across her album released in September 2021 entitled "Mother" which talks about her new life as a young mom. A jewel, neo-soul, soothing, full of optimism and soft as a cocoon sweater.**"**
 
 ## Nilüfer Yanya - Midnight Sun
-Anaïs G: **"**Pour cloturer cette playlist, rien de mieux qu'une chanson qui nous réveille et nous met en joie pour le reste de la journée. J'ai découvert Nilüfer Yanya avec ses titres phares comme "Angels" ou "In Your Head", issue de son album "Miss Universe". Depuis, je n'ai fait que suivre cette talentueuse chanteuse britannique qui a sorti son nouvel opus "Painless". Même s'il y a encore énormément de chansons incroyables sur cet album, ma préféré est "Midnight Sun". Encore une fois nous retrouvons les mêmes ingrédients, une voix grave, un style de folie et des guitares saturés, tout ce que j'aime! **"**
+Anaïs G: **"**To close this playlist, nothing better than a song that wakes us up and makes us happy for the rest of the day. I discovered Nilüfer Yanya with her main tracks like "Angels" or "In Your Head", from her album "Miss Universe". Since then, I've only followed this talented British singer who released her new opus "Painless". Even though there are still a lot of amazing songs on this album, my favorite is "Midnight Sun". Once again we find the same ingredients, a low voice, a crazy style and saturated guitars, everything I love!**"**
 
 <p id="outroduction">That's all for this morning's selection! Thank you for joining us, we hope you danced :) Our love to Sierra Manhattan for these wonderful Sunday selections, and many many thanks to Meriam Kharbat for this episode's fantastic illustration!</p>
