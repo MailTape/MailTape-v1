@@ -52,13 +52,13 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 # MailTape's selection
 
 ## Sierra Manhattan - Smartphones
-Anaïs G: **"** **"**
+Anaïs G: **"** J'ai aime leur pop décalée, et marrante. Cette non-prise de tête que l'on vivrait être au qotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans une pièce de l'appartement. Complètement en lacher prise total!**"**
 
 ## Miryam Solomon - Romance
-Anaïs G: **"** **"**
+Anaïs G: **"**le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme sur un nuage.**"**
 
 ## Cléo Sol - Spirit
-Anaïs G: **"** **"**
+Anaïs G: **"**Tout aussi beau et tranquille que Miyram Solomon, la chanteuse Cléo Sol que j'avais découvert grâce à son titre "Why Dont'You". Cette fois-ci je suis tombée sur son album sorti en septembre 2021 intitulé "Mother" qui parle de sa nouvelle vie en tant que jeune maman. Un bijou, néo-soul, apaisant, plein d'optimisme et doux comme un pull cocoon.**"**
 
 ## Nilüfer Yanya - Midnight Sun
 Anaïs G: **"**Pour cloturer cette playlist, rien de mieux qu'une chanson qui nous réveille et nous met en joie pour le reste de la journée. J'ai découvert Nilüfer Yanya avec ses titres phares comme "Angels" ou "In Your Head", issue de son album "Miss Universe". Depuis, je n'ai fait que suivre cette talentueuse chanteuse britannique qui a sorti son nouvel opus "Painless". Même s'il y a encore énormément de chansons incroyables sur cet album, ma préféré est "Midnight Sun". Encore une fois nous retrouvons les mêmes ingrédients, une voix grave, un style de folie et des guitares saturés, tout ce que j'aime! **"**
