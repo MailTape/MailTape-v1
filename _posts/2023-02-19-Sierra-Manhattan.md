@@ -33,7 +33,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
 ---
-<p id="introduction"> This morning, on a besoin de repos, de se laisser aller à d'autres sensations, ou de re-découvrir les plaisirs simples tel que profiter des rayons du soleil, observer les oiseaux et sentir le vent dans notre cou. Le groupe Sierra Manhattan nous accompagne donc dans cette playlist du tranquille et du laisser vivre.
+<p id="introduction"> This morning, on a besoin de repos, de se laisser aller à d'autres sensations, ou de re-découvrir les plaisirs simples tel que profiter de ses proches, des rayons du soleil, observer les oiseaux ou encore sentir le vent dans notre cou. Le groupe Sierra Manhattan nous accompagne donc dans cette playlist du tranquille et du laisser vivre.
   <br><br>
   
 </p>
