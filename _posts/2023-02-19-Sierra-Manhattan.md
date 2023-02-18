@@ -33,15 +33,15 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
 ---
-<p id="introduction"> This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band Sierra Manhattan accompanies us in this playlist of quiet and let live.
+<p id="introduction"> This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.
 <br><br>
-The band Sierra Manhattan, released their new EP "Which Life, The Friends" on AB Records, on February 17th. With the return of the sun and long naps on the deckchair, it's good news to get carried away by the offbeat pop.
+The band Sierra Manhattan, released their new EP "[Which Life, The Friends](https://abrecords.bandcamp.com/album/which-life-the-friends)" on [AB Records](https://abrecords.bandcamp.com/), on February 17th. With the return of the sun and long naps on the deckchair, it's good news to get carried away by the offbeat pop.
 </p>
 
 # Sierra Manhattan's selection
 
-##  Js Donny - Purple 1
-Sierra Manhattan: **"**My friend Sarah Myy mixed this track on a sunday afternoon in Lille where I was playing with my solo project Bravo Tounky. Been listening to their music on loop ever since. I also really love their band Donna Candy which is obviously the best punk / noise band alive. Js Donny gave me faith in guitars again, haha !**"**
+##  [Js Donny](https://soundcloud.com/jsdonny) - Purple 1
+Sierra Manhattan: **"**My friend Sarah Myy mixed this track on a sunday afternoon in Lille where I was playing with my solo project [Bravo Tounky](https://soundcloud.com/bravotounky). Been listening to their music on loop ever since. I also really love their band Donna Candy which is obviously the best punk / noise band alive. Js Donny gave me faith in guitars again, haha !**"**
 
 ## AG Cook  - Animals
 Sierra Manhattan: **"**It would be an enormous lie to tell that this person’s music wasn’t an huge influence on everything I did musically since almost ten years. I don’t think you can very much hear it in anything I do but his music unlocked so many process on using computer sounds, electronic drum kits, voice effects and basically emancipate myself from a basic pop/rock kind of making music.**"**
@@ -55,7 +55,7 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 Anaïs G: **"**I liked their quirky, funny pop. This non-conceit that we should live every day, and it is with this song that I can imagine a crazy chorus made in improv in the kitchen demon apartment while preparing food. Completely letting go, this album "Which Life, The Friends" on the AB Records label, released last February 17th, is a breath of freshness!**"**
 
 ## Miryam Solomon - Romance
-Anaïs G: **"**Le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme la sensation d'être sur un nuage.**"**
+Anaïs G: **"**The sound captivated me at first and the clip did the rest. I was carried away by this magic of lapping, of a rather Japanese style that makes us become as light as the feeling of being on a cloud.**"**
 
 ## Cléo Sol - Spirit
 Anaïs G: **"**Just as beautiful and quiet as Miyram Solomon, the singer Cleo Sol whom I had discovered thanks to her song "Why Dont'You". This time I came across her album released in September 2021 entitled "Mother" which talks about her new life as a young mom. A jewel, neo-soul, soothing, full of optimism and soft as a cocoon sweater.**"**
