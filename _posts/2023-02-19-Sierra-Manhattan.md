@@ -55,7 +55,7 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 Anaïs G: **"** J'ai aimé leur pop décalée, et marrante. Cette non-prise de tête que l'on vivrait être au qotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans une pièce de l'appartement. Complètement en lacher prise total!**"**
 
 ## Miryam Solomon - Romance
-Anaïs G: **"**le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme sur un nuage.**"**
+Anaïs G: **"**Le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme la sensation d'être sur un nuage.**"**
 
 ## Cléo Sol - Spirit
 Anaïs G: **"**Just as beautiful and quiet as Miyram Solomon, the singer Cleo Sol whom I had discovered thanks to her song "Why Dont'You". This time I came across her album released in September 2021 entitled "Mother" which talks about her new life as a young mom. A jewel, neo-soul, soothing, full of optimism and soft as a cocoon sweater.**"**
