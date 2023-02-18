@@ -33,7 +33,6 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
 ---
-![fbPic518.png]({{site.baseurl}}/img/fbPic518.png)
 <p id="introduction"> This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.
 <br><br>
 The band Sierra Manhattan, released their new EP "[Which Life, The Friends](https://abrecords.bandcamp.com/album/which-life-the-friends)" on [AB Records](https://abrecords.bandcamp.com/), on February 17th. With the return of the sun and long naps on the deckchair, it's good news to get carried away by the offbeat pop.
