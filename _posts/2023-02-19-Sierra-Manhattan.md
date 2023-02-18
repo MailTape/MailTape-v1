@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Anaïs G
 illustrator: Meriam Kharbat
 category: '518'
@@ -52,7 +52,7 @@ Sierra Manhattan:**"**Florian (Sierra Manhattan’s drummer and producer of the 
 # MailTape's selection
 
 ## Sierra Manhattan - Smartphones
-Anaïs G: **"** J'ai aimé leur pop décalée, et marrante. Cette non-prise de tête que l'on devrait vivre au quotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans la cuisine demon appartement en préparant à manger. Complètement en lacher prise total!**"**
+Anaïs G: **"** J'ai aimé leur pop décalée, et marrante. Cette non-prise de tête que l'on devrait vivre au quotidien, et c'est avec cette chanson que j'imagine très bien une choré loufoque faite en impro dans la cuisine demon appartement en préparant à manger. Complètement en lacher prise total, cette album "Which Life, The Friends" sur le label AB Records,sorti le 17 février dernier, est une bouffée d'être frais!**"**
 
 ## Miryam Solomon - Romance
 Anaïs G: **"**Le son m'a d'abord subjugué et le clip a fait le reste. Je fus transportée par cette magie des clapoties, d'un style plutot japonisant qui nous fait devenir léger comme la sensation d'être sur un nuage.**"**
