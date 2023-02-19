@@ -32,6 +32,11 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/518/track7.mp3'
+description: >-
+  This morning, you need to rest, to let yourself go to other sensations, or to
+  rediscover simple pleasures such as enjoying your loved ones, the rays of the
+  sun, bird watching or even feeling the wind in your neck. The band Sierra
+  Manhattan accompanies us in this playlist of quiet and let live.
 ---
 <p id="introduction"> This morning, you need to rest, to let yourself go to other sensations, or to rediscover simple pleasures such as enjoying your loved ones, the rays of the sun, bird watching or even feeling the wind in your neck. The band [Sierra Manhattan](https://soundcloud.com/sierra-manhattan) accompanies us in this playlist of quiet and let live.
 <br><br>
