@@ -24,10 +24,10 @@ track3_color: dreamy
 track4_title: Alexi Shell - Eruption
 track4_color: rough 
 
-track5_title: Kelela - Bruises
-track5_color: vibrant 
+track5_title: Bambii - Ride With Me
+track5_color: vibrant
 
-track6_title: Bambii - Ride With Me
+track6_title: Kelela - Bruises
 track6_color: vibrant 
 
 track7_title: DJ Python - I'm Tired
@@ -70,13 +70,14 @@ Alexi Shell: **"**I remembered listening to this song on a ferry in Greece in ma
 
 ImaCrea: **"**Alexi's album is so eclectic, it was hard to decide which track to choose. Oscillating from ambient to techno, I wanted to find the right balance with the global energy of the episode and I believe we've got it here. Progressive energy building up, I listen to it and I envision a portal toward deep positive personal transformation. Spring is coming and this track is here as a reminder. Prepare for your metamorphosis.**"**
 
-## [Kelela](https://kelela.bandcamp.com/album/raven) - Bruises
-
-ImaCrea: **"**Right, let's keep it flowing with the queen Kelela. Back with her new album, Raven, already an acclaimed masterpiece. Produced with some of the most exciting talents around LSDXOXO, Bambii... Spring is going to be insane!**"**
-
 ## [Bambii](https://bambiibambii.bandcamp.com/track/ride-with-me) - Ride With Me
 
-ImaCrea: **"**Talking about Bambii... Challenging all music borders, her production is inspired by her Jamaican roots she crushes together with breakbeat, d&b, club, and jungle vibes.**"**
+ImaCrea: **"**Right, let's keep it flowing with Bambii... Challenging all music borders, her production is inspired by her Jamaican roots she crushes together with breakbeat, d&b, club, and jungle vibes.**"**
+
+## [Kelela](https://kelela.bandcamp.com/album/raven) - Bruises
+
+ImaCrea: **"**The queen Kelela is back with her new album, Raven, already an acclaimed masterpiece. Produced with some of the most exciting talents around LSDXOXO, Bambii... Spring is going to be insane!**"**
+
 
 ## [DJ Python](https://worldwideunlimited.bandcamp.com/album/esplit-ep) - I'm Tired
 
