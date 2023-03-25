@@ -42,6 +42,8 @@ prose:
           options:
             - name: "Anaïs G"
               value: "Anaïs G"
+            - name: "Anthony"
+              value: "Anthony"
             - name: "Arthur"
               value: "Arthur"
             - name: "Charlotte"
@@ -124,6 +126,8 @@ prose:
           options:
             - name: "Anaïs G"
               value: "Anaïs G"
+            - name: "Anthony"
+              value: "Anthony"
             - name: "Arthur"
               value: "Arthur"
             - name: "Charlotte"
