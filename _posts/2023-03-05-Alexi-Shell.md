@@ -5,6 +5,7 @@ published: true
 
 author: ImaCrea 
 illustrator: Meriam Kharbat
+writer: ImaCrea
 
 category: '520'
 
