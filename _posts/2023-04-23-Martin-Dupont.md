@@ -46,7 +46,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/525/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/525/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/525/track7.mp3'
 
-description: xxx
+description: This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with Martin Dupont! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.
 ---
 <p id="introduction">
 	This morning, get ready to start your day with a heartfelt and captivating episode of MailTape with [Martin Dupont](https://martindupont.bandcamp.com)! We're thrilled to share with you a special selection of hidden gems that we've curated after interviewing Alain Seghir, the leader of the band, following their live performance in Spain.
