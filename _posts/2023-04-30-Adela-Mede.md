@@ -11,7 +11,7 @@ category: '526'
 
 guest_name: Adela Mede
 guest_color: dreamy
-guestPic: guestPic526.png
+guestPic: guestPic526.jpg
 
 track1_title: Martyna Basta - Slowly Forgetting, Barely Remembering 
 track1_color: dreamy
