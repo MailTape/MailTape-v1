@@ -1,12 +1,73 @@
 ---
 ---
 
-<body>
-{%- assign latest_post = site.posts[0] -%}
-<p>Redirecting you to our latest episode <a href="{{ latest_post.url }}">{{ latest_post.title }}</a></p>
+<html>
 
-<script>
-    window.location.href = "{{ latest_post.url }}";
-</script>
+    <head>
+        <title>Welcome to MailTape - A place for music lovers by music lovers</title>
+        <meta property="og:title" content="Welcome to MailTape" />
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content="https://www.mailta.pe/" />
+        <meta property="og:image" content="https://www.mailta.pe/img/logo_MailTape_static.png" />
+        <meta property="og:description" content="Listen to our latest episode now." />
+     
+        <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</body>
+        <!-- Favicon -->
+        <link rel="apple-touch-icon" sizes="57x57" href="/assets/favicon/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="/assets/favicon/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/assets/favicon/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/assets/favicon/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/assets/favicon/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/assets/favicon/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/assets/favicon/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/assets/favicon/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="/assets/favicon/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/assets/favicon/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+        <link rel="manifest" href="/assets/favicon/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="/assets/favicon/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+
+        <!-- Matomo Tracker here. We're keeping your private data safe on our own server and not sharing it with external trackers such as Google. We use this only to know how many people enjoy MailTape and imagine new features. If you use a blocker, it's fine with us of course. Cheers. -->
+         <script type="text/javascript">
+          var _paq = window._paq || [];
+          /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+          _paq.push(['trackPageView']);
+          _paq.push(['enableLinkTracking']);
+          (function() {
+            var u="//maty.mailta.pe/";
+            _paq.push(['setTrackerUrl', u+'matomo.php']);
+            _paq.push(['setSiteId', '1']);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+          })();
+         </script>
+         <noscript><p><img src="//maty.mailta.pe/matomo.php?idsite=1&amp;rec=1" style="border:0;" alt="" /></p></noscript>
+         <!-- End Matomo Code -->
+
+
+         <!-- Bootstrap -->
+         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/bootstrap/bootstrap.min.css">
+         
+         <!-- CSS and styling components -->    
+         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/mailtape.css">
+         <link rel="stylesheet" type="text/css" href="/assets/stylesheets/index.css">
+         
+    </head>
+
+    <body>
+    {%- assign latest_post = site.posts[0] -%}
+    <p>Redirecting you to our latest episode <a href="{{ latest_post.url }}">{{ latest_post.title }}</a></p>
+
+    <script>
+        window.location.href = "{{ latest_post.url }}";
+    </script>
+
+    </body>
+
+</html>
