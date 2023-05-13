@@ -2,6 +2,28 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anaïs G
+illustrator: Thibault Daumain
+category: '527'
+guest_name: Grand Public
+guestPic: guestPic527.jpg
+track2_title: 'Tangerine Dream - Love On A Real Train '
+track2_color: dreamy
+track3_color: rough
+track4_title: Grand Public - Assez Apparement
+track3_title: The Courtneys - Tour
+track4_color: bliss
+track5_title: Sonic Youth - Reena
+track5_color: rough
+track6_title: Vampire Weekend - Everlasting Arms
+track6_color: vibrant
+track7_title: Thus Owls - I forget what I remenbered
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/527/grand-public/'
+image: 'https://mailta.pe/img/fbPic527.png'
+musiColor: musicolor527.png
+track1_title: Zwan - Lyric
+track1_color: rough
 ---
 <p id="introduction">
 	This morning, 
