@@ -39,7 +39,8 @@ description: >-
   March 24th, is the only tempo to have this weekend.
 ---
 <p id="introduction">
-	This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band [Grand Public](https://grandpublic.bandcamp.com/music) that we will put in off mode. "[Ideal Tempo](https://grandpublic.bandcamp.com/album/id-al-tempo-2)", released on March 24th, is the only tempo to have this weekend.
+	![guestPic527.jpg]({{site.baseurl}}/img/guestPic527.jpg)
+
 </p>
 
 # Grand Public's selection
@@ -76,5 +77,4 @@ Anaïs G: **"**We recognize this group directly with its lead singer [Ezra Koeni
 
 Anaïs G: **"**We end the playlist with something calm signed by a Swedish-Canadian band Thus Owls. Well done experimental indie-rock, with the singer piercing our hearts and shivering us with her voice. Strong emotions almost perceptible at every note of music. My favorite of the moment! **"**
 
-<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to [Grand Public](https://grandpublic.bandcamp.com/music)for her blissful selection. And bravo to [Thibault Daumain](https://thibaultdaumain.fr/)
- for this touching illustration. See you next Sunday.</p>
+<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to [Grand Public](https://grandpublic.bandcamp.com/music)for her blissful selection. And bravo to [Thibault Daumain](https://thibaultdaumain.fr/)for this touching illustration. See you next Sunday.</p>
