@@ -26,18 +26,18 @@ track1_title: Zwan - Lyric
 track1_color: rough
 ---
 <p id="introduction">
-	This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band Grand Public that we will put in off mode. "Ideal Tempo", released on March 24th, is the only tempo to have this weekend.
+	This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band [Grand Public](https://grandpublic.bandcamp.com/music) that we will put in off mode. "[Ideal Tempo](https://grandpublic.bandcamp.com/album/id-al-tempo-2)", released on March 24th, is the only tempo to have this weekend.
 </p>
 
 # Grand Public's selection
 
-## Zwan - Lyric
+## [Zwan](https://fr.wikipedia.org/wiki/Zwan) - Lyric
 
-Grand Public: **"**Bona fide supergroup: Billy Corgan and Jimmy Chamberlin from Smashing Pumpkins; David Pajo from Slint; Paz Lenchantin, currently in Pixies; Matt Sweeney from Chavez and countless others, look him up! Their one and only album, Mary Star of the Sea, just celebrated its 20-year anniversary. Flawless it is not, but many great moments. This is the opening track and it really goes for it. Rousing number. **"**
+Grand Public: **"**Bona fide supergroup: Billy Corgan and Jimmy Chamberlin from [Smashing Pumpkins](https://fr.wikipedia.org/wiki/The_Smashing_Pumpkins); David Pajo from [Slint](https://fr.wikipedia.org/wiki/Slint); Paz Lenchantin, currently in [Pixies](https://fr.wikipedia.org/wiki/Pixies); Matt Sweeney from Chavez and countless others, look him up! Their one and only album, Mary Star of the Sea, just celebrated its 20-year anniversary. Flawless it is not, but many great moments. This is the opening track and it really goes for it. Rousing number. **"**
 
-## Love on a Real Train - Tangerine Dream
+##  [Tangerine Dream](https://fr.wikipedia.org/wiki/Tangerine_Dream) -  Love on a Real Train
 
-Grand Public: **"**Legendary German band who provided the score to many beloved 1980s movies, perhaps most famously 1983’s Risky Business, which Love on a Real Train is taken from. Not digging too deep here as this is among their most celebrated tracks, for good reason. It was reprised to great effect in Noah Baumbach in 2005’s The Squid and the Whale. Endlessly evocative. Formed in the late 1960s, they just announced a tour with a stop in our hometown of Montreal. **"**
+Grand Public: **"**Legendary German band who provided the score to many beloved 1980s movies, perhaps most famously 1983’s Risky Business, which "Love on a Real Train" is taken from. Not digging too deep here as this is among their most celebrated tracks, for good reason. It was reprised to great effect in [Noah Baumbach](https://fr.wikipedia.org/wiki/Noah_Baumbach) in 2005’s "[The Squid and the Whale](https://en.wikipedia.org/wiki/The_Squid_and_the_Whale)". Endlessly evocative. Formed in the late 1960s, they just announced a tour with a stop in our hometown of Montreal. **"**
 
 ## The Courtneys -  Tour
 
