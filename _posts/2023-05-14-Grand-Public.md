@@ -48,19 +48,19 @@ Grand Public: **"**Hard to put a date on it but pre-pandemic, three of us in Gra
 
 ## Grand Public - Assez Apparement
 
-Anaïs G: **"** **"**
+Anaïs G: **"**Un jeu de guitare, une voix résonnant comme notre conscience et quelque chose de joyeux et non-chalant à la fois. C'est ce que Grand Public propose une musique hypnotique, entrainante et joyeuse. **"**
 
 ## Sonic Youth - Reena
 
-Anaïs G: **"** **"**
+Anaïs G: **"**Un son rock comme on les aime d'un groupe américain formé dans les années 80, qui nous replonge avec ce titre datant de 2006 dans notre adolescence. **"**
 
 ## Vampire Weekend - Everlasting Arms
 
-Anaïs G: **"** **"**
+Anaïs G: **"**On reconnait direct ce groupe avec son chanteur phare Ezra Koening qui existe depuis 2006. Il y aurait tellement de titres a sélectionné comme "A-punk" ou encore "Cousins". Mais pour ce dimanche matin, on se la joue posé avec leur titre "Everlasting Arms". Petit plaisir !**"**
 
 
-## Thus Owls - I forget what I remembered
+## Thus Owls - I Forget What I Remembered
 
-Anaïs G: **"** **"**
+Anaïs G: **"**On finit la playlist avec quelque chose de calme signé un groupe suédois-canadien Thus Owls. De l'indie-rock expérimental bien faite, avec la chanteuse qui nous transperce le coeur et nous met des frissons avec sa voix. Des émotions fortes presque perceptible à chaques notes de musique. Mon coup de coeur du moment! **"**
 
 <p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to Grabd Public for her blissful selection. And bravo to Thibault Daumain for this touching illustration. See you next Sunday.</p>
