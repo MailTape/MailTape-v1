@@ -26,7 +26,7 @@ track1_title: Zwan - Lyric
 track1_color: rough
 ---
 <p id="introduction">
-	This morning, on profite de ce mois de mai pour souffler, se détendre profiter des nombreux jours fériés pour se la couler douce. Un seul mot d'ordre: ne rien faire, juste savourer le temps présent ! C'est avec la sélection musicale du groupe Grand Public que nous allons donc se mettre en mode off. "Idéal Tempo", sorti le 24 mars dernier, est le seul tempo à avoir ce week-end.
+	This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band Grand Public that we will put in off mode. "Ideal Tempo", released on March 24th, is the only tempo to have this weekend.
 </p>
 
 # Grand Public's selection
