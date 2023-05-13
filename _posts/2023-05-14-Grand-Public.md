@@ -26,7 +26,7 @@ track1_title: Zwan - Lyric
 track1_color: rough
 ---
 <p id="introduction">
-	This morning, 
+	This morning, on profite de ce mois de mai pour souffler, se détendre profiter des nombreux jours fériés pour se la couler douce. Un seul mot d'ordre: ne rien faire, juste savourer le temps présent ! C'est avec la sélection musicale du groupe Grand Public que nous allons donc se mettre en mode off. 
 </p>
 
 # Grand Public's selection
