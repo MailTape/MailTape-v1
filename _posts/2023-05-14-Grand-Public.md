@@ -46,21 +46,21 @@ Grand Public: **"**Hard to put a date on it but pre-pandemic, three of us in Gra
 
 # MailTape's selection
 
-##  - 
+## Grand Public - Assez Apparement
 
 Anaïs G: **"** **"**
 
-##  - 
+## Sonic Youth - Reena
 
 Anaïs G: **"** **"**
 
-## - 
+## Vampire Weekend - Everlasting Arms
 
 Anaïs G: **"** **"**
 
 
-##  - 
+## Thus Owls - I forget what I remembered
 
 Anaïs G: **"** **"**
 
-<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to [Adela Mede](https://adelamede.bandcamp.com) for her blissful selection. And bravo to Celestin for this touching illustration. See you next Sunday.</p>
+<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to Grabd Public for her blissful selection. And bravo to Thibault Daumain for this touching illustration. See you next Sunday.</p>
