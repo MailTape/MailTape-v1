@@ -39,28 +39,28 @@ Grand Public: **"**Bona fide supergroup: Billy Corgan and Jimmy Chamberlin from 
 
 Grand Public: **"**Legendary German band who provided the score to many beloved 1980s movies, perhaps most famously 1983’s Risky Business, which "Love on a Real Train" is taken from. Not digging too deep here as this is among their most celebrated tracks, for good reason. It was reprised to great effect in [Noah Baumbach](https://fr.wikipedia.org/wiki/Noah_Baumbach) in 2005’s "[The Squid and the Whale](https://en.wikipedia.org/wiki/The_Squid_and_the_Whale)". Endlessly evocative. Formed in the late 1960s, they just announced a tour with a stop in our hometown of Montreal. **"**
 
-## The Courtneys -  Tour
+## [The Courtneys](https://en.wikipedia.org/wiki/The_Courtneys) -  Tour
 
 Grand Public: **"**Hard to put a date on it but pre-pandemic, three of us in Grand Public attended a show they played in a rather lo-fi venue here in Montreal, total blast. This is from their 2017 album II which is filled with swirling hooks and cool tones. Still waiting on the follow up. **"**
 
 
 # MailTape's selection
 
-## Grand Public - Assez Apparement
+## [Grand Public](https://grandpublic.bandcamp.com/music) - Assez Apparement
 
-Anaïs G: **"**Un jeu de guitare, une voix résonnant comme notre conscience et quelque chose de joyeux et non-chalant à la fois. C'est ce que Grand Public propose une musique hypnotique, entrainante et joyeuse. **"**
+Anaïs G: **"**A guitar playing, a voice that resonates like our consciousness and something cheerful and nonchalant at the same time. This is what Grand Public offers a hypnotic, enthralling and joyful music. **"**
 
-## Sonic Youth - Reena
+## [Sonic Youth](https://fr.wikipedia.org/wiki/Sonic_Youth) - Reena
 
-Anaïs G: **"**Un son rock comme on les aime d'un groupe américain formé dans les années 80, qui nous replonge avec ce titre datant de 2006 dans notre adolescence. **"**
+Anaïs G: **"**A rock sound like we like them from an American band formed in the 80s, which plunges us back with this title dating from 2006 into our adolescence. **"**
 
 ## Vampire Weekend - Everlasting Arms
 
-Anaïs G: **"**On reconnait direct ce groupe avec son chanteur phare Ezra Koening qui existe depuis 2006. Il y aurait tellement de titres a sélectionné comme "A-punk" ou encore "Cousins". Mais pour ce dimanche matin, on se la joue posé avec leur titre "Everlasting Arms". Petit plaisir !**"**
+Anaïs G: **"**We recognize this group directly with its lead singer [Ezra Koenig](https://fr.wikipedia.org/wiki/Ezra_Koenig) who exists since 2006. There would be so many tracks selected like "A-punk" or "Cousins". But for this Sunday morning, we play it easy with their title "Everlasting Arms". It's a pleasure! **"**
 
 
-## Thus Owls - I Forget What I Remembered
+## [Thus Owls](http://www.thusowls.com/) - I Forget What I Remembered
 
-Anaïs G: **"**On finit la playlist avec quelque chose de calme signé un groupe suédois-canadien Thus Owls. De l'indie-rock expérimental bien faite, avec la chanteuse qui nous transperce le coeur et nous met des frissons avec sa voix. Des émotions fortes presque perceptible à chaques notes de musique. Mon coup de coeur du moment! **"**
+Anaïs G: **"**We end the playlist with something calm signed by a Swedish-Canadian band Thus Owls. Well done experimental indie-rock, with the singer piercing our hearts and shivering us with her voice. Strong emotions almost perceptible at every note of music. My favorite of the moment! **"**
 
 <p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to Grabd Public for her blissful selection. And bravo to Thibault Daumain for this touching illustration. See you next Sunday.</p>
