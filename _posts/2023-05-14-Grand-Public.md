@@ -77,4 +77,4 @@ Anaïs G: **"**We recognize this group directly with its lead singer [Ezra Koeni
 
 Anaïs G: **"**We end the playlist with something calm signed by a Swedish-Canadian band Thus Owls. Well done experimental indie-rock, with the singer piercing our hearts and shivering us with her voice. Strong emotions almost perceptible at every note of music. My favorite of the moment! **"**
 
-<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to [Grand Public](https://grandpublic.bandcamp.com/music)for her blissful selection. And bravo to [Thibault Daumain](https://thibaultdaumain.fr/)for this touching illustration. See you next Sunday.</p>
+<p id="outroduction">That’s it for today! Thanks for being with us dear folks. Thanks a lot to [Grand Public](https://grandpublic.bandcamp.com/music)for her blissful selection. And bravo to Patricia de Miranda for her first and touching illustration, welcome to the crew! See you next Sunday.</p>
