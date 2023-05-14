@@ -3,7 +3,8 @@ layout: episode
 bigTitle_font_ratio: '6'
 published: true
 author: Anaïs G
-illustrator: Thibault Daumain
+illustrator: Patricia Barros De Miranda
+writer: Anaïs G
 category: '527'
 guest_name: Grand Public
 guestPic: guestPic527.jpg

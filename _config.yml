@@ -1,3 +1,4 @@
+
 name: MailTape
 description: We release a playlist co-curated with a surprise guest each Sunday morning. 💎
 author: MailTape Crew
@@ -112,6 +113,8 @@ prose:
               value: "Meriam Kharbat"
             - name: "Noémie"
               value: "Noémie Dijon"
+            - name: "Patricia"
+              value: "Patricia Barros De Miranda"
             - name: "Pierre-Julien"
               value: "Pierre-Julien Fieux"
             - name: "Thibault"
