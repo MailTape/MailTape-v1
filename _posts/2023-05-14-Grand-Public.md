@@ -39,7 +39,6 @@ description: >-
   March 24th, is the only tempo to have this weekend.
 guest_color: vibrant
 ---
-![fbPic527.png]({{site.baseurl}}/img/fbPic527.png)
 <p id="introduction">This morning, We take advantage of this month of May to breathe, relax and take advantage of the many public holidays to get away with it. One watchword: do nothing, just enjoy the present time! It is with the musical selection of the band [Grand Public](https://grandpublic.bandcamp.com/music) that we will put in off mode. "[Ideal Tempo](https://grandpublic.bandcamp.com/album/id-al-tempo-2)", released on March 24th, is the only tempo to have this weekend.
 </p>
 
