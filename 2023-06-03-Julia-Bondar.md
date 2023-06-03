@@ -13,22 +13,22 @@ We didn't see it coming. It’s like we got stuck in that club, where we lived a
 # Julia Bondar's selection
 
 
-## Luca Eck feat LVRA – Hide
+## [Luca Eck feat LVRA](https://soundcloud.com/iamlucaeck) – Hide
 
 Julia Bondar: **"**I like how Luca super hardcore kicks and cheesy melodies. Yet it sounds fresh and modern. It makes me feel sassy and powerful.**"**
 
-## Clams Casino feat Asap Rocky – Be somebody
+## [Clams Casino feat Lil B & Asap Rocky](https://clamscasinoofficial.bandcamp.com/) – Be somebody
 
 Julia Bondar: **"**Once I was listening to a Spotify algorithmic playlist and this song popped up. I could not keep doing what I was doing. I had to listen to it to the end and then 100 times more. The tempo, the rap in its best tradition mixed with the shoegaze atmosphere created by Clams Casino. These tree characteristics fall into place together so beautifully.**"**
 
-## Ari Abdul – Hush
+## [Ari Abdul](https://ariabdul.bandcamp.com/) – Hush
 
 Julia Bondar: **"**I wish I would be so cool Are when I was 20. This girl makes me want to go back to my teenage years and make everything complicated again.
 Too fall in love with a bad guy, wear black and pink and suffer.**"**
 
 # MailTape's selection
 
-## Julia Bondar – Hell of ride
+## [Julia Bondar](https://juliabondar.bandcamp.com/) – Hell of ride
 
 Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to a rumble, as if the tune was challenging us, or provoked our bodies and wanted to force us to answer. Well I don't need any more. You look for me, you find me, I'm won't let it go, and I'm going to dance like crazy until the very end of the song."
 
