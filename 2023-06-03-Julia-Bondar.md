@@ -30,7 +30,7 @@ Too fall in love with a bad guy, wear black and pink and suffer.**"**
 
 ## Julia Bondar – Hell of ride
 
-Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to fight, as if the piece was challenging us, that it was provoking our bodies and wanted to force us to respond to it. Well I don't need more. You look for me, you find me, I'm not going to let it go, and I'm going to dance like crazy until the end of the song. You shouldn't have looked for me!"
+Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to a rumble, as if the tune was challenging us, or provoked our bodies and wanted to force us to answer. Well I don't need any more. You look for me, you find me, I'm won't let it go, and I'm going to dance like crazy until the very end of the song."
 
 ## Blaise Moore – Stutter
 
