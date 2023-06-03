@@ -32,15 +32,15 @@ Too fall in love with a bad guy, wear black and pink and suffer.**"**
 
 Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to a rumble, as if the tune was challenging us, or provoked our bodies and wanted to force us to answer. Well I don't need any more. You look for me, you find me, I'm won't let it go, and I'm going to dance like crazy until the very end of the song."
 
-## Blaise Moore – Stutter
+## [Blaise Moore](https://soundcloud.com/blaisemoore) – Stutter
 
 Anto: "Echoing Ari Abdul’s track, here is a piece that could be sung at the Super Bowl halftime show by Rihanna or any pop icon adored by the crowds.. But since it came out in the privacy of the indie canadian community, it only has a few thousand views on youtube. Yet, this instru, this voice, this intention... We feel that the tune is made to hit his listener and come back haunting him night after night, in cursed dreams."
 
-## Fort Romeau - Beings of Light 
+## [Fort Romeau](https://fort-romeau.bandcamp.com/track/the-zone) - Beings of Light 
 
 Anto: "This is the opposite of the previous track. All the worries are gone, it's just us, and this music designed to make the crowd blubber. We cry while dancing, we hug, we love each other… We are alive!"
 
-## Dampa – Clubs
+## [Dampa](https://dampa.bandcamp.com/album/color-blind) – Clubs
 
 Anto: "And we end with a final effort. We don’t have a lot of energy anymore but whatever, we don't need. We just have to let ourselves be carried away by this deep beat, to follow the melodies that take us by the hand, and to listen to the advice that Djéla whispers in our ears with her half-sharp, half-bewitching voice. "Freeze the consequences!" she said. OK ! Never mind, it's already sunday morning and we dance again and again…"
 
