@@ -4,45 +4,44 @@ bigTitle_font_ratio: '6'
 published: false
 ---
 <p id="introduction">
-	This morning, I'd be delighted to continue our exploration of ambient music together, as you may have noticed my recent fascination with it. Lately, I find myself yearning for a serene and inviting atmosphere, a sanctuary from the chaos of everyday life.
+	This morning... Oh wait ! It’s morning already ?
+We didn't see it coming. It’s like we got stuck in that club, where we lived a thousand lives in a single night.
+  From the frenzied rhythms that make you want to wring your neck in the middle of the crowd, to these kinds of pop songs that make us forget everything around us and become teenagers again, passing through contemplative phases, where we have the impression of hovering in a cloud of smoke… This selection is a digest of all the emotions that we can experience during a club party with friends, with a crush (or ex-crush), with forbidden stuff, with a particular atmosphere that you only can feel in that place, and with music, of course !
 	<br><br>
-	I'm honored to invite you to join us for a serene experience featuring our guest, [The Humble Bee](https://thehumblebee.bandcamp.com/). This episode is filled with ambient music that will transport you to a place of calm and introspection. It's not just about listening; it's about truly immersing yourself in the moment. Whether you're admiring a beautiful landscape, taking a leisurely stroll through the countryside, expressing yourself through art, or simply enjoying the pleasure of cooking a delicious meal, each track acts as a gateway to a contemplative state of mind. <br><br>
-	It's a chance to reconnect with the world around us, to appreciate our place within it, and to find moments of peace and reflection.</p>
+	Our guest for this episode is Julia Bondar. She just released a new EP made of 4 smashing tracks including a wonderful feat with Rebeka Warrior and « Tropic of virgo », a masterpiece, the eponymous song that ends the EP as one ends a sleepless night : happy and grateful for the beautiful moments that we lived.</p>
 
-# The Humble Bee's selection
+# Julia Bondar's selection
 
-Sundays always seem to me to be a quiet day, calm, and less rushed or hectic than the others. I am not sure if I feel it is the end of the week, a slowing down and finding rest or the start of the week, the slow awakening maybe it is a transitional period between the two either way I like the music to be calm and unfurling, the music slow and spacious, no pressure on the ears but a space in them for you to move within.
 
-If allowed I would always start with the live birdsong from the open kitchen window, whist drinking the first coffee. Then, I would follow these with :
+## Luca Eck feat LVRA – Hide
 
-## Elisabeth Klinck - River
+Julia Bondar: **"**I like how Luca super hardcore kicks and cheesy melodies. Yet it sounds fresh and modern. It makes me feel sassy and powerful.**"**
 
-The Humble Bee: **"**A very gentle breathing feeling to this, slow, close movements.**"**
+## Clams Casino feat Asap Rocky – Be somebody
 
-## ROMANCE - Golden Slumbers
+Julia Bondar: **"**Once I was listening to a Spotify algorithmic playlist and this song popped up. I could not keep doing what I was doing. I had to listen to it to the end and then 100 times more. The tempo, the rap in its best tradition mixed with the shoegaze atmosphere created by Clams Casino. These tree characteristics fall into place together so beautifully.**"**
 
-The Humble Bee: **"**A warm space within this track, like the first blushes of sun touching your face.**"**
+## Ari Abdul – Hush
 
-## Clarice Jensen - BC
-
-The Humble Bee: **"**Then i am ready for the day.**"**
+Julia Bondar: **"**I wish I would be so cool Are when I was 20. This girl makes me want to go back to my teenage years and make everything complicated again.
+Too fall in love with a bad guy, wear black and pink and suffer.**"**
 
 # MailTape's selection
 
-## The Humble Bee - Murmur
+## Julia Bondar – Hell of ride
 
-ImaCrea: "And now, I'll continue with this magnificent musical playground that our guest opens up for us, with utmost gentleness."
+Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to fight, as if the piece was challenging us, that it was provoking our bodies and wanted to force us to respond to it. Well I don't need more. You look for me, you find me, I'm not going to let it go, and I'm going to dance like crazy until the end of the song. You shouldn't have looked for me!"
 
-## Zonderwerk - Vuurfeest
+## Blaise Moore – Stutter
 
-ImaCrea: "The day settles in, and we're already on our way, while the architecture watches us, or perhaps it is we who watch it?"
+Anto: "Echoing Ari Abdul’s track, here is a piece that could be sung at the Super Bowl halftime show by Rihanna or any pop icon adored by the crowds.. But since it came out in the privacy of the indie canadian community, it only has a few thousand views on youtube. Yet, this instru, this voice, this intention... We feel that the tune is made to hit his listener and come back haunting him night after night, in cursed dreams."
 
-## De Leon - A4
+## Fort Romeau - Beings of Light 
 
-ImaCrea: "We enter one of the buildings randomly and climb to the rooftop. The sun caresses our skin as we lie down and let the sounds dance in the air."
+Anto: "This is the opposite of the previous track. All the worries are gone, it's just us, and this music designed to make the crowd blubber. We cry while dancing, we hug, we love each other… We are alive!"
 
-## Hania Rani - Mountains
+## Dampa – Clubs
 
-ImaCrea: "Then we rise, and suddenly the landscape changes. Concrete gives way to wild grass, and the mountains stand before us. In the distance, the desire to walk and explore the scenery."
+Anto: "And we end with a final effort. We don’t have a lot of energy anymore but whatever, we don't need. We just have to let ourselves be carried away by this deep beat, to follow the melodies that take us by the hand, and to listen to the advice that Djéla whispers in our ears with her half-sharp, half-bewitching voice. "Freeze the consequences!" she said. OK ! Never mind, it's already sunday morning and we dance again and again…"
 
-<p id="outroduction">That’s it for today! Thanks for being with us, life is magic. Much love to [The Humble Bee](https://thehumblebee.bandcamp.com/) for his blissful selection. And all claps out to Meriam for her funky illustration. See you next Sunday.</p>
+<p id="outroduction">That’s all for us. We don’t know if we have to go to bed or if we will follow some friends on other adventures… Many thanks to Julia Bondar who accompanied us during a part of this crazy night and big up to Lucie for her sweet illustration.</p>
