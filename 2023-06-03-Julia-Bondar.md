@@ -2,6 +2,41 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+author: Anto
+illustrator: Lucie Fléty
+writer: Anto
+category: '529'
+guest_name: Julia Bondar
+guest_color: rough
+guestPic: guestPic529.png
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/52ç/track7.mp3'
+track1_title: Luca Eck feat LVRA – Hide
+track1_color: rough
+track2_title: Clams Casino feat Lil B & Asap Rocky
+track2_color: trippy
+track3_title: Ari Abdul – Hush
+track3_color: dreamy
+track4_title: Julia Bondar – Hell of ride
+track4_color: rough
+track5_title: Blaise Moore – Stutter
+track5_color: dreamy
+track6_title: 'Fort Romeau - Beings of Light '
+track6_color: bliss
+track7_title: 'Dampa – Clubs '
+track7_color: vibrant
+episode_URL: 'https://www.mailta.pe/529/julia-bondar/'
+image: fbPic529.png
+musiColor: musiColor529.png
+description: >-
+  This morning... Oh wait ! It’s morning already ? We didn't see it coming. It’s
+  like we got stuck in that club, where we lived a thousand lives in a single
+  night.
 ---
 <p id="introduction">
 	This morning... Oh wait ! It’s morning already ?
