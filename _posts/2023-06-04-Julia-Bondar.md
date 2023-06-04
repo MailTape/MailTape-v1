@@ -41,7 +41,7 @@ description: >-
 <p id="introduction">
 	This morning... Oh wait ! It’s morning already ?
 We didn't see it coming. It’s like we got stuck in that club, where we lived a thousand lives in a single night.
-  From the frenzied rhythms that make you want to wring your neck in the middle of the crowd, to these kinds of pop songs that make us forget everything around us and become teenagers again, passing through contemplative phases, where we have the impression of hovering in a cloud of smoke… This selection is a digest of all the emotions that we can experience during a club party with friends, with a crush (or ex-crush), with forbidden stuff, with a particular atmosphere that you only can feel in that place, and with music, of course !
+  From the frenzied rhythms that make you want to wring your neck in the middle of the crowd, to these kinds of pop songs that make us forget everything around and become teenagers again, passing through contemplative phases, where we have the impression of hovering in a cloud of smoke… This selection is a digest of all the emotions that we can experience during a club party with friends, with a crush (or ex-crush), with forbidden stuff, with a particular atmosphere that you only can feel in that place, and with music, of course !
 	<br><br>
 	Our guest for this episode is [Julia Bondar](https://juliabondar.bandcamp.com/). She just released a new EP made of 4 smashing tracks including a wonderful feat with Rebeka Warrior and « Tropic of virgo », a masterpiece, the eponymous song that ends the EP as one ends a sleepless night : happy and grateful for the beautiful moments that we lived.</p>
 
