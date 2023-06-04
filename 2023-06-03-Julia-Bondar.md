@@ -65,11 +65,11 @@ Too fall in love with a bad guy, wear black and pink and suffer.**"**
 
 ## [Julia Bondar](https://juliabondar.bandcamp.com/) – Hell of ride
 
-Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to a rumble, as if the tune was challenging us, or provoked our bodies and wanted to force us to answer. Well I don't need any more. You look for me, you find me, I'm won't let it go, and I'm going to dance like crazy until the very end of the song."
+Anto: "Damn, this track makes me want to thrash around, toss my head around until it comes off my spine. Equipped with her machines, Julia Bondar throws us a piece that is both dark and luminous, an invitation to a rumble, as if the tune was challenging us, or provoked our bodies and wanted to force us to answer. Well, I don't need any more. You look for me ; you find me, I'm won't let it go, and I'm going to dance like crazy until the very end of the song."
 
 ## [Blaise Moore](https://soundcloud.com/blaisemoore) – Stutter
 
-Anto: "Echoing Ari Abdul’s track, here is a piece that could be sung at the Super Bowl halftime show by Rihanna or any pop icon adored by the crowds.. But since it came out in the privacy of the indie canadian community, it only has a few thousand views on youtube. Yet, this instru, this voice, this intention... We feel that the tune is made to hit his listener and come back haunting him night after night, in cursed dreams."
+Anto: "Echoing Ari Abdul’s track, here is a piece that could be sung at the Super Bowl halftime show by Rihanna or any pop icon adored by the crowds.. But since it came out in the privacy of the indie Canadian community, it only has a few thousand views on youtube. Yet, this instru, this voice, this intention... We feel that the tune is made to hit his listener and come back haunting him night after night, in cursed dreams."
 
 ## [Fort Romeau](https://fort-romeau.bandcamp.com/track/the-zone) - Beings of Light 
 
