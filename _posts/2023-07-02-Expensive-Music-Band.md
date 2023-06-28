@@ -21,7 +21,7 @@ track5_color: vibrant
 track6_color: bliss
 track7_color: trippy
 ---
-<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) </p>
+<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band based in Illawarra, Australia, joins us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
 # Expensive Music Band's selection
 
@@ -37,7 +37,7 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 # MailTape's selection
 
 ## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - I Think I Lost That Love
-Sarah: **"**r mccarthy's weaving synth work throughout this track shifts and builds so effortlessly, it seems to hover in air. The sparse percussives and hovering synth harmonies slide alongside each other with so much grace -- engulfing us in blanketed textures woven into soft vocals. The slightly distorted lead synth toward the track's end flows so well across the walls of rounded synth harmonies below it, it's entrancing. The rest of the [2017 release](https://infinitebisous.bandcamp.com/album/dick-arkive-issue-2)continues this balanced freshness in production, look out for [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) :).**"**
+Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ.**"**
 
 ## [Omni Gardens](https://omnigardens.bandcamp.com/) - Algae After All
 Sarah: **"**This track brings us to another world, brimming with the filminess of green underwater flora, stretching upwards to a speckled surface in the distance. I used this track in my play for brainscape and aquascaping scenes, the harmonies here transport you to the swaying micro worlds of green and growth. (side note: r mccarthy's [Jyoti](https://infinitebisous.bandcamp.com/track/jyoti) also featured to give a sounded body to this otherworldly space). The synth work's exploratory melody along with the droning hums of these undertones feel healing in some sense, like you're growing roots and new leaves just by listening to it -- living a newfound peaceful life as a patch of algae :)**"**
