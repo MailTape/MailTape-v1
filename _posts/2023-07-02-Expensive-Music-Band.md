@@ -7,6 +7,9 @@ guest_name: Expensive Music Band
 track1_title: Dolthom - Ragui
 track2_title: Solo Career - Renaissance
 track3_title: Versis - LA TiERRA
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track3.mp3'
 ---
 <p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>
