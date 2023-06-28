@@ -7,16 +7,16 @@ published: false
   <br><br>
 [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/) for an episode. Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
 
-# r mccarthy's selection
+# Expensive Music Band's selection
 
-## [Operating Theatre](https://rogerdoyle1.bandcamp.com/) - Elation After Hours
-r mccarthy: **"**Irish musician Roger Doyle had this musical theatre project (Operating Theatre), I don’t really understand the context it would have appeared in, but I love the music. He was apparently the first musician in Ireland to get his hands on a Fairlight CMI, one of my favourite instruments. The whole album (Miss Mauger) is very surprising and beautiful..**"**
+## [Dalthom](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Ragui
+Expensive Music Band: **"**This is a collaboration between Gary War and Rob from [Sunburned Hand of the Man](https://sunburnedhandoftheman.bandcamp.com/). For me this is the perfect side A- Sunday morning record. It's how I want to start my day feeling like I have just travelled to hades and back. It's winter here in Australia and cold on the south coast and I usually listen to this after swimming in shark approved waters in the rain. The attention to textures and the way the different movements move in and out of one another fully compliment my halloumi and zucchini frittata or whatever culinary dish I horribly disfigured and forced my family to eat.**"**
 
-## [Yoshihiro Hanno](http://www.yoshihirohanno.com/discography/) and [Mick Karn](https://mickkarn.net/) - Lunette
-r mccarthy: **"**This is taken from one of my favourite albums, ‘Liquid Glass’. Mick Karn sometimes has no respect for the key of a song, and it doesn’t make a difference because what he’s playing sounds great. I think he just plays things which feel funny under his fingers, I respect that and it sounds amazing.**"**
+## [Solo Career](http://www.yoshihirohanno.com/discography/) - Renaissance
+Expensive Music Band: **"**Annabel Blackman is the writer, producer, singer and player of everything on this album. She is the lead axe in the very excellent Body Type and a key collaborator and all round buddy in EMB. She is just one of those ridiculously talented pop savants who should be writing for some pop idol but would rather hustle you for your coin with her pool shark skills. In this song she is calling for a renaissance while a beautiful ostinato flute sound hypnotises you and before you know it a million fragments seep into the song and then the song ends suddenly and your left lying on the floor in the foetal position because you never wanted the song to end.**"**
 
 ## [John Powell](https://johnpowellmusic.com/) - Chicken In The Pot
-r mccarthy: **"**I was watching one of the Star Wars shows (’Solo’ apparently), which was ok. But then there was this scene in a bar, obviously the original ‘Cantina Band’ was amazing, so I thought ‘Hmm I wonder what they’ll do for the music here’, and then this song started and it’s one of the strangest feeling pieces of music I’ve heard in a while. Once again the bass player has no respect for the key, it’s in an alien language, the strings are pretty amazing, I like it.**"**
+Expensive Music Band: **"**I've listened to this song everyday since it's release and it always gets me through life's little challenges. I'm at the stage in my life where my parents are getting a little bit older and I am taking on more responsibility in there care and at the same time I have this beautiful newborn baby that's an amazing gift but also needs a lot of my attention and sometimes you just worry your not going to be able to keep those plates spinning. This song talks about a young man going through some life adjustments and questions whether or not he will be able to work it out and implores others "to show love in the land" and everytime I get upset about something trivial like being cut off in traffic or someone being hideous to me, I just blast this and know I am gonna get through.**"**
 
 # MailTape's selection
 
