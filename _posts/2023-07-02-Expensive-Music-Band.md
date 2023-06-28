@@ -10,10 +10,9 @@ track3_title: Versis - LA TiERRA
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track3.mp3'
+track1_color: trippy
 ---
-<p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
-  <br><br>
-[r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) joins us on MailTape for the second time since 2017, when we welcomed his other label, [infinite bisous](https://www.mailta.pe/245/infinite-bisous/) for an episode. Based in Paris, Rory's releases under r mccarthy explore alternative ambient and experimental analog movements.</p>
+<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531. </p>
 
 # Expensive Music Band's selection
 
