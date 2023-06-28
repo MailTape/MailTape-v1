@@ -11,8 +11,12 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track3.mp3'
 track1_color: trippy
+author: Sarah
+writer: Sarah
+track3_color: vibrant
+track2_color: bliss
 ---
-<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531. </p>
+<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) </p>
 
 # Expensive Music Band's selection
 
