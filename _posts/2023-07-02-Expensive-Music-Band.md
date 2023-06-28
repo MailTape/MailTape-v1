@@ -15,6 +15,11 @@ author: Sarah
 writer: Sarah
 track3_color: vibrant
 track2_color: bliss
+track4_title: Expensive Music Band - Cool Aunty
+track4_color: dreamy
+track5_color: vibrant
+track6_color: bliss
+track7_color: trippy
 ---
 <p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) </p>
 
