@@ -2,6 +2,8 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '531'
+guest_name: Expensive Music Band
 ---
 <p id="introduction"> We are overjoyed to welcome [r mccarthy](https://infinitebisous.bandcamp.com/album/any-day-now) to MailTape this Sunday morning :) His selection embraces new worlds of new age music, stretching time and sound into spaces unknown -- carrying creativity into these early morning hours.  
   <br><br>
