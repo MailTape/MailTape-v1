@@ -50,4 +50,4 @@ Sarah: **"**hh**"**
 ## [Munan](https://elorisaxl.bandcamp.com/album/the-blue-of-distance) - Once Upon a Time
 Sarah: **"**hh"**"**
 
-<p id="outroduction">That wraps up today's morning selection, the last episode of 2022! Thank you for joining us, we hope it brought some light into your morning. Our love to r mccarthy for his delightful Sunday discoveries, and our thanks to [Meriam Kharbat](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
+<p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to Expensive Music Band for his delightful Sunday discoveries, and our thanks to [Nella](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
