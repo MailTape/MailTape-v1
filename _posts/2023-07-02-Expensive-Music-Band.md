@@ -47,7 +47,7 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 
 # MailTape's selection
 
-## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - Bowling Alone
+## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - You and Me
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The Western riffs against the otherwordly synths across the track work so interestingly beside each other**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
