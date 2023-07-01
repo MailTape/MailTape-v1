@@ -55,6 +55,6 @@ Sarah: **"**Off of Aleesha Dibbs' new album, Paradise Lost; produced by Tom Cran
 Sarah: **"**hh**"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
-Sarah: **"**A trippier track to finish off our Sunday selection, the bassline with all this funky distortion "**"**
+Sarah: **"**A trippy track to finish off our Sunday selection, the catching bassline edged with this funky distortion in the rhythm section."**"**
 
 <p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to Expensive Music Band for his delightful Sunday discoveries, and our thanks to [Nella](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
