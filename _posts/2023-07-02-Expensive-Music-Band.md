@@ -37,7 +37,7 @@ description: >-
   multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join
   us after the release of their latest album, Things to Say at a Barbecue.
 ---
-<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
+<p id="introduction"> This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
 # Expensive Music Band's selection
 
@@ -52,7 +52,7 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 
 # MailTape's selection
 
-## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - Bowling Alone
+## [Expensive Music Band](https://expensivemusicband.bandcamp.com/) - Bowling Alone
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche) and [Cool Aunty](https://expensivemusicband.bandcamp.com/track/cool-aunty). The smooth build into Western riffs is so inviting, ideal for our Sunday morning selection :)**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
@@ -64,4 +64,4 @@ Sarah: **"**The joint project of composer-pianist Maria Chiara Argirò and compo
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
 Sarah: **"**A trippy track to finish off our Sunday selection. Entranced by this creative funk distortion :)"**"**
 
-<p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to Expensive Music Band for his delightful Sunday discoveries, and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
+<p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for these delightful Sunday discoveries, and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
