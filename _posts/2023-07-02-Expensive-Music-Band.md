@@ -39,7 +39,6 @@ description: >-
 musiColor: musiColor531.png
 ---
 <p id="introduction"> This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
-![musiColor531.png]({{site.baseurl}}/img/musiColor531.png)
 
 # Expensive Music Band's selection
 
