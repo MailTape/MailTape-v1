@@ -29,6 +29,7 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track7.mp3'
 guestPic: guestPic531.jpg
 image: 'https://mailta.pe/img/fbPic531.png'
 episode_URL: 'http://mailta.pe/531/Expensive-Music-Band/'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track6.mp3'
 ---
 <p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based on Illawarra land in Australia. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
@@ -45,14 +46,14 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 
 # MailTape's selection
 
-## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - I Think I Lost That Love
+## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - Bowling Alone
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ.**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
 Sarah: **"**Off of Aleesha Dibbs' new album, Paradise Lost; produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
-## [Moonfish](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Maria Chiara Argirò, Riccardo Chiaberta - Mahi Mahi
-Sarah: **"**hh**"**
+## [Moonfish](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Mahi Mahi
+Sarah: **"**The joint project of composer/pianist Maria Chiara Argirò and composer/pianist/percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back.**"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
 Sarah: **"**A trippy track to finish off our Sunday selection, the catching bassline edged with this funky distortion in the rhythm section."**"**
