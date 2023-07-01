@@ -15,7 +15,7 @@ author: Sarah
 writer: Sarah
 track3_color: vibrant
 track2_color: bliss
-track4_title: Expensive Music Band - Cool Aunty
+track4_title: Expensive Music Band - Bowling Alone
 track4_color: dreamy
 track5_color: trippy
 track6_color: bliss
