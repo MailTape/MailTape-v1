@@ -46,7 +46,7 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ.**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
-Sarah: **"**hh**"**
+Sarah: **"**Really love the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
 ## [Paul Lansky](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Her Voice
 Sarah: **"**hh**"**
