@@ -51,7 +51,7 @@ Sarah: **"**This track arrives from Expensive Music Band's latest album, Things 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
 Sarah: **"**Off of Aleesha Dibbs' new album, Paradise Lost; produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
-## [Paul Lansky](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Her Voice
+## [Moonfish](https://paul.mycpanel.princeton.edu/compositions-sorted.html), Maria Chiara Argirò, Riccardo Chiaberta - Mahi Mahi
 Sarah: **"**hh**"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
