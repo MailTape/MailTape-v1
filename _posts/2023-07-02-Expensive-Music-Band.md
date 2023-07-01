@@ -31,6 +31,7 @@ image: 'https://mailta.pe/img/fbPic531.png'
 episode_URL: 'http://mailta.pe/531/Expensive-Music-Band/'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track6.mp3'
 track6_title: Moonfish - Mahi Mahi
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track4.mp3'
 ---
 <p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based on Illawarra land in Australia. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
