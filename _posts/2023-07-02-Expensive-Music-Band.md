@@ -48,8 +48,8 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 
 # MailTape's selection
 
-## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - Cool Aunty
-Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on Bowling Alone and [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche). The horns section and the soft riffs are so inviting, ideal for our Sunday morning selection :)**"**
+## [Expensive Music Band](https://infinitebisous.bandcamp.com/album/any-day-now) - Bowling Alone
+Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche) and Cool Aunty. The Western riffs  and the soft vocals are so inviting, ideal for our Sunday morning selection :)**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
 Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with this track produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
