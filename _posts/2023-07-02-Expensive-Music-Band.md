@@ -28,6 +28,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track7.mp3'
 guestPic: guestPic531.jpg
 image: 'https://mailta.pe/img/fbPic531.png'
+episode_URL: 'http://mailta.pe/531/Expensive-Music-Band/'
 ---
 <p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based on Illawarra land in Australia. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 ![fbPic531.png]({{site.baseurl}}/img/fbPic531.png)
