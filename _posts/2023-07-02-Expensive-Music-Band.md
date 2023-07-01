@@ -42,7 +42,7 @@ musiColor: musiColor531.png
 
 # Expensive Music Band's selection
 
-## [Dolthom](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Ragui
+## [Dalthom](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Ragui
 Expensive Music Band: **"**This is a collaboration between Gary War and Rob from [Sunburned Hand of the Man](https://sunburnedhandoftheman.bandcamp.com/). For me this is the perfect side A- Sunday morning record. It's how I want to start my day feeling like I have just travelled to hades and back. It's winter here in Australia and cold on the south coast and I usually listen to this after swimming in shark approved waters in the rain. The attention to textures and the way the different movements move in and out of one another fully compliment my halloumi and zucchini frittata or whatever culinary dish I horribly disfigured and forced my family to eat.**"**
 
 ## [Solo Career](https://solocareer.bandcamp.com/track/renaissance) - Renaissance
