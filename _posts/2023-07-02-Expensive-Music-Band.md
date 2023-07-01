@@ -55,10 +55,10 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 ## [Expensive Music Band](https://expensivemusicband.bandcamp.com/) - Bowling Alone
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche) and [Cool Aunty](https://expensivemusicband.bandcamp.com/track/cool-aunty). The smooth build into Western riffs is so inviting, ideal for our Sunday morning selection :)**"**
 
-## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
+## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
 Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with this track produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
-## [Moonfish](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Mahi Mahi
+## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
 Sarah: **"**The joint project of composer-pianist Maria Chiara Argirò and composer-pianist-percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back. Love how the synth layers evolve and shift against a rhythm section keeping with the pair's several years on the London jazz scene.**"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
