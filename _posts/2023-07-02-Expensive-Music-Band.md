@@ -52,10 +52,10 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on Bowling Alone and [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche). The horns section and the soft riffs are so inviting, wonderful for our Sunday morning selection :)**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
-Sarah: **"**Off of Aleesha Dibbs' new album, Paradise Lost; produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
+Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with this track produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
 ## [Moonfish](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Mahi Mahi
-Sarah: **"**The joint project of composer/pianist Maria Chiara Argirò and composer/pianist/percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back.**"**
+Sarah: **"**The joint project of composer-pianist Maria Chiara Argirò and composer-pianist-percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back. Love the synth layering, with a rhythm section in line with the pair's several years on the London jazz scene **"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
 Sarah: **"**A trippy track to finish off our Sunday selection, the catching bassline edged with this funky distortion in the rhythm section."**"**
