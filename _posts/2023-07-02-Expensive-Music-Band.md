@@ -27,7 +27,7 @@ guest_color: vibrant
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track5.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/531/track7.mp3'
 ---
-<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band based in Illawarra, Australia, joins us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
+<p id="introduction"> This Sunday we welcome Expensive Music Band for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based on Illawarra land in Australia. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
 # Expensive Music Band's selection
 
@@ -46,7 +46,7 @@ Expensive Music Band: **"**I've listened to this song everyday since its release
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ.**"**
 
 ## [Aleesha Dibbs](https://omnigardens.bandcamp.com/) - Distance
-Sarah: **"**Really love the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
+Sarah: **"**Off of Aleesha Dibbs' new album, Paradise Lost; produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
 
 ## [Paul Lansky](https://paul.mycpanel.princeton.edu/compositions-sorted.html) - Her Voice
 Sarah: **"**hh**"**
