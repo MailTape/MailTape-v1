@@ -62,6 +62,6 @@ Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with thi
 Sarah: **"**The joint project of composer-pianist Maria Chiara Argirò and composer-pianist-percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back. Love how the synth layers evolve and shift against a rhythm section in line with the pair's several years on the London jazz scene.**"**
 
 ## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
-Sarah: **"**A trippy track to finish off our Sunday selection, entranced by the playful funk distortion surrounding the catching bassline."**"**
+Sarah: **"**A trippy track to finish off our Sunday selection. Entranced by this creative funk distortion :)"**"**
 
 <p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to Expensive Music Band for his delightful Sunday discoveries, and our thanks to [Nella](https://www.meriamkharbat.com/illustration) for this episode's fantastic illustration! Merry merry merry, we'll see you in 2023 :)</p>
