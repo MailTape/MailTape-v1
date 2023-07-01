@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '531'
 guest_name: Expensive Music Band
 track1_title: Dolthom - Ragui
