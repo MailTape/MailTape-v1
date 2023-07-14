@@ -22,7 +22,7 @@ track2_color: dreamy
 track3_title: Aki - Eri
 track3_color: dreamy
 
-track4_title: Elisabeth Klinck - xx
+track4_title: Elisabeth Klinck - Betty's Nap
 track4_color: dreamy 
 
 track5_title: KMRU - options
