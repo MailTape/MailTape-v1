@@ -61,17 +61,19 @@ $(document).ready(
 
 
 	// module de redimensionnement auto de la taille des tracks dans la playlist en fonction de leur durée
-		function setTracksWidth (tracksDuration) {
-			if (tracksDuration.includes(1)){
-				//console.log("tracksDuration n'est pas prêt: "+tracksDuration);
+		function setTracksWidth (tracksDurationArray) {
+			console.log(tracksDurationArray);
+			if (tracksDurationArray.includes(1)){
+				for (i=0;i<7;i++){
+					$(".track"+(i+1)).width('14%');} //on réinitialise toujours tant que toutes les durées ne sont pas récupérées
+				//console.log("tracksDurationArray n'est pas prêt: "+tracksDurationArray);
 			} // on vérifie avant qu'il ne reste pas une track dont on aurait pas encore la durée
 			else {
-				var totalDuration = tracksDuration[0]+tracksDuration[1]+tracksDuration[2]+tracksDuration[3]+tracksDuration[4]+tracksDuration[5]+tracksDuration[6];
+				var totalDuration = tracksDurationArray[0]+tracksDurationArray[1]+tracksDurationArray[2]+tracksDurationArray[3]+tracksDurationArray[4]+tracksDurationArray[5]+tracksDurationArray[6];
 				var percentUnit = "%";
 				for (i=0;i<7;i++){
-					$(".track"+(i+1)).width((tracksDuration[i]/totalDuration*100-0.2)+percentUnit);
-				//console.log("tracksDuration est prêt! "+tracksDuration);
-				}
+					$(".track"+(i+1)).width((tracksDurationArray[i]/totalDuration*100-0.2)+percentUnit);}
+				//console.log("tracksDurationArray est prêt! "+tracksDurationArray);
 			}
 			
 			
