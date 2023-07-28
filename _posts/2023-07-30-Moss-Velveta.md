@@ -17,7 +17,6 @@ guest_color: trippy
 <p id="introduction"> This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533 :) </p>
 
 # Moss Velveta's selection
-![guestPic533.jpg]({{site.baseurl}}/img/guestPic533.jpg)
 
 ## [Jackson and His Computerband](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Hard Tits
 Moss Velveta: **"**Heritage.**"**
