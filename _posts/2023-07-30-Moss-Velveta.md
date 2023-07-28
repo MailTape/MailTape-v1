@@ -8,7 +8,7 @@ track3_title: Daniel Hart - Viventes Enim
 ---
 <p id="introduction"> This Sunday we welcome [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for Episode 531 :) The project of multi-instrumentalist Troon Lienad, the band is based in Illawarra. They join us after the release of their latest album, [Things to Say at a Barbecue](https://permanentslump.bandcamp.com/album/things-to-say-at-a-bbq).</p>
 
-# Expensive Music Band's selection
+# Moss Velveta's selection
 
 ## [Jackson and His Computerband](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Hard Tits
 Moss Velveta: **"**Heritage.**"**
