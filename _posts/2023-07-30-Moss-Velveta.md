@@ -13,6 +13,12 @@ author: Sarah
 illustrator: Nella Papelita
 writer: Sarah
 guest_color: trippy
+track2_color: vibrant
+track3_color: dreamy
+track4_color: trippy
+track5_color: vibrant
+track6_color: trippy
+track7_color: dreamy
 ---
 <p id="introduction"> This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533 :) </p>
 
