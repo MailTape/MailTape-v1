@@ -7,6 +7,12 @@ track2_title: Lorn - Yesterday's Pain
 track3_title: Daniel Hart - Viventes Enim
 track1_color: trippy
 guestPic: guestPic533.jpg
+category: '533'
+guest_name: Moss Velveta
+author: Sarah
+illustrator: Nella Papelita
+writer: Sarah
+guest_color: trippy
 ---
 <p id="introduction"> This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533 :) </p>
 
