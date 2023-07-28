@@ -5,6 +5,7 @@ published: false
 track1_title: Jackson And His Computerband - Hard Tits
 track2_title: Lorn - Yesterday's Pain
 track3_title: Daniel Hart - Viventes Enim
+track1_color: trippy
 ---
 <p id="introduction"> This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533 :) </p>
 
