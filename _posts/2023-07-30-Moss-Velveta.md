@@ -38,7 +38,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 
 # MailTape's selection
 
-## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Bowling Alone
+## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
 Sarah: **"**This track arrives from Expensive Music Band's latest album, Things to Say at a BBQ. The lush rhythm section on this one balances the rock-heavier tracks on the rest of the album, with the same playful lyricism as heard on [RNR Cliche](https://expensivemusicband.bandcamp.com/track/rnr-cliche) and [Cool Aunty](https://expensivemusicband.bandcamp.com/track/cool-aunty). The smooth build into Western riffs is so inviting, ideal for our Sunday morning selection :)**"**
 
 ## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
