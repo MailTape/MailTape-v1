@@ -40,7 +40,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 # MailTape's selection
 
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
-Sarah: **"**Haunting**"**
+Sarah: **"**From the debut album release, Haunting**"**
 
 ## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
 Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with this track produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
