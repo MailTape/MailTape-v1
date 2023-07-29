@@ -24,7 +24,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track4.mp3'
 ---
-<p id="introduction"> This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533 :) </p>
+<p id="introduction"> This morning, we tread into the This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous save a swath , the group's releases  </p>
 
 # Moss Velveta's selection
 
@@ -43,12 +43,12 @@ Moss Velveta: **"**Humanity Certified.**"**
 Sarah: **"**From the debut album release, Haunting**"**
 
 ## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
-Sarah: **"**Off of Aleesha Dibbs' 2023 solo debut album, Paradise Lost; with this track produced by Tom Crandles. Obsessed with the haunting synths on this track, Aleesha Dibbs' vocals are so smooth and searching.**"**
+Sarah: **"**ff**"**
 
 ## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
-Sarah: **"**The joint project of composer-pianist Maria Chiara Argirò and composer-pianist-percussionist Riccardo Chiaberta, Moonfish released this mesmerizing track a couple years back. Love how the synth layers evolve and shift against a rhythm section keeping with the pair's several years on the London jazz scene.**"**
+Sarah: **"**ff**"**
 
-## [Munan](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
-Sarah: **"**A trippy track to finish off our Sunday selection. Entranced by this creative funk distortion :)"**"**
+## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
+Sarah: **"**This one to finish off the selection, from the group's album release Evergreen. he stretching dissonance and the blooms and th **"**
 
 <p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for these delightful Sunday discoveries, and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
