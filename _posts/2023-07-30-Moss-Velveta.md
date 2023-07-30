@@ -23,6 +23,7 @@ track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track4.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track7.mp3'
 ---
 <p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
 
