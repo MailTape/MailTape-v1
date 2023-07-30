@@ -24,7 +24,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track4.mp3'
 ---
-<p id="introduction"> This morning, we tread into the This Sunday we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous save a swath , the group's releases  </p>
+<p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous   </p>
 
 # Moss Velveta's selection
 
@@ -48,7 +48,7 @@ Sarah: **"**ff**"**
 ## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
 Sarah: **"**ff**"**
 
-## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - Once Upon a Time
-Sarah: **"**This one to finish off the selection, from the group's album release Evergreen. he stretching dissonance and the blooms and th **"**
+## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - The Evergreen: I. Moss
+Sarah: **"**This one to finish off the selection, from the group's album Evergreen. Starting off the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the stretching dissonance and the blooms and the breathing is both disorienting and grounding -- otherworldly.**"**
 
 <p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for these delightful Sunday discoveries, and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
