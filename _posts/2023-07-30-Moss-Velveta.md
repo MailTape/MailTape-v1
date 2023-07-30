@@ -26,6 +26,7 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track4.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track7.mp3'
 track4_title: Moss Velveta - Empress
 track7_title: 'Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss'
+track6_title: 'V/Z, Valentina Magaletti, Zongamin - Candles (Version)'
 ---
 <p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
 
