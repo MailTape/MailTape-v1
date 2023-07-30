@@ -42,7 +42,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
 Sarah: **"**From the debut album release, No Basis. Haunting and **"**
 
-## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
+## [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Candles - Version
 Sarah: **"**ff**"**
 
 ## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
