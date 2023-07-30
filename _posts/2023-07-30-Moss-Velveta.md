@@ -24,7 +24,7 @@ track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track3.mp3'
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track4.mp3'
 ---
-<p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous   </p>
+<p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
 
 # Moss Velveta's selection
 
@@ -40,7 +40,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 # MailTape's selection
 
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
-Sarah: **"**From the debut album release, Haunting**"**
+Sarah: **"**From the debut album release, No Basis. Haunting and **"**
 
 ## [Aleesha Dibbs](https://www.instagram.com/aleeshadibbs/?hl=en-gb) - Distance
 Sarah: **"**ff**"**
