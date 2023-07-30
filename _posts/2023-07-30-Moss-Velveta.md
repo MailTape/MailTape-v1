@@ -31,6 +31,7 @@ track5_title: 'V/Z, Valentina Magaletti, Zongamin - Candles (Version)'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track5.mp3'
 episode_URL: 'http://mailta.pe/533/Moss-Velveta/'
 track6_title: Kaitlyn Aurelia Smith - Clover
+image: 'https://mailta.pe/img/fbPic533.png'
 ---
 <p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.</p>
 ![fbPic533.png]({{site.baseurl}}/img/fbPic533.png)
