@@ -52,6 +52,6 @@ Sarah: **"**ff**"**
 Sarah: **"**ff**"**
 
 ## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - The Evergreen: I. Moss
-Sarah: **"**This one to finish off the selection, from the group's album Evergreen. The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both can disorient and ground us in the moss -- otherworldly.**"**
+Sarah: **"**This one to finish off our selection, from the group's 2022 album Evergreen. The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both disorient and ground us in the moss -- otherworldly.**"**
 
 <p id="outroduction">That wraps up this morning's selection! Thank you for joining us, we hope it brought some light into your day. Our love to [Expensive Music Band](https://expensivemusicband.bandcamp.com/) for these delightful Sunday discoveries, and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
