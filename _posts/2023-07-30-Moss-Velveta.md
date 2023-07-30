@@ -30,8 +30,9 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track6.mp3'
 track5_title: 'V/Z, Valentina Magaletti, Zongamin - Candles (Version)'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track5.mp3'
 episode_URL: 'http://mailta.pe/533/Moss-Velveta/'
+track6_title: Kaitlyn Aurelia Smith - Clover
 ---
-<p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
+<p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
 
 # Moss Velveta's selection
 
@@ -52,8 +53,8 @@ Sarah: **"**From the debut album release, No Basis. Haunting and **"**
 ## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
 Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
 
-## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
-Sarah: **"**ff**"**
+## [Kaitlyn Aurelia Smith](https://moonfish.bandcamp.com/) - Clover
+Sarah: **"**From the latest album addition of collective Touchtheplants, Kinetic. For each album release, a series of experimental artists respond to a thematic prompt. The nature of Kinetic seeks to mend science and sound, the tracks becoming "a collective flow" between the two.**"**
 
 ## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - The Evergreen: I. Moss
 Sarah: **"**This one to finish off our selection, from the group's 2022 album Evergreen. The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both disorient and ground us in the moss -- otherworldly.**"**
