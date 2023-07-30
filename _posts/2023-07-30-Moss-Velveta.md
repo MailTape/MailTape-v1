@@ -49,7 +49,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 
 # MailTape's selection
 
-## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
+## [Moss Velveta](https://www.mossvelveta.com/home) - Empress
 Sarah: **"**From Moss Velveta's debut album release, No Basis. The ambient synths form their own velvet mist, hovering so carefully over the rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create such an intriguing soundscape, already with defined narratives hidden within its topography.**"**
 
 ## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
