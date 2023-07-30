@@ -29,6 +29,7 @@ track7_title: 'Caroline Shaw & Attaca Quartet - The Evergreen: I. Moss'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track6.mp3'
 track5_title: 'V/Z, Valentina Magaletti, Zongamin - Candles (Version)'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/533/track5.mp3'
+episode_URL: 'http://mailta.pe/533/Moss-Velveta/'
 ---
 <p id="introduction"> This Sunday, we tread into the mist of the morning as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate melodies at once.</p>
 
@@ -48,8 +49,8 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
 Sarah: **"**From the debut album release, No Basis. Haunting and **"**
 
-## V/Z, [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
-Sarah: **"**ff**"**
+## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
+Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
 
 ## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
 Sarah: **"**ff**"**
