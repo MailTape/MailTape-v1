@@ -43,13 +43,13 @@ description: >-
 
 # Moss Velveta's selection
 
-## [Jackson and His Computerband](https://feedingtuberecords.bandcamp.com/album/frame-slip) - Hard Tits
+## [Jackson and His Computerband](https://www.discogs.com/artist/15459-Jackson-His-Computer-Band) - Hard Tits
 Moss Velveta: **"**Heritage.**"**
 
-## [Lorn](https://solocareer.bandcamp.com/track/renaissance) - Yesterday's Pain
+## [Lorn](https://ninjatune.net/artist/lorn) - Yesterday's Pain
 Moss Velveta: **"**Ultra Textured Sonic Landscape.**"**
 
-## [Daniel Hart](https://versis.bandcamp.com/track/la-tierra) - Viventes Enim
+## [Daniel Hart](https://www.danielhartmusic.com/) - Viventes Enim
 Moss Velveta: **"**Humanity Certified.**"**
 
 # MailTape's selection
@@ -57,7 +57,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://www.mossvelveta.com/home) - Empress
 Sarah: **"**From Moss Velveta's debut album release, [No Basis](https://mossvelveta.lnk.to/no-basis). The ambient synths form their own velvet mist, hovering so carefully above the evolving rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create a soundscape complete with defined narratives hidden within its topography.**"**
 
-## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://valentinamagaletti.com/), Zongamin - Candles (Version)
+## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://valentinamagaletti.com/), [Zongamin](https://multiculti.bandcamp.com/) - Candles (Version)
 Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
 
 ## [Kaitlyn Aurelia Smith](https://kaitlynaureliasmith.bandcamp.com/) - Clover
