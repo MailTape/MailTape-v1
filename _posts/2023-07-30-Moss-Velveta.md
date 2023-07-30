@@ -57,13 +57,13 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://www.mossvelveta.com/home) - Empress
 Sarah: **"**From Moss Velveta's debut album release, [No Basis](https://mossvelveta.lnk.to/no-basis). The ambient synths form their own velvet mist, hovering so carefully above the evolving rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create a soundscape complete with defined narratives hidden within its topography.**"**
 
-## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
+## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://valentinamagaletti.com/), Zongamin - Candles (Version)
 Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
 
 ## [Kaitlyn Aurelia Smith](https://kaitlynaureliasmith.bandcamp.com/) - Clover
 Sarah: **"**The latest album addition of [Touchtheplants](https://touchtheplants.bandcamp.com/), [Kinetic: Something Concerning Motion](https://touchtheplants.bandcamp.com/album/kinetic-something-concerning-motion). For each album release, a series of experimental artists respond to a thematic prompt. The nature of Kinetic seeks to mend science and sound, the tracks becoming "a collective flow" between the two. A founder of [Touchtheplants](https://touchtheplants.bandcamp.com/), Kaitlyn Aurelia Smith's contribution to the album evokes the neural impulses of plant systems and the vastness of their networks in each intricate synth brush stroke -- at times overwhelming, at others embracing. **"**
 
-## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - The Evergreen: I. Moss
-Sarah: **"**This one to finish off our selection, from the group's 2022 album Evergreen. The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both disorient and ground us in the moss -- otherworldly.**"**
+## [Caroline Shaw & Attaca Quartet](http://www.attaccaquartet.com/caroline-shawattacca-quartet) - The Evergreen: I. Moss
+Sarah: **"**This one to finish off our selection, from the group's 2022 album [Evergreen](http://www.attaccaquartet.com/caroline-shawattacca-quartet). The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both disorient and ground us in the moss -- otherworldly.**"**
 
 <p id="outroduction">Thank you for joining us in the mist, that's all for this week. Our love to [Moss Velveta](https://www.mossvelveta.com/home) and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
