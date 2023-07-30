@@ -57,8 +57,8 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://www.mossvelveta.com/home) - Empress
 Sarah: **"**From Moss Velveta's debut album release, [No Basis](https://mossvelveta.lnk.to/no-basis). The ambient synths form their own velvet mist, hovering so carefully above the evolving rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create a soundscape complete with defined narratives hidden within its topography.**"**
 
-## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://valentinamagaletti.com/), [Zongamin](https://multiculti.bandcamp.com/) - Candles (Version)
-Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
+## V/Z, [Valentina Magaletti](https://valentinamagaletti.com/), [Zongamin](https://multiculti.bandcamp.com/) - Candles (Version)
+Sarah: **"**Carrying the momentum on from Moss Velveta's track, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
 
 ## [Kaitlyn Aurelia Smith](https://kaitlynaureliasmith.bandcamp.com/) - Clover
 Sarah: **"**The latest album addition of [Touchtheplants](https://touchtheplants.bandcamp.com/), [Kinetic: Something Concerning Motion](https://touchtheplants.bandcamp.com/album/kinetic-something-concerning-motion). For each album release, a series of experimental artists respond to a thematic prompt. The nature of Kinetic seeks to mend science and sound, the tracks becoming "a collective flow" between the two. A founder of [Touchtheplants](https://touchtheplants.bandcamp.com/), Kaitlyn Aurelia Smith's contribution to the album evokes the neural impulses of plant systems and the vastness of their networks in each intricate synth brush stroke -- at times overwhelming, at others embracing. **"**
