@@ -48,7 +48,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 # MailTape's selection
 
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
-Sarah: **"**From the debut album release, No Basis. Haunting and **"**
+Sarah: **"**From the debut album release, No Basis.**"**
 
 ## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
 Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
