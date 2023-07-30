@@ -33,6 +33,11 @@ episode_URL: 'http://mailta.pe/533/Moss-Velveta/'
 track6_title: Kaitlyn Aurelia Smith - Clover
 image: 'https://mailta.pe/img/fbPic533.png'
 musiColor: musiColor533.png
+description: >-
+  This Sunday, we take the tread into morning's mist as we welcome the elusive
+  Moss Velveta for Episode 533. Presently anonymous, the group's releases strike
+  cinematic intensity, dipping into both baroque dissonances and delicate
+  harmonies at once.
 ---
 <p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://www.mossvelveta.com/home) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.</p>
 
