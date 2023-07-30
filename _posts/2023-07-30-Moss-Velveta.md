@@ -46,7 +46,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 ## [Moss Velveta](https://expensivemusicband.bandcamp.com/) - Empress
 Sarah: **"**From the debut album release, No Basis. Haunting and **"**
 
-## V/Z, [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles - Version
+## V/Z, [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
 Sarah: **"**ff**"**
 
 ## [Moonfish](https://moonfish.bandcamp.com/) - Mahi Mahi
