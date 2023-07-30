@@ -35,7 +35,6 @@ image: 'https://mailta.pe/img/fbPic533.png'
 musiColor: musiColor533.png
 ---
 <p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.</p>
-![musiColor533.png]({{site.baseurl}}/img/musiColor533.png)
 
 # Moss Velveta's selection
 
