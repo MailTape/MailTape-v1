@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 track1_title: Jackson And His Computerband - Hard Tits
 track2_title: Lorn - Yesterday's Pain
 track3_title: Daniel Hart - Viventes Enim
