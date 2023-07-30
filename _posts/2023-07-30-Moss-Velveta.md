@@ -34,7 +34,7 @@ track6_title: Kaitlyn Aurelia Smith - Clover
 image: 'https://mailta.pe/img/fbPic533.png'
 musiColor: musiColor533.png
 ---
-<p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://expensivemusicband.bandcamp.com/) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.</p>
+<p id="introduction"> This Sunday, we take the tread into morning's mist as we welcome the elusive [Moss Velveta](https://www.mossvelveta.com/home) for Episode 533. Presently anonymous, the group's releases strike cinematic intensity, dipping into both baroque dissonances and delicate harmonies at once.</p>
 
 # Moss Velveta's selection
 
@@ -50,7 +50,7 @@ Moss Velveta: **"**Humanity Certified.**"**
 # MailTape's selection
 
 ## [Moss Velveta](https://www.mossvelveta.com/home) - Empress
-Sarah: **"**From Moss Velveta's debut album release, No Basis. The ambient synths form their own velvet mist, hovering so carefully over the rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create such an intriguing soundscape, already with defined narratives hidden within its topography.**"**
+Sarah: **"**From Moss Velveta's debut album release, No Basis. The ambient synths form their own velvet mist, hovering so carefully over the buzzing rhythm and drum section below. The swiftness in the track's gliding from sustained grooves to momentum hit sections create a soundscape already complete with defined narratives hidden within its topography.**"**
 
 ## [V/Z](https://www.instagram.com/v.z.music/?hl=en), [Valentina Magaletti](https://www.instagram.com/aleeshadibbs/?hl=en-gb), Zongamin - Candles (Version)
 Sarah: **"**Produced by V/Z, Valentina Magaletti's drum section and Zongamin's bass weaved together cast the track in such driving intensity, floated but fortified by these celestial vocals.**"**
@@ -61,4 +61,4 @@ Sarah: **"**The latest album addition of [Touchtheplants](https://touchtheplants
 ## [Caroline Shaw & Attaca Quartet](https://www.instagram.com/p/CtdF0VMpM6j/?hl=en-gb) - The Evergreen: I. Moss
 Sarah: **"**This one to finish off our selection, from the group's 2022 album Evergreen. The first of the set of tracks distinguished as The Evergreen (I: Moss; II: Stem; III: Water; IV. Root), the blooms of dissonance crossed by swaying harmonies and soft breathing both disorient and ground us in the moss -- otherworldly.**"**
 
-<p id="outroduction">Thank you for joining us in the mist, that's all for this week. Our love to [Moss Velveta](https://expensivemusicband.bandcamp.com/) and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
+<p id="outroduction">Thank you for joining us in the mist, that's all for this week. Our love to [Moss Velveta](https://www.mossvelveta.com/home) and our thanks to [Nella Papelita](https://nellapapelita.portfoliobox.net/contact) for this episode's fantastic illustration!</p>
