@@ -76,18 +76,18 @@ The Humble Bee: **"**Then i am ready for the day.**"**
 
 ## The Humble Bee - Murmur
 
-ImaCrea: "And now, I'll continue with this magnificent musical playground that our guest opens up for us, with utmost gentleness."
+ImaCrea: **"**And now, I'll continue with this magnificent musical playground that our guest opens up for us, with utmost gentleness.**"**
 
 ## Zonderwerk - Vuurfeest
 
-ImaCrea: "The day settles in, and we're already on our way, while the architecture watches us, or perhaps it is we who watch it?"
+ImaCrea: **"**The day settles in, and we're already on our way, while the architecture watches us, or perhaps it is we who watch it?**"**
 
 ## De Leon - A4
 
-ImaCrea: "We enter one of the buildings randomly and climb to the rooftop. The sun caresses our skin as we lie down and let the sounds dance in the air."
+ImaCrea: **"**We enter one of the buildings randomly and climb to the rooftop. The sun caresses our skin as we lie down and let the sounds dance in the air.**"**
 
 ## Hania Rani - Mountains
 
-ImaCrea: "Then we rise, and suddenly the landscape changes. Concrete gives way to wild grass, and the mountains stand before us. In the distance, the desire to walk and explore the scenery."
+ImaCrea: **"**Then we rise, and suddenly the landscape changes. Concrete gives way to wild grass, and the mountains stand before us. In the distance, the desire to walk and explore the scenery.**"**
 
 <p id="outroduction">That’s it for today! Thanks for being with us, life is magic. Much love to [The Humble Bee](https://thehumblebee.bandcamp.com/) for his blissful selection. And all claps out to Meriam for her funky illustration. See you next Sunday.</p>
