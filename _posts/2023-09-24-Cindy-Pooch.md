@@ -11,7 +11,7 @@ category: '535'
 
 guest_name: Cindy Pooch
 guest_color: bliss
-guestPic: guestPic535.png
+guestPic: guestPic535.jpg
 
 track1_title: Masma Dream World - Knight Wolf
 track1_color: trippy
