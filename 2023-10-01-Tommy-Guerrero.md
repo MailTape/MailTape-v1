@@ -16,6 +16,24 @@ track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track4.mp3'
 track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track7.mp3'
+track1_title: Hysear Don Walker - Poo jo
+track1_color: bliss
+track2_title: The Blonder - On The Beach
+track2_color: trippy
+track3_title: Yasuaki Shimizu - Kakashi
+track3_color: bliss
+track4_title: Tommy Guerrero - Future Deserts
+track4_color: trippy
+track5_title: Rockamovya – Take the night
+track5_color: vibrant
+track6_title: The Agamemnonz – Advice from the Lilac Fairy
+track6_color: trippy
+track7_title: Boris Gardiner Happening – Breezin’
+track7_color: dreamy
+episode_URL: 'http://mailta.pe/536/tommy-guerrero/'
+image: 'https://mailta.pe/img/fbPic536.jpg'
+musiColor: musiColor536.png
+description: 'This morning, we''re riding with Tommy Guerrero on the road to good vibes.'
 ---
 <p id="introduction">
 	This morning, we're riding with [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) on the road to good vibes.
