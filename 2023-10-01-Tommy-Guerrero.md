@@ -48,7 +48,7 @@ Ready? Follow the vibe!
 
 ## Hysear Don Walker - Poo jo
 
-**Cindy Pooch**: **"**Don Walker was a funky pianist from Chicago who worked briefly with the Young-Holt Unlimited group. He also did a great deal of R & B studio work for Brunswick with many artists, including the Chi-lites, Jackie Wilson, Barbara Acklin, and many more...
+**"**Don Walker was a funky pianist from Chicago who worked briefly with the Young-Holt Unlimited group. He also did a great deal of R & B studio work for Brunswick with many artists, including the Chi-lites, Jackie Wilson, Barbara Acklin, and many more...
 **"**
 
 ## The Blonder - On The Beach
