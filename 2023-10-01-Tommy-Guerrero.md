@@ -37,15 +37,15 @@ Anto: **"**It’s difficult to extract a particular track from all of Tommy’s 
 
 ## Rockamovya – Take the night
 
-Anto: **"**Rockamovya is a unique combination of talented musicians for an album that is too underestimated to my taste. The group is made up of jazz guitarist Will Bernard, three members of the reggae group Groundation (Harrison Stafford, Marcus Urani, Ryan Newman) and finally the legendary Jamaican drummer Leroy "Horsemouth" Wallace, unmissible guide in the movie called "Rockers" (if you haven't seen this masterpiece yet, hurry up and catch up!).
+Anto: **"**[Rockamovya](http://www.harrisonstafford.com/album/rockamovya/) is a unique combination of talented musicians for an album that is too underestimated to my taste. The group is made up of jazz guitarist Will Bernard, three members of the reggae group Groundation (Harrison Stafford, Marcus Urani, Ryan Newman) and finally the legendary Jamaican drummer Leroy "Horsemouth" Wallace, unmissible guide in the movie called "Rockers" (if you haven't seen this masterpiece yet, hurry up and catch up!).
 In the end, it gives us an album with an unstoppable groove, of which here is the opening title.**"**
 
-## The Agamemnonz – Advice from the Lilac Fairy
+## Les Agamemnonz – Les conseils de la fée des lilas
 
-Anto: **"**If you think we were back in the 60s, it's missed! The Agamemnonz is a contemporary French group, largely imbued with the codes of surf music. I find their virtuosity incredible. The rhythm is cleverly irregular, and punctuated by deliciously endless reverb, as if it were necessary to let all the nuances of certain notes sound.**"**
+Anto: **"**If you think we were back in the 60s, it's missed! [Les Agamemnonz](https://lesagamemnonz.bandcamp.com/) is a contemporary French group, largely imbued with the codes of surf music. I find their virtuosity incredible. The rhythm is cleverly irregular, and punctuated by deliciously endless reverb, as if it were necessary to let all the nuances of certain notes sound.**"**
 
 ## Boris Gardiner Happening – Breezin’
 
-Anto: **"**Finally, let's catch our breath with this piece by Boris Gardner Happening from 1972. Here the Jamaican artist shows us that there is more than just reggae on his island. The proof is in this languorous blues over which his guitar seems to glide, not without a certain grace.**"**
+Anto: **"**Finally, let's catch our breath with this piece by [Boris Gardner Happening](https://theborisgardinerhappening.bandcamp.com/music) from 1972. Here the Jamaican artist shows us that there is more than just reggae on his island. The proof is in this languorous blues over which his guitar seems to glide, not without a certain grace.**"**
 
 <p id="outroduction">That’s all folks! It was a good session; I feel like we’ve made some good moves. Thanks to [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) for the selection and to Meriam for the illustration. See you next Sunday.</p>
