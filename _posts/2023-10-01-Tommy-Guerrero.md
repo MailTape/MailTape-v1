@@ -8,7 +8,7 @@ writer: Anto
 category: '536'
 guest_name: Tommy Guerrero
 guest_color: trippy
-guestPic: guestPic536.jpg
+guestPic: guestPic536.png
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track3.mp3'
