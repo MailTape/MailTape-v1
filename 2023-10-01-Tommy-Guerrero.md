@@ -80,4 +80,4 @@ Anto: **"**If you think we were back in the 60s, it's missed! [Les Agamemnonz](h
 
 Anto: **"**Finally, let's catch our breath with this piece by [Boris Gardner Happening](https://theborisgardinerhappening.bandcamp.com/music) from 1972. Here the Jamaican artist shows us that there is more than just reggae on his island. The proof is in this languorous blues over which his guitar seems to glide, not without a certain grace.**"**
 
-<p id="outroduction">That’s all folks! It was a good session; I feel like we’ve made some good moves. Thanks to [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) for the selection and to Meriam for the illustration. See you next Sunday.</p>
+<p id="outroduction">That’s all folks! It was a good session. I feel like we’ve made some good moves and we had a wonderful ride. Thanks to [Tommy Guerrero](https://tommyguerrero.bandcamp.com/) for the selection and to Meriam for the illustration. See you next Sunday.</p>
