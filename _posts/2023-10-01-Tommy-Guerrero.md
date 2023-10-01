@@ -26,7 +26,7 @@ track4_title: Tommy Guerrero - Future Deserts
 track4_color: trippy
 track5_title: Rockamovya – Take the night
 track5_color: vibrant
-track6_title: The Agamemnonz – Advice from the Lilac Fairy
+track6_title: The Agamemnonz – Les conseils de la fée des lilas
 track6_color: trippy
 track7_title: Boris Gardiner Happening – Breezin’
 track7_color: dreamy
