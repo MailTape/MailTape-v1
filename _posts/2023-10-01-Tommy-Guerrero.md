@@ -18,7 +18,7 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/536/track7.mp3'
 track1_title: Hysear Don Walker - Poo jo
 track1_color: bliss
-track2_title: The Blonder - On The Beach
+track2_title: Los Blonder - On The Beach
 track2_color: trippy
 track3_title: Yasuaki Shimizu - Kakashi
 track3_color: bliss
@@ -51,7 +51,7 @@ Ready? Follow the vibe!
 **"**Don Walker was a funky pianist from Chicago who worked briefly with the Young-Holt Unlimited group. He also did a great deal of R & B studio work for Brunswick with many artists, including the Chi-lites, Jackie Wilson, Barbara Acklin, and many more...
 **"**
 
-## The Blonder - On The Beach
+## Los Blonder - On The Beach
 
 **"**Surf rock from Venezuela! A key band from the 60’s who used to play "surf music" with a unique touch.
 **"**
