@@ -2,6 +2,12 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '538'
+guest_name: Aleesha Dibbs
+writer: Sarah
+illustrator: Camille Célestin
+author: Sarah
+guest_color: dreamy
 ---
 <p id="introduction">
 	hhh
