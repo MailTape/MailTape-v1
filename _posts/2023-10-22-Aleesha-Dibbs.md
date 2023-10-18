@@ -14,11 +14,11 @@ published: false
 
 Aleesha Dibbs: **"**Sol Seppy is a recent discovery for me - I was completely captured on first listen. On her track 'Slo Fuzz' in particular her production and ethereal vocals literally melted me. I initially heard it while walking down a really beautiful, deserted beach on the Central Coast in Australia on sunset. There's always a mystical pocket on dusk when the clouds reflect on a silky shoreline so you're kind of walking on air... the euphoric lift in the chorus was poignant at this moment.**"**
 
-## Ndédi Dibango - It's All Right
+## David Bowie - Black Star
 
 Blick Bassy: **"**This song takes me back to my childhood. For me, it's one of the most beautiful tracks of Cameroonian music. This artist has inspired a large part of my generation. When listening, you can sometimes hear the Cameroonian influence of Michael Jackson.**"**
 
-## Kassav - Doméyis 
+## Laura Jean - A Funny Thing Happened 
 
 Blick Bassy: **"**This song played on repeat in my small room in Yaounde, when I started singing. During school singing contests, I sometimes imagined myself as Jean Philippe Martely, a group that made me want to pursue this profession. Kassav.**"**
 
