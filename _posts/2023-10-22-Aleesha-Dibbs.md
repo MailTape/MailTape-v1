@@ -8,6 +8,8 @@ writer: Sarah
 illustrator: Camille Célestin
 author: Sarah
 guest_color: dreamy
+track1_title: Sol Seppy - Slo Fuzz
+track1_color: dreamy
 ---
 <p id="introduction">
 	hhh
@@ -22,11 +24,11 @@ Aleesha Dibbs: **"**Sol Seppy is a recent discovery for me - I was completely ca
 
 ## David Bowie - Black Star
 
-Blick Bassy: **"**This song takes me back to my childhood. For me, it's one of the most beautiful tracks of Cameroonian music. This artist has inspired a large part of my generation. When listening, you can sometimes hear the Cameroonian influence of Michael Jackson.**"**
+Blick Bassy: **"**This is the most incredible track from Bowie's final and very potent album. I ended up in a music video watching Youtube portal the other night and was in tears re-watching the 'Black Star' clip - to think his health was suffering so severely whilst in the process of making the record, and that he left the world just two days after it's release is overwhelming. His artistic integrity and genius was so powerful literally up until his final body of work.**"**
 
 ## Laura Jean - A Funny Thing Happened 
 
-Blick Bassy: **"**This song played on repeat in my small room in Yaounde, when I started singing. During school singing contests, I sometimes imagined myself as Jean Philippe Martely, a group that made me want to pursue this profession. Kassav.**"**
+Blick Bassy: **"**I've listened to Laura Jean's most recent album 'Amateurs' a lot since its release. The track 'A Funny Thing Happened' resonated with me the most - really beautiful arrangements and harmonies. There's a really powerful sense of nostalgia to this track.**"**
 
 # MailTape's selection
 
