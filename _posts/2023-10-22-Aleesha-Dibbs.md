@@ -9,7 +9,16 @@ illustrator: Camille Célestin
 author: Sarah
 guest_color: dreamy
 track1_title: Sol Seppy - Slo Fuzz
-track1_color: dreamy
+track1_color: vibrant
+track2_title: David Bowie - Black Star
+track2_color: rough
+track3_color: bliss
+track3_title: Laura Jean - A Funny Thing Happened
+track4_title: 'Aleesha Dibbs - '
+track4_color: vibrant
+track5_color: dreamy
+track6_color: bliss
+track7_color: trippy
 ---
 <p id="introduction">
 	hhh
@@ -24,11 +33,11 @@ Aleesha Dibbs: **"**Sol Seppy is a recent discovery for me - I was completely ca
 
 ## David Bowie - Black Star
 
-Blick Bassy: **"**This is the most incredible track from Bowie's final and very potent album. I ended up in a music video watching Youtube portal the other night and was in tears re-watching the 'Black Star' clip - to think his health was suffering so severely whilst in the process of making the record, and that he left the world just two days after it's release is overwhelming. His artistic integrity and genius was so powerful literally up until his final body of work.**"**
+Aleesha Dibbs: **"**This is the most incredible track from Bowie's final and very potent album. I ended up in a music video watching Youtube portal the other night and was in tears re-watching the 'Black Star' clip - to think his health was suffering so severely whilst in the process of making the record, and that he left the world just two days after it's release is overwhelming. His artistic integrity and genius was so powerful literally up until his final body of work.**"**
 
 ## Laura Jean - A Funny Thing Happened 
 
-Blick Bassy: **"**I've listened to Laura Jean's most recent album 'Amateurs' a lot since its release. The track 'A Funny Thing Happened' resonated with me the most - really beautiful arrangements and harmonies. There's a really powerful sense of nostalgia to this track.**"**
+Aleesha Dibbs: **"**I've listened to Laura Jean's most recent album 'Amateurs' a lot since its release. The track 'A Funny Thing Happened' resonated with me the most - really beautiful arrangements and harmonies. There's a really powerful sense of nostalgia to this track.**"**
 
 # MailTape's selection
 
