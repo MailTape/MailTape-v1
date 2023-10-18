@@ -4,15 +4,15 @@ bigTitle_font_ratio: '6'
 published: false
 ---
 <p id="introduction">
-	On this Sunday morning of the new season, we've curated a musical selection that gently caresses the ears and brims with uplifting vibes to usher in a cheerful and inspiring start to the season. We are delighted to commence this 12th season of MailTape with [Blick Bassy](https://blickbassy.bandcamp.com/album/m-dib), whose soulful melodies and captivating rhythms promise to be the perfect companion for your day. May your hearts be filled with sunshine, your bodies dance with joy, and your souls be illuminated.
-	<br><br>Thank you, dear listeners, for your loyalty and unwavering support. It's for you that we do what we do, and as long as you continue to join us, we'll carry on with joy and enthusiasm.
+	hhh
+	<br><br>hh
 </p>
 
 # Blick Bassy's selection
 
-## Marvin Gaye - Mercy Mercy Me
+## Sol Seppy - Slo Fuzz
 
-Blick Bassy: **"**This Marvin Gaye song is so beautiful both in terms of its melody and its thematic focus on environmental issues. How avant-garde.**"**
+Aleesha Dibbs: **"**Sol Seppy is a recent discovery for me - I was completely captured on first listen. On her track 'Slo Fuzz' in particular her production and ethereal vocals literally melted me. I initially heard it while walking down a really beautiful, deserted beach on the Central Coast in Australia on sunset. There's always a mystical pocket on dusk when the clouds reflect on a silky shoreline so you're kind of walking on air... the euphoric lift in the chorus was poignant at this moment.**"**
 
 ## Ndédi Dibango - It's All Right
 
