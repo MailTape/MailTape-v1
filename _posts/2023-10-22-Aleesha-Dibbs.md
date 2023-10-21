@@ -29,6 +29,7 @@ image: ' https://mailta.pe/img/fbPic538.png'
 
 ![guestPic538.jpg]({{site.baseurl}}/img/guestPic538.jpg)
 ![fbPic538.png]({{site.baseurl}}/img/fbPic538.png)
+![musiColor538.png]({{site.baseurl}}/img/musiColor538.png)
 
 
 # Aleesha Dibbs's selection
