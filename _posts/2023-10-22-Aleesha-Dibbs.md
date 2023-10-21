@@ -54,8 +54,8 @@ Sarah: **"**Here's an instant banger for you. Movement is what breathes life int
 
 Sarah: **"**Stepping away from FBC & VHOOR's dancefloor, Nyami Nyami's 'Oceanic Sands' hits you like a musical tidal wave. It's a wild ride from one extreme to another, but damn, it's worth every moment of the switch-up.**"**
 
-## Beverly Glenn-Copeland - People of the Loon
+## Vanishing Twin - Afternoon X
 
-Sarah: **"**Returning to a spiritual atmosphere with the legendary artist Beverly Glenn-Copeland, we delve into a reflection on our ways of existence, in line with the concept of 'adjusted regards' coined by philosopher Baptiste Morizot.**"**
+Sarah: **"**Fascinated by this new release from Vanishing Twin, the namesake of their album released earlier this month. The cyclical rhythm section is disrupted and then enhanced, hypnotic in its creativity and subtle transformations.**"**
 
 <p id="outroduction">That’s it for today! Thank you for joining us; let's keep the good vibes flowing. Much love to Blick Bassy for his invigorating selection, perfectly suited to kick off this new season with a big smile. Let's give a round of applause to Noémie for her delightful illustration. See you next Sunday.</p>
