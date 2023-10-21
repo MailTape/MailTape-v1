@@ -23,7 +23,7 @@ guestPic: guestPic538.jpg
 image: ' https://mailta.pe/img/fbPic538.png'
 ---
 <p id="introduction">
-	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her EP, Paradise Lost. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness. The EP's four songs weave into their own epic, drawing listeners deeper with each track.
+	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, Paradise Lost - produced and co-written by Tom Crandles. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness. 
 </p>
 
 # Aleesha Dibbs's selection
@@ -44,7 +44,7 @@ Aleesha Dibbs: **"**I've listened to Laura Jean's most recent album 'Amateurs' a
 
 ## Aleesha Dibbs - Comin For Me Now
 
-Sarah: **"**Blick Bassy's new album, Mádibá, is a true celebration of life. I especially love this track for its fusion of electro with the rich musical roots of the Baasa language in Cameroon, creating a spiritually uplifting blend that achieves a perfect balance and exquisite harmony. You can immediately sense the maturity of a great artist and the characteristic electro touch from Infiné. It's a must-listen on these sunny days of the new season, preferably while riding your bike.**"**
+Sarah: **"**Across the  Paradise Lost EP, the intricacy within the synthwork carries such a brooding richness. The EP's four songs weave into their own epic, drawing listeners deeper with each track, and this is the last. As Dibbs describes, the creation of the EP embodied a "monstrous two years" and its symbolized "a big, happy, metaphorical closing of a door." The description is especially interesting when experiencing Comin For Me Now as the EP's last track, the last word before the door's closing. Although the last word, this track strikes at once haunting and then accelerating tones, a chasing of sorts. With each listen through the EP, I found drawn to begin again, to go back to Batallion, through to Distance, Conjured You Up, and found myself embedded in the spiral of these tracks, their connective tissue and .**"**
 
 ## FBC & VHOOR - Quando O DJ Toca
 
