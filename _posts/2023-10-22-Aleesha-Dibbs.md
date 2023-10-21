@@ -23,14 +23,9 @@ guestPic: guestPic538.jpg
 image: ' https://mailta.pe/img/fbPic538.png'
 ---
 <p id="introduction">
-	hhh
+	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her EP, Paradise Lost. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness.
 	<br><br>hh
 </p>
-
-![guestPic538.jpg]({{site.baseurl}}/img/guestPic538.jpg)
-![fbPic538.png]({{site.baseurl}}/img/fbPic538.png)
-![musiColor538.png]({{site.baseurl}}/img/musiColor538.png)
-
 
 # Aleesha Dibbs's selection
 
