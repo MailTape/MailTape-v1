@@ -23,8 +23,7 @@ guestPic: guestPic538.jpg
 image: ' https://mailta.pe/img/fbPic538.png'
 ---
 <p id="introduction">
-	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her EP, Paradise Lost. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness.
-	<br><br>hh
+	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her EP, Paradise Lost. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness. The EP's four songs weave into their own epic, drawing listeners deeper with each track.
 </p>
 
 # Aleesha Dibbs's selection
