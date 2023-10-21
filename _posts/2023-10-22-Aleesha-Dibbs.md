@@ -25,6 +25,10 @@ track7_color: trippy
 	<br><br>hh
 </p>
 
+![guestPic538.jpg]({{site.baseurl}}/img/guestPic538.jpg)
+![fbPic538.png]({{site.baseurl}}/img/fbPic538.png)
+
+
 # Blick Bassy's selection
 
 ## Sol Seppy - Slo Fuzz
@@ -58,4 +62,3 @@ ImaCrea: **"**Stepping away from FBC & VHOOR's dancefloor, Nyami Nyami's 'Oceani
 ImaCrea: **"**Returning to a spiritual atmosphere with the legendary artist Beverly Glenn-Copeland, we delve into a reflection on our ways of existence, in line with the concept of 'adjusted regards' coined by philosopher Baptiste Morizot.**"**
 
 <p id="outroduction">That’s it for today! Thank you for joining us; let's keep the good vibes flowing. Much love to Blick Bassy for his invigorating selection, perfectly suited to kick off this new season with a big smile. Let's give a round of applause to Noémie for her delightful illustration. See you next Sunday.</p>
-
