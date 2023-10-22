@@ -51,9 +51,9 @@ Sarah: **"**Across the  Paradise Lost EP, the intricacy within the synthwork car
 
 Sarah: **"**Off this Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup toward its end. Adding more mist to this Sunday morning haze :)**"**
 
-## Anastasia Rydlevskaya - The Sun is shining strangely today again
+## Anastasia Rydlevskaya - Don't tell her your name
 
-Sarah: **"**Stepping away from FBC & VHOOR's dancefloor, Nyami Nyami's 'Oceanic Sands' hits you like a musical tidal wave. It's a wild ride from one extreme to another, but damn, it's worth every moment of the switch-up.**"**
+Sarah: **"**Highly recommend listening through Polish artist Anastasia Rydlevskaya's discography while viewing her visual art, as she writes that she makes her music with deliberate connection to its visual counterpart. Just as her art engages with surrealism, gender nonbinary themes, and mental health, her music holds complex and intertangled harmonies, unusual melodies, and celestial overtones.**"**
 
 ## Vanishing Twin - Afternoon X
 
