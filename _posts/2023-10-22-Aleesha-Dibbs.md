@@ -45,18 +45,18 @@ Aleesha Dibbs: **"**I've listened to Laura Jean's most recent album 'Amateurs' a
 
 ## Aleesha Dibbs - Comin For Me Now
 
-Sarah: **"**Across the  Paradise Lost EP, the intricacy within the synthwork carries such a brooding richness. The EP's four songs weave into their own epic, drawing listeners deeper with each track, and this is the last. As Dibbs describes, the creation of the EP embodied a "monstrous two years" and its symbolized "a big, happy, metaphorical closing of a door." The description is especially interesting when experiencing Comin For Me Now as the EP's last track, the last word before the door's closing. Although the last word, this track strikes at once haunting and then accelerating tones, a chasing of sorts. With each listen through the EP, I found drawn to begin again, to go back to Batallion, through to Distance, Conjured You Up, and found myself embedded in the spiral of these tracks, their connective tissue and the weight they came to represent.**"**
+Sarah: **"**Across Paradise Lost, the intricacy within the EP's synthwork carries such brooding richness, weaving the four songs into their own epic and drawing listeners deeper with each track. Comin For Me Now is the last of these tracks. As Dibbs describes, the creation of the EP embodied a "monstrous two years" and its symbolized "a big, happy, metaphorical closing of a door." The description is especially interesting when experiencing Comin For Me Now as the EP's final number, the last word before the metaphorical door's closing. Although the last word, this track strikes at once haunting and then accelerating tones, a chasing of sorts. With each listen through the EP, I felt drawn to begin again, to go back to Batallion, through to Distance, on to Conjured You Up, and found myself embedded in the spiral of these tracks, their connective tissue and the emotional weight they came to represent.**"**
 
 ## Caitlin Harnett & The Pony Boys - Only Dreaming
 
-Sarah: **"**Off this Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup toward its end. Adding more mist to this Sunday morning haze :)**"**
+Sarah: **"**From the Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup and solo toward its end. Adding more mist to this Sunday morning haze :)**"**
 
 ## Anastasia Rydlevskaya - Don't tell her your name
 
-Sarah: **"**Highly recommend listening through Polish artist Anastasia Rydlevskaya's discography while viewing her visual art, as she writes that she makes her music with deliberate connection to its visual counterpart. Just as her art engages with surrealism, gender nonbinary themes, and mental health, her music holds complex and intertangled harmonies, unusual melodies, and celestial overtones.**"**
+Sarah: **"**Highly recommend listening through Polish artist Anastasia Rydlevskaya's discography while viewing her visual art, as she writes that she makes her music with deliberate connection to its visual counterpart. Just as her art engages with surrealism, gender nonbinary themes, and mental health, her music holds complex and intertangled harmonies, unpredictable melodies, and celestial overtones.**"**
 
 ## Vanishing Twin - Afternoon X
 
 Sarah: **"**Fascinated by this new release from Vanishing Twin, the namesake of their album released earlier this month. The cyclical rhythm section is disrupted and then enhanced, hypnotic in its creativity and subtle transformations.**"**
 
-<p id="outroduction">That’s it for today! Thank you for joining us; let's keep the good vibes flowing. Much love to Blick Bassy for his invigorating selection, perfectly suited to kick off this new season with a big smile. Let's give a round of applause to Noémie for her delightful illustration. See you next Sunday.</p>
+<p id="outroduction">That’s all for this morning! Thank you for joining us. Our love to Aleesha Dibbs for her eclectic selection, and to Camille Célestin for this episode's beautiful illustration. Until next Sunday :)</p>
