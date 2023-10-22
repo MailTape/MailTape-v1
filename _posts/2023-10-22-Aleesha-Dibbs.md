@@ -70,7 +70,7 @@ Sarah: **"**From the Sydney-based band's new album release, [All Night Long](htt
 
 ## [Anastasia Rydlevskaya](https://www.instagram.com/arydlevskaya_art/) - Don't tell her your name
 
-Sarah: **"**Highly recommend listening through Polish artist Anastasia Rydlevskaya's discography while viewing her visual art, as she writes that she makes her music with deliberate connection to its visual counterpart. Just as her art engages with surrealism, gender nonbinary themes, and mental health, her music holds complex and intertwined harmonies, unpredictable melodies, and celestial overtones.**"**
+Sarah: **"**Highly recommend listening through Polish artist Anastasia Rydlevskaya's discography while viewing [her visual art](https://www.saatchiart.com/arydlevskaya), as she writes that she makes her music with deliberate connection to its visual counterpart. Just as her art engages with surrealism, gender nonbinary themes, and mental health, her music holds complex and intertwined harmonies, unpredictable melodies, and celestial overtones.**"**
 
 ## [Vanishing Twin](https://www.vanishingtwin.co.uk/) - Afternoon X
 
