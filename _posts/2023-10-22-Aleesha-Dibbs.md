@@ -49,7 +49,7 @@ Sarah: **"**Across the  Paradise Lost EP, the intricacy within the synthwork car
 
 ## Caitlin Harnett & The Pony Boys - Only Dreaming
 
-Sarah: **"**Off this Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup toward its end. Adding more mist to our Sunday morning haze :)**"**
+Sarah: **"**Off this Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup toward its end. Adding more mist to this Sunday morning haze :)**"**
 
 ## Anastasia Rydlevskaya - The Sun is shining strangely today again
 
