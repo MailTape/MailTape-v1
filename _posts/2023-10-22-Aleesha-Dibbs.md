@@ -22,6 +22,8 @@ track7_color: trippy
 guestPic: guestPic538.jpg
 image: ' https://mailta.pe/img/fbPic538.png'
 track7_title: Vanishing Twin - Afternoon X
+track4_link: >-
+  https://soundcloud.com/aleeshadibbs/comin-for-me-now?in=aleeshadibbs/sets/dibbs-solo-ep-paradise-lost&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
 ---
 <p id="introduction">
 	This Sunday morning we welcome Aleesha Dibbs for Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, Paradise Lost - produced and co-written by Tom Crandles. Marked by eccentric snythwork and rich vocals, the release often treads darker, haunting tones with exceptional inventiveness. 
