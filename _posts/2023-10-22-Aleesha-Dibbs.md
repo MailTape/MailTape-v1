@@ -33,6 +33,12 @@ track5_title: Caitlin Harnett & The Pony Boys - Only Dreaming
 track6_title: Anastasia Rydlevskaya - Don't tell her your name
 episode_URL: 'http://mailta.pe/538/Aleesha-Dibbs/'
 musiColor: musiColor538.png
+description: >-
+  This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based
+  in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP,
+  Paradise Lost - produced and co-written by Tom Crandles. Marked by eccentric
+  snythwork and rich vocals, the release often treads into darker, haunting
+  tones with exceptional inventiveness.
 ---
 <p id="introduction">
 	This Sunday morning we welcome Aleesha Dibbs for MailTape's Episode 538. Based in Sydney, Aleesha Dibbs joins us after the release of her debut solo EP, Paradise Lost - produced and co-written by Tom Crandles. Marked by eccentric snythwork and rich vocals, the release often treads into darker, haunting tones with exceptional inventiveness. 
