@@ -47,11 +47,11 @@ Aleesha Dibbs: **"**I've listened to Laura Jean's most recent album 'Amateurs' a
 
 Sarah: **"**Across the  Paradise Lost EP, the intricacy within the synthwork carries such a brooding richness. The EP's four songs weave into their own epic, drawing listeners deeper with each track, and this is the last. As Dibbs describes, the creation of the EP embodied a "monstrous two years" and its symbolized "a big, happy, metaphorical closing of a door." The description is especially interesting when experiencing Comin For Me Now as the EP's last track, the last word before the door's closing. Although the last word, this track strikes at once haunting and then accelerating tones, a chasing of sorts. With each listen through the EP, I found drawn to begin again, to go back to Batallion, through to Distance, Conjured You Up, and found myself embedded in the spiral of these tracks, their connective tissue and the weight they came to represent.**"**
 
-## FBC & VHOOR - Quando O DJ Toca
+## Caitlin Harnett & The Pony Boys - Only Dreaming
 
-Sarah: **"**Here's an instant banger for you. Movement is what breathes life into our bodies. Let's dance and let the rhythm carry us away. Those are the moments I cherish, when I stumble upon a track online, and I can already tell it's going to stay in my vibe for days and days...**"**
+Sarah: **"**Off this Sydney-based band's new album release, All Night Long. Drawn to the nostalgia laced over this soulful Americana style, love this track's pickup toward its end. Adding more mist to our Sunday morning haze :)**"**
 
-## Nyami Nyami - Oceanic Sands
+## Anastasia Rydlevskaya - The Sun is shining strangely today again
 
 Sarah: **"**Stepping away from FBC & VHOOR's dancefloor, Nyami Nyami's 'Oceanic Sands' hits you like a musical tidal wave. It's a wild ride from one extreme to another, but damn, it's worth every moment of the switch-up.**"**
 
