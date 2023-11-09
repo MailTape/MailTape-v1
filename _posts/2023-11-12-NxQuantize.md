@@ -12,6 +12,24 @@ track1_title: Slauson Malone - Voyager
 track2_title: Earl Sweatshirt & The Alchemist - Mac Deuce
 track3_title: Everything But The Girl - Flipside
 episode_URL: 'https://www.mailta.pe/540/nxquantize/'
+track4_title: NxQuantize - OnYi
+track5_title: modest by default - 你带着太阳的热量
+track6_title: Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
+track7_title: Oneohtrix Point Never - Ubiquity Road
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track1.mp3'
+track1_color: bliss
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track2.mp3'
+track2_color: vibrant
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track3.mp3'
+track3_color: dreamy
+track4_color: trippy
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track5.mp3'
+track5_color: vibrant
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track6.mp3'
+track6_color: dreamy
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track7.mp3'
+track7_color: bliss
 ---
 <p id="introduction">
 	This morning, we are delighted to welcome Marseille-based producer, musician, DJ, singer, and MC (she can do it all) [Goldie B](https://www.facebook.com/goldiebmusic), to MailTape! On this Sunday, as the clouds gather above Paris, from where I am writing, let us hope that her selection, coming straight from the south of France, will warm our spirits.
@@ -21,7 +39,7 @@ episode_URL: 'https://www.mailta.pe/540/nxquantize/'
 
 # NxQuantize's selection
 
-## Slauson Malone - Voyager
+## Slauson Malone 1 - Voyager
 
 NxQuantize: **"**<i>Voyager</i> illustrates well the moment when my eyelids open, the moment when I emerge looking at the ceiling 2 minutes before sitting on the edge of the bed. If I have this melody in my head, the smile is immediate, and the day will be good. I discovered Slauson Malone in 2019, with the release of his album <i>A Quiet Farwell, 2016-2018 (Crater Speak)</i>, a stunning avant-garde discovery with the track <i>My feet's hurt "I was a fugitive but then I realized there was nowhere I could run to" (see page 110 and 113)</i>. The track <i>Voyager</i> is taken from his latest album, released by Warp, a discography that should urgently be discovered for those who haven't yet! The future is now before your very eyes.<br>
 Voyager <i>illustre bien le moment où mes paupières s’ouvrent, le moment où j’émerge en regardant le plafond 2 minutes avant de m’assoir sur le bord du lit. Si j’ai cette mélodie en tête, le sourire est immédiat, et la journée sera bonne. J’ai découvert Slauson Malone en 2019, avec la sorti de son album </i>A Quiet Farwell, 2016–2018 (Crater Speak)<i>, découverte bluffante d’avant-gardisme avec le titre</i> My feet's hurt I was a fugitive but then I realized there was nowhere I could run to" (see page 110 and 113)<i>. Le titre </i>Voyager<i> est issu de son dernière album paru chez Warp, discographie à découvrir d’urgence pour celles et ceux qui ne connaitraient pas encore ! Le futur est à présent sous vos yeux.</i>
@@ -45,20 +63,20 @@ J’ai fait la découvert de ce titre en 2006, et donc dans la foulée de EBTG, 
 
 # MailTape's selection
 
-## NxQuantize - 
+## NxQuantize - OnYi
+
+Jules: **"**Hard to choose only one song as the album is so complex, deep and full of suprises**"**
+
+## modest by default - 你带着太阳的热量
 
 Jules: **"****"**
 
-## Sofia Kourtesis - How Music Makes You Feel Better
+## Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 
 Jules: **"****"**
 
-## Simo Cell - rainbow dance
+## Oneohtrix Point Never - Ubiquity Road
 
-Jules: **"****"**
-
-## [Ela Minus & DJ Python](https://elaminus.bandcamp.com/album/ep) - Kiss U
-
-Jules: **"****"**
+Jules: **"**My first choice was Blue Violet by Djrum but I resisted to find a peaceful choice**"**
 
 <p id="outroduction">That’s it for this beautiful morning! Thank you for joining us and many thanks to [Goldie B](https://www.facebook.com/goldiebmusic) for her blissful and eclectic selection and to [Noémie](noemiedijon.tumblr.com) for this episode's wonderful illustration. See you next Sunday.</p>
