@@ -32,9 +32,9 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track7.mp3'
 track7_color: bliss
 ---
 <p id="introduction">
-	This morning, we welcome Marseille-based artist and electronic music producer [NxQuantize](https://www.facebook.com/NxQuantize/) to MailTape!
+	This morning, we welcome Marseille-based artist and electronic music producer [NxQuantize](https://www.facebook.com/NxQuantize/) to MailTape! After welcoming label boss Goldie B in [episode 537](https://www.mailta.pe/537/goldie-b/), we're delighted to shine the spotlight on another [Omakase Recordings](https://omakaserecordings.bandcamp.com/) artist, who has recently released its dazzling second album <i>OnYi</i>.
 <br><br>
-After welcoming label boss Goldie B in [episode 537](https://www.mailta.pe/537/goldie-b/), we're delighted to shine the spotlight on another [Omakase Recordings](https://omakaserecordings.bandcamp.com/) artist, who has recently released its dazzling second album <i>OnYi</i>. Enough said, let's get swept up in its rich and contemplative musical universe for a lazy Sunday morning!
+As explained by the artist, who coined this neologism, the term 'OnYi' means 'to be in the void', reflecting his exploration of the mysteries of the universe and the limits of our existence. So if, like me, these words make sense when you wake up and your mind is still in a dreamy state, let's not say any more and get swept up in its rich and contemplative musical universe for a blissful Sunday morning!
 </p>
 
 # NxQuantize's selection
