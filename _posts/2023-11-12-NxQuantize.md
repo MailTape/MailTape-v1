@@ -2,6 +2,16 @@
 layout: episode
 bigTitle_font_ratio: '6'
 published: false
+category: '540'
+author: Jules
+illustrator: Noémie Dijon
+writer: Jules
+guest_name: NxQuantize
+guest_color: trippy
+track1_title: Slauson Malone - Voyager
+track2_title: Earl Sweatshirt & The Alchemist - Mac Deuce
+track3_title: Everything But The Girl - Flipside
+episode_URL: 'https://www.mailta.pe/540/nxquantize/'
 ---
 <p id="introduction">
 	This morning, we are delighted to welcome Marseille-based producer, musician, DJ, singer, and MC (she can do it all) [Goldie B](https://www.facebook.com/goldiebmusic), to MailTape! On this Sunday, as the clouds gather above Paris, from where I am writing, let us hope that her selection, coming straight from the south of France, will warm our spirits.
