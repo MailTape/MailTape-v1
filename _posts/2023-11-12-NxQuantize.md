@@ -32,16 +32,16 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track7.mp3'
 track7_color: bliss
 ---
 <p id="introduction">
-	This morning, we are delighted to welcome Marseille-based producer, musician, DJ, singer, and MC (she can do it all) [Goldie B](https://www.facebook.com/goldiebmusic), to MailTape! On this Sunday, as the clouds gather above Paris, from where I am writing, let us hope that her selection, coming straight from the south of France, will warm our spirits.
-	<br><br>
-	From episodes of unsettlingly prolonged warmth to sudden waves of cold that prick our senses, this October month seems undeniably changed. Looking at the news, depicting a world more and more fragmented and battered, I can't help but think, selfishly, that Sunday mornings will likely never be the same again. When I reached out Bonnie told me that, under her DJ alias Goldie B, more accustomed to nightlife, blissful Sunday morning playlists aren't her forte. But it matters not. The mother of [Omakase Recordings](https://omakaserecordings.bandcamp.com/) embraced the challenge, drawing from her diverse musical journey, delivering a selection that builds bridges and transcends boundaries, always inviting us to rise from our beds and reinvent everything.
+	This morning, we welcome Marseille-based artist and electronic music producer [NxQuantize](https://www.facebook.com/NxQuantize/) to MailTape!
+<br><br>
+After welcoming label boss Goldie B in [episode 537](https://www.mailta.pe/537/goldie-b/), we're delighted to shine the spotlight on another [Omakase Recordings](https://omakaserecordings.bandcamp.com/) artist, who has recently released its dazzling second album <i>OnYi</i>. Enough said, let's get swept up in its rich and contemplative musical universe for a lazy Sunday morning!
 </p>
 
 # NxQuantize's selection
 
 ## Slauson Malone 1 - Voyager
 
-NxQuantize: **"**<i>Voyager</i> illustrates well the moment when my eyelids open, the moment when I emerge looking at the ceiling 2 minutes before sitting on the edge of the bed. If I have this melody in my head, the smile is immediate, and the day will be good. I discovered Slauson Malone in 2019, with the release of his album <i>A Quiet Farwell, 2016-2018 (Crater Speak)</i>, a stunning avant-garde discovery with the track <i>My feet's hurt "I was a fugitive but then I realized there was nowhere I could run to" (see page 110 and 113)</i>. The track <i>Voyager</i> is taken from his latest album, released by Warp, a discography that should urgently be discovered for those who haven't yet! The future is now before your very eyes.<br>
+NxQuantize: **"**<i>Voyager</i> illustrates well the moment when my eyelids open, the moment when I emerge looking at the ceiling 2 minutes before sitting on the edge of the bed. If I have this melody in my head, the smile is immediate, and the day will be good. I discovered Slauson Malone in 2019, with the release of his album <i>A Quiet Farwell, 2016-2018 (Crater Speak)</i>, a stunning avant-garde discovery with the track <i>My feet's hurt "I was a fugitive but then I realized there was nowhere I could run to" (see page 110 and 113)</i>. The track <i>Voyager</i> is taken from his latest album, released by Warp, a discography that should urgently be discovered for those who haven't yet! The future is now before your very eyes.<br><br>
 Voyager <i>illustre bien le moment où mes paupières s’ouvrent, le moment où j’émerge en regardant le plafond 2 minutes avant de m’assoir sur le bord du lit. Si j’ai cette mélodie en tête, le sourire est immédiat, et la journée sera bonne. J’ai découvert Slauson Malone en 2019, avec la sorti de son album </i>A Quiet Farwell, 2016–2018 (Crater Speak)<i>, découverte bluffante d’avant-gardisme avec le titre</i> My feet's hurt I was a fugitive but then I realized there was nowhere I could run to" (see page 110 and 113)<i>. Le titre </i>Voyager<i> est issu de son dernière album paru chez Warp, discographie à découvrir d’urgence pour celles et ceux qui ne connaitraient pas encore ! Le futur est à présent sous vos yeux.</i>
 **"**
 
