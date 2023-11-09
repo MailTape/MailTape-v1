@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 category: '540'
 author: Jules
 illustrator: Noémie Dijon
@@ -68,4 +68,3 @@ Jules: **"****"**
 Jules: **"****"**
 
 <p id="outroduction">That’s it for this beautiful morning! Thank you for joining us and many thanks to [Goldie B](https://www.facebook.com/goldiebmusic) for her blissful and eclectic selection and to [Noémie](noemiedijon.tumblr.com) for this episode's wonderful illustration. See you next Sunday.</p>
-
