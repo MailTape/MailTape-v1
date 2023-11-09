@@ -30,6 +30,7 @@ track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track6.mp3'
 track6_color: dreamy
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/540/track7.mp3'
 track7_color: bliss
+musiColor: musiColor540.png
 ---
 <p id="introduction">
 	This morning, we welcome Marseille-based artist and electronic music producer [NxQuantize](https://www.facebook.com/NxQuantize/) to MailTape! After welcoming label boss Goldie B in [episode 537](https://www.mailta.pe/537/goldie-b/), we're delighted to shine the spotlight on another [Omakase Recordings](https://omakaserecordings.bandcamp.com/) artist, who has recently released its dazzling second album <i>OnYi</i>.
