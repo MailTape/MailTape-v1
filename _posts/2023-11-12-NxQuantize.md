@@ -79,4 +79,4 @@ Jules: **"****"**
 
 Jules: **"**My first choice was Blue Violet by Djrum but I resisted to find a peaceful choice**"**
 
-<p id="outroduction">That’s it for this beautiful morning! Thank you for joining us and many thanks to [Goldie B](https://www.facebook.com/goldiebmusic) for her blissful and eclectic selection and to [Noémie](noemiedijon.tumblr.com) for this episode's wonderful illustration. See you next Sunday.</p>
+<p id="outroduction">That’s it for this morning folks! Thank you for joining us and many thanks to [NxQuantize](https://www.facebook.com/NxQuantize/)) for his dazzling selection and to [Noémie](noemiedijon.tumblr.com) for this episode's wonderful illustration. See you next Sunday.</p>
