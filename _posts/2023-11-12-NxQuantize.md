@@ -70,11 +70,11 @@ Jules: **"**It was a challenging task to pick a single track from NxQuantize's l
 
 ## modest by default - 你带着太阳的热量
 
-Jules: **"**I don't have much to say about this Argentinian artist, whom I discovered while wandering around on bandcamp.  Little is known about him/her or his/her extensive collection of music, which you can access for free (by the way). Perhaps the best we can do is just let ourselves be lulled by these jazzy soundscapes. This one is from his/her album [GIRAFFE (​ب​ه خ​د​ا ن​ز​د​ی​ک ت​ر​)](https://noproblematapes.bandcamp.com/album/giraffe) released on the chilean label NO PROBLEMA TAPE.**"**
+Jules: **"**I don't have much to say about this Argentinian artist, whom I discovered while wandering around on Bandcamp.  Little is known about him/her or his/her extensive collection of music, which you can access for free by the way (how crazy is that?). Perhaps the best we can do is just let ourselves be lulled by these jazzy soundscapes. This one is from his/her album [GIRAFFE (​ب​ه خ​د​ا ن​ز​د​ی​ک ت​ر​)](https://noproblematapes.bandcamp.com/album/giraffe) released on the chilean label NO PROBLEMA TAPE.**"**
 
 ## Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 
-Jules: **"****"**
+Jules: **"**Natural Wonder Beauty Concept is a shared project between Ana Roxanne and DJ Python (Brian Piñeyro)**"**
 
 ## Oneohtrix Point Never - Ubiquity Road
 
