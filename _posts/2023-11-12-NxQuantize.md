@@ -66,11 +66,11 @@ J’ai fait la découvert de ce titre en 2006, et donc dans la foulée de EBTG, 
 
 ## NxQuantize - OnYi
 
-Jules: **"**Hard to choose only one song as the album is so complex, deep and full of suprises**"**
+Jules: **"**It was a challenging task to pick a single track from NxQuantize's latest album because each track is dazzlingly complex in terms of narrative and sound. <i>OnYi</i> is replete with surprise and richness, featuring a myriad of guest artists from diverse backgrounds and blending genres such as jazz, ambient and hip-hop. In the end, it's this eponymous track that I think gives the best insight into his musical universe, but you should definitely run out and listen to the rest!**"**
 
 ## modest by default - 你带着太阳的热量
 
-Jules: **"****"**
+Jules: **"**I don't have much to say about this Argentinian artist, whom I discovered while wandering around on bandcamp.  Little is known about him or his extensive collection of music, which you can access for free (by the way). Perhaps the best we can do is just let ourselves be lulled by this jazzy soundscapes. This one is from his/her album [GIRAFFE (​ب​ه خ​د​ا ن​ز​د​ی​ک ت​ر​)](https://noproblematapes.bandcamp.com/album/giraffe) released on the chilean label NO PROBLEMA TAPE.**"**
 
 ## Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 
