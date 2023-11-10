@@ -74,7 +74,7 @@ Jules: **"**I don't have much to say about this Argentinian artist, whom I disco
 
 ## Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 
-Jules: **"**Natural Wonder Beauty Concept is a shared project between Ana Roxanne and DJ Python (Brian Piñeyro)**"**
+Jules: **"**[Natural Wonder Beauty Concept](https://djpythonnyc.bandcamp.com/album/natural-wonder-beauty-concept) is a shared project between Ana Roxanne and DJ Python (Brian Piñeyro). After they first met in New York in the winter of 2020, the pandemic provided them with the chance to confront their musical worlds and individual feelings of melancholy, and experiment together. After touring separately, the two artists came together in 2022 to finally release this eponymous album that draws from their previous work and influences but does not sound like either of them.**"**
 
 ## Oneohtrix Point Never - Ubiquity Road
 
