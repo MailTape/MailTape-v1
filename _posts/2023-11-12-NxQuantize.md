@@ -70,14 +70,14 @@ Jules: **"**It was a challenging task to pick a single track from NxQuantize's l
 
 ## modest by default - 你带着太阳的热量
 
-Jules: **"**I don't have much to say about this Argentinian artist, whom I discovered while wandering around on Bandcamp.  Little is known about him/her or his/her extensive collection of music, which you can access for free by the way (how crazy is that?). Perhaps the best we can do is just let ourselves be lulled by these jazzy soundscapes. This one is from his/her album [GIRAFFE (​ب​ه خ​د​ا ن​ز​د​ی​ک ت​ر​)](https://noproblematapes.bandcamp.com/album/giraffe) released on the chilean label NO PROBLEMA TAPE.**"**
+Jules: **"**I don't have much to say about this Argentinian artist, whom I discovered while wandering around on Bandcamp.  Little is known about him/her or his/her extensive collection of music, which you can access for free by the way (how crazy is that?). Perhaps the best we can do is just let ourselves be lulled by these jazzy soundscapes. This one is from his/her album [<i>GIRAFFE (​ب​ه خ​د​ا ن​ز​د​ی​ک ت​ر​)</i>](https://noproblematapes.bandcamp.com/album/giraffe) released on the chilean label NO PROBLEMA TAPE.**"**
 
 ## Natural Wonder Beauty Concept - Natural Wonder Beauty Concept
 
-Jules: **"**[Natural Wonder Beauty Concept](https://djpythonnyc.bandcamp.com/album/natural-wonder-beauty-concept) is a shared project between Ana Roxanne and DJ Python (Brian Piñeyro). After they first met in New York in the winter of 2020, the pandemic provided them with the chance to confront their musical worlds and individual feelings of melancholy, and experiment together. After touring separately, the two artists came together in 2022 to finally release this eponymous album that draws from their previous work and influences but does not sound like either of them.**"**
+Jules: **"**[<i>Natural Wonder Beauty Concept</i>](https://djpythonnyc.bandcamp.com/album/natural-wonder-beauty-concept) is a shared project between Ana Roxanne and DJ Python (Brian Piñeyro). After they first met in New York in the winter of 2020, the pandemic provided them with the chance to confront their musical worlds and individual feelings of melancholy, and experiment together. After touring separately, the two artists came together in 2022 to finally release this eponymous album that draws from their previous work and influences but does not sound like either of them.**"**
 
 ## Oneohtrix Point Never - Ubiquity Road
 
-Jules: **"**My first choice was Blue Violet by Djrum but I resisted to find a peaceful choice**"**
+Jules: **"**For the final track my first choice was Djrum's [Blue Violet](https://djrum.bandcamp.com/track/blue-violet), which seemed a perfect choice to round off this selection with one of my favourite artists, who is also one of NxQuantize's many influences, and a complex, rich and emotive track, just like his music. But a few weeks ago I listened to Oneohtrix Point Never's latest album, [<i>Again</i>](https://oneohtrixpointnever.bandcamp.com/album/again), released on Warp, and this track has been with me ever since. So it seemed like a good idea to finish with a gentle, experimental and liberating sentiment.**"**
 
 <p id="outroduction">That’s it for this morning folks! Thank you for joining us and many thanks to [NxQuantize](https://www.facebook.com/NxQuantize/)) for his dazzling selection and to [Noémie](noemiedijon.tumblr.com) for this episode's wonderful illustration. Have a great Sunday!</p>
