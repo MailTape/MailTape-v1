@@ -8,7 +8,7 @@ illustrator: Noémie Dijon
 writer: Jules
 guest_name: NxQuantize
 guest_color: trippy
-track1_title: Slauson Malone - Voyager
+track1_title: Slauson Malone 1 - Voyager
 track2_title: Earl Sweatshirt & The Alchemist - Mac Deuce
 track3_title: Everything But The Girl - Flipside
 episode_URL: 'https://www.mailta.pe/540/nxquantize/'
