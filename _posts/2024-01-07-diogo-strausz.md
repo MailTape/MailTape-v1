@@ -16,7 +16,7 @@ track2_title: Robson Jorge & Lincoln Olivetti - Suspira
 track2_color: bliss
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/542/track3.mp3'
 track3_title: Alaaska - Bangkok
-track3_color: dreamy
+track3_color: vibrant
 track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/542/track4.mp3'
 track4_title: Diogo Strausz - Flexível
 track4_color: trippy
