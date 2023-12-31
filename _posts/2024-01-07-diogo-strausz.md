@@ -30,6 +30,7 @@ track7_color: vibrant
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/542/track7.mp3'
 track7_title: Frantz Tuernal - Koultans
 episode_URL: 'https://www.mailta.pe/542/diogo-strausz/'
+musiColor: musiColor542.png
 ---
 <p id="introduction">
 	This morning, we welcome Marseille-based artist and electronic music producer [Diogo Strausz](https://diogostrausz.bandcamp.com/) to MailTape! 
