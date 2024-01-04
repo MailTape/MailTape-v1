@@ -86,4 +86,4 @@ Jules: **"****"**
 
 Jules: **"****"**
 
-<p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his dreamy groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. We wish you a great Sunday and a very blissful year!</p>
+<p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his enchanting groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. We wish you a great Sunday and a very blissful year!</p>
