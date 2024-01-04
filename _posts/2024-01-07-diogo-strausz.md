@@ -51,7 +51,7 @@ description: >-
 <p id="introduction">
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.
 <br><br>
-Today, we are thrilled to showcase the distinctive talents of the brilliant Brazilian producer, songwriter and multi-instrumentalist [Diogo Strausz](https://diogostrausz.bandcamp.com/). After releasing music with, among others, Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of Hot Chip or Gilles Peterson, Diogo released "Flight of Sagittarius", his first EP in France, in April 2022 with [Goutte d'Or Records](https://gouttedorrecords.bandcamp.com/). In this episode, prepare to be taken on a journey through a kaleidoscopic soundscape, between São Paulo, Paris and many other fantastic lands, between retro and neo, always with a sunny groove.
+Today, we are thrilled to showcase the distinctive talents of the brilliant Brazilian producer, songwriter and multi-instrumentalist [Diogo Strausz](https://diogostrausz.bandcamp.com/). After releasing music with, among others, Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of Hot Chip or Gilles Peterson, Diogo released <i>Flight of Sagittarius</i>, his first EP in France, in April 2022 with [Goutte d'Or Records](https://gouttedorrecords.bandcamp.com/). In this episode, prepare to be taken on a journey through a kaleidoscopic soundscape, between São Paulo, Paris and many other fantastic lands, between retro and neo, always with a sunny groove.
 </p>
 
 # Diogo Strausz's selection
@@ -76,7 +76,7 @@ Jules: **"**‘Flexível’ is [Diogo Strausz](https://diogostrausz.bandcamp.com
 
 ## Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
 
-Jules: **"****"**
+Jules: **"**This track is taken from <i>Onda De Amor: Synthesized Brazilian Hits That Never Were (1984-94)</i>,  a treasure trove of synth jams, pop, samba boogie, balearic and electro songs from 1980 & ‘90s Brazil compiled by Millos Kaiser and released on Soundway Records. **"**
 
 ## Charif Megarbane - Ya Salam
 
