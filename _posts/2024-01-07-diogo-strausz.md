@@ -58,21 +58,21 @@ Today, we are thrilled to showcase the distinctive talents of the brilliant Braz
 
 ## The Beatles - Here Comes The Sun
 
-Diogo Strausz: **"**It's mine and my wife's go-to song to start the day. It just makes us stare at each other and smile, the more we play the more fun it is.**"**
+Diogo: **"**It's mine and my wife's go-to song to start the day. It just makes us stare at each other and smile, the more we play the more fun it is.**"**
 
 ## Robson Jorge & Lincoln Olivetti - Suspira
 
-Diogo Strausz: **"**Brazilian Boogie is just the best to start the day. It's sunny, groovy and gives you the energy to do what you gotta do. Great for a full on Sunday, meet friends, take the dog out etc.**"**
+Diogo: **"**Brazilian Boogie is just the best to start the day. It's sunny, groovy and gives you the energy to do what you gotta do. Great for a full on Sunday, meet friends, take the dog out etc.**"**
 
-## Alaaska - Bangkok
+## [Alaaska](https://alaaska.bandcamp.com/) - Bangkok
 
-Diogo Strausz: **"**This is more for lazy Sundays, just preparing tea and enjoying having nothing to do (if possible).**"**
+Diogo: **"**This is more for lazy Sundays, just preparing tea and enjoying having nothing to do (if possible).**"**
 
 # MailTape's selection
 
 ## Diogo Strausz - Flexível
 
-Jules: **"****"**
+Jules: **"**‘Flexível’ is [Diogo Strausz](https://diogostrausz.bandcamp.com/)'s last single released in November 2023 on Goutte d'Or Records. He describes this track as his reinterpretation, with a Brazilian twist, of Nigerian music from the 70s, inspired by Afrobeat stars Tony Allen and Fela Kuti. If that doesn't make your mouth water, I don't know what will!**"**
 
 ## Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
 
@@ -86,4 +86,4 @@ Jules: **"****"**
 
 Jules: **"****"**
 
-<p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his dreamy groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. Have a great Sunday and a blissful year!</p>
+<p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his dreamy groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. We wish you a great Sunday and a very blissful year!</p>
