@@ -51,7 +51,7 @@ description: >-
 <p id="introduction">
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.
 <br><br>
-Today, we are thrilled to showcase the distinctive talents of the brilliant Brazilian producer, songwriter and multi-instrumentalist [Diogo Strausz](https://diogostrausz.bandcamp.com/). After releasing music with, among others, Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of Hot Chip or Gilles Peterson, Diogo released <i>Flight of Sagittarius</i>, his first EP in France, in April 2022 with [Goutte d'Or Records](https://gouttedorrecords.bandcamp.com/). In this episode, prepare to be taken on a journey through a kaleidoscopic soundscape, between São Paulo, Paris and many other fantastic lands, between retro and neo, always with a sunny groove.
+Today, we are thrilled to showcase the distinctive talents of the brilliant Brazilian producer, songwriter, and multi-instrumentalist [Diogo Strausz](https://diogostrausz.bandcamp.com/). After releasing music with, among others, Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of Hot Chip or Gilles Peterson, Diogo released <i>Flight of Sagittarius</i>, his first EP in France, in April 2022 with [Goutte d'Or Records](https://gouttedorrecords.bandcamp.com/). In this episode, prepare to be taken on a journey through a kaleidoscopic soundscape, between São Paulo, Paris, and many other fantastic lands, between retro and neo, always with a sunny groove.
 </p>
 
 # Diogo Strausz's selection
@@ -62,7 +62,7 @@ Diogo: **"**It's mine and my wife's go-to song to start the day. It just makes u
 
 ## Robson Jorge & Lincoln Olivetti - Suspira
 
-Diogo: **"**Brazilian Boogie is just the best to start the day. It's sunny, groovy and gives you the energy to do what you gotta do. Great for a full on Sunday, meet friends, take the dog out etc.**"**
+Diogo: **"**Brazilian Boogie is just the best to start the day. It's sunny and groovy and gives you the energy to do what you gotta do. Great for a full-on Sunday, meet friends, take the dog out, etc.**"**
 
 ## [Alaaska](https://alaaska.bandcamp.com/) - Bangkok
 
@@ -80,10 +80,10 @@ Jules: **"**This track is taken from the album <i>[Onda De Amor: Synthesized Bra
 
 ## Charif Megarbane - Ya Salam
 
-Jules: **"**This title from Beirut may seem like an unexpected stopover, did we get lost along the way? Not at all! Like Diogo Strausz, Charif Megarbane is a multi-instrumental producer who build bridges between different styles and synthesizes many influences from all around the Mediterranean such as Ziad Rahbani, Ahmed Malek or Issam Hajali. His last album <i>[Marzipan](https://habibifunkrecords.bandcamp.com/album/habibi-funk-023-marzipan)</i> is the first full length contemporary release of the Habibi Funk label. It reflects the beauty and diversity of Lebanon, between the sometimes chaotic energy of the crowded Beirut metropolis and the warm atmosphere of the Lebanese countryside.**"**
+Jules: **"**This title from Beirut may seem like an unexpected stopover, did we get lost along the way? Not at all! Like Diogo Strausz, Charif Megarbane is a multi-instrumental producer who builds bridges between different styles and synthesizes many influences from all around the Mediterranean such as Ziad Rahbani, Ahmed Malek, or Issam Hajali. His last album <i>[Marzipan](https://habibifunkrecords.bandcamp.com/album/habibi-funk-023-marzipan)</i> is the first full-length contemporary release of the Habibi Funk label. It reflects the beauty and diversity of Lebanon, between the sometimes chaotic energy of the crowded Beirut metropolis and the warm atmosphere of the Lebanese countryside.**"**
 
 ## Frantz Tuernal - Koultans
 
-Jules: **"**The last track of the day is another gem I found in the [Melodies Record Club](https://melodiesinternational.bandcamp.com/album/melodies-record-club-003-hunee-selects) compilation curated by the Korean DJ Hunee. It's a Zouk song with flamenco-inspired guitar playing from Martinique, originally released in 1986 by l’AMEP (Association Martiniquaise d’enseignement Populaire). According to Hunee, it's the perfect sound to look at the sun coming up in the morning, whether you're alone in your room or dancing in front of a DJ booth after a restless night. I'm willing to trust him on this one.**"**
+Jules: **"**The last track of the day is another gem I found in the [Melodies Record Club](https://melodiesinternational.bandcamp.com/album/melodies-record-club-003-hunee-selects) compilation curated by the Korean DJ Hunee. It's a Zouk song with flamenco-inspired guitar playing from Martinique, originally released in 1986 by self-taught guitarist Frantz Tuernal. According to Hunee, it's the perfect sound to look at the sun coming up in the morning, whether you're alone in your room or dancing in front of a DJ booth after a restless night. I'm willing to trust him on this one.**"**
 
 <p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his enchanting groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. We wish you a great Sunday and a very blissful year!</p>
