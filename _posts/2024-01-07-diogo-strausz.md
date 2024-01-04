@@ -72,11 +72,11 @@ Diogo: **"**This is more for lazy Sundays, just preparing tea and enjoying havin
 
 ## Diogo Strausz - Flexível
 
-Jules: **"**‘Flexível’ is [Diogo Strausz](https://diogostrausz.bandcamp.com/)'s last single released in November 2023 on Goutte d'Or Records. He describes this track as his reinterpretation, with a Brazilian twist, of Nigerian music from the 70s, inspired by Afrobeat stars Tony Allen and Fela Kuti. If that doesn't make your mouth water, I don't know what will!**"**
+Jules: **"**‘Flexível’ is [Diogo Strausz](https://diogostrausz.bandcamp.com/)'s last single released in November 2023 on Goutte d'Or Records. He describes this track as his reinterpretation, with a Brazilian twist, of Nigerian music from the '70s, inspired by Afrobeat stars Tony Allen and Fela Kuti. If that doesn't make your mouth water and your ears tingle, I don't know what will!**"**
 
 ## Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
 
-Jules: **"**This track is taken from <i>Onda De Amor: Synthesized Brazilian Hits That Never Were (1984-94)</i>,  a treasure trove of synth jams, pop, samba boogie, balearic and electro songs from 1980 & ‘90s Brazil compiled by Millos Kaiser and released on Soundway Records. **"**
+Jules: **"**This track is taken from the album <i>Onda De Amor: Synthesized Brazilian Hits That Never Were (1984-94)</i>, a treasure trove of synth jams, pop, samba boogie, balearic and electro songs from 1980 & ‘90s Brazil compiled by Millos Kaiser and released on Soundway Records. The title means "Free to fly" and is just perfect for gently continuing our musical journey.**"**
 
 ## Charif Megarbane - Ya Salam
 
