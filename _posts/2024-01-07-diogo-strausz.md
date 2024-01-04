@@ -31,6 +31,22 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/542/track7.mp3'
 track7_title: Frantz Tuernal - Koultans
 episode_URL: 'https://www.mailta.pe/542/diogo-strausz/'
 musiColor: musiColor542.png
+description: >-
+  This morning, as I opened my eyes in bed and let my gaze glide across the
+  ceiling of my bedroom, it seemed to me that something was missing. Was it a
+  little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a
+  bit of music to wake up my muscles, or the smell of coffee to get me out of
+  bed? In the end, it was a bit of all of the above, everything I love about
+  MailTape. So it's with great pleasure that we welcome you back for the first
+  episode of this new year. Today, we are thrilled to showcase the distinctive
+  talents of the brilliant Brazilian producer, songwriter and
+  multi-instrumentalist Diogo Strausz. After releasing music with, among others,
+  Razor N'tape and Far Out Records and drawing the attention of Joe Goddard of
+  Hot Chip or Gilles Peterson, Diogo released "Flight of Sagittarius", his first
+  EP in France, in April 2022 with Goutte d'Or Records. In this episode, prepare
+  to be taken on a journey through a kaleidoscopic soundscape, between São
+  Paulo, Paris and many other fantastic lands, between retro and neo, always
+  with a sunny groove.
 ---
 <p id="introduction">
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.
