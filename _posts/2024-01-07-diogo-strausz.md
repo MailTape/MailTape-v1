@@ -84,6 +84,6 @@ Jules: **"**This title from Beirut may seem like an unexpected stopover, did we 
 
 ## Frantz Tuernal - Koultans
 
-Jules: **"****"**
+Jules: **"**The last track of the day is another gem I found in the [Melodies Record Club](https://melodiesinternational.bandcamp.com/album/melodies-record-club-003-hunee-selects) compilation curated by the Korean DJ Hunee. It's a Zouk song with flamenco-inspired guitar playing from Martinique, originally released in 1986 by l’AMEP (Association Martiniquaise d’enseignement Populaire). According to Hunee, it's the perfect sound to look at the sun coming up in the morning, whether you're alone in your room or dancing in front of a DJ booth after a restless night. I'm willing to trust him on this one.**"**
 
 <p id="outroduction">That’s it for this morning, thank you for joining us! Much love to [Diogo Strausz](https://diogostrausz.bandcamp.com/) for kicking off this new year with his enchanting groovy selection and to [Camille](https://camillelemeunier.fr/) for her delightful illustration. We wish you a great Sunday and a very blissful year!</p>
