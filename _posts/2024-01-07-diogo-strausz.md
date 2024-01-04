@@ -76,11 +76,11 @@ Jules: **"**‘Flexível’ is [Diogo Strausz](https://diogostrausz.bandcamp.com
 
 ## Nanda Rossi - Livre Pra Voar (Millos Kaiser Edit)
 
-Jules: **"**This track is taken from the album <i>Onda De Amor: Synthesized Brazilian Hits That Never Were (1984-94)</i>, a treasure trove of synth jams, pop, samba boogie, balearic and electro songs from 1980 & ‘90s Brazil compiled by Millos Kaiser and released on Soundway Records. The title means "Free to fly" and is just perfect for gently continuing our musical journey.**"**
+Jules: **"**This track is taken from the album <i>[Onda De Amor: Synthesized Brazilian Hits That Never Were (1984-94)](https://soundwayrecords.bandcamp.com/album/onda-de-amor-synthesized-brazilian-hits-that-never-were-1984-94)</i>, a treasure trove of synth jams, pop, samba boogie, balearic and electro songs from 1980 & ‘90s Brazil compiled by Millos Kaiser and released on Soundway Records. The title means "Free to fly" and is just perfect for gently continuing our musical journey.**"**
 
 ## Charif Megarbane - Ya Salam
 
-Jules: **"****"**
+Jules: **"**This title from Beirut may seem like an unexpected stopover, did we get lost along the way? Not at all! Like Diogo Strausz, Charif Megarbane is a multi-instrumental producer who build bridges between different styles and synthesizes many influences from all around the Mediterranean such as Ziad Rahbani, Ahmed Malek or Issam Hajali. His last album <i>[Marzipan](https://habibifunkrecords.bandcamp.com/album/habibi-funk-023-marzipan)</i> is the first full length contemporary release of the Habibi Funk label. It reflects the beauty and diversity of Lebanon, between the sometimes chaotic energy of the crowded Beirut metropolis and the warm atmosphere of the Lebanese countryside.**"**
 
 ## Frantz Tuernal - Koultans
 
