@@ -1,7 +1,7 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
-published: false
+published: true
 author: Jules
 writer: Jules
 category: '542'
@@ -47,6 +47,8 @@ description: >-
   to be taken on a journey through a kaleidoscopic soundscape, between São
   Paulo, Paris and many other fantastic lands, between retro and neo, always
   with a sunny groove.
+guestPic: guestPic542.jpeg
+image: 'https://mailta.pe/img/fbPic542.png'
 ---
 <p id="introduction">
 This morning, as I opened my eyes in bed and let my gaze glide across the ceiling of my bedroom, it seemed to me that something was missing. Was it a little warmth, a few rays of sunshine to pierce the grey winter sky? Was it a bit of music to wake up my muscles, or the smell of coffee to get me out of bed? In the end, it was a bit of all of the above, everything I love about MailTape. So it's with great pleasure that we welcome you back for the first episode of this new year.
