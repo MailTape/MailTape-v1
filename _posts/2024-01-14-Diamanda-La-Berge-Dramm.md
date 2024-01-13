@@ -16,13 +16,13 @@ guestPic: guestPic543.jpg
 track1_title: Will Graefe - North America nr. 2
 track1_color: dreamy
 
-track2_title: caterina barbieri - Math of You 
+track2_title: Caterina Barbieri - Math of You 
 track2_color: trippy 
 
 track3_title: Luke Deane - Changed
 track3_color: bliss
 
-track4_title: Diamanda La Berge Dramm - Chimp - Chimp is who
+track4_title: Diamanda La Berge Dramm - Chimp is who
 track4_color: bliss 
 
 track5_title: Southeast of Rain 东南有雨 - Day 11 Three Pipe Percussionists 水管乐
@@ -46,10 +46,11 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/543/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/543/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/543/track7.mp3'
 
-description: xxx
+description: This morning, we're honored to welcome Diamanda La Berge Dramm as our guest. Known as one of the leading contemporary classical music performers of her generation, she unveils some of her precious musical gems in this episode—a selection filled with poetry, inventiveness, and a deep desire to embrace life.
 ---
 <p id="introduction">
-	xxx
+	This morning, we're welcoming [Diamanda La Berge Dramm](https://diamandadramm.com/) as our guest. Known as one of the leading contemporary classical music performers of her generation, I had the chance to discover her performing in recent pieces by Susanne Kennedy showcased in Paris. Her portrayal of Einstein in the famous opera piece *Einstein on the Beach*, composed by Philip Glass, was one of my musical highlights of 2023.
+	<br><br>It's a great honor to have her with us this morning, as she unveils some of her precious musical gems in this episode—a selection filled with poetry, inventiveness, and a deep desire to embrace life.
 </p>
 
 # Diamanda La Berge Dramm's selection
@@ -58,9 +59,9 @@ description: xxx
 
 **Diamanda La Berge Dramm**: **"**Will Graefe is a guitarist I went to school with who starting singing in recent years. I follow him because he tours with some of my favourite artists (eg Joan as Policewoman). His touch on the guitar is something I can’t quite describe, like a confidentiality - anyway, it’s a quality I aim for on the violin.**"**
 
-## [caterina barbieri](https://caterinabarbieri.bandcamp.com/album/myuthafoo) - Math of You 
+## [Caterina Barbieri](https://caterinabarbieri.bandcamp.com/album/myuthafoo) - Math of You 
 
-**Diamanda La Berge Dramm**: **"**caterina barbieri is an artist whose music I came across recently when I went to see the play EXTRA LIFE by Gisele Vienne. She wrote the music and it blew me away, so I’ve been listening to her since then.**"**
+**Diamanda La Berge Dramm**: **"**Caterina Barbieri is an artist whose music I came across recently when I went to see the play EXTRA LIFE by Gisele Vienne. She wrote the music and it blew me away, so I’ve been listening to her since then.**"**
 
 ## [Luke Deane](https://lukedeane.today/Footsteps-On-The-Wall) - Changed
 
@@ -70,18 +71,18 @@ description: xxx
 
 ## [Diamanda La Berge Dramm](https://diamandadramm.com/) - Chimp is who
 
-ImaCrea: **"**xx**"**
+ImaCrea: **"**This track comes from her first album, *Chimp*, resulting from a collaboration with UK poet SJ Fowler. Diamanda La Berge Dramm is taking us on a journey across new musical territories where all sounds made by living beings can mix with each other. An introduction to a world where the notions of *nature* and *culture* are intertwined, and the frontier between humans and animals, plants, bacteria... is fading away.**"**
 
 ## Southeast of Rain 东南有雨 - Day 11 Three Pipe Percussionists 水管乐
 
-ImaCrea: **"**xx**"**
+ImaCrea: **"**I find this piece by the duo Southeast of Rain fitting perfectly with the atmosphere set by the previous track. It's as if we continue walking in the forest drawn by Diamanda La Berge Dramm.**"**
 
 ## Ryuichi Sakamoto - Plastic Bamboo
 
-ImaCrea: **"**xx**"**
+ImaCrea: **"**The forest is showing acid colors like we've never seen before now. This track comes from the first album by Ryuichi Sakamoto, released just before he joined Yellow Magic Orchestra. A true visionary piece of electronic music that I can't stop listening to in a loop these days.**"**
 
 ## KONG - Yellow King Walking to Take Revenge
 
-ImaCrea: **"**xx**"**
+ImaCrea: **"**Are we seeing an exit? Or are we entering another forest? The tempo is different, the temperature is warmer. Let's keep walking. Always.**"**
 
-<p id="outroduction">That's a wrap for now, folks! We're grateful for your company, and we're excited to continue our journey in search of amazing music. Much love to [Léon Phal](https://leonphal.bandcamp.com/album/stress-killer) for his inspiring selection. And a big shout-out to [Anthony Dujardin](https://www.instagram.com/fromthegarden/) for his remarkable illustration – your talent is truly appreciated! See you next Sunday.</p>
+<p id="outroduction">And that's a wrap, everyone! We appreciate your company and can't wait to embark on the next leg of our musical journey. Special thanks to [Diamanda La Berge Dramm](https://diamandadramm.com/) for sharing her inspiring selection. A huge shout-out to the talented [Camille Celestin](https://www.instagram.com/bravocamo/) for her remarkable illustration! Until next Sunday, stay tuned.</p>
