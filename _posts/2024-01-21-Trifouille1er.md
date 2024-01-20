@@ -73,7 +73,7 @@ Anto: **"**Stay calm no stress, this song is a happy mess. And this is what we l
 ## Patricia Taxxon – Gnaw
 
 Anto: **"**Be ready, it is not impossible that one of the next episodes will be devoted to the universe of this artist in which it is difficult not to get lost. His latest EP was released two weeks ago, adding to the 75 others that we counted on his bandcamp (!!). Yes, she is productive, that’s saying something.
-So the choice is yours, there is something for all tastes. Here, for example, with Gnaw, we have a slightly dark piece, which grabs us by the collar to slap us in the face a few times. It may seem violent but no, listen carefully, there is something hidden behind this apparent brutality.**"**
+<br>So the choice is yours, there is something for all tastes. Here, for example, with Gnaw, we have a slightly dark piece, which grabs us by the collar to slap us in the face a few times. It may seem violent but no, listen carefully, there is something hidden behind this apparent brutality.**"**
 
 ## Ko Shin Moon – Konyali
 
@@ -82,7 +82,7 @@ Anto: **"**This time we are going into an oriental delirium. The picture is diff
 ## Robert Le Magnifique – Reulf
 
 Anto: **"**OK, I've been holding back for a long time not to put one of this genius artist's pieces somewhere, but it had to come out! Since we're talking about patchwork, Robert’s music is the very definition of variegated, even if it’s all within the same track. Reulf is the perfect example. There are scratchs, a few samples distilled here and there, very angry riffs and some notes that wander innocently as if they were saying "don't pay attention to everything around, follow us, take our hand and don’t let go of it under any circumstances.”
-If anyone has Robert's number, send it to us. We are desperate to invite him for a further episode.**"**
+<br>If anyone has Robert's number, send it to us. We are desperate to invite him for a further episode.**"**
 
 <p id="outroduction">That’s it, you rascals!
 You’re still here? Damn, we didn't manage to sow you in the maze of the different universes that we crossed this morning.
