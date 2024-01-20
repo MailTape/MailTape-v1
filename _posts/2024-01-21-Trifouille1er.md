@@ -57,7 +57,7 @@ Will you be able to find them?
 
 ## Siriusmo  - Always Du
 
-**I've been listening to Siriusmo a lot for a few years now, and I still can't get enough of it. It's really the aesthetic of electronic music that I find myself deeply in. I’st super fine, and very fun. There are always little surprises, stupid sounds. You feel that he is someone who must have a lot of fun making his productions. There are always very nice harmonic atmospheres, it oscillates between sad nostalgia and very pushy things. Frankly, most of his tracks are little nuggets, and incidentally very good DJ tricks. Test them in club and tell me what you think. Oh, and it's so well mixed, the production is really very high quality, everything blends together really well. In short I'm a fan.**"**
+**Trifouille1er**: **"**I've been listening to Siriusmo a lot for a few years now, and I still can't get enough of it. It's really the aesthetic of electronic music that I find myself deeply in. I’st super fine, and very fun. There are always little surprises, stupid sounds. You feel that he is someone who must have a lot of fun making his productions. There are always very nice harmonic atmospheres, it oscillates between sad nostalgia and very pushy things. Frankly, most of his tracks are little nuggets, and incidentally very good DJ tricks. Test them in club and tell me what you think. Oh, and it's so well mixed, the production is really very high quality, everything blends together really well. In short I'm a fan.**"**
 
 ## Ivy Lab - Cake
 
