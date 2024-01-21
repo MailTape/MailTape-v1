@@ -8,7 +8,7 @@ writer: Anto
 category: '544'
 guest_name: Trifouille1er
 guest_color: vibrant
-guestPic: guestPic544.jpg
+guestPic: guestPic544.png
 track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/544/track1.mp3'
 track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/544/track2.mp3'
 track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/544/track3.mp3'
