@@ -45,7 +45,7 @@ description: >-
 <p id="introduction">
 	Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.
 <br><br>Then, the game will be to identify all the sonorities proposed in the following seven tracks. Be careful, some are subtly hidden in the middle of melodies that are alternately raw or light, sometimes behind several layers that you can't circumvent... You will probably not be able to uncover them all from the first listen, but we trust your expert ears to find your way in this musical mosaic made of flashy and varied colors.
-<br><br>We owe this where’s Wally/Waldo? (où est Charlie en français) of a somewhat new genre to our guest: Trifouille1er, whose electronic compositions are in the form of brightly colored stained glass windows. It's hard to miss his work as it detonates. However, for a few years now he has been working more or less discreetly, for a time alongside Cadillac, more recently featuring the Puppetmastaz, and throughout three EPs hidden somewhere on the Internet…
+<br><br>We owe this where’s Wally/Waldo? (où est Charlie en français) of a somewhat new genre to our guest: [Trifouille1er](https://trifouille1er.bandcamp.com/), whose electronic compositions are in the form of brightly colored stained glass windows. It's hard to miss his work as it detonates. However, for a few years now he has been working more or less discreetly, for a time alongside Cadillac, more recently featuring the Puppetmastaz, and throughout three EPs hidden somewhere on the Internet…
 <br>Will you be able to find them?
 </p>
 
@@ -66,7 +66,7 @@ First part of the song is super groovy, perfect for dancing any way. And the sec
 
 # MailTape's selection
 
-## Trifouille1er - Bronto Porn
+## [Trifouille1er](https://trifouille1er.bandcamp.com/) - Bronto Porn
 
 Anto: **"**Stay calm no stress, this song is a happy mess. And this is what we like about Trifouille's work. We think we're lost in the middle of a whole bunch of different sounds and yet there is an unstoppable groove that accompanies us throughout. It's impossible to be worried. We could let ourselves be destabilized by this feeling of dispersion, the fact that it goes in all directions, but instead, there is an overall coherence which is as tasty as it's brilliant. The kind of song that put a smile on your face from nowhere. Maybe it's this kind of carefreeness that seems paradoxically very diligent, or maybe it's the irresistible little touch of fun and stupidity that we can't help but love...**"**
 
