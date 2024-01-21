@@ -51,15 +51,15 @@ description: >-
 
 # Trifouille1er's selection
 
-## Mauskovic dance band - Dance place garage
+## [Mauskovic dance band](https://mauskovicdanceband.bandcamp.com/) - Dance place garage
 
 **Trifouille1er**: **"**I don't remember how I discovered Mauskovic dance band. I may have gotten there through the Meridian Brothers, or through Orchestra of Spheres, which I also love. It's a group from Amsterdam that makes super danceable music: it's a party. A successful fusion between very psychedelic things, latin influences, disco...**"**
 
-## Siriusmo  - Always Du
+## [Siriusmo](https://siriusmomusic.bandcamp.com)  - Always Du
 
 **Trifouille1er**: **"**I've been listening to Siriusmo a lot for a few years now, and I still can't get enough of it. It's really the aesthetic of electronic music that I find myself deeply in. I’st super fine, and very fun. There are always little surprises, stupid sounds. You feel that he is someone who must have a lot of fun making his productions. There are always very nice harmonic atmospheres, it oscillates between sad nostalgia and very pushy things. Frankly, most of his tracks are little nuggets, and incidentally very good DJ tricks. Test them in club and tell me what you think. Oh, and it's so well mixed, the production is really very high quality, everything blends together really well. In short I'm a fan.**"**
 
-## Ivy Lab - Cake
+## [Ivy Lab](https://ivylab.bandcamp.com) - Cake
 
 **Trifouille1er**: **"**Okay, there you have it, the biggest drop in the galaxy. It's very well done, and it always gives you chills. “Boy I gat my mind on cake” SPLLLAAAAA
 First part of the song is super groovy, perfect for dancing any way. And the second is very beautiful, with well-felt little synth arpeggios, it's a 10/10. I really like this English and American bass music scene, which makes hip hop productions very "off beat", with unusual grooves. I'm thinking of Foreign Beggars, G Jones, Chee, Eprom, Little Snake, Two fingers...**"**
