@@ -70,21 +70,21 @@ First part of the song is super groovy, perfect for dancing any way. And the sec
 
 Anto: **"**Stay calm no stress, this song is a happy mess. And this is what we like about Trifouille's work. We think we're lost in the middle of a whole bunch of different sounds and yet there is an unstoppable groove that accompanies us throughout. It's impossible to be worried. We could let ourselves be destabilized by this feeling of dispersion, the fact that it goes in all directions, but instead, there is an overall coherence which is as tasty as it's brilliant. The kind of song that put a smile on your face from nowhere. Maybe it's this kind of carefreeness that seems paradoxically very diligent, or maybe it's the irresistible little touch of fun and stupidity that we can't help but love...**"**
 
-## Patricia Taxxon – Gnaw
+## [Patricia Taxxon](https://patriciataxxon.bandcamp.com/) – Gnaw
 
 Anto: **"**Be ready, it is not impossible that one of the next episodes will be devoted to the universe of this artist in which it is difficult not to get lost. His latest EP was released two weeks ago, adding to the 75 others that we counted on his bandcamp (!!). Yes, she is productive, that’s saying something.
 <br>So the choice is yours, there is something for all tastes. Here, for example, with Gnaw, we have a slightly dark piece, which grabs us by the collar to slap us in the face a few times. It may seem violent but no, listen carefully, there is something hidden behind this apparent brutality.**"**
 
-## Ko Shin Moon – Konyali
+## [Ko Shin Moon](https://koshinmoon.bandcamp.com/) – Konyali
 
 Anto: **"**This time we are going into an oriental delirium. The picture is different, it bursts with color, as if we were parading under the sun, in the middle of a foreign alley, with new instruments emerging from everywhere. It’s a celebration, everyone is laughing. We get lost in a joyful crowd where everyone plays their part, even the less virtuosos who just clap their hands. This track is made by a duo who mixes almost chemical synths with exotic traditional instruments to produce a large mosaic with a warm aesthetic.**"**
 
-## Robert Le Magnifique – Reulf
+## [Robert Le Magnifique](https://robertlemagnifique.bandcamp.com) – Reulf
 
 Anto: **"**OK, I've been holding back for a long time not to put one of this genius artist's pieces somewhere, but it had to come out! Since we're talking about patchwork, Robert’s music is the very definition of variegated, even if it’s all within the same track. Reulf is the perfect example. There are scratchs, a few samples distilled here and there, very angry riffs and some notes that wander innocently as if they were saying "don't pay attention to everything around, follow us, take our hand and don’t let go of it under any circumstances.”
 <br>If anyone has Robert's number, send it to us. We are desperate to invite him for a further episode.**"**
 
 <p id="outroduction">That’s it, you rascals!
 <br>You’re still here? Damn, it means that we didn't manage to sow you in the maze of the different universes that we crossed this morning x)
-<br>Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to Trifouille1er for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
+<br>Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to [Trifouille1er](https://trifouille1er.bandcamp.com/) for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
 <br>See you next Sunday!</p>
