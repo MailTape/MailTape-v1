@@ -44,9 +44,9 @@ description: >-
 ---
 <p id="introduction">
 	Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.
-<br><br>Then, the game will be to identify all the sonorities proposed in the following seven tracks. Be careful, some are subtly hidden in the middle of melodies that are sometimes raw, sometimes light, sometimes behind several layers that could not be more obvious... You will probably not be able to uncover them all from the first listen, but we trust your expert ears to find your way in this musical mosaic made of flashy and varied colors.
+<br><br>Then, the game will be to identify all the sonorities proposed in the following seven tracks. Be careful, some are subtly hidden in the middle of melodies that are alternately light, sometimes behind several layers that could not be more obvious... You will probably not be able to uncover them all from the first listen, but we trust your expert ears to find your way in this musical mosaic made of flashy and varied colors.
 <br><br>We owe this where’s Wally/Waldo? (où est Charlie en français) of a somewhat new genre to our guest: Trifouille1er, whose electronic compositions are in the form of brightly colored stained glass windows. It's hard to miss his work as it detonates. However, for a few years now he has been working more or less discreetly, for a time alongside Cadillac, more recently featuring the Puppetmastaz, and throughout three EPs hidden somewhere on the Internet…
-Will you be able to find them?
+<br>Will you be able to find them?
 </p>
 
 # Trifouille1er's selection
