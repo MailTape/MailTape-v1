@@ -85,6 +85,6 @@ Anto: **"**OK, I've been holding back for a long time not to put one of this gen
 <br>If anyone has Robert's number, send it to us. We are desperate to invite him for a further episode.**"**
 
 <p id="outroduction">That’s it, you rascals!
-You’re still here? Damn, we didn't manage to sow you in the maze of the different universes that we crossed this morning.
-Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to Trifouille1er for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
+<br>You’re still here? Damn, we didn't manage to sow you in the maze of the different universes that we crossed this morning.
+<br>Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to Trifouille1er for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
 See you next Sunday!</p>
