@@ -86,5 +86,5 @@ Anto: **"**OK, I've been holding back for a long time not to put one of this gen
 
 <p id="outroduction">That’s it, you rascals!
 <br>You’re still here? Damn, it means that we didn't manage to sow you in the maze of the different universes that we crossed this morning x)
-<br>Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to [Trifouille1er](https://trifouille1er.bandcamp.com/) for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
+<br>Many thanks to [Meriam](https://www.instagram.com/___meriamk___/) for her inspiration on this wonderful illustration. Thanks to [Trifouille1er](https://trifouille1er.bandcamp.com/) for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
 <br>See you next Sunday!</p>
