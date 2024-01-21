@@ -45,7 +45,7 @@ description: >-
 <p id="introduction">
 	Patchwork! This morning we offer you a fun activity with this new Sunday playlist. All you have to do is 1- settle into your best sofa, 2- plug in your headset (since this is the best way to listen a Mail Tape selection) and 3- start playback of today's episode. Well, actually it also works if you play it on your amp while you make yourself a coffee or you put on your running shoes. We are not sectarian at Mail Tape. All means are good to swallow your rations of good vibes.
 <br><br>Then, the game will be to identify all the sonorities proposed in the following seven tracks. Be careful, some are subtly hidden in the middle of melodies that are alternately raw or light, sometimes behind several layers that you can't circumvent... You will probably not be able to uncover them all from the first listen, but we trust your expert ears to find your way in this musical mosaic made of flashy and varied colors.
-<br><br>We owe this where’s Wally/Waldo? (où est Charlie en français) of a somewhat new genre to our guest: [Trifouille1er](https://trifouille1er.bandcamp.com/), whose electronic compositions are in the form of brightly colored stained glass windows. It's hard to miss his work as it detonates. However, for a few years now he has been working more or less discreetly, for a time alongside Cadillac, more recently featuring the Puppetmastaz, and throughout three EPs hidden somewhere on the Internet…
+<br><br>We owe this where’s Wally/Waldo? (où est Charlie en français) of a somewhat new genre to our guest: [Trifouille1er](https://trifouille1er.bandcamp.com/), whose electronic compositions are in the form of brightly colored stained glass windows. It's hard to miss his work as it detonates. However, for a few years now he has been working more or less discreetly, for a time alongside [Cadillac](https://www.instagram.com/p/B2y9lCeinZC/), more recently featuring the [Puppetmastaz](https://www.youtube.com/watch?v=QBNIJEQciMI), and throughout three EPs hidden somewhere on the Internet…
 <br>Will you be able to find them?
 </p>
 
@@ -85,6 +85,6 @@ Anto: **"**OK, I've been holding back for a long time not to put one of this gen
 <br>If anyone has Robert's number, send it to us. We are desperate to invite him for a further episode.**"**
 
 <p id="outroduction">That’s it, you rascals!
-<br>You’re still here? Damn, we didn't manage to sow you in the maze of the different universes that we crossed this morning x)
+<br>You’re still here? Damn, it means that we didn't manage to sow you in the maze of the different universes that we crossed this morning x)
 <br>Many thanks to Meriam for her inspiration on this wonderful illustration. Thanks to Trifouille1er for playing along and offering three tracks so stylish. Thanks also to ImaCrea for the technical help. This episode is one of the beautiful things that can result of a humble collaboration between enthusiasts fellows.
 <br>See you next Sunday!</p>
