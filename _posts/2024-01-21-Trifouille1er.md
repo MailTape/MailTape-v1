@@ -72,7 +72,7 @@ Anto: **"**Stay calm no stress, this song is a happy mess. And this is what we l
 
 ## [Patricia Taxxon](https://patriciataxxon.bandcamp.com/) – Gnaw
 
-Anto: **"**Be ready, it is not impossible that one of the next episodes will be devoted to the universe of this artist in which it is difficult not to get lost. His latest EP was released two weeks ago, adding to the 75 others that we counted on his bandcamp (!!). Yes, she is productive, that’s saying something.
+Anto: **"**Be ready, it is not impossible that one of the next episodes will be devoted to the universe of this artist in which it is difficult not to get lost. Her latest EP was released two weeks ago, adding to the 75 others that we counted on her bandcamp (!!). Yes, she is productive, that’s saying something.
 <br>So the choice is yours, there is something for all tastes. Here, for example, with Gnaw, we have a slightly dark piece, which grabs us by the collar to slap us in the face a few times. It may seem violent but no, listen carefully, there is something hidden behind this apparent brutality.**"**
 
 ## [Ko Shin Moon](https://koshinmoon.bandcamp.com/) – Konyali
