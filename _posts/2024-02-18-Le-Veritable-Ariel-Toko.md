@@ -1,6 +1,42 @@
 ---
 layout: episode
 bigTitle_font_ratio: '6'
+author: Anto
+illustrator: Camille Lemeunier
+writer: Anto
+category: '547'
+guest_name: Le Véritable Ariel Toko
+guest_color: bliss
+guestPic: guestPic547.jpg
+track1_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track1.mp3'
+track2_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track2.mp3'
+track3_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track3.mp3'
+track4_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track4.mp3'
+track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track5.mp3'
+track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track6.mp3'
+track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/547/track7.mp3'
+track1_title: City Boys Band - Nye Asem Hwe
+track1_color: bliss
+track2_color: vibrant
+track3_color: bliss
+track4_color: trippy
+track5_color: vibrant
+track6_color: trippy
+track7_color: bliss
+track2_title: Peter Herbolzheimer - Nerve Wrecker
+track3_title: Ebo Taylor - Love and Death
+track4_title: Le Véritable Ariel Toko – Highwar
+track5_title: Ekambi Brillant – Aboki
+track6_title: Conjunto Son San - A Pilha La Roz
+track7_title: Black Masters Band - Wonnim A Bisa
+episode_URL: 'https://www.mailta.pe/547/le-veritable-ariel-toko/'
+image: 'https://mailta.pe/img/fbPic547.jpg'
+musiColor: musiColor547.png
+description: >-
+  This morning, we follow in the footsteps of irresistible music synonymous with
+  softness and heat. If Africa is the birthplace of humankind, we will see in
+  this episode that it has also pampered some rhythms which continue to inspire
+  artists from around the world.
 ---
 <p id="introduction">
 	This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.
