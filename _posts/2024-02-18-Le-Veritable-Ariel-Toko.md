@@ -37,7 +37,6 @@ description: >-
   softness and heat. If Africa is the birthplace of humankind, we will see in
   this episode that it has also pampered some rhythms which continue to inspire
   artists from around the world.
-published: false
 ---
 <p id="introduction">
 	This morning, we follow in the footsteps of irresistible music synonymous with softness and heat. If Africa is the birthplace of humankind, we will see in this episode that it has also pampered some rhythms which continue to inspire artists from around the world.
