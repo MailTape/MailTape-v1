@@ -30,7 +30,7 @@ track5_title: Ekambi Brillant – Aboki
 track6_title: Conjunto Son San - A Pilha La Roz
 track7_title: Black Masters Band - Wonnim A Bisa
 episode_URL: 'https://www.mailta.pe/547/le-veritable-ariel-toko/'
-image: 'https://mailta.pe/img/fbPic547.jpg'
+image: 'https://mailta.pe/img/fbPic547.png'
 musiColor: musiColor547.png
 description: >-
   This morning, we follow in the footsteps of irresistible music synonymous with
