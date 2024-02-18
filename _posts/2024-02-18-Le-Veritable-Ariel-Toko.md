@@ -76,7 +76,7 @@ Anto: **"**We stay in the 70s, but this time we change continent to land in Sout
 Anto: **"**Back to Ghana with this little gem that we felt obliged to place in this selection as it seems iconic of the highlife style. What is fascinating about this song is this energetic intro, this very sunny guitar riff which paradoxically turns to melancholy just a few seconds later. The voice supports what seems to be a sort of complaint, as if the author wanted to tell us the inevitability of a somewhat sad story, without losing a certain energy synonymous with survival. A song that symbolizes Africa in itself.**"**
 
 <p id="outroduction">That's all for today.
-We thank [Le Véritable Ariel Toko](leveritablearieltoko.bandcamp.com) for taking the time to give us some delights that will certainly brighten up our Sunday afternoon. Here is another unique and original episode, that owes a lot to Camille Lemeunier and her wonderful illustration.
+We thank [Le Véritable Ariel Toko](leveritablearieltoko.bandcamp.com) for taking the time to give us some delights that will certainly brighten up our Sunday afternoon. Here is another unique and original episode, that owes a lot to [Camille Lemeunier](https://camillelemeunier.fr/) and her wonderful illustration.
 <br><br>
 Don’t forget that we’ll see you on March 29 in Paris for a Mail Tape live session.
 More info are coming soon!</p>
