@@ -11,7 +11,7 @@ category: '548'
 
 guest_name: Holy Tongue
 guest_color: trippy
-guestPic: guestPic548.png
+guestPic: guestPic548.jpg
 
 track1_title: Astrid Øster Mortensen - Solen Er Et Lille Hus
 track1_color: trippy
