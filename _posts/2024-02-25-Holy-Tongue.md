@@ -78,11 +78,11 @@ today. Their ethereal, entrancing music has captivated audiences worldwide, and 
 **ImaCrea**: **"**It's been a while since I was waiting for the right moment to delve into this album. Having Holy Tongue as our guest and listening to their selection, I felt the moment was perfect for it. What a ride, very intense. This track comes from his album [No Man's 
 Land](https://tower.jp/item/3879763/NO-MAN'S-LAND-MasanLand), where he plays JacobTV's tracks. I picked this one for its progressive build-up and cathartic explosion.**"**
 
-## Charmaine Lee - False Gravity
+## [Charmaine Lee](https://erratum.bandcamp.com/album/knvf) - False Gravity
 
 **ImaCrea**: **"**I discovered Charmaine Lee's music as I was exploring latest releases by french label [Erratum Musical](https://erratum.bandcamp.com/). Her amazing experimental composition, and true mastery of the ability of human voice.**"**
 
-## Chafouin - En mode Glass
+## [Chafouin](https://chafouin.bandcamp.com/album/trois-quatre) - En mode Glass
 
 **ImaCrea**: **"**I listened a lot to their album [In C](https://chafouin.bandcamp.com/album/in-c-3) where they play Terry Riley recently. And in the context of curating this episode, I discovered their latest album, [Trois, quatre](https://chafouin.bandcamp.com/album/trois-quatre). This track melting together vibes from contemporary music and progressive rock is a masterpiece.**"**
 
