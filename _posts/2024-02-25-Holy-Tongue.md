@@ -80,7 +80,7 @@ Land](https://tower.jp/item/3879763/NO-MAN'S-LAND-MasanLand), where he plays Jac
 
 ## Charmaine Lee - False Gravity
 
-**ImaCrea**: **"**I discovered Charmaine Lee's music as I was exploring latest releases by french label [Erratum Musical](https://erratum.bandcamp.com/). Amazing experimental composition, and true mastery of the ability of human voice.**"**
+**ImaCrea**: **"**I discovered Charmaine Lee's music as I was exploring latest releases by french label [Erratum Musical](https://erratum.bandcamp.com/). Her amazing experimental composition, and true mastery of the ability of human voice.**"**
 
 ## Chafouin - En mode Glass
 
