@@ -11,7 +11,7 @@ category: '548'
 
 guest_name: Holy Tongue
 guest_color: trippy
-guestPic: guestPic548.jpg
+guestPic: guestPic548.png
 
 track1_title: Astrid Øster Mortensen - Solen Er Et Lille Hus
 track1_color: trippy
@@ -49,10 +49,11 @@ track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/548/track7.mp3'
 description: xx
 ---
 <p id="introduction">
-	xx
+We're overjoyed to welcome [Holy Tongue](https://amidahrecords.bandcamp.com/album/deliveTongue) as our guests 
+today. Their ethereal, entrancing music has captivated audiences worldwide, and we're honored to have them share their picks from some of their most cherished albums. Expect a cathartic episode filled with otherworldly sounds, hypnotic rhythms, and moments of pure transcendence. The river of sound is about to flow wildly, let's embark on this sonic journey together!
 </p>
 
-# Holy Tongues's selection
+# Holy Tongue's selection
 
 ## [Astrid Øster Mortensen](https://astridostermortensen.bandcamp.com/album/gro-mig-en-blomst) - Solen Er Et Lille Hus
 
@@ -68,20 +69,21 @@ description: xx
 
 # MailTape's selection
 
-## Holy Tongue - Joachim
+## [Holy Tongue](https://amidahrecords.bandcamp.com/album/deliveTongue) - Joachim
 
-ImaCrea: **"**xx**"**
+**ImaCrea**: **"**This track comes from their latest album, [Deliverance And Spiritual Warfare](https://amidahrecords.bandcamp.com/album/delivWarfare). I find it very hypnotic. I love how each of their albums is a new page and explores different musical landscapes in a unique way. This one is particularly introspective, able to trigger moments of revelation and vivid visualization. Their generosity and passion can be clearly heard, and I highly recommend seeing them live if you have the opportunity.**"**
 
-## Masanori Oishi - Tatatata Duo
+## [Masanori Oishi](http://www.m-oishi.com) - Tatatata Duo
 
-ImaCrea: **"**xx**"**
+**ImaCrea**: **"**It's been a while since I was waiting for the right moment to delve into this album. Having Holy Tongue as our guest and listening to their selection, I felt the moment was perfect for it. What a ride, very intense. This track comes from his album [No Man's 
+Land](https://tower.jp/item/3879763/NO-MAN'S-LAND-MasanLand), where he plays JacobTV's tracks. I picked this one for its progressive build-up and cathartic explosion.**"**
 
 ## Charmaine Lee - False Gravity
 
-ImaCrea: **"**xx**"**
+**ImaCrea**: **"**I discovered Charmaine Lee's music as I was exploring latest releases by french label [Erratum Musical](https://erratum.bandcamp.com/). Amazing experimental composition, and true mastery of the ability of human voice.**"**
 
 ## Chafouin - En mode Glass
 
-ImaCrea: **"**xx**"**
+**ImaCrea**: **"**I listened a lot to their album [In C](https://chafouin.bandcamp.com/album/in-c-3) where they play Terry Riley recently. And in the context of curating this episode, I discovered their latest album, [Trois, quatre](https://chafouin.bandcamp.com/album/trois-quatre). This track melting together vibes from contemporary music and progressive rock is a masterpiece.**"**
 
 <p id="outroduction">That's all folks! Thanks for being with us. **If you plan to be in Paris on march the 29th, book your evening as there's a suprise cooking...**  XX Until next Sunday, stay tuned.</p>
