@@ -4,7 +4,7 @@ bigTitle_font_ratio: '6'
 published: true
 
 author: ImaCrea 
-illustrator: Lucie Fléty
+illustrator: Patricia de Miranda
 writer: ImaCrea
 
 category: '548'
@@ -46,7 +46,7 @@ track5_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/548/track5.mp3'
 track6_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/548/track6.mp3'
 track7_link: 'https://mtsounds.s3.eu-central-1.wasabisys.com/548/track7.mp3'
 
-description: xx
+description: We're overjoyed to welcome Holy Tongue as our guests today. Their ethereal, entrancing music has captivated audiences worldwide, and we're honored to have them share their picks from some of their most cherished albums. Expect a cathartic episode filled with otherworldly sounds, hypnotic rhythms, and moments of pure transcendence. The river of sound is about to flow wildly, let's embark on this sonic journey together!
 ---
 <p id="introduction">
 We're overjoyed to welcome [Holy Tongue](https://amidahrecords.bandcamp.com/album/deliveTongue) as our guests 
@@ -86,4 +86,4 @@ Land](https://tower.jp/item/3879763/NO-MAN'S-LAND-MasanLand), where he plays Jac
 
 **ImaCrea**: **"**I listened a lot to their album [In C](https://chafouin.bandcamp.com/album/in-c-3) where they play Terry Riley recently. And in the context of curating this episode, I discovered their latest album, [Trois, quatre](https://chafouin.bandcamp.com/album/trois-quatre). This track melting together vibes from contemporary music and progressive rock is a masterpiece.**"**
 
-<p id="outroduction">That's all folks! Thanks for being with us. **If you plan to be in Paris on march the 29th, book your evening as there's a suprise cooking...**  XX Until next Sunday, stay tuned.</p>
+<p id="outroduction">That's all folks! Thanks for being with us. **If you plan to be in Paris on march the 29th, book your evening... More info very very soon, watch your emails!** A thousand thanks for Valentina, Allen and Susumu from Holy Tongue. Lots of gratitude to [Patricia](https://www.instagram.com/olharesfuturos/) for her catchy illustration. Until next Sunday, stay tuned.</p>
