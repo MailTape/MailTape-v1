@@ -10,7 +10,7 @@ timezone: Europe/Paris
 paginate: 12
 future: true
 
-include: ['.htaccess','_headers']
+include: ['.htaccess','_headers','_redirects']
 
 ## kramdown config to force interpretation into html block
 kramdown:
