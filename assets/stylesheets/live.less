@@ -1,0 +1,48 @@
+@import "reference.less";
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+    
+    .livebar {
+        top: 1rem;
+        position: absolute;
+        width: 45vw;
+        right: 0;
+        .rounded-corners;
+        border-top-right-radius: 0;
+        border-bottom-right-radius: 0;
+        z-index: 50;
+    }
+
+    .only-desktop {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .livebar {
+        width: 100vw;
+    }
+}
+
+.livebar {
+    font-size: 0.6rem;
+    background: @vibrant;
+    height: auto;
+    padding: 0.1rem;
+    font-family: 'superspitze_groteskregular';
+    .transition;
+
+    &:hover {
+        background: @dreamy;
+    }
+
+    a{
+        padding: 0;
+    }
+    a 
+
+    p {
+        margin: 0.1rem auto;
+        text-align: center;
+    }
+}
